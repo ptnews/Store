@@ -18,6 +18,7 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
         with:
+          submodules: true
           # Fetch all history for .GitInfo and .Lastmod
           fetch-depth: 0
 
