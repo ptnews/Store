@@ -1,0 +1,7 @@
+https://news.google.com/rss/topics/CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx1YlY4U0FtVnVHZ0pWVXlnQVAB?hl=en-US&gl=US&ceid=US:en
+https://news.yahoo.com/rss/world
+https://feeds.foxnews.com/foxnews/latest
+https://feeds.foxnews.com/foxnews/world
+http://feeds.bbci.co.uk/news/world/rss.xml
+https://www.aljazeera.com/xml/rss/all.xml
+https://rss.dw.com/rdf/rss-en-all

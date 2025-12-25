@@ -1,0 +1,44 @@
+relativeURLs = true
+baseURL = "https://ptnews.store/"
+languageCode = "en-us"
+title = "PTNews Store – Latest World News"
+theme = "PaperMod"
+
+[params]
+  title = "PTNews Store"
+  description = "Latest world news from multiple trusted sources"
+
+[outputs]
+  home = ["HTML", "RSS", "JSON"]
+
+[permalinks]
+  news = "/:slug/"
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
+[[menu.main]]
+    identifier = "home"
+    name = "Home"
+    url = "/"
+    weight = 10
+
+[[menu.main]]
+    identifier = "about"
+    name = "About"
+    url = "/about/"
+    weight = 20
+
+[[menu.main]]
+    identifier = "contact"
+    name = "Contact"
+    url = "/contact-us/"
+    weight = 30
+
+[[menu.main]]
+    identifier = "privacy"
+    name = "Privacy Policy"
+    url = "/privacy-policy/"
+    weight = 40

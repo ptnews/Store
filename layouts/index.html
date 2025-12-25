@@ -1,0 +1,169 @@
+{{ define "main" }}
+<h1 id="page-title">PTNews Store – Latest World News</h1>
+
+<style>
+  #search {
+    width: 100%;
+    padding: 12px;
+    font-size: 1.2em;
+    margin: 20px 0;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    box-sizing: border-box;
+  }
+  .read-more-btn {
+    display: inline-block;
+    padding: 8px 12px;
+    background-color: #007bff;
+    color: white;
+    text-decoration: none;
+    border-radius: 4px;
+    margin-top: 10px;
+  }
+  #pagination-controls {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    padding: 20px 0;
+  }
+  .pagination-btn {
+    padding: 8px 16px;
+    margin: 4px;
+    border: 1px solid #ccc;
+    background-color: #fff;
+    color: #007bff;
+    text-decoration: none;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+  .pagination-btn.active {
+    background-color: #007bff;
+    color: white;
+    border-color: #007bff;
+  }
+   .pagination-btn:disabled {
+    color: #999;
+    cursor: not-allowed;
+    background-color: #f0f0f0;
+  }
+</style>
+
+<input type="text" id="search" placeholder="Search all articles..." aria-label="Search news">
+
+
+<main id="main" aria-labelledby="page-title">
+  <ul id="news-container" style="list-style:none;padding:0;"></ul>
+</main>
+
+<div id="pagination-controls-bottom" role="navigation" aria-label="Pagination"></div>
+<div id="status" role="status" aria-live="polite">Loading world news...</div>
+
+<script>
+  let allNewsData = [];
+  let currentPage = 1;
+  const postsPerPage = 50;
+
+  async function loadNews() {
+    try {
+      const res = await fetch('/data/posts.json');
+      allNewsData = await res.json();
+      displayPage(1);
+      document.getElementById('status').textContent = `Loaded ${allNewsData.length} articles • ${new Date().toLocaleString()}`;
+    } catch (e) {
+      console.error(e);
+      document.getElementById('status').textContent = 'Error loading news';
+    }
+  }
+
+  function displayPage(page) {
+    currentPage = page;
+    const startIndex = (currentPage - 1) * postsPerPage;
+    const endIndex = startIndex + postsPerPage;
+    const paginatedItems = allNewsData.slice(startIndex, endIndex);
+
+    renderNews(paginatedItems);
+    renderPagination();
+  }
+
+  function renderNews(newsItems) {
+    const container = document.getElementById('news-container');
+    container.innerHTML = ''; // Clear previous items
+    if (newsItems.length === 0) {
+      container.innerHTML = '<li>No articles found.</li>';
+      return;
+    }
+    newsItems.forEach(item => {
+      const li = document.createElement('li');
+      li.style = 'border-bottom:1px solid #eee;padding:20px 0;';
+      li.innerHTML = `
+        ${item.image ? `<img src="${item.image}" loading="lazy" alt="${item.title}" style="max-width:100%;border-radius:8px;margin-bottom:10px;" />` : ''}
+        <h2 style="margin:10px 0;font-size:1.4em;"><a href="/${item.slug}/" style="color:#1a0dab;text-decoration:none;">${item.title}</a></h2>
+        <p>${item.description}</p>
+        <div style="color:#666;font-size:0.9em;">${new Date(item.pubDate).toLocaleDateString()}</div>
+        <a href="/${item.slug}/" class="read-more-btn">Read more</a>
+      `;
+      container.appendChild(li);
+    });
+  }
+
+  function renderPagination() {
+    const totalPages = Math.ceil(allNewsData.length / postsPerPage);
+    const bottomContainer = document.getElementById('pagination-controls-bottom');
+    
+    let paginationHTML = '';
+
+    if (totalPages > 1) {
+        paginationHTML += `<button class="pagination-btn" onclick="displayPage(1)" ${currentPage === 1 ? 'disabled' : ''}>First</button>`;
+        paginationHTML += `<button class="pagination-btn" onclick="displayPage(${currentPage - 1})" ${currentPage === 1 ? 'disabled' : ''}>Prev</button>`;
+
+        // Simplified page numbers (e.g., show a few pages around current)
+        let startPage = Math.max(1, currentPage - 2);
+        let endPage = Math.min(totalPages, currentPage + 2);
+
+        if (startPage > 1) {
+            paginationHTML += `<span class="pagination-btn" style="cursor:default;">...</span>`;
+        }
+
+        for (let i = startPage; i <= endPage; i++) {
+            paginationHTML += `<button class="pagination-btn ${i === currentPage ? 'active' : ''}" onclick="displayPage(${i})">${i}</button>`;
+        }
+        
+        if (endPage < totalPages) {
+            paginationHTML += `<span class="pagination-btn" style="cursor:default;">...</span>`;
+        }
+
+        paginationHTML += `<button class="pagination-btn" onclick="displayPage(${currentPage + 1})" ${currentPage === totalPages ? 'disabled' : ''}>Next</button>`;
+        paginationHTML += `<button class="pagination-btn" onclick="displayPage(${totalPages})" ${currentPage === totalPages ? 'disabled' : ''}>Last</button>`;
+    }
+
+    bottomContainer.innerHTML = paginationHTML;
+  }
+
+  document.getElementById('search').addEventListener('input', e => {
+    const term = e.target.value.toLowerCase().trim();
+    const bottomPagination = document.getElementById('pagination-controls-bottom');
+
+    if (term === '') {
+      bottomPagination.style.display = 'flex';
+      displayPage(1); // Go back to paginated view
+      document.getElementById('status').textContent = `Loaded ${allNewsData.length} articles • ${new Date().toLocaleString()}`;
+    } else {
+      bottomPagination.style.display = 'none';
+      const filteredNews = allNewsData.filter(item => 
+        item.title.toLowerCase().includes(term) || item.description.toLowerCase().includes(term)
+      );
+      renderNews(filteredNews);
+      document.getElementById('status').textContent = `Found ${filteredNews.length} articles matching your search.`;
+    }
+  });
+
+  // Initial load
+  loadNews();
+
+  // Auto-refresh (reloads all data and displays page 1)
+  setInterval(loadNews, 600000); 
+
+</script>
+{{ end }}

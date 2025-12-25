@@ -1,0 +1,25 @@
+{
+  "name": "hugo-indexer-pro",
+  "version": "1.0.0",
+  "description": "A Hugo-based news aggregator that fetches articles from various RSS feeds.",
+  "main": "index.js",
+  "scripts": {
+    "start": "npm run generate && hugo server -D",
+    "dev": "npm run start",
+    "generate": "go run scripts/generate-posts.go",
+    "build": "npm run generate && hugo"
+  },
+  "keywords": [
+    "hugo",
+    "rss",
+    "news",
+    "aggregator",
+    "go"
+  ],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^1.7.2",
+    "rss-parser": "^3.13.0"
+  }
+}
