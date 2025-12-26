@@ -2,7 +2,10 @@ relativeURLs = true
 baseURL = "https://ptnews.store/"
 languageCode = "en-us"
 title = "PTNews Store – Latest World News"
-theme = "PaperMod"
+
+[module]
+  [[module.imports]]
+    path = "github.com/adityatelange/hugo-PaperMod"
 
 [params]
   title = "PTNews Store"
