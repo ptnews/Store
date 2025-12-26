@@ -43,9 +43,15 @@ jobs:
             echo "No new news to commit."
           else
             git commit -m "feat: update news articles"
+            git pull --rebase
             git push
           fi
           
+      - name: Setup Go
+        uses: actions/setup-go@v4
+        with:
+          go-version: '1.18'
+
       - name: Setup Hugo
         uses: peaceiris/actions-hugo@v2
         with:
