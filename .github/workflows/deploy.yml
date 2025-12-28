@@ -71,6 +71,9 @@ jobs:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./public
           publish_branch: gh-pages
+          force_orphan: true
+          user_name: 'github-actions[bot]'
+          user_email: 'github-actions[bot]@users.noreply.github.com'
           # The custom domain for your site
           cname: ptnews.store
           # A commit message for the deployment
