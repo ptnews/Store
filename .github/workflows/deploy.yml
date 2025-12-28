@@ -46,7 +46,7 @@ jobs:
           if git diff --staged --quiet; then
             echo "No new news to commit."
           else
-            git commit -m "feat: update news articles"
+            git commit -m "feat: update news articles [skip ci]"
             git pull --rebase
             git push
           fi
@@ -70,6 +70,7 @@ jobs:
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./public
+          publish_branch: gh-pages
           # The custom domain for your site
           cname: ptnews.store
           # A commit message for the deployment
