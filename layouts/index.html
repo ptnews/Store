@@ -65,9 +65,10 @@
   let currentPage = 1;
   const postsPerPage = 50;
 
-  async function loadNews() {
+  async function loadNews(forceRefresh = false) {
     try {
-      const res = await fetch('/data/posts.json');
+      const url = forceRefresh ? `/data/posts.json?v=${new Date().getTime()}` : '/data/posts.json';
+      const res = await fetch(url);
       allNewsData = await res.json();
       displayPage(1);
       document.getElementById('status').textContent = `Loaded ${allNewsData.length} articles • ${new Date().toLocaleString()}`;
@@ -76,6 +77,7 @@
       document.getElementById('status').textContent = 'Error loading news';
     }
   }
+
 
   function displayPage(page) {
     currentPage = page;
@@ -163,7 +165,7 @@
   loadNews();
 
   // Auto-refresh (reloads all data and displays page 1)
-  setInterval(loadNews, 600000); 
+  setInterval(() => loadNews(true), 600000);
 
 </script>
 {{ end }}
