@@ -1,7 +1,7 @@
 ---
 title: "Kosovo's ruling party wins election after months of political deadlock - BBC"
 date: 2025-12-29
-description: "Kosovo's ruling party wins election after months of political deadlock&nbsp;&nbsp;BBCKosovo’s Kurti promises swift formation of new government after election win&nbsp;&nbsp;ReutersKosovo parliamentary elections results project Kurti as winner&nbsp;&nbsp;Euronews.comKosovo votes again amid politica..."
+description: "Kosovo's ruling party wins election after months of political deadlock&nbsp;&nbsp;BBCKosovo's 'political earthquake' election sees Kurti resurgent&nbsp;&nbsp;ReutersPreliminary results show Kosovo Prime Minister Kurti's party won snap vote with clear margin&nbsp;&nbsp;PBSKosovo parliamentary electio..."
 image: ""
 link: "https://news.google.com/rss/articles/CBMiWkFVX3lxTE15SHVmcURuR0IyRTh0TGtkOGE2a1phYWNZTWFJeEd3S1RnRFJyU3B6bndvV0R1R1QwR3VxaFhRQm0zRzgzdmxwaGRSdFd3QXZfMVQzYkozVUljd9IBX0FVX3lxTE9TRGJpUjFfNkRUcGc1d05Xb3o1STVCX1NaZVM5a0VwVWNXX2ZZd200T2JJSWs3MlJ6cUFyYWRCV0pTRy1WRmsyZzU0ZTBzeTMwYUg2aXhESzVzQzNYYUVZ?oc=5"
 source: "https://news.google.com/rss/topics/CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx1YlY4U0FtVnVHZ0pWVXlnQVAB?hl=en-US&gl=US&ceid=US:en"
