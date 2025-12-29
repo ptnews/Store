@@ -1,5 +1,5 @@
 ---
-title: "Russia-Ukraine war live: At least 1 killed in Russian attack on Donetsk"
+title: "Russia-Ukraine war live: Russia claims to have seized village in Donetsk"
 date: 2025-12-29
 description: "Russia shells the eastern Ukrainian city of Sloviansk, killing at least one and injuring five others."
 image: ""
