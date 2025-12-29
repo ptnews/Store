@@ -1,0 +1,18 @@
+---\ntitle: 'Illegal immigrants allegedly ran multi-million gift card fraud scheme hitting stores daily across Texas'
+date: 2025-12-29
+description: 'Texas authorities arrested three illegal immigrants from Eastern Europe accused of running a sophisticated $14 million gift card fraud scheme across several states.'
+image: ''
+link: 'https://www.foxnews.com/us/illegal-immigrants-allegedly-ran-multi-million-gift-card-fraud-scheme-hitting-stores-daily-texas'
+source: 'https://feeds.foxnews.com/foxnews/latest'
+categories:
+- 'feeds.foxnews.com'
+tags:
+- 'immigrants'
+- 'allegedly'
+- 'illegal'
+- 'million'
+- 'hitting'
+
+draft: false
+---
+<p>Three illegal immigrants from Eastern Europe have <a href="https://www.foxnews.com/category/crime" target="_blank" rel="noopener">been arrested</a> in Texas for their alleged involvement in a $14 million gift card fraud scheme across several states. </p><p>Kristians Petroviskis, Romunds Cubrevics, and Nurmunds Ulevicus were arrested by the Texas Financial Crimes Intelligence Center (FCIC), <a href="https://www.fox7austin.com/news/3-european-men-arrested-texas-fraud" target="_blank" rel="noopener">Fox Austin</a> reported. </p><p>​The men, all Latvian citizens, told investigators that they stole gift cards from about 10 stores each day, seven days a week, since May, the news outlet reported. </p><p>They would then carefully remove the packaging. </p><p><a href="https://www.foxnews.com/opinion/minnesotas-somali-fraud-scandal-exposes-hidden-cost-immigration" target="_blank" rel="noopener"><strong><u>MINNESOTA’S SOMALI FRAUD SCANDAL EXPOSES THE HIDDEN COST OF IMMIGRATION</u></strong></a></p><p>​"The card is removed, and then the material on the back that covers up the numbers to transfer anything or activate the card is then removed so that they can see it," FCIC Director Adam Colby said. "The numbers that are on the card are then programmed into another program that the criminals are using, which will now monitor that card."</p><p>Colby said the three suspects were in the United States illegally. </p><p>After the numbers on the cards <a href="https://www.foxnews.com/category/us/crime/robbery-theft" target="_blank" rel="noopener">are programmed</a> into another, the cards were reassembled to appear new, without scratches, and placed back onto store shelves for someone to buy.</p><p><a href="https://www.foxnews.com/politics/minnesotas-fraud-scandal-was-shockingly-easy-to-pull-off-is-likely-worse-than-reported-ex-prosecutor" target="_blank" rel="noopener"><strong><u>MINNESOTA’S FRAUD SCANDAL WAS ‘SHOCKINGLY EASY’ TO PULL OFF, IS LIKELY WORSE THAN REPORTED: EX PROSECUTOR</u></strong></a></p><p>​"As soon as it is activated and money placed onto that card, the criminals are now aware of it, but they now have the ability to transfer the money off of that card and onto another card where it is then cashed out or used to buy high-end merchandise," said Colby.</p><p>At the time of their arrest, authorities allegedly found more than 400 gift cards on them, authorities said. The trio targeted stores in multiple cities, including Dallas, Houston and San Antonio. </p><p>They are charged with first-degree fraudulent possession of gift cards. Fox News Digital has reached out to U.S. Immigration and Customs Enforcement (ICE).</p><p>The arrest occurred at a time when fraud involving <a href="https://www.foxnews.com/category/us/immigration/illegal-immigrants" target="_blank" rel="noopener">illegal immigrants</a> and immigrant communities has been put under a microscope. In Minneapolis, federal authorities on Monday launched a massive investigation into child day care fraud. </p>
