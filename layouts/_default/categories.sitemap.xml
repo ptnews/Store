@@ -1,4 +1,4 @@
-{{ printf "<?xml version="1.0" encoding="utf-8" standalone="yes"?>" | safeHTML }}
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   {{ range .Data.Taxonomies.categories }}
   <url>
@@ -7,4 +7,5 @@
   </url>
   {{ end }}
 </urlset>
+
 
