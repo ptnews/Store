@@ -1,0 +1,18 @@
+---\ntitle: 'Tennessee officers rescue woman considering jumping from bridge on day after Christmas'
+date: 2025-12-29
+description: 'New video shows a dramatic bridge rescue as law enforcement agencies worked together to save a woman in crisis on Interstate 81 in Sullivan County.'
+image: ''
+link: 'https://www.foxnews.com/us/tennessee-officers-rescue-woman-considering-jumping-from-bridge-day-after-christmas'
+source: 'https://feeds.foxnews.com/foxnews/latest'
+categories:
+- 'feeds.foxnews.com'
+tags:
+- 'considering'
+- 'tennessee'
+- 'christmas'
+- 'officers'
+- 'jumping'
+
+draft: false
+---
+<p><i>This story discusses suicide. If you or someone you know is having thoughts of suicide, please contact the Suicide &amp; Crisis Lifeline at 988 or 1-800-273-TALK (8255).</i></p><p><a href="https://www.foxnews.com/category/us/us-regions/southeast/tennessee" target="_blank" rel="noopener">Tennessee Highway Patrol</a> officers rescued a woman who they said was considering jumping from a bridge in Sullivan County on Friday.</p><p>In a video posted to Facebook, the Tennessee Highway Patrol said multiple agencies responded to a woman in crisis on a bridge along Interstate 81 south, near the 60-mile marker overlooking the Holston River, who was described as being in a "dark place."</p><p>"Because people showed up and worked together, she is alive tonight," the <a href="https://www.foxnews.com/category/us/crime/police-and-law-enforcement" target="_blank" rel="noopener">law enforcement agency</a> said.</p><p>Several groups responded, including seven Tennessee Highway Patrol units, two Sullivan County units, the Kingsport Police Department, Sullivan County EMS, two Tennessee Department of Transportation units, and teams from Tennessee State Parks and the Tennessee Wildlife Resources Agency (TWRA), with a TWRA agent positioned in a boat below the bridge.</p><p><a href="https://www.foxnews.com/us/nypd-officer-leaps-freezing-river-save-teenage-girl-from-drowning" target="_blank" rel="noopener"><strong>NYPD OFFICER LEAPS INTO FREEZING RIVER TO SAVE TEENAGE GIRL FROM DROWNING</strong></a></p><p>The video shows a woman standing on the ledge of the bridge with her arms folded as officers speak with her in an effort to <a href="https://www.foxnews.com/category/health/mental-health" target="_blank" rel="noopener">de-escalate the situation</a>. </p><p><a href="https://www.foxnews.com/us/california-teacher-told-conservative-students-jump-off-bridge" target="_blank" rel="noopener"><strong>CALIFORNIA TEACHER TOLD CONSERVATIVE STUDENTS TO ‘JUMP OFF A BRIDGE’ OVER ANTI-BIDEN FLAG</strong></a></p><p>Moments later, an officer approaches from behind and safely pulls her away from the edge.</p><p>The woman, who has not been identified, was later seen on a gurney inside an <a href="https://www.foxnews.com/category/health/health-care" target="_blank" rel="noopener">ambulance with medical personnel</a>.</p><p>"Different agencies, one mission. Save a life. And they did," said the Tennessee Highway Patrol. "This time of year can be especially hard. Many people are carrying things no one else can see. <a href="https://www.foxnews.com/category/health/mental-health/stress-and-anxiety" target="_blank" rel="noopener">Stress, grief, loneliness</a>, and fear can pile up fast. That does not mean someone is weak. It means they are human. If you are struggling, please hear this. You matter, and help is available."</p><p>"If you know someone who might be hurting, check on them. A call, a text, or simply asking how they are doing can make more difference than you realize. Today ended with a life saved. That matters," the agency added.</p>
