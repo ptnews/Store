@@ -1,4 +1,4 @@
-relativeURLs = true
+relativeURLs = false
 baseURL = "https://ptnews.store/"
 languageCode = "en-us"
 title = "PTNews Store – Latest World News"
