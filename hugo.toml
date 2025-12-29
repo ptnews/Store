@@ -53,3 +53,4 @@ title = "PTNews Store – Latest World News"
     name = "Privacy Policy"
     url = "/privacy-policy/"
     weight = 40
+# Force GitHub Pages rebuild
