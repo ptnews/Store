@@ -23,7 +23,7 @@ title = "PTNews Store – Latest World News"
   taxonomy = ["HTML", "RSS"]
   
 [permalinks]
-  news = "/news/:slug/"
+  news = "/:slug/"
 
 [markup]
   [markup.goldmark]
