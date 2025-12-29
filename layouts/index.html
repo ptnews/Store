@@ -101,10 +101,10 @@
       li.style = 'border-bottom:1px solid #eee;padding:20px 0;';
       li.innerHTML = `
         ${item.image ? `<img src="${item.image}" loading="lazy" alt="${item.title}" style="max-width:100%;border-radius:8px;margin-bottom:10px;" />` : ''}
-        <h2 style="margin:10px 0;font-size:1.4em;"><a href="/${item.slug}/" style="color:#1a0dab;text-decoration:none;">${item.title}</a></h2>
+        <h2 style="margin:10px 0;font-size:1.4em;"><a href="/news/${item.slug}/" style="color:#1a0dab;text-decoration:none;">${item.title}</a></h2>
         <p>${item.description}</p>
         <div style="color:#666;font-size:0.9em;">${new Date(item.pubDate).toLocaleDateString()}</div>
-        <a href="/${item.slug}/" class="read-more-btn">Read more</a>
+        <a href="/news/${item.slug}/" class="read-more-btn">Read more</a>
       `;
       container.appendChild(li);
     });
