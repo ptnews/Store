@@ -1,5 +1,5 @@
 ---\ntitle: 'Japanese town reeling from year of record bear encounters - The Guardian'
-date: 2025-12-30
+date: 2025-12-29
 description: 'Japanese town reeling from year of record bear encounters&nbsp;&nbsp;The GuardianView Full Coverage on Google News'
 image: ''
 link: 'https://news.google.com/rss/articles/CBMilAFBVV95cUxNNURjX2NjTE0tcjA1bzJtVXl6Wm9wYTFFZk9yMVFna3hyblFmQl93eGJBXzFodXk3eUNKa2RuUkVta0FNX3FicVJ3THI2VGgxd2Exa0pSMHl4RVJTSklxMjZ4UGJxN0hEZC1ERFpfLUh0R0MwVU1wR2NNMFc4NXNBbW12QlhSYnlmUVlxMjhtMjNXbHZk?oc=5'
