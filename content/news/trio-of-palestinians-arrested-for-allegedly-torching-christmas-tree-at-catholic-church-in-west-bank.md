@@ -1,10 +1,18 @@
----
-title: "Trio of Palestinians arrested for allegedly torching Christmas tree at Catholic church in West Bank"
+---\ntitle: 'Trio of Palestinians arrested for allegedly torching Christmas tree at Catholic church in West Bank'
 date: 2025-12-25
-description: "Three Palestinians accused of torching a Christmas tree and damaging part of a Nativity scene at a West Bank Catholic church were arrested."
-image: ""
-link: "https://www.foxnews.com/world/trio-palestinians-arrested-allegedly-torching-christmas-tree-catholic-church-west-bank"
-source: "https://feeds.foxnews.com/foxnews/world"
+description: 'Three Palestinians accused of torching a Christmas tree and damaging part of a Nativity scene at a West Bank Catholic church were arrested.'
+image: ''
+link: 'https://www.foxnews.com/world/trio-palestinians-arrested-allegedly-torching-christmas-tree-catholic-church-west-bank'
+source: 'https://feeds.foxnews.com/foxnews/world'
+categories:
+- 'feeds.foxnews.com'
+tags:
+- 'palestinians'
+- 'allegedly'
+- 'christmas'
+- 'arrested'
+- 'torching'
+
 draft: false
 ---
 <p>Three Palestinians were arrested on accusations of lighting a Christmas tree on fire and damaging part of a Nativity scene at a <a href="https://www.foxnews.com/category/us/religion/roman-catholic" target="_blank" rel="noopener">Catholic church</a> in the Israeli-occupied West Bank city of Jenin, the Palestinian Authority Police announced.</p><p>The attack happened at around 3 a.m. Monday, according to the church.</p><p>Palestinian Authority Police said Wednesday the three were taken into custody after a review of surveillance footage targeting the Holy Redeemer Church of Jenin. Tools believed to have been used in the attack were seized from the suspects.</p><p>Police condemned the apparent attempt to incite sectarian and religious tensions in the West Bank.</p><p><a href="https://www.foxnews.com/world/christmas-returns-holy-land-cities-bethlehems-christian-population-dwindles-nazareth-remains-strong" target="_blank" rel="noopener"><strong>CHRISTMAS RETURNS TO HOLY LAND CITIES AS BETHLEHEM'S CHRISTIAN POPULATION DWINDLES, NAZARETH REMAINS STRONG</strong></a></p><p>The church shared photos on social media showing the skeleton of a synthetic Christmas tree that had been cleared of the green plastic branches, and red and gold ornaments were scattered across a courtyard.</p><p>The torched tree was quickly cleaned up by the church, which erected a new one a day after the attack in time for Christmas Mass.</p><p>The church held a special ceremony with local Muslim and Christian leaders and politicians in attendance. Rev. Amer Jubran, the local priest at the church, said the arson was an isolated incident and emphasized the city’s unity.</p><p>"This occasion reaffirmed that attempts to harm religious symbols will never diminish the spirit of the city nor the faith of its people," the Holy Redeemer Church said in a statement.</p><p>The small Christian community in the West Bank is facing increasing threats of extremism from various sides, including both Israeli settlers and Palestinian extremists, prompting them to escape the region.</p><p>Christians make up between 1-2% of the West Bank’s roughly 3 million residents, and the vast majority of the community is Muslim. Across the entire Middle East, the Christian population has been declining as people have fled conflict.</p><p>In Israel, some church authorities and monitoring groups have documented a recent uptick in anti-Christian sentiment and harassment, including in Jerusalem’s Old City. Extremist <a href="https://www.foxnews.com/category/world/world-regions/israel" target="_blank" rel="noopener">Israeli settlers</a> have also reportedly vandalized and torched areas around churches and Christian villages.</p><p><a href="https://www.foxnews.com/world/pope-leo-xiv-delivers-first-christmas-message-calling-end-violence-middle-east-russia-ukraine-war" target="_blank" rel="noopener"><strong>POPE LEO XIV DELIVERS FIRST CHRISTMAS CALLING FOR END TO VIOLENCE IN MIDDLE EAST, RUSSIA-UKRAINE WAR</strong></a></p><p>The Israel-Hamas <a href="https://www.foxnews.com/category/world/conflicts" target="_blank" rel="noopener">war in Gaza</a> kicked off a surge of violence in the West Bank, with the Israeli military's offensive targeting terrorists killing hundreds of Palestinians and displacing tens of thousands. Terrorists have also attacked and killed Israelis in Israel and the West Bank.</p><p>The conflict has coincided with an increase in Israeli settler violence and Palestinian attacks on Israelis.</p><p><i>The Associated Press contributed to this report.</i></p>

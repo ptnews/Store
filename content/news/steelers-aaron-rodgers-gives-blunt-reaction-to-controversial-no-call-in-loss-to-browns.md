@@ -1,10 +1,18 @@
----
-title: "Steelers' Aaron Rodgers gives blunt reaction to controversial no call in loss to Browns"
+---\ntitle: 'Steelers'' Aaron Rodgers gives blunt reaction to controversial no call in loss to Browns'
 date: 2025-12-29
-description: "Pittsburgh Steelers quarterback Aaron Rodgers echoed the sentiments shared by NFL fans after watching the final play of their drive in their loss to the Cleveland Browns."
-image: ""
-link: "https://www.foxnews.com/sports/steelers-aaron-rodgers-gives-blunt-reaction-controversial-no-call-loss-browns"
-source: "https://feeds.foxnews.com/foxnews/latest"
+description: 'Pittsburgh Steelers quarterback Aaron Rodgers echoed the sentiments shared by NFL fans after watching the final play of their drive in their loss to the Cleveland Browns.'
+image: ''
+link: 'https://www.foxnews.com/sports/steelers-aaron-rodgers-gives-blunt-reaction-controversial-no-call-loss-browns'
+source: 'https://feeds.foxnews.com/foxnews/latest'
+categories:
+- 'feeds.foxnews.com'
+tags:
+- 'controversial'
+- 'steelers'
+- 'reaction'
+- 'rodgers'
+- 'browns'
+
 draft: false
 ---
 <p>Pittsburgh Steelers star <a href="https://www.foxnews.com/category/person/aaron-rodgers" target="_blank" rel="noopener">Aaron Rodgers</a> echoed what many NFL fans thought on his final play against the Cleveland Browns on Sunday.</p><p>Rodgers thought wide receiver Marquez Valdes-Scantling was interfered with as he tried to catch a pass over Browns cornerback <a href="https://www.foxnews.com/category/person/denzel-ward" target="_blank" rel="noopener">Denzel Ward</a> in the end zone on 4th-and-goal. Valdes-Scantling and Ward jumped for the ball at the same time. Ward had his back turned and landed on the receiver as both players hit the ground.</p><p><a href="https://www.foxnews.com/sports" target="_blank" rel="noopener"><strong>CLICK HERE FOR MORE SPORTS COVERAGE ON FOXNEWS.COM</strong></a></p><p>However, no flag was thrown. The Steelers turned the ball over and the Browns won the game, 13-6.</p><p>"It was definitely interference," Rodgers said when asked about what he saw on the final play. "I’ll have to look at the film on second and third down."</p><p>Rodgers suggested he had all the confidence in the world in Valdes-Scantling to make the play.</p><p><a href="https://www.foxnews.com/sports/nfl-fans-fume-steelers-final-td-attempt-ends-controversial-no-call"><strong>NFL FANS FUME AS STEELERS' FINAL TD ATTEMPT ENDS WITH CONTROVERSIAL NO CALL</strong></a></p><p>The veteran wide receiver’s number was called multiple times during the final series. The Steelers just couldn’t execute.</p><p>"He had eligibles on the play, and certainly he was one of them, and he's a capable guy," Steelers head coach Mike Tomlin said on Rodgers’ decisions. "I have no qualms about us playing to win the game and the way that we did."</p><p>Ward said afterward he thought he had good position on the final play, adding that he wasn’t worried about the contact.</p><p>The Steelers now have a winner-takes-all game against the <a href="https://www.foxnews.com/category/sports/nfl/baltimore-ravens" target="_blank" rel="noopener">Baltimore Ravens</a> in Week 18. The game will determine who wins the AFC North and gets a playoff spot.</p><p><i><strong>Follow Fox News Digital’s</strong></i><a href="https://twitter.com/FoxNewsSports_" target="_blank" rel="noopener"><i><strong> <u>sports coverage on X</u></strong></i></a><i><strong> and subscribe to</strong></i><a href="https://www.foxnews.com/newsletters" target="_blank" rel="noopener"><i><strong><u> the Fox News Sports Huddle newsletter</u></strong></i></a><i><strong>.</strong></i></p>

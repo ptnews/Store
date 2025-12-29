@@ -1,10 +1,18 @@
----
-title: "Republicans risk losing young men to left's affordability message, Brett Coopers warns"
+---\ntitle: 'Republicans risk losing young men to left''s affordability message, Brett Coopers warns'
 date: 2025-12-29
-description: "Fox News contributor warns Republicans risk losing young male voters to Democrats unless they focus on affordability messaging like new NYC mayor-elect."
-image: ""
-link: "https://www.foxnews.com/media/republicans-risk-losing-young-men-lefts-affordability-message-brett-coopers-warns"
-source: "https://feeds.foxnews.com/foxnews/latest"
+description: 'Fox News contributor warns Republicans risk losing young male voters to Democrats unless they focus on affordability messaging like new NYC mayor-elect.'
+image: ''
+link: 'https://www.foxnews.com/media/republicans-risk-losing-young-men-lefts-affordability-message-brett-coopers-warns'
+source: 'https://feeds.foxnews.com/foxnews/latest'
+categories:
+- 'feeds.foxnews.com'
+tags:
+- 'affordability'
+- 'republicans'
+- 'message'
+- 'coopers'
+- 'losing'
+
 draft: false
 ---
 <p>Fox News contributor Brett Cooper warned that Democrats have a real opportunity to win back young male voters unless Republicans zero in on an affordability-focused message similar to that used by <a href="https://www.foxnews.com/category/us/new-york-city" target="_blank" rel="noopener">New York City</a> Mayor-elect Zohran Mamdani.</p><p>"Unfortunately, I think that there is a shot [of Democrats winning young men over] because we just saw Mamdani win in New York City, and he had a huge push on the economy. He was able to pull some of those young male voters over from Trump," Cooper said Monday on <a href="https://www.foxnews.com/shows/fox-and-friends" target="_blank" rel="noopener">"Fox &amp; Friends."</a></p><p>"I think it just speaks to our current culture and our current political values where young people care about the economy [and] being able to afford homes one day… and when somebody is speaking to young people, especially young men, about affordability and fixing the economy, they are going to listen," she added.</p><p><a href="https://www.foxnews.com/opinion/gen-z-struggling-survive-and-republicans-cant-afford-look-away" target="_blank" rel="noopener"><strong>GEN Z IS STRUGGLING TO SURVIVE — AND REPUBLICANS CAN'T AFFORD TO LOOK AWAY</strong></a></p><p>Prominent Democrats like Rep. <a href="https://www.foxnews.com/category/person/eric-swalwell" target="_blank" rel="noopener">Eric Swalwell</a>, D-Calif., Minnesota Gov. Tim Walz and Mamdani have made apparent efforts to make inroads with young male audiences with videos featuring barbell-lifting, hunting and more.</p><p>Though young men were a pain point for Democrats in the 2024 election, young women posed a problem for Republicans. </p><p>Democratic socialist <a href="https://www.foxnews.com/media/gop-warned-take-action-lose-gen-z-voters-after-mamdani-wins-nyc-mayor-race" target="_blank" rel="noopener">Mamdani's victory in the high-profile</a> New York City mayoral election earlier this year, however, showed signs of life for Democrats among both sexes in the Gen Z voting bloc.</p><p><a href="https://www.foxnews.com/sports/tommy-tuberville-slams-democrats-demonizing-young-male-voters-after-aoc-masculinity-remarks-backfire" target="_blank" rel="noopener"><strong><u>TOMMY TUBERVILLE SLAMS DEMOCRATS FOR ‘DEMONIZING’ YOUNG MALE VOTERS AFTER AOC'S ‘MASCULINITY’ REMARKS BACKFIRE</u></strong></a></p><p>Cooper suggested some of the shift may be in the opposite direction, however, noting that Republicans have recently been successful in drawing in young women — but young male voters are creating some concerns.</p><p>"I do think that we have done an incredible job of pulling more women over, and I think that there isn't really a strategy change that needs to take place," she said.</p><p>"I actually am more concerned with the young men right now because I am watching them kind of switch back over to the left." </p><p>"At AmFest, Erika [Kirk] got on stage, and she said that I think 54% of their attendees were women, so that obviously is positive for the conservative movement. But again… I want to make sure that we don't forget those men."</p>

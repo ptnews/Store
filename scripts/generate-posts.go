@@ -6,9 +6,11 @@ import (
 	"fmt"
 	"io"
 	"net/http"
+	"net/url"
 	"os"
 	"path/filepath"
 	"regexp"
+	"sort"
 	"strings"
 	"time"
 )
@@ -34,6 +36,44 @@ type RSS struct {
 	} `xml:"channel"`
 }
 
+func extractTags(title string) []string {
+	// a simple approach to extract tags from title
+	// it will not be perfect, but it's better than nothing
+	re := regexp.MustCompile(`[^\w]`)
+	words := re.Split(strings.ToLower(title), -1)
+
+	// remove stop words
+	stopWords := map[string]bool{
+		"a": true, "an": true, "the": true, "and": true, "or": true, "in": true, "on": true, "for": true, "to": true, "is": true, "of": true,
+		"with": true, "as": true, "by": true, "at": true, "from": true, "says": true, "after": true, "it": true, "its": true,
+	}
+	var tags []string
+	for _, word := range words {
+		if len(word) > 4 && !stopWords[word] {
+			tags = append(tags, word)
+		}
+	}
+
+	// sort by length desc
+	sort.Slice(tags, func(i, j int) bool {
+		return len(tags[i]) > len(tags[j])
+	})
+
+	// return top 5
+	if len(tags) > 5 {
+		return tags[:5]
+	}
+	return tags
+}
+
+func formatTags(tags []string) string {
+	var builder strings.Builder
+	for _, tag := range tags {
+		builder.WriteString(fmt.Sprintf("- '%s'\n", tag))
+	}
+	return builder.String()
+}
+
 func main() {
 	data, _ := os.ReadFile("feeds.txt")
 	feeds := strings.Split(string(data), "\n")
@@ -42,19 +82,17 @@ func main() {
 	os.RemoveAll(contentDir)
 	os.MkdirAll(contentDir, os.ModePerm)
 
-
-
 	var allPosts []map[string]any
 	reImg := regexp.MustCompile(`src=["']([^"']+\.(jpg|jpeg|png|gif|webp))["']`)
 
-	for _, url := range feeds {
-		url = strings.TrimSpace(url)
-		if url == "" || strings.HasPrefix(url, "#") {
+	for _, feedURL := range feeds {
+		feedURL = strings.TrimSpace(feedURL)
+		if feedURL == "" || strings.HasPrefix(feedURL, "#") {
 			continue
 		}
-		fmt.Println("Fetching:", url)
+		fmt.Println("Fetching:", feedURL)
 
-		resp, err := http.Get("https://corsproxy.io/?" + url)
+		resp, err := http.Get("https://corsproxy.io/?" + feedURL)
 		if err != nil || resp.StatusCode != 200 {
 			fmt.Println("Error:", err)
 			continue
@@ -103,28 +141,34 @@ func main() {
 			}
 
 			source := new(strings.Builder)
-			source.WriteString(strings.ReplaceAll(url, "www.", "")) // Corrected line to use URL from `feeds` slice
+			source.WriteString(strings.ReplaceAll(feedURL, "www.", "")) // Corrected line to use URL from `feeds` slice
 
-			cleanedTitle := strings.ReplaceAll(strings.ReplaceAll(item.Title, `"`, `\"`), "\n", " ")
-			cleanedDescText := strings.ReplaceAll(strings.ReplaceAll(descText, `"`, `\"`), "\n", " ")
+			cleanedTitle := strings.ReplaceAll(strings.ReplaceAll(item.Title, "'", "''"), "\n", " ")
+			cleanedDescText := strings.ReplaceAll(strings.ReplaceAll(descText, "'", "''"), "\n", " ")
 
-			frontmatter := fmt.Sprintf(`---
-title: "%s"
+			// Add categories and tags
+			parsedURL, err := url.Parse(feedURL)
+			var category string
+			if err == nil {
+				category = strings.ReplaceAll(parsedURL.Hostname(), "www.", "")
+			}
+
+			tags := extractTags(item.Title)
+			
+			frontmatter := fmt.Sprintf(`---\ntitle: '%s'
 date: %s
-description: "%s"
-image: "%s"
-link: "%s"
-source: "%s"
+description: '%s'
+image: '%s'
+link: '%s'
+source: '%s'
+categories:
+- '%s'
+tags:
+%s
 draft: false
 ---
 %s
-`, cleanedTitle,
-				pubDate,
-				cleanedDescText,
-				image,
-				item.Link,
-				source.String(),
-				item.Content)
+`, cleanedTitle, pubDate, cleanedDescText, image, item.Link, source.String(), category, formatTags(tags), item.Content)
 
 			os.WriteFile(filepath.Join(contentDir, slug+".md"), []byte(frontmatter), 0644)
 

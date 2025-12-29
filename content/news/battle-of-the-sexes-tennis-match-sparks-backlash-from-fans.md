@@ -1,10 +1,18 @@
----
-title: "'Battle of the Sexes' tennis match sparks backlash from fans"
+---\ntitle: '''Battle of the Sexes'' tennis match sparks backlash from fans'
 date: 2025-12-29
-description: "Nick Kyrgios and Aryna Sabalenka&apos;s &quot;Battle of the Sexes&quot; match apppeared to fall flat with fans as the Australian star defeated the Bulgarian in Dubai."
-image: ""
-link: "https://www.foxnews.com/sports/battle-sexes-tennis-match-sparks-backlash-from-fans"
-source: "https://feeds.foxnews.com/foxnews/latest"
+description: 'Nick Kyrgios and Aryna Sabalenka&apos;s &quot;Battle of the Sexes&quot; match apppeared to fall flat with fans as the Australian star defeated the Bulgarian in Dubai.'
+image: ''
+link: 'https://www.foxnews.com/sports/battle-sexes-tennis-match-sparks-backlash-from-fans'
+source: 'https://feeds.foxnews.com/foxnews/latest'
+categories:
+- 'feeds.foxnews.com'
+tags:
+- 'backlash'
+- 'battle'
+- 'tennis'
+- 'sparks'
+- 'sexes'
+
 draft: false
 ---
 <p>Nick Kyrgios defeated Aryna Sabalenka in the latest <a href="https://www.foxnews.com/category/sports/tennis" target="_blank" rel="noopener">"Battle of the Sexes"</a> tennis match on Sunday, but tennis fans found fault with the event for several reasons.</p><p>The "Battle of the Sexes" name was borrowed from the historic 1973 match between Billie Jean King and Bobby Riggs. King won the match in four straight sets and helped launch efforts to start a female tour and get equal pay in tennis.</p><p><a href="https://www.foxnews.com/sports" target="_blank" rel="noopener"><strong>CLICK HERE FOR MORE SPORTS COVERAGE ON FOXNEWS.COM</strong></a></p><p>The Kyrgios-Sabalenka match didn’t appear to have the same cultural significance. Kyrgios, who had been sidelined with injuries since his <a href="https://www.foxnews.com/category/sports/tennis/wimbledon" target="_blank" rel="noopener">2022 Wimbledon final appearance</a>, faced a disadvantage of Sabalenka’s side of the court being nearly 10% smaller in an attempt to level the playing field. Players were given one serve per point, rather than two.</p><p>The match appeared to fall flat with fans.</p><p>Sabalenka, one of the top players in women’s tennis, said the match was good prep for the next season as the <a href="https://www.foxnews.com/category/sports/tennis/australian-open" target="_blank" rel="noopener">Australian Open</a> is just around the corner.</p><p><a href="https://www.foxnews.com/sports/tennis-star-aryna-sabalenka-says-female-athletes-facing-trans-competitors-just-not-fair-women" target="_blank" rel="noopener"><strong>TENNIS STAR ARYNA SABALENKA SAYS FEMALE ATHLETES FACING TRANS COMPETITORS 'JUST NOT FAIR TO WOMEN'</strong></a></p><p>"Really enjoyed the show," she said, "and I feel like next time I play him I'm going to know the tactics, his strengths and his weaknesses, and it's going to be a better match, for sure."</p><p>She added, "I don't understand how people were able to find something negative in this event."</p><p>Kyrgios acknowledged that he had to "strap in" for the match, which was held in Dubai.</p><p>"I think this is a great stepping stone for the sport of tennis," he said.</p><p>At the end of the event, both competitors smiled as they held up trophies.</p><p><i>The Associated Press contributed to this report.</i></p><p><i><strong>Follow Fox News Digital’s</strong></i><a href="https://twitter.com/FoxNewsSports_" target="_blank" rel="noopener"><i><strong> <u>sports coverage on X</u></strong></i></a><i><strong> and subscribe to</strong></i><a href="https://www.foxnews.com/newsletters" target="_blank" rel="noopener"><i><strong><u> the Fox News Sports Huddle newsletter</u></strong></i></a><i><strong>.</strong></i></p>
