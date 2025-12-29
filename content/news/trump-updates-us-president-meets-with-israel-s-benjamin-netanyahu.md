@@ -1,4 +1,4 @@
----\ntitle: 'Trump live: US president meets with Israel’s Benjamin Netanyahu'
+---\ntitle: 'Trump updates: US president meets with Israel’s Benjamin Netanyahu'
 date: 2025-12-29
 description: 'Trump&#039;s meeting with Netanyahu comes after he touted progress in achieving a resolution to Russia&#039;s war in Ukraine.'
 image: ''
@@ -10,8 +10,8 @@ tags:
 - 'president'
 - 'netanyahu'
 - 'benjamin'
+- 'updates'
 - 'israel'
-- 'trump'
 
 draft: false
 ---
