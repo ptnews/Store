@@ -1,0 +1,10 @@
+---
+title: "Train accident in southern Mexico leaves at least 13 dead and dozens injured - CBS News"
+date: 2025-12-29
+description: "Train accident in southern Mexico leaves at least 13 dead and dozens injured&nbsp;&nbsp;CBS News13 People Killed, Nearly 100 Others Injured After Train Derails&nbsp;&nbsp;People.comDeadly derailment in Mexico revives allegations of rail project corruption&nbsp;&nbsp;Financial TimesMexico train crash..."
+image: ""
+link: "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPMWVwR0RhZUt4bVFmbFpTaDFQU01ySjJuS1lZNkkwd0RjWEZheHdFcE9iendUbGd3VGNKMmpuaWhjNjVOZzhSUXQyOURIbktsc2llY2JWQnAtQ3BXbU0zOFluTjdFVGNFd3drQTk4RFpta2x5Tk05WTFRR2ZMTmZ0elAtU0xQNjlLcnhsQWhTVllCVWJzOW1GeFY4RlZSdC0zOVo1MEFqY0hvQdIBrwFBVV95cUxNR1g3cVM1cUlzZEVXdDBnbjNfdE02eS1LOUhERWJXWHNSMzZOUEd4XzBIWXBwV0UtUExfdHB6dUpzenUwQzhyNWI2SzFydThvSTdRVXd0bERSalJ5My1UNnliWjNkVlZ6SEtVaWJsVmpKT0pTaWlQM3kzNERaa2hqaDRkXzNPRmRuZks1NFdnQVU4c19LckxJTnN2cElNQ1dfc0Y0aUVDLWp1N1h0RUpj?oc=5"
+source: "https://news.google.com/rss/topics/CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx1YlY4U0FtVnVHZ0pWVXlnQVAB?hl=en-US&gl=US&ceid=US:en"
+draft: false
+---
+
