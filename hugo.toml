@@ -29,6 +29,7 @@ title = "PTNews Store – Latest World News"
   [markup.goldmark]
     [markup.goldmark.renderer]
       unsafe = true
+uglyURLs = false
 
 [[menu.main]]
     identifier = "home"
