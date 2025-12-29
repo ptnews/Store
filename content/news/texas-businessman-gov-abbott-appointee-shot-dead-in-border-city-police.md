@@ -1,0 +1,18 @@
+---\ntitle: 'Texas businessman, Gov Abbott appointee shot dead in border city: police'
+date: 2025-12-29
+description: 'Texas businessman and Greg Abbott appointee Eddy Betancourt shot and killed at McAllen business. Police identify suspect Reynaldo Mata-Rios in homicide.'
+image: ''
+link: 'https://www.foxnews.com/us/texas-businessman-gov-abbott-appointee-shot-dead-border-city-police'
+source: 'https://feeds.foxnews.com/foxnews/latest'
+categories:
+- 'feeds.foxnews.com'
+tags:
+- 'businessman'
+- 'appointee'
+- 'abbott'
+- 'border'
+- 'police'
+
+draft: false
+---
+<p>A prominent businessman and appointee of Texas Gov. <a href="https://www.foxnews.com/category/person/greg-abbott" target="_blank" rel="noopener">Greg Abbott</a> was shot and killed at a business in McAllen, a border city in the Rio Grande Valley, over the weekend, authorities said.</p><p>McAllen police identified the victim as Eddy Betancourt, 61, of Mission, Texas.</p><p><a href="https://www.foxnews.com/category/us/crime/police-and-law-enforcement" target="_blank" rel="noopener">Officers responded</a> Saturday afternoon to the 800 block of North Ware Road after a 911 call reported a man on the floor who was possibly shot and not breathing. Betancourt was found unresponsive, with no pulse, and appeared to have suffered a gunshot wound, police said.</p><p>His death is being <a href="https://www.foxnews.com/category/us/crime/homicide" target="_blank" rel="noopener">investigated as a homicide</a>, police said.</p><p><a href="https://www.foxnews.com/us/texas-substitute-teacher-charged-child-sex-offenses-no-longer-employed-school-district"><strong>TEXAS SUBSTITUTE TEACHER CHARGED WITH CHILD SEX OFFENSES, ‘NO LONGER EMPLOYED’ BY SCHOOL DISTRICT</strong></a></p><p>Police on Sunday identified Reynaldo Mata-Rios, 60, as a suspect in the shooting.</p><p>A warrant charging Mata-Rios with murder, a first-degree felony, was issued by the McAllen Municipal Court.</p><p>Authorities said Mata-Rios indicated he intended to surrender but had not done so as of Sunday afternoon. Mata-Rios is 6 feet tall and weighs approximately 195 pounds, according to police. He has brown hair and brown eyes.</p><p><a href="https://www.foxnews.com/us/missing-19-year-old-camila-mendoza-olmos-believed-imminent-danger-texas-sheriff-says"><strong><u>MISSING 19-YEAR-OLD CAMILA MENDOZA OLMOS BELIEVED TO BE ‘IN IMMINENT DANGER,’ TEXAS SHERIFF SAYS</u></strong></a></p><p>In 2020, Abbott appointed Betancourt to the Texas Facilities Commission, which oversees construction, maintenance and leasing of state-owned buildings. He was reappointed in 2023 to a term set to expire in 2029, <a href="https://gov.texas.gov/news/post/governor-abbott-reappoints-betancourt-to-texas-facilities-commission?utm_source=chatgpt.com" target="_blank" rel="nofollow noopener">according to the governor’s office</a>.</p><p>Along with serving in state government, Betancourt was <a href="https://www.foxnews.com/category/us/economy/entrepreneurship" target="_blank" rel="noopener">president of R&amp;B General Construction</a> Co. Inc., co-owner and president of National Tire and Wheel LLC, and a general retail partner manager for E2H Investment. He also worked on the Hidalgo County Appraisal District Board of Directors and was a member of the McAllen Board of Realtors and the National Association of Realtors.</p><p>Police said the investigation remains ongoing. Authorities have not released a possible motive.</p><p>Fox News Digital has reached out to the Texas Department of Public Safety and the <a href="https://www.foxnews.com/category/politics/executive/homeland-security" target="_blank" rel="noopener">Department of Homeland Security</a> for comment.</p>
