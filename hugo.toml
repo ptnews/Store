@@ -12,14 +12,16 @@ title = "PTNews Store – Latest World News"
   description = "Latest world news from multiple trusted sources"
 
 [outputFormats]
-  sitemap = { MediaType = "application/xml", BaseName = "sitemap", PermalinkOffset = true, IsHTML = false }
-  postsitemap = { MediaType = "application/xml", BaseName = "post-sitemap", PermalinkOffset = true, IsHTML = false }
-  categoriessitemap = { MediaType = "application/xml", BaseName = "categories-sitemap", PermalinkOffset = true, IsHTML = false }
-  tagsitemap = { MediaType = "application/xml", BaseName = "tag-sitemap", PermalinkOffset = true, IsHTML = false }
+  sitemapindex = { mediaType = "application/xml", baseName = "sitemap", isHTML = false }
+  postsitemap = { mediaType = "application/xml", baseName = "post-sitemap", isHTML = false }
+  categoriessitemap = { mediaType = "application/xml", baseName = "categories-sitemap", isHTML = false }
+  tagsitemap = { mediaType = "application/xml", baseName = "tag-sitemap", isHTML = false }
 
 [outputs]
-  home = ["HTML", "RSS", "JSON", "sitemap", "postsitemap", "categoriessitemap", "tagsitemap"]
-
+  home = ["HTML", "RSS", "JSON", "sitemapindex", "postsitemap", "categoriessitemap", "tagsitemap"]
+  section = ["HTML", "RSS"]
+  taxonomy = ["HTML", "RSS"]
+  
 [permalinks]
   news = "/:slug/"
 
