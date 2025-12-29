@@ -1,6 +1,6 @@
 ---\ntitle: 'Coral Adventurer: Passengers on stranded cruise ship to be flown back to Australia - BBC'
 date: 2025-12-29
-description: 'Coral Adventurer: Passengers on stranded cruise ship to be flown back to Australia&nbsp;&nbsp;BBCPassengers on cruise ship that ran aground off PNG to be flown home after refloat efforts fail&nbsp;&nbsp;The GuardianAustralian Cruise Ship Grounds off Papua New Guinea&nbsp;&nbsp;The Maritime Executive...'
+description: 'Coral Adventurer: Passengers on stranded cruise ship to be flown back to Australia&nbsp;&nbsp;BBCPassengers on cruise ship that ran aground off PNG to be flown home after refloat efforts fail&nbsp;&nbsp;The GuardianCruise ship carrying 124 people runs aground in Papua New Guinea&nbsp;&nbsp;USA Today...'
 image: ''
 link: 'https://news.google.com/rss/articles/CBMiWkFVX3lxTE1abDBkSDNaTVNReHROVFQwVkRUYXN0VXhqNGtITWpOYS1YNzB2RGxFcExvNnhVLXFLUUJCUTl6aF9XTmZDR2dwcmg2MmZDd2M1SS1JSkhGN196d9IBX0FVX3lxTE5HUzIxaHVMYTRCOFhaNGhzeklfSFNnMjhUdzhfOXRvTlRLaWRtZlBic3pzTG9Ld01ka0t4b0RDcm9WQ1gtVWJNc2V1clF2ZnRxRXlRY3p5RkJVb0FXQVNz?oc=5'
 source: 'https://news.google.com/rss/topics/CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx1YlY4U0FtVnVHZ0pWVXlnQVAB?hl=en-US&gl=US&ceid=US:en'
