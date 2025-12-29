@@ -26,23 +26,19 @@ jobs:
           # Fetch all history for .GitInfo and .Lastmod
           fetch-depth: 0
 
-      - name: Setup Node.js
-        uses: actions/setup-node@v4
+      - name: Setup Go
+        uses: actions/setup-go@v4
         with:
-          node-version: '20'
+          go-version: '1.22'
 
-      - name: Install Dependencies
-        run: npm install
+      - name: Generate News Content
+        run: go run scripts/generate-posts.go
 
-      - name: Fetch Latest News
-        run: node scripts/fetch-news.js
-
-      - name: Commit data changes
+      - name: Commit News Content
         run: |
           git config --global user.name 'github-actions[bot]'
           git config --global user.email 'github-actions[bot]@users.noreply.github.com'
-          git add data/posts.json
-          # Check if there are changes to commit
+          git add content static
           if git diff --staged --quiet; then
             echo "No new news to commit."
           else
@@ -50,11 +46,6 @@ jobs:
             git pull --rebase
             git push
           fi
-          
-      - name: Setup Go
-        uses: actions/setup-go@v4
-        with:
-          go-version: '1.22'
 
       - name: Setup Hugo
         uses: peaceiris/actions-hugo@v2
