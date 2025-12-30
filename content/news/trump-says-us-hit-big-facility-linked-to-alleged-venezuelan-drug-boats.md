@@ -1,8 +1,8 @@
 ---
 title: "Trump says US hit 'big facility' linked to alleged Venezuelan drug boats"
 date: 2025-12-30
-description: "The president said it was a dock area \"where they load the boats up with drugs\"."
-summary: "The president said it was a dock area \"where they load the boats up with drugs\"."
+description: "The US president would not confirm US media reports that the explosion was caused by a CIA drone strike."
+summary: "The US president would not confirm US media reports that the explosion was caused by a CIA drone strike."
 slug: "trump-says-us-hit-big-facility-linked-to-alleged-venezuelan-drug-boats"
 image: ''
 link: 'https://www.bbc.com/news/articles/cp8484p7ggmo?at_medium=RSS&at_campaign=rss'
@@ -18,4 +18,4 @@ tags:
 
 draft: false
 ---
-The president said it was a dock area "where they load the boats up with drugs".
+The US president would not confirm US media reports that the explosion was caused by a CIA drone strike.
