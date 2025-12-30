@@ -13,6 +13,9 @@ pagination.pagerSize = 50
   description = "Latest world news from multiple trusted sources"
   mainSections = ["news"]
 
+[sitemap]
+  disable = true
+
 [outputFormats]
   sitemapindex = { mediaType = "application/xml", baseName = "sitemap", isHTML = false }
   postsitemap = { mediaType = "application/xml", baseName = "post-sitemap", isHTML = false }
