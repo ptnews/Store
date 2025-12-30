@@ -14,3 +14,13 @@
 .read-more-button:hover {
     background-color: #0056b3; /* Darker blue on hover */
 }
+
+/* Improve color contrast */
+:root[data-theme="dark"] {
+    --link-color: #60a5fa; /* Lighter blue for dark mode */
+    --secondary: #bababa; /* Lighter grey for secondary text */
+}
+
+:root {
+    --secondary: #404a58; /* Darker grey for secondary text in light mode */
+}
