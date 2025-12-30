@@ -3,6 +3,7 @@ title: "Trump tells UN agencies to 'adapt, shrink, or die' while offering $2B hu
 date: 2025-12-29
 description: "Trump administration announces $2 billion U.N. humanitarian funding that officials say will save taxpayers $1.9 billion through consolidated operations."
 summary: "Trump administration announces $2 billion U.N. humanitarian funding that officials say will save taxpayers $1.9 billion through consolidated operations."
+slug: "trump-tells-un-agencies-to-adapt-shrink-or-die-while-offering-2b-humanitarian-funding-pledge"
 image: ''
 link: 'https://www.foxnews.com/politics/trump-tells-un-agencies-adapt-shrink-die-offering-2b-humanitarian-funding-pledge'
 source: 'https://feeds.foxnews.com/foxnews/latest'

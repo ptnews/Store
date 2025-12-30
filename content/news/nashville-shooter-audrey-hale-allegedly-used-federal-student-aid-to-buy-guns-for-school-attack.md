@@ -3,6 +3,7 @@ title: "Nashville shooter Audrey Hale allegedly used federal student aid to buy 
 date: 2025-12-29
 description: "Audrey Elizabeth Hale used federal Pell Grant money to purchase firearms for Covenant School shooting in Nashville, according to newly released FBI records."
 summary: "Audrey Elizabeth Hale used federal Pell Grant money to purchase firearms for Covenant School shooting in Nashville, according to newly released FBI records."
+slug: "nashville-shooter-audrey-hale-allegedly-used-federal-student-aid-to-buy-guns-for-school-attack"
 image: ''
 link: 'https://www.foxnews.com/us/nashville-shooter-audrey-hale-allegedly-used-federal-student-aid-buy-guns-school-attack'
 source: 'https://feeds.foxnews.com/foxnews/latest'

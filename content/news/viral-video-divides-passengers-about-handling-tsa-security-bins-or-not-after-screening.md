@@ -3,6 +3,7 @@ title: "Viral video divides passengers about handling TSA security bins or not a
 date: 2025-12-29
 description: "An airport etiquette controversy has gone viral as travelers clash over whether or not to stack empty security bins. Travel experts weigh in on proper TSA checkpoint behavior."
 summary: "An airport etiquette controversy has gone viral as travelers clash over whether or not to stack empty security bins. Travel experts weigh in on proper TSA checkpoint behavior."
+slug: "viral-video-divides-passengers-about-handling-tsa-security-bins-or-not-after-screening"
 image: ''
 link: 'https://www.foxnews.com/travel/viral-video-divides-passengers-about-handling-tsa-security-bins-not-after-screening'
 source: 'https://feeds.foxnews.com/foxnews/latest'

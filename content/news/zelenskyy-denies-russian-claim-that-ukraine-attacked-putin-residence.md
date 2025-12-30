@@ -3,6 +3,7 @@ title: "Zelenskyy denies Russian claim that Ukraine attacked Putin residence"
 date: 2025-12-29
 description: "Ukrainian President Volodymyr Zelenskyy calls alleged drone attack on Russian President Vladimir Putin&apos;s residence a &quot;complete fabrication&quot; as tensions escalate between Ukraine and Russia."
 summary: "Ukrainian President Volodymyr Zelenskyy calls alleged drone attack on Russian President Vladimir Putin&apos;s residence a &quot;complete fabrication&quot; as tensions escalate between Ukraine and Russia."
+slug: "zelenskyy-denies-russian-claim-that-ukraine-attacked-putin-residence"
 image: ''
 link: 'https://www.foxnews.com/world/zelenskyy-denies-russian-claim-ukraine-attacked-putin-residence'
 source: 'https://feeds.foxnews.com/foxnews/world'

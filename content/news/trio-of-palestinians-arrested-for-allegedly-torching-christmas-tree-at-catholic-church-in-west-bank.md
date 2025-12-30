@@ -3,6 +3,7 @@ title: "Trio of Palestinians arrested for allegedly torching Christmas tree at C
 date: 2025-12-25
 description: "Three Palestinians accused of torching a Christmas tree and damaging part of a Nativity scene at a West Bank Catholic church were arrested."
 summary: "Three Palestinians accused of torching a Christmas tree and damaging part of a Nativity scene at a West Bank Catholic church were arrested."
+slug: "trio-of-palestinians-arrested-for-allegedly-torching-christmas-tree-at-catholic-church-in-west-bank"
 image: ''
 link: 'https://www.foxnews.com/world/trio-palestinians-arrested-allegedly-torching-christmas-tree-catholic-church-west-bank'
 source: 'https://feeds.foxnews.com/foxnews/world'

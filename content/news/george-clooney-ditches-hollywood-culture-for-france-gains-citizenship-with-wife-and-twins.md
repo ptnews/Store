@@ -3,6 +3,7 @@ title: "George Clooney ditches Hollywood culture for France, gains citizenship w
 date: 2025-12-29
 description: "George Clooney and wife Amal become French citizens with their twins, trading Hollywood glamor for peaceful farm life in the French countryside together."
 summary: "George Clooney and wife Amal become French citizens with their twins, trading Hollywood glamor for peaceful farm life in the French countryside together."
+slug: "george-clooney-ditches-hollywood-culture-for-france-gains-citizenship-with-wife-and-twins"
 image: ''
 link: 'https://www.foxnews.com/world/george-clooney-ditches-hollywood-culture-france-gains-citizenship-wife-twins'
 source: 'https://feeds.foxnews.com/foxnews/world'

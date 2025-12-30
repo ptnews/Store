@@ -3,6 +3,7 @@ title: "Stabbing spree, chemical attack at Japan factory injures 15"
 date: 2025-12-27
 description: "A 38-year-old male suspect is in custody following an alleged stabbing spree and chemical attack at a Yokohama Rubber Co. tire factory in central Japan."
 summary: "A 38-year-old male suspect is in custody following an alleged stabbing spree and chemical attack at a Yokohama Rubber Co. tire factory in central Japan."
+slug: "stabbing-spree-chemical-attack-at-japan-factory-injures-15"
 image: ''
 link: 'https://www.foxnews.com/world/stabbing-spree-chemical-attack-japan-factory-injures-15'
 source: 'https://feeds.foxnews.com/foxnews/world'

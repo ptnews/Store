@@ -3,6 +3,7 @@ title: "Zelenskyy claims Trump said US will consider giving Ukraine decades of s
 date: 2025-12-29
 description: "Ukrainian President Volodymyr Zelenskyy indicated that American President Donald Trump said the U.S. will entertain the prospect of providing Ukraine with decades of security guarantees."
 summary: "Ukrainian President Volodymyr Zelenskyy indicated that American President Donald Trump said the U.S. will entertain the prospect of providing Ukraine with decades of security guarantees."
+slug: "zelenskyy-claims-trump-said-us-will-consider-giving-ukraine-decades-of-security-guarantees"
 image: ''
 link: 'https://www.foxnews.com/world/zelenskyy-claims-trump-said-us-consider-giving-ukraine-decades-security-guarantees'
 source: 'https://feeds.foxnews.com/foxnews/world'

@@ -3,6 +3,7 @@ title: "Arch Manning says there is 'no reason to leave' Texas, wants to further 
 date: 2025-12-29
 description: "Texas Longhorns quarterback Arch Manning said he has &quot;no reason to leave&quot; the school as rumors swirled about him possibly departing before 2026."
 summary: "Texas Longhorns quarterback Arch Manning said he has &quot;no reason to leave&quot; the school as rumors swirled about him possibly departing before 2026."
+slug: "arch-manning-says-there-is-no-reason-to-leave-texas-wants-to-further-his-development"
 image: ''
 link: 'https://www.foxnews.com/sports/arch-manning-says-no-reason-leave-texas-wants-further-his-development'
 source: 'https://feeds.foxnews.com/foxnews/latest'

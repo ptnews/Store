@@ -3,6 +3,7 @@ title: "Lapsed Epstein deadline underscores challenge of reviewing troves of fil
 date: 2025-12-29
 description: "DOJ defends Epstein files delay citing need to review over one million pages. Deputy Attorney General Todd Blanche says &quot;well-settled law&quot; supports missing deadline for victim protection."
 summary: "DOJ defends Epstein files delay citing need to review over one million pages. Deputy Attorney General Todd Blanche says &quot;well-settled law&quot; supports missing deadline for victim protection."
+slug: "lapsed-epstein-deadline-underscores-challenge-of-reviewing-troves-of-files-in-30-days"
 image: ''
 link: 'https://www.foxnews.com/politics/lapsed-epstein-deadline-underscores-challenge-reviewing-files-30-days'
 source: 'https://feeds.foxnews.com/foxnews/latest'

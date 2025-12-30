@@ -3,6 +3,7 @@ title: "Pollster Nate Silver shocked by Democratic unwillingness to 'admit they 
 date: 2025-12-29
 description: "Pollster Nate Silver criticized a large swath of the Democratic Party for not admitting to any mistakes made during the 2024 election in a Semafor interview."
 summary: "Pollster Nate Silver criticized a large swath of the Democratic Party for not admitting to any mistakes made during the 2024 election in a Semafor interview."
+slug: "pollster-nate-silver-shocked-by-democratic-unwillingness-to-admit-they-f-up-in-2024"
 image: ''
 link: 'https://www.foxnews.com/media/pollster-nate-silver-shocked-democratic-unwillingness-admit-f-up-2024'
 source: 'https://feeds.foxnews.com/foxnews/latest'

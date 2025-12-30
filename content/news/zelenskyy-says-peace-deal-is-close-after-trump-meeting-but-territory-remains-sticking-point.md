@@ -3,6 +3,7 @@ title: "Zelenskyy says peace deal is close after Trump meeting but territory rem
 date: 2025-12-29
 description: "Ukraine&apos;s Zelenskyy says peace talks with Russia are &apos;very close&apos; but territorial disputes remain the key sticking point after recent Trump meeting."
 summary: "Ukraine&apos;s Zelenskyy says peace talks with Russia are &apos;very close&apos; but territorial disputes remain the key sticking point after recent Trump meeting."
+slug: "zelenskyy-says-peace-deal-is-close-after-trump-meeting-but-territory-remains-sticking-point"
 image: ''
 link: 'https://www.foxnews.com/politics/zelenskyy-says-peace-deal-close-trump-meeting-territory-remains-sticking-point'
 source: 'https://feeds.foxnews.com/foxnews/latest'

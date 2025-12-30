@@ -3,6 +3,7 @@ title: "Israel becomes first country to recognize Somaliland; Trump 'not ready'"
 date: 2025-12-26
 description: "Israel became the first country to officially recognize Somaliland as an independent nation in a historic diplomatic move tied to the Abraham Accords framework."
 summary: "Israel became the first country to officially recognize Somaliland as an independent nation in a historic diplomatic move tied to the Abraham Accords framework."
+slug: "israel-becomes-first-country-to-recognize-somaliland-trump-not-ready"
 image: ''
 link: 'https://www.foxnews.com/world/israel-becomes-first-country-recognize-somaliland-trump-not-ready'
 source: 'https://feeds.foxnews.com/foxnews/world'

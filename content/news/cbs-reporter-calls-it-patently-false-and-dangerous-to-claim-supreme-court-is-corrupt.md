@@ -3,6 +3,7 @@ title: "CBS reporter calls it 'patently false' and 'dangerous' to claim Supreme 
 date: 2025-12-29
 description: "CBS News&apos; legal correspondent Jan Crawford told &quot;Face the Nation&quot; that she believed the narrative on the Supreme Court&apos;s alleged corruption was overreported."
 summary: "CBS News&apos; legal correspondent Jan Crawford told &quot;Face the Nation&quot; that she believed the narrative on the Supreme Court&apos;s alleged corruption was overreported."
+slug: "cbs-reporter-calls-it-patently-false-and-dangerous-to-claim-supreme-court-is-corrupt"
 image: ''
 link: 'https://www.foxnews.com/media/cbs-reporter-calls-patently-false-dangerous-claim-supreme-court-corrupt'
 source: 'https://feeds.foxnews.com/foxnews/latest'

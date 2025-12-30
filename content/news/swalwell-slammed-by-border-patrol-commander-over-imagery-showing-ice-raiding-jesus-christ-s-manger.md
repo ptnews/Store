@@ -3,6 +3,7 @@ title: "Swalwell slammed by Border Patrol commander over imagery showing ICE rai
 date: 2025-12-29
 description: "Swalwell&apos;s Christmas ICE post triggers biblical debate over Mary and Joseph&apos;s journey, with critics citing scripture to counter immigration narrative."
 summary: "Swalwell&apos;s Christmas ICE post triggers biblical debate over Mary and Joseph&apos;s journey, with critics citing scripture to counter immigration narrative."
+slug: "swalwell-slammed-by-border-patrol-commander-over-imagery-showing-ice-raiding-jesus-christ-s-manger"
 image: ''
 link: 'https://www.foxnews.com/politics/swalwell-slammed-border-patrol-commander-over-imagery-showing-ice-raiding-jesus-christs-manger'
 source: 'https://feeds.foxnews.com/foxnews/latest'

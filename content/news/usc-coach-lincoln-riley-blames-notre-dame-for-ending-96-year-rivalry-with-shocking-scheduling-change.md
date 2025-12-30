@@ -3,6 +3,7 @@ title: "USC coach Lincoln Riley blames Notre Dame for ending 96-year rivalry wit
 date: 2025-12-29
 description: "The USC-Notre Dame college football rivalry won&apos;t return in 2026, and Trojans head coach Lincoln Riley is pointing the finger at the Fighting Irish."
 summary: "The USC-Notre Dame college football rivalry won&apos;t return in 2026, and Trojans head coach Lincoln Riley is pointing the finger at the Fighting Irish."
+slug: "usc-coach-lincoln-riley-blames-notre-dame-for-ending-96-year-rivalry-with-shocking-scheduling-change"
 image: ''
 link: 'https://www.foxnews.com/sports/usc-coach-lincoln-riley-blames-notre-dame-ending-96-year-rivalry-shocking-scheduling-change'
 source: 'https://feeds.foxnews.com/foxnews/latest'

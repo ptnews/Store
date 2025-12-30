@@ -3,6 +3,7 @@ title: "Zelenskyy says Ukraine, ahead of Trump meeting, is 'willing to do whatev
 date: 2025-12-27
 description: "Russian drone and missile attack on Kyiv reportedly kills one, injures 27 as Ukraine&apos;s president prepares for crucial Trump meeting with peace proposal."
 summary: "Russian drone and missile attack on Kyiv reportedly kills one, injures 27 as Ukraine&apos;s president prepares for crucial Trump meeting with peace proposal."
+slug: "zelenskyy-says-ukraine-ahead-of-trump-meeting-is-willing-to-do-whatever-it-takes-to-end-war-with-russia"
 image: ''
 link: 'https://www.foxnews.com/world/zelenskyy-says-fresh-russian-attack-ukraine-shows-putins-true-attitude-ahead-trump-meeting'
 source: 'https://feeds.foxnews.com/foxnews/world'

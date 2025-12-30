@@ -3,6 +3,7 @@ title: "Trump meets with Zelenskyy; talks could unlock first Zelenskyy-Putin cal
 date: 2025-12-28
 description: "President Donald Trump assumes mediator role as talks with President Volodymyr Zelenskyy focus on a U.S.-backed 20-point peace plan that could end the war in Ukraine."
 summary: "President Donald Trump assumes mediator role as talks with President Volodymyr Zelenskyy focus on a U.S.-backed 20-point peace plan that could end the war in Ukraine."
+slug: "trump-meets-with-zelenskyy-talks-could-unlock-first-zelenskyy-putin-call-in-five-years-source"
 image: ''
 link: 'https://www.foxnews.com/world/trump-meets-zelenskyy-talks-could-unlock-first-zelenskyy-putin-call-five-years-source'
 source: 'https://feeds.foxnews.com/foxnews/world'

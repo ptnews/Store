@@ -3,6 +3,7 @@ title: "Hamas confirms five leaders killed, including 'masked spokesperson' in m
 date: 2025-12-29
 description: "Five Hamas military commanders confirmed dead by terrorist group&apos;s armed wing, marking significant blow to Palestinian militant organization&apos;s leadership structure in Gaza conflict."
 summary: "Five Hamas military commanders confirmed dead by terrorist group&apos;s armed wing, marking significant blow to Palestinian militant organization&apos;s leadership structure in Gaza conflict."
+slug: "hamas-confirms-five-leaders-killed-including-masked-spokesperson-in-major-blow-to-terror-group"
 image: ''
 link: 'https://www.foxnews.com/world/hamas-confirms-five-leaders-killed-including-masked-spokesperson-major-blow-terror-group'
 source: 'https://feeds.foxnews.com/foxnews/world'
