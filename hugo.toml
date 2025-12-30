@@ -20,7 +20,7 @@ pagination.pagerSize = 50
   tagsitemap = { mediaType = "application/xml", baseName = "tag-sitemap", isHTML = false }
 
 [outputs]
-  home = ["HTML", "RSS", "JSON", "sitemapindex", "postsitemap", "categoriessitemap", "tagsitemap"]
+  home = ["HTML", "RSS", "JSON", "postsitemap", "categoriessitemap", "tagsitemap"]
   section = ["HTML", "RSS"]
   taxonomy = ["HTML", "RSS"]
   
