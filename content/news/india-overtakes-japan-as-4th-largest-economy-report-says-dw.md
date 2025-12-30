@@ -1,0 +1,21 @@
+---
+title: "India overtakes Japan as 4th-largest economy, report says - DW"
+date: 2025-12-30
+description: "India overtakes Japan as 4th-largest economy, report says&nbsp;&nbsp;DWIndia Surpasses Japan To Become World's 4th Largest Economy: Government&nbsp;&nbsp;NDTVIndia becomes world's 4th largest economy, to surpass Germany in next 2-3 years | India News&nbsp;&nbsp;Hindustan TimesIndia Overtakes California As World’s Fourth Largest Economy—Data&nbsp;&nbsp;NewsweekIndia overtakes Japan as world’s fourth largest economy, eyes top 3 in 2026&nbsp;&nbsp;South China Morning Post"
+summary: "India overtakes Japan as 4th-largest economy, report says&nbsp;&nbsp;DWIndia Surpasses Japan To Become World's 4th Largest Economy: Government&nbsp;&nbsp;NDTVIndia becomes world's 4th largest economy, to surpass Germany in next 2-3 years | India News&nbsp;&nbsp;Hindustan TimesIndia Overtakes California As World’s Fourth Largest Economy—Data&nbsp;&nbsp;NewsweekIndia overtakes Japan as world’s fourth largest economy, eyes top 3 in 2026&nbsp;&nbsp;South China Morning Post"
+slug: "india-overtakes-japan-as-4th-largest-economy-report-says-dw"
+image: ''
+link: 'https://news.google.com/rss/articles/CBMikwFBVV95cUxQaDBsVmpiZHJNTXVGUzQtVm1SSW83Rkt4RFd5cU1SdzZJZkxtU1c3UXRkNmx6ODMzMGZ4YWFyQ09XclFKUFpseVpnaDAzeEVsVGdNZHNaaHJnNHJTNWU4Q1hqUk9rNC1rbFBKY1JPbFc3M0I5TThGdk5GbjN6Yko2STRjWHhMYURvN2tzREo5R2Y2bU3SAZMBQVVfeXFMTUh6X1ZPNV9DQmZBdl9jRDU3WVJ3a3BwdUZOaGNBZ0h0ZkF3engzd25FSkxweFB6LXRjQ3psbVJEVHF2N1A1dlZJc3FydHV2NThzRzJnMkJUeDRUMUNCMG1nWlY4X1NNNUZGMFZsOThtdnIyenhRWllZemZUQ1hydENVVk1mdm55cUJDS0RBMWtXbjY4?oc=5'
+source: 'https://news.google.com/rss/topics/CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx1YlY4U0FtVnVHZ0pWVXlnQVAB?hl=en-US&gl=US&ceid=US:en'
+categories:
+- 'news.google.com'
+tags:
+- 'overtakes'
+- 'largest'
+- 'economy'
+- 'report'
+- 'india'
+
+draft: false
+---
+<ol><li><a href="https://news.google.com/rss/articles/CBMikwFBVV95cUxQaDBsVmpiZHJNTXVGUzQtVm1SSW83Rkt4RFd5cU1SdzZJZkxtU1c3UXRkNmx6ODMzMGZ4YWFyQ09XclFKUFpseVpnaDAzeEVsVGdNZHNaaHJnNHJTNWU4Q1hqUk9rNC1rbFBKY1JPbFc3M0I5TThGdk5GbjN6Yko2STRjWHhMYURvN2tzREo5R2Y2bU3SAZMBQVVfeXFMTUh6X1ZPNV9DQmZBdl9jRDU3WVJ3a3BwdUZOaGNBZ0h0ZkF3engzd25FSkxweFB6LXRjQ3psbVJEVHF2N1A1dlZJc3FydHV2NThzRzJnMkJUeDRUMUNCMG1nWlY4X1NNNUZGMFZsOThtdnIyenhRWllZemZUQ1hydENVVk1mdm55cUJDS0RBMWtXbjY4?oc=5" target="_blank">India overtakes Japan as 4th-largest economy, report says</a>&nbsp;&nbsp;<font color="#6f6f6f">DW</font></li><li><a href="https://news.google.com/rss/articles/CBMirwFBVV95cUxOaFpHMURya1RaRm5DVDBoMDM2T0s0MHpicmJuUWl1SXRDZUhMNG5nMVBZNzN6UnVwdHFNcklBQlhFM1UxV1UyTmhIQjRRQkNJbG1tc0sxOHhxbS1YWE92QzNISlBFRGJfU2JxUjRCWlE2em1jcXFQUXdRaVhyalhUSGh1cHV6SExZbHpCWHJpd2lEVXdYVEVxTWhZQW14b3NPbmxIaUhQbDRMUUFxVVI4?oc=5" target="_blank">India Surpasses Japan To Become World's 4th Largest Economy: Government</a>&nbsp;&nbsp;<font color="#6f6f6f">NDTV</font></li><li><a href="https://news.google.com/rss/articles/CBMi1wFBVV95cUxOeXJmR1dyajNJZVozTVRYbHdJb2FwMUtfTWwtdXVKVjRfcm9lWkhtal9ZeVdSYUl4dlNYYndYRm1Cd3drUmpqRm1wTUwtVDM2dTdfelo0OUNOYUVueVN2WFBfSkNYdzctcVpYQU9lbC1ULXBKOGJZOVRGc2NDN3JQUEs0U3BRY0x3NGs3R1laWDVTcFVfU3R3REwxUWRmZDVkSUs3ZU1nSHhXcVRERExhMGpuak9udDB4OEJRRlp2NTVJSmlpU0FLUFdjSUtuc1VORktnXzY2Zw?oc=5" target="_blank">India becomes world's 4th largest economy, to surpass Germany in next 2-3 years | India News</a>&nbsp;&nbsp;<font color="#6f6f6f">Hindustan Times</font></li><li><a href="https://news.google.com/rss/articles/CBMinwFBVV95cUxOMmZYeldzLVBKdk1iSzFwem9ieGlkZDVqS282M3NFVjRsUzZOUkYwc2dnMTdEQ3R0cTJ6TFRpeDNwdGdIMkdfQzJTZ3R0VTNFdWp4WmtSbzJfazZJNkxST0QyblZ3V2Y0VFR3ektfc05fbjJTV0J3UDZ3WjJoU3IxTHA1bjl1NmY4VmpYa1B5OTJjN2h3TTBvT2EySjhhUGc?oc=5" target="_blank">India Overtakes California As World’s Fourth Largest Economy—Data</a>&nbsp;&nbsp;<font color="#6f6f6f">Newsweek</font></li><li><a href="https://news.google.com/rss/articles/CBMivwFBVV95cUxQTWU4dlI2VmhxTmcyeGVsS25hX181SWFZVlZkZ2l0dmxia1lzX1VRSzM1MzhZd1hSU2hYdENXYXZuWEVpOHZoLW1PN1VfeUhadjBOUTI5dm8ySFlMS3BiWWtvb2VrcjllWk16UGZ5YmtIMEpmY3pGR1JzaW1hM3JiSmdmYjM3S3BQZjFtNHhTYlVIbTZBbVJBZjZsT3dsS1dIRjRXdkU3WjNRU2NqY0tKaDNuNzR6UXQyWm5zcGIxQQ?oc=5" target="_blank">India overtakes Japan as world’s fourth largest economy, eyes top 3 in 2026</a>&nbsp;&nbsp;<font color="#6f6f6f">South China Morning Post</font></li></ol>

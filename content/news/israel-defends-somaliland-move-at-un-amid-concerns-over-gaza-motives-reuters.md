@@ -1,0 +1,21 @@
+---
+title: "Israel defends Somaliland move at UN amid concerns over Gaza motives - Reuters"
+date: 2025-12-30
+description: "Israel defends Somaliland move at UN amid concerns over Gaza motives&nbsp;&nbsp;ReutersIsraeli recognition of Somaliland prompts global outcry, emergency U.N. meeting&nbsp;&nbsp;The Washington PostErdogan calls Israeli recognition of Somaliland ‘illegitimate and unacceptable’&nbsp;&nbsp;The Times of IsraelRemarks at a UN Security Council Emergency Meeting on Somaliland&nbsp;&nbsp;United States Mission to the United Nations (.gov)Somalis rally against Israel’s world-first recognition of Som..."
+summary: "Israel defends Somaliland move at UN amid concerns over Gaza motives&nbsp;&nbsp;ReutersIsraeli recognition of Somaliland prompts global outcry, emergency U.N. meeting&nbsp;&nbsp;The Washington PostErdogan calls Israeli recognition of Somaliland ‘illegitimate and unacceptable’&nbsp;&nbsp;The Times of IsraelRemarks at a UN Security Council Emergency Meeting on Somaliland&nbsp;&nbsp;United States Mission to the United Nations (.gov)Somalis rally against Israel’s world-first recognition of Som..."
+slug: "israel-defends-somaliland-move-at-un-amid-concerns-over-gaza-motives-reuters"
+image: ''
+link: 'https://news.google.com/rss/articles/CBMiuwFBVV95cUxQb3JHU0JrVVNVQ0NkU3ZMLXJ4T0NieFZDVDVWTmtYdGtYclE1XzBiTE8tSkVObnJkR0VzOG5rVmplV0p4Ym5OOTNBOUxoMFVDNEM3TENWNTJSNnQxdGhKQzBLandDYXNTNW9mLURQS0I1ZW9jbTFNSVRIcXlBVXpZVzBDNmFuOHhNbm1JWHFSSnB6a3RmUWtKNjdmRmF6alkxM2xlZXFsUE1zdFVGT0hScWFYLXJEYkNWaHBB?oc=5'
+source: 'https://news.google.com/rss/topics/CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx1YlY4U0FtVnVHZ0pWVXlnQVAB?hl=en-US&gl=US&ceid=US:en'
+categories:
+- 'news.google.com'
+tags:
+- 'somaliland'
+- 'concerns'
+- 'defends'
+- 'motives'
+- 'reuters'
+
+draft: false
+---
+<ol><li><a href="https://news.google.com/rss/articles/CBMiuwFBVV95cUxQb3JHU0JrVVNVQ0NkU3ZMLXJ4T0NieFZDVDVWTmtYdGtYclE1XzBiTE8tSkVObnJkR0VzOG5rVmplV0p4Ym5OOTNBOUxoMFVDNEM3TENWNTJSNnQxdGhKQzBLandDYXNTNW9mLURQS0I1ZW9jbTFNSVRIcXlBVXpZVzBDNmFuOHhNbm1JWHFSSnB6a3RmUWtKNjdmRmF6alkxM2xlZXFsUE1zdFVGT0hScWFYLXJEYkNWaHBB?oc=5" target="_blank">Israel defends Somaliland move at UN amid concerns over Gaza motives</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font></li><li><a href="https://news.google.com/rss/articles/CBMimgFBVV95cUxQMnFPdmlCRUN0T1FBc2hJZjN1UWN6M0N3TzhyNGZCOGVGQkhPUXZBaUxZNzJpS0JyUVQ0NWprdEpyY09fdU9qUnFDb1ZmUXZrYThBWVdLeElBM25DaG91dFJPOE5iRTF6cVczUFBpU3U1UXBocmhIRE9HMExzTkc2OGpUakk2QmNiUXZ4dHdqNkJ3MjQxNnprTHR3?oc=5" target="_blank">Israeli recognition of Somaliland prompts global outcry, emergency U.N. meeting</a>&nbsp;&nbsp;<font color="#6f6f6f">The Washington Post</font></li><li><a href="https://news.google.com/rss/articles/CBMiwAFBVV95cUxQZFNMbEx2cTJzRktqbkt2NWtDOVpxRmoxQ2I3ZUp2QmJNaGE3LTFxYmdiYl9VWVg4bk9jWEQ2enRwQnh6Q0ZLbXZOenotTWJsdmhVMnRrMVpPM3QzRVZNck9BR0VqYWIzR3AzenhOVWQyb0w3eTZTNWFuOVdlVjFpd0JKcFVfc3hNWmljbHZSUUpWMXdNbHRoZ1F1NkN5aEh1alk1V204Tl90bzRxM2g5WEM0d2xfdXlfNWEtLWRuQk4?oc=5" target="_blank">Erdogan calls Israeli recognition of Somaliland ‘illegitimate and unacceptable’</a>&nbsp;&nbsp;<font color="#6f6f6f">The Times of Israel</font></li><li><a href="https://news.google.com/rss/articles/CBMilwFBVV95cUxPeXd3Z1R3QV93akdaNlE4cXB3R1hrenJBT1BweEtza2MzdzJEb2tZRE1xb0hLQkdmbk1VOVZEVTNPWmdJZWpxbmhRNDYzaEpiY1AyWDFQdzFDUUR5cDdSMDY2LUdPRG5IQklVb1YtZzBhUE1VRkJEdFo3dzlWOUx0dmFIVmZsYW5YdVdxRnFOVmh3OFdjU0tN?oc=5" target="_blank">Remarks at a UN Security Council Emergency Meeting on Somaliland</a>&nbsp;&nbsp;<font color="#6f6f6f">United States Mission to the United Nations (.gov)</font></li><li><a href="https://news.google.com/rss/articles/CBMirgFBVV95cUxPTXRJZXJkYkZqUjFJTTN3TDUtZkhlNGUxQ0lkZWFqdXp1UGVQM1FKaUZna0k2bXNfWE1UQWp2NDU1THBYTHo4bTVYdW9yYVA2Wnd2S093R1RtLUNNQXlmdW5BQV92a0Z1djJFeFlYZTBVMVJyYy1MbTdIYU1WNndBX1FMbldrZVJpLUVMVHR2dlJjTld5NW95SjgyRTBGTlBYQkRJSk1vRl85WHNhVEHSAbMBQVVfeXFMTWptd1F5YVdPYll3SGxZNWxLNTRycXlvWGd0RVo2N0psNUpPRTFPWUJxQTJCbU42ZFp3d1NsU2JOYVNXQjNRN3U3V0JzMmd1OC1kUlI5eVQ1UTg3bHNodzJaYTFySWpjOEIwd3BzY3g4MXlVcmloRG5DWFJNTjhHUG45ZTNrM0NPeXRJdkV2SGx2R1VKdWhoZHN6dVR0b0RjcFJVaG02V0oydjZqWE5GaWlNRE0?oc=5" target="_blank">Somalis rally against Israel’s world-first recognition of Somaliland</a>&nbsp;&nbsp;<font color="#6f6f6f">Al Jazeera</font></li></ol>
