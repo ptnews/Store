@@ -154,6 +154,11 @@ func main() {
 			}
 
 			tags := extractTags(item.Title)
+
+			postContent := item.Content
+			if postContent == "" {
+				postContent = item.Description
+			}
 			
 			frontmatter := fmt.Sprintf(`---
 title: "%s"
@@ -170,7 +175,7 @@ tags:
 draft: false
 ---
 %s
-`, cleanedTitle, pubDate, cleanedDescText, cleanedDescText, image, item.Link, source.String(), category, formatTags(tags), item.Content)
+`, cleanedTitle, pubDate, cleanedDescText, cleanedDescText, image, item.Link, source.String(), category, formatTags(tags), postContent)
 
 			os.WriteFile(filepath.Join(contentDir, slug+".md"), []byte(frontmatter), 0644)
 
