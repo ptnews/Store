@@ -1,9 +1,9 @@
 ---
-title: "Chicago Mayor Brandon Johnson endorses 'Abolish ICE' name for new snowplow name"
+title: "Chicago Mayor Brandon Johnson endorses 'Abolish ICE' for name of new snowplow"
 date: 2025-12-30
 description: "Chicago Mayor Brandon Johnson endorsed &quot;Abolish ICE&quot; as a name for the city&apos;s annual snowplow naming contest on MS NOW&apos;s &quot;PoliticsNation&quot; on Saturday."
 summary: "Chicago Mayor Brandon Johnson endorsed &quot;Abolish ICE&quot; as a name for the city&apos;s annual snowplow naming contest on MS NOW&apos;s &quot;PoliticsNation&quot; on Saturday."
-slug: "chicago-mayor-brandon-johnson-endorses-abolish-ice-name-for-new-snowplow-name"
+slug: "chicago-mayor-brandon-johnson-endorses-abolish-ice-for-name-of-new-snowplow"
 image: ''
 link: 'https://www.foxnews.com/media/chicago-mayor-brandon-johnson-endorses-abolish-ice-name-new-snowplow-name'
 source: 'https://feeds.foxnews.com/foxnews/latest'
