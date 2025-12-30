@@ -1,0 +1,21 @@
+---
+title: "The mystery of flight MH370: will a new search find the missing airliner after more than a decade? - The Guardian"
+date: 2025-12-30
+description: "The mystery of flight MH370: will a new search find the missing airliner after more than a decade?&nbsp;&nbsp;The GuardianNew deep-sea search for MH370 begins as families hope for answers&nbsp;&nbsp;YahooThe secretive mission to solve MH370’s disappearance&nbsp;&nbsp;The TelegraphMore than a decade after its disappearance, Malaysia to resume search for MH370&nbsp;&nbsp;NPRA plane vanished without trace in 2014. Now new tech is looking for MH370&nbsp;&nbsp;Australian Broadcasting Corporation"
+summary: "The mystery of flight MH370: will a new search find the missing airliner after more than a decade?&nbsp;&nbsp;The GuardianNew deep-sea search for MH370 begins as families hope for answers&nbsp;&nbsp;YahooThe secretive mission to solve MH370’s disappearance&nbsp;&nbsp;The TelegraphMore than a decade after its disappearance, Malaysia to resume search for MH370&nbsp;&nbsp;NPRA plane vanished without trace in 2014. Now new tech is looking for MH370&nbsp;&nbsp;Australian Broadcasting Corporation"
+slug: "the-mystery-of-flight-mh370-will-a-new-search-find-the-missing-airliner-after-more-than-a-decade-the-guardian"
+image: ''
+link: 'https://news.google.com/rss/articles/CBMixgFBVV95cUxPelhHR2tFVGZXcDJ5V1J6d25adTNFMjhOMXBVcjhRUG9IczhQaERfM2JxYlAzLXo3al8tNk5XN0NJdDdKNGFwcnhzc1pfdW9rbGdfMEEzODdmcGRrckc4V2dVNnAzOXk0YlhWekp5OW1tOTlZc001ZF9qYndGNl96QVhUd1BOd0lfQnAxQjA4NHZxYWw0RG5RNGpLYVJ5bEhaNVNVNzlXZXNiWGYzdkpGc2dUaDRFM0Y4WVhCc1ZNeENmRG15S1E?oc=5'
+source: 'https://news.google.com/rss/topics/CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx1YlY4U0FtVnVHZ0pWVXlnQVAB?hl=en-US&gl=US&ceid=US:en'
+categories:
+- 'news.google.com'
+tags:
+- 'airliner'
+- 'guardian'
+- 'mystery'
+- 'missing'
+- 'flight'
+
+draft: false
+---
+<ol><li><a href="https://news.google.com/rss/articles/CBMixgFBVV95cUxPelhHR2tFVGZXcDJ5V1J6d25adTNFMjhOMXBVcjhRUG9IczhQaERfM2JxYlAzLXo3al8tNk5XN0NJdDdKNGFwcnhzc1pfdW9rbGdfMEEzODdmcGRrckc4V2dVNnAzOXk0YlhWekp5OW1tOTlZc001ZF9qYndGNl96QVhUd1BOd0lfQnAxQjA4NHZxYWw0RG5RNGpLYVJ5bEhaNVNVNzlXZXNiWGYzdkpGc2dUaDRFM0Y4WVhCc1ZNeENmRG15S1E?oc=5" target="_blank">The mystery of flight MH370: will a new search find the missing airliner after more than a decade?</a>&nbsp;&nbsp;<font color="#6f6f6f">The Guardian</font></li><li><a href="https://news.google.com/rss/articles/CBMihgFBVV95cUxPYUNKZ3RHRUI2b2x4cHdEWFA1ckgyN2o2UkRuREhORFQ4SnBvZjNvSEdqWFgya25TbjA3NVlXNm1ndnY3MlVMVm83MmZDWGZUZUoyajM2Nm84RWdpcnFTMEV1SkpYcXNiTmNIQTVrU2g1d0RtNUEyd1ppMENGa0FvYTAzWHh3UQ?oc=5" target="_blank">New deep-sea search for MH370 begins as families hope for answers</a>&nbsp;&nbsp;<font color="#6f6f6f">Yahoo</font></li><li><a href="https://news.google.com/rss/articles/CBMirgFBVV95cUxPalRkOEY3ZExPRlEyUk1FM3BqdVRlV20zUTBMbVRPSWI2RXZCU1RZX09Ybm5BQTZfSHhoZFJKTldvaDZSVEJzaHBKVF9HbjRlUXp2YjhONVFyQ3pSS19VSUlfY0l5bnhZLWVQeVVPTmw5YmZkbG9zcmVEMWRGNE1CVkpjLXJFa1lobFUyOWxyYncxTkpJUnRvNHJqRlRvNTI0LXhTcDREd0h4NHJKeGc?oc=5" target="_blank">The secretive mission to solve MH370’s disappearance</a>&nbsp;&nbsp;<font color="#6f6f6f">The Telegraph</font></li><li><a href="https://news.google.com/rss/articles/CBMiwAFBVV95cUxPbnNTXzlMOG1Qbm1yVFF4TmRwRUdIS2hnRTJPWmM1ajdScU9wc1E4VzlyVFlHOUxFU0E5RXZVNFJOTVZjSzRtckt0R3NTMGVqWFlTWWIyM1BGNnp3cHJFWHltQUZMbGRPb3VyUnVmQ3B3SHBCWk5iMTVMd2VFZVdPMUJEYmZhbmtZUkFydjM5NDlmX0E1NWFxR25wRjJ2bVNRQk1lSy1HLUhNbnJuR2h4ZkRtaTFRWHpRd05GNE5TbUE?oc=5" target="_blank">More than a decade after its disappearance, Malaysia to resume search for MH370</a>&nbsp;&nbsp;<font color="#6f6f6f">NPR</font></li><li><a href="https://news.google.com/rss/articles/CBMiqAFBVV95cUxPU2RiOXNxUS1rWktEdXN0SGNjcTZiaDRqTUxRYW9wVWJLYXNWWElKWFNHQ0lDd29Rd0p6VUlmenFCUG9WNTBkcHUxSF9sZF9ONGZRZnpDSnNaMFJjX0c0RGtGaFpsX1pwYzIwNnM1dmdZV1NENEU1bUcwaWdIVXViWGRwa0huaXktWWdZTUhUTEppZ3F6V2VnenJ2VmpiMUYtcmhxbHNlODc?oc=5" target="_blank">A plane vanished without trace in 2014. Now new tech is looking for MH370</a>&nbsp;&nbsp;<font color="#6f6f6f">Australian Broadcasting Corporation</font></li></ol>
