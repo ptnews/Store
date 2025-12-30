@@ -143,8 +143,8 @@ func main() {
 			source := new(strings.Builder)
 			source.WriteString(strings.ReplaceAll(feedURL, "www.", "")) // Corrected line to use URL from `feeds` slice
 
-			cleanedTitle := strings.ReplaceAll(strings.ReplaceAll(item.Title, "'", "''"), "\n", " ")
-			cleanedDescText := strings.ReplaceAll(strings.ReplaceAll(descText, "'", "''"), "\n", " ")
+			cleanedTitle := strings.ReplaceAll(item.Title, "\"", "\\\"")
+			cleanedDescText := strings.ReplaceAll(descText, "\"", "\\\"")
 
 			// Add categories and tags
 			parsedURL, err := url.Parse(feedURL)
@@ -155,9 +155,10 @@ func main() {
 
 			tags := extractTags(item.Title)
 			
-			frontmatter := fmt.Sprintf(`---\ntitle: '%s'
+			frontmatter := fmt.Sprintf(`---
+title: "%s"
 date: %s
-description: '%s'
+description: "%s"
 image: '%s'
 link: '%s'
 source: '%s'

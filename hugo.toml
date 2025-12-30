@@ -10,6 +10,7 @@ title = "PTNews Store – Latest World News"
 [params]
   title = "PTNews Store"
   description = "Latest world news from multiple trusted sources"
+  mainSections = ["news"]
 
 [outputFormats]
   sitemapindex = { mediaType = "application/xml", baseName = "sitemap", isHTML = false }
