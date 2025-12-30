@@ -1,6 +1,7 @@
----\ntitle: 'Netanyahu says Trump to become first non-Israeli to receive Israel Prize'
+---
+title: "Netanyahu says Trump to become first non-Israeli to receive Israel Prize"
 date: 2025-12-29
-description: 'Prime Minister Benjamin Netanyahu announced President Trump will receive Israel&apos;s highest cultural honor, the Israel Prize - breaking tradition as first non-Israeli recipient ever awarded.'
+description: "Prime Minister Benjamin Netanyahu announced President Trump will receive Israel&apos;s highest cultural honor, the Israel Prize - breaking tradition as first non-Israeli recipient ever awarded."
 image: ''
 link: 'https://www.foxnews.com/politics/netanyahu-says-trump-become-first-non-israeli-receive-israel-prize'
 source: 'https://feeds.foxnews.com/foxnews/latest'

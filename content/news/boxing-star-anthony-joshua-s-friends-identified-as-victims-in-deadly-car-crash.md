@@ -1,6 +1,7 @@
----\ntitle: 'Boxing star Anthony Joshua''s friends identified as victims in deadly car crash'
+---
+title: "Boxing star Anthony Joshua's friends identified as victims in deadly car crash"
 date: 2025-12-29
-description: 'Anthony Joshua&apos;s friends were identified as the victims in a car crash in Nigeria that left the boxer injured on Monday, the country&apos;s president said.'
+description: "Anthony Joshua&apos;s friends were identified as the victims in a car crash in Nigeria that left the boxer injured on Monday, the country&apos;s president said."
 image: ''
 link: 'https://www.foxnews.com/sports/boxing-star-anthony-joshuas-friends-identified-victims-deadly-car-crash'
 source: 'https://feeds.foxnews.com/foxnews/latest'

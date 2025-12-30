@@ -1,6 +1,7 @@
----\ntitle: 'From Gaza to Iran: What’s at stake in Trump-Netanyahu Mar-a-Lago talks?'
+---
+title: "From Gaza to Iran: What’s at stake in Trump-Netanyahu Mar-a-Lago talks?"
 date: 2025-12-29
-description: 'Gaza peace plan and Iran both reportedly on agenda as President Donald Trump is set to meet Israeli Prime Minister Benjamin Netanyahu at Mar-a-Lago on Monday.'
+description: "Gaza peace plan and Iran both reportedly on agenda as President Donald Trump is set to meet Israeli Prime Minister Benjamin Netanyahu at Mar-a-Lago on Monday."
 image: ''
 link: 'https://www.foxnews.com/world/from-gaza-iran-whats-stake-trump-netanyahu-mar-a-lago-talks'
 source: 'https://feeds.foxnews.com/foxnews/world'

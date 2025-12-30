@@ -1,6 +1,7 @@
----\ntitle: 'Hamas builds new terror regime in Gaza, recruiting teens amid problematic election'
+---
+title: "Hamas builds new terror regime in Gaza, recruiting teens amid problematic election"
 date: 2025-12-28
-description: 'Hamas is recruiting teenage fighters during Gaza ceasefire after Israeli forces withdrew in October. This as national security analyst Professor Kobi Michael warns about growing militant control.'
+description: "Hamas is recruiting teenage fighters during Gaza ceasefire after Israeli forces withdrew in October. This as national security analyst Professor Kobi Michael warns about growing militant control."
 image: ''
 link: 'https://www.foxnews.com/world/hamas-builds-new-terror-regime-gaza-recruiting-teens-amid-problematic-election'
 source: 'https://feeds.foxnews.com/foxnews/world'

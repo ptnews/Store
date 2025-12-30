@@ -1,6 +1,7 @@
----\ntitle: 'Trump threatens Hamas, warns Iran of more US strikes on nuclear sites'
+---
+title: "Trump threatens Hamas, warns Iran of more US strikes after Netanyahu talks"
 date: 2025-12-29
-description: 'Latest warnings come as Trump hosts Israeli Prime Minister Benjamin Netanyahu for talks at his Mar-a-Lago club. '
+description: "US president says Hamas will pay if it fails to disarm, and threatens new strikes on Iran over its nuclear programme. "
 image: ''
 link: 'https://www.aljazeera.com/news/2025/12/29/trump-says-us-would-back-strikes-against-irans-missile-programme?traffic_source=rss'
 source: 'https://aljazeera.com/xml/rss/all.xml'
@@ -8,8 +9,8 @@ categories:
 - 'aljazeera.com'
 tags:
 - 'threatens'
+- 'netanyahu'
 - 'strikes'
-- 'nuclear'
 - 'trump'
 - 'hamas'
 

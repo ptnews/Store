@@ -1,6 +1,7 @@
----\ntitle: 'UK flag clash as foreign banners fly, citizens push back against woke policies reshaping Britain'
+---
+title: "UK flag clash as foreign banners fly, citizens push back against woke policies reshaping Britain"
 date: 2025-12-28
-description: 'New polling reveals deep splits over Union Jack symbolism as Britain&apos;s changing demographics fuel heated debate about national flags and identity.'
+description: "New polling reveals deep splits over Union Jack symbolism as Britain&apos;s changing demographics fuel heated debate about national flags and identity."
 image: ''
 link: 'https://www.foxnews.com/world/uk-flag-clash-foreign-banners-fly-citizens-push-back-against-woke-policies-reshaping-britain'
 source: 'https://feeds.foxnews.com/foxnews/world'

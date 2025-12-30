@@ -1,6 +1,7 @@
----\ntitle: 'Israel FM accuses Palestinian Authority of aiding terror with ‘Pay-for-Slay’ after deadly attack'
+---
+title: "Israel FM accuses Palestinian Authority of aiding terror with ‘Pay-for-Slay’ after deadly attack"
 date: 2025-12-26
-description: 'Two Israelis were killed in terrorist attacks in Israel on Friday, as officials accused the Palestinian Authority of misleading the world about its active terror payment policy.'
+description: "Two Israelis were killed in terrorist attacks in Israel on Friday, as officials accused the Palestinian Authority of misleading the world about its active terror payment policy."
 image: ''
 link: 'https://www.foxnews.com/world/israel-fm-accuses-palestinian-authority-aiding-terror-pay-for-slay-after-deadly-attack'
 source: 'https://feeds.foxnews.com/foxnews/world'

@@ -1,6 +1,7 @@
----\ntitle: 'Texas man charged with attempting to provide material support to ISIS in federal terrorism case'
+---
+title: "Texas man charged with attempting to provide material support to ISIS in federal terrorism case"
 date: 2025-12-29
-description: 'Texas man John Michael Garza Jr., 21, was charged with attempting to provide material support to ISIS after allegedly paying cryptocurrency to undercover agent.'
+description: "Texas man John Michael Garza Jr., 21, was charged with attempting to provide material support to ISIS after allegedly paying cryptocurrency to undercover agent."
 image: ''
 link: 'https://www.foxnews.com/us/texas-man-charged-attempting-provide-material-support-isis-federal-terrorism-case'
 source: 'https://feeds.foxnews.com/foxnews/latest'

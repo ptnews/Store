@@ -1,6 +1,7 @@
----\ntitle: 'Somali Minnesotans being ''scapegoated'' in fraud investigation, NYT writer claims'
+---
+title: "Somali Minnesotans being 'scapegoated' in fraud investigation, NYT writer claims"
 date: 2025-12-29
-description: 'New York Times writer Mara Gay claimed investigations into Minnesota fraud allegations are politically motivated and &quot;scapegoated&quot; the Somali community.'
+description: "New York Times writer Mara Gay claimed investigations into Minnesota fraud allegations are politically motivated and &quot;scapegoated&quot; the Somali community."
 image: ''
 link: 'https://www.foxnews.com/media/somali-minnesotans-being-scapegoated-fraud-investigation-nyt-writer-claims'
 source: 'https://feeds.foxnews.com/foxnews/latest'

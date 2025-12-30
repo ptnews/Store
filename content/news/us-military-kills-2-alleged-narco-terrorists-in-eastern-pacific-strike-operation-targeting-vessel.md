@@ -1,6 +1,7 @@
----\ntitle: 'US military kills 2 alleged narco-terrorists in Eastern Pacific strike operation targeting vessel'
+---
+title: "US military kills 2 alleged narco-terrorists in Eastern Pacific strike operation targeting vessel"
 date: 2025-12-29
-description: 'U.S. Southern Command&apos;s Joint Task Force killed two alleged narco-terrorists in international waters on Dec. 29, marking the 30th strike since September.'
+description: "U.S. Southern Command&apos;s Joint Task Force killed two alleged narco-terrorists in international waters on Dec. 29, marking the 30th strike since September."
 image: ''
 link: 'https://www.foxnews.com/us/us-military-kills-2-narco-terrorists-eastern-pacific-strike-operation-targeting-vessel'
 source: 'https://feeds.foxnews.com/foxnews/latest'

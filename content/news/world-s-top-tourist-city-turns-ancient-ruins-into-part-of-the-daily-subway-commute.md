@@ -1,6 +1,7 @@
----\ntitle: 'World''s top tourist city turns ancient ruins into part of the daily subway commute'
+---
+title: "World's top tourist city turns ancient ruins into part of the daily subway commute"
 date: 2025-12-29
-description: 'Rome&apos;s new subway stations near the Colosseum showcase ancient artifacts discovered during construction, turning commutes into archaeological journeys.'
+description: "Rome&apos;s new subway stations near the Colosseum showcase ancient artifacts discovered during construction, turning commutes into archaeological journeys."
 image: ''
 link: 'https://www.foxnews.com/travel/worlds-top-tourist-city-turns-ancient-ruins-part-daily-subway-commute'
 source: 'https://feeds.foxnews.com/foxnews/latest'

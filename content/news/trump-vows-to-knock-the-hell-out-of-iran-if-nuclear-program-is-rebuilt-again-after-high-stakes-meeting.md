@@ -1,6 +1,7 @@
----\ntitle: 'Trump vows to ''knock the hell out of'' Iran if nuclear program is rebuilt again after high-stakes meeting'
+---
+title: "Trump vows to 'knock the hell out of' Iran if nuclear program is rebuilt again after high-stakes meeting"
 date: 2025-12-29
-description: 'Trump warns Iran he&apos;ll &apos;knock the hell out of them&apos; if nuclear program rebuilds, as new reports allegedly detail chemical weapons development for missiles.'
+description: "Trump warns Iran he&apos;ll &apos;knock the hell out of them&apos; if nuclear program rebuilds, as new reports allegedly detail chemical weapons development for missiles."
 image: ''
 link: 'https://www.foxnews.com/world/trump-vows-knock-hell-out-of-iran-nuclear-program-rebuilt-again-after-high-stakes-meeting'
 source: 'https://feeds.foxnews.com/foxnews/world'

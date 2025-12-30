@@ -1,6 +1,7 @@
----\ntitle: '''Battle of the Sexes'' tennis match proves critical point about men in women''s sports, ex-NFL kicker suggests'
+---
+title: "'Battle of the Sexes' tennis match proves critical point about men in women's sports, ex-NFL kicker suggests"
 date: 2025-12-29
-description: 'Former NFL kicker Jay Feely ripped the &quot;Battle of the Sexes&quot; event on Sunday, telling his followers not to believe &quot;ignorant liberals&quot; when it comes to men in women&apos;s sports.'
+description: "Former NFL kicker Jay Feely ripped the &quot;Battle of the Sexes&quot; event on Sunday, telling his followers not to believe &quot;ignorant liberals&quot; when it comes to men in women&apos;s sports."
 image: ''
 link: 'https://www.foxnews.com/sports/battle-sexes-tennis-match-proves-critical-point-about-men-womens-sports-ex-nfl-kicker-suggests'
 source: 'https://feeds.foxnews.com/foxnews/latest'

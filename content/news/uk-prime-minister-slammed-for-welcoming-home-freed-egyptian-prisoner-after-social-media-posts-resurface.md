@@ -1,6 +1,7 @@
----\ntitle: 'UK prime minister slammed for welcoming home freed Egyptian prisoner after social media posts resurface'
+---
+title: "UK prime minister slammed for welcoming home freed Egyptian prisoner after social media posts resurface"
 date: 2025-12-29
-description: 'U.K. Prime Minister Keir Starmer is facing criticism after welcoming human rights activist Alaa Abd el-Fattah home, as the man&apos;s past posts sparked political backlash.'
+description: "U.K. Prime Minister Keir Starmer is facing criticism after welcoming human rights activist Alaa Abd el-Fattah home, as the man&apos;s past posts sparked political backlash."
 image: ''
 link: 'https://www.foxnews.com/world/uk-prime-minister-slammed-welcoming-home-freed-egyptian-prisoner-after-social-media-posts-resurface'
 source: 'https://feeds.foxnews.com/foxnews/world'

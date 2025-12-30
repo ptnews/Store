@@ -1,6 +1,7 @@
----\ntitle: 'Iranian protesters clash with security forces as tear gas fills Tehran streets amid nationwide unrest'
+---
+title: "Iranian protesters clash with security forces as tear gas fills Tehran streets amid nationwide unrest"
 date: 2025-12-29
-description: 'Iran protests escalated as demonstrators clashed with security forces in Tehran and Mashhad, with tear gas deployed amid nationwide strikes, reports say.'
+description: "Iran protests escalated as demonstrators clashed with security forces in Tehran and Mashhad, with tear gas deployed amid nationwide strikes, reports say."
 image: ''
 link: 'https://www.foxnews.com/world/iranian-protesters-clash-security-forces-tear-gas-fills-tehran-streets-amid-nationwide-unrest'
 source: 'https://feeds.foxnews.com/foxnews/world'

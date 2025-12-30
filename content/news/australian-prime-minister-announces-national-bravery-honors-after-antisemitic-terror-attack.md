@@ -1,6 +1,7 @@
----\ntitle: 'Australian prime minister announces national bravery honors after antisemitic terror attack'
+---
+title: "Australian prime minister announces national bravery honors after antisemitic terror attack"
 date: 2025-12-25
-description: 'Australia announced a national bravery award for heroes who confronted ISIS-inspired gunmen during a deadly Hanukkah attack that killed 15 people in Sydney.'
+description: "Australia announced a national bravery award for heroes who confronted ISIS-inspired gunmen during a deadly Hanukkah attack that killed 15 people in Sydney."
 image: ''
 link: 'https://www.foxnews.com/world/australian-pm-announces-national-bravery-honors-after-antisemitic-terror-attack'
 source: 'https://feeds.foxnews.com/foxnews/world'
