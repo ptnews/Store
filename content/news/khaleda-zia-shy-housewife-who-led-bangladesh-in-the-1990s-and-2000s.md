@@ -1,9 +1,9 @@
 ---
-title: "Khaleda Zia: Slain leader's widow who became Bangladesh's first PM"
+title: "Khaleda Zia: 'Shy housewife' who led Bangladesh in the 1990s and 2000s"
 date: 2025-12-30
 description: "The country's first female prime minister governed in periods of violent unrest and economic hardship."
 summary: "The country's first female prime minister governed in periods of violent unrest and economic hardship."
-slug: "khaleda-zia-slain-leader-s-widow-who-became-bangladesh-s-first-pm"
+slug: "khaleda-zia-shy-housewife-who-led-bangladesh-in-the-1990s-and-2000s"
 image: ''
 link: 'https://www.bbc.com/news/articles/c1479kved95o?at_medium=RSS&at_campaign=rss'
 source: 'http://feeds.bbci.co.uk/news/world/rss.xml'
@@ -11,10 +11,10 @@ categories:
 - 'feeds.bbci.co.uk'
 tags:
 - 'bangladesh'
+- 'housewife'
 - 'khaleda'
-- 'leader'
-- 'became'
-- 'slain'
+- '1990s'
+- '2000s'
 
 draft: false
 ---

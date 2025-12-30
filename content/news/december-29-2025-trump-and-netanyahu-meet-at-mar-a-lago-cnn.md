@@ -1,0 +1,19 @@
+---
+title: "December 29, 2025 — Trump and Netanyahu meet at Mar-a-Lago - CNN"
+date: 2025-12-30
+description: "December 29, 2025 — Trump and Netanyahu meet at Mar-a-Lago&nbsp;&nbsp;CNNTrump Live Updates: Netanyahu Meeting, Ukraine Talks, Venezuela and More&nbsp;&nbsp;The New York TimesFive key takeaways from Trump-Netanyahu meeting in Florida&nbsp;&nbsp;Al JazeeraTrump warns Hamas must disarm for Gaza peace deal to reach next phase&nbsp;&nbsp;PBSTrump says Hamas must disarm very soon or \"there will be hell to pay\"&nbsp;&nbsp;CBS News"
+summary: "December 29, 2025 — Trump and Netanyahu meet at Mar-a-Lago&nbsp;&nbsp;CNNTrump Live Updates: Netanyahu Meeting, Ukraine Talks, Venezuela and More&nbsp;&nbsp;The New York TimesFive key takeaways from Trump-Netanyahu meeting in Florida&nbsp;&nbsp;Al JazeeraTrump warns Hamas must disarm for Gaza peace deal to reach next phase&nbsp;&nbsp;PBSTrump says Hamas must disarm very soon or \"there will be hell to pay\"&nbsp;&nbsp;CBS News"
+slug: "december-29-2025-trump-and-netanyahu-meet-at-mar-a-lago-cnn"
+image: ''
+link: 'https://news.google.com/rss/articles/CBMifkFVX3lxTE9Mel9sN0NfbEdhOWIzTGZ3UFNEUGFXM0ZmUGhkU3pueUNIdUx0RVRyUUhaWW1HU3RZamFjSW04VG14T05hN0Iyb2MtV2tCaEE3Smpqa1pJN0UtcGdoalYzTTJ2ay1rNDg3NXhuM3dHUlZIOTd1WEpTLWk0all3dw?oc=5'
+source: 'https://news.google.com/rss/topics/CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx1YlY4U0FtVnVHZ0pWVXlnQVAB?hl=en-US&gl=US&ceid=US:en'
+categories:
+- 'news.google.com'
+tags:
+- 'netanyahu'
+- 'december'
+- 'trump'
+
+draft: false
+---
+<ol><li><a href="https://news.google.com/rss/articles/CBMifkFVX3lxTE9Mel9sN0NfbEdhOWIzTGZ3UFNEUGFXM0ZmUGhkU3pueUNIdUx0RVRyUUhaWW1HU3RZamFjSW04VG14T05hN0Iyb2MtV2tCaEE3Smpqa1pJN0UtcGdoalYzTTJ2ay1rNDg3NXhuM3dHUlZIOTd1WEpTLWk0all3dw?oc=5" target="_blank">December 29, 2025 — Trump and Netanyahu meet at Mar-a-Lago</a>&nbsp;&nbsp;<font color="#6f6f6f">CNN</font></li><li><a href="https://news.google.com/rss/articles/CBMiY0FVX3lxTE52YUpMaTJudTJyTzlsRFNHQkJ0ZFM3Nks2bkQ2eTVWWEpyS0hUUGM3R181aklta2x2bnFlYWg5X3JvTHd5MzZaVGNtQW5MbFJOd0lsU3NiX2xOWGpSakFZLVhYaw?oc=5" target="_blank">Trump Live Updates: Netanyahu Meeting, Ukraine Talks, Venezuela and More</a>&nbsp;&nbsp;<font color="#6f6f6f">The New York Times</font></li><li><a href="https://news.google.com/rss/articles/CBMiogFBVV95cUxOeXNyZTJsV1RSenJVRWI5cXBLc2VFaTJtR2tHN1QwNUh3RUdpX1ZGNzAtdlhvbmdKaW1yTDR2UGZva3dWLVVKS1NidFhQcC1BOUFjRGdnNi1CeFFyV3UwQlVQLW9sY19hSU5EU0VwUXBIeG1aNWVVR1dNeVRWaGtLU0k5Rm1DbzRkV1FoekdmbnFGZjJGYzV0NjI4WmJmMTlxcFHSAacBQVVfeXFMTlhKZTlYNFV4ZVg1N3JpNFNsa0dPd05PNmp2RnZCanlPTHhGdURSTFA1SmZpLXpSb3VWeXZ0Q0V1N0hncU5MOG9pU0JhYXd3RFVqN2s1WDhxRERJZ1V1S3lUZUtBOUpqQ2JrOVVMYWJNZi1XcV81Nkl6aWlxY0Q2ZG4xUlBNR2gwbTVqQi1iWnc4OTRVMWxma2E1UzVpcE1ORl96NzhXbHM?oc=5" target="_blank">Five key takeaways from Trump-Netanyahu meeting in Florida</a>&nbsp;&nbsp;<font color="#6f6f6f">Al Jazeera</font></li><li><a href="https://news.google.com/rss/articles/CBMipgFBVV95cUxPeUVla0dRTEk5c3NFX01YZ3Rjc040OWxsdEtDYlM5dUJBZXVhLTdJMU1xbzUzb2c2V2M3bXRubVFQVHhzbmVqcmlvSVVjY29NOWtGdXE2WXFOSFN6djVlclRjM3hGWnZBdG0xQTVpYkJEcmRmZU03SkFsb1MzREN3NDV6SDRkdTlrYXRDQWtHY2J2OGlZRFYxbTZ1T0l6dU01OGhYVldB?oc=5" target="_blank">Trump warns Hamas must disarm for Gaza peace deal to reach next phase</a>&nbsp;&nbsp;<font color="#6f6f6f">PBS</font></li><li><a href="https://news.google.com/rss/articles/CBMickFVX3lxTFB0bkFVMzdpY2U1dDhsTlJOb3YwLTJ4NVVMeG1yd205UVRfRmd5dGU5ekxWTk5PSE1nenlDUjg2NHR6blZ2ZUVJX21ibUs3VFVlVWJld1BybWJ1TEZFdGtHWERKNDZFNTB6VTd1YWZpVnY3Z9IBd0FVX3lxTFBUWlBKX0Y2NVVCVGNpMWU1LXFoLTV1bFVsN2VIWEs3TlY1eDU3WXV3MHMyVXZMcGdzY2gyUjl0bmhva0lEckNFUkJxMXp6cElMeDdoNjh3YkZKd0hsVzF1S3R2SnotRm93d1JfNWpPczdpSFVCNXpN?oc=5" target="_blank">Trump says Hamas must disarm very soon or "there will be hell to pay"</a>&nbsp;&nbsp;<font color="#6f6f6f">CBS News</font></li></ol>
