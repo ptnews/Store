@@ -6,7 +6,6 @@
     <img src="{{ .Params.image }}" alt="{{ .Title }}" loading="lazy" style="max-width:100%;border-radius:8px;">
     {{ end }}
     <p>{{ dateFormat "January 2, 2006" .Date }}</p>
-    <p>{{ .Description }}</p>
     {{ .Content }}
     <p><a href="{{ .Params.link }}" target="_blank" rel="noopener" class="read-original-btn">Read Original</a></p>
     <a href="/">← Back to home</a>
