@@ -1,0 +1,21 @@
+---
+title: "Russia shows nuclear-capable Oreshnik missile system deployed in Belarus - Euronews.com"
+date: 2025-12-30
+description: "Russia shows nuclear-capable Oreshnik missile system deployed in Belarus&nbsp;&nbsp;Euronews.comRussia claims to have moved nuclear-capable missile system into Belarus&nbsp;&nbsp;The GuardianRussia shows off deployment of nuclear-capable Oreshnik missiles in Belarus&nbsp;&nbsp;ReutersRussia's nuclear-capable Oreshnik missiles have entered active service, Moscow says&nbsp;&nbsp;ABC NewsRussian Army Releases First Images of Oreshnik Launch System&nbsp;&nbsp;The Moscow Times"
+summary: "Russia shows nuclear-capable Oreshnik missile system deployed in Belarus&nbsp;&nbsp;Euronews.comRussia claims to have moved nuclear-capable missile system into Belarus&nbsp;&nbsp;The GuardianRussia shows off deployment of nuclear-capable Oreshnik missiles in Belarus&nbsp;&nbsp;ReutersRussia's nuclear-capable Oreshnik missiles have entered active service, Moscow says&nbsp;&nbsp;ABC NewsRussian Army Releases First Images of Oreshnik Launch System&nbsp;&nbsp;The Moscow Times"
+slug: "russia-shows-nuclear-capable-oreshnik-missile-system-deployed-in-belarus-euronews-com"
+image: ''
+link: 'https://news.google.com/rss/articles/CBMigAFBVV95cUxPZHZ6NFVzUkMzZmVTVXprZXhORGpvSlJDME1BLXpyODJnOGs3VlJXbUdBc05PdV9pZTdOb1V1YnpULUxpejg5NHJqYmFfWVUtUXR4Z3RXXzBncnlkbUdpSFRENTI0VjlqNHpvX3NWcjZmUUU0cVJOLVAyc2V5QUNCaQ?oc=5'
+source: 'https://news.google.com/rss/topics/CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx1YlY4U0FtVnVHZ0pWVXlnQVAB?hl=en-US&gl=US&ceid=US:en'
+categories:
+- 'news.google.com'
+tags:
+- 'oreshnik'
+- 'deployed'
+- 'euronews'
+- 'nuclear'
+- 'capable'
+
+draft: false
+---
+<ol><li><a href="https://news.google.com/rss/articles/CBMigAFBVV95cUxPZHZ6NFVzUkMzZmVTVXprZXhORGpvSlJDME1BLXpyODJnOGs3VlJXbUdBc05PdV9pZTdOb1V1YnpULUxpejg5NHJqYmFfWVUtUXR4Z3RXXzBncnlkbUdpSFRENTI0VjlqNHpvX3NWcjZmUUU0cVJOLVAyc2V5QUNCaQ?oc=5" target="_blank">Russia shows nuclear-capable Oreshnik missile system deployed in Belarus</a>&nbsp;&nbsp;<font color="#6f6f6f">Euronews.com</font></li><li><a href="https://news.google.com/rss/articles/CBMipwFBVV95cUxNQldvZUNqbUJQbGFqYml3ODkzWVB3Z0dsVGc2U2hRdkJseUdXbWJQMjFGdVBtNmJGaFItZk9sbUI1LURDT2F1M1JrbEdTOWxJYzdhOHpkNjdzcXFRX2pDMjFEN1UwZjlYdmVTMTBGOGp0R3JjdUNnUkhudHBra3g0eFhnLW1zQzZscENYYS1lazJId3NfbEhRcWREVV9YOGlYLTg1QTVIWQ?oc=5" target="_blank">Russia claims to have moved nuclear-capable missile system into Belarus</a>&nbsp;&nbsp;<font color="#6f6f6f">The Guardian</font></li><li><a href="https://news.google.com/rss/articles/CBMi0wFBVV95cUxPdUJDTFRUODRwNGhnampBYjcyLURvMDdDZUJzLVFBZDhONHF6dGs3SkRUOExLcWhIdXdPemgweTNtMV8zWFRCSGx4WVB1c1VIa0R3aFVaSExHVUhOSS0zYVhTcklONHQ3WGhLamRJZ0VZeFM3MVlRcW05V3hlR2tTTF9PTm1OSWQ4WF9MbFJiWGx6dFJvSTJhVUd5WHdKREF3OEsxVC1YaFVIWTB4WmNJZndsTVR6VFl4M0xFckFXYVd3WFgzVTdtZWpfSmVnNFM5VG5n?oc=5" target="_blank">Russia shows off deployment of nuclear-capable Oreshnik missiles in Belarus</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font></li><li><a href="https://news.google.com/rss/articles/CBMivgFBVV95cUxQaFJiV2kwWEtpZmlpbFlLQ2pHLU5ibGhqQXY1SVVGZFlqanBxcThsTl9xYlMwTEktYk9qNWlkNDMxNWdqd1BJUWN5NTFjOVpLbmNDU1dJWkRST2RYSzNjbHlpYzZlV0pwdU9hSEtOVXhhRlZCUHNHbURqTGE2STdCUDJvNHhkSmNaYW9GZFJ4d0hlcjFoOUx0YWtrSXpGQ21QN3hTN1I4Si1YampGbnRBaHg5cC14WU1wdGVzS0pR0gHDAUFVX3lxTE9GSG51NFBDVUMyOFAzUWMtcVpfdEpIb3JBOGpJS3JKY0JHLWF6UG85WDBWVHZJMGM0emd0NzFaYUF6ZXVWY1BJRHNHZkVKM3dveUpfNUJoV0hqUTkxUjRmcEFUbmdVRGFoSF9lUm5xOXpBcDhVZHB1WndWMzcyckc1MEZKZjNTQm9OX3lNQ0NrYmxZUkphOGtjbEs1OXY0WS1XelBTaWtmeXlua0lLUDhzNXFzVzFNWW1NaHZvQnZna2dkMA?oc=5" target="_blank">Russia's nuclear-capable Oreshnik missiles have entered active service, Moscow says</a>&nbsp;&nbsp;<font color="#6f6f6f">ABC News</font></li><li><a href="https://news.google.com/rss/articles/CBMirgFBVV95cUxQWXpvSW1ZYjlXd0gzR29qdXFYelgxd0t4elVPckZyMDUtUXVkT2VpYkU4VG0zVEc0UTJkV3NCUmY1QUhLcWpWRE1HenJCb2RteVFzQndYa09WaXJEM2FQRldTX3ZGWkRUYk9mSGNBR3cxM0dXZEs2R3pZWUFrZm5hU1NacTRtWmlZM1hJeGRTTTdpcGFJSnZuWGNKWDNkR1RkTkstaTZybEVFZ0ZUZlE?oc=5" target="_blank">Russian Army Releases First Images of Oreshnik Launch System</a>&nbsp;&nbsp;<font color="#6f6f6f">The Moscow Times</font></li></ol>

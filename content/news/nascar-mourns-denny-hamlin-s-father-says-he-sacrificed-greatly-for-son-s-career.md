@@ -1,0 +1,21 @@
+---
+title: "NASCAR mourns Denny Hamlin’s father, says he ‘sacrificed greatly’ for son’s career"
+date: 2025-12-30
+description: "NASCAR mourns the tragic death of Denny Hamlin&apos;s father, Dennis, who died from injuries sustained in a North Carolina house fire. He was 75 years old."
+summary: "NASCAR mourns the tragic death of Denny Hamlin&apos;s father, Dennis, who died from injuries sustained in a North Carolina house fire. He was 75 years old."
+slug: "nascar-mourns-denny-hamlin-s-father-says-he-sacrificed-greatly-for-son-s-career"
+image: ''
+link: 'https://www.foxnews.com/sports/nascar-mourns-denny-hamlins-father-says-he-sacrificed-greatly-sons-career'
+source: 'https://feeds.foxnews.com/foxnews/latest'
+categories:
+- 'feeds.foxnews.com'
+tags:
+- 'sacrificed'
+- 'greatly'
+- 'nascar'
+- 'mourns'
+- 'hamlin'
+
+draft: false
+---
+<p><a href="https://www.foxnews.com/category/auto/nascar" target="_blank" rel="noopener">NASCAR</a> released a statement Tuesday mourning the death of Denny Hamlin’s father, who tragically died as a result of injuries sustained in a house fire in North Carolina on Sunday. Dennis Hamlin was 75. </p><p>Dennis Hamlin and Mary Lou Hamlin, 69, were found outside the two-story home <a href="https://www.foxnews.com/category/us/us-regions/southeast/north-carolina" target="_blank" rel="noopener">near Stanley</a> suffering from what officials called catastrophic injuries. Dennis Hamlin later died from his injuries at a hospital, while his wife was transferred to a special hospital in Winston-Salem for treatment of her burn injuries.</p><p>"NASCAR extends its deepest condolences to Denny Hamlin and the entire Hamlin family," the organization said in a statement Tuesday. </p><p><a href="https://www.foxnews.com/sports" target="_blank" rel="noopener"><strong>CLICK HERE FOR MORE SPORTS COVERAGE ON FOXNEWS.COM </strong></a></p><p>"Dennis Hamlin instilled a love of racing in his son, and sacrificed greatly to develop Denny into a world-class talent in the sport. We also continue to offer our thoughts and prayers to Denny’s mother, Mary Lou, and hope for her full recovery."</p><p>Just last month, Denny Hamlin spoke of his father and the financial sacrifices he made to help him reach his dreams of becoming one of NASCAR’s marquee drivers. In an interview with The Associated Press, Hamlin revealed that his father was dying as a result of a serious illness. </p><p>"I know for a fact this is my last chance for my dad to see it. I don’t want him going and never getting to see the moment," Hamlin said of his father seeing him win a championship, a goal he later fell short of after this season's final race in Arizona. </p><p><a href="https://www.foxnews.com/sports/nascar-star-denny-hamlins-father-dies-from-injuries-house-fire-officials-say" target="_blank" rel="noopener noreferrer nofollow"><strong><u>NASCAR STAR DENNY HAMLIN'S FATHER DIES FROM INJURIES IN HOUSE FIRE, OFFICIALS SAY</u></strong></a></p><p>According to the AP, Dennis Hamlin took out multiple mortgages on his Virginia home, maxed out every credit card and nearly left himself in financial ruin in order to give his son a chance at becoming a NASCAR driver. His sacrifice paid off, as Hamlin created a legendary career that features 60 career wins, including three Daytona 500s.</p><p>The tragic news of Dennis Hamlin’s death comes amid a difficult time for the NASCAR community, still mourning the heartbreaking death of driver Greg Biffle, 55, who was killed alongside his wife, Cristina, and children Ryder, 5, and Emma, 14, in a <a href="https://www.foxnews.com/sports/wreckage-plane-crash-killed-nascar-legend-greg-biffle-family-seen-photos" target="_blank" rel="noopener">North Carolina plane crash</a>. </p><p>The crash claimed seven lives on board, including Dennis Dutton, his son Jack, and Craig Wadsworth.</p><p><i>The Associated Press contributed to this report. </i></p><p><i><strong>Follow Fox News Digital’s</strong></i><a href="https://twitter.com/FoxNewsSports_" target="_blank" rel="noopener noreferrer nofollow"><i><strong><u> sports coverage on X</u></strong></i></a><i><strong>, and subscribe to</strong></i><a href="https://www.foxnews.com/newsletters" target="_blank" rel="noopener noreferrer nofollow"><i><strong><u> the Fox News Sports Huddle newsletter</u></strong></i></a><i><strong>.</strong></i></p>

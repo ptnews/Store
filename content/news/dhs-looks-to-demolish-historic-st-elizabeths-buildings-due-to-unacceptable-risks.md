@@ -1,5 +1,5 @@
 ---
-title: "DHS looks to demolish historic St. Elizabeths buildings due to 'unacceptable' risks"
+title: "DHS looks to demolish historic St Elizabeths buildings due to 'unacceptable' risks"
 date: 2025-12-30
 description: "Historic St. Elizabeths buildings face demolition as DHS claims emergency conditions. The move is facing pushback from preservation groups."
 summary: "Historic St. Elizabeths buildings face demolition as DHS claims emergency conditions. The move is facing pushback from preservation groups."
