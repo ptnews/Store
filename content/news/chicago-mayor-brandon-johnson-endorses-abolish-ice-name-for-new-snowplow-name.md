@@ -1,0 +1,21 @@
+---
+title: "Chicago Mayor Brandon Johnson endorses 'Abolish ICE' name for new snowplow name"
+date: 2025-12-30
+description: "Chicago Mayor Brandon Johnson endorsed &quot;Abolish ICE&quot; as a name for the city&apos;s annual snowplow naming contest on MS NOW&apos;s &quot;PoliticsNation&quot; on Saturday."
+summary: "Chicago Mayor Brandon Johnson endorsed &quot;Abolish ICE&quot; as a name for the city&apos;s annual snowplow naming contest on MS NOW&apos;s &quot;PoliticsNation&quot; on Saturday."
+slug: "chicago-mayor-brandon-johnson-endorses-abolish-ice-name-for-new-snowplow-name"
+image: ''
+link: 'https://www.foxnews.com/media/chicago-mayor-brandon-johnson-endorses-abolish-ice-name-new-snowplow-name'
+source: 'https://feeds.foxnews.com/foxnews/latest'
+categories:
+- 'feeds.foxnews.com'
+tags:
+- 'endorses'
+- 'snowplow'
+- 'chicago'
+- 'brandon'
+- 'johnson'
+
+draft: false
+---
+<p><a href="https://www.foxnews.com/category/us/chicago" target="_blank" rel="noopener">Chicago</a> Mayor Brandon Johnson gave his "full and complete endorsement" for the name "Abolish ICE" ahead of the city's annual snowplow naming contest.</p><p>Earlier this month, the Chicago Department of Streets and Sanitation launched its fourth annual <a href="https://www.chicago.gov/city/en/depts/streets/provdrs/street/news/2025/december/chicago-announces-fourth-annual--you-name-a-snowplow--contest.html" target="_blank" rel="nofollow noopener">Snowplow Naming Contest</a>, which allows people to suggest and vote on names for the city's snowplows.</p><p>Past winners have included humorous names such as "CTRL-SALT-DELETE" and "Salter Payton."</p><p><a href="https://www.foxnews.com/media/border-patrol-chief-fires-back-hard-after-chicago-mayor-calls-him-barbaric-over-tear-gas-incident" target="_blank" rel="noopener"><strong>BORDER PATROL CHIEF FIRES BACK AFTER CHICAGO MAYOR CALLS HIM 'BARBARIC' OVER TEAR GAS CLASH</strong></a></p><p>This year, one name that has been pushed on social media was the term "<a href="https://www.foxnews.com/politics/aoc-fundraises-trying-abolish-ice-amid-trumps-crackdown-illegal-immigration" target="_blank" rel="noopener">Abolish ICE,</a>" a slogan that has been used by progressive activists and politicians against the U.S. Immigration and Customs Enforcement (ICE) agency.</p><p>On MS NOW's "Politics Nation" on Saturday, Johnson, who has vocally <a href="https://www.foxnews.com/us/chicago-mayor-rips-ice-operations-says-trump-is-attempting-get-us-surrender-our-humanity" target="_blank" rel="noopener">opposed the Trump administration's immigration operations</a>, gave his support for the name.</p><p><a href="https://www.foxnews.com/media/chicago-ice-director-credits-trump-admin-taking-handcuffs-off-agency-target-criminal-migrants" target="_blank" rel="noopener"><strong>CHICAGO ICE DIRECTOR CREDITS TRUMP ADMIN FOR TAKING 'HANDCUFFS OFF' AGENCY TO TARGET CRIMINAL MIGRANTS</strong></a></p><p>"[Trump] has used [ICE] as a privatized force to enact terror," Johnson said. "And not just terror, but a great deal of harm against people. And so over the course of several years in this city, we have stood firm on our values. And it just happened to coincide with the time in which we name all of our fleet utilities."</p><p>He continued, "And of course, you know, we have to take a stronger look at how this administration has used ICE and how it has caused tremendous harm. So that’s why that particular name of this truck being named ‘Abolish ICE’ has my full and complete endorsement."</p><p><a href="https://www.foxnews.com/media/far-left-chicago-mayor-fires-back-border-czars-reprehensible-threats-prosecute-ice-raids" target="_blank" rel="noopener"><strong>CHICAGO MAYOR FIRES BACK AT BORDER CZAR’S ‘REPREHENSIBLE’ THREATS TO PROSECUTE HIM OVER ICE RAIDS</strong></a></p><p>Johnson has promoted the snowplow naming contest on his X account and highlighted one X user's suggestion of "Abolish ICE."</p><p><a href="https://www.foxnews.com/media" target="_blank" rel="noopener">Fox News Digital</a> reached out to ICE for comment.</p><p>Chicago residents can submit names until Jan. 10 or until the city receives 20,000 submissions. The city will then choose 25 finalists for residents to vote on from Feb. 1 through Feb. 14. The top six names will be used on one snowplow in each of the city's six districts.</p>
