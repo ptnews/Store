@@ -1,9 +1,9 @@
 ---
-title: "Khaleda Zia: Slain leader's widow who became Bangladesh's first PM"
+title: "Khaleda Zia: Slain leader's widow who became Bangladesh's first female PM"
 date: 2025-12-30
 description: "The country's first female prime minister governed in periods of violent unrest and economic hardship."
 summary: "The country's first female prime minister governed in periods of violent unrest and economic hardship."
-slug: "khaleda-zia-slain-leader-s-widow-who-became-bangladesh-s-first-pm"
+slug: "khaleda-zia-slain-leader-s-widow-who-became-bangladesh-s-first-female-pm"
 image: ''
 link: 'https://www.bbc.com/news/articles/c1479kved95o?at_medium=RSS&at_campaign=rss'
 source: 'http://feeds.bbci.co.uk/news/world/rss.xml'
@@ -14,7 +14,7 @@ tags:
 - 'khaleda'
 - 'leader'
 - 'became'
-- 'slain'
+- 'female'
 
 draft: false
 ---

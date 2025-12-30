@@ -1,8 +1,8 @@
 ---
 title: "Bangladesh's first female prime minister Khaleda Zia dies aged 80"
 date: 2025-12-30
-description: "Zia became the country's first female leader in 1991 after its first democratic election in 20 years."
-summary: "Zia became the country's first female leader in 1991 after its first democratic election in 20 years."
+description: "For decades, Zia and Sheikh Hasina were bitter rivals - and their feud defined Bangladesh's politics."
+summary: "For decades, Zia and Sheikh Hasina were bitter rivals - and their feud defined Bangladesh's politics."
 slug: "bangladesh-s-first-female-prime-minister-khaleda-zia-dies-aged-80"
 image: ''
 link: 'https://www.bbc.com/news/articles/cm2v256vdkyo?at_medium=RSS&at_campaign=rss'
@@ -18,4 +18,4 @@ tags:
 
 draft: false
 ---
-Zia became the country's first female leader in 1991 after its first democratic election in 20 years.
+For decades, Zia and Sheikh Hasina were bitter rivals - and their feud defined Bangladesh's politics.
