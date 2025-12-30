@@ -165,6 +165,7 @@ title: "%s"
 date: %s
 description: "%s"
 summary: "%s"
+slug: "%s"
 image: '%s'
 link: '%s'
 source: '%s'
@@ -175,7 +176,7 @@ tags:
 draft: false
 ---
 %s
-`, cleanedTitle, pubDate, cleanedDescText, cleanedDescText, image, item.Link, source.String(), category, formatTags(tags), postContent)
+`, cleanedTitle, pubDate, cleanedDescText, cleanedDescText, slug, image, item.Link, source.String(), category, formatTags(tags), postContent)
 
 			os.WriteFile(filepath.Join(contentDir, slug+".md"), []byte(frontmatter), 0644)
 

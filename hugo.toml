@@ -32,6 +32,9 @@ pagination.pagerSize = 50
       unsafe = true
 uglyURLs = false
 
+[permalinks]
+  news = "/:slug/"
+
 [[menu.main]]
     identifier = "home"
     name = "Home"
