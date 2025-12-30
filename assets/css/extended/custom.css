@@ -27,3 +27,7 @@
 .entry-footer {
     color: #404a58;
 }
+
+.entry-content p {
+    color: var(--primary);
+}
