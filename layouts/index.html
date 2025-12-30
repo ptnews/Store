@@ -1,0 +1,35 @@
+{{ define "main" }}
+<div class="posts">
+    {{ $paginator := .Paginate (where .Site.RegularPages "Section" "news") }}
+    {{ range $paginator.Pages }}
+    <article class="post-entry">
+        <header class="entry-header">
+            <h2>
+                <a href="{{ .Permalink }}" rel="bookmark">{{ .Title }}</a>
+            </h2>
+        </header>
+        <div class="entry-content">
+            <p>{{ .Summary }}</p>
+        </div>
+        <footer class="entry-footer">
+            <span title='{{ .Date.Format "2006-01-02 15:04:05 -0700" }}'>{{ .Date.Format "January 2, 2006" }}</span>
+            <a href="{{ .Permalink }}" class="read-more-button">Read More →</a>
+        </footer>
+    </article>
+    {{ end }}
+</div>
+{{- partial "pagination.html" . -}}
+
+<style>
+.read-more-button {
+    display: inline-block;
+    padding: 8px 15px;
+    margin-left: 15px;
+    background-color: #007bff;
+    color: white;
+    text-decoration: none;
+    border-radius: 5px;
+    font-weight: bold;
+}
+</style>
+{{ end }}
