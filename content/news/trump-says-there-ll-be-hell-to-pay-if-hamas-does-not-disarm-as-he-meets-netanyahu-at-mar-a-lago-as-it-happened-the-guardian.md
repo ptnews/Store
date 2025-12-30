@@ -1,0 +1,21 @@
+---
+title: "Trump says ‘there’ll be hell to pay’ if Hamas does not disarm as he meets Netanyahu at Mar-a-Lago – as it happened - The Guardian"
+date: 2025-12-30
+description: "Trump says ‘there’ll be hell to pay’ if Hamas does not disarm as he meets Netanyahu at Mar-a-Lago – as it happened&nbsp;&nbsp;The GuardianTrump Live Updates: Netanyahu Meeting, Ukraine Talks, Venezuela and More&nbsp;&nbsp;The New York TimesTrump, top aides asked Netanyahu to change policy in occupied West Bank&nbsp;&nbsp;AxiosFive key takeaways from Trump-Netanyahu meeting in Florida&nbsp;&nbsp;Al JazeeraMeeting PM, Trump warns of ‘hell to pay’ if Hamas doesn’t disarm in ‘very sh..."
+summary: "Trump says ‘there’ll be hell to pay’ if Hamas does not disarm as he meets Netanyahu at Mar-a-Lago – as it happened&nbsp;&nbsp;The GuardianTrump Live Updates: Netanyahu Meeting, Ukraine Talks, Venezuela and More&nbsp;&nbsp;The New York TimesTrump, top aides asked Netanyahu to change policy in occupied West Bank&nbsp;&nbsp;AxiosFive key takeaways from Trump-Netanyahu meeting in Florida&nbsp;&nbsp;Al JazeeraMeeting PM, Trump warns of ‘hell to pay’ if Hamas doesn’t disarm in ‘very sh..."
+slug: "trump-says-there-ll-be-hell-to-pay-if-hamas-does-not-disarm-as-he-meets-netanyahu-at-mar-a-lago-as-it-happened-the-guardian"
+image: ''
+link: 'https://news.google.com/rss/articles/CBMijgFBVV95cUxOSXpxbDg4QlRvRHJzZURtajZfcjNqWnF6c2g5MXUyb2FKWjM1UmdKNjd2aU1QbzhpM3lIbFp2Z0hwU2ZMNFAzZzJqOFgzNzBDZXdFNlNWcDJ6dTdTR29PQmpFUmNXdXlrUm1fd3FJdkgweUZNOHBRNlRmdDJ2ZkZrUlEzTTlKekJvMkpFZGF3?oc=5'
+source: 'https://news.google.com/rss/topics/CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx1YlY4U0FtVnVHZ0pWVXlnQVAB?hl=en-US&gl=US&ceid=US:en'
+categories:
+- 'news.google.com'
+tags:
+- 'netanyahu'
+- 'happened'
+- 'guardian'
+- 'disarm'
+- 'trump'
+
+draft: false
+---
+<ol><li><a href="https://news.google.com/rss/articles/CBMijgFBVV95cUxOSXpxbDg4QlRvRHJzZURtajZfcjNqWnF6c2g5MXUyb2FKWjM1UmdKNjd2aU1QbzhpM3lIbFp2Z0hwU2ZMNFAzZzJqOFgzNzBDZXdFNlNWcDJ6dTdTR29PQmpFUmNXdXlrUm1fd3FJdkgweUZNOHBRNlRmdDJ2ZkZrUlEzTTlKekJvMkpFZGF3?oc=5" target="_blank">Trump says ‘there’ll be hell to pay’ if Hamas does not disarm as he meets Netanyahu at Mar-a-Lago – as it happened</a>&nbsp;&nbsp;<font color="#6f6f6f">The Guardian</font></li><li><a href="https://news.google.com/rss/articles/CBMiY0FVX3lxTE52YUpMaTJudTJyTzlsRFNHQkJ0ZFM3Nks2bkQ2eTVWWEpyS0hUUGM3R181aklta2x2bnFlYWg5X3JvTHd5MzZaVGNtQW5MbFJOd0lsU3NiX2xOWGpSakFZLVhYaw?oc=5" target="_blank">Trump Live Updates: Netanyahu Meeting, Ukraine Talks, Venezuela and More</a>&nbsp;&nbsp;<font color="#6f6f6f">The New York Times</font></li><li><a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxOSlE0NFYxUG9yTk81ejcyTEF5dFhrT3VyNGRKSEtLWmdrNU9kMnlzQlZ2RktYRVYtaGdtUFJTaFdoWG9Oc1NBMkdvRzlIZl9xOFRBWEQ1YV9MRHhYV1BmYWlvTHA2TXp5aVJCMWJGZWtVZTlwSi05akdtdWFwdTA4aXdiaEY?oc=5" target="_blank">Trump, top aides asked Netanyahu to change policy in occupied West Bank</a>&nbsp;&nbsp;<font color="#6f6f6f">Axios</font></li><li><a href="https://news.google.com/rss/articles/CBMiogFBVV95cUxOeXNyZTJsV1RSenJVRWI5cXBLc2VFaTJtR2tHN1QwNUh3RUdpX1ZGNzAtdlhvbmdKaW1yTDR2UGZva3dWLVVKS1NidFhQcC1BOUFjRGdnNi1CeFFyV3UwQlVQLW9sY19hSU5EU0VwUXBIeG1aNWVVR1dNeVRWaGtLU0k5Rm1DbzRkV1FoekdmbnFGZjJGYzV0NjI4WmJmMTlxcFHSAacBQVVfeXFMTlhKZTlYNFV4ZVg1N3JpNFNsa0dPd05PNmp2RnZCanlPTHhGdURSTFA1SmZpLXpSb3VWeXZ0Q0V1N0hncU5MOG9pU0JhYXd3RFVqN2s1WDhxRERJZ1V1S3lUZUtBOUpqQ2JrOVVMYWJNZi1XcV81Nkl6aWlxY0Q2ZG4xUlBNR2gwbTVqQi1iWnc4OTRVMWxma2E1UzVpcE1ORl96NzhXbHM?oc=5" target="_blank">Five key takeaways from Trump-Netanyahu meeting in Florida</a>&nbsp;&nbsp;<font color="#6f6f6f">Al Jazeera</font></li><li><a href="https://news.google.com/rss/articles/CBMirwFBVV95cUxONEo4NW81UDRGWXo5LVhOUUlFSmg4Q0F1SkVoWHVvX3ZMWDFKMFJQaU9TV2YxS2dvc2VEcWduWFBnSGJmT0FJakp5MUM3QkVGM21ZWlRhd0RpbUc4WXN5WElrZTY2OTFGT3VzcmJtZVpuYlFGRU83SnRXTWZWTHZQVk50YUl5MmNDM3RmSFN6Vlp5N1VXOXFaQ3REbnVqRjFDSlpHWF85Y3pKbzNSSXhN0gG0AUFVX3lxTE9ScVhuaFllTmZRSnpwMlNFRzdDWTB5cTdseHRZdFNXNUo4RWRXWERfdGRlZDVGNXJqXzVSa3JmRXJoX1cxMUZ5RS1CTmZhcVpNeThIM3NFRVJLT21ocVlnQnlDVTFfMEU2d3V1NkdZeXRITjVNRzN1THBxSjl4UGsyRHNqdVQxTzR1WXRFREROUGxQYlRTNWVtNjdiVHdja0FhS0tDazZDQU05SlU2cmtBQzRKSg?oc=5" target="_blank">Meeting PM, Trump warns of ‘hell to pay’ if Hamas doesn’t disarm in ‘very short’ time</a>&nbsp;&nbsp;<font color="#6f6f6f">The Times of Israel</font></li></ol>
