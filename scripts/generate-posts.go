@@ -136,8 +136,8 @@ func main() {
 			}
 
 			descText := regexp.MustCompile(`<[^>]*>`).ReplaceAllString(item.Description, "")
-			if len(descText) > 300 {
-				descText = descText[:300] + "..."
+			if len(descText) > 500 {
+				descText = descText[:500] + "..."
 			}
 
 			source := new(strings.Builder)
