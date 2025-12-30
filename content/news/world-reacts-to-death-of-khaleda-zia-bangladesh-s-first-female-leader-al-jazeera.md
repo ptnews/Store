@@ -1,0 +1,21 @@
+---
+title: "World reacts to death of Khaleda Zia, Bangladesh’s first female leader - Al Jazeera"
+date: 2025-12-30
+description: "World reacts to death of Khaleda Zia, Bangladesh’s first female leader&nbsp;&nbsp;Al JazeeraBangladesh's first female prime minister Khaleda Zia dies aged 80&nbsp;&nbsp;BBCKhaleda Zia, first female Bangladesh prime minister, dies aged 80&nbsp;&nbsp;The GuardianKhaleda Zia, former Bangladeshi prime minister and archrival of Hasina, dies at 80&nbsp;&nbsp;CNNKhaleda Zia's India Equation: From 'Slavery' Attacks To Anti-Terror Vow&nbsp;&nbsp;NDTV"
+summary: "World reacts to death of Khaleda Zia, Bangladesh’s first female leader&nbsp;&nbsp;Al JazeeraBangladesh's first female prime minister Khaleda Zia dies aged 80&nbsp;&nbsp;BBCKhaleda Zia, first female Bangladesh prime minister, dies aged 80&nbsp;&nbsp;The GuardianKhaleda Zia, former Bangladeshi prime minister and archrival of Hasina, dies at 80&nbsp;&nbsp;CNNKhaleda Zia's India Equation: From 'Slavery' Attacks To Anti-Terror Vow&nbsp;&nbsp;NDTV"
+slug: "world-reacts-to-death-of-khaleda-zia-bangladesh-s-first-female-leader-al-jazeera"
+image: ''
+link: 'https://news.google.com/rss/articles/CBMirwFBVV95cUxPY2xINVVXVkQwUlNsdWJlWXlDdV9IY0MyWlVKNmxPbWVGdnhvb001cHNNU1FMZDlGVU5uWnI1dU9vVEh5MmtuMW1WUFlUSEVxSklKcG9pbVV3c1hBLTFBYnNKRF8zWDg3anlTcnF3MzdXUjdpMEVfN0c0VVE4ZVl5T09DQk9XbGxwNFJweG5qSnZISE13VUZ6ci1Xa1drSi1CbS1hMzU0VEVubkpBYUUw0gG0AUFVX3lxTE0wa3ZEeVcwb2JVMG5GUDJZdlRacjRLWFdvMGQ0eVVObk9pRUJaSTltVEU0T055OGxSZktpMk0xYWRJdUJQTVNUVXNlb0NsRlRhOW01Zm96UmdPVzIxMHJUVXZTMkl1cHlZVFZhUDN6MTR5LTMyeU9UY3Q0RnRLU2lDOTFsT0VIZXQ1SXBhMXhIT2J4amxzVFZ6Ny1CNjJ2aEVSdlF3VTAzaDRlUFMxYmx6bEMtdQ?oc=5'
+source: 'https://news.google.com/rss/topics/CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx1YlY4U0FtVnVHZ0pWVXlnQVAB?hl=en-US&gl=US&ceid=US:en'
+categories:
+- 'news.google.com'
+tags:
+- 'bangladesh'
+- 'khaleda'
+- 'jazeera'
+- 'reacts'
+- 'female'
+
+draft: false
+---
+<ol><li><a href="https://news.google.com/rss/articles/CBMirwFBVV95cUxPY2xINVVXVkQwUlNsdWJlWXlDdV9IY0MyWlVKNmxPbWVGdnhvb001cHNNU1FMZDlGVU5uWnI1dU9vVEh5MmtuMW1WUFlUSEVxSklKcG9pbVV3c1hBLTFBYnNKRF8zWDg3anlTcnF3MzdXUjdpMEVfN0c0VVE4ZVl5T09DQk9XbGxwNFJweG5qSnZISE13VUZ6ci1Xa1drSi1CbS1hMzU0VEVubkpBYUUw0gG0AUFVX3lxTE0wa3ZEeVcwb2JVMG5GUDJZdlRacjRLWFdvMGQ0eVVObk9pRUJaSTltVEU0T055OGxSZktpMk0xYWRJdUJQTVNUVXNlb0NsRlRhOW01Zm96UmdPVzIxMHJUVXZTMkl1cHlZVFZhUDN6MTR5LTMyeU9UY3Q0RnRLU2lDOTFsT0VIZXQ1SXBhMXhIT2J4amxzVFZ6Ny1CNjJ2aEVSdlF3VTAzaDRlUFMxYmx6bEMtdQ?oc=5" target="_blank">World reacts to death of Khaleda Zia, Bangladesh’s first female leader</a>&nbsp;&nbsp;<font color="#6f6f6f">Al Jazeera</font></li><li><a href="https://news.google.com/rss/articles/CBMiWkFVX3lxTE5EWXVCeWI0aUxkbjUtellWTjVFM01LcXdTbURkTEJKbTBsaFZyQUJPT0lJa1VnbHlnQU1BOXYzQkFpamU1eVpTa0dPajExRUtrVDhGZ004ZFFMZw?oc=5" target="_blank">Bangladesh's first female prime minister Khaleda Zia dies aged 80</a>&nbsp;&nbsp;<font color="#6f6f6f">BBC</font></li><li><a href="https://news.google.com/rss/articles/CBMirgFBVV95cUxOaXFWR0pncXhDaWRWVGI4WE1vTHh6d3RKMnU3alRPYTc1OU93MTZWS2ZJSkRxYl9UVGhhbXNmajMxdFFEd1pxaDNTTzhScG9VSlgxdy1DS3VEUV9USzlRRWVNTlBvUng4eUpoTUhaOVRJQlBVb25meXhpbTBnWDdrT0MzTVZkUWpONk9lS1YxVjlnbXExN21WbDhwV1Nla3BxVldQcFVKRFVvdU5heFE?oc=5" target="_blank">Khaleda Zia, first female Bangladesh prime minister, dies aged 80</a>&nbsp;&nbsp;<font color="#6f6f6f">The Guardian</font></li><li><a href="https://news.google.com/rss/articles/CBMifkFVX3lxTE1yYjl1UzFZRi1wamVmeWtBeWlOaHA0ZVZCSWM0NUtTcUpMM2dFVGkwemt1SlNhbTJubERFYXowZlRJdlVyZ3FmNG40V0xnMVc3S0NqNFYwaXRLQk5BbVFYa1BTNkIyNG9kYzF6MkhQd2c2Q25WUEZlVkpIZ3NwUQ?oc=5" target="_blank">Khaleda Zia, former Bangladeshi prime minister and archrival of Hasina, dies at 80</a>&nbsp;&nbsp;<font color="#6f6f6f">CNN</font></li><li><a href="https://news.google.com/rss/articles/CBMi_AFBVV95cUxOU2U0VTAzWkdLUzJxUDVMd01XX1ZEcFd1eVRfWlJOZUJZcHFlT3daZXlmU3lNRzZEbVBQTjRycUVOV1BqcEF4N0NKakxHakYzbmF5dllURndobjFIb2VZd1VZbjdiMXdGOHNvakd2NXZzR0t0ZWR1Zko5RWpGVi1fTmphcG5mcXpRZm01c04wV3dyMTJsUktoNTJuaFpKcHZ0NW9IMTVHeEgxREJlOHlaZnR5Vy0tVzdiYXRYVkl6Zk5tQUY2VzdmQkxGdGlvaElUem5UQWhEdUpjT3lNcERtcGpIMWlXUU00Rm1BSnlrcGoxY1gwRm8yc29NZW0?oc=5" target="_blank">Khaleda Zia's India Equation: From 'Slavery' Attacks To Anti-Terror Vow</a>&nbsp;&nbsp;<font color="#6f6f6f">NDTV</font></li></ol>
