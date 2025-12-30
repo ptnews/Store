@@ -1,0 +1,21 @@
+---
+title: "Russia shows nuclear-capable Oreshnik missile system deployed in Belarus - Euronews.com"
+date: 2025-12-30
+description: "Russia shows nuclear-capable Oreshnik missile system deployed in Belarus&nbsp;&nbsp;Euronews.comUkraine war live: Russia says it has moved its nuclear-capable Oreshnik missiles into Belarus&nbsp;&nbsp;The GuardianExclusive: Russia likely placing new hypersonic missiles at former airbase in Belarus, researchers find&nbsp;&nbsp;ReutersRussian Army Releases First Images of Oreshnik Launch System&nbsp;&nbsp;The Moscow TimesRussia's nuclear-capable Oreshnik missiles have entered active service, Mosco..."
+summary: "Russia shows nuclear-capable Oreshnik missile system deployed in Belarus&nbsp;&nbsp;Euronews.comUkraine war live: Russia says it has moved its nuclear-capable Oreshnik missiles into Belarus&nbsp;&nbsp;The GuardianExclusive: Russia likely placing new hypersonic missiles at former airbase in Belarus, researchers find&nbsp;&nbsp;ReutersRussian Army Releases First Images of Oreshnik Launch System&nbsp;&nbsp;The Moscow TimesRussia's nuclear-capable Oreshnik missiles have entered active service, Mosco..."
+slug: "russia-shows-nuclear-capable-oreshnik-missile-system-deployed-in-belarus-euronews-com"
+image: ''
+link: 'https://news.google.com/rss/articles/CBMigAFBVV95cUxPZHZ6NFVzUkMzZmVTVXprZXhORGpvSlJDME1BLXpyODJnOGs3VlJXbUdBc05PdV9pZTdOb1V1YnpULUxpejg5NHJqYmFfWVUtUXR4Z3RXXzBncnlkbUdpSFRENTI0VjlqNHpvX3NWcjZmUUU0cVJOLVAyc2V5QUNCaQ?oc=5'
+source: 'https://news.google.com/rss/topics/CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx1YlY4U0FtVnVHZ0pWVXlnQVAB?hl=en-US&gl=US&ceid=US:en'
+categories:
+- 'news.google.com'
+tags:
+- 'oreshnik'
+- 'deployed'
+- 'euronews'
+- 'nuclear'
+- 'capable'
+
+draft: false
+---
+<ol><li><a href="https://news.google.com/rss/articles/CBMigAFBVV95cUxPZHZ6NFVzUkMzZmVTVXprZXhORGpvSlJDME1BLXpyODJnOGs3VlJXbUdBc05PdV9pZTdOb1V1YnpULUxpejg5NHJqYmFfWVUtUXR4Z3RXXzBncnlkbUdpSFRENTI0VjlqNHpvX3NWcjZmUUU0cVJOLVAyc2V5QUNCaQ?oc=5" target="_blank">Russia shows nuclear-capable Oreshnik missile system deployed in Belarus</a>&nbsp;&nbsp;<font color="#6f6f6f">Euronews.com</font></li><li><a href="https://news.google.com/rss/articles/CBMisgFBVV95cUxPMWVBODlCQ0JBcG9mdHhhNDh3eHJlSkJEUnpaOVNSczRHWmtCdWtlVVFOQTF6YUltOU91REt1SjB4TVd6NmtMSU9qZ1FyT1ROemlwNXlkNjZ6bFFXZlF3MC1wXzcyY1k3bzIwYlhhT2Q0MUxIZGlzdTdqVnh4MXZGN2JjaEc0VURuc2U4cFhtNWExbE5fQmd4R1pwRmk5ZmNYLS1JQm04WEgxS0VmckphV2RB?oc=5" target="_blank">Ukraine war live: Russia says it has moved its nuclear-capable Oreshnik missiles into Belarus</a>&nbsp;&nbsp;<font color="#6f6f6f">The Guardian</font></li><li><a href="https://news.google.com/rss/articles/CBMixwFBVV95cUxObTFYaXNRSFcwaHU1VVRCeURrbDR5VlRnZzkxS3pBR3NqS29GMkswWXlINUxxVFg1OHdSbVhUVWpoenpqV2hlYl9XUkEtVnBnUXNRUHpyWDdYYzJKTEY2OThHMHlxU0h1a2xJRDN5eF95VWpQMEc5a1BxSVdRQWJVVGVaRDNVM0R0djZSXzh0ZGc4TzJreUZhZVpDbHRDb0lBaFVSYjJtZEEyRzFnNmJlNllMaG9vRENGRnhHV3pNZXE0akY0Rl80?oc=5" target="_blank">Exclusive: Russia likely placing new hypersonic missiles at former airbase in Belarus, researchers find</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font></li><li><a href="https://news.google.com/rss/articles/CBMirgFBVV95cUxQWXpvSW1ZYjlXd0gzR29qdXFYelgxd0t4elVPckZyMDUtUXVkT2VpYkU4VG0zVEc0UTJkV3NCUmY1QUhLcWpWRE1HenJCb2RteVFzQndYa09WaXJEM2FQRldTX3ZGWkRUYk9mSGNBR3cxM0dXZEs2R3pZWUFrZm5hU1NacTRtWmlZM1hJeGRTTTdpcGFJSnZuWGNKWDNkR1RkTkstaTZybEVFZ0ZUZlE?oc=5" target="_blank">Russian Army Releases First Images of Oreshnik Launch System</a>&nbsp;&nbsp;<font color="#6f6f6f">The Moscow Times</font></li><li><a href="https://news.google.com/rss/articles/CBMivgFBVV95cUxQaFJiV2kwWEtpZmlpbFlLQ2pHLU5ibGhqQXY1SVVGZFlqanBxcThsTl9xYlMwTEktYk9qNWlkNDMxNWdqd1BJUWN5NTFjOVpLbmNDU1dJWkRST2RYSzNjbHlpYzZlV0pwdU9hSEtOVXhhRlZCUHNHbURqTGE2STdCUDJvNHhkSmNaYW9GZFJ4d0hlcjFoOUx0YWtrSXpGQ21QN3hTN1I4Si1YampGbnRBaHg5cC14WU1wdGVzS0pR0gHDAUFVX3lxTE9GSG51NFBDVUMyOFAzUWMtcVpfdEpIb3JBOGpJS3JKY0JHLWF6UG85WDBWVHZJMGM0emd0NzFaYUF6ZXVWY1BJRHNHZkVKM3dveUpfNUJoV0hqUTkxUjRmcEFUbmdVRGFoSF9lUm5xOXpBcDhVZHB1WndWMzcyckc1MEZKZjNTQm9OX3lNQ0NrYmxZUkphOGtjbEs1OXY0WS1XelBTaWtmeXlua0lLUDhzNXFzVzFNWW1NaHZvQnZna2dkMA?oc=5" target="_blank">Russia's nuclear-capable Oreshnik missiles have entered active service, Moscow says</a>&nbsp;&nbsp;<font color="#6f6f6f">ABC News</font></li></ol>
