@@ -53,6 +53,14 @@ jobs:
           hugo-version: 'latest'
           extended: true
 
+      - name: Install yq
+        run: sudo apt-get update && sudo apt-get install -y yq
+
+      - name: Remove sitemapindex for scheduled builds
+        if: github.event_name == 'schedule'
+        run: |
+          yq '.outputs.home = (.outputs.home - ["sitemapindex"])' -i hugo.toml
+
       - name: Build Hugo Site
         run: hugo --buildFuture --minify --source . --destination public
 
