@@ -16,11 +16,14 @@
 }
 
 /* Improve color contrast */
-:root[data-theme="dark"] {
-    --link-color: #60a5fa; /* Lighter blue for dark mode */
-    --secondary: #bababa; /* Lighter grey for secondary text */
+[data-theme="dark"] a {
+    color: #60a5fa;
 }
 
-:root {
-    --secondary: #404a58; /* Darker grey for secondary text in light mode */
+[data-theme="dark"] .entry-footer {
+    color: #bababa;
+}
+
+.entry-footer {
+    color: #404a58;
 }
