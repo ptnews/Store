@@ -1,9 +1,12 @@
 {{ define "main" }}
-<div class="posts">
-    {{ $paginator := .Paginate (where .Site.RegularPages "Section" "news") }}
-    {{ range $paginator.Pages }}
-        {{ .Render "summary" }}
-    {{ end }}
-</div>
-{{- partial "pagination.html" . -}}
+<h1>Debug Page</h1>
+<p>Total pages in news section: {{ len (where .Site.RegularPages "Section" "news") }}</p>
+<hr>
+{{ range (where .Site.RegularPages "Section" "news") }}
+    <p>Title: {{ .Title }}</p>
+    <p>Date: {{ .Date }}</p>
+    <p>Permalink: {{ .Permalink }}</p>
+    <p>Summary: {{ .Summary }}</p>
+    <hr>
+{{ end }}
 {{ end }}
