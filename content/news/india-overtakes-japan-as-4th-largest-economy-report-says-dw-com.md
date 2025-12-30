@@ -1,0 +1,21 @@
+---
+title: "India overtakes Japan as 4th-largest economy, report says - dw.com"
+date: 2025-12-30
+description: "India overtakes Japan as 4th-largest economy, report says&nbsp;&nbsp;dw.comIndia Overtakes California As World’s Fourth Largest Economy—Data&nbsp;&nbsp;NewsweekIndia overtakes Japan as world’s fourth largest economy, eyes top 3 in 2026&nbsp;&nbsp;South China Morning PostDH Evening Brief | India becomes world's 4th largest economy; Bangladesh's first female PM Khaleda Zia passes away&nbsp;&nbsp;Deccan HeraldIndia poised to become $26 trillion economy by 2047–48: EY report&nbsp;&nbsp;DD Ne..."
+summary: "India overtakes Japan as 4th-largest economy, report says&nbsp;&nbsp;dw.comIndia Overtakes California As World’s Fourth Largest Economy—Data&nbsp;&nbsp;NewsweekIndia overtakes Japan as world’s fourth largest economy, eyes top 3 in 2026&nbsp;&nbsp;South China Morning PostDH Evening Brief | India becomes world's 4th largest economy; Bangladesh's first female PM Khaleda Zia passes away&nbsp;&nbsp;Deccan HeraldIndia poised to become $26 trillion economy by 2047–48: EY report&nbsp;&nbsp;DD Ne..."
+slug: "india-overtakes-japan-as-4th-largest-economy-report-says-dw-com"
+image: ''
+link: 'https://news.google.com/rss/articles/CBMikwFBVV95cUxQaDBsVmpiZHJNTXVGUzQtVm1SSW83Rkt4RFd5cU1SdzZJZkxtU1c3UXRkNmx6ODMzMGZ4YWFyQ09XclFKUFpseVpnaDAzeEVsVGdNZHNaaHJnNHJTNWU4Q1hqUk9rNC1rbFBKY1JPbFc3M0I5TThGdk5GbjN6Yko2STRjWHhMYURvN2tzREo5R2Y2bU3SAZMBQVVfeXFMTUh6X1ZPNV9DQmZBdl9jRDU3WVJ3a3BwdUZOaGNBZ0h0ZkF3engzd25FSkxweFB6LXRjQ3psbVJEVHF2N1A1dlZJc3FydHV2NThzRzJnMkJUeDRUMUNCMG1nWlY4X1NNNUZGMFZsOThtdnIyenhRWllZemZUQ1hydENVVk1mdm55cUJDS0RBMWtXbjY4?oc=5'
+source: 'https://news.google.com/rss/topics/CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx1YlY4U0FtVnVHZ0pWVXlnQVAB?hl=en-US&gl=US&ceid=US:en'
+categories:
+- 'news.google.com'
+tags:
+- 'overtakes'
+- 'largest'
+- 'economy'
+- 'report'
+- 'india'
+
+draft: false
+---
+<ol><li><a href="https://news.google.com/rss/articles/CBMikwFBVV95cUxQaDBsVmpiZHJNTXVGUzQtVm1SSW83Rkt4RFd5cU1SdzZJZkxtU1c3UXRkNmx6ODMzMGZ4YWFyQ09XclFKUFpseVpnaDAzeEVsVGdNZHNaaHJnNHJTNWU4Q1hqUk9rNC1rbFBKY1JPbFc3M0I5TThGdk5GbjN6Yko2STRjWHhMYURvN2tzREo5R2Y2bU3SAZMBQVVfeXFMTUh6X1ZPNV9DQmZBdl9jRDU3WVJ3a3BwdUZOaGNBZ0h0ZkF3engzd25FSkxweFB6LXRjQ3psbVJEVHF2N1A1dlZJc3FydHV2NThzRzJnMkJUeDRUMUNCMG1nWlY4X1NNNUZGMFZsOThtdnIyenhRWllZemZUQ1hydENVVk1mdm55cUJDS0RBMWtXbjY4?oc=5" target="_blank">India overtakes Japan as 4th-largest economy, report says</a>&nbsp;&nbsp;<font color="#6f6f6f">dw.com</font></li><li><a href="https://news.google.com/rss/articles/CBMinwFBVV95cUxOMmZYeldzLVBKdk1iSzFwem9ieGlkZDVqS282M3NFVjRsUzZOUkYwc2dnMTdEQ3R0cTJ6TFRpeDNwdGdIMkdfQzJTZ3R0VTNFdWp4WmtSbzJfazZJNkxST0QyblZ3V2Y0VFR3ektfc05fbjJTV0J3UDZ3WjJoU3IxTHA1bjl1NmY4VmpYa1B5OTJjN2h3TTBvT2EySjhhUGc?oc=5" target="_blank">India Overtakes California As World’s Fourth Largest Economy—Data</a>&nbsp;&nbsp;<font color="#6f6f6f">Newsweek</font></li><li><a href="https://news.google.com/rss/articles/CBMivwFBVV95cUxQTWU4dlI2VmhxTmcyeGVsS25hX181SWFZVlZkZ2l0dmxia1lzX1VRSzM1MzhZd1hSU2hYdENXYXZuWEVpOHZoLW1PN1VfeUhadjBOUTI5dm8ySFlMS3BiWWtvb2VrcjllWk16UGZ5YmtIMEpmY3pGR1JzaW1hM3JiSmdmYjM3S3BQZjFtNHhTYlVIbTZBbVJBZjZsT3dsS1dIRjRXdkU3WjNRU2NqY0tKaDNuNzR6UXQyWm5zcGIxQQ?oc=5" target="_blank">India overtakes Japan as world’s fourth largest economy, eyes top 3 in 2026</a>&nbsp;&nbsp;<font color="#6f6f6f">South China Morning Post</font></li><li><a href="https://news.google.com/rss/articles/CBMi5wFBVV95cUxPS1FZajdvQk5uOU1VczVtMWJNUEVZVDFvRUplcFBQTjdXVHdNWGNCRVI0WlBmQVJaT2QtdmlsU0o4LVJXdDh6WVJEbmN1c2FxVUVBdmI2d01UR2dTU0lnejNwMUhheHFyZC05Y09xMThobDVURURrMEFOMEM4QXA0ZTl4bmtDSndXQVZoTmFqR3ZpajJNWjhwWk0wWWtHNFYwTmVweWM3RExPQ1Y2bnF5eEx1ZG9uYW5mamZ6WTFHX0JNQlVxRGJjeG5MVWJsX3Zjc0NseDRFUUxVVzVESXJEM1pwcEt4Z0k?oc=5" target="_blank">DH Evening Brief | India becomes world's 4th largest economy; Bangladesh's first female PM Khaleda Zia passes away</a>&nbsp;&nbsp;<font color="#6f6f6f">Deccan Herald</font></li><li><a href="https://news.google.com/rss/articles/CBMikwFBVV95cUxPTjBpTlgtU1h0dTBTcHRFUGIzSFhnNjFNZHBPMGEwbmxSLVN3QVd6cnlKUnh3TnczaU5xU2ZXMkhOWDdGWUZiNmJ1cG9TblFCOE5KRHp2SUdZY1NaYlNycEI3S1RsZndvblRsaU95bGYtTWhFVmFNM184SHRsLXUxQUN4UkQ1OUVfbFYybHBfbWJENzg?oc=5" target="_blank">India poised to become $26 trillion economy by 2047–48: EY report</a>&nbsp;&nbsp;<font color="#6f6f6f">DD News</font></li></ol>
