@@ -1,0 +1,21 @@
+---
+title: "Storm Johannes: Three killed in Sweden as major storm sweeps Nordic countries - BBC"
+date: 2025-12-30
+description: "Storm Johannes: Three killed in Sweden as major storm sweeps Nordic countries&nbsp;&nbsp;BBCAt Least 3 Dead amid Powerful Winter Storm, Including Man Fatally Hit by Tree at Ski Resort&nbsp;&nbsp;People.comDevastating Winter Storm Johannes Wreaks Havoc Across Sweden and Finland – Lives Lost, Widespread Power Outages, Travel Grinds to a Halt!&nbsp;&nbsp;Travel And Tour WorldMajor winter storm sweeps across Nordic states&nbsp;&nbsp;DWToday in Sweden: A roundup of the latest news on Monday&nbsp;&n..."
+summary: "Storm Johannes: Three killed in Sweden as major storm sweeps Nordic countries&nbsp;&nbsp;BBCAt Least 3 Dead amid Powerful Winter Storm, Including Man Fatally Hit by Tree at Ski Resort&nbsp;&nbsp;People.comDevastating Winter Storm Johannes Wreaks Havoc Across Sweden and Finland – Lives Lost, Widespread Power Outages, Travel Grinds to a Halt!&nbsp;&nbsp;Travel And Tour WorldMajor winter storm sweeps across Nordic states&nbsp;&nbsp;DWToday in Sweden: A roundup of the latest news on Monday&nbsp;&n..."
+slug: "storm-johannes-three-killed-in-sweden-as-major-storm-sweeps-nordic-countries-bbc"
+image: ''
+link: 'https://news.google.com/rss/articles/CBMiWkFVX3lxTE5fbWhhSWRaOUlxQ0R0NFhZZHU0VW9tZF9tSXAwWVRsSEVUNVc0c0JETExWbVNreUNLckw3ejNxS05Bd1JjRjB2Y1d4R2RXY0FvdkdOWmlObU9pUdIBX0FVX3lxTE11YlFhbWFxU0lmMUU4UFk2c2NMQ0lYOG5WR3dqYkRydGRFbDl5UG9pT1JhWWd1VUcyV1M1T09NVTJ2cDNYV3ZpaXBZbUIwOVVFTDBtYkt2SER1dHlRM2U4?oc=5'
+source: 'https://news.google.com/rss/topics/CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx1YlY4U0FtVnVHZ0pWVXlnQVAB?hl=en-US&gl=US&ceid=US:en'
+categories:
+- 'news.google.com'
+tags:
+- 'countries'
+- 'johannes'
+- 'killed'
+- 'sweden'
+- 'sweeps'
+
+draft: false
+---
+<ol><li><a href="https://news.google.com/rss/articles/CBMiWkFVX3lxTE5fbWhhSWRaOUlxQ0R0NFhZZHU0VW9tZF9tSXAwWVRsSEVUNVc0c0JETExWbVNreUNLckw3ejNxS05Bd1JjRjB2Y1d4R2RXY0FvdkdOWmlObU9pUdIBX0FVX3lxTE11YlFhbWFxU0lmMUU4UFk2c2NMQ0lYOG5WR3dqYkRydGRFbDl5UG9pT1JhWWd1VUcyV1M1T09NVTJ2cDNYV3ZpaXBZbUIwOVVFTDBtYkt2SER1dHlRM2U4?oc=5" target="_blank">Storm Johannes: Three killed in Sweden as major storm sweeps Nordic countries</a>&nbsp;&nbsp;<font color="#6f6f6f">BBC</font></li><li><a href="https://news.google.com/rss/articles/CBMikAFBVV95cUxOM3lONG5PQVV5Y01NYjJnMWlRdWJkdDVpUnBYWHgtUGpsQjBPUXFBWTNrVFVJN1l2WW9TRFlVeldkVmZhNUZTUHhJNUVWVlVaMUV0WGREYURZQzBxS1phbDgwYkdYOGJyRUNiR2lhOU9PVll3MUczVy13MjVFWGhIaUZ4cFp4ZHdVQzVlR0dVTE0?oc=5" target="_blank">At Least 3 Dead amid Powerful Winter Storm, Including Man Fatally Hit by Tree at Ski Resort</a>&nbsp;&nbsp;<font color="#6f6f6f">People.com</font></li><li><a href="https://news.google.com/rss/articles/CBMijgJBVV95cUxNWkNUbVNaNlZJMjNiMFV0WFN2R0Z0TkhwS3pkWnF3bEpDVlE1MnlLQVVILTZQczVCWlVwY0FMR1YxWE42cnhDblVfSHhoc3BYVGRSZmpZT2xGZ2puZjVpZHFqb3JNNEhRLUhCYndsR1J0cmxfZzd6UWdRZlNZZHNieGhqMVlVX2pJTVRJazVMUzFpRV9GMkE5aHFSYk83bmNaeVFmeWlHNkZxdWwxOElpb1J1aWFmRDc2UWtXai04aFAwTjRhVllXZHg3UEE0UlgtU1lsUXZmbGE1dS1GMm05UkN5ZUdud3Rwc0ZYRTdkc3lianUyMHVFQktmRzdFN1JzcmFlcWlFRlE1eTl5Rmc?oc=5" target="_blank">Devastating Winter Storm Johannes Wreaks Havoc Across Sweden and Finland – Lives Lost, Widespread Power Outages, Travel Grinds to a Halt!</a>&nbsp;&nbsp;<font color="#6f6f6f">Travel And Tour World</font></li><li><a href="https://news.google.com/rss/articles/CBMihgFBVV95cUxQb3F3ZGZiN1RDQWJGWEJORktXSEx3QnpheHZuZ3N0Z0x4aG1LMVNJeExLZHdhanI2R1UwNzZOUURpb0NpRl9wV2hFQXBRWWIxVTlqbUN3NVFkSUVDYjBrQW9rVmhIbFI4NXEzNVVWZjROUHNnX1Q5YW1WZURFRGtway1BS1JRZ9IBhgFBVV95cUxQTTZhbUxZWnRKWHQ2ekhDSmZqM2c4N19pdGZoQWczUkV3cmoxVy04NVMxaXBMMWFyTUNFWU5FMkJiT29jQUJKUm9MVGF4NzVwUjRNNTdhOG15YmpseTVWQ2Fjdi13d0tmcUl6c2JXbVBLaUJJSExCMEMwZDVSMUVNU1FfdW1sQQ?oc=5" target="_blank">Major winter storm sweeps across Nordic states</a>&nbsp;&nbsp;<font color="#6f6f6f">DW</font></li><li><a href="https://news.google.com/rss/articles/CBMilgFBVV95cUxNRDBWRVJ0NlRTZ05xeGduR3F3aU1OTDZTNF9obFRESGNtNjVNMXlnSFNEVzdJcG9UZTdIZm90d1ppYS1fcXkydDhTMGJVanZNem1oZk9MZWpMeEFFRG0xZlh4Tndfd2x6Wkd2U2I4bnRsMGVHYURCN1JERmdKbXVFdnNvaUlqekJUY2xZQy1xQ1NjaXdwUkE?oc=5" target="_blank">Today in Sweden: A roundup of the latest news on Monday</a>&nbsp;&nbsp;<font color="#6f6f6f">The Local Sweden</font></li></ol>
