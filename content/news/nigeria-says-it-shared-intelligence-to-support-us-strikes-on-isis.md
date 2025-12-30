@@ -2,6 +2,7 @@
 title: "Nigeria says it shared intelligence to support US strikes on ISIS"
 date: 2025-12-26
 description: "Nigeria confirmed it shared intelligence with the U.S. ahead of Christmas night airstrikes against ISIS targets accused of killing Christians."
+summary: "Nigeria confirmed it shared intelligence with the U.S. ahead of Christmas night airstrikes against ISIS targets accused of killing Christians."
 image: ''
 link: 'https://www.foxnews.com/world/nigeria-says-shared-intelligence-support-us-strikes-isis'
 source: 'https://feeds.foxnews.com/foxnews/world'

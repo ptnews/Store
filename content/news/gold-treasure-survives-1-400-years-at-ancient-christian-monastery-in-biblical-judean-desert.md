@@ -2,6 +2,7 @@
 title: "Gold treasure survives 1,400 years at ancient Christian monastery in biblical Judean Desert"
 date: 2025-12-29
 description: "Israeli archaeologists discovered rare 1,400-year-old gold treasure at an ancient monastery site in Judean Desert, including Byzantine coins and an ornate ring."
+summary: "Israeli archaeologists discovered rare 1,400-year-old gold treasure at an ancient monastery site in Judean Desert, including Byzantine coins and an ornate ring."
 image: ''
 link: 'https://www.foxnews.com/travel/gold-treasure-survives-1400-years-ancient-christian-monastery-biblical-judean-desert'
 source: 'https://feeds.foxnews.com/foxnews/latest'

@@ -2,6 +2,7 @@
 title: "Russian forces near collapse in Kupyansk as Moscow allies concede city lost: report"
 date: 2025-12-25
 description: "Russian forces were reportedly cut off and surrendering in Ukraine&apos;s Kupyansk as supply lines fail. Only dozens of isolated troops remain in the strategic city."
+summary: "Russian forces were reportedly cut off and surrendering in Ukraine&apos;s Kupyansk as supply lines fail. Only dozens of isolated troops remain in the strategic city."
 image: ''
 link: 'https://www.foxnews.com/world/russian-forces-near-collapse-kupyansk-moscow-allies-concede-city-lost-report'
 source: 'https://feeds.foxnews.com/foxnews/world'

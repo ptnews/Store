@@ -2,6 +2,7 @@
 title: "Trump’s peace through strength in 2025: where wars stopped and rivals came to the table"
 date: 2025-12-27
 description: "Trump&apos;s 2025 peace agenda produced mostly positive results with new ceasefires in Gaza and other regions, but major conflicts like Ukraine remain unresolved."
+summary: "Trump&apos;s 2025 peace agenda produced mostly positive results with new ceasefires in Gaza and other regions, but major conflicts like Ukraine remain unresolved."
 image: ''
 link: 'https://www.foxnews.com/world/trumps-peace-through-strength-2025-where-wars-stopped-rivals-came-table'
 source: 'https://feeds.foxnews.com/foxnews/world'

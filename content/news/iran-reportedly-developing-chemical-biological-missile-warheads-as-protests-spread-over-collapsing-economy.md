@@ -2,6 +2,7 @@
 title: "Iran reportedly developing chemical, biological missile warheads as protests spread over collapsing economy"
 date: 2025-12-29
 description: "As Netanyahu meets Trump, intelligence suggests Iran accelerating chemical weapons work while facing unprecedented domestic unrest and economic crisis."
+summary: "As Netanyahu meets Trump, intelligence suggests Iran accelerating chemical weapons work while facing unprecedented domestic unrest and economic crisis."
 image: ''
 link: 'https://www.foxnews.com/world/iran-reportedly-developing-chemical-biological-missile-warheads-protests-spread-over-collapsing-economy'
 source: 'https://feeds.foxnews.com/foxnews/world'

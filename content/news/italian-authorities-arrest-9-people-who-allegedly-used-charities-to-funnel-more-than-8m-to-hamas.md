@@ -2,6 +2,7 @@
 title: "Italian authorities arrest 9 people who allegedly used charities to funnel more than $8m to Hamas"
 date: 2025-12-27
 description: "Italy arrested nine people linked to three charities that allegedly funneled approximately $8.2 million to the Hamas terrorist organization."
+summary: "Italy arrested nine people linked to three charities that allegedly funneled approximately $8.2 million to the Hamas terrorist organization."
 image: ''
 link: 'https://www.foxnews.com/world/italian-authorities-arrest-9-people-who-allegedly-used-charities-funnel-more-than-8m-hamas'
 source: 'https://feeds.foxnews.com/foxnews/world'

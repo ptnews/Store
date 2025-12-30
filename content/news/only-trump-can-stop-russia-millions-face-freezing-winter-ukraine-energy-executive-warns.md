@@ -2,6 +2,7 @@
 title: "‘Only Trump can stop Russia’: Millions face freezing winter, Ukraine energy executive warns"
 date: 2025-12-29
 description: "Ukraine&apos;s largest private energy company reports 90% of generation capacity damaged by Russian attacks, leaving over 1 million without power during freezing temperatures."
+summary: "Ukraine&apos;s largest private energy company reports 90% of generation capacity damaged by Russian attacks, leaving over 1 million without power during freezing temperatures."
 image: ''
 link: 'https://www.foxnews.com/world/only-trump-can-stop-russia-millions-face-freezing-winter-ukraine-energy-executive-warns'
 source: 'https://feeds.foxnews.com/foxnews/world'

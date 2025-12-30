@@ -2,6 +2,7 @@
 title: "Unearthed surveillance exposes how parents were allegedly involved in Minnesota's daycare fraud scheme"
 date: 2025-12-29
 description: "As federal authorities investigate reports of massive fraud taking place in Minnesota daycares, a resurfaced video from a 2018 fraud case shows parents and providers scheming the system."
+summary: "As federal authorities investigate reports of massive fraud taking place in Minnesota daycares, a resurfaced video from a 2018 fraud case shows parents and providers scheming the system."
 image: ''
 link: 'https://www.foxnews.com/politics/unearthed-surveillance-exposes-how-parents-allegedly-involved-minnesotas-daycare-fraud-scheme'
 source: 'https://feeds.foxnews.com/foxnews/latest'

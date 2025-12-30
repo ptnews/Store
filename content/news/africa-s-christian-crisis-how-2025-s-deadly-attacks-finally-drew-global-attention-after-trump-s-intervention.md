@@ -2,6 +2,7 @@
 title: "Africa’s Christian Crisis: How 2025’s deadly attacks finally drew global attention after Trump’s intervention"
 date: 2025-12-28
 description: "Christian communities in Africa reportedly under siege as Islamist groups target churches and believers across multiple countries during Christmas 2025."
+summary: "Christian communities in Africa reportedly under siege as Islamist groups target churches and believers across multiple countries during Christmas 2025."
 image: ''
 link: 'https://www.foxnews.com/world/16m-christians-displaced-islamist-persecution-sweeps-across-africa-during-2025'
 source: 'https://feeds.foxnews.com/foxnews/world'

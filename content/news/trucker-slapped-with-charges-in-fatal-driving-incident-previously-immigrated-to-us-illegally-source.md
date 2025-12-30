@@ -2,6 +2,7 @@
 title: "Trucker slapped with charges in fatal driving incident previously immigrated to US illegally: source"
 date: 2025-12-29
 description: "A trucker who allegedly killed three in a reckless driving incident in Virginia immigrated to the U.S. illegally in the 1990&apos;s, according to a federal law enforcement source."
+summary: "A trucker who allegedly killed three in a reckless driving incident in Virginia immigrated to the U.S. illegally in the 1990&apos;s, according to a federal law enforcement source."
 image: ''
 link: 'https://www.foxnews.com/politics/trucker-slapped-charges-fatal-driving-incident-previously-immigrated-us-illegally-source'
 source: 'https://feeds.foxnews.com/foxnews/latest'

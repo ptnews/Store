@@ -2,6 +2,7 @@
 title: "Iranian president says his country is at 'total war' with the US, Israel and Europe: reports"
 date: 2025-12-27
 description: "Iranian President Masoud Pezeshkian says his country is at &apos;total war&apos; with the U.S., Israel and Europe, claiming the conflict is more complex than Iran&apos;s 1980s war with Iraq."
+summary: "Iranian President Masoud Pezeshkian says his country is at &apos;total war&apos; with the U.S., Israel and Europe, claiming the conflict is more complex than Iran&apos;s 1980s war with Iraq."
 image: ''
 link: 'https://www.foxnews.com/world/iranian-president-says-country-total-war-us-israel-europe'
 source: 'https://feeds.foxnews.com/foxnews/world'

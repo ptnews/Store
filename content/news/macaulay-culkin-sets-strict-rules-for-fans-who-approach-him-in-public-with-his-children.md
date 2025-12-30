@@ -2,6 +2,7 @@
 title: "Macaulay Culkin sets strict rules for fans who approach him in public with his children"
 date: 2025-12-29
 description: "Macaulay Culkin reveals his strict rules for fan encounters, including no approaches at dinner or with his kids. The &quot;Home Alone&quot; star discusses limits."
+summary: "Macaulay Culkin reveals his strict rules for fan encounters, including no approaches at dinner or with his kids. The &quot;Home Alone&quot; star discusses limits."
 image: ''
 link: 'https://www.foxnews.com/entertainment/macaulay-culkin-sets-strict-rules-fans-who-approach-him-public-his-children'
 source: 'https://feeds.foxnews.com/foxnews/latest'
