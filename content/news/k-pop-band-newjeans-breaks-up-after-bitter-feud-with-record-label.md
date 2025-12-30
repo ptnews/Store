@@ -17,4 +17,4 @@ tags:
 
 draft: false
 ---
-
+Ador says it has dropped NewJeans member Danielle Marsh while the return of Minji remains uncertain.

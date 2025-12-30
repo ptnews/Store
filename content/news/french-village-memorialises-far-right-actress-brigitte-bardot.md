@@ -17,4 +17,4 @@ tags:
 
 draft: false
 ---
-
+Saint-Tropez residents paid tribute to French actress Brigitte Bardot outside her home, a day after she died at 91.

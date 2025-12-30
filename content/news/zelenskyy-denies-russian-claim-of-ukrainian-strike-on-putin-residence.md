@@ -17,4 +17,4 @@ tags:
 
 draft: false
 ---
-
+Volodymyr Zelenskyy quickly denied a Russian claim that Ukraine attacked Vladimir Putin’s home in the city of Novgorod.

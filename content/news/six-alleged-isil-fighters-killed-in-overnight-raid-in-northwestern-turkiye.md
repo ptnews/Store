@@ -17,4 +17,4 @@ tags:
 
 draft: false
 ---
-
+At least six suspected ISIL fighters and three Turkish police officers were killed after a shootout in Turkiye. 

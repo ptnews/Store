@@ -17,4 +17,4 @@ tags:
 
 draft: false
 ---
-
+The former far-right leader receives second treatment in three days for chronic hiccups.

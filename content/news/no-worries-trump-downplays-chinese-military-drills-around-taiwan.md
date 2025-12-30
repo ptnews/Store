@@ -1,8 +1,8 @@
 ---
 title: "'No worries': Trump downplays Chinese military drills around Taiwan"
 date: 2025-12-30
-description: "The US President has downplayed the drills which follow a US announcement of an $11bn arms sale to Taiwan."
-summary: "The US President has downplayed the drills which follow a US announcement of an $11bn arms sale to Taiwan."
+description: "Trump shrugged off the drills which come two weeks after the US announced an $11bn arms sale to Taiwan."
+summary: "Trump shrugged off the drills which come two weeks after the US announced an $11bn arms sale to Taiwan."
 image: ''
 link: 'https://www.bbc.com/news/articles/cdxwxkeg9w6o?at_medium=RSS&at_campaign=rss'
 source: 'http://feeds.bbci.co.uk/news/world/rss.xml'
@@ -17,4 +17,4 @@ tags:
 
 draft: false
 ---
-
+Trump shrugged off the drills which come two weeks after the US announced an $11bn arms sale to Taiwan.

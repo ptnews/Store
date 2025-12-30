@@ -17,4 +17,4 @@ tags:
 
 draft: false
 ---
-
+Although both leaders express optimism in Florida there is no indication of progress, writes the BBC's Vitaliy Shevchenko.

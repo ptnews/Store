@@ -17,4 +17,4 @@ tags:
 
 draft: false
 ---
-
+Shabana Mahmood is facing growing calls to revoke the citizenship of Alaa Abdel Fattah after the emergence of social media posts.

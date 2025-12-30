@@ -17,4 +17,4 @@ tags:
 
 draft: false
 ---
-
+The woman who was supposed to care for Saabirin Saylaan was found to have beaten and tortured her.

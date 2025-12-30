@@ -17,4 +17,4 @@ tags:
 
 draft: false
 ---
-
+Meanwhile, a second-string Egypt side maintains their unbeaten record in a goalless draw with Angola.

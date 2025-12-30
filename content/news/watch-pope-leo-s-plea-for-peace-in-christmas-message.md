@@ -16,4 +16,4 @@ tags:
 
 draft: false
 ---
-
+Pope Leo calls for an end to conflicts around the world in Christmas speech.

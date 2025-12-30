@@ -15,4 +15,4 @@ tags:
 
 draft: false
 ---
-
+It has been a year of multiple major conflicts - and there are geopolitical implications of unparalleled importance

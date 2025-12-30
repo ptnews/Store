@@ -17,4 +17,4 @@ tags:
 
 draft: false
 ---
-
+Somalia says it is concerned the recognition serves as a pretext for the forced relocation of Palestinians.

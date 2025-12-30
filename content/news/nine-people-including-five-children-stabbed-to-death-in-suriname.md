@@ -17,4 +17,4 @@ tags:
 
 draft: false
 ---
-
+Police detained the male suspect after shooting him in the leg, while two others are seriously injured.

@@ -17,4 +17,4 @@ tags:
 
 draft: false
 ---
-
+An investigation is under way after the train derailed as it rounded a bend near the town of Nizanda. 

@@ -16,4 +16,4 @@ tags:
 
 draft: false
 ---
-
+<a href="https://news.google.com/rss/articles/CBMihgFBVV95cUxOTTlYWGNRVm8ybGJORGZsN3NwUXpqeWtuX0piWGdhUHJGWmxHNm8xalJVa0lUU0JEYWcyS3FTbGZZVTdzVlJxUzlnOGlWVFR4anBvUU1sM3V2MDdmRWxPeVBkbDJ6UGlraUpVR2RNWkRnR0V4WHV0TEU3Rm9NcTFpVG1hZUpsUQ?oc=5" target="_blank">UN Persons of the Year for 2025: Readers’ Survey</a>&nbsp;&nbsp;<font color="#6f6f6f">PassBlue</font>

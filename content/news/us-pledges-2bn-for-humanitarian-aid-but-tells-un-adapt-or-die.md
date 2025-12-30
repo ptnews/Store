@@ -16,4 +16,4 @@ tags:
 
 draft: false
 ---
-
+The pledge was welcomed by the UN, but comes after previous major cuts to US funding for humanitarian operations. 

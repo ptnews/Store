@@ -17,4 +17,4 @@ tags:
 
 draft: false
 ---
-
+British boxer Anthony Joshua was injured in a car crash in Nigeria that killed two people, police say.

@@ -17,4 +17,4 @@ tags:
 
 draft: false
 ---
-
+Thousands of homes in parts of Finland, Sweden and Norway have been left without power.

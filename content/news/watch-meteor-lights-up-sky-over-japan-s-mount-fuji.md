@@ -17,4 +17,4 @@ tags:
 
 draft: false
 ---
-
+The meteor could be seen blazing through the night sky over Japan's Mount Fuji

@@ -17,4 +17,4 @@ tags:
 
 draft: false
 ---
-
+<a href="https://news.google.com/rss/articles/CBMiigFBVV95cUxOeTVIVjVHbWZfWUlyM2g2RHN4UU1MalF1VUs3TF9xWWkydkRoaElFOHlDSjdfS2t2VC10THdDWTF3VTJ1NnBJamNMdlJsYm5lc3JtazNhcXhrSzNTcm9Zd3BLN2JLUmIybmZvSTFFTm1VNWdWVHVlZXh3MmRtWHdJZWI0TERLbTBHSkE?oc=5" target="_blank">Photos show the luxurious, heavily fortified presidential jets world leaders use for official travel</a>&nbsp;&nbsp;<font color="#6f6f6f">Business Insider</font>

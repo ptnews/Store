@@ -17,4 +17,4 @@ tags:
 
 draft: false
 ---
-
+The drills come days after the US announced the sale of one of its largest weapons packages to Taiwan.

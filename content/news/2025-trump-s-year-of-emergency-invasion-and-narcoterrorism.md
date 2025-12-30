@@ -16,4 +16,4 @@ tags:
 
 draft: false
 ---
-
+US president claims widespread and varied emergencies to justify executive authority in first year of second term. 

@@ -17,4 +17,4 @@ tags:
 
 draft: false
 ---
-
+The US president also warns Hamas will have "hell to pay" if it does not disarm,  after talks with Netanyahu.

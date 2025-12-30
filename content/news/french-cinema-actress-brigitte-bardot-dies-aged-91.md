@@ -17,4 +17,4 @@ tags:
 
 draft: false
 ---
-
+The actress was a symbol of sexual liberation in the 1950s but became increasingly controversial after making homophobic and racist slurs.

@@ -17,4 +17,4 @@ tags:
 
 draft: false
 ---
-
+Under the scheme, climbers paid a $4,000 deposit that was returned if they brought 8kg of waste down the mountain.

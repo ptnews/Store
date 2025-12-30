@@ -17,4 +17,4 @@ tags:
 
 draft: false
 ---
-
+The Ukrainian president rejects Moscow’s claim that Ukrainian forces launched a drone attack on Novgorod.

@@ -17,4 +17,4 @@ tags:
 
 draft: false
 ---
-
+President Trump said he wants to move to phase two of the Gaza ceasefire “quickly” if Hamas disarms soon.  

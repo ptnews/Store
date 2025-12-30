@@ -17,4 +17,4 @@ tags:
 
 draft: false
 ---
-
+Post-election violence in Tanzania and more coups were part of a turbulent 12 months on the continent.

@@ -17,4 +17,4 @@ tags:
 
 draft: false
 ---
-
+The president said it was a dock area "where they load the boats up with drugs".

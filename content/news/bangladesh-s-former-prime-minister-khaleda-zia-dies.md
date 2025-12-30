@@ -1,5 +1,5 @@
 ---
-title: "Bangladesh former Prime Minister Khaleda Zia dies, aged 80"
+title: "Bangladesh’s former Prime Minister Khaleda Zia dies"
 date: 2025-12-30
 description: "Bangladesh&#039;s first female prime minister dies after a prolonged illness in Dhaka, her party says. "
 summary: "Bangladesh&#039;s first female prime minister dies after a prolonged illness in Dhaka, her party says. "
@@ -17,4 +17,4 @@ tags:
 
 draft: false
 ---
-
+Bangladesh&#039;s first female prime minister dies after a prolonged illness in Dhaka, her party says. 

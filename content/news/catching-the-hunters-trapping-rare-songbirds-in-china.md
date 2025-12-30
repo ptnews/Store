@@ -17,4 +17,4 @@ tags:
 
 draft: false
 ---
-
+The BBC catches a man trapping songbirds - selling them is a profitable business because many keep them as pets.

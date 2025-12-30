@@ -17,4 +17,4 @@ tags:
 
 draft: false
 ---
-
+"We cannot live freely. You cannot even play music" - residents tell the BBC of militants' rule.

@@ -17,4 +17,4 @@ tags:
 
 draft: false
 ---
-
+Video released by the Ukrainian military showed soldiers shooting down small Russian drones with their rifles.

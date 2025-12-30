@@ -17,4 +17,4 @@ tags:
 
 draft: false
 ---
-
+Syrian government troops have been deployed after demonstrations sparked by a mosque explosion led to deadly clashes.

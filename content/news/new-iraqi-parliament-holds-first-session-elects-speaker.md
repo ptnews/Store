@@ -17,4 +17,4 @@ tags:
 
 draft: false
 ---
-
+Haybat al-Halbousi, from the Taqaddum (Progress) Party, has been elected as speaker of the new parliament.

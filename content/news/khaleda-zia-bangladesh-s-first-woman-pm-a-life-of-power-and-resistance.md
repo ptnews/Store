@@ -17,4 +17,4 @@ tags:
 
 draft: false
 ---
-
+The 80-year-old fought to restore democracy after military takeover in 1980s, but corruption claims tainted her legacy.

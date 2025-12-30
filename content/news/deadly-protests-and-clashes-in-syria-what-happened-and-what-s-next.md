@@ -17,4 +17,4 @@ tags:
 
 draft: false
 ---
-
+Unrest grips Syria&#039;s Mediterranean cities after a deadly mosque attack sparks demonstrations.

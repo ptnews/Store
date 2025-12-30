@@ -17,4 +17,4 @@ tags:
 
 draft: false
 ---
-
+Observers say the vote, accompanied by a renewed crackdown on dissent, is meant to entrench the junta's power.

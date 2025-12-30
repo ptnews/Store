@@ -17,4 +17,4 @@ tags:
 
 draft: false
 ---
-
+The French model and actress has died at the age of 91.

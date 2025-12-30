@@ -17,4 +17,4 @@ tags:
 
 draft: false
 ---
-
+Scientists say volcanic activity at the site, which frequently erupts, had intensified this week, with craters continuously emitting ash. 

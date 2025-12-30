@@ -17,4 +17,4 @@ tags:
 
 draft: false
 ---
-
+The 70-year-old had suffered with the spasms for nine months, his wife says, and was already in hospital for hernia surgery.

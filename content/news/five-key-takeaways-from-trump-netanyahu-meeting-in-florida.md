@@ -17,4 +17,4 @@ tags:
 
 draft: false
 ---
-
+US president and Israeli prime minister exchange flattery as Trump threatens Iran and stresses that Hamas must disarm.

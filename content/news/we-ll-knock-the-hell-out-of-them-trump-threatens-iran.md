@@ -15,4 +15,4 @@ tags:
 
 draft: false
 ---
-
+Donald Trump threatened Iran and said “we’ll knock the hell out of them” if Tehran rebuilds its military forces.

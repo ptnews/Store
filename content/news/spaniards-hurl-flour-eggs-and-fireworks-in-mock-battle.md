@@ -16,4 +16,4 @@ tags:
 
 draft: false
 ---
-
+The annual food fight festival ''Els Enfarinats'' has left the Spanish town of Ibi covered in flour and egg shells.

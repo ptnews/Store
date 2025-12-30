@@ -17,4 +17,4 @@ tags:
 
 draft: false
 ---
-
+The ceasefire took effect at noon local time (05:00 GMT) on Saturday. 

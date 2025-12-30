@@ -17,4 +17,4 @@ tags:
 
 draft: false
 ---
-
+A controversy kicked off after two religious podcasters moved into an Appalachian hill town deep in the Bible Belt.

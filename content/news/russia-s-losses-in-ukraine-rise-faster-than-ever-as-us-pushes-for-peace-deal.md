@@ -17,4 +17,4 @@ tags:
 
 draft: false
 ---
-
+A steep rise in soldiers' obituaries is documented by the BBC as part of its work in counting Russian war losses.

@@ -17,4 +17,4 @@ tags:
 
 draft: false
 ---
-
+Alawite protesters confront government supporters in coastal cities.

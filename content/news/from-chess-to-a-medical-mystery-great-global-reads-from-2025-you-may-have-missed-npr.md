@@ -17,4 +17,4 @@ tags:
 
 draft: false
 ---
-
+<a href="https://news.google.com/rss/articles/CBMivwFBVV95cUxNYmpqMGtNTzhVOVlaaE9QcjlrbE1keE9Xc1BLc2UyelhoMWRzT295M3E2cUVsc2xmd2p2bEtXTTZaN2dEUFF2cWV3N2hxejN5Z3ZSUXo1c0hCY2FzZjlXa25GUU5lMDJIZWUxbXlsc0V6ZE1aZ2lUcVZKWW1QdW5ua1daSVV3VjJJQWY4anZBcllDT1UzUU83Z2M4RHc4Szh2a3NSUHJ3Z3lLS0duQXpNal9VQVVVWEpXUUoxc0R4UQ?oc=5" target="_blank">From chess to a medical mystery: Great global reads from 2025 you may have missed</a>&nbsp;&nbsp;<font color="#6f6f6f">NPR</font><strong><a href="https://news.google.com/stories/CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2lmNWJlaEVCSDI3YjhPbXVET05TZ0FQAQ?hl=en-US&gl=US&ceid=US:en&oc=5" target="_blank">View Full Coverage on Google News</a></strong>

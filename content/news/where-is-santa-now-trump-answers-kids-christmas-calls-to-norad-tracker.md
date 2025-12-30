@@ -17,4 +17,4 @@ tags:
 
 draft: false
 ---
-
+Norad got some help from President Donald Trump as it marked its 70th year tracking Santa Claus on Christmas Eve.

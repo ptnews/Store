@@ -16,4 +16,4 @@ tags:
 
 draft: false
 ---
-
+Officials spent 40 minutes dismantling the travelator to free him, but he was later pronounced dead.

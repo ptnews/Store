@@ -17,4 +17,4 @@ tags:
 
 draft: false
 ---
-
+US president says Hamas will pay if it fails to disarm, and threatens new strikes on Iran over its nuclear programme. 
