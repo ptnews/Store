@@ -1,5 +1,5 @@
 ---\ntitle: 'Pope to Spanish pilgrims: Follow Jesus with the saints'' examples - Vatican News'
-date: 2025-12-29
+date: 2025-12-30
 description: 'Pope to Spanish pilgrims: Follow Jesus with the saints'' examples&nbsp;&nbsp;Vatican NewsPope Leo XIV: To let God work in your life, you have to empty yourself&nbsp;&nbsp;Catholic News AgencyThe Pope receives pilgrims from a parish in Alcalá de Henares in a private audience&nbsp;&nbsp;infovaticana'
 image: ''
 link: 'https://news.google.com/rss/articles/CBMiswFBVV95cUxQLUJTeTNCdHJ6UldvRmp1SFNXT2FfNE1kcGJQcS03dS00U3czLWZfMTJnUE12eGRlbTI5MGNybHFvSDdaUW1wcC1IbHN3Yk5ST201bFo1TmdVQjVxU25UN0c2dmNoUlc5dU9jdV9fX2h5am1FQjV1ZDVqMmx1TXpVYmx2VlhQZVp2VmZrRzBxM3pFTnV3bzJqTWRjc1VXa0JDcHhlNk5kVktVS0hhNmMwTGJHUQ?oc=5'

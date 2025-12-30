@@ -1,5 +1,5 @@
 ---\ntitle: 'John Simpson: ''I''ve reported on 40 wars but I''ve never seen a year like 2025'''
-date: 2025-12-29
+date: 2025-12-30
 description: 'It has been a year of multiple major conflicts - and there are geopolitical implications of unparalleled importance'
 image: ''
 link: 'https://www.bbc.com/news/articles/cj4qp17e1lqo?at_medium=RSS&at_campaign=rss'

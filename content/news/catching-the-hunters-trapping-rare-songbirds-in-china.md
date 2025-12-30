@@ -1,5 +1,5 @@
 ---\ntitle: 'Catching the hunters trapping rare songbirds in China'
-date: 2025-12-29
+date: 2025-12-30
 description: 'The BBC catches a man trapping songbirds - selling them is a profitable business because many keep them as pets.'
 image: ''
 link: 'https://www.bbc.com/news/articles/cdxw7593x9zo?at_medium=RSS&at_campaign=rss'
