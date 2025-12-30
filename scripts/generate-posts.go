@@ -159,6 +159,7 @@ func main() {
 title: "%s"
 date: %s
 description: "%s"
+summary: "%s"
 image: '%s'
 link: '%s'
 source: '%s'
@@ -169,7 +170,7 @@ tags:
 draft: false
 ---
 %s
-`, cleanedTitle, pubDate, cleanedDescText, image, item.Link, source.String(), category, formatTags(tags), item.Content)
+`, cleanedTitle, pubDate, cleanedDescText, cleanedDescText, image, item.Link, source.String(), category, formatTags(tags), item.Content)
 
 			os.WriteFile(filepath.Join(contentDir, slug+".md"), []byte(frontmatter), 0644)
 
