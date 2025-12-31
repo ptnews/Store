@@ -1,0 +1,21 @@
+---
+title: "Dead birds on Florida beaches have experts worried about avian flu"
+date: 2025-12-31
+description: "Dead birds along Florida&apos;s Space Coast spark fears of a possible avian flu outbreak. Samples were sent for testing as wildlife officials monitor the situation."
+summary: "Dead birds along Florida&apos;s Space Coast spark fears of a possible avian flu outbreak. Samples were sent for testing as wildlife officials monitor the situation."
+slug: "dead-birds-on-florida-beaches-have-experts-worried-about-avian-flu"
+image: ''
+link: 'https://www.foxnews.com/us/dead-birds-florida-beaches-have-experts-worried-about-avian-flu'
+source: 'https://feeds.foxnews.com/foxnews/latest'
+categories:
+- 'feeds.foxnews.com'
+tags:
+- 'florida'
+- 'beaches'
+- 'experts'
+- 'worried'
+- 'birds'
+
+draft: false
+---
+<p>Dead birds have been found along Florida’s Space Coast in Central Florida, raising concerns about a possible <a href="https://www.foxnews.com/category/health/bird-flu" target="_blank" rel="noopener">avian flu outbreak</a>.</p><p>While no cases have been confirmed, the nonprofit Florida Wildlife Hospital said samples of dead birds found in Brevard County were sent for testing.</p><p>The organization said large-scale migration from northern regions could be bringing the virus into the state.</p><p>Tracy Frampton, the executive director of the Florida Wildlife Hospital, told <a href="http://www.fox35orlando.com/news/avian-flu-concerns-spread-space-coast-more-birds-dying-very-disheartening" target="_blank" rel="noopener">Fox 35 Orlando</a> that migrating birds were being closely monitored.</p><p><a href="https://www.foxnews.com/health/first-ever-human-case-rare-bird-flu-strain-confirmed-western-u-s" target="_blank" rel="noopener"><strong>FIRST-EVER HUMAN CASE OF RARE BIRD FLU STRAIN CONFIRMED IN WESTERN US</strong></a></p><p>"It spreads so easily, and if they bring it from up north when they come down here, it certainly is a concern. So, we always keep an eye out," Frampton said.</p><p>She said the sickness affects the brain and that neurological issues have been noted in the past. Avian flu last broke out in Florida in 2022, when thousands of birds died.</p><p>"They could not keep their head upright. They’re swimming in circles, maybe falling over, just really messed up their neurological system," Frampton said.</p><p><a href="https://www.foxnews.com/health/cdc-declares-bird-flu-emergency-over-experts-warn-possible-fall-resurgence" target="_blank" rel="noopener"><strong>CDC DECLARES BIRD FLU EMERGENCY OVER AS EXPERTS WARN OF POSSIBLE FALL RESURGENCE</strong></a></p><p>Michael Shay, a local beachgoer, found several dead birds lying within several feet of each other on a beach last week.</p><p>"It’s very sickening, very disheartening," he said.</p><p>Shay said he saw dead pelicans, seagulls and gannets.</p><p>Florida Fish and Wildlife Conservation Commission officials told Fox Orlando that avian flu was not easily transmissible from birds to people but urged the public to avoid contact with sick or dead birds while the situation was under review.</p><p>It comes as Orlando City Commissioner Patty Sheehan held a news conference Monday to discuss the deaths of at least a dozen swans at <a href="https://www.foxnews.com/category/us/orlando" target="_blank" rel="noopener">Lake Eola Park</a> at the downtown park in recent days. The cause remains unknown, though Sheehan speculated avian flu could be responsible.</p><p>She said the swans’ bodies are being stored so necropsies can be performed.</p><p>Avian flu has been confirmed in poultry flocks in other parts of the country, according to <a href="https://www.aphis.usda.gov/livestock-poultry-disease/avian/avian-influenza/hpai-detections/commercial-backyard-flocks" target="_blank" rel="nofollow noopener">federal data</a> from the U.S. Department of Agriculture’s Animal and Plant Health Inspection Service, which shows nearly 2,000 flocks have tested positive nationwide since 2022.</p><p>Recent outbreaks were documented at poultry farms and backyard flocks in states including Arkansas, Kansas, Maryland, Nebraska and <a href="https://www.foxnews.com/category/us/us-regions/northeast/new-york" target="_blank" rel="noopener">New York</a>, affecting more than 128,000 birds combined.</p>
