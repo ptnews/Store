@@ -1,0 +1,20 @@
+---
+title: "New Year's Eve 2026 celebrations kick off as the new year dawns around the world - CBS News"
+date: 2025-12-31
+description: "New Year's Eve 2026 celebrations kick off as the new year dawns around the world&nbsp;&nbsp;CBS NewsNew Year's Eve live: Fireworks and drone displays delight as countries welcome 2026&nbsp;&nbsp;BBCNew year celebrations around the world – in pictures&nbsp;&nbsp;The GuardianNew Year’s 2026 Celebrations Around the World: Photos and Videos&nbsp;&nbsp;The New York TimesAsia’s drummers pound in the new year as others mark 2026 with defiance or hope&nbsp;&nbsp;AP News"
+summary: "New Year's Eve 2026 celebrations kick off as the new year dawns around the world&nbsp;&nbsp;CBS NewsNew Year's Eve live: Fireworks and drone displays delight as countries welcome 2026&nbsp;&nbsp;BBCNew year celebrations around the world – in pictures&nbsp;&nbsp;The GuardianNew Year’s 2026 Celebrations Around the World: Photos and Videos&nbsp;&nbsp;The New York TimesAsia’s drummers pound in the new year as others mark 2026 with defiance or hope&nbsp;&nbsp;AP News"
+slug: "new-year-s-eve-2026-celebrations-kick-off-as-the-new-year-dawns-around-the-world-cbs-news"
+image: ''
+link: 'https://news.google.com/rss/articles/CBMijwFBVV95cUxPb2VoQThoLWUtSUotaHlyRUUwNHpBVkVWWlJ2UERuV2ticklDaUIxRV96SGRNLTRQVkFMNkk3MGZZRkxzYkpLUmhIR2NtZ1pRQzJoSEZ5MXVPRmNLUGFEUkQ2UW9xRTBERFZRa29YcERidEpCNFIwX1o0UG1QUHo0aFByaGhEWmJIWEM1RUdUTdIBlAFBVV95cUxQcElnVHkwT184S3NXTGRuemp6Ry1TeHVaNXFXSUlRM0lzN3ozQ2Y2OURZR1R6bTByREl0X3d1aTlvWWd0ZWtwZ0FCYmR3RUtQb1pwaFZkVHZENGdGVjBZczhmaWpTV3BLUExwZ1hjeFl5ZXZBZE90bDdnaWZJaEJoRmRkV1JJMWpEckZqYll0Q08yRFE0?oc=5'
+source: 'https://news.google.com/rss/topics/CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx1YlY4U0FtVnVHZ0pWVXlnQVAB?hl=en-US&gl=US&ceid=US:en'
+categories:
+- 'news.google.com'
+tags:
+- 'celebrations'
+- 'around'
+- 'dawns'
+- 'world'
+
+draft: false
+---
+<ol><li><a href="https://news.google.com/rss/articles/CBMijwFBVV95cUxPb2VoQThoLWUtSUotaHlyRUUwNHpBVkVWWlJ2UERuV2ticklDaUIxRV96SGRNLTRQVkFMNkk3MGZZRkxzYkpLUmhIR2NtZ1pRQzJoSEZ5MXVPRmNLUGFEUkQ2UW9xRTBERFZRa29YcERidEpCNFIwX1o0UG1QUHo0aFByaGhEWmJIWEM1RUdUTdIBlAFBVV95cUxQcElnVHkwT184S3NXTGRuemp6Ry1TeHVaNXFXSUlRM0lzN3ozQ2Y2OURZR1R6bTByREl0X3d1aTlvWWd0ZWtwZ0FCYmR3RUtQb1pwaFZkVHZENGdGVjBZczhmaWpTV3BLUExwZ1hjeFl5ZXZBZE90bDdnaWZJaEJoRmRkV1JJMWpEckZqYll0Q08yRFE0?oc=5" target="_blank">New Year's Eve 2026 celebrations kick off as the new year dawns around the world</a>&nbsp;&nbsp;<font color="#6f6f6f">CBS News</font></li><li><a href="https://news.google.com/rss/articles/CBMiVEFVX3lxTFB4STVOcVRWeXE1TDNRSVgtbmpyamtZTVhFLU10Ry13aE05T28yLXJMS2FnNDIwOG5JM3AzUEM3T3pQWE5EMjd6VjlkZGlRVUp3eFJFZA?oc=5" target="_blank">New Year's Eve live: Fireworks and drone displays delight as countries welcome 2026</a>&nbsp;&nbsp;<font color="#6f6f6f">BBC</font></li><li><a href="https://news.google.com/rss/articles/CBMisAFBVV95cUxQNnk2OG1qYUZSS29td0UwNXJ4YTlRS2xCSExJaC16dEk0VHdQLU53UGVPTjJoQS1tc1o5U2laUXRtcE9wVTZFM0VvOUFNTWF1MGFfd09kaFdOUnh4b1c0Z0lJTWNBbnlXNGtGNnJsc3JZem1lOVJMSjlQT00zMzc5MEw0RVZldHFsVTlxY2h1cWh2WHRoanc2NmRNSUJqam93VzNUbnpqTTNtRi1OdzgzNw?oc=5" target="_blank">New year celebrations around the world – in pictures</a>&nbsp;&nbsp;<font color="#6f6f6f">The Guardian</font></li><li><a href="https://news.google.com/rss/articles/CBMijgFBVV95cUxNU2dtSlRfNW9NUWJXRi1mOW1XWUdySmRIcVdnaWw5QmZEVFN1SHZLeGdfdVJib3dzcDlpRkY5OVdkaVZpS3pGNzJyZk8xZTlQUFpzUFpHYm42YnBCMk52QW5YQVp4czZndGhyVXRIcWo3TVBOQ192cUl2SWJJTEQzd0hBT056MnlPRDh1RDJn?oc=5" target="_blank">New Year’s 2026 Celebrations Around the World: Photos and Videos</a>&nbsp;&nbsp;<font color="#6f6f6f">The New York Times</font></li><li><a href="https://news.google.com/rss/articles/CBMikwFBVV95cUxPUWtBaEcxcnM3d3NMRG9qQVpwcnRVV0xpSWNoeWlvVUNQdEw4R3gzel9ibV9Vd1NBNkdYYkxvYW5QRVlHalFDUnVkM3hFbW5zTV9WRWdyX1U5YkpPaE1RbnBpa3F2d0VLZk1pbUUxYnlNLUozbjhsRG02bW55WXhfR2JNMEVwRERhT3dVdWo2RmdXcms?oc=5" target="_blank">Asia’s drummers pound in the new year as others mark 2026 with defiance or hope</a>&nbsp;&nbsp;<font color="#6f6f6f">AP News</font></li></ol>
