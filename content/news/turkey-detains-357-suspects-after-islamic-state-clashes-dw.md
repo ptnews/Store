@@ -1,0 +1,21 @@
+---
+title: "Turkey detains 357 suspects after 'Islamic State' clashes - DW"
+date: 2025-12-31
+description: "Turkey detains 357 suspects after 'Islamic State' clashes&nbsp;&nbsp;DWTurkey arrests scores in another country-wide raid on IS extremists&nbsp;&nbsp;Euronews.comThree Turkish police officers killed by ISIS militants as authorities step up raids over winter holidays&nbsp;&nbsp;CNNTurkiye arrests 125 ISIL suspects in new raids that mark widening crackdown&nbsp;&nbsp;Al JazeeraTurkey detains 357 suspected IS members in nationwide raids&nbsp;&nbsp;BBC"
+summary: "Turkey detains 357 suspects after 'Islamic State' clashes&nbsp;&nbsp;DWTurkey arrests scores in another country-wide raid on IS extremists&nbsp;&nbsp;Euronews.comThree Turkish police officers killed by ISIS militants as authorities step up raids over winter holidays&nbsp;&nbsp;CNNTurkiye arrests 125 ISIL suspects in new raids that mark widening crackdown&nbsp;&nbsp;Al JazeeraTurkey detains 357 suspected IS members in nationwide raids&nbsp;&nbsp;BBC"
+slug: "turkey-detains-357-suspects-after-islamic-state-clashes-dw"
+image: ''
+link: 'https://news.google.com/rss/articles/CBMikgFBVV95cUxPSXpxZ3BfMDFHRUtHQTVMUE5yWk16aDJIMVlxODdXcDl3dDVBTkVRbDZ1RXpaazVUQ2JaTEphRDcteTdNTGVGX2NrNmI5RFFpZEJBZmExRVRZeExWN01iWDQ0R0xJZFg5UF9ENEtEYmNPa0pEbWFpUjlfV1BNT2ZTUk5OT2pPeWRVSXBnWF9qM2FWd9IBkgFBVV95cUxOVjNQUGdSdXlRWnZrQmxpamltMHFTUFdlbUd2cko5ODk0NTA4T01DLUZvdDVUTkRxeXpFeUFXeW1NM1ljYnY2ZnBEMGl3NmUwY01qbEZWOTVoMUp3NjExdmEzQzBsU29JbWVpZ29aTGNmNkhoRjZZeEZkZm9jR1NGenA4Tm91bjZabTg5aURyenFyQQ?oc=5'
+source: 'https://news.google.com/rss/topics/CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx1YlY4U0FtVnVHZ0pWVXlnQVAB?hl=en-US&gl=US&ceid=US:en'
+categories:
+- 'news.google.com'
+tags:
+- 'suspects'
+- 'detains'
+- 'islamic'
+- 'clashes'
+- 'turkey'
+
+draft: false
+---
+<ol><li><a href="https://news.google.com/rss/articles/CBMikgFBVV95cUxPSXpxZ3BfMDFHRUtHQTVMUE5yWk16aDJIMVlxODdXcDl3dDVBTkVRbDZ1RXpaazVUQ2JaTEphRDcteTdNTGVGX2NrNmI5RFFpZEJBZmExRVRZeExWN01iWDQ0R0xJZFg5UF9ENEtEYmNPa0pEbWFpUjlfV1BNT2ZTUk5OT2pPeWRVSXBnWF9qM2FWd9IBkgFBVV95cUxOVjNQUGdSdXlRWnZrQmxpamltMHFTUFdlbUd2cko5ODk0NTA4T01DLUZvdDVUTkRxeXpFeUFXeW1NM1ljYnY2ZnBEMGl3NmUwY01qbEZWOTVoMUp3NjExdmEzQzBsU29JbWVpZ29aTGNmNkhoRjZZeEZkZm9jR1NGenA4Tm91bjZabTg5aURyenFyQQ?oc=5" target="_blank">Turkey detains 357 suspects after 'Islamic State' clashes</a>&nbsp;&nbsp;<font color="#6f6f6f">DW</font></li><li><a href="https://news.google.com/rss/articles/CBMixAFBVV95cUxOdjJDdkc2NmpncXoxN0JRampuRkpSN1dka0x2cVVSdUhERnZfbHNDWnJuRlBTUmdGemF1X01QZFBLZktPUHd3OTRwbHJEcGo3ZlJzLWJmX1dSSGdmM0FTaHE1d0Z5V2JwcExNSU9fU3BpMHgzWnYwOE02QTBsaWJPVktUNDNXX1NrYVRvYWcwVmFOWE1BcXp4NUxZcjMzTWlVU1F5QjhRVjVmMnNBSVNzZmprMWZicjRINnZMNlZDa0laMVpV?oc=5" target="_blank">Turkey arrests scores in another country-wide raid on IS extremists</a>&nbsp;&nbsp;<font color="#6f6f6f">Euronews.com</font></li><li><a href="https://news.google.com/rss/articles/CBMikgFBVV95cUxQXzBrN2dqTEs0Tnd0RkdaM3VoUy1IekVtOF9vSDZheTdYc3JTYjBKUl81ZlNGTW54MzNzSjhndVBOSFJsX3ZfaE1Hd1BxU1UyRzJ1aTRNU1BibzlROUJrQVNpTkRORkpQZ00yVUY1ZkFXRkY4dC1hNVpPa0h1YTJTNVpGTVV0UWc3RnhnUWd5NGJiZw?oc=5" target="_blank">Three Turkish police officers killed by ISIS militants as authorities step up raids over winter holidays</a>&nbsp;&nbsp;<font color="#6f6f6f">CNN</font></li><li><a href="https://news.google.com/rss/articles/CBMiuAFBVV95cUxPTHlKNXJhMDM1Nm50bzctY0hicU5oaE91WTBnNzB5bjJhQzN5T2ZIQjdocmlEZ0VjNDhGVEY3em9fTGJLY1FLdVlTRzdEMTYzb1VzaWFGVFkycGY4eUEwOEpBMUpqOE9tWVpoYUh1YkpCR0xxM0tLTk44VDhRYnRCX01OSldEcjdNb3JYVzh3RVlRbFdoQW1Qd3gtN0M4RmtyWjZwOGZhODVURm9VeWxLRExsTnV3eEpk0gG-AUFVX3lxTE5nTGIwQ0V5aVBfcnF4NEg5UDZSRVFIT1FwLVdCMHZxMTlDRklwMXk5b2RaUVhVSHNXTXpjU0s0OUVwenF0dFJKQVcwWG5FaEM3NXpLSFZUd05waFFLVHhXQlVMdUtfNmpHclpseUlCMWlYUjJUZmVDNmdTdXB0SzFvai1lV05qY2JsMUliUG10bjJVQ0lBT01QVUM4T0ZJbHdxeG9MdGFocjA0YktobWhMYXhGZzUza3hpbWpOUHc?oc=5" target="_blank">Turkiye arrests 125 ISIL suspects in new raids that mark widening crackdown</a>&nbsp;&nbsp;<font color="#6f6f6f">Al Jazeera</font></li><li><a href="https://news.google.com/rss/articles/CBMiWkFVX3lxTE1RU3FjSDJSY3hZQkRRdDVFcVB4LUk0eWZMYjRxUjhfZmZsOVkwSTF4VVg3U1BTVGFKcFY2Y3M5RzZyaE5LcTNWRUhYV0pBZWRJOWgwazItaFRNZw?oc=5" target="_blank">Turkey detains 357 suspected IS members in nationwide raids</a>&nbsp;&nbsp;<font color="#6f6f6f">BBC</font></li></ol>
