@@ -1,5 +1,5 @@
 ---
-title: "Former GOP Sen. Jon Kyl announces dementia diagnosis, steps away from public life"
+title: "Former GOP Sen Jon Kyl announces dementia diagnosis, steps away from public life"
 date: 2025-12-31
 description: "Former Arizona Republican Sen. Jon Kyl, 83, announced he is withdrawing from public life after being diagnosed with dementia following decades of service in Congress."
 summary: "Former Arizona Republican Sen. Jon Kyl, 83, announced he is withdrawing from public life after being diagnosed with dementia following decades of service in Congress."
