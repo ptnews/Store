@@ -1,0 +1,21 @@
+---
+title: "Finland seizes ship sailing from Russia after suspected cable sabotage in Baltic Sea - Reuters"
+date: 2025-12-31
+description: "Finland seizes ship sailing from Russia after suspected cable sabotage in Baltic Sea&nbsp;&nbsp;ReutersFinland detains ship and its crew after critical undersea cable damaged&nbsp;&nbsp;CNNFinnish police seize vessel suspected of damaging underwater cable&nbsp;&nbsp;The GuardianAuthorities investigating damage to undersea telecom cable in Gulf of Finland&nbsp;&nbsp;ABC NewsFinland Takes Control of Ship Suspected of Undersea Cable Damage&nbsp;&nbsp;Bloomberg.com"
+summary: "Finland seizes ship sailing from Russia after suspected cable sabotage in Baltic Sea&nbsp;&nbsp;ReutersFinland detains ship and its crew after critical undersea cable damaged&nbsp;&nbsp;CNNFinnish police seize vessel suspected of damaging underwater cable&nbsp;&nbsp;The GuardianAuthorities investigating damage to undersea telecom cable in Gulf of Finland&nbsp;&nbsp;ABC NewsFinland Takes Control of Ship Suspected of Undersea Cable Damage&nbsp;&nbsp;Bloomberg.com"
+slug: "finland-seizes-ship-sailing-from-russia-after-suspected-cable-sabotage-in-baltic-sea-reuters"
+image: ''
+link: 'https://news.google.com/rss/articles/CBMirAFBVV95cUxPZGRHRHlON0U2dHMxd3VTSGIxR3lwa2dvM1dHdTU3UWJGUVZOMjJOM09BbEFBaUt4YXdselB1N3RKZkRCSzVYZXhPOTZvRXhpejZqdHVKOVd0YmsxRGVxalliRmdja1QzOXplcnRQOEZyOFZwTFdEcTlrQ1FyUWpVbjhleXowa1B2Sl9hY3R6N1hnVGZJTVlCUVNraWNIUVc1Rlc4UjRVUlM0R0Zn?oc=5'
+source: 'https://news.google.com/rss/topics/CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx1YlY4U0FtVnVHZ0pWVXlnQVAB?hl=en-US&gl=US&ceid=US:en'
+categories:
+- 'news.google.com'
+tags:
+- 'suspected'
+- 'sabotage'
+- 'finland'
+- 'sailing'
+- 'reuters'
+
+draft: false
+---
+<ol><li><a href="https://news.google.com/rss/articles/CBMirAFBVV95cUxPZGRHRHlON0U2dHMxd3VTSGIxR3lwa2dvM1dHdTU3UWJGUVZOMjJOM09BbEFBaUt4YXdselB1N3RKZkRCSzVYZXhPOTZvRXhpejZqdHVKOVd0YmsxRGVxalliRmdja1QzOXplcnRQOEZyOFZwTFdEcTlrQ1FyUWpVbjhleXowa1B2Sl9hY3R6N1hnVGZJTVlCUVNraWNIUVc1Rlc4UjRVUlM0R0Zn?oc=5" target="_blank">Finland seizes ship sailing from Russia after suspected cable sabotage in Baltic Sea</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font></li><li><a href="https://news.google.com/rss/articles/CBMikAFBVV95cUxNdnhtQ044Tm9CbFBnYnpOSjZsS0JWQXoxWmZRM2dyRFlyVklDN3RncC0yeGlleGZEV25jNUlLOTkwS0h1dnZxckU1MEVYbnFfRWxMSUxBSGxPT1EwckRoTGktRUJuWXRBRTRRV1hZZ2VmWmVac25nVzBhTjFVTWxaY05KRjdwZ1VJWFBFd1B3X0M?oc=5" target="_blank">Finland detains ship and its crew after critical undersea cable damaged</a>&nbsp;&nbsp;<font color="#6f6f6f">CNN</font></li><li><a href="https://news.google.com/rss/articles/CBMirgFBVV95cUxOUm4yZkcwaFNHMDN0djNZbUdLUGNyaFdnS29WZFAxbWRnYV9aaW1objNXX3lZY090cW9uaFVlTzQ1LXhBeDdHWnZuM3ZyN3V5R1lndWJmbl9zVVpvazhEVWpOZTNRYURZdlpNOWxpQUFpTlRqNUVYa2pqVzAtd21tNUdHOFBLdnN1SE80eklNSXNKTkxvb21mZnBHbVdMeXYtWlZ5bHQ2VDdxbVA3Wmc?oc=5" target="_blank">Finnish police seize vessel suspected of damaging underwater cable</a>&nbsp;&nbsp;<font color="#6f6f6f">The Guardian</font></li><li><a href="https://news.google.com/rss/articles/CBMiwwFBVV95cUxPOU41T3RWQ0tSY3phYndfLVhmemJJNUpwZ1BscWFEdFZsb2lPajJHRl9qaWR1eGJYaWxIalZjR3BRb0hKVkp5c0xjSUVfc3VBcHdTc0hNYmdCNEQ5TUJrd3dNOWlHcTVJSlFTb1RKSGFzOHNESkRwMFQ4QnIwMklsMTlDU19fb0syWTZmbjk0RDI5bUdsQ1BSdndUVWV2UGVXeU5yOFhRNG9NTnJVUW1USzRqRlc2bnBXdG40QThSR0VndkXSAcgBQVVfeXFMUGhKaEg4YVl6S0ZINlZGS1pVWXRJaTFuLVBsOERfbXIzS3Fjb1d3cW5WUmRwQTQydTQxcnBOOEhLRlNqblZyQUxHaS15ZzRRcW9CN2hHbzh6VFI1bVoyaGlybzZLb3Y4VmFTUjhRUzYwQ3FvYUt0eUlWWElvRVFfSm5YY2dCSHd4MXBMcHRkOU1LWnpZazFLSG96OW9zYS1OYzgwSjQwWXF5aUNaNHBJZFdKUW5hR1FYWTVSRldPWFlDUXFsNGc1SzM?oc=5" target="_blank">Authorities investigating damage to undersea telecom cable in Gulf of Finland</a>&nbsp;&nbsp;<font color="#6f6f6f">ABC News</font></li><li><a href="https://news.google.com/rss/articles/CBMitgFBVV95cUxPdnpKdERqWW42Y2VqNjNEMXgzNjZxT2lOLXdMZUdrM1NaaEFvZHJEMXRPSEwwU0dscEg2LU92U052NU9BaVVBbnFZcEZmV0hZMnVpUThsMkFVU3l3d0pnNXFsa0NNWDE2T0ctZE1RbG9ZTUFaZEhiSmZFODdleEwyNTd6T2xIQ3lXOXlzbGQ0d2xCVERhbDh0dFcyWnBOMW5qcjdsOUxaVGl5alhGLVAwY0hwUk8xdw?oc=5" target="_blank">Finland Takes Control of Ship Suspected of Undersea Cable Damage</a>&nbsp;&nbsp;<font color="#6f6f6f">Bloomberg.com</font></li></ol>
