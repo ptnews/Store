@@ -1,0 +1,21 @@
+---
+title: "More than 3,000 migrants died trying to reach Spain in 2025 - The Guardian"
+date: 2025-12-31
+description: "More than 3,000 migrants died trying to reach Spain in 2025&nbsp;&nbsp;The GuardianThe EU islands where small boat migrant arrivals have plummeted 60% in a year&nbsp;&nbsp;Daily Express\"Balearic route is a laboratory of death policies\": NGO warns about rescues that discriminate against migrants&nbsp;&nbsp;La Voz de Ibiza2025 Sees Significant Decline in Migration, with a Nearly 60% Decrease in the Canary Islands to 17,555 Individuals&nbsp;&nbsp;Tenerife Weekly NewsOver 3,000 people drowned en rou..."
+summary: "More than 3,000 migrants died trying to reach Spain in 2025&nbsp;&nbsp;The GuardianThe EU islands where small boat migrant arrivals have plummeted 60% in a year&nbsp;&nbsp;Daily Express\"Balearic route is a laboratory of death policies\": NGO warns about rescues that discriminate against migrants&nbsp;&nbsp;La Voz de Ibiza2025 Sees Significant Decline in Migration, with a Nearly 60% Decrease in the Canary Islands to 17,555 Individuals&nbsp;&nbsp;Tenerife Weekly NewsOver 3,000 people drowned en rou..."
+slug: "more-than-3-000-migrants-died-trying-to-reach-spain-in-2025-the-guardian"
+image: ''
+link: 'https://news.google.com/rss/articles/CBMilwFBVV95cUxOR05FWDZVczVEeU1KSXA3al9peGpPWkpRZGJpdVBzR0VrdEVESDdqLXUzNHVGS3l6akhjaF9yVkpYNmNZcHZMSW5KSy1EcFExckxkc1RmNWI3S290RU5UdVFpYVdhaGVvaThBYTNuUkJkeTRaSnNTYkx1Tk1mYW1PY21la2wzaWxZUkpmZV9XWU1xa3BMbHBF?oc=5'
+source: 'https://news.google.com/rss/topics/CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx1YlY4U0FtVnVHZ0pWVXlnQVAB?hl=en-US&gl=US&ceid=US:en'
+categories:
+- 'news.google.com'
+tags:
+- 'migrants'
+- 'guardian'
+- 'trying'
+- 'reach'
+- 'spain'
+
+draft: false
+---
+<ol><li><a href="https://news.google.com/rss/articles/CBMilwFBVV95cUxOR05FWDZVczVEeU1KSXA3al9peGpPWkpRZGJpdVBzR0VrdEVESDdqLXUzNHVGS3l6akhjaF9yVkpYNmNZcHZMSW5KSy1EcFExckxkc1RmNWI3S290RU5UdVFpYVdhaGVvaThBYTNuUkJkeTRaSnNTYkx1Tk1mYW1PY21la2wzaWxZUkpmZV9XWU1xa3BMbHBF?oc=5" target="_blank">More than 3,000 migrants died trying to reach Spain in 2025</a>&nbsp;&nbsp;<font color="#6f6f6f">The Guardian</font></li><li><a href="https://news.google.com/rss/articles/CBMikAFBVV95cUxPbE1zRkd4ZEN0R1RDWUw4Q0swQTg4ejVIZElVaG1Yb3RwR3lOQUhoQUFOMkY0Rk5hRE5oaEIzbEl1SDRsNXU3WVFDUWJFTHNmNFFGajRBOHo3c1gyNmZCbFk4cTRqWElreFRBSXJsZlhLX0dzSlpNa0p4VW1URFdFZ2N4eGNGQWxpcVRjakY4Z2XSAZYBQVVfeXFMT2pKMnh0REZkREh5TWRiWlBOMnBsRDhiWkcxNUVuWmV3V0pOZzYxNmxBZWtfdDVEQUNTWklNYVdNSkl3aUNPMHJYMUdlSFowVVNhTzZmY1hsRzlzdHVjcl9LbDVncnF4MFlwNnhPOUx3Yk45ODZJU3JfdjhybUJoa1IyRE16bTUzZ1ZKYjc5VkQ0ZVd3bXlR?oc=5" target="_blank">The EU islands where small boat migrant arrivals have plummeted 60% in a year</a>&nbsp;&nbsp;<font color="#6f6f6f">Daily Express</font></li><li><a href="https://news.google.com/rss/articles/CBMi4wFBVV95cUxPRUZWUGU3Wk8zTDZONVhoeUV6bHdKdF9pQkxRLVFuRVVIOF92Q01vSEJ3UFNaejQ1UExGTndSbnd3QlRKUFdvU1c3MmJ5Q2dmODNJeVNJYVV4cUdhM3NhYzRCREZqQjZ6NXdmQXRWOENiN25Xa2JUV3pUek9YR01qcS11WllmZUstdTBsV1V1dmxLbXQ3aERWd2JnRWN6S1pXSDVITWhxSlRVQVJDdFdfdzVjOUNiRmZ1M2NRSEJzY2JMYWVTVG9QUXY1elB3X1JZd1REVkp6bTZvbzZjcWltWDI5cw?oc=5" target="_blank">"Balearic route is a laboratory of death policies": NGO warns about rescues that discriminate against migrants</a>&nbsp;&nbsp;<font color="#6f6f6f">La Voz de Ibiza</font></li><li><a href="https://news.google.com/rss/articles/CBMi5AFBVV95cUxORUR1bkw1RTdyN2ZfMVc0Tm1mOWdUQkVzN2duTXNlRnNPZGNCOF9UQW41R2NuQ0pjbzQ2OHJ0UXQwQjdfLW1FU2pQWHZkZ3dLR0tmTTB3Zk1QaE1mT2NLd1VlcHZSR2dZMDJHZlQ2TDZwLU9DRGlvTzYwd2ZBaGs3bi1LVzdQX2dxUjBmSWtZbXU5eG9waEJwcno2RUVqR2U1bjJJbUhwRlkyajQtMldVU2RaY3pSSlM1UGNHNDVfNWdXVmh3MG9pRVJPcHRRTWZfaHVGeHJTWlgyWFJJdHRuMzFEUHc?oc=5" target="_blank">2025 Sees Significant Decline in Migration, with a Nearly 60% Decrease in the Canary Islands to 17,555 Individuals</a>&nbsp;&nbsp;<font color="#6f6f6f">Tenerife Weekly News</font></li><li><a href="https://news.google.com/rss/articles/CBMiWEFVX3lxTE5yQnlsaDk1NVEwWTVvZGtRYjczaDR2TC13WWE1WlotZ1BSc1dDdlVVa0t3SXV0VjdqT1I2d1FoOHREcnRXZDhHcllNU0NVVXNFMkgxYWQwU1XSAV5BVV95cUxPZF9RZW44clRoX2l0VkNvcEZsOGQwOGVTNjlsWTdEdW9pMy00U1V2SlpWakZXbW1mTFBYSmprUTBvOENZNThicDlNVDc3NXdTd002aGxvRFc2TFZ3ejRB?oc=5" target="_blank">Over 3,000 people drowned en route to Spain in 2025: report</a>&nbsp;&nbsp;<font color="#6f6f6f">TRT World</font></li></ol>
