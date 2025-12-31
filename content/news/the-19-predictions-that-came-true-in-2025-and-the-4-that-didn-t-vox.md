@@ -1,0 +1,17 @@
+---
+title: "The 19 predictions that came true in 2025 — and the 4 that didn’t - Vox"
+date: 2025-12-31
+description: "The 19 predictions that came true in 2025 — and the 4 that didn’t&nbsp;&nbsp;VoxWe asked you to predict the events of 2025. How did you do?&nbsp;&nbsp;The TimesROLLING FOR INITIATIVE -- PREDICTION SCORECARD FOR 2025&nbsp;&nbsp;ICv2Why my predictions for 2025 fell short – and six things likely to shape the 2026 economy&nbsp;&nbsp;The IndependentThe biggest mistake I made in 2025 ❌&nbsp;&nbsp;So What | Chris Cillizza"
+summary: "The 19 predictions that came true in 2025 — and the 4 that didn’t&nbsp;&nbsp;VoxWe asked you to predict the events of 2025. How did you do?&nbsp;&nbsp;The TimesROLLING FOR INITIATIVE -- PREDICTION SCORECARD FOR 2025&nbsp;&nbsp;ICv2Why my predictions for 2025 fell short – and six things likely to shape the 2026 economy&nbsp;&nbsp;The IndependentThe biggest mistake I made in 2025 ❌&nbsp;&nbsp;So What | Chris Cillizza"
+slug: "the-19-predictions-that-came-true-in-2025-and-the-4-that-didn-t-vox"
+image: ''
+link: 'https://news.google.com/rss/articles/CBMipwFBVV95cUxNekdPTXRPczd0RFk3MDE3VDlmV3BzX1NSZ0x4dS1rTUdCTzBjQk9XcmpqRlJaVFV3VlFrYkxoenE3bEJzNUtScldJeTc2WFBHWElQWXVXUnYtRUMyLVV5NmxaWTM4M25ZN3ExcG9GT1F1WU9qRUNqMXc4Uk45ZS1ieVNjdEdrVk5HWUYxbEtXeEVSQS1HMi1QbXJIMnJFMWtzNlhUWTlDaw?oc=5'
+source: 'https://news.google.com/rss/topics/CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx1YlY4U0FtVnVHZ0pWVXlnQVAB?hl=en-US&gl=US&ceid=US:en'
+categories:
+- 'news.google.com'
+tags:
+- 'predictions'
+
+draft: false
+---
+<ol><li><a href="https://news.google.com/rss/articles/CBMipwFBVV95cUxNekdPTXRPczd0RFk3MDE3VDlmV3BzX1NSZ0x4dS1rTUdCTzBjQk9XcmpqRlJaVFV3VlFrYkxoenE3bEJzNUtScldJeTc2WFBHWElQWXVXUnYtRUMyLVV5NmxaWTM4M25ZN3ExcG9GT1F1WU9qRUNqMXc4Uk45ZS1ieVNjdEdrVk5HWUYxbEtXeEVSQS1HMi1QbXJIMnJFMWtzNlhUWTlDaw?oc=5" target="_blank">The 19 predictions that came true in 2025 — and the 4 that didn’t</a>&nbsp;&nbsp;<font color="#6f6f6f">Vox</font></li><li><a href="https://news.google.com/rss/articles/CBMiigFBVV95cUxOb3VQbzlRNW5Hc2Z6aHJKVkprZ0dNUHBzSDI0QjBERU9LMm9NUV9aTHN2eVEyRjZxXzFFel9EUFgxOGFYWXFPQlh4Sm5NSlR5a2dJRjNIcFlqYW8wU19LblIyUTg0QUZ0amlabnFXR2htR05icFBWaVlXUVFfbDY0ZlZ4YmdCaWdwR0E?oc=5" target="_blank">We asked you to predict the events of 2025. How did you do?</a>&nbsp;&nbsp;<font color="#6f6f6f">The Times</font></li><li><a href="https://news.google.com/rss/articles/CBMikwFBVV95cUxQZ1VFenhGcllpd2NCTmQ1Nk9YMHpyMk1hODdLY2VmTFJuZUtFNjl4bGx3N1lPaFp2MFZ4QzN0QVNuWHFhOHh5TEpaeVBnTzV6ZHByMktEdjdBeUNqRHhad2s4S2hnTE9VYXVxSnZKTHF1bENPczdnU1RGY0t2eEJoTV9LRjQ4WThBR0EwRzdYV3p5OW8?oc=5" target="_blank">ROLLING FOR INITIATIVE -- PREDICTION SCORECARD FOR 2025</a>&nbsp;&nbsp;<font color="#6f6f6f">ICv2</font></li><li><a href="https://news.google.com/rss/articles/CBMitwFBVV95cUxQNWNxcnF5Zm4tajFGWXRGcnF5bS1PRlFwbEVQMWFIS3c2Y1M4RDFvbUl1aUVvN0J2YnFFc3lyN1R0SnRfLTB3dnNiMlphTUtRVEx2bVVhWmZkc3ZOeFhFdVRyaTdsYkdGcFd5ODVzRmlfa2hWWjhfa19nN2NaS19YcE9Ga19pN3VTcWhfbU05MmthWFNXOVd2ZWloYVlWYVNoOWtQajVPc3lZTGRLVGNzNTFoclkzRU0?oc=5" target="_blank">Why my predictions for 2025 fell short – and six things likely to shape the 2026 economy</a>&nbsp;&nbsp;<font color="#6f6f6f">The Independent</font></li><li><a href="https://news.google.com/rss/articles/CBMie0FVX3lxTE85TTNKbXlzUGZSZWNsdGVvVFpPN01FcXVNcDZtTWhPOHE3LWcwT3JmOUdDRDl1bGxLQTA0RmpFN3FPX1h0Zy1zcXZiZDl3dnl6XzN1RlRHTjhkWTQwNXRmNkRleHBwTmtGdTYwb1lqemRwUGlxQ3FvMUhWYw?oc=5" target="_blank">The biggest mistake I made in 2025 ❌</a>&nbsp;&nbsp;<font color="#6f6f6f">So What | Chris Cillizza</font></li></ol>

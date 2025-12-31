@@ -1,0 +1,21 @@
+---
+title: "Somaliland: Why has Israel recognised the breakaway African state as independent? - BBC"
+date: 2025-12-31
+description: "Somaliland: Why has Israel recognised the breakaway African state as independent?&nbsp;&nbsp;BBCReport: Somaliland president planning to make official visit to Israel in near future&nbsp;&nbsp;The Times of IsraelIsraeli recognition of Somaliland prompts global outcry, emergency U.N. meeting&nbsp;&nbsp;The Washington PostIsrael Recognizes Somaliland: The Right Move, for the Wrong Reasons&nbsp;&nbsp;HaaretzRemarks at a UN Security Council Emergency Meeting on Somaliland&nbsp;&nbsp;United States Mi..."
+summary: "Somaliland: Why has Israel recognised the breakaway African state as independent?&nbsp;&nbsp;BBCReport: Somaliland president planning to make official visit to Israel in near future&nbsp;&nbsp;The Times of IsraelIsraeli recognition of Somaliland prompts global outcry, emergency U.N. meeting&nbsp;&nbsp;The Washington PostIsrael Recognizes Somaliland: The Right Move, for the Wrong Reasons&nbsp;&nbsp;HaaretzRemarks at a UN Security Council Emergency Meeting on Somaliland&nbsp;&nbsp;United States Mi..."
+slug: "somaliland-why-has-israel-recognised-the-breakaway-african-state-as-independent-bbc"
+image: ''
+link: 'https://news.google.com/rss/articles/CBMiWkFVX3lxTE1UQWw1TllnOVQwYXRMOS1VTzRQNFVUazdPeUNMazI5anM5Slp4OWdlNklDM0RLTF9fMktFVzV3Skt0WkJkdVNjZmNTR214TUViM0NNRl9OMG90UdIBX0FVX3lxTE1CZnhmSks1Q2FOY04ycGtYeWhxZlJ6ZXFFNFdZT0dhLTFjT1gwSERNUjBxdVA5VktlNGxoUmV0NTlpdzRiZFAzeV96RUsyb1oxSkdLdzF5cEpnUDYzbjhR?oc=5'
+source: 'https://news.google.com/rss/topics/CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx1YlY4U0FtVnVHZ0pWVXlnQVAB?hl=en-US&gl=US&ceid=US:en'
+categories:
+- 'news.google.com'
+tags:
+- 'independent'
+- 'somaliland'
+- 'recognised'
+- 'breakaway'
+- 'african'
+
+draft: false
+---
+<ol><li><a href="https://news.google.com/rss/articles/CBMiWkFVX3lxTE1UQWw1TllnOVQwYXRMOS1VTzRQNFVUazdPeUNMazI5anM5Slp4OWdlNklDM0RLTF9fMktFVzV3Skt0WkJkdVNjZmNTR214TUViM0NNRl9OMG90UdIBX0FVX3lxTE1CZnhmSks1Q2FOY04ycGtYeWhxZlJ6ZXFFNFdZT0dhLTFjT1gwSERNUjBxdVA5VktlNGxoUmV0NTlpdzRiZFAzeV96RUsyb1oxSkdLdzF5cEpnUDYzbjhR?oc=5" target="_blank">Somaliland: Why has Israel recognised the breakaway African state as independent?</a>&nbsp;&nbsp;<font color="#6f6f6f">BBC</font></li><li><a href="https://news.google.com/rss/articles/CBMiygFBVV95cUxPc2ZCS3JyMDQwbzZ1cHRESk1ZZHNhQ1A5UnJpSXlDcnJtaVNoWFJ0RktVQUhpLTJLLWNBTmFib0oxNDJOWFFjcUFQU09UZDdBenRramdvUUNfeFRQazUyQTR3T0pEV0RNLXl1a1M3Z18xRWtIR21DUzIzeWg2d0FiRk1Wa0xLSnhRTjg4dTFuSEhOZkNndVJuWlpkRGpHNl9VX1pVcHItSnhYSE0wUThGVG1QT19yUXVFZGJrZVNWZTBKRHhLTGFjdGd3?oc=5" target="_blank">Report: Somaliland president planning to make official visit to Israel in near future</a>&nbsp;&nbsp;<font color="#6f6f6f">The Times of Israel</font></li><li><a href="https://news.google.com/rss/articles/CBMimgFBVV95cUxQMnFPdmlCRUN0T1FBc2hJZjN1UWN6M0N3TzhyNGZCOGVGQkhPUXZBaUxZNzJpS0JyUVQ0NWprdEpyY09fdU9qUnFDb1ZmUXZrYThBWVdLeElBM25DaG91dFJPOE5iRTF6cVczUFBpU3U1UXBocmhIRE9HMExzTkc2OGpUakk2QmNiUXZ4dHdqNkJ3MjQxNnprTHR3?oc=5" target="_blank">Israeli recognition of Somaliland prompts global outcry, emergency U.N. meeting</a>&nbsp;&nbsp;<font color="#6f6f6f">The Washington Post</font></li><li><a href="https://news.google.com/rss/articles/CBMi_gFBVV95cUxOaTdtQmlqaDB4YWtTQmI2UW9WaG5FX2pLaXNVUGpBWXBTU3Vqc3A1Vm9acW1KemJCUHZ3NkwyOGdvTmlYVVRMeHJaMWFraXdzck9SMGFEUnc4V2haZ0FKdTZlQk42NnJXdERoanNaSm9zczRuSUgtXzdzTTByVFdEaXRHN28xMmRRc2tRejdnbTlwSkZHQXc5YnF6U2IxT040bkZvUVNna2F2TmIzb3p4R19SbXhLY1lSN19NV1lMX0ppcldLY2xTYUJsVnY1YWg3M0kyZnZYMUxORHQ5ajB2c2l1MlF0bUJrWS1zUzg5eUlfdEtLUTNMckNtY3JCQQ?oc=5" target="_blank">Israel Recognizes Somaliland: The Right Move, for the Wrong Reasons</a>&nbsp;&nbsp;<font color="#6f6f6f">Haaretz</font></li><li><a href="https://news.google.com/rss/articles/CBMilwFBVV95cUxPeXd3Z1R3QV93akdaNlE4cXB3R1hrenJBT1BweEtza2MzdzJEb2tZRE1xb0hLQkdmbk1VOVZEVTNPWmdJZWpxbmhRNDYzaEpiY1AyWDFQdzFDUUR5cDdSMDY2LUdPRG5IQklVb1YtZzBhUE1VRkJEdFo3dzlWOUx0dmFIVmZsYW5YdVdxRnFOVmh3OFdjU0tN?oc=5" target="_blank">Remarks at a UN Security Council Emergency Meeting on Somaliland</a>&nbsp;&nbsp;<font color="#6f6f6f">United States Mission to the United Nations (.gov)</font></li></ol>
