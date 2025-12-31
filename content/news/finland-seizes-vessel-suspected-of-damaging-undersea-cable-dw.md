@@ -1,0 +1,21 @@
+---
+title: "Finland seizes vessel suspected of damaging undersea cable - DW"
+date: 2025-12-31
+description: "Finland seizes vessel suspected of damaging undersea cable&nbsp;&nbsp;DWFinland detains ship after critical undersea cable damaged&nbsp;&nbsp;CNNVessel Held In Finland After Suspected Baltic Cable Sabotage&nbsp;&nbsp;Radio Free Europe/Radio LibertyFinnish police seize vessel suspected of damaging underwater cable&nbsp;&nbsp;The GuardianFinland Takes Control of Ship Suspected of Undersea Cable Damage&nbsp;&nbsp;Bloomberg.com"
+summary: "Finland seizes vessel suspected of damaging undersea cable&nbsp;&nbsp;DWFinland detains ship after critical undersea cable damaged&nbsp;&nbsp;CNNVessel Held In Finland After Suspected Baltic Cable Sabotage&nbsp;&nbsp;Radio Free Europe/Radio LibertyFinnish police seize vessel suspected of damaging underwater cable&nbsp;&nbsp;The GuardianFinland Takes Control of Ship Suspected of Undersea Cable Damage&nbsp;&nbsp;Bloomberg.com"
+slug: "finland-seizes-vessel-suspected-of-damaging-undersea-cable-dw"
+image: ''
+link: 'https://news.google.com/rss/articles/CBMilgFBVV95cUxPVV83VDBEZU9yQ0dKMU03NzUyQnZSWTQwTlpEMjhQVXMzUGtLMlExanQ1U0pvbDlFNUtFNW9mNHJ6WGdtUFFaOXg4X255S0xBUHBEUkN4VUwyeG9xWVFHYy1kOHZybFNMQlhHY1hpQzBhT2tST2c0b0JqQm9vOVk4ejlZc0NqMkkzWnF3LVFGT0UyV2pkSHfSAZYBQVVfeXFMUEVQbTg3U2hPNkNtVkI3TVI2VG96X1NwVXZBWW5fM3l2UldxLVBaaGpRWG5WZjVaU3NuMFFHMHVCdWlXMURhdGQ4a245X2JpbDFSN1J0bWxvVm5Jc0xpVlRWalBjUXVxN213MVd5NEFxN2ZUUzctTlJKbExuUDFXUjVCYm02TDdxV2pjRndZWmk3OGdQX3FR?oc=5'
+source: 'https://news.google.com/rss/topics/CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx1YlY4U0FtVnVHZ0pWVXlnQVAB?hl=en-US&gl=US&ceid=US:en'
+categories:
+- 'news.google.com'
+tags:
+- 'suspected'
+- 'damaging'
+- 'undersea'
+- 'finland'
+- 'seizes'
+
+draft: false
+---
+<ol><li><a href="https://news.google.com/rss/articles/CBMilgFBVV95cUxPVV83VDBEZU9yQ0dKMU03NzUyQnZSWTQwTlpEMjhQVXMzUGtLMlExanQ1U0pvbDlFNUtFNW9mNHJ6WGdtUFFaOXg4X255S0xBUHBEUkN4VUwyeG9xWVFHYy1kOHZybFNMQlhHY1hpQzBhT2tST2c0b0JqQm9vOVk4ejlZc0NqMkkzWnF3LVFGT0UyV2pkSHfSAZYBQVVfeXFMUEVQbTg3U2hPNkNtVkI3TVI2VG96X1NwVXZBWW5fM3l2UldxLVBaaGpRWG5WZjVaU3NuMFFHMHVCdWlXMURhdGQ4a245X2JpbDFSN1J0bWxvVm5Jc0xpVlRWalBjUXVxN213MVd5NEFxN2ZUUzctTlJKbExuUDFXUjVCYm02TDdxV2pjRndZWmk3OGdQX3FR?oc=5" target="_blank">Finland seizes vessel suspected of damaging undersea cable</a>&nbsp;&nbsp;<font color="#6f6f6f">DW</font></li><li><a href="https://news.google.com/rss/articles/CBMilgFBVV95cUxPRVV2Mmc4N1B5eGs2Y1hPcjRncTQxRzhfSG5FbzFObGlYN0RuSGxRRW5hMHFRcUU4cUFwX1poUTQzMGltZjl2eXN0U01JQTNFQlBKZ211VVdscE9ybzVQYWNfTG9sRWRaUFNUTDNtbER6d2xLTEozNHU5SFVnZG9tNWt5N3pyWmRMcEpXMzYwVnhwak5rWVE?oc=5" target="_blank">Finland detains ship after critical undersea cable damaged</a>&nbsp;&nbsp;<font color="#6f6f6f">CNN</font></li><li><a href="https://news.google.com/rss/articles/CBMikAFBVV95cUxQbDNyd1FEbmRocnUzRnF1aHZ1Z1V6VC1kMS1nRmNCeXlRWmhHdjBVdmNFSHRQQ0dYbUxzUzlWOVFfMnpCNGpNeDFsUkl0M0MtMV9OcjMwdTNaY3pUNk5sZzdRTFFzeUZMTnhKdnRnZVRJN2RHb0VkRjBIZ2MzbWhEd3dPcHAwalYtcmlyYTVMdTPSAZMBQVVfeXFMTVJvbndDTl8yZEk0YWRNb05wZnNmRFN2QnhENWp1dDViMUlNTnpnQWZRclhFYVl1NndYRXZhUERreUZCSTlzYTFQZFA4RUVmOXhTWm80ZVdFamdxQlh4eHRvaFJfc3p5MEZfVGs5TUdDQkc3Z3FzM185NkktRlZSMFc4cG1yOU9rLVVQU0RqMzlLbDNn?oc=5" target="_blank">Vessel Held In Finland After Suspected Baltic Cable Sabotage</a>&nbsp;&nbsp;<font color="#6f6f6f">Radio Free Europe/Radio Liberty</font></li><li><a href="https://news.google.com/rss/articles/CBMirgFBVV95cUxOUm4yZkcwaFNHMDN0djNZbUdLUGNyaFdnS29WZFAxbWRnYV9aaW1objNXX3lZY090cW9uaFVlTzQ1LXhBeDdHWnZuM3ZyN3V5R1lndWJmbl9zVVpvazhEVWpOZTNRYURZdlpNOWxpQUFpTlRqNUVYa2pqVzAtd21tNUdHOFBLdnN1SE80eklNSXNKTkxvb21mZnBHbVdMeXYtWlZ5bHQ2VDdxbVA3Wmc?oc=5" target="_blank">Finnish police seize vessel suspected of damaging underwater cable</a>&nbsp;&nbsp;<font color="#6f6f6f">The Guardian</font></li><li><a href="https://news.google.com/rss/articles/CBMitgFBVV95cUxPdnpKdERqWW42Y2VqNjNEMXgzNjZxT2lOLXdMZUdrM1NaaEFvZHJEMXRPSEwwU0dscEg2LU92U052NU9BaVVBbnFZcEZmV0hZMnVpUThsMkFVU3l3d0pnNXFsa0NNWDE2T0ctZE1RbG9ZTUFaZEhiSmZFODdleEwyNTd6T2xIQ3lXOXlzbGQ0d2xCVERhbDh0dFcyWnBOMW5qcjdsOUxaVGl5alhGLVAwY0hwUk8xdw?oc=5" target="_blank">Finland Takes Control of Ship Suspected of Undersea Cable Damage</a>&nbsp;&nbsp;<font color="#6f6f6f">Bloomberg.com</font></li></ol>
