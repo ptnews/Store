@@ -1,0 +1,21 @@
+---
+title: "Coral Adventurer: Passengers on stranded cruise ship to be flown back to Australia - BBC"
+date: 2025-12-31
+description: "Coral Adventurer: Passengers on stranded cruise ship to be flown back to Australia&nbsp;&nbsp;BBCCruise Passengers Stranded After Ship Gets Stuck on Coral Reef&nbsp;&nbsp;People.comCruise ship carrying 124 people runs aground in Papua New Guinea&nbsp;&nbsp;USA TodayCoral Adventurer passengers return with diverging accounts of cruise ship drama&nbsp;&nbsp;The GuardianCruise ship hits reef on first trip since leaving passenger on island&nbsp;&nbsp;BBC"
+summary: "Coral Adventurer: Passengers on stranded cruise ship to be flown back to Australia&nbsp;&nbsp;BBCCruise Passengers Stranded After Ship Gets Stuck on Coral Reef&nbsp;&nbsp;People.comCruise ship carrying 124 people runs aground in Papua New Guinea&nbsp;&nbsp;USA TodayCoral Adventurer passengers return with diverging accounts of cruise ship drama&nbsp;&nbsp;The GuardianCruise ship hits reef on first trip since leaving passenger on island&nbsp;&nbsp;BBC"
+slug: "coral-adventurer-passengers-on-stranded-cruise-ship-to-be-flown-back-to-australia-bbc"
+image: ''
+link: 'https://news.google.com/rss/articles/CBMiWkFVX3lxTE1abDBkSDNaTVNReHROVFQwVkRUYXN0VXhqNGtITWpOYS1YNzB2RGxFcExvNnhVLXFLUUJCUTl6aF9XTmZDR2dwcmg2MmZDd2M1SS1JSkhGN196d9IBX0FVX3lxTE5HUzIxaHVMYTRCOFhaNGhzeklfSFNnMjhUdzhfOXRvTlRLaWRtZlBic3pzTG9Ld01ka0t4b0RDcm9WQ1gtVWJNc2V1clF2ZnRxRXlRY3p5RkJVb0FXQVNz?oc=5'
+source: 'https://news.google.com/rss/topics/CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx1YlY4U0FtVnVHZ0pWVXlnQVAB?hl=en-US&gl=US&ceid=US:en'
+categories:
+- 'news.google.com'
+tags:
+- 'adventurer'
+- 'passengers'
+- 'australia'
+- 'stranded'
+- 'cruise'
+
+draft: false
+---
+<ol><li><a href="https://news.google.com/rss/articles/CBMiWkFVX3lxTE1abDBkSDNaTVNReHROVFQwVkRUYXN0VXhqNGtITWpOYS1YNzB2RGxFcExvNnhVLXFLUUJCUTl6aF9XTmZDR2dwcmg2MmZDd2M1SS1JSkhGN196d9IBX0FVX3lxTE5HUzIxaHVMYTRCOFhaNGhzeklfSFNnMjhUdzhfOXRvTlRLaWRtZlBic3pzTG9Ld01ka0t4b0RDcm9WQ1gtVWJNc2V1clF2ZnRxRXlRY3p5RkJVb0FXQVNz?oc=5" target="_blank">Coral Adventurer: Passengers on stranded cruise ship to be flown back to Australia</a>&nbsp;&nbsp;<font color="#6f6f6f">BBC</font></li><li><a href="https://news.google.com/rss/articles/CBMilAFBVV95cUxNcUE0a2dCSmhMX3BGeThTRHlVUUtlckZmVG9UVjV2cnZJS3JiMzhkU3duNmdTNFlqQkZFUzhERUFoQVd5eWlySzhyelBNWE9kaU1SdTVFeGE2TEpBYk5iemZWci1RV3llUGtFdFhPXzVtYVJQbG04cmtybVBBcHJRWmxNM3FrNG1EWjFqbVUyTUdfVDJ0?oc=5" target="_blank">Cruise Passengers Stranded After Ship Gets Stuck on Coral Reef</a>&nbsp;&nbsp;<font color="#6f6f6f">People.com</font></li><li><a href="https://news.google.com/rss/articles/CBMisgFBVV95cUxNb3I4ZUJEUHhZOHM3QTdCZDNETnFfNjd0UWVDWUcxZ3VKUzhvQk5vLVkzMTQxeGhKQ05BNnZPOGRUYWlRVXNXa21OWHRQYWxqUXpjalFmZG9lN1lJdUxxVmJ5SUJ3amJtU0RGdzBkeU5zb0lKYkk1ZXc0MjFVV19CYlVWRndmNHdZYk5fY0hnd0MwNE92M2pLZm16VVBTN0lfcjBDbFdkRWdnWXNWU0p4QUF3?oc=5" target="_blank">Cruise ship carrying 124 people runs aground in Papua New Guinea</a>&nbsp;&nbsp;<font color="#6f6f6f">USA Today</font></li><li><a href="https://news.google.com/rss/articles/CBMiowFBVV95cUxNRmRIcjdtUzNDR0YydlJ6Z0txdzJUTDFTMzF3Q2lSSmtYUmdJWGI3ZnlrUEJlNWtFX1JtWGNFeEJwVS1oY1VCLURSODc5bl9mZ2xCWUxxTk1GN2RyYkVZeGFHcDd2RGZ3enBoZzZJZHZOUzRpR2tRZzhscDdjb1lPLVl1OHZfYkNwZVJrN0xVb0piSkVaaHhBckstOVJveFh5VDM4?oc=5" target="_blank">Coral Adventurer passengers return with diverging accounts of cruise ship drama</a>&nbsp;&nbsp;<font color="#6f6f6f">The Guardian</font></li><li><a href="https://news.google.com/rss/articles/CBMiWkFVX3lxTFBybWR0YzhCYkRKMnMwMGxGYWNGSHhYM3JrY2p0WVVXSmpMeFUyczVNdVZCZHJGUktzX2hRcnBqYzlWOEpyNTI4dmhpUnZ4Tk55OHZSWl96anNrQQ?oc=5" target="_blank">Cruise ship hits reef on first trip since leaving passenger on island</a>&nbsp;&nbsp;<font color="#6f6f6f">BBC</font></li></ol>

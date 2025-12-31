@@ -1,0 +1,21 @@
+---
+title: "North Korea’s First Nuclear Powered Missile Submarine is Revealed - navalnews.com"
+date: 2025-12-31
+description: "North Korea’s First Nuclear Powered Missile Submarine is Revealed&nbsp;&nbsp;navalnews.comNorth Korea's Kim Jong Un oversees cruise missile launches&nbsp;&nbsp;ReutersNorth Korea fires cruise missiles as Kim underscores nuclear ambitions&nbsp;&nbsp;Fox NewsNorth Korea debuts new launcher for nuclear missiles aimed at South Korea&nbsp;&nbsp;NK NewsNorth Korea tests long-range cruise missiles: state media&nbsp;&nbsp;DW"
+summary: "North Korea’s First Nuclear Powered Missile Submarine is Revealed&nbsp;&nbsp;navalnews.comNorth Korea's Kim Jong Un oversees cruise missile launches&nbsp;&nbsp;ReutersNorth Korea fires cruise missiles as Kim underscores nuclear ambitions&nbsp;&nbsp;Fox NewsNorth Korea debuts new launcher for nuclear missiles aimed at South Korea&nbsp;&nbsp;NK NewsNorth Korea tests long-range cruise missiles: state media&nbsp;&nbsp;DW"
+slug: "north-korea-s-first-nuclear-powered-missile-submarine-is-revealed-navalnews-com"
+image: ''
+link: 'https://news.google.com/rss/articles/CBMirwFBVV95cUxNaFJ3TmFyR3o2dzdja0lkMEhoaVgxOTFDRm5Gd3RveHNZcjZPNFZ2UGV2aGNDNGtxeUVSS2JqcENmOWpUcGd4bHpBckY3WFUtOE1kZzBKZEtEVmNDTm1hbWhzYThPQ2YxSGx6VXdYTTJNNl85YzhLTkM1MkVLbVpyV0U0Vi1salhKcE9SV0NhYUZqX3BJcFRld3NQWnQ5aGc1RVZSY3pSMXZQWnVUbGE4?oc=5'
+source: 'https://news.google.com/rss/topics/CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx1YlY4U0FtVnVHZ0pWVXlnQVAB?hl=en-US&gl=US&ceid=US:en'
+categories:
+- 'news.google.com'
+tags:
+- 'submarine'
+- 'navalnews'
+- 'revealed'
+- 'nuclear'
+- 'powered'
+
+draft: false
+---
+<ol><li><a href="https://news.google.com/rss/articles/CBMirwFBVV95cUxNaFJ3TmFyR3o2dzdja0lkMEhoaVgxOTFDRm5Gd3RveHNZcjZPNFZ2UGV2aGNDNGtxeUVSS2JqcENmOWpUcGd4bHpBckY3WFUtOE1kZzBKZEtEVmNDTm1hbWhzYThPQ2YxSGx6VXdYTTJNNl85YzhLTkM1MkVLbVpyV0U0Vi1salhKcE9SV0NhYUZqX3BJcFRld3NQWnQ5aGc1RVZSY3pSMXZQWnVUbGE4?oc=5" target="_blank">North Korea’s First Nuclear Powered Missile Submarine is Revealed</a>&nbsp;&nbsp;<font color="#6f6f6f">navalnews.com</font></li><li><a href="https://news.google.com/rss/articles/CBMi2gFBVV95cUxNaTgyU1BfYTlkRGJFVFItd3dEMWxMTjhBdDJTZXo1ZkN1blg4UElNVHIxWl9FVzVFR0VsMkZPaHVVZ2h3SHc2d211OFNxbWdfRURVeWlvUVVqRjB5T3dtZXpWdnMxWUVFeVZNMmVORC1tWW1xVXRnNV9DQmZIV0p3UElzTk9DQVdZZFdFQVpkenRDMG5XY2w1RF9RS3RQTENsTy1Fc1pMUExnSGZCZmV6TXBudHEwTVdlbnd1V1dyVUp3TURocnhfeGtqYnMyMVBZWXh4RVljdWhzUQ?oc=5" target="_blank">North Korea's Kim Jong Un oversees cruise missile launches</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font></li><li><a href="https://news.google.com/rss/articles/CBMiogFBVV95cUxOSnRDNzFwcng2b0Zkc2dTc0o4bUlKVEJUQXJxNGFaaENOWXRTakNfalVCaFJmZmZVY1JhemhmYjlrZ1VjbkNSNHd6Mmx1WkFLbVdTTlRIWE1MQ2pYeEtqMWJnVndGTjhhMkx3TFBmdkRJNXIwR0xtdHljUHpPTTN0ak5ES00wNnlVVnNGUGJ0d1FiMVhydzhQVEF4R3QtZlNRRVHSAacBQVVfeXFMTTZaWU5SVUJCRGZKZUhXQzROdDIzQmJCNVJfMDltaDJ4Mk0wRkQ5Z2hSR0lGcGhqa1d3emlWa2FhTldkeWZHcTFqaG4zYUFQNERzSndiYmhvSG5SWmpzdHRPQlZhaXdXdGxaYkZDbG9zMmRSUjlIeF80T2Y0X2p5b3BmU1pwZjktOVhfRG0wX2poV2k1elRCclZrVlZESVhvdzhiRTAzYlE?oc=5" target="_blank">North Korea fires cruise missiles as Kim underscores nuclear ambitions</a>&nbsp;&nbsp;<font color="#6f6f6f">Fox News</font></li><li><a href="https://news.google.com/rss/articles/CBMiqAFBVV95cUxNcmpGZTN3M2tmUkZ6b0ZzdndKOTMzN3pMZ3VtYkkteEdldWRxUkVUWmFjUGpVS3FDTjJyaDVNVC1MdHhRbTB5RzkzSmFFMEdCZ0tkMTlnbEwtOGxDUktTazBhdXAzWXNyQ3pKZ2c2TFBtVjdsNU9haUplUGo1OHg4MnFwZ1hfZlAxMjVKcmlaWl92V2JQM3pnTXZFYUpKVC1EcDAyWjltclY?oc=5" target="_blank">North Korea debuts new launcher for nuclear missiles aimed at South Korea</a>&nbsp;&nbsp;<font color="#6f6f6f">NK News</font></li><li><a href="https://news.google.com/rss/articles/CBMikwFBVV95cUxNMjFURVMxN0N5d3dXc0phX0hHcGFGN3F0WmlfdWVSdkdtLVVhMUJRbFZxOWdyQ3RlbGloNGJTWUoyWXRibU93bHppeVd1MEhDMW9wM19ORGdCOFItbm9kWmk2dTBsNzIzWDZHT1hnVkgwalJORFZGM29DWEZ1eW1sbGV0U2FXWmdhWmw5WFpGSGVuN0XSAZMBQVVfeXFMTzFHeXlUcjh1MVVpLVlwOW1LYVExbXJETjRCZlhqc2pWZXlLdDRnVllETFVYZXVoUlRGNHRqR3poOW9lWmdzRWluNmh2azZtVFhLUDFpRmU3SEFKOWp6MWNyLXlLaktrVjRRZTl2Vl92YnVYMWpPclh2Uzl1RnN0ZzB2Q1hZVXVWUWhIbWx2cnB6anFz?oc=5" target="_blank">North Korea tests long-range cruise missiles: state media</a>&nbsp;&nbsp;<font color="#6f6f6f">DW</font></li></ol>
