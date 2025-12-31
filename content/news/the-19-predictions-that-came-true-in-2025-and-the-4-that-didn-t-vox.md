@@ -1,0 +1,17 @@
+---
+title: "The 19 predictions that came true in 2025 — and the 4 that didn’t - Vox"
+date: 2025-12-31
+description: "The 19 predictions that came true in 2025 — and the 4 that didn’t&nbsp;&nbsp;VoxWe asked you to predict the events of 2025. How did you do?&nbsp;&nbsp;The TimesY’all thought stocks and crypto would soar&nbsp;&nbsp;Morning BrewReaders always tell me I'm wrong, but I was right about Trump | Opinion&nbsp;&nbsp;USA TodayThe biggest mistake I made in 2025 ❌&nbsp;&nbsp;So What | Chris Cillizza"
+summary: "The 19 predictions that came true in 2025 — and the 4 that didn’t&nbsp;&nbsp;VoxWe asked you to predict the events of 2025. How did you do?&nbsp;&nbsp;The TimesY’all thought stocks and crypto would soar&nbsp;&nbsp;Morning BrewReaders always tell me I'm wrong, but I was right about Trump | Opinion&nbsp;&nbsp;USA TodayThe biggest mistake I made in 2025 ❌&nbsp;&nbsp;So What | Chris Cillizza"
+slug: "the-19-predictions-that-came-true-in-2025-and-the-4-that-didn-t-vox"
+image: ''
+link: 'https://news.google.com/rss/articles/CBMipwFBVV95cUxNekdPTXRPczd0RFk3MDE3VDlmV3BzX1NSZ0x4dS1rTUdCTzBjQk9XcmpqRlJaVFV3VlFrYkxoenE3bEJzNUtScldJeTc2WFBHWElQWXVXUnYtRUMyLVV5NmxaWTM4M25ZN3ExcG9GT1F1WU9qRUNqMXc4Uk45ZS1ieVNjdEdrVk5HWUYxbEtXeEVSQS1HMi1QbXJIMnJFMWtzNlhUWTlDaw?oc=5'
+source: 'https://news.google.com/rss/topics/CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx1YlY4U0FtVnVHZ0pWVXlnQVAB?hl=en-US&gl=US&ceid=US:en'
+categories:
+- 'news.google.com'
+tags:
+- 'predictions'
+
+draft: false
+---
+<ol><li><a href="https://news.google.com/rss/articles/CBMipwFBVV95cUxNekdPTXRPczd0RFk3MDE3VDlmV3BzX1NSZ0x4dS1rTUdCTzBjQk9XcmpqRlJaVFV3VlFrYkxoenE3bEJzNUtScldJeTc2WFBHWElQWXVXUnYtRUMyLVV5NmxaWTM4M25ZN3ExcG9GT1F1WU9qRUNqMXc4Uk45ZS1ieVNjdEdrVk5HWUYxbEtXeEVSQS1HMi1QbXJIMnJFMWtzNlhUWTlDaw?oc=5" target="_blank">The 19 predictions that came true in 2025 — and the 4 that didn’t</a>&nbsp;&nbsp;<font color="#6f6f6f">Vox</font></li><li><a href="https://news.google.com/rss/articles/CBMiigFBVV95cUxOb3VQbzlRNW5Hc2Z6aHJKVkprZ0dNUHBzSDI0QjBERU9LMm9NUV9aTHN2eVEyRjZxXzFFel9EUFgxOGFYWXFPQlh4Sm5NSlR5a2dJRjNIcFlqYW8wU19LblIyUTg0QUZ0amlabnFXR2htR05icFBWaVlXUVFfbDY0ZlZ4YmdCaWdwR0E?oc=5" target="_blank">We asked you to predict the events of 2025. How did you do?</a>&nbsp;&nbsp;<font color="#6f6f6f">The Times</font></li><li><a href="https://news.google.com/rss/articles/CBMikwFBVV95cUxNY0hvX2o3MDZBcDg5S1E2NjV2TmxPSi1hVVQyOUJ6QVpSTEZzYVZhbWYxY0l5aUJ3VlZNNHJ4aEdlVzViN2pFZ3Vkc2hDR1A4bE9XYXFlT3FhMWItaWRmaGFSQjc0LUI3blpES1ZVWDlVZER5TzAwYlRzdzZTQWplNFZBUmNyMzBfeU5nQjJTUDVFSFU?oc=5" target="_blank">Y’all thought stocks and crypto would soar</a>&nbsp;&nbsp;<font color="#6f6f6f">Morning Brew</font></li><li><a href="https://news.google.com/rss/articles/CBMiqgFBVV95cUxNZ0JXa0Y4SUgyZXBINllvaE42amI2UGVwVDRfRGxpbF9OakNRdzU0dzFVTjlhQXRKcFMzLUt2RF84bU1NVEtqUnZLMWhxcjNZOGJJT0YyVTJwYVZqTXNLSFRndV9XNC1RRXZFWUNaMGJZQmxLMk5VNHNiVjB1SW9PbGEzMUJ2cjNZRjhuZ1RqMk83WnQtdWw2WmlxdlpHbHFRTXN1ckxXejBUUQ?oc=5" target="_blank">Readers always tell me I'm wrong, but I was right about Trump | Opinion</a>&nbsp;&nbsp;<font color="#6f6f6f">USA Today</font></li><li><a href="https://news.google.com/rss/articles/CBMie0FVX3lxTE85TTNKbXlzUGZSZWNsdGVvVFpPN01FcXVNcDZtTWhPOHE3LWcwT3JmOUdDRDl1bGxLQTA0RmpFN3FPX1h0Zy1zcXZiZDl3dnl6XzN1RlRHTjhkWTQwNXRmNkRleHBwTmtGdTYwb1lqemRwUGlxQ3FvMUhWYw?oc=5" target="_blank">The biggest mistake I made in 2025 ❌</a>&nbsp;&nbsp;<font color="#6f6f6f">So What | Chris Cillizza</font></li></ol>
