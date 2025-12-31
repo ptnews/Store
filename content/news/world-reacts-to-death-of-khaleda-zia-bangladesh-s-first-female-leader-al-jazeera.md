@@ -1,0 +1,21 @@
+---
+title: "World reacts to death of Khaleda Zia, Bangladesh’s first female leader - Al Jazeera"
+date: 2025-12-31
+description: "World reacts to death of Khaleda Zia, Bangladesh’s first female leader&nbsp;&nbsp;Al JazeeraKhaleda Zia: Huge crowds mourn Bangladesh's first female PM at state funeral&nbsp;&nbsp;BBCBangladeshis Pay Last Respects to Former Leader in Tense Capital&nbsp;&nbsp;The New York TimesKhaleda Zia, first female prime minister of Bangladesh, dies&nbsp;&nbsp;The Washington PostNA Speaker Sadiq, Indian FM Jaishankar shake hands in Dhaka in first high-level contact since May conflict&nbsp;&nbsp;Dawn"
+summary: "World reacts to death of Khaleda Zia, Bangladesh’s first female leader&nbsp;&nbsp;Al JazeeraKhaleda Zia: Huge crowds mourn Bangladesh's first female PM at state funeral&nbsp;&nbsp;BBCBangladeshis Pay Last Respects to Former Leader in Tense Capital&nbsp;&nbsp;The New York TimesKhaleda Zia, first female prime minister of Bangladesh, dies&nbsp;&nbsp;The Washington PostNA Speaker Sadiq, Indian FM Jaishankar shake hands in Dhaka in first high-level contact since May conflict&nbsp;&nbsp;Dawn"
+slug: "world-reacts-to-death-of-khaleda-zia-bangladesh-s-first-female-leader-al-jazeera"
+image: ''
+link: 'https://news.google.com/rss/articles/CBMirwFBVV95cUxPY2xINVVXVkQwUlNsdWJlWXlDdV9IY0MyWlVKNmxPbWVGdnhvb001cHNNU1FMZDlGVU5uWnI1dU9vVEh5MmtuMW1WUFlUSEVxSklKcG9pbVV3c1hBLTFBYnNKRF8zWDg3anlTcnF3MzdXUjdpMEVfN0c0VVE4ZVl5T09DQk9XbGxwNFJweG5qSnZISE13VUZ6ci1Xa1drSi1CbS1hMzU0VEVubkpBYUUw0gG0AUFVX3lxTE0wa3ZEeVcwb2JVMG5GUDJZdlRacjRLWFdvMGQ0eVVObk9pRUJaSTltVEU0T055OGxSZktpMk0xYWRJdUJQTVNUVXNlb0NsRlRhOW01Zm96UmdPVzIxMHJUVXZTMkl1cHlZVFZhUDN6MTR5LTMyeU9UY3Q0RnRLU2lDOTFsT0VIZXQ1SXBhMXhIT2J4amxzVFZ6Ny1CNjJ2aEVSdlF3VTAzaDRlUFMxYmx6bEMtdQ?oc=5'
+source: 'https://news.google.com/rss/topics/CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx1YlY4U0FtVnVHZ0pWVXlnQVAB?hl=en-US&gl=US&ceid=US:en'
+categories:
+- 'news.google.com'
+tags:
+- 'bangladesh'
+- 'khaleda'
+- 'jazeera'
+- 'reacts'
+- 'female'
+
+draft: false
+---
+<ol><li><a href="https://news.google.com/rss/articles/CBMirwFBVV95cUxPY2xINVVXVkQwUlNsdWJlWXlDdV9IY0MyWlVKNmxPbWVGdnhvb001cHNNU1FMZDlGVU5uWnI1dU9vVEh5MmtuMW1WUFlUSEVxSklKcG9pbVV3c1hBLTFBYnNKRF8zWDg3anlTcnF3MzdXUjdpMEVfN0c0VVE4ZVl5T09DQk9XbGxwNFJweG5qSnZISE13VUZ6ci1Xa1drSi1CbS1hMzU0VEVubkpBYUUw0gG0AUFVX3lxTE0wa3ZEeVcwb2JVMG5GUDJZdlRacjRLWFdvMGQ0eVVObk9pRUJaSTltVEU0T055OGxSZktpMk0xYWRJdUJQTVNUVXNlb0NsRlRhOW01Zm96UmdPVzIxMHJUVXZTMkl1cHlZVFZhUDN6MTR5LTMyeU9UY3Q0RnRLU2lDOTFsT0VIZXQ1SXBhMXhIT2J4amxzVFZ6Ny1CNjJ2aEVSdlF3VTAzaDRlUFMxYmx6bEMtdQ?oc=5" target="_blank">World reacts to death of Khaleda Zia, Bangladesh’s first female leader</a>&nbsp;&nbsp;<font color="#6f6f6f">Al Jazeera</font></li><li><a href="https://news.google.com/rss/articles/CBMiWkFVX3lxTFBFMmNLNTVqVm9BRkxVYnFwSmxzSzdFWTQ2aEk2T1YtUGQwOENuREY5bElDZDFxY2hFS3N5Y2hpSjYyamxGUGhic2FhWW9GY3c2V1NCNEZHZ3dyUQ?oc=5" target="_blank">Khaleda Zia: Huge crowds mourn Bangladesh's first female PM at state funeral</a>&nbsp;&nbsp;<font color="#6f6f6f">BBC</font></li><li><a href="https://news.google.com/rss/articles/CBMifkFVX3lxTFA3REFBVG5UczRobGZYTVhTcUl6SXR5aC0yeTREc0JBb1JKeENKZklYTGM5Nm9EdGs4aTF0X09JX2Z4SXRqVWdwSnlzRExOLVdMLU5xNXBXUFB2aVNqN29aMDB3NS1XY2NieFA5MG9paFpjME9MbjVDRUtqdV9SQQ?oc=5" target="_blank">Bangladeshis Pay Last Respects to Former Leader in Tense Capital</a>&nbsp;&nbsp;<font color="#6f6f6f">The New York Times</font></li><li><a href="https://news.google.com/rss/articles/CBMiiAFBVV95cUxQMDBCQ0hYN1V2OFBzaUhmZi12eTRVR3g4Y0NyOVJVY3lSS1oySUp2LXVpaU90VmZCdGdLMTZnLXJyTEx1dXVWUXJDUWFrcU1KQ2NPLUlVVWFaeUNEdFBMWDBfWC1jbkdMRUREWlc0U1VORUtZRi1LN0FyZFZtNG5sSlk1LXNLT0JL?oc=5" target="_blank">Khaleda Zia, first female prime minister of Bangladesh, dies</a>&nbsp;&nbsp;<font color="#6f6f6f">The Washington Post</font></li><li><a href="https://news.google.com/rss/articles/CBMiSEFVX3lxTFBWelRQMUQxdEVSaHcyQmh5aXl6cl9xUVFCTU1NWlZybFdBcGlfODRBdDE4T055TkxXOXcxN05udTJHcUFXVGJsUdIBTkFVX3lxTE5XNTBEeXk4LU1FWDNMNjA0ajZ3Yl9ZN3ZBczdhem1XZUg2WmtPeWphdHJSbkpsbDd3VzIzQmcxbHg1UEFtbGYxYTFQcXR4QQ?oc=5" target="_blank">NA Speaker Sadiq, Indian FM Jaishankar shake hands in Dhaka in first high-level contact since May conflict</a>&nbsp;&nbsp;<font color="#6f6f6f">Dawn</font></li></ol>
