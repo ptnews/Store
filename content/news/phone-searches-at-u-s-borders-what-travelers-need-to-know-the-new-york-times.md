@@ -1,0 +1,21 @@
+---
+title: "Phone Searches at U.S. Borders: What Travelers Need to Know - The New York Times"
+date: 2025-12-31
+description: "Phone Searches at U.S. Borders: What Travelers Need to Know&nbsp;&nbsp;The New York TimesBorder agents can search your devices. Is a burner phone worth it?&nbsp;&nbsp;USA TodayCan border control use Face ID to unlock my phone?&nbsp;&nbsp;Yahoo News CanadaWhat travelers need to know about phone searches at the U.S. border&nbsp;&nbsp;Boing BoingUS Border Phone Searches Spark Privacy Concerns as CBP Expands Authority to Inspect Devices Without Warrant, Raising Alarm Among Travellers and Legal Exper..."
+summary: "Phone Searches at U.S. Borders: What Travelers Need to Know&nbsp;&nbsp;The New York TimesBorder agents can search your devices. Is a burner phone worth it?&nbsp;&nbsp;USA TodayCan border control use Face ID to unlock my phone?&nbsp;&nbsp;Yahoo News CanadaWhat travelers need to know about phone searches at the U.S. border&nbsp;&nbsp;Boing BoingUS Border Phone Searches Spark Privacy Concerns as CBP Expands Authority to Inspect Devices Without Warrant, Raising Alarm Among Travellers and Legal Exper..."
+slug: "phone-searches-at-u-s-borders-what-travelers-need-to-know-the-new-york-times"
+image: ''
+link: 'https://news.google.com/rss/articles/CBMif0FVX3lxTE00eEpKcmtSRmRmcy1McEdsRVdrWFhjSjkwY0M1UDdIOU9DQm5ZVHRHVGtBbk1HbTJvX2NOaXVfNjhZVEhSMThyRm1fOHpIYm9MT0haUWxBRnJBSllpbTdGMkZrS1g0Nm1yTy1lN0otSW9jcUthelBsci04Z3ZmYU0?oc=5'
+source: 'https://news.google.com/rss/topics/CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx1YlY4U0FtVnVHZ0pWVXlnQVAB?hl=en-US&gl=US&ceid=US:en'
+categories:
+- 'news.google.com'
+tags:
+- 'travelers'
+- 'searches'
+- 'borders'
+- 'phone'
+- 'times'
+
+draft: false
+---
+<ol><li><a href="https://news.google.com/rss/articles/CBMif0FVX3lxTE00eEpKcmtSRmRmcy1McEdsRVdrWFhjSjkwY0M1UDdIOU9DQm5ZVHRHVGtBbk1HbTJvX2NOaXVfNjhZVEhSMThyRm1fOHpIYm9MT0haUWxBRnJBSllpbTdGMkZrS1g0Nm1yTy1lN0otSW9jcUthelBsci04Z3ZmYU0?oc=5" target="_blank">Phone Searches at U.S. Borders: What Travelers Need to Know</a>&nbsp;&nbsp;<font color="#6f6f6f">The New York Times</font></li><li><a href="https://news.google.com/rss/articles/CBMikwFBVV95cUxPLUtLVVVvR191c1JVcFJOVkppODdGWnVFMGxwWlpEbjBxT3M4X1dZVjhRSWsySmRmRG83TmlBOFI3RVlkUlpWdkNOM3haX0pDUUltRjVZRXlpLWtsTHo1azhycFFJNWJZbXpJLThVSWRENTBySk5QcmViQkNJa3RoYUs4X01udl9maWlLUWlmc2FvS0k?oc=5" target="_blank">Border agents can search your devices. Is a burner phone worth it?</a>&nbsp;&nbsp;<font color="#6f6f6f">USA Today</font></li><li><a href="https://news.google.com/rss/articles/CBMiekFVX3lxTFBBY3U4aS14YWYzLUg0OWFOSGV1dzV4VzA2MFlPNmpmVUJTMlBxQ2JtUldUZndkY0xNWC11cGRteU5PTExnYlJkOWkwN1BoN0Q3UEZoQVpMVVdtaU40QnBWQjBMLWlCalJGb1VtZ1VaUllJUEZfT1RrRkV3?oc=5" target="_blank">Can border control use Face ID to unlock my phone?</a>&nbsp;&nbsp;<font color="#6f6f6f">Yahoo News Canada</font></li><li><a href="https://news.google.com/rss/articles/CBMiqAFBVV95cUxOWElPN3ZMUlpTVGF4Rm1Dd2hGZ3lEUTZVSzlpUUx1Vk5GdzF4M3NWOU5sNTE2MldlMUVpZWlrc1B6U3g4ZGNIazJubUo0UWdEVDRWZXY1NTd6RU1iQV83WDJOM1hZN20zbVhtekxOYUwyZUczaUJ6WEF2ZXNYN090MXZIMFRrRUEtWXB0aWF5QWVVenhsWU9LRjA4N004LV9ZRzRRcW9JMmnSAa4BQVVfeXFMTkFoakxQeHA4TVdKLTdOOElKRnoyMHkzTVVoNV9EMDlFRVByQW9Ua0JFOGhqY0xYS2k4cU1fTGRsWGxUR0VkMUsxRlozWDJhMHlzbW95R0RabE43cVc1SkthV0hGU0VQMldpQnJMMHByR1l3T28yenZzRWFrZGtfNzJNcDFfaHlPenZGMDZwM3FhX3RxYkhDUk85UzlvbGRfS0hvSzJ2dXdyaWt3WFlB?oc=5" target="_blank">What travelers need to know about phone searches at the U.S. border</a>&nbsp;&nbsp;<font color="#6f6f6f">Boing Boing</font></li><li><a href="https://news.google.com/rss/articles/CBMirgJBVV95cUxQUDFTdVlHU0dma1hBWE1tWUIydW1DdEQ1MTNjajViT2ZWSTZXZU52aHRjdUJwN09qOXNxYjZmYVFMdkRlTmJFVXIzMUZvNFMwU0o1X2dLckRvRXVldHhBS1BJS2lyZl9qaHN0S2NPa0VrNUNZRGZxcTgzdWw0Tm9xa1hsQTdNVEtTbGhkbm9FVGQ3cnhoSHZPSUU3aVNFZVpUMjhyVnBSck11eXRqU0s4dDZxWVVfUzN2RzBRSmhLRjNYRHJYa0ZWMmNfc2twS21CczNPR2ZXQjNxY3lYbkZoNlo2Yk1YN0o0Vkt0VG5MN2Q0cUs0eW9JZkxnLWcxbWRoZndSSTQxV0RvekNxSDF3NUwwZ3VTZVB1RzFYSjNwak1yaEJTdU9hOFJ4S3R5dw?oc=5" target="_blank">US Border Phone Searches Spark Privacy Concerns as CBP Expands Authority to Inspect Devices Without Warrant, Raising Alarm Among Travellers and Legal Experts</a>&nbsp;&nbsp;<font color="#6f6f6f">Travel And Tour World</font></li></ol>
