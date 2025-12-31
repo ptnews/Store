@@ -1,0 +1,21 @@
+---
+title: "How New Medicare Payment Plans May Improve Patient Care And Save Money - Forbes"
+date: 2025-12-31
+description: "How New Medicare Payment Plans May Improve Patient Care And Save Money&nbsp;&nbsp;ForbesCMS issues mandatory Medicare models implementing Most Favored Nation drug pricing: GLOBE (Part B) and GUARD (Part D)&nbsp;&nbsp;www.hoganlovells.comMedicare Payment Parity for Doctor Services Gathers Steam&nbsp;&nbsp;Bloomberg Law NewsHealthcare & Life Sciences: Drug Pricing Digest — Number 62&nbsp;&nbsp;Latham & Watkins LLPIs International Pricing Coming Onshore for Testing? CMS Proposes Models Tying Medi..."
+summary: "How New Medicare Payment Plans May Improve Patient Care And Save Money&nbsp;&nbsp;ForbesCMS issues mandatory Medicare models implementing Most Favored Nation drug pricing: GLOBE (Part B) and GUARD (Part D)&nbsp;&nbsp;www.hoganlovells.comMedicare Payment Parity for Doctor Services Gathers Steam&nbsp;&nbsp;Bloomberg Law NewsHealthcare & Life Sciences: Drug Pricing Digest — Number 62&nbsp;&nbsp;Latham & Watkins LLPIs International Pricing Coming Onshore for Testing? CMS Proposes Models Tying Medi..."
+slug: "how-new-medicare-payment-plans-may-improve-patient-care-and-save-money-forbes"
+image: ''
+link: 'https://news.google.com/rss/articles/CBMixAFBVV95cUxOQUVNa0ZXZnFLUldpalBZSkltVXRDc3hnQkFOckpZSmpLVEtFXzB6ZmNTM1lQd0lLQVA2ZnNFR3pNc1UtZHdqZWkzR1NQUURiOFJ6U0xiZEtQaGR5UnpRTnJIVEZPc1gzLWlFSEo1SmdpQllTSE9yajJYdk9lNzk4V2lSRzdrWUlucVRzQXJidmdYdmVHcjZxZkFaWlFFUmVnZ1VhS0x5YzF5SkRzSGNheWdOeU51SlA2S3dtNjZ1RnM4RnNM?oc=5'
+source: 'https://news.google.com/rss/topics/CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx1YlY4U0FtVnVHZ0pWVXlnQVAB?hl=en-US&gl=US&ceid=US:en'
+categories:
+- 'news.google.com'
+tags:
+- 'medicare'
+- 'payment'
+- 'improve'
+- 'patient'
+- 'forbes'
+
+draft: false
+---
+<ol><li><a href="https://news.google.com/rss/articles/CBMixAFBVV95cUxOQUVNa0ZXZnFLUldpalBZSkltVXRDc3hnQkFOckpZSmpLVEtFXzB6ZmNTM1lQd0lLQVA2ZnNFR3pNc1UtZHdqZWkzR1NQUURiOFJ6U0xiZEtQaGR5UnpRTnJIVEZPc1gzLWlFSEo1SmdpQllTSE9yajJYdk9lNzk4V2lSRzdrWUlucVRzQXJidmdYdmVHcjZxZkFaWlFFUmVnZ1VhS0x5YzF5SkRzSGNheWdOeU51SlA2S3dtNjZ1RnM4RnNM?oc=5" target="_blank">How New Medicare Payment Plans May Improve Patient Care And Save Money</a>&nbsp;&nbsp;<font color="#6f6f6f">Forbes</font></li><li><a href="https://news.google.com/rss/articles/CBMixgFBVV95cUxPV3JqSTNVUWFFQWNjSmVrQXZmWVM4SzEtdlJaaExWOGNBdUVZNEs4bEJNaDFCUDZNWTQ3N1ZOUF9UY01CdEN3T3ZHbnQ3d2dmSXNwRmZHWlBoRzNTTDhLWUh2VUotUHZhbmdubm1oWUFqWVh1S014dnRCd2o3TEFMNTZadGF1ZFFSVlIxLXJEMEJCVUsyMDlBSUhpVWlibHhBc0pveGdTNFZsVWJoRVpVa3B6R2g0ZDl0clZlNjY1NGZrSk9qUXc?oc=5" target="_blank">CMS issues mandatory Medicare models implementing Most Favored Nation drug pricing: GLOBE (Part B) and GUARD (Part D)</a>&nbsp;&nbsp;<font color="#6f6f6f">www.hoganlovells.com</font></li><li><a href="https://news.google.com/rss/articles/CBMisAFBVV95cUxPVWpNeU1FT21meDNyeG9tODMwNG9kX29VNTR1T2U1el91eFdDWllKejhqMG1uUnBJSFRyRDlhNjJ0b1RhWlNveld2SUhlSkVKcDNrTVl4TlpuOTlQaUpmczY2aGxkVkJVTlM1UGxvbjU1RzNKTXFPdzJGYkFycnVINUp1VkxzcF9hc0dvTllmaXJjWEFOcTNfYzBSZW5XOHg3SFV2MG9MUlBVLWJrSGJicQ?oc=5" target="_blank">Medicare Payment Parity for Doctor Services Gathers Steam</a>&nbsp;&nbsp;<font color="#6f6f6f">Bloomberg Law News</font></li><li><a href="https://news.google.com/rss/articles/CBMijgFBVV95cUxNbFY4Ul9jRDlISjI0OV80QlZQaWJ1QlpXcGU0VG1yaDhtUjBNWjdMWWJFU21MWnFmdVBIS1ZDZnhxYlZQd05BLWxVeE9xaTJTWTcyNzV4Z29uTzdXbXIyS3A1cVlDZUxtdTdfZVlfTnFBUTlseEFOWlJVbUFFX3R2QjdkZ1hXQ2wxeWNhek5R?oc=5" target="_blank">Healthcare & Life Sciences: Drug Pricing Digest — Number 62</a>&nbsp;&nbsp;<font color="#6f6f6f">Latham & Watkins LLP</font></li><li><a href="https://news.google.com/rss/articles/CBMiygFBVV95cUxQa2tsQW44RkljSGJLaTFsZUNtaFNjbGwzLXI0RlhSZkY3bXU3SlJBbUUzcFJ1YVNpOXdCbEFFelg2ZUhwZlI0XzkwUVpoQVBUNzk1RzlWSkdsdTNGU1BKd3g3S3VXbGlTM1ZOVzMtXzY0UUNMTm00b051SnFlcWozaHlNOVpRX1BhdTBDMHp4cXNjMEF6UC1fa0syWHZsSjJwb2FiclVXZUR5VzZzc21MUW5ObkZSQWI0MV9PMWtOYVFRU2J6TVloNVBB?oc=5" target="_blank">Is International Pricing Coming Onshore for Testing? CMS Proposes Models Tying Medicare Part B and Part D Drug Rebates to International Pricing</a>&nbsp;&nbsp;<font color="#6f6f6f">Ropes & Gray LLP</font></li></ol>
