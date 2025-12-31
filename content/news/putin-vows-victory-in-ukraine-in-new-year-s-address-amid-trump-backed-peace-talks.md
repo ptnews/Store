@@ -1,0 +1,21 @@
+---
+title: "Putin vows victory in Ukraine in New Year’s address amid Trump-backed peace talks"
+date: 2025-12-31
+description: "Russian President Vladimir Putin&apos;s defiant New Year&apos;s message contrasts sharply with President Donald Trump&apos;s diplomatic push as Ukraine-Russia war approaches fourth year."
+summary: "Russian President Vladimir Putin&apos;s defiant New Year&apos;s message contrasts sharply with President Donald Trump&apos;s diplomatic push as Ukraine-Russia war approaches fourth year."
+slug: "putin-vows-victory-in-ukraine-in-new-year-s-address-amid-trump-backed-peace-talks"
+image: ''
+link: 'https://www.foxnews.com/world/putin-vows-victory-ukraine-new-years-address-amid-trump-backed-peace-talks'
+source: 'https://feeds.foxnews.com/foxnews/world'
+categories:
+- 'feeds.foxnews.com'
+tags:
+- 'victory'
+- 'ukraine'
+- 'address'
+- 'backed'
+- 'putin'
+
+draft: false
+---
+<p>Russian <a href="https://www.foxnews.com/category/world/personalities/vladimir-putin" target="_blank" rel="noopener">President Vladimir Putin</a> used his New Year’s address to deliver a blunt message to the West and to his own troops: Russia is not backing down in Ukraine.</p><p>As 2026 arrived in Russia’s far eastern regions, Putin vowed victory in the nearly four-year war, praising Russian soldiers and framing the conflict as a fight for the nation’s survival — even as the United States ramps up diplomatic efforts aimed at ending the bloodshed.</p><p>"We believe in you and our victory," Putin said in remarks broadcast nationwide and released by the Kremlin on Wednesday. Addressing troops directly, he congratulated "all our soldiers and commanders" and pledged continued support for what Moscow calls its "special military operation."</p><p><a href="https://www.foxnews.com/world/trump-touts-tremendous-progress-says-hell-meet-putin-zelenskyy-only-when-peace-deal-final" target="_blank" rel="noopener"><strong>TRUMP TOUTS 'TREMENDOUS PROGRESS' BUT SAYS HE'LL MEET PUTIN AND ZELENSKYY 'ONLY WHEN' PEACE DEAL IS FINAL</strong></a></p><p>Putin cast the war as a struggle for Russia’s homeland, "truth and justice," signaling determination to press ahead despite mounting losses and international pressure.</p><p>In a separate message, ex-President Dmitry Medvedev — Putin’s security council deputy — said of victory in Ukraine: "I sincerely believe that it is near." Echoing Putin, he spoke of "our great and invincible Russia."</p><p>The defiant tone comes as the war approaches grim milestones. On Jan. 12, <a href="https://www.foxnews.com/category/world/conflicts/ukraine" target="_blank" rel="noopener">Russia’s invasion of Ukraine</a> will surpass the 1,418 days the Soviet Union fought Nazi Germany in Europe during World War II. On Feb. 24, the conflict will enter its fourth year. Western estimates place the number of killed and wounded at more than 1 million — a figure the Kremlin disputes.</p><p><a href="https://www.foxnews.com/world/trump-meets-zelenskyy-talks-could-unlock-first-zelenskyy-putin-call-five-years-source" target="_blank" rel="noopener"><strong>TRUMP MEETS WITH ZELENSKYY; TALKS COULD UNLOCK FIRST ZELENSKYY-PUTIN CALL IN FIVE YEARS: SOURCE</strong></a></p><p>Putin’s rhetoric stood in sharp contrast to renewed diplomatic activity led by Washington.</p><p>Ukrainian President Volodymyr Zelenskyy <a href="https://www.foxnews.com/world/trump-meets-zelenskyy-talks-could-unlock-first-zelenskyy-putin-call-five-years-source" target="_blank" rel="noopener">met with U.S. President Donald Trump</a> at Trump’s Mar-a-Lago resort in Florida on Sunday, as the White House explores possible paths to end Europe’s largest land war since World War II.</p><p>After the meeting, Trump said Ukraine and Russia were "closer than ever" to peace, while acknowledging that major obstacles — particularly <a href="https://www.foxnews.com/politics/zelenskyy-says-peace-deal-close-trump-meeting-territory-remains-sticking-point" target="_blank" rel="noopener">territorial disputes — remain unresolved</a>. Reuters separately reported that Trump and Zelenskyy discussed potential U.S. troop involvement as part of broader security guarantees, though no decisions were announced.</p><p><i>Reuters contributed to this report.</i></p>
