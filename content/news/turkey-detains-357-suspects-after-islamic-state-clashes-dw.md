@@ -1,6 +1,6 @@
 ---
 title: "Turkey detains 357 suspects after 'Islamic State' clashes - DW"
-date: 2025-12-30
+date: 2025-12-31
 description: "Turkey detains 357 suspects after 'Islamic State' clashes&nbsp;&nbsp;DWTurkey detains 357 suspected IS members in nationwide raids&nbsp;&nbsp;BBCTurkish police detain 357 suspects in raids against the Islamic State group&nbsp;&nbsp;ABC NewsISIS Militants Kill 3 Police Officers in Turkey&nbsp;&nbsp;The New York TimesThree Turkish police officers killed by ISIS militants as authorities step up raids over winter holidays&nbsp;&nbsp;CNN"
 summary: "Turkey detains 357 suspects after 'Islamic State' clashes&nbsp;&nbsp;DWTurkey detains 357 suspected IS members in nationwide raids&nbsp;&nbsp;BBCTurkish police detain 357 suspects in raids against the Islamic State group&nbsp;&nbsp;ABC NewsISIS Militants Kill 3 Police Officers in Turkey&nbsp;&nbsp;The New York TimesThree Turkish police officers killed by ISIS militants as authorities step up raids over winter holidays&nbsp;&nbsp;CNN"
 slug: "turkey-detains-357-suspects-after-islamic-state-clashes-dw"

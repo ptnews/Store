@@ -1,6 +1,6 @@
 ---
 title: "Toxic air, broken roads and unpicked rubbish - why India's big cities are becoming unliveable "
-date: 2025-12-30
+date: 2025-12-31
 description: "Many Indian cities rank at the bottom of liveability indexes despite big government spending on infrastructure."
 summary: "Many Indian cities rank at the bottom of liveability indexes despite big government spending on infrastructure."
 slug: "toxic-air-broken-roads-and-unpicked-rubbish-why-india-s-big-cities-are-becoming-unliveable"

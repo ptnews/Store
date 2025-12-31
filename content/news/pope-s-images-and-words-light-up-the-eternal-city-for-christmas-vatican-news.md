@@ -1,6 +1,6 @@
 ---
 title: "Pope's images and words light up the Eternal City for Christmas - Vatican News"
-date: 2025-12-30
+date: 2025-12-31
 description: "Pope's images and words light up the Eternal City for Christmas&nbsp;&nbsp;Vatican NewsOn Christmas, Pope Leo Tells World’s Leaders to Talk Rather Than Make War&nbsp;&nbsp;The New York TimesPope Leo speaks about Gaza, Ukraine, Sudan in his first Christmas address&nbsp;&nbsp;The Washington PostOpen your hearts to baby Jesus and one another, pope says on Christmas&nbsp;&nbsp;usccbIn first Christmas sermon, Pope Leo decries conditions for Palestinians in Gaza&nbsp;&nbsp;Reuters"
 summary: "Pope's images and words light up the Eternal City for Christmas&nbsp;&nbsp;Vatican NewsOn Christmas, Pope Leo Tells World’s Leaders to Talk Rather Than Make War&nbsp;&nbsp;The New York TimesPope Leo speaks about Gaza, Ukraine, Sudan in his first Christmas address&nbsp;&nbsp;The Washington PostOpen your hearts to baby Jesus and one another, pope says on Christmas&nbsp;&nbsp;usccbIn first Christmas sermon, Pope Leo decries conditions for Palestinians in Gaza&nbsp;&nbsp;Reuters"
 slug: "pope-s-images-and-words-light-up-the-eternal-city-for-christmas-vatican-news"

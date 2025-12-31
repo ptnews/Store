@@ -1,6 +1,6 @@
 ---
 title: "Living in fear of Lakurawa - the militant group Trump targeted in Nigeria strikes"
-date: 2025-12-30
+date: 2025-12-31
 description: "\"We cannot live freely. You cannot even play music\" - residents tell the BBC of militants' rule."
 summary: "\"We cannot live freely. You cannot even play music\" - residents tell the BBC of militants' rule."
 slug: "living-in-fear-of-lakurawa-the-militant-group-trump-targeted-in-nigeria-strikes"

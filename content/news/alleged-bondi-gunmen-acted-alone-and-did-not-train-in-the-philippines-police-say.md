@@ -1,6 +1,6 @@
 ---
 title: "Alleged Bondi gunmen acted alone and did not train in the Philippines, police say"
-date: 2025-12-30
+date: 2025-12-31
 description: "The father-and-son duo spent a month in the Philippines before the attack that killed 15 people in Bondi."
 summary: "The father-and-son duo spent a month in the Philippines before the attack that killed 15 people in Bondi."
 slug: "alleged-bondi-gunmen-acted-alone-and-did-not-train-in-the-philippines-police-say"

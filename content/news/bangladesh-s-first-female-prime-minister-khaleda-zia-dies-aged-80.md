@@ -1,6 +1,6 @@
 ---
 title: "Bangladesh's first female prime minister Khaleda Zia dies aged 80"
-date: 2025-12-30
+date: 2025-12-31
 description: "For decades, Zia and ousted PM Sheikh Hasina were bitter rivals - and their feud defined Bangladesh's politics."
 summary: "For decades, Zia and ousted PM Sheikh Hasina were bitter rivals - and their feud defined Bangladesh's politics."
 slug: "bangladesh-s-first-female-prime-minister-khaleda-zia-dies-aged-80"

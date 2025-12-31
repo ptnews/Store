@@ -1,6 +1,6 @@
 ---
 title: "Pope to Spanish pilgrims: Follow Jesus with the saints' examples - Vatican News"
-date: 2025-12-30
+date: 2025-12-31
 description: "Pope to Spanish pilgrims: Follow Jesus with the saints' examples&nbsp;&nbsp;Vatican NewsPope Leo XIV: To let God work in your life, you have to empty yourself&nbsp;&nbsp;Catholic News Agency“Imitating Christ, Inspired by the Saints”&nbsp;&nbsp;exaudi.orgThe Pope receives pilgrims from a parish in Alcalá de Henares in a private audience&nbsp;&nbsp;infovaticana"
 summary: "Pope to Spanish pilgrims: Follow Jesus with the saints' examples&nbsp;&nbsp;Vatican NewsPope Leo XIV: To let God work in your life, you have to empty yourself&nbsp;&nbsp;Catholic News Agency“Imitating Christ, Inspired by the Saints”&nbsp;&nbsp;exaudi.orgThe Pope receives pilgrims from a parish in Alcalá de Henares in a private audience&nbsp;&nbsp;infovaticana"
 slug: "pope-to-spanish-pilgrims-follow-jesus-with-the-saints-examples-vatican-news"

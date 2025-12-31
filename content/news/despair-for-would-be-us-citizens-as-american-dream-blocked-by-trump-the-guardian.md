@@ -1,6 +1,6 @@
 ---
 title: "Despair for would-be US citizens as American dream blocked by Trump - The Guardian"
-date: 2025-12-30
+date: 2025-12-31
 description: "Despair for would-be US citizens as American dream blocked by Trump&nbsp;&nbsp;The GuardianSome citizenship naturalization ceremonies canceled 'at the finish line,' lawyer says&nbsp;&nbsp;ABC NewsNew Americans welcomed in Dayton, while others told to wait&nbsp;&nbsp;Dayton Daily NewsUS legislators criticise Trump admin for cancelling Caribbean immigration applications, citizenship ceremonies&nbsp;&nbsp;Jamaica ObserverFlurry of canceled interviews, oath ceremonies, complicates path to citizenshi..."
 summary: "Despair for would-be US citizens as American dream blocked by Trump&nbsp;&nbsp;The GuardianSome citizenship naturalization ceremonies canceled 'at the finish line,' lawyer says&nbsp;&nbsp;ABC NewsNew Americans welcomed in Dayton, while others told to wait&nbsp;&nbsp;Dayton Daily NewsUS legislators criticise Trump admin for cancelling Caribbean immigration applications, citizenship ceremonies&nbsp;&nbsp;Jamaica ObserverFlurry of canceled interviews, oath ceremonies, complicates path to citizenshi..."
 slug: "despair-for-would-be-us-citizens-as-american-dream-blocked-by-trump-the-guardian"

@@ -1,6 +1,6 @@
 ---
 title: "UAE says it will withdraw from Yemen after Saudi strike on separatist-held port"
-date: 2025-12-30
+date: 2025-12-31
 description: "The UAE and Saudi have been allies in the war against the Houthis, but infighting between the rival factions they support has caused a rift between them. "
 summary: "The UAE and Saudi have been allies in the war against the Houthis, but infighting between the rival factions they support has caused a rift between them. "
 slug: "uae-says-it-will-withdraw-from-yemen-after-saudi-strike-on-separatist-held-port"

@@ -1,6 +1,6 @@
 ---
 title: "K-pop band member sued for $30m after bitter record label feud"
-date: 2025-12-30
+date: 2025-12-31
 description: "Record label Ador says it has dropped NewJeans member Danielle Marsh while the return of Minji remains uncertain."
 summary: "Record label Ador says it has dropped NewJeans member Danielle Marsh while the return of Minji remains uncertain."
 slug: "k-pop-band-member-sued-for-30m-after-bitter-record-label-feud"

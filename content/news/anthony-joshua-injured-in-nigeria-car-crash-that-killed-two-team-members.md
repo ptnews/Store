@@ -1,6 +1,6 @@
 ---
 title: "Anthony Joshua injured in Nigeria car crash that killed two team members"
-date: 2025-12-30
+date: 2025-12-31
 description: "The British heavyweight boxer suffered minor injuries in the crash, which killed two team members and close friends. "
 summary: "The British heavyweight boxer suffered minor injuries in the crash, which killed two team members and close friends. "
 slug: "anthony-joshua-injured-in-nigeria-car-crash-that-killed-two-team-members"

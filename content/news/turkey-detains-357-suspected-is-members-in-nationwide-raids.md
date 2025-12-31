@@ -1,6 +1,6 @@
 ---
 title: "Turkey detains 357 suspected IS members in nationwide raids"
-date: 2025-12-30
+date: 2025-12-31
 description: "The arrests come just a day after three police officers were killed during a siege in the town of Yalova."
 summary: "The arrests come just a day after three police officers were killed during a siege in the town of Yalova."
 slug: "turkey-detains-357-suspected-is-members-in-nationwide-raids"

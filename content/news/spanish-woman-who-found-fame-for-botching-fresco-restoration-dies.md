@@ -1,6 +1,6 @@
 ---
 title: "Spanish woman who found fame for botching fresco restoration dies"
-date: 2025-12-30
+date: 2025-12-31
 description: "Cecilia Giménez's effort to restore the painting Ecce Homo earned the artwork the nickname \"Monkey Christ\"."
 summary: "Cecilia Giménez's effort to restore the painting Ecce Homo earned the artwork the nickname \"Monkey Christ\"."
 slug: "spanish-woman-who-found-fame-for-botching-fresco-restoration-dies"

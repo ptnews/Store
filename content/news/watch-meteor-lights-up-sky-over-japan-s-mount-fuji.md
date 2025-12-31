@@ -1,6 +1,6 @@
 ---
 title: "Watch: Meteor lights up sky over Japan's Mount Fuji"
-date: 2025-12-30
+date: 2025-12-31
 description: "The meteor could be seen blazing through the night sky over Japan's Mount Fuji"
 summary: "The meteor could be seen blazing through the night sky over Japan's Mount Fuji"
 slug: "watch-meteor-lights-up-sky-over-japan-s-mount-fuji"

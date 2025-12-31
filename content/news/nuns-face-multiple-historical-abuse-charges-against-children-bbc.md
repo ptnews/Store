@@ -1,6 +1,6 @@
 ---
 title: "Nuns face multiple historical abuse charges against children - BBC"
-date: 2025-12-30
+date: 2025-12-31
 description: "Nuns face multiple historical abuse charges against children&nbsp;&nbsp;BBC"
 summary: "Nuns face multiple historical abuse charges against children&nbsp;&nbsp;BBC"
 slug: "nuns-face-multiple-historical-abuse-charges-against-children-bbc"

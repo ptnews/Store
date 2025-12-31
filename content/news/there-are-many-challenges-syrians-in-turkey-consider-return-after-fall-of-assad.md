@@ -1,6 +1,6 @@
 ---
 title: "'There are many challenges': Syrians in Turkey consider return after fall of Assad"
-date: 2025-12-30
+date: 2025-12-31
 description: "Syrians in Turkey are weighing up whether it is the right time to return to their homeland."
 summary: "Syrians in Turkey are weighing up whether it is the right time to return to their homeland."
 slug: "there-are-many-challenges-syrians-in-turkey-consider-return-after-fall-of-assad"

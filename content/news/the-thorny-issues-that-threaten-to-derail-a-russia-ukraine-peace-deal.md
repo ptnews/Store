@@ -1,6 +1,6 @@
 ---
 title: "The 'thorny' issues that threaten to derail a Russia-Ukraine peace deal"
-date: 2025-12-30
+date: 2025-12-31
 description: "Two of the main sticking points involve territory and the fate of Europe's biggest nuclear plant, which is currently occupied by Russia."
 summary: "Two of the main sticking points involve territory and the fate of Europe's biggest nuclear plant, which is currently occupied by Russia."
 slug: "the-thorny-issues-that-threaten-to-derail-a-russia-ukraine-peace-deal"

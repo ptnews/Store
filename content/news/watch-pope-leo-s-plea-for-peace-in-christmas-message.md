@@ -1,6 +1,6 @@
 ---
 title: "Watch: Pope Leo's plea for peace in Christmas message"
-date: 2025-12-30
+date: 2025-12-31
 description: "Pope Leo calls for an end to conflicts around the world in Christmas speech."
 summary: "Pope Leo calls for an end to conflicts around the world in Christmas speech."
 slug: "watch-pope-leo-s-plea-for-peace-in-christmas-message"

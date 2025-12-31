@@ -1,6 +1,6 @@
 ---
 title: "US pledges $2bn for humanitarian aid, but tells UN 'adapt or die' "
-date: 2025-12-30
+date: 2025-12-31
 description: "The pledge was welcomed by the UN, but comes after previous major cuts to US funding for humanitarian operations. "
 summary: "The pledge was welcomed by the UN, but comes after previous major cuts to US funding for humanitarian operations. "
 slug: "us-pledges-2bn-for-humanitarian-aid-but-tells-un-adapt-or-die"

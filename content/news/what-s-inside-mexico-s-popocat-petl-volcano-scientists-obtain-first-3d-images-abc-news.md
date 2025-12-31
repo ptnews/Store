@@ -1,6 +1,6 @@
 ---
 title: "What's inside Mexico's Popocatépetl volcano? Scientists obtain first 3D images - ABC News"
-date: 2025-12-30
+date: 2025-12-31
 description: "What's inside Mexico's Popocatépetl volcano? Scientists obtain first 3D images&nbsp;&nbsp;ABC NewsView Full Coverage on Google News"
 summary: "What's inside Mexico's Popocatépetl volcano? Scientists obtain first 3D images&nbsp;&nbsp;ABC NewsView Full Coverage on Google News"
 slug: "what-s-inside-mexico-s-popocat-petl-volcano-scientists-obtain-first-3d-images-abc-news"

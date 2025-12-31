@@ -1,6 +1,6 @@
 ---
 title: "Where is Santa now? Trump answers kids' Christmas calls to Norad tracker"
-date: 2025-12-30
+date: 2025-12-31
 description: "Norad got some help from President Donald Trump as it marked its 70th year tracking Santa Claus on Christmas Eve."
 summary: "Norad got some help from President Donald Trump as it marked its 70th year tracking Santa Claus on Christmas Eve."
 slug: "where-is-santa-now-trump-answers-kids-christmas-calls-to-norad-tracker"

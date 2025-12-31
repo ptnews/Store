@@ -1,6 +1,6 @@
 ---
 title: "China flexes blockade capabilities near Taiwan on second day of military drills - AP News"
-date: 2025-12-30
+date: 2025-12-31
 description: "China flexes blockade capabilities near Taiwan on second day of military drills&nbsp;&nbsp;AP NewsView Full Coverage on Google News"
 summary: "China flexes blockade capabilities near Taiwan on second day of military drills&nbsp;&nbsp;AP NewsView Full Coverage on Google News"
 slug: "china-flexes-blockade-capabilities-near-taiwan-on-second-day-of-military-drills-ap-news"

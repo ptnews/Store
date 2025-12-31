@@ -1,6 +1,6 @@
 ---
 title: "Pope Leo: Gambling ruins families - Vatican News"
-date: 2025-12-30
+date: 2025-12-31
 description: "Pope Leo: Gambling ruins families&nbsp;&nbsp;Vatican NewsPolitical authority should embody humility, honesty, sharing, pope says&nbsp;&nbsp;National Catholic ReporterPope Leo XIV warns against gambling, which ‘ruins many families’&nbsp;&nbsp;Catholic News AgencyPope Leo Warns Against the Rise of Gambling; What Do Other World Leaders Think?&nbsp;&nbsp;PokerScoutLeo XIV to the members of the ANCI: «I exhort you to become masters of dedication to the common good&nbsp;&nbsp;infovaticana"
 summary: "Pope Leo: Gambling ruins families&nbsp;&nbsp;Vatican NewsPolitical authority should embody humility, honesty, sharing, pope says&nbsp;&nbsp;National Catholic ReporterPope Leo XIV warns against gambling, which ‘ruins many families’&nbsp;&nbsp;Catholic News AgencyPope Leo Warns Against the Rise of Gambling; What Do Other World Leaders Think?&nbsp;&nbsp;PokerScoutLeo XIV to the members of the ANCI: «I exhort you to become masters of dedication to the common good&nbsp;&nbsp;infovaticana"
 slug: "pope-leo-gambling-ruins-families-vatican-news"

@@ -1,6 +1,6 @@
 ---
 title: "What growing up in war does to a child's brain - and their future - BBC"
-date: 2025-12-30
+date: 2025-12-31
 description: "What growing up in war does to a child's brain - and their future&nbsp;&nbsp;BBC"
 summary: "What growing up in war does to a child's brain - and their future&nbsp;&nbsp;BBC"
 slug: "what-growing-up-in-war-does-to-a-child-s-brain-and-their-future-bbc"

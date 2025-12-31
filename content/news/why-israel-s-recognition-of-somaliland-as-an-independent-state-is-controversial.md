@@ -1,6 +1,6 @@
 ---
 title: "Why Israel's recognition of Somaliland as an independent state is controversial"
-date: 2025-12-30
+date: 2025-12-31
 description: "Somaliland wants international recognition - here's why, and what could have driven Israel to recognise it now."
 summary: "Somaliland wants international recognition - here's why, and what could have driven Israel to recognise it now."
 slug: "why-israel-s-recognition-of-somaliland-as-an-independent-state-is-controversial"

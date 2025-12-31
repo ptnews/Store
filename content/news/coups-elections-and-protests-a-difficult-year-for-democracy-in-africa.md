@@ -1,6 +1,6 @@
 ---
 title: "Coups, elections and protests - a difficult year for democracy in Africa"
-date: 2025-12-30
+date: 2025-12-31
 description: "Post-election violence in Tanzania and more coups were part of a turbulent 12 months on the continent."
 summary: "Post-election violence in Tanzania and more coups were part of a turbulent 12 months on the continent."
 slug: "coups-elections-and-protests-a-difficult-year-for-democracy-in-africa"

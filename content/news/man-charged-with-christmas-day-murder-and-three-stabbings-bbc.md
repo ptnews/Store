@@ -1,6 +1,6 @@
 ---
 title: "Man charged with Christmas Day murder and three stabbings - BBC"
-date: 2025-12-30
+date: 2025-12-31
 description: "Man charged with Christmas Day murder and three stabbings&nbsp;&nbsp;BBCFloral tributes left on street after death of man on Christmas Day&nbsp;&nbsp;Glasgow TimesMan, 36, charged in connection with Christmas Day death in Glasgow&nbsp;&nbsp;The Scottish SunGlasgow man in court accused of Christmas Day 'murder'&nbsp;&nbsp;The HeraldMan charged in connection with death of man found injured on Christmas Day&nbsp;&nbsp;STV News"
 summary: "Man charged with Christmas Day murder and three stabbings&nbsp;&nbsp;BBCFloral tributes left on street after death of man on Christmas Day&nbsp;&nbsp;Glasgow TimesMan, 36, charged in connection with Christmas Day death in Glasgow&nbsp;&nbsp;The Scottish SunGlasgow man in court accused of Christmas Day 'murder'&nbsp;&nbsp;The HeraldMan charged in connection with death of man found injured on Christmas Day&nbsp;&nbsp;STV News"
 slug: "man-charged-with-christmas-day-murder-and-three-stabbings-bbc"

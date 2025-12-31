@@ -1,6 +1,6 @@
 ---
 title: "Trump and Zelensky appear more upbeat - but show little evidence that peace is near for Ukraine"
-date: 2025-12-30
+date: 2025-12-31
 description: "Although both leaders express optimism in Florida there is no indication of progress, writes the BBC's Vitaliy Shevchenko."
 summary: "Although both leaders express optimism in Florida there is no indication of progress, writes the BBC's Vitaliy Shevchenko."
 slug: "trump-and-zelensky-appear-more-upbeat-but-show-little-evidence-that-peace-is-near-for-ukraine"

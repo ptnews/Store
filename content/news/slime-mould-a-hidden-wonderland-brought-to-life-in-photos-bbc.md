@@ -1,6 +1,6 @@
 ---
 title: "Slime mould - a hidden wonderland brought to life in photos - BBC"
-date: 2025-12-30
+date: 2025-12-31
 description: "Slime mould - a hidden wonderland brought to life in photos&nbsp;&nbsp;BBC"
 summary: "Slime mould - a hidden wonderland brought to life in photos&nbsp;&nbsp;BBC"
 slug: "slime-mould-a-hidden-wonderland-brought-to-life-in-photos-bbc"

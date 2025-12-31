@@ -1,6 +1,6 @@
 ---
 title: "‘He will not be accepted, dead or alive’: the fate of Palestinians suspected of helping Israel - The Guardian"
-date: 2025-12-30
+date: 2025-12-31
 description: "‘He will not be accepted, dead or alive’: the fate of Palestinians suspected of helping Israel&nbsp;&nbsp;The Guardian"
 summary: "‘He will not be accepted, dead or alive’: the fate of Palestinians suspected of helping Israel&nbsp;&nbsp;The Guardian"
 slug: "he-will-not-be-accepted-dead-or-alive-the-fate-of-palestinians-suspected-of-helping-israel-the-guardian"

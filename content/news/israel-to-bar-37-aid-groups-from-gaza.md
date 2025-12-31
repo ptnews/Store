@@ -1,6 +1,6 @@
 ---
 title: "Israel to bar 37 aid groups from Gaza"
-date: 2025-12-30
+date: 2025-12-31
 description: "The move was criticised by foreign ministers from from 10 countries including the UK, who said the new rules were \"restrictive\" and \"unacceptable\"."
 summary: "The move was criticised by foreign ministers from from 10 countries including the UK, who said the new rules were \"restrictive\" and \"unacceptable\"."
 slug: "israel-to-bar-37-aid-groups-from-gaza"

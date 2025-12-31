@@ -1,6 +1,6 @@
 ---
 title: "Khaleda Zia: Slain leader's widow who went on to lead Bangladesh"
-date: 2025-12-30
+date: 2025-12-31
 description: "The country's first female prime minister governed in periods of violent unrest and economic hardship."
 summary: "The country's first female prime minister governed in periods of violent unrest and economic hardship."
 slug: "khaleda-zia-slain-leader-s-widow-who-went-on-to-lead-bangladesh"

@@ -1,0 +1,21 @@
+---
+title: "Indiana star opens up on team's mindset ahead of CFP game vs Alabama"
+date: 2025-12-30
+description: "Indiana Hoosiers quarterback Fernando Mendoza spoke about the team&apos;s mindset going into their College Football Playoff match against Alabama."
+summary: "Indiana Hoosiers quarterback Fernando Mendoza spoke about the team&apos;s mindset going into their College Football Playoff match against Alabama."
+slug: "indiana-star-opens-up-on-team-s-mindset-ahead-of-cfp-game-vs-alabama"
+image: ''
+link: 'https://www.foxnews.com/sports/indiana-star-opens-up-teams-mindset-ahead-cfp-game-vs-alabama'
+source: 'https://feeds.foxnews.com/foxnews/latest'
+categories:
+- 'feeds.foxnews.com'
+tags:
+- 'indiana'
+- 'mindset'
+- 'alabama'
+- 'opens'
+- 'ahead'
+
+draft: false
+---
+<p>The Indiana Hoosiers will play the <a href="https://www.foxnews.com/category/sports/ncaa/alabama-crimson-tide" target="_blank" rel="noopener">Alabama Crimson Tide</a> in the quarterfinals of the College Football Playoff on New Year’s Day in what may be the team’s biggest challenge yet.</p><p><a href="https://www.foxnews.com/category/sports/ncaa/indiana-hoosiers" target="_blank" rel="noopener">The Hoosiers</a> solidified their spot in the Playoff earlier this month with a Big Ten Championship win over the Ohio State Buckeyes. It will only get more difficult from the squad led by Heisman Trophy winner Fernando Mendoza from here on out.</p><p><a href="https://www.foxnews.com/sports" target="_blank" rel="noopener"><strong>CLICK HERE FOR MORE SPORTS COVERAGE ON FOXNEWS.COM</strong></a></p><p>Mendoza said he will embrace the challenge that the Crimson Tide will provide. His comments on the <a href="https://x.com/BigTenNetwork/status/2006040891316720102" target="_blank" rel="nofollow noopener">Big Ten Network</a> on Tuesday suggested he has the right mindset to pull off a win.</p><p>"I think a message we call encompassed is, ‘Pressure is a privilege.’ Although we’re the No. 1 seed in the College Football Playoff, we have all these high expectations, it’s the first time Indiana has ever done this. At the same time, we’re grateful and we want this opportunity. This is what we’ve been working for the entire offseason.</p><p><a href="https://www.foxnews.com/sports/college-football-transfer-portal-tracker-2025-2026" target="_blank" rel="noopener"><strong>2026 COLLEGE FOOTBALL TRANSFER PORTAL TRACKER: WHO ARE THE TOP NAMES EXPECTED TO ENTER?</strong></a></p><p>"It’s not like we’re here to go defend something. We don’t have this win in the Rose Bowl. We don’t have the national championship. We don’t have a semifinal win yet. We don’t have the Rose Bowl trophy, or we don’t have roses in our mouth yet. We gotta go get it. We gotta go take it – especially against such a great team like Alabama, an SEC juggernaut. We gotta go take it. We’re very blessed and honored for the opportunity. Like (coach Curt Cignetti said), it’s something we’re going to remember for the rest of our lives, and although the New York boys trip was a blast, I would say we’ve all been working very diligently because we all worked out entire lives for this moment and for this opportunity. As younger kids we dreamed about this, as older men, we’ll remember this."</p><p>The Hoosiers finished undefeated in the regular season for the first time since 1945 when they were 9-0-1. The team was ranked No. 1 in the final Associated Press regular-season poll for the first time ever.</p><p>A lot of it has to do with how Cignetti coached his team during the year and how Mendoza stepped up in games despite costly turnovers.</p><p>Now, Indiana will certainly get to prove whether they are <a href="https://www.foxnews.com/category/sports/ncaa-fb" target="_blank" rel="noopener">true national title contenders</a> in going up against a behemoth in Alabama.</p><p><i><strong>Follow Fox News Digital’s</strong></i><a href="https://twitter.com/FoxNewsSports_" target="_blank" rel="noopener"><i><strong> <u>sports coverage on X</u></strong></i></a><i><strong> and subscribe to</strong></i><a href="https://www.foxnews.com/newsletters" target="_blank" rel="noopener"><i><strong><u> the Fox News Sports Huddle newsletter</u></strong></i></a><i><strong>.</strong></i></p>

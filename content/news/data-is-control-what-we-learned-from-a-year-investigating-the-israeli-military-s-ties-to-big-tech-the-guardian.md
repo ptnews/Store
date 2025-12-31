@@ -1,6 +1,6 @@
 ---
 title: "‘Data is control’: what we learned from a year investigating the Israeli military’s ties to big tech - The Guardian"
-date: 2025-12-30
+date: 2025-12-31
 description: "‘Data is control’: what we learned from a year investigating the Israeli military’s ties to big tech&nbsp;&nbsp;The Guardian"
 summary: "‘Data is control’: what we learned from a year investigating the Israeli military’s ties to big tech&nbsp;&nbsp;The Guardian"
 slug: "data-is-control-what-we-learned-from-a-year-investigating-the-israeli-military-s-ties-to-big-tech-the-guardian"

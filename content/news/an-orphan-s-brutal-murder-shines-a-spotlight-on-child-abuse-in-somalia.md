@@ -1,6 +1,6 @@
 ---
 title: "An orphan's brutal murder shines a spotlight on child abuse in Somalia "
-date: 2025-12-30
+date: 2025-12-31
 description: "The woman who was supposed to care for Saabirin Saylaan was found to have beaten and tortured her."
 summary: "The woman who was supposed to care for Saabirin Saylaan was found to have beaten and tortured her."
 slug: "an-orphan-s-brutal-murder-shines-a-spotlight-on-child-abuse-in-somalia"

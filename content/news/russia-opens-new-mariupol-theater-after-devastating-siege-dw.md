@@ -1,6 +1,6 @@
 ---
 title: "Russia opens new Mariupol theater after devastating siege - DW"
-date: 2025-12-30
+date: 2025-12-31
 description: "Russia opens new Mariupol theater after devastating siege&nbsp;&nbsp;DWRussia reopens Mariupol theater more than 3 years after its airstrike killed hundreds there&nbsp;&nbsp;PBS‘Dancing on bones’: Mariupol theatre to reopen with staging of Russian fairytale | Ukraine&nbsp;&nbsp;The GuardianRussian occupation forces reopened the Mariupol theater Moscow bombed in 2022. Here’s what it looks like today.&nbsp;&nbsp;MeduzaThe Mariupol Drama Theatre was partially destroyed during Russia's siege o..."
 summary: "Russia opens new Mariupol theater after devastating siege&nbsp;&nbsp;DWRussia reopens Mariupol theater more than 3 years after its airstrike killed hundreds there&nbsp;&nbsp;PBS‘Dancing on bones’: Mariupol theatre to reopen with staging of Russian fairytale | Ukraine&nbsp;&nbsp;The GuardianRussian occupation forces reopened the Mariupol theater Moscow bombed in 2022. Here’s what it looks like today.&nbsp;&nbsp;MeduzaThe Mariupol Drama Theatre was partially destroyed during Russia's siege o..."
 slug: "russia-opens-new-mariupol-theater-after-devastating-siege-dw"

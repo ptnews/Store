@@ -1,6 +1,6 @@
 ---
 title: "Protests spread across Iran for third day after currency hits record low"
-date: 2025-12-30
+date: 2025-12-31
 description: "The Iranian rial hit a record low against the US dollar on Sunday, prompting shopkeepers in Tehran to stage protests, which have quickly spread. "
 summary: "The Iranian rial hit a record low against the US dollar on Sunday, prompting shopkeepers in Tehran to stage protests, which have quickly spread. "
 slug: "protests-spread-across-iran-for-third-day-after-currency-hits-record-low"

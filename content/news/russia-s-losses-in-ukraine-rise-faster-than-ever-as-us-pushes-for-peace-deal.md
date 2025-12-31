@@ -1,6 +1,6 @@
 ---
 title: "Russia's losses in Ukraine rise faster than ever as US pushes for peace deal"
-date: 2025-12-30
+date: 2025-12-31
 description: "A steep rise in soldiers' obituaries is documented by the BBC as part of its work in counting Russian war losses."
 summary: "A steep rise in soldiers' obituaries is documented by the BBC as part of its work in counting Russian war losses."
 slug: "russia-s-losses-in-ukraine-rise-faster-than-ever-as-us-pushes-for-peace-deal"

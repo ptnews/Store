@@ -1,6 +1,6 @@
 ---
 title: "The fight over Christian nationalism in a small Tennessee town"
-date: 2025-12-30
+date: 2025-12-31
 description: "A controversy kicked off after two religious podcasters moved into an Appalachian hill town deep in the Bible Belt."
 summary: "A controversy kicked off after two religious podcasters moved into an Appalachian hill town deep in the Bible Belt."
 slug: "the-fight-over-christian-nationalism-in-a-small-tennessee-town"

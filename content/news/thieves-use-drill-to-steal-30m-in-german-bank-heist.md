@@ -1,6 +1,6 @@
 ---
 title: "Thieves use drill to steal €30m in German bank heist"
-date: 2025-12-30
+date: 2025-12-31
 description: "Gelsenkirchen Police say thieves used the \"quiet\" days after Christmas to break into the high street branch."
 summary: "Gelsenkirchen Police say thieves used the \"quiet\" days after Christmas to break into the high street branch."
 slug: "thieves-use-drill-to-steal-30m-in-german-bank-heist"

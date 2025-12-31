@@ -1,6 +1,6 @@
 ---
 title: "Which countries will start using the euro in 2026? - Al Jazeera"
-date: 2025-12-30
+date: 2025-12-31
 description: "Which countries will start using the euro in 2026?&nbsp;&nbsp;Al JazeeraBulgaria joining eurozone is big deal&nbsp;&nbsp;DWBulgaria’s Big Euro Moment Gets Tarnished by Political Turmoil&nbsp;&nbsp;Bloomberg.comBulgaria prepares to join eurozone amid fears of Russian-backed disinformation&nbsp;&nbsp;The GuardianBulgaria prepares for the euro amid excitement and scepticism&nbsp;&nbsp;Reuters"
 summary: "Which countries will start using the euro in 2026?&nbsp;&nbsp;Al JazeeraBulgaria joining eurozone is big deal&nbsp;&nbsp;DWBulgaria’s Big Euro Moment Gets Tarnished by Political Turmoil&nbsp;&nbsp;Bloomberg.comBulgaria prepares to join eurozone amid fears of Russian-backed disinformation&nbsp;&nbsp;The GuardianBulgaria prepares for the euro amid excitement and scepticism&nbsp;&nbsp;Reuters"
 slug: "which-countries-will-start-using-the-euro-in-2026-al-jazeera"

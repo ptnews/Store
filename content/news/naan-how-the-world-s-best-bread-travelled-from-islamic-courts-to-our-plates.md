@@ -1,6 +1,6 @@
 ---
 title: "Naan: How the 'world's best bread' travelled from Islamic courts to our plates"
-date: 2025-12-30
+date: 2025-12-31
 description: "Naan, a leavened flatbread, was once the food of nobility but is now a global culinary delight."
 summary: "Naan, a leavened flatbread, was once the food of nobility but is now a global culinary delight."
 slug: "naan-how-the-world-s-best-bread-travelled-from-islamic-courts-to-our-plates"

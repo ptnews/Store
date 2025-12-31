@@ -1,6 +1,6 @@
 ---
 title: "Snow-capped Mount Etna erupts as skiers glide down slopes"
-date: 2025-12-30
+date: 2025-12-31
 description: "Scientists say volcanic activity at the site, which frequently erupts, had intensified this week, with craters continuously emitting ash. "
 summary: "Scientists say volcanic activity at the site, which frequently erupts, had intensified this week, with craters continuously emitting ash. "
 slug: "snow-capped-mount-etna-erupts-as-skiers-glide-down-slopes"

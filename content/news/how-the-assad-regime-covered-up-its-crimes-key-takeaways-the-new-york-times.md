@@ -1,6 +1,6 @@
 ---
 title: "How the Assad Regime Covered Up Its Crimes: Key Takeaways - The New York Times"
-date: 2025-12-30
+date: 2025-12-31
 description: "How the Assad Regime Covered Up Its Crimes: Key Takeaways&nbsp;&nbsp;The New York TimesThe Cover-Up: Inside the Plot to Conceal Assad’s Crimes&nbsp;&nbsp;The New York TimesSyria secures Assad-era mass grave revealed by Reuters and opens criminal investigation&nbsp;&nbsp;ReutersSyria’s mass graves haunt loved ones a year after Assad, as hunt for clues starts now&nbsp;&nbsp;The IndependentInvestigation Launched into Mass Grave in Syria Linked to Assad Regime&nbsp;&nbsp;وكالة صدى نيو..."
 summary: "How the Assad Regime Covered Up Its Crimes: Key Takeaways&nbsp;&nbsp;The New York TimesThe Cover-Up: Inside the Plot to Conceal Assad’s Crimes&nbsp;&nbsp;The New York TimesSyria secures Assad-era mass grave revealed by Reuters and opens criminal investigation&nbsp;&nbsp;ReutersSyria’s mass graves haunt loved ones a year after Assad, as hunt for clues starts now&nbsp;&nbsp;The IndependentInvestigation Launched into Mass Grave in Syria Linked to Assad Regime&nbsp;&nbsp;وكالة صدى نيو..."
 slug: "how-the-assad-regime-covered-up-its-crimes-key-takeaways-the-new-york-times"

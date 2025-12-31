@@ -1,6 +1,6 @@
 ---
 title: "From chess to a medical mystery: Great global reads from 2025 you may have missed - NPR"
-date: 2025-12-30
+date: 2025-12-31
 description: "From chess to a medical mystery: Great global reads from 2025 you may have missed&nbsp;&nbsp;NPRView Full Coverage on Google News"
 summary: "From chess to a medical mystery: Great global reads from 2025 you may have missed&nbsp;&nbsp;NPRView Full Coverage on Google News"
 slug: "from-chess-to-a-medical-mystery-great-global-reads-from-2025-you-may-have-missed-npr"

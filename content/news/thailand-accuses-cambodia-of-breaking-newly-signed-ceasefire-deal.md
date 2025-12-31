@@ -1,6 +1,6 @@
 ---
 title: "Thailand accuses Cambodia of breaking newly signed ceasefire deal"
-date: 2025-12-30
+date: 2025-12-31
 description: "The ceasefire took effect at noon local time (05:00 GMT) on Saturday. "
 summary: "The ceasefire took effect at noon local time (05:00 GMT) on Saturday. "
 slug: "thailand-accuses-cambodia-of-breaking-newly-signed-ceasefire-deal"

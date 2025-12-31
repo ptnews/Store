@@ -1,6 +1,6 @@
 ---
 title: "A Swedish city is being moved — building by building — amid Europe’s minerals push - CNBC"
-date: 2025-12-30
+date: 2025-12-31
 description: "A Swedish city is being moved — building by building — amid Europe’s minerals push&nbsp;&nbsp;CNBCEurope sacrifices entire Arctic city in pursuit of minerals: Kiruna is wiped off the map by a mega iron mine and a brutal dispute over rare earth elements.&nbsp;&nbsp;CPG Click Petróleo e GásSwedish town shifts to make room for mine&nbsp;&nbsp;TVP WorldThe city is being relocated in stages to avoid risks after an underground mine advanced and caused increasing deformations in the terrain.&nb..."
 summary: "A Swedish city is being moved — building by building — amid Europe’s minerals push&nbsp;&nbsp;CNBCEurope sacrifices entire Arctic city in pursuit of minerals: Kiruna is wiped off the map by a mega iron mine and a brutal dispute over rare earth elements.&nbsp;&nbsp;CPG Click Petróleo e GásSwedish town shifts to make room for mine&nbsp;&nbsp;TVP WorldThe city is being relocated in stages to avoid risks after an underground mine advanced and caused increasing deformations in the terrain.&nb..."
 slug: "a-swedish-city-is-being-moved-building-by-building-amid-europe-s-minerals-push-cnbc"

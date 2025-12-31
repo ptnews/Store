@@ -1,6 +1,6 @@
 ---
 title: "Nepal to scrap 'failed' Mount Everest waste deposit scheme"
-date: 2025-12-30
+date: 2025-12-31
 description: "Under the scheme, climbers paid a $4,000 deposit that was returned if they brought 8kg of waste down the mountain."
 summary: "Under the scheme, climbers paid a $4,000 deposit that was returned if they brought 8kg of waste down the mountain."
 slug: "nepal-to-scrap-failed-mount-everest-waste-deposit-scheme"

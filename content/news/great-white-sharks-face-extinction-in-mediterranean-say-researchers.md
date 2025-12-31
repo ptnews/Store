@@ -1,6 +1,6 @@
 ---
 title: "Great white sharks face extinction in Mediterranean, say researchers"
-date: 2025-12-30
+date: 2025-12-31
 description: "Overfishing and illegal fishing are contributing to the loss of sharks, including great whites."
 summary: "Overfishing and illegal fishing are contributing to the loss of sharks, including great whites."
 slug: "great-white-sharks-face-extinction-in-mediterranean-say-researchers"
