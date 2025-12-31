@@ -1,8 +1,8 @@
 ---
 title: "Guinea coup leader Mamady Doumbouya wins presidential election"
 date: 2025-12-30
-description: "Mamady Doumbouya faced eight rivals for the presidency, but the main opposition leaders were barred from running. "
-summary: "Mamady Doumbouya faced eight rivals for the presidency, but the main opposition leaders were barred from running. "
+description: "Doumbouya wins with 86.72 percent of the vote, an absolute majority, four years after he led a military takeover."
+summary: "Doumbouya wins with 86.72 percent of the vote, an absolute majority, four years after he led a military takeover."
 slug: "guinea-coup-leader-mamady-doumbouya-wins-presidential-election"
 image: ''
 link: 'https://www.aljazeera.com/news/2025/12/30/guinea-coup-leader-mamdi-doumbouya-wins-presidential-election?traffic_source=rss'
@@ -18,4 +18,4 @@ tags:
 
 draft: false
 ---
-Mamady Doumbouya faced eight rivals for the presidency, but the main opposition leaders were barred from running. 
+Doumbouya wins with 86.72 percent of the vote, an absolute majority, four years after he led a military takeover.
