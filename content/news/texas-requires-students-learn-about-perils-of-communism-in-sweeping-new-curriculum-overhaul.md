@@ -1,0 +1,21 @@
+---
+title: "Texas requires students learn about 'perils of communism' in sweeping new curriculum overhaul"
+date: 2025-12-31
+description: "Texas will require students to learn about communism&apos;s perils under a new social studies curriculum starting in 2030. The state board approved the changes, 8-7."
+summary: "Texas will require students to learn about communism&apos;s perils under a new social studies curriculum starting in 2030. The state board approved the changes, 8-7."
+slug: "texas-requires-students-learn-about-perils-of-communism-in-sweeping-new-curriculum-overhaul"
+image: ''
+link: 'https://www.foxnews.com/media/texas-requires-students-learn-about-perils-communism-sweeping-new-curriculum-overhaul'
+source: 'https://feeds.foxnews.com/foxnews/latest'
+categories:
+- 'feeds.foxnews.com'
+tags:
+- 'curriculum'
+- 'communism'
+- 'requires'
+- 'students'
+- 'sweeping'
+
+draft: false
+---
+<p>A rewrite of <a href="https://www.foxnews.com/category/us/us-regions/southwest/texas" target="_blank" rel="noopener">Texas’ social studies curriculum</a> will require educators to teach students about the perils of communism, according to a recent report.</p><p>"The new framework, known as the ‘comprehensive’ model, introduces a novel chronological approach to history and signals that the process will result in drastically different new standards," the Houston Chronicle <a href="https://www.houstonchronicle.com/politics/article/texas-social-studies-curriculum-rewrite-21125397.php" target="_blank" rel="nofollow noopener"><u>reported.</u></a></p><p>Set to take effect in the fall of 2030, "the model, favored by conservatives on the board, boosts the proportion of Texas history, and removes standalone world cultures courses," the piece said. </p><p>"Third grade will now begin with ‘birth of Western civilizations’ and eighth grade will become a Texas history-only capstone course."</p><p><a href="https://www.foxnews.com/opinion/lets-teach-our-kids-why-america-worth-fighting" target="_blank" rel="noopener"><strong>LET'S TEACH OUR KIDS WHY AMERICA IS WORTH FIGHTING FOR  </strong></a></p><p>The State Board of Education approved the Social Studies plan by a vote of 8-7 <a href="https://www.texastribune.org/2025/09/12/texas-history-social-studies-curriculum-standards-sboe/?utm_source=chatgpt.com" target="_blank" rel="nofollow noopener"><u>in September</u></a>.</p><p>Under the revised standards, the curriculum will focus more on Texas history and U.S. history rather than world history and cultures. </p><p>The Houston Chronicle reported that <a href="https://www.foxnews.com/category/us/democratic-party" target="_blank" rel="noopener">Democrats on the board</a> raised concerns about the changes.</p><p>"Democrats on the board say the new framework reduces representation, will be more <a href="https://www.foxnews.com/category/us/education/teachers" target="_blank" rel="noopener">difficult for teachers</a> to explain and delays lessons about nonwhite people to later grades," the piece said. </p><p>"Looking at this storytelling thing, when do people that look like me get to learn about themselves before the fifth grade?" Staci Childs, D-Houston, was quoted as saying in the article, speaking about herself and other Black or Hispanic members of the board. </p><p>The Houston Chronicle also reported, "The standards are also being revised to align with recently-passed state law that requires students to be taught about the perils of communism."</p><p><a href="https://www.foxnews.com/opinion/five-hopeful-signs-college-students-seeking-truth-once-more" target="_blank" rel="noopener"><strong>FIVE HOPEFUL SIGNS COLLEGE STUDENTS ARE SEEKING TRUTH ONCE MORE </strong></a></p><p>In the revised framework, according to the report, "Students must learn about ‘atrocities attributable to communist regimes,’ including the Cambodian genocide, guerrilla movements in Latin America and the ‘oppression and suffering experienced by people living under communist regimes.’ The lessons must also touch on modern threats posed to the U.S. and its allies by communist regimes and ideologies." </p><p>Fox News Digital reached out to the Texas State Board of Education; Rep. Aaron Kinsey, R-Midland, chair of the Texas State Board of Education; and Childs for comment. </p>
