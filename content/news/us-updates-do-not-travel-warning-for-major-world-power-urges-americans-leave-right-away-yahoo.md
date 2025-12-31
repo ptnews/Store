@@ -1,0 +1,21 @@
+---
+title: "US updates ‘do not travel’ warning for major world power, urges Americans leave right away - Yahoo"
+date: 2025-12-31
+description: "US updates ‘do not travel’ warning for major world power, urges Americans leave right away&nbsp;&nbsp;YahooUS issues highest-level ‘Do Not Travel’ warning for a major world power&nbsp;&nbsp;MassLive.comMap Shows US Travel Warnings Around World for 2026&nbsp;&nbsp;NewsweekRussia Joins Iran, Belarus, Yemen, Jordan, Guinea-Bissau, Liberia, Uganda in Urgent Travel Warnings, New Update is Here&nbsp;&nbsp;Travel And Tour WorldThree Resources International Travelers Can Trust in 2026&nbsp;&nbsp..."
+summary: "US updates ‘do not travel’ warning for major world power, urges Americans leave right away&nbsp;&nbsp;YahooUS issues highest-level ‘Do Not Travel’ warning for a major world power&nbsp;&nbsp;MassLive.comMap Shows US Travel Warnings Around World for 2026&nbsp;&nbsp;NewsweekRussia Joins Iran, Belarus, Yemen, Jordan, Guinea-Bissau, Liberia, Uganda in Urgent Travel Warnings, New Update is Here&nbsp;&nbsp;Travel And Tour WorldThree Resources International Travelers Can Trust in 2026&nbsp;&nbsp..."
+slug: "us-updates-do-not-travel-warning-for-major-world-power-urges-americans-leave-right-away-yahoo"
+image: ''
+link: 'https://news.google.com/rss/articles/CBMihwFBVV95cUxOdkRzVkJFaGZXaXM0V19neEVPUEdCVXlGTUlyeVI5clgxTTFPNHRsUG56VFc4LTg0T1llOG52YVZ3alRVQTlTRER0eGxFbVNGa3BheVFodU5YTFZpNW9mUHNxOE9iUEJiVkpKYnZ6MW9ERjJPRGNzNklnNXR6LUwzcmpzOUdWRUE?oc=5'
+source: 'https://news.google.com/rss/topics/CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx1YlY4U0FtVnVHZ0pWVXlnQVAB?hl=en-US&gl=US&ceid=US:en'
+categories:
+- 'news.google.com'
+tags:
+- 'americans'
+- 'updates'
+- 'warning'
+- 'travel'
+- 'major'
+
+draft: false
+---
+<ol><li><a href="https://news.google.com/rss/articles/CBMihwFBVV95cUxOdkRzVkJFaGZXaXM0V19neEVPUEdCVXlGTUlyeVI5clgxTTFPNHRsUG56VFc4LTg0T1llOG52YVZ3alRVQTlTRER0eGxFbVNGa3BheVFodU5YTFZpNW9mUHNxOE9iUEJiVkpKYnZ6MW9ERjJPRGNzNklnNXR6LUwzcmpzOUdWRUE?oc=5" target="_blank">US updates ‘do not travel’ warning for major world power, urges Americans leave right away</a>&nbsp;&nbsp;<font color="#6f6f6f">Yahoo</font></li><li><a href="https://news.google.com/rss/articles/CBMisgFBVV95cUxPOUg3NzlaR05QVmV6WjZUbmNZMTVjLU1CWEU4b0RJaHJqam9JSFVFcC15b2UxdnFlTElucDQ2Q3RlaXl4dXNWbGM3aktBeERFQ2FiRUs0b2wtempJbmREbzhzVWQwRGpmWjVpZkFFc1NWVDBEZHRJRUE5WGpnZnpqdTBDZmlROFI1Y25xal9xcWdzbXBnYURlTDF6cVRMejAyT3ppX1JKX2U4X0g2WnhmTGh30gHGAUFVX3lxTE5wZzdmamtGSG9rdTA2N1FMRjNWdi01aldoMllhN1lWNFB1eG04M0JhelAyekU5ZGpoMHUzWExJX0s1Y0cwa19KcGVwbkNlb1h5TkJMaUI3eW9ZYVBhR0VpUmNXaF9NM3FKRFMyMjF5Rll5R0lEcXVyVDVncDY4dEZydm95Tk9lUGJQd3VtQ2RZeEJjcVFmWEZSSDNQYVg5ODRVakZYRFJGRmRnNFdvdG1uT3dXa0VOckhHMWVzN2FNZDIySC1iUQ?oc=5" target="_blank">US issues highest-level ‘Do Not Travel’ warning for a major world power</a>&nbsp;&nbsp;<font color="#6f6f6f">MassLive.com</font></li><li><a href="https://news.google.com/rss/articles/CBMijAFBVV95cUxPUUJ0Zk50Y2RMbnY4Q0VQSjR5QlZzd2tMRlp4X2JMR0tYMHpUejl3TVVYZGNlRlMyRTAzTnVuTE5XMDQzVDgzUW90MUoyMU5qRVFuMlNmRWQ1Y1U4SlNnX0g0Zks4M2FMRUthU1EzNzJOa2p5cjg1RGhycnM5V1dPV1VmM1ViQnY4a05IWQ?oc=5" target="_blank">Map Shows US Travel Warnings Around World for 2026</a>&nbsp;&nbsp;<font color="#6f6f6f">Newsweek</font></li><li><a href="https://news.google.com/rss/articles/CBMi8wFBVV95cUxQdWd5bFB3QVJjdUhISUkxRjY5dEliRk13a2c5YWNsLTR4ZVRqZWVJcG5IeVJ1aHZfV0RtaTlrTUVKWTJSYll2ei1KWnlzSlQ1VjlWWkRVY2NFaDl4ZXphUTVhLVJPM1c2VlZOZERudEhjRjM0U0toT1RCS0x1ZEtsWEJqMHpNaFltR1E4ekp4ckZtNW94ZWdLM0hYMjk4ZndxRzJTRmhnODJLNWNsTElaV2xyT25qNjlqMHJLOWdGa1BQa25ZZjlLUC1fZGJwcEdZLW04Y2NKYUxITmV2OHljdDRWSVBBMlJPemlNU2NTbHhVZ3c?oc=5" target="_blank">Russia Joins Iran, Belarus, Yemen, Jordan, Guinea-Bissau, Liberia, Uganda in Urgent Travel Warnings, New Update is Here</a>&nbsp;&nbsp;<font color="#6f6f6f">Travel And Tour World</font></li><li><a href="https://news.google.com/rss/articles/CBMioAFBVV95cUxQSk1wSUUxMDJUWXNDRzYyWVVPX1gyTzdHRUVkQXJuN0ZERHFuWlJ1LWFpWXIyYW92YWY5bFB3cGNFU191NTI5bDZ4YXg5VFk0Q3E3TUtZaERzTXAzbERtVVFpcTdxc0VObkVwYzVpdW1NT1NXWk9YREZaLTI4aUNhcXlmS295SEJjY3ZvckNXNmdaaHZiU3I3eC01NDkyazRt?oc=5" target="_blank">Three Resources International Travelers Can Trust in 2026</a>&nbsp;&nbsp;<font color="#6f6f6f">Vax-Before-Travel</font></li></ol>
