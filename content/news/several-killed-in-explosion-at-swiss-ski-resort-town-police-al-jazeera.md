@@ -1,0 +1,21 @@
+---
+title: "Several killed in explosion at Swiss ski resort town: Police - Al Jazeera"
+date: 2026-01-01
+description: "Several killed in explosion at Swiss ski resort town: Police&nbsp;&nbsp;Al JazeeraDozens presumed dead in New Year catastrophe in Swiss ski resort&nbsp;&nbsp;CNNLe Constellation bar fire in Switzerland: what we know so far&nbsp;&nbsp;The GuardianBBC reports from the scene of Swiss resort bar fire&nbsp;&nbsp;BBC'Several' dozen killed in blaze in Swiss resort bar on New Year's Day, police say&nbsp;&nbsp;ABC News"
+summary: "Several killed in explosion at Swiss ski resort town: Police&nbsp;&nbsp;Al JazeeraDozens presumed dead in New Year catastrophe in Swiss ski resort&nbsp;&nbsp;CNNLe Constellation bar fire in Switzerland: what we know so far&nbsp;&nbsp;The GuardianBBC reports from the scene of Swiss resort bar fire&nbsp;&nbsp;BBC'Several' dozen killed in blaze in Swiss resort bar on New Year's Day, police say&nbsp;&nbsp;ABC News"
+slug: "several-killed-in-explosion-at-swiss-ski-resort-town-police-al-jazeera"
+image: ''
+link: 'https://news.google.com/rss/articles/CBMipwFBVV95cUxNWWhaSXhjZWtvYV92a1pZcFpwZU9mTkZoZnB6TmJhNzJpMGxPYXltd0ZqcFhHREl6OTQ2ZENmU3QyRDZ1dEZtMHU0ZUNwTUk4Mm9wV2k5QlkzNU1sODc3VVAzRVB6dXFsMlFCdTZzdmhqSTFvM1o0VkpJMzcxeHBUWmdrLUpXY0JJNXh3alQ4M1VpLXZiZmdmU3JEWjd6SXJiODBBQVY5WdIBrAFBVV95cUxObjhOWTRYR2xnejFuclQ0dFhjQXo3U0R0Q1UyN3ltaE5qWG1zVDdfWG9MdDJBVVRGTXFnZTB6S3pXNGp3OGQyX05ma3BWMjIxM3ZFOFFGbGltUlF1Tlg4U0lRblRhSkdmWUg2OGtMVzRuc092b3hsR0ZES0E3Yk1ycGY2MDlEZzVvLXZ1WHR4YkdfX2VFZU5lOGhNclFhX3Fxak9uU0d2R2E4a25L?oc=5'
+source: 'https://news.google.com/rss/topics/CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx1YlY4U0FtVnVHZ0pWVXlnQVAB?hl=en-US&gl=US&ceid=US:en'
+categories:
+- 'news.google.com'
+tags:
+- 'explosion'
+- 'several'
+- 'jazeera'
+- 'killed'
+- 'resort'
+
+draft: false
+---
+<ol><li><a href="https://news.google.com/rss/articles/CBMipwFBVV95cUxNWWhaSXhjZWtvYV92a1pZcFpwZU9mTkZoZnB6TmJhNzJpMGxPYXltd0ZqcFhHREl6OTQ2ZENmU3QyRDZ1dEZtMHU0ZUNwTUk4Mm9wV2k5QlkzNU1sODc3VVAzRVB6dXFsMlFCdTZzdmhqSTFvM1o0VkpJMzcxeHBUWmdrLUpXY0JJNXh3alQ4M1VpLXZiZmdmU3JEWjd6SXJiODBBQVY5WdIBrAFBVV95cUxObjhOWTRYR2xnejFuclQ0dFhjQXo3U0R0Q1UyN3ltaE5qWG1zVDdfWG9MdDJBVVRGTXFnZTB6S3pXNGp3OGQyX05ma3BWMjIxM3ZFOFFGbGltUlF1Tlg4U0lRblRhSkdmWUg2OGtMVzRuc092b3hsR0ZES0E3Yk1ycGY2MDlEZzVvLXZ1WHR4YkdfX2VFZU5lOGhNclFhX3Fxak9uU0d2R2E4a25L?oc=5" target="_blank">Several killed in explosion at Swiss ski resort town: Police</a>&nbsp;&nbsp;<font color="#6f6f6f">Al Jazeera</font></li><li><a href="https://news.google.com/rss/articles/CBMigwFBVV95cUxPakxZOGFCMmZqdER2aWJNNFBWbE9UTlBBUFNHWjRCOTVCZ3B4ZkFtVWpvak4yQlVYYjF1RlRyOVBKU01ZOGxIazRDTXdTM3FEcHMzOUx3c0VmbUJha1RHWGY1Um9ZYmpCYUJ3QWo4TlNVMmhJbXFtQWhsb2t1dE5xVnAyZw?oc=5" target="_blank">Dozens presumed dead in New Year catastrophe in Swiss ski resort</a>&nbsp;&nbsp;<font color="#6f6f6f">CNN</font></li><li><a href="https://news.google.com/rss/articles/CBMinwFBVV95cUxOVmpzVnUxZVRkaVgwYldIbFJKVUNZS2NoV2FiLWF4eHl1SWh1ZUlsNUJFX3p2Y3M4dzhicVVkVEFtZ041TjhQdlM5RTJFOWg0cWJfMDhadUNnVGEtQU5MWVpla25WVUJuVGpkTXRvc2pPWTBkLWUzVVBjckpiMFBDZWFXRTM0Z0lfZnNtQzY2RmczVHVWbmhtNmpSUnhPV1U?oc=5" target="_blank">Le Constellation bar fire in Switzerland: what we know so far</a>&nbsp;&nbsp;<font color="#6f6f6f">The Guardian</font></li><li><a href="https://news.google.com/rss/articles/CBMiV0FVX3lxTE5uQU1YZktjbDZjTFhOMXpWN0FPM1dnZ1psQ0RLbWNOWF9VX2Y2cGpicXp3dnFRbF9ibHJ4MC1fVmpobDhldnl1cERPZHVkTVBGNDVPMDFXcw?oc=5" target="_blank">BBC reports from the scene of Swiss resort bar fire</a>&nbsp;&nbsp;<font color="#6f6f6f">BBC</font></li><li><a href="https://news.google.com/rss/articles/CBMipAFBVV95cUxONTZFTGJ1bXlnRXh2bTZPUlV0WUJTaGh0MXhPcGJ5SHpnajJBQkRGX2hmSDRDZTYyMFJtSE4ycWdpXzN1c3RZaGlYSzRnam1fd1JKQVU2eUVJelJPQlEyQnE0bkZla3BpNm15SFNCdE9TZVd1UGVkSlF0YW9qSVdIN0ROMHdhbEJQSm1zZE54MER0cFVqOXhZUUpEaGQ4QUtiOUNQWNIBqgFBVV95cUxNRG9XNHNVTE9rREU4aDVlMF83RWRlRTB4bDJHU3pqUFRFQnczanZPWjhSWG11SGpuY0JOSjVnTWliMm0tblhUd1pQX0pEaUhUOUNlNm9HaVBZY3hxQ3BTUi1JQTRlZDhJM3k2SDhyUUZRbDFiVkNTUFVEbHFqcTVLQm5VbGZXRFE1TF9vdDNLcDd1RnFNa011Vm5VUkRYaG9EanZyd1dNWGdXZw?oc=5" target="_blank">'Several' dozen killed in blaze in Swiss resort bar on New Year's Day, police say</a>&nbsp;&nbsp;<font color="#6f6f6f">ABC News</font></li></ol>
