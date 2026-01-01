@@ -1,0 +1,21 @@
+---
+title: "Mamdani sworn in by AG James in private midnight ceremony"
+date: 2026-01-01
+description: "Socialist Zohran Mamdani sworn in as NYC mayor in midnight ceremony at abandoned subway station, symbolizing his vision for working-class New Yorkers."
+summary: "Socialist Zohran Mamdani sworn in as NYC mayor in midnight ceremony at abandoned subway station, symbolizing his vision for working-class New Yorkers."
+slug: "mamdani-sworn-in-by-ag-james-in-private-midnight-ceremony"
+image: ''
+link: 'https://www.foxnews.com/politics/mamdani-sworn-ag-james-private-midnight-ceremony'
+source: 'https://feeds.foxnews.com/foxnews/latest'
+categories:
+- 'feeds.foxnews.com'
+tags:
+- 'midnight'
+- 'ceremony'
+- 'mamdani'
+- 'private'
+- 'sworn'
+
+draft: false
+---
+<p>New York City socialist mayor-elect <a href="https://www.foxnews.com/category/person/zohran-mamdani" target="_blank" rel="noopener">Zohran Mamdani</a> was officially sworn in as mayor in a midnight ceremony by New York Attorney General Letitia James.</p><p>The early Thursday morning event was a private ceremony where Mamdani was accompanied by family members at the Old City Hall Station, a decommissioned subway station with deep historical roots.</p><p>In a press release, the Mamdani transition team said the midnight swearing was chosen to be at a location symbolizing how the subway system is the "lifeblood of New York" and a "reminder of the city Mayor-elect Zohran Mamdani is fighting for: a city built by and for New Yorkers."</p><p>"When Old City Hall Station first opened in 1904 — one of New York’s 28 original subway stations — it was a physical monument to a city that dared to be both beautiful and build great things that would transform working peoples’ lives. That ambition need not be a memory confined only to our past, nor must it be isolated only to the tunnels beneath City Hall: it will be the purpose of the administration fortunate enough to serve New Yorkers from the building above," Mamdani said in the press release.</p><p><a href="https://www.foxnews.com/politics/socialist-wins-pile-up-after-gops-brutal-2025-off-year-election-losses" target="_blank" rel="noopener"><strong>SOCIALIST WINS PILE UP AFTER GOP’S BRUTAL 2025 OFF-YEAR ELECTION LOSSES</strong></a></p><p>"When I take my oath from the station at the dawn of the New Year, I will do so humbled by the opportunity to lead millions of New Yorkers into a new era of opportunity, and honored to carry forward our city’s legacy of greatness."</p><p>Mamdani used a Quran during his swearing-in ceremony, according to his campaign, making him the first Muslim mayor of NYC and the first to be sworn in using a Quran.</p><p>On Thursday afternoon, Mamdani will be sworn in publicly by Independent Vermont Sen. Bernie Sanders after opening remarks are delivered at his 1 p.m. inauguration by another progressive ally, Dem. Rep. <a href="https://www.foxnews.com/category/person/alexandria-ocasio-cortez" target="_blank" rel="noopener">Alexandria Ocasio-Cortez.</a></p><p><a href="https://www.foxnews.com/media/jasmine-crockett-cites-mamdani-trump-aoc-trump-voters-when-confronted-path-victory-texas" target="_blank" rel="noopener"><strong>JASMINE CROCKETT CITES MAMDANI-TRUMP, AOC-TRUMP VOTERS WHEN CONFRONTED ON PATH TO VICTORY IN TEXAS</strong></a></p><p>Typically, inauguration tickets are given out to roughly 4,000 people but the Mamdani transition team says all New Yorkers will be invited to the inauguration and a block party immediately following.</p><p>The 1 p.m. inauguration will take place on the steps of City Hall.</p><p>Mamdani soundly defeated former New York Gov. <a href="https://www.foxnews.com/category/person/andrew-cuomo" target="_blank" rel="noopener">Andrew Cuomo</a> and Republican Curtis Sliwa in early November, capping off a rapid political ascent that started with single-digit support when he announced his mayoral campaign in October 2024.</p>
