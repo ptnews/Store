@@ -1,0 +1,21 @@
+---
+title: "New Year's Eve trains delayed after cable theft near Doncaster - BBC"
+date: 2026-01-01
+description: "New Year's Eve trains delayed after cable theft near Doncaster&nbsp;&nbsp;BBCSouth Yorkshire train passengers face delays after theft of signalling cables&nbsp;&nbsp;The GuardianYorkshire: Cable thieves cause New Year’s Eve train disruption&nbsp;&nbsp;The IndependentRail delays after cables stolen from line between Sheffield and Doncaster | News - Greatest Hits Radio (West Yorkshire)&nbsp;&nbsp;hellorayo.co.ukPassengers stranded on Eurostar trains OVERNIGHT with no working toilets in chaotic r..."
+summary: "New Year's Eve trains delayed after cable theft near Doncaster&nbsp;&nbsp;BBCSouth Yorkshire train passengers face delays after theft of signalling cables&nbsp;&nbsp;The GuardianYorkshire: Cable thieves cause New Year’s Eve train disruption&nbsp;&nbsp;The IndependentRail delays after cables stolen from line between Sheffield and Doncaster | News - Greatest Hits Radio (West Yorkshire)&nbsp;&nbsp;hellorayo.co.ukPassengers stranded on Eurostar trains OVERNIGHT with no working toilets in chaotic r..."
+slug: "new-year-s-eve-trains-delayed-after-cable-theft-near-doncaster-bbc"
+image: ''
+link: 'https://news.google.com/rss/articles/CBMiWkFVX3lxTE9ZUnFoVFJXUG5pbkp6c2xqZEdtTDdTU0tfRktidU1RSHRvN2xuOURnTGgzbmpSdGJTbUdDNVRzZXFiNUJMR1BZTV81X2ZBdG9sUG9tdFVRQXlmQdIBX0FVX3lxTE1tUU85dUdVRW4yZUxrUlNKdEVJc1hqNlZkSVpnRmtyN05BdG9oajFQcTRpV1BZeVI5Z3A2R3hDV0tLeTNEQWVWZ3Y3LXhQcFlzY0ZCeWtNaVhGYXU1QVo0?oc=5'
+source: 'https://news.google.com/rss/topics/CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx1YlY4U0FtVnVHZ0pWVXlnQVAB?hl=en-US&gl=US&ceid=US:en'
+categories:
+- 'news.google.com'
+tags:
+- 'doncaster'
+- 'delayed'
+- 'trains'
+- 'cable'
+- 'theft'
+
+draft: false
+---
+<ol><li><a href="https://news.google.com/rss/articles/CBMiWkFVX3lxTE9ZUnFoVFJXUG5pbkp6c2xqZEdtTDdTU0tfRktidU1RSHRvN2xuOURnTGgzbmpSdGJTbUdDNVRzZXFiNUJMR1BZTV81X2ZBdG9sUG9tdFVRQXlmQdIBX0FVX3lxTE1tUU85dUdVRW4yZUxrUlNKdEVJc1hqNlZkSVpnRmtyN05BdG9oajFQcTRpV1BZeVI5Z3A2R3hDV0tLeTNEQWVWZ3Y3LXhQcFlzY0ZCeWtNaVhGYXU1QVo0?oc=5" target="_blank">New Year's Eve trains delayed after cable theft near Doncaster</a>&nbsp;&nbsp;<font color="#6f6f6f">BBC</font></li><li><a href="https://news.google.com/rss/articles/CBMiuAFBVV95cUxQVHlBUUVVYjNlay1Cb1k5X1hNQnRWb2FZaEEwZTZjY05hdDRyS0x3MFBKTXBIcTJpUUhnS0ptUXVpRlBzc05FRDVvMGZLbURvWkljUGhLbzBMMWd6c3A4TGRIVUZ1NlJleWlVV2VwTUM3SWFsTTJCbnQzanV4UG9YMWg3bmlSVWNQRHNNb0ZYenpvd3dMRXRNWTkyT1VvVWlYWXozdWZTQ0g2ejFYZEdRQ3FITkRVQnNh?oc=5" target="_blank">South Yorkshire train passengers face delays after theft of signalling cables</a>&nbsp;&nbsp;<font color="#6f6f6f">The Guardian</font></li><li><a href="https://news.google.com/rss/articles/CBMisgFBVV95cUxQQ2lxZE5lY1dJdWhpX2M3NnZmV0pjZWhocUxESWJDcG5CdkpEQ090Z0JiaTBaVjN5QjlHc3I2U2ViV1pUZ3NCUmlNaVc5dExpQzhNM0dua0t0QU02TTVfdFRHbWVqbkZxZHhURDVHelFtS0VkcHFfTDFRanR1aXdGaGkwTWI4c1owVkdBdEdtM2lfaTAxVWxreUxZMTBvTmdNRVVRbUhKdEd4TnEzMkxGNjlR?oc=5" target="_blank">Yorkshire: Cable thieves cause New Year’s Eve train disruption</a>&nbsp;&nbsp;<font color="#6f6f6f">The Independent</font></li><li><a href="https://news.google.com/rss/articles/CBMihwFBVV95cUxPT01yVFVwQlZfX0Rjbk5qQzVlT2RiNEYyYlJuUmNfWERRejdVdTF1Z1Q3YkVERVpRMGswbk1xNnNqMnhKYkpPZ2RVTmNKYlozLWMtbkQ1SWNleC1kVDZJaDBHMjdxU2xqNUJGTi1PMEhWSWU0d2lyUjRER09NTjZaTE1lM3VSNlU?oc=5" target="_blank">Rail delays after cables stolen from line between Sheffield and Doncaster | News - Greatest Hits Radio (West Yorkshire)</a>&nbsp;&nbsp;<font color="#6f6f6f">hellorayo.co.uk</font></li><li><a href="https://news.google.com/rss/articles/CBMitAFBVV95cUxNcXpjZm5mOFJBTVRoUzAtY1dIZGFPNy1oRE9wOXRyT2tZUzR2QTQ5bDRWMks0RGM0M3JLeFQwbHlyaEJGaFZ2MGtrLWVSbnRiZVVtQ1FsckNxeFkxUDlDYWFkZ2FSQU40LXRQQmlxUXpYWnYyTVg1S1dnMGxZTTZWMm96SkNNR3dxb3Jad0I5Y1lkS3dGN281N0VuSlM5dmhnRnA2QS1KZC1Hd2lpNXVpaktxa1LSAboBQVVfeXFMTWZzbW8zOHE3NXdydlF4V0RJeEtFMXRDRmdXOWZ4ZHU4MmtqSlhXQmZmQkRmNU1kUmlIU1pKY2N4d3NxeldaZFZ3WUhlWWhWOFZoWWtGNGpVcU9taFI1QjJfYWlhSm0tWl9lelhSdDZwQ3p6enNnb3l0SkVqOUZvcmlHV2RrRnNwWUxLTW82YXVuUTJnX1dmc1hBZGZELXRpMXF0UDc0Z1NySFFfdmViVHREU2d0d1BXQ2dB?oc=5" target="_blank">Passengers stranded on Eurostar trains OVERNIGHT with no working toilets in chaotic response to power outage</a>&nbsp;&nbsp;<font color="#6f6f6f">Daily Mail</font></li></ol>
