@@ -1,0 +1,21 @@
+---
+title: "European leaders to huddle as Zelenskyy pushes his peace plan for Ukraine - Politico"
+date: 2026-01-01
+description: "European leaders to huddle as Zelenskyy pushes his peace plan for Ukraine&nbsp;&nbsp;PoliticoUS, Allies Discuss Stronger Security Guarantees for Ukraine&nbsp;&nbsp;Bloomberg.comZelenskyy announces Coalition of the Willing meeting: planned for 6 January&nbsp;&nbsp;Українська правдаUS held talks with Ukraine, European countries on next steps in ending Ukraine war, Witkoff says&nbsp;&nbsp;ReutersUmerov, European and American partners plan meetings in January&nbsp;&nbsp;Ukrinform"
+summary: "European leaders to huddle as Zelenskyy pushes his peace plan for Ukraine&nbsp;&nbsp;PoliticoUS, Allies Discuss Stronger Security Guarantees for Ukraine&nbsp;&nbsp;Bloomberg.comZelenskyy announces Coalition of the Willing meeting: planned for 6 January&nbsp;&nbsp;Українська правдаUS held talks with Ukraine, European countries on next steps in ending Ukraine war, Witkoff says&nbsp;&nbsp;ReutersUmerov, European and American partners plan meetings in January&nbsp;&nbsp;Ukrinform"
+slug: "european-leaders-to-huddle-as-zelenskyy-pushes-his-peace-plan-for-ukraine-politico"
+image: ''
+link: 'https://news.google.com/rss/articles/CBMijwFBVV95cUxQOHk1QkZtQUt4a21mOEtCRW1uanhPRFhDblN5aVdTZ3h6dUVwUXhxZk0xUU5GMXkyRHVJOGJzbGZzaXdndlBBUWtKd3poVUoxMENremVyeUdWQnZkN0hRN1NRTDNOWW9mQ0NBbFJGQ0xZbFJTNmtWdXU4QWRxcXJoNDQwTzVLVjRQd1hySHZqaw?oc=5'
+source: 'https://news.google.com/rss/topics/CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx1YlY4U0FtVnVHZ0pWVXlnQVAB?hl=en-US&gl=US&ceid=US:en'
+categories:
+- 'news.google.com'
+tags:
+- 'zelenskyy'
+- 'european'
+- 'politico'
+- 'leaders'
+- 'ukraine'
+
+draft: false
+---
+<ol><li><a href="https://news.google.com/rss/articles/CBMijwFBVV95cUxQOHk1QkZtQUt4a21mOEtCRW1uanhPRFhDblN5aVdTZ3h6dUVwUXhxZk0xUU5GMXkyRHVJOGJzbGZzaXdndlBBUWtKd3poVUoxMENremVyeUdWQnZkN0hRN1NRTDNOWW9mQ0NBbFJGQ0xZbFJTNmtWdXU4QWRxcXJoNDQwTzVLVjRQd1hySHZqaw?oc=5" target="_blank">European leaders to huddle as Zelenskyy pushes his peace plan for Ukraine</a>&nbsp;&nbsp;<font color="#6f6f6f">Politico</font></li><li><a href="https://news.google.com/rss/articles/CBMisgFBVV95cUxNUWZRZjNIckNYQ3FnemU5ODJQUDBaZXctdE1kbHRkc3RhbUszSWlzeERYcmZYMmtrM0FuNHljZk1FNTJtcWZrSmx4ekc2bmlwSkhGemREZzBWb2U1U0oyVTNhWkxRZ2QxUTRQSUc3d2JtbEtnZXpQRzlZNlVVSnpxOFUyZk55Ym9iZ0VIU29Zb3d2TS11cDlzNjVsMXY3bTU5WjdPU2xid2ZYLVd4NG9XNTFn?oc=5" target="_blank">US, Allies Discuss Stronger Security Guarantees for Ukraine</a>&nbsp;&nbsp;<font color="#6f6f6f">Bloomberg.com</font></li><li><a href="https://news.google.com/rss/articles/CBMiZEFVX3lxTE5TeGU2MUx0d2tQVkNXVGw3UFllUmhHcXIxdXotRzRXb09Gd05aTHhERVg4dHNOX3llMjJKVlVoeE1CeXB4WGtSRHo5UkM2NHprdTB3ZGdzb3BXaE1Ra0NyUjRGMDHSAXBBVV95cUxOdVBETXp2dEJ6bk9XazJyR3pHa041Snh4NE5VNkRNVkdsNjdzeDVTaEVWaERZTV9nMXlva3MzalFUTnlLVmZ6SEVyazdDek9LVVBjYkxDWXA0WGszQ1JkRVYwWWR2WXRIa1RsektPUVgw?oc=5" target="_blank">Zelenskyy announces Coalition of the Willing meeting: planned for 6 January</a>&nbsp;&nbsp;<font color="#6f6f6f">Українська правда</font></li><li><a href="https://news.google.com/rss/articles/CBMiwgFBVV95cUxQVDdQajNQNGx2dEU3Mm9NTTRHT3FNbkNDOUttUW1aQlVnWGJHSEFXRFZhc1YxUXZKN1dTcktudGMtNV9lT0plbThEN3dsTkpyWWFnUHBCYk1tUjhLeW5yd0c2OURxTzgtbVFaRTZJc1JGc2pETFJGMGotbjJEM0luS1ZrNHhFRWg5ODRqZGdxOWE5a3Yxc3BQTEY3bUNwSjdfYUtIM0dxZG9qMm5ZN1BsdjJHUk5EN1l0NW16VGF2OGRSQQ?oc=5" target="_blank">US held talks with Ukraine, European countries on next steps in ending Ukraine war, Witkoff says</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font></li><li><a href="https://news.google.com/rss/articles/CBMiuAFBVV95cUxPVkJFc2F2RHdBQV9ySGM4T1ZxdVczdmpWMjN6ZTlySXFqaEY2d2lGOFFtd2ZQd2Q3WFh1akh3TmNjckNKTmdpVmtJZkR3ekVFTngtTHJXS3NwVnpkTEtrNFNrX1RyTHpGbjVWNzVGalJVWmNDVW0zb0RDVGVvMmM5bHB4S0szNTB6bzNhWDh2X296SHBNZk12RUxQa3czbGlnQ193c2pzV1ItMFJiY2VoQUQxVEZRWGxq0gG-AUFVX3lxTFAzMEY4X1ZMZ1Q0QUQ3WkJtSVQ2cXcwc0tRWE1FZmFLdXlBMi1ya0RvQnhBbmE2RVFEa0ZMUWhfdEEwWXNDdTFXa20ybldRRDdGM0ZxTXNPdUNoQ2N5a1hQbWV6dVFrX1kyUXhtSHlRUG9OTjZUQmhFckZ6OW9jSWwzMnpCS3pHa0Fta0Itc2lVQ0k2U0RsY0l4TEtNc1dyMzRpaTNmSGJYSy11WDFva1FGZDhXV0dSYmxuVWxRUUE?oc=5" target="_blank">Umerov, European and American partners plan meetings in January</a>&nbsp;&nbsp;<font color="#6f6f6f">Ukrinform</font></li></ol>
