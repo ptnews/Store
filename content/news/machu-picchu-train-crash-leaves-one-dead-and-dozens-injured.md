@@ -1,6 +1,6 @@
 ---
 title: "Machu Picchu train crash leaves one dead and dozens injured"
-date: 2025-12-31
+date: 2026-01-01
 description: "A train driver died and at least 40 people were injured in the crash on the single-track line to Machu Picchu."
 summary: "A train driver died and at least 40 people were injured in the crash on the single-track line to Machu Picchu."
 slug: "machu-picchu-train-crash-leaves-one-dead-and-dozens-injured"

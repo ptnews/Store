@@ -1,6 +1,6 @@
 ---
 title: "Canada’s ‘man of steel’ calls for US-style protectionism - Financial Times"
-date: 2025-12-31
+date: 2026-01-01
 description: "Canada’s ‘man of steel’ calls for US-style protectionism&nbsp;&nbsp;Financial Times"
 summary: "Canada’s ‘man of steel’ calls for US-style protectionism&nbsp;&nbsp;Financial Times"
 slug: "canada-s-man-of-steel-calls-for-us-style-protectionism-financial-times"

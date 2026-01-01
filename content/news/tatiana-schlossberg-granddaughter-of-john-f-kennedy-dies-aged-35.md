@@ -1,6 +1,6 @@
 ---
 title: "Tatiana Schlossberg, granddaughter of John F Kennedy, dies aged 35 "
-date: 2025-12-31
+date: 2026-01-01
 description: "She shared her cancer diagnosis in an essay last month, writing that she had less than a year to live. "
 summary: "She shared her cancer diagnosis in an essay last month, writing that she had less than a year to live. "
 slug: "tatiana-schlossberg-granddaughter-of-john-f-kennedy-dies-aged-35"

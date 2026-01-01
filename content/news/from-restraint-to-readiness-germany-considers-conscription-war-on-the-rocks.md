@@ -1,6 +1,6 @@
 ---
 title: "From Restraint to Readiness? Germany Considers Conscription - War on the Rocks"
-date: 2025-12-31
+date: 2026-01-01
 description: "From Restraint to Readiness? Germany Considers Conscription&nbsp;&nbsp;War on the Rocks‘Times have changed’: Germany’s military seeks recruits as it confronts new era&nbsp;&nbsp;The GuardianGerman 18-year-olds asked: Are you ready for war?&nbsp;&nbsp;The TelegraphAs Germany eyes return to conscription, a generation watches with worry&nbsp;&nbsp;The Globe and MailGermany's Zeitenwende: From Scholz's Declaration to Merz's Military Service Reform – Evolution and Constraints in European Secu..."
 summary: "From Restraint to Readiness? Germany Considers Conscription&nbsp;&nbsp;War on the Rocks‘Times have changed’: Germany’s military seeks recruits as it confronts new era&nbsp;&nbsp;The GuardianGerman 18-year-olds asked: Are you ready for war?&nbsp;&nbsp;The TelegraphAs Germany eyes return to conscription, a generation watches with worry&nbsp;&nbsp;The Globe and MailGermany's Zeitenwende: From Scholz's Declaration to Merz's Military Service Reform – Evolution and Constraints in European Secu..."
 slug: "from-restraint-to-readiness-germany-considers-conscription-war-on-the-rocks"

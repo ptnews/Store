@@ -1,6 +1,6 @@
 ---
 title: "It’s easy to feel powerless about climate chaos. Here’s what gives me hope | Nina Lakhani - The Guardian"
-date: 2025-12-31
+date: 2026-01-01
 description: "It’s easy to feel powerless about climate chaos. Here’s what gives me hope | Nina Lakhani&nbsp;&nbsp;The Guardian"
 summary: "It’s easy to feel powerless about climate chaos. Here’s what gives me hope | Nina Lakhani&nbsp;&nbsp;The Guardian"
 slug: "it-s-easy-to-feel-powerless-about-climate-chaos-here-s-what-gives-me-hope-nina-lakhani-the-guardian"

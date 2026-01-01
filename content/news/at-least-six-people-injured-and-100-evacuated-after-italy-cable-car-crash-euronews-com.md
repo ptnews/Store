@@ -1,0 +1,21 @@
+---
+title: "At least six people injured and 100 evacuated after Italy cable car crash - Euronews.com"
+date: 2026-01-01
+description: "At least six people injured and 100 evacuated after Italy cable car crash&nbsp;&nbsp;Euronews.comItaly cable car accident leaves 4 hurt, 100 stranded on mountaintop for hours&nbsp;&nbsp;CBS NewsCable car crash leaves tourists stranded 2,800 meters in the air&nbsp;&nbsp;The IndependentThe three Romanians trapped in the cable car in Italy evacuated&nbsp;&nbsp;The Romania JournalRescue Operation Completed After High-Altitude Cable Car Crash&nbsp;&nbsp;Yahoo News Canada"
+summary: "At least six people injured and 100 evacuated after Italy cable car crash&nbsp;&nbsp;Euronews.comItaly cable car accident leaves 4 hurt, 100 stranded on mountaintop for hours&nbsp;&nbsp;CBS NewsCable car crash leaves tourists stranded 2,800 meters in the air&nbsp;&nbsp;The IndependentThe three Romanians trapped in the cable car in Italy evacuated&nbsp;&nbsp;The Romania JournalRescue Operation Completed After High-Altitude Cable Car Crash&nbsp;&nbsp;Yahoo News Canada"
+slug: "at-least-six-people-injured-and-100-evacuated-after-italy-cable-car-crash-euronews-com"
+image: ''
+link: 'https://news.google.com/rss/articles/CBMirgFBVV95cUxNQ0VXdmZyMVpPYXBtTWV1WnBqQ1dTRE0yM2ZDT25tcG94UjJ6MjhuTUVXdHdWVUh3azBBampIb0cyODZHcDVwdDZDNEpZMHRDMUg4WldGRWJaVldjWVRlamktUEVRTjZhWlhpbUg2ODRoanhMOHlHd1kwWVliTVpLTFU3blAzZm42RndhSHVTaHNlTDV3eENnMzhlUVJpNmJwd0dnUTB1RXdiY2lvTmc?oc=5'
+source: 'https://news.google.com/rss/topics/CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx1YlY4U0FtVnVHZ0pWVXlnQVAB?hl=en-US&gl=US&ceid=US:en'
+categories:
+- 'news.google.com'
+tags:
+- 'evacuated'
+- 'euronews'
+- 'injured'
+- 'people'
+- 'least'
+
+draft: false
+---
+<ol><li><a href="https://news.google.com/rss/articles/CBMirgFBVV95cUxNQ0VXdmZyMVpPYXBtTWV1WnBqQ1dTRE0yM2ZDT25tcG94UjJ6MjhuTUVXdHdWVUh3azBBampIb0cyODZHcDVwdDZDNEpZMHRDMUg4WldGRWJaVldjWVRlamktUEVRTjZhWlhpbUg2ODRoanhMOHlHd1kwWVliTVpLTFU3blAzZm42RndhSHVTaHNlTDV3eENnMzhlUVJpNmJwd0dnUTB1RXdiY2lvTmc?oc=5" target="_blank">At least six people injured and 100 evacuated after Italy cable car crash</a>&nbsp;&nbsp;<font color="#6f6f6f">Euronews.com</font></li><li><a href="https://news.google.com/rss/articles/CBMihgFBVV95cUxQczVBVkVuNTNXaHhsa3VaUEJTZUE1TXpfOGpBZVM5UWpzM3N5eXRHY2hIVkZ3bEN3T1NNUHJRRXBWc3VXZ3pOaWduSF9kNEd1ZGlTYkpDdjh6QV9wYlJ3cF9DemJlMkhwNWRKTThRckF3Z0NxTVkwa1MzUzN2S2d1Z2RUc20yZ9IBiwFBVV95cUxPVDF0YWkySThJWk10SGJORkRoSENLamU1Zy1rNDNNN2txOHJOYlQzY01zNW1oOUZDeGlaWTlEQlVRVjl6X0YwY1gtZjVhNDBHU0NlUUpvY05qMzhBRUJaV2pfMV9faTEtdkt3ZVY1bTlrUVJxRUxMSGZzWDJZM3I0YldPLTlTdDh4Rmdj?oc=5" target="_blank">Italy cable car accident leaves 4 hurt, 100 stranded on mountaintop for hours</a>&nbsp;&nbsp;<font color="#6f6f6f">CBS News</font></li><li><a href="https://news.google.com/rss/articles/CBMirAFBVV95cUxPdHpiNl95cGRydTJuUlcwMUZid3lwRmd3Z1VsOHJXeWdsR1JrOEVWSGFKOXpFTjN3ZGQ2NzJnU1R1a3Brc1dYX0hTUVVpbTFQb1N2SjAydkg2UG03N0tFN2duWTBrZnNacVFkcmwwb195bXY4VjVISUNpQ2FrTUg2RFcxcHJqczRYdlRuS3dPYWVYWjY0aVotdEEzNXhTdDdVa1pRVGxldXFidy0y?oc=5" target="_blank">Cable car crash leaves tourists stranded 2,800 meters in the air</a>&nbsp;&nbsp;<font color="#6f6f6f">The Independent</font></li><li><a href="https://news.google.com/rss/articles/CBMirgFBVV95cUxPeWhzUklQN080QjdYUV9VblZMUjhGTmlYTGI0ME1tNVdIZGx5U2RmRFhNMXV1YXkyTGJhaURaVFdkbDdrWThlTHRoUmJNVGsydnJlVzBiWksxeXRjenlzSWxSQW14UTVlTTlyVEVxbVVOZnZuVDA3YzZYN2tzeGRsR25ONWQ4c0EwcjZZT2VJcGhDR1cyc0RYaEpGMnhvUzZWUnFYdjA0TXBSSXE5aEHSAbMBQVVfeXFMT0ZXeVJfNFRyRmNHVG54OU1EbGdnekxrbmVFZlJiSjJKUDYzZHV4cVRVbzlRWVVZOW1iVUZ1cFZPQzNCQ2w0T2lDcE1XNEJPSndUaV9JZ0Y2NlhSSmFMRTVDY2VJc0RzZ1JieS1sZlJBTzZ3OFFfZFhwVVcxOTZXY1VmdHU3T04xNGl4VWUwZVBWM3NUd2VpbzJJaXZUclRSSnduVmQ3YmJNWGp3UU1vN3hUMlk?oc=5" target="_blank">The three Romanians trapped in the cable car in Italy evacuated</a>&nbsp;&nbsp;<font color="#6f6f6f">The Romania Journal</font></li><li><a href="https://news.google.com/rss/articles/CBMiiAFBVV95cUxPZlJFZTJEb3FPQmFJcGQwYmxISFB4MVU0NUxzWGNSbFQ1TVI4OUZSNWQ5OG9aWExWOU9iZFJ6c3ZwRDBvMks4UG0wblRZRk15eUl3ajFWMEFTSzVhZ0pNQmYzNktIcDQ1VlVJY1Q3UzE5NmFNdXdpSkI2Q2pMTkIzX3RPdGFUQ082?oc=5" target="_blank">Rescue Operation Completed After High-Altitude Cable Car Crash</a>&nbsp;&nbsp;<font color="#6f6f6f">Yahoo News Canada</font></li></ol>

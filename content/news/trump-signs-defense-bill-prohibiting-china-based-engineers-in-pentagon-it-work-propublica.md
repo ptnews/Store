@@ -1,6 +1,6 @@
 ---
 title: "Trump Signs Defense Bill Prohibiting China-Based Engineers in Pentagon IT Work - ProPublica"
-date: 2025-12-31
+date: 2026-01-01
 description: "Trump Signs Defense Bill Prohibiting China-Based Engineers in Pentagon IT Work&nbsp;&nbsp;ProPublica"
 summary: "Trump Signs Defense Bill Prohibiting China-Based Engineers in Pentagon IT Work&nbsp;&nbsp;ProPublica"
 slug: "trump-signs-defense-bill-prohibiting-china-based-engineers-in-pentagon-it-work-propublica"

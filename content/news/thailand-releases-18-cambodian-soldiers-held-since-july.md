@@ -1,6 +1,6 @@
 ---
 title: "Thailand releases 18 Cambodian soldiers held since July"
-date: 2025-12-31
+date: 2026-01-01
 description: "The release is part of a new ceasefire deal after weeks of deadly clashes along the Thai-Cambodia border."
 summary: "The release is part of a new ceasefire deal after weeks of deadly clashes along the Thai-Cambodia border."
 slug: "thailand-releases-18-cambodian-soldiers-held-since-july"

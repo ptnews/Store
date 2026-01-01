@@ -1,0 +1,21 @@
+---
+title: "Philip Rivers calls it a career again after 'three-game blur' with Colts"
+date: 2025-12-31
+description: "NFL star quarterback Philip Rivers said he was finished playing in the NFL after a &quot;three-week&quot; blur with the Indianapolis Colts. Rivers is going back to his high school team."
+summary: "NFL star quarterback Philip Rivers said he was finished playing in the NFL after a &quot;three-week&quot; blur with the Indianapolis Colts. Rivers is going back to his high school team."
+slug: "philip-rivers-calls-it-a-career-again-after-three-game-blur-with-colts"
+image: ''
+link: 'https://www.foxnews.com/sports/philip-rivers-calls-career-again-after-three-game-blur-colts'
+source: 'https://feeds.foxnews.com/foxnews/latest'
+categories:
+- 'feeds.foxnews.com'
+tags:
+- 'philip'
+- 'rivers'
+- 'career'
+- 'calls'
+- 'again'
+
+draft: false
+---
+<p><a href="https://www.foxnews.com/category/person/philip-rivers" target="_blank" rel="noopener">Philip Rivers</a> announced his retirement from the NFL Wednesday after coming off the sideline from coaching high school football to play for the Indianapolis Colts.</p><p>Rivers appeared on <a href="https://x.com/UpAndAdamsShow/status/2006520946430194076" target="_blank" rel="nofollow noopener">"Up &amp; Adams"</a> before the end of the year and said he was really finished this time and was going to turn his focus to the team he coaches.</p><p>"I am (done)," Rivers said. "I got a son who will be a senior, and I got that <a href="https://www.foxnews.com/category/us/education/high-school" target="_blank" rel="noopener">St. Michael football team</a> ready to go. We got beat in the semifinals two years in a row," Rivers said. "So, it’ll be his senior year. My second son will be a ninth grader. They’ll be on the same team together.</p><p><a href="https://www.foxnews.com/sports" target="_blank" rel="noopener"><strong>CLICK HERE FOR MORE SPORTS COVERAGE ON FOXNEWS.COM</strong></a></p><p>"So, it’ll be fun to get back with the boys back home. The school has been really excited. A lot of them came to the game last week. It’ll be fun. It’ll kick-start our offseason program, to say the least. Maybe the things I say to them they’ll take it a little more seriously now that I was just out there playing."</p><p>Rivers said he knew he was finished in 2020 and that coming back this season to replace <a href="https://www.foxnews.com/category/person/daniel-jones" target="_blank" rel="noopener">Daniel Jones</a>, who tore an Achilles, was just perfect timing.</p><p>He said if any other team would have called, there would have been no chance of him doing what he did.</p><p><a href="https://www.foxnews.com/sports/colts-philip-rivers-hopes-emotional-nfl-return-provides-inspiration" target="_blank" rel="noopener"><strong>COLTS' PHILIP RIVERS HOPES EMOTIONAL NFL RETURN PROVIDES INSPIRATION</strong></a></p><p>"Everything just lined up," he said. "It was a place I’d been, a team I was familiar with the offense was exactly the same. The coach I knew. It was all those things that made it kinda the perfect storm.</p><p>"I’m back to the sideline. This was a fun three-week blur that nobody saw coming, including myself, and that will be it."</p><p>The Colts will <a href="https://www.foxnews.com/sports/colts-reportedly-bench-44-year-old-philip-rivers-after-0-3-start-veteran-qb-says-he-has-no-regrets" target="_blank" rel="noopener">go with Riley Leonard</a> for the final game of the season.</p><p>Rivers, 44, was a Pro Football Hall of Fame semifinalist before he decided to turn his retirement clock back.to join the Colts. Indianapolis couldn’t pick up a win with Rivers under center.</p><p>He had 544 passing yards, four touchdown passes and three interceptions in those three starts.</p><p>Rivers will walk away with 63,984 passing yards, 425 passing touchdowns and one incredible story to tell.</p><p><i><strong>Follow Fox News Digital’s </strong></i><a href="https://twitter.com/FoxNewsSports_" target="_blank" rel="noopener"><i><strong><u>sports coverage on X</u></strong></i></a><i><strong> and subscribe to </strong></i><a href="https://www.foxnews.com/newsletters" target="_blank" rel="noopener"><i><strong><u>the Fox News Sports Huddle newsletter</u></strong></i></a><i><strong>.</strong></i></p>

@@ -1,6 +1,6 @@
 ---
 title: "Train crash near Peru’s Machu Picchu kills driver, injures dozens - Al Jazeera"
-date: 2025-12-31
+date: 2026-01-01
 description: "Train crash near Peru’s Machu Picchu kills driver, injures dozens&nbsp;&nbsp;Al JazeeraPassenger describes 'chaos' after head-on Machu Picchu train collision&nbsp;&nbsp;BBCTrains crash while carrying tourists to Peru’s Machu Picchu, killing 1 person and injuring dozens&nbsp;&nbsp;CNNUS citizens injured in Peru train collision near world-famous Machu Picchu tourist destination&nbsp;&nbsp;Fox NewsFatal Machu Picchu Train Wreck Involves Units of LVMH, Carlyle&nbsp;&nbsp;Bloomberg.com"
 summary: "Train crash near Peru’s Machu Picchu kills driver, injures dozens&nbsp;&nbsp;Al JazeeraPassenger describes 'chaos' after head-on Machu Picchu train collision&nbsp;&nbsp;BBCTrains crash while carrying tourists to Peru’s Machu Picchu, killing 1 person and injuring dozens&nbsp;&nbsp;CNNUS citizens injured in Peru train collision near world-famous Machu Picchu tourist destination&nbsp;&nbsp;Fox NewsFatal Machu Picchu Train Wreck Involves Units of LVMH, Carlyle&nbsp;&nbsp;Bloomberg.com"
 slug: "train-crash-near-peru-s-machu-picchu-kills-driver-injures-dozens-al-jazeera"

@@ -1,6 +1,6 @@
 ---
 title: "Russia-Ukraine war: List of key events, day 1,406 - Al Jazeera"
-date: 2025-12-31
+date: 2026-01-01
 description: "Russia-Ukraine war: List of key events, day 1,406&nbsp;&nbsp;Al JazeeraMandatory evacuation announced in border villages of Chernihiv Oblast&nbsp;&nbsp;Українська правдаMandatory evacuation announced in more than 40 settlements in Dnipropetrovsk Oblast&nbsp;&nbsp;The New Voice of UkraineUkraine orders evacuation of northern border villages amid Russian shelling&nbsp;&nbsp;news.cgtn.comIn the Dnipro region, the zone of mandatory civilian evacuation has been significantly expanded&..."
 summary: "Russia-Ukraine war: List of key events, day 1,406&nbsp;&nbsp;Al JazeeraMandatory evacuation announced in border villages of Chernihiv Oblast&nbsp;&nbsp;Українська правдаMandatory evacuation announced in more than 40 settlements in Dnipropetrovsk Oblast&nbsp;&nbsp;The New Voice of UkraineUkraine orders evacuation of northern border villages amid Russian shelling&nbsp;&nbsp;news.cgtn.comIn the Dnipro region, the zone of mandatory civilian evacuation has been significantly expanded&..."
 slug: "russia-ukraine-war-list-of-key-events-day-1-406-al-jazeera"

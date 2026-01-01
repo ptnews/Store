@@ -1,6 +1,6 @@
 ---
 title: "When 21 men saw in the new year by dining in a dinosaur - BBC"
-date: 2025-12-31
+date: 2026-01-01
 description: "When 21 men saw in the new year by dining in a dinosaur&nbsp;&nbsp;BBC"
 summary: "When 21 men saw in the new year by dining in a dinosaur&nbsp;&nbsp;BBC"
 slug: "when-21-men-saw-in-the-new-year-by-dining-in-a-dinosaur-bbc"

@@ -1,6 +1,6 @@
 ---
 title: "Iran protesters try to break into government building as unrest continues"
-date: 2025-12-31
+date: 2026-01-01
 description: "Video verified by the BBC shows a crowd breaking the gate of the governor's office in Fasa."
 summary: "Video verified by the BBC shows a crowd breaking the gate of the governor's office in Fasa."
 slug: "iran-protesters-try-to-break-into-government-building-as-unrest-continues"

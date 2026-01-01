@@ -1,6 +1,6 @@
 ---
 title: "Fire engine donated to Ukraine city by Kent aid group - BBC"
-date: 2025-12-31
+date: 2026-01-01
 description: "Fire engine donated to Ukraine city by Kent aid group&nbsp;&nbsp;BBC"
 summary: "Fire engine donated to Ukraine city by Kent aid group&nbsp;&nbsp;BBC"
 slug: "fire-engine-donated-to-ukraine-city-by-kent-aid-group-bbc"

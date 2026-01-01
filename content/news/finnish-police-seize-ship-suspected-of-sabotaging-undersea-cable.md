@@ -1,6 +1,6 @@
 ---
 title: "Finnish police seize ship suspected of sabotaging undersea cable"
-date: 2025-12-31
+date: 2026-01-01
 description: "Police arrested 14 crew members on the ship sailing from St Petersburg, Russia, to the Israeli port of Haifa."
 summary: "Police arrested 14 crew members on the ship sailing from St Petersburg, Russia, to the Israeli port of Haifa."
 slug: "finnish-police-seize-ship-suspected-of-sabotaging-undersea-cable"

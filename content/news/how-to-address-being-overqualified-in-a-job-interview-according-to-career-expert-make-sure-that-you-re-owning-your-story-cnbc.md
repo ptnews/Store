@@ -1,6 +1,6 @@
 ---
 title: "How to address being 'overqualified' in a job interview, according to career expert: 'Make sure that you're owning your story' - CNBC"
-date: 2025-12-31
+date: 2026-01-01
 description: "How to address being 'overqualified' in a job interview, according to career expert: 'Make sure that you're owning your story'&nbsp;&nbsp;CNBCIs experience a burden now? Why jobs reject you as overqualified or underqualified&nbsp;&nbsp;India TodayThis hiring rejection email goes viral, sparks sharp reactions online. Here's why&nbsp;&nbsp;The Economic TimesYou're overqualified but also underqualified: Job candidate faces bizarre rejection, ends up asking, 'What&nbsp;&nbsp;The Economic Times"
 summary: "How to address being 'overqualified' in a job interview, according to career expert: 'Make sure that you're owning your story'&nbsp;&nbsp;CNBCIs experience a burden now? Why jobs reject you as overqualified or underqualified&nbsp;&nbsp;India TodayThis hiring rejection email goes viral, sparks sharp reactions online. Here's why&nbsp;&nbsp;The Economic TimesYou're overqualified but also underqualified: Job candidate faces bizarre rejection, ends up asking, 'What&nbsp;&nbsp;The Economic Times"
 slug: "how-to-address-being-overqualified-in-a-job-interview-according-to-career-expert-make-sure-that-you-re-owning-your-story-cnbc"

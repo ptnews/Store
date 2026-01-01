@@ -1,6 +1,6 @@
 ---
 title: "41 young men die in South Africa from circumcision procedures during initiation ceremonies - ABC News"
-date: 2025-12-31
+date: 2026-01-01
 description: "41 young men die in South Africa from circumcision procedures during initiation ceremonies&nbsp;&nbsp;ABC NewsView Full Coverage on Google News"
 summary: "41 young men die in South Africa from circumcision procedures during initiation ceremonies&nbsp;&nbsp;ABC NewsView Full Coverage on Google News"
 slug: "41-young-men-die-in-south-africa-from-circumcision-procedures-during-initiation-ceremonies-abc-news"

@@ -1,0 +1,21 @@
+---
+title: "France reportedly planning to ban children under 15 from social media starting 2026"
+date: 2025-12-31
+description: "France planning social media ban for children under 15, following Australia&apos;s lead. Macron pushes new digital restrictions amid youth violence concerns."
+summary: "France planning social media ban for children under 15, following Australia&apos;s lead. Macron pushes new digital restrictions amid youth violence concerns."
+slug: "france-reportedly-planning-to-ban-children-under-15-from-social-media-starting-2026"
+image: ''
+link: 'https://www.foxnews.com/world/france-reportedly-targeting-kids-under-15-sweeping-social-media-ban-cellphone-restrictions-next-year'
+source: 'https://feeds.foxnews.com/foxnews/world'
+categories:
+- 'feeds.foxnews.com'
+tags:
+- 'reportedly'
+- 'planning'
+- 'children'
+- 'starting'
+- 'france'
+
+draft: false
+---
+<p>France is planning to ban children under 15 from social media and to restrict cellphone use in high schools starting next year, local media <a href="https://www.lemonde.fr/en/france/article/2025/12/31/france-seeks-to-ban-social-media-for-children-under-15_6748972_7.html" target="_blank" rel="nofollow noopener">Le Monde</a> reported on Tuesday.</p><p>The proposal aims to curb excessive screen time and shield minors from online risks such as inappropriate content. President <a href="https://www.foxnews.com/category/person/emmanuel-macron" target="_blank" rel="noopener">Emmanuel Macron</a> has repeatedly cited social media as a contributing factor to violence among young people.  </p><p>"Many studies and reports now confirm the various risks caused by excessive use of digital screens by adolescents," a draft law stated, according to Le Monde.</p><p>The document added that children with unrestrained access online have been exposed to "inappropriate content" and could suffer from cyber-harassment or experience changes to their sleep patterns, according to the outlet.</p><p><a href="https://www.foxnews.com/politics/after-australia-passes-social-media-ban-lawmakers-probed-why-congress-hasnt-done-more-protect-kids" target="_blank" rel="noopener"><strong>AFTER AUSTRALIA PASSES SOCIAL MEDIA BAN, LAWMAKERS PROBED ON WHY CONGRESS HASN'T DONE MORE TO PROTECT KIDS</strong></a></p><p>The proposal follows Australia’s lead after the country introduced a world-first ban on social media for children under 16 years old in December, restricting access to platforms such as Facebook, TikTok and YouTube.</p><p>Macron is aiming for Parliament to debate the proposal in January, with a potential start date of September next year, according to the local outlet.</p><p>In June, Macron said he wanted to push for similar regulations across the European Union (EU), following a fatal school stabbing in <a href="https://www.foxnews.com/category/world/world-regions/france" target="_blank" rel="noopener">eastern France</a> that shocked the nation in April, Reuters reported.</p><p><a href="https://www.foxnews.com/media/texas-family-sues-character-ai-after-chatbot-allegedly-encouraged-teen-harm-parents-himself" target="_blank" rel="noopener"><strong><u>TEXAS FAMILY SUES CHARACTER.AI AFTER CHATBOT ALLEGEDLY ENCOURAGED AUTISTIC SON TO HARM PARENTS AND HIMSELF</u></strong></a></p><p>Macron has previously taken numerous steps to protect minors digitally. However, technical challenges, including <a href="https://www.foxnews.com/category/topic/the-european-union" target="_blank" rel="noopener">EU legal constraints</a> and weak enforcement, have limited the effectiveness of such measures. </p><p>Cellphones have already been banned in French elementary and middle schools since 2018, according to Le Monde.</p><p>In 2023, France reportedly attempted to pass a law calling for a "digital legal age," which required parental consent for social media users under 15 years old. The law, however, was blocked by EU regulations.</p><p>In November, the European Parliament urged the EU to <a href="https://www.foxnews.com/category/politics/regulation" target="_blank" rel="noopener">set minimum social media ages</a> to tackle adolescent mental health issues, though final decisions rest with its member states, Reuters reported.</p>

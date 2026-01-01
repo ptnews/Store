@@ -1,6 +1,6 @@
 ---
 title: "Eurostar services return to normal after major Channel Tunnel disruption"
-date: 2025-12-31
+date: 2026-01-01
 description: "The high-speed rail firm urged passengers to check before they travel as last-minute delays and cancellations are still possible."
 summary: "The high-speed rail firm urged passengers to check before they travel as last-minute delays and cancellations are still possible."
 slug: "eurostar-services-return-to-normal-after-major-channel-tunnel-disruption"

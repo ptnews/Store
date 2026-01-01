@@ -1,6 +1,6 @@
 ---
 title: "During a fierce storm I could hear the panicked screams of children in tents outside. This is Christmas in Gaza - The Guardian"
-date: 2025-12-31
+date: 2026-01-01
 description: "During a fierce storm I could hear the panicked screams of children in tents outside. This is Christmas in Gaza&nbsp;&nbsp;The GuardianWinter floods wreak havoc on Gaza displacement camps as Israel blocks aid&nbsp;&nbsp;Al JazeeraGaza humanitarian deterioration of serious concern, say UK, Canada, France and others&nbsp;&nbsp;ReutersIsrael defends Gaza efforts, dismisses UK-led criticism&nbsp;&nbsp;The Jerusalem PostAnother child dies in extreme conditions in Gaza: UNICEF&nbsp;&nbsp;UN News"
 summary: "During a fierce storm I could hear the panicked screams of children in tents outside. This is Christmas in Gaza&nbsp;&nbsp;The GuardianWinter floods wreak havoc on Gaza displacement camps as Israel blocks aid&nbsp;&nbsp;Al JazeeraGaza humanitarian deterioration of serious concern, say UK, Canada, France and others&nbsp;&nbsp;ReutersIsrael defends Gaza efforts, dismisses UK-led criticism&nbsp;&nbsp;The Jerusalem PostAnother child dies in extreme conditions in Gaza: UNICEF&nbsp;&nbsp;UN News"
 slug: "during-a-fierce-storm-i-could-hear-the-panicked-screams-of-children-in-tents-outside-this-is-christmas-in-gaza-the-guardian"

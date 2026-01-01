@@ -1,6 +1,6 @@
 ---
 title: "Phone Searches at U.S. Borders: What Travelers Need to Know - The New York Times"
-date: 2025-12-31
+date: 2026-01-01
 description: "Phone Searches at U.S. Borders: What Travelers Need to Know&nbsp;&nbsp;The New York TimesBorder agents can search your devices. Is a burner phone worth it?&nbsp;&nbsp;USA TodayCan border control use Face ID to unlock my phone?&nbsp;&nbsp;Yahoo News CanadaWhat travelers need to know about phone searches at the U.S. border&nbsp;&nbsp;Boing BoingUS Border Phone Searches Spark Privacy Concerns as CBP Expands Authority to Inspect Devices Without Warrant, Raising Alarm Among Travellers and Legal Exper..."
 summary: "Phone Searches at U.S. Borders: What Travelers Need to Know&nbsp;&nbsp;The New York TimesBorder agents can search your devices. Is a burner phone worth it?&nbsp;&nbsp;USA TodayCan border control use Face ID to unlock my phone?&nbsp;&nbsp;Yahoo News CanadaWhat travelers need to know about phone searches at the U.S. border&nbsp;&nbsp;Boing BoingUS Border Phone Searches Spark Privacy Concerns as CBP Expands Authority to Inspect Devices Without Warrant, Raising Alarm Among Travellers and Legal Exper..."
 slug: "phone-searches-at-u-s-borders-what-travelers-need-to-know-the-new-york-times"

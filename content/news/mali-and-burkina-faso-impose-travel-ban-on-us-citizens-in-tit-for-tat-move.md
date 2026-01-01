@@ -1,6 +1,6 @@
 ---
 title: "Mali and Burkina Faso impose travel ban on US citizens in tit-for-tat move"
-date: 2025-12-31
+date: 2026-01-01
 description: "The two states say they are taking reciprocal measures after the US announced full-entry restrictions on their citizens. "
 summary: "The two states say they are taking reciprocal measures after the US announced full-entry restrictions on their citizens. "
 slug: "mali-and-burkina-faso-impose-travel-ban-on-us-citizens-in-tit-for-tat-move"

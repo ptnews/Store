@@ -1,6 +1,6 @@
 ---
 title: "Dozens of illegal e-bikes seized in Merton police raids - BBC"
-date: 2025-12-31
+date: 2026-01-01
 description: "Dozens of illegal e-bikes seized in Merton police raids&nbsp;&nbsp;BBCPolice make 57 arrests in huge Merton e-bike and scooter operation&nbsp;&nbsp;Wimbledon GuardianDangerous e-bikes and scooters seized in south-west London operation | News - Hits Radio (London)&nbsp;&nbsp;hellorayo.co.uk"
 summary: "Dozens of illegal e-bikes seized in Merton police raids&nbsp;&nbsp;BBCPolice make 57 arrests in huge Merton e-bike and scooter operation&nbsp;&nbsp;Wimbledon GuardianDangerous e-bikes and scooters seized in south-west London operation | News - Hits Radio (London)&nbsp;&nbsp;hellorayo.co.uk"
 slug: "dozens-of-illegal-e-bikes-seized-in-merton-police-raids-bbc"

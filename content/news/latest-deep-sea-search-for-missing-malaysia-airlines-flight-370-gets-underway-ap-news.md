@@ -1,6 +1,6 @@
 ---
 title: "Latest deep-sea search for missing Malaysia Airlines Flight 370 gets underway - AP News"
-date: 2025-12-31
+date: 2026-01-01
 description: "Latest deep-sea search for missing Malaysia Airlines Flight 370 gets underway&nbsp;&nbsp;AP NewsView Full Coverage on Google News"
 summary: "Latest deep-sea search for missing Malaysia Airlines Flight 370 gets underway&nbsp;&nbsp;AP NewsView Full Coverage on Google News"
 slug: "latest-deep-sea-search-for-missing-malaysia-airlines-flight-370-gets-underway-ap-news"

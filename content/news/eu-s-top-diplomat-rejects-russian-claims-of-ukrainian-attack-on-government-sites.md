@@ -1,6 +1,6 @@
 ---
 title: "EU's top diplomat rejects Russian claims of Ukrainian attack on government sites"
-date: 2025-12-31
+date: 2026-01-01
 description: "It comes as Russia releases video which it claims shows a downed Ukrainian drone launched at one of Putin's residences. "
 summary: "It comes as Russia releases video which it claims shows a downed Ukrainian drone launched at one of Putin's residences. "
 slug: "eu-s-top-diplomat-rejects-russian-claims-of-ukrainian-attack-on-government-sites"

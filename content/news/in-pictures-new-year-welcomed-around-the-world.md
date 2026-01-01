@@ -1,6 +1,6 @@
 ---
 title: "In pictures: New Year welcomed around the world"
-date: 2025-12-31
+date: 2026-01-01
 description: "From spectacular firework displays to chilly sea dips, nations celebrate the start of 2026."
 summary: "From spectacular firework displays to chilly sea dips, nations celebrate the start of 2026."
 slug: "in-pictures-new-year-welcomed-around-the-world"

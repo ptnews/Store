@@ -1,6 +1,6 @@
 ---
 title: "Xi Jinping hails China’s rising ‘national power’ - Financial Times"
-date: 2025-12-31
+date: 2026-01-01
 description: "Xi Jinping hails China’s rising ‘national power’&nbsp;&nbsp;Financial TimesXi Jinping vows to reunify China and Taiwan in New Year’s Eve speech&nbsp;&nbsp;The GuardianXi Touts China’s AI, Chip Wins In Triumphant New Year’s Speech&nbsp;&nbsp;Bloomberg.comChinese President Xi Jinping's 2026 New Year message_Ministry of Foreign Affairs of the People's Republic of China&nbsp;&nbsp;fmprc.gov.cnIn New Year’s speech, Xi urges growth and vows ‘unstoppable’ Taiwan reunification&nbsp;&nb..."
 summary: "Xi Jinping hails China’s rising ‘national power’&nbsp;&nbsp;Financial TimesXi Jinping vows to reunify China and Taiwan in New Year’s Eve speech&nbsp;&nbsp;The GuardianXi Touts China’s AI, Chip Wins In Triumphant New Year’s Speech&nbsp;&nbsp;Bloomberg.comChinese President Xi Jinping's 2026 New Year message_Ministry of Foreign Affairs of the People's Republic of China&nbsp;&nbsp;fmprc.gov.cnIn New Year’s speech, Xi urges growth and vows ‘unstoppable’ Taiwan reunification&nbsp;&nb..."
 slug: "xi-jinping-hails-china-s-rising-national-power-financial-times"

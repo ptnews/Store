@@ -1,6 +1,6 @@
 ---
 title: "Fireworks, drums and light shows: How the world is welcoming 2026"
-date: 2025-12-31
+date: 2026-01-01
 description: "Countries around the world celebrated the new year with colourful shows and long-held traditions."
 summary: "Countries around the world celebrated the new year with colourful shows and long-held traditions."
 slug: "fireworks-drums-and-light-shows-how-the-world-is-welcoming-2026"

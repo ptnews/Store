@@ -1,6 +1,6 @@
 ---
 title: "Europe’s generals are warning people to prepare for war - The Economist"
-date: 2025-12-31
+date: 2026-01-01
 description: "Europe’s generals are warning people to prepare for war&nbsp;&nbsp;The EconomistWould you fight for the EU's borders? Take our poll&nbsp;&nbsp;Euronews.com‘We are heading for a war Europe might lose’: Continent preparing public for possible conflict&nbsp;&nbsp;The Irish TimesEurope Must Defend Europe | Opinion&nbsp;&nbsp;NewsweekSecurity, Sovereignty, and the Question Facing a New Generation of Europeans&nbsp;&nbsp;vocal.media"
 summary: "Europe’s generals are warning people to prepare for war&nbsp;&nbsp;The EconomistWould you fight for the EU's borders? Take our poll&nbsp;&nbsp;Euronews.com‘We are heading for a war Europe might lose’: Continent preparing public for possible conflict&nbsp;&nbsp;The Irish TimesEurope Must Defend Europe | Opinion&nbsp;&nbsp;NewsweekSecurity, Sovereignty, and the Question Facing a New Generation of Europeans&nbsp;&nbsp;vocal.media"
 slug: "europe-s-generals-are-warning-people-to-prepare-for-war-the-economist"

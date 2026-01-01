@@ -1,6 +1,6 @@
 ---
 title: "Brigitte Bardot: From French cinema to international fame"
-date: 2025-12-31
+date: 2026-01-01
 description: "The French model and actress has died at the age of 91."
 summary: "The French model and actress has died at the age of 91."
 slug: "brigitte-bardot-from-french-cinema-to-international-fame"

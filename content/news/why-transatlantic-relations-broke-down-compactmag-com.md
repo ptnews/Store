@@ -1,6 +1,6 @@
 ---
 title: "Why Transatlantic Relations Broke Down - compactmag.com"
-date: 2025-12-31
+date: 2026-01-01
 description: "Why Transatlantic Relations Broke Down&nbsp;&nbsp;compactmag.comWhy America still needs Europe&nbsp;&nbsp;The EconomistTrump’s Broadside at Europe Also Swipes at a U.S. Legacy&nbsp;&nbsp;The Wall Street JournalEurope’s 5 stages of grief&nbsp;&nbsp;politico.euEurope’s imperial awakening&nbsp;&nbsp;Engelsberg Ideas"
 summary: "Why Transatlantic Relations Broke Down&nbsp;&nbsp;compactmag.comWhy America still needs Europe&nbsp;&nbsp;The EconomistTrump’s Broadside at Europe Also Swipes at a U.S. Legacy&nbsp;&nbsp;The Wall Street JournalEurope’s 5 stages of grief&nbsp;&nbsp;politico.euEurope’s imperial awakening&nbsp;&nbsp;Engelsberg Ideas"
 slug: "why-transatlantic-relations-broke-down-compactmag-com"

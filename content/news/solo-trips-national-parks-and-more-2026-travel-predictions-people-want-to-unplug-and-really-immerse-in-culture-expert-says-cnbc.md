@@ -1,6 +1,6 @@
 ---
 title: "Solo trips, national parks, and more 2026 travel predictions: People want to 'unplug and really immerse in culture,' expert says - CNBC"
-date: 2025-12-31
+date: 2026-01-01
 description: "Solo trips, national parks, and more 2026 travel predictions: People want to 'unplug and really immerse in culture,' expert says&nbsp;&nbsp;CNBCWhere to travel in 2026: The best places to visit&nbsp;&nbsp;CNNWhere to go in 2026: Advice from travel writer Christopher Muther&nbsp;&nbsp;The Boston Globe6 Of The Biggest Travel Trends Of 2026—And The Best Places To Try Them In The South&nbsp;&nbsp;Southern Living20 travel adventures to book in 2026&nbsp;&nbsp;National Geographic"
 summary: "Solo trips, national parks, and more 2026 travel predictions: People want to 'unplug and really immerse in culture,' expert says&nbsp;&nbsp;CNBCWhere to travel in 2026: The best places to visit&nbsp;&nbsp;CNNWhere to go in 2026: Advice from travel writer Christopher Muther&nbsp;&nbsp;The Boston Globe6 Of The Biggest Travel Trends Of 2026—And The Best Places To Try Them In The South&nbsp;&nbsp;Southern Living20 travel adventures to book in 2026&nbsp;&nbsp;National Geographic"
 slug: "solo-trips-national-parks-and-more-2026-travel-predictions-people-want-to-unplug-and-really-immerse-in-culture-expert-says-cnbc"

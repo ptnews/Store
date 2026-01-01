@@ -1,6 +1,6 @@
 ---
 title: "2025 in numbers: Over 3 million faithful visited the Vatican - Vatican News"
-date: 2025-12-31
+date: 2026-01-01
 description: "2025 in numbers: Over 3 million faithful visited the Vatican&nbsp;&nbsp;Vatican NewsMore than 3 million people attended Vatican audiences and ceremonies in 2025&nbsp;&nbsp;Catholic News AgencyA «Box Office» Pope: Vatican Reveals Number of People That Attended Events with Leo XIV in 2025&nbsp;&nbsp;ZENIT - EnglishThe Leo XIV effect: pilgrim numbers rise in the Vatican&nbsp;&nbsp;Silere Non PossumVatican says close to 3 million people saw Pope Leo at the Vatican in 2025&nbsp;&nbsp;Diocese of Scr..."
 summary: "2025 in numbers: Over 3 million faithful visited the Vatican&nbsp;&nbsp;Vatican NewsMore than 3 million people attended Vatican audiences and ceremonies in 2025&nbsp;&nbsp;Catholic News AgencyA «Box Office» Pope: Vatican Reveals Number of People That Attended Events with Leo XIV in 2025&nbsp;&nbsp;ZENIT - EnglishThe Leo XIV effect: pilgrim numbers rise in the Vatican&nbsp;&nbsp;Silere Non PossumVatican says close to 3 million people saw Pope Leo at the Vatican in 2025&nbsp;&nbsp;Diocese of Scr..."
 slug: "2025-in-numbers-over-3-million-faithful-visited-the-vatican-vatican-news"

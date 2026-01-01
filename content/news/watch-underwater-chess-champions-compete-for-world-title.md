@@ -1,6 +1,6 @@
 ---
 title: "Watch: Underwater chess champions compete for world title"
-date: 2025-12-31
+date: 2026-01-01
 description: "Using weighted pieces and magnetic boards, players of the hybrid sport must complete each move in one breath."
 summary: "Using weighted pieces and magnetic boards, players of the hybrid sport must complete each move in one breath."
 slug: "watch-underwater-chess-champions-compete-for-world-title"

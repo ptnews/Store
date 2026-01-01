@@ -1,6 +1,6 @@
 ---
 title: "Heated Rivalry author says TV success led to help with her Parkinson's"
-date: 2025-12-31
+date: 2026-01-01
 description: "Rachel Reid says the publicity from the hit TV adaptation led a Parkinson's specialist to get in touch."
 summary: "Rachel Reid says the publicity from the hit TV adaptation led a Parkinson's specialist to get in touch."
 slug: "heated-rivalry-author-says-tv-success-led-to-help-with-her-parkinson-s"
