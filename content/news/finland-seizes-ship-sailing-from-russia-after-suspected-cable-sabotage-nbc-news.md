@@ -1,0 +1,21 @@
+---
+title: "Finland seizes ship sailing from Russia after suspected cable sabotage - NBC News"
+date: 2026-01-02
+description: "Finland seizes ship sailing from Russia after suspected cable sabotage&nbsp;&nbsp;NBC NewsFinland detains ship and its crew after critical undersea cable damaged&nbsp;&nbsp;CNNPolice in Finland arrest 2 in connection with damage to undersea telecom cable&nbsp;&nbsp;ABC NewsFinland seizes ship sailing from Russia after suspected cable sabotage in Baltic Sea&nbsp;&nbsp;ReutersFinnish police seize ship suspected of sabotaging undersea cable&nbsp;&nbsp;BBC"
+summary: "Finland seizes ship sailing from Russia after suspected cable sabotage&nbsp;&nbsp;NBC NewsFinland detains ship and its crew after critical undersea cable damaged&nbsp;&nbsp;CNNPolice in Finland arrest 2 in connection with damage to undersea telecom cable&nbsp;&nbsp;ABC NewsFinland seizes ship sailing from Russia after suspected cable sabotage in Baltic Sea&nbsp;&nbsp;ReutersFinnish police seize ship suspected of sabotaging undersea cable&nbsp;&nbsp;BBC"
+slug: "finland-seizes-ship-sailing-from-russia-after-suspected-cable-sabotage-nbc-news"
+image: ''
+link: 'https://news.google.com/rss/articles/CBMiqwFBVV95cUxPbFZxaGFZSGpVQnNYVHVET2ZfdTNWdkRUaE5XYUtKNUlSSXk0dFNwdnpaSUY1dmd1NXdpQVB0RlE3eG42UmNXaXVmeVZkeUlwWU40c2pEdzRrTXNXM1RmY2pWbFE1VHRDODl3ejdxZk9oYm0xd3g3UnBhSDhQemNkbjcySmxTdEZXTlFiYWlhSkZKYVg5LVFxREtMMzlweGNjQkxGdDR6d0VGRDDSAVZBVV95cUxPcE5YdjZueGowZE5hejQzcHBkSkNpU0NOQjUzVTBzdnJXdmpLcmpTdWpWUEQxX1MzRjZoNm03cHlVQzIyZ2RIR2UybW9TRTRxWlZFUTVzZw?oc=5'
+source: 'https://news.google.com/rss/topics/CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx1YlY4U0FtVnVHZ0pWVXlnQVAB?hl=en-US&gl=US&ceid=US:en'
+categories:
+- 'news.google.com'
+tags:
+- 'suspected'
+- 'sabotage'
+- 'finland'
+- 'sailing'
+- 'seizes'
+
+draft: false
+---
+<ol><li><a href="https://news.google.com/rss/articles/CBMiqwFBVV95cUxPbFZxaGFZSGpVQnNYVHVET2ZfdTNWdkRUaE5XYUtKNUlSSXk0dFNwdnpaSUY1dmd1NXdpQVB0RlE3eG42UmNXaXVmeVZkeUlwWU40c2pEdzRrTXNXM1RmY2pWbFE1VHRDODl3ejdxZk9oYm0xd3g3UnBhSDhQemNkbjcySmxTdEZXTlFiYWlhSkZKYVg5LVFxREtMMzlweGNjQkxGdDR6d0VGRDDSAVZBVV95cUxPcE5YdjZueGowZE5hejQzcHBkSkNpU0NOQjUzVTBzdnJXdmpLcmpTdWpWUEQxX1MzRjZoNm03cHlVQzIyZ2RIR2UybW9TRTRxWlZFUTVzZw?oc=5" target="_blank">Finland seizes ship sailing from Russia after suspected cable sabotage</a>&nbsp;&nbsp;<font color="#6f6f6f">NBC News</font></li><li><a href="https://news.google.com/rss/articles/CBMikAFBVV95cUxNdnhtQ044Tm9CbFBnYnpOSjZsS0JWQXoxWmZRM2dyRFlyVklDN3RncC0yeGlleGZEV25jNUlLOTkwS0h1dnZxckU1MEVYbnFfRWxMSUxBSGxPT1EwckRoTGktRUJuWXRBRTRRV1hZZ2VmWmVac25nVzBhTjFVTWxaY05KRjdwZ1VJWFBFd1B3X0M?oc=5" target="_blank">Finland detains ship and its crew after critical undersea cable damaged</a>&nbsp;&nbsp;<font color="#6f6f6f">CNN</font></li><li><a href="https://news.google.com/rss/articles/CBMitgFBVV95cUxNTGNFd1hJY00yQXVkWmFEUXhDcVRqYTdDMmtJS1JxVWNZcUpST19yMTBpbG9zeWlHbjFYd0Y0LVdnYUktNzVBRzJfSVVLQWUwT3VYcnowdlpYdHdQdnhlb0l1YlEwSWhGeE1Vekdzakh3WDkyUW5WbkcxLWMybkxIU2k0MXBucTdYZmJXQUotRDRTa1REai1pOWEzYjhab3VEaXJaaWlhYmtjdXhEY1dpSk8zaW0wd9IBuwFBVV95cUxQbkpaZXhYMnRnMnNBV21TV3kybFN0S1lCVHhpTjd5UEZzajdpVFF6M2ZTZ0pMaUMtX2ZUT2wyN1kzUm9wZVdTNUE4d1RSR2RlYVdTTGdQZDd5cm9SbDdGblVCRHJjNHpIdnJtRWIzaGpiWXNucTNGXzBMaDl6a2ZRRXFfV1VfdVQ4dVEzZ2JMd3ZyMUgteG52ZV8tZy1qc3VsRGlGTFc1YUlZckx5XzhjTlBxcXF5TmpGQTRn?oc=5" target="_blank">Police in Finland arrest 2 in connection with damage to undersea telecom cable</a>&nbsp;&nbsp;<font color="#6f6f6f">ABC News</font></li><li><a href="https://news.google.com/rss/articles/CBMirAFBVV95cUxPZGRHRHlON0U2dHMxd3VTSGIxR3lwa2dvM1dHdTU3UWJGUVZOMjJOM09BbEFBaUt4YXdselB1N3RKZkRCSzVYZXhPOTZvRXhpejZqdHVKOVd0YmsxRGVxalliRmdja1QzOXplcnRQOEZyOFZwTFdEcTlrQ1FyUWpVbjhleXowa1B2Sl9hY3R6N1hnVGZJTVlCUVNraWNIUVc1Rlc4UjRVUlM0R0Zn?oc=5" target="_blank">Finland seizes ship sailing from Russia after suspected cable sabotage in Baltic Sea</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font></li><li><a href="https://news.google.com/rss/articles/CBMiWkFVX3lxTE1XV0NBOHFkM3UwUVh1NjBJZkRyQVkxLWprYXc3aTlUeWRKR0l2a0Y0alhFQUMwcG56b0ZsWWMwNWNlUU1YQWJocWlyWXZLMDlCX1REWE1mdWtLUQ?oc=5" target="_blank">Finnish police seize ship suspected of sabotaging undersea cable</a>&nbsp;&nbsp;<font color="#6f6f6f">BBC</font></li></ol>
