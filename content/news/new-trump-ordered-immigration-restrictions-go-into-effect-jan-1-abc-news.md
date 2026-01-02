@@ -1,0 +1,21 @@
+---
+title: "New Trump-ordered immigration restrictions go into effect Jan. 1 - ABC News"
+date: 2026-01-02
+description: "New Trump-ordered immigration restrictions go into effect Jan. 1&nbsp;&nbsp;ABC NewsUS tourists banned from entering two countries&nbsp;&nbsp;The IndependentMali and Burkina Faso impose travel ban on US citizens in tit-for-tat move&nbsp;&nbsp;BBCWhy are some African countries banning US citizens from entry?&nbsp;&nbsp;Al JazeeraAfrican countries ban Americans in revenge for Trump crackdown&nbsp;&nbsp;The Telegraph"
+summary: "New Trump-ordered immigration restrictions go into effect Jan. 1&nbsp;&nbsp;ABC NewsUS tourists banned from entering two countries&nbsp;&nbsp;The IndependentMali and Burkina Faso impose travel ban on US citizens in tit-for-tat move&nbsp;&nbsp;BBCWhy are some African countries banning US citizens from entry?&nbsp;&nbsp;Al JazeeraAfrican countries ban Americans in revenge for Trump crackdown&nbsp;&nbsp;The Telegraph"
+slug: "new-trump-ordered-immigration-restrictions-go-into-effect-jan-1-abc-news"
+image: ''
+link: 'https://news.google.com/rss/articles/CBMiogFBVV95cUxPbFRINGVlaGNkVmZxbnFUWll0LVVRNUdjQ0NUaXR2T1ZyR0NyVk5GRTB4YkdZaEZiWGJqMU9rR3c1TE9nMXZfbXYxNURYTGFSWnVBSktRUURBblBYOHJrNUs4NkFRM2JLbTVDODdnUWJiYnFOUkNXejhqVDFvc2JRT3ByNjhmNHFrZGVvWHNiWlJXWFdNTmpJeWpJMEg4ZV9pV2fSAacBQVVfeXFMUDdtbzktYVItTXRLTXp6Y1E5Y2tlRGh2cDM3a3ViTmsyckVaLUFtMTBMNUVObGhLTjd1NnVOOXctSHFzN1NkaFBwalFwZlZ1bGJVWnE3QmZFT205em1rcGp1Z3l2TEg3SWdwY1JTNVBScWplYnh2N2p2end0ZnhhZUk0dUFES3dpQkZZLTN1M2N5UjJDcjRBYlJvNXd5YkQzakVqdGhBUHM?oc=5'
+source: 'https://news.google.com/rss/topics/CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx1YlY4U0FtVnVHZ0pWVXlnQVAB?hl=en-US&gl=US&ceid=US:en'
+categories:
+- 'news.google.com'
+tags:
+- 'restrictions'
+- 'immigration'
+- 'ordered'
+- 'effect'
+- 'trump'
+
+draft: false
+---
+<ol><li><a href="https://news.google.com/rss/articles/CBMiogFBVV95cUxPbFRINGVlaGNkVmZxbnFUWll0LVVRNUdjQ0NUaXR2T1ZyR0NyVk5GRTB4YkdZaEZiWGJqMU9rR3c1TE9nMXZfbXYxNURYTGFSWnVBSktRUURBblBYOHJrNUs4NkFRM2JLbTVDODdnUWJiYnFOUkNXejhqVDFvc2JRT3ByNjhmNHFrZGVvWHNiWlJXWFdNTmpJeWpJMEg4ZV9pV2fSAacBQVVfeXFMUDdtbzktYVItTXRLTXp6Y1E5Y2tlRGh2cDM3a3ViTmsyckVaLUFtMTBMNUVObGhLTjd1NnVOOXctSHFzN1NkaFBwalFwZlZ1bGJVWnE3QmZFT205em1rcGp1Z3l2TEg3SWdwY1JTNVBScWplYnh2N2p2end0ZnhhZUk0dUFES3dpQkZZLTN1M2N5UjJDcjRBYlJvNXd5YkQzakVqdGhBUHM?oc=5" target="_blank">New Trump-ordered immigration restrictions go into effect Jan. 1</a>&nbsp;&nbsp;<font color="#6f6f6f">ABC News</font></li><li><a href="https://news.google.com/rss/articles/CBMiqwFBVV95cUxNaklUekdja1Y5dmdod0JBcjlVZDlWeWtpY0tZLUVzUEhjckU5dXVvNHhKcVBTc3VKOHF4SnRuUWd0REk3MWtkTmJNRDlVRWlPRUZ3bWozMTN3aVk1RjdmT3lwUmxBd1RHbFZhZnlRbVZsWlNpT3FibkVDcjVpbDNVV1M5U1p5RjZIU0RWc1pnQ2xsSUkzajB6SDZTa0w5UTd2bE9VcEpjeUVWVUk?oc=5" target="_blank">US tourists banned from entering two countries</a>&nbsp;&nbsp;<font color="#6f6f6f">The Independent</font></li><li><a href="https://news.google.com/rss/articles/CBMiWkFVX3lxTE4zdG5vNWpCX2FDYktvMDNISlRfZjBsbml3aG5ibzRIaEZuTy1nNm80OFhneGppbnpudnU3cDFIc2hUbDNJdFk0dUNJQWNoZnJRUUJJd0pxenROUQ?oc=5" target="_blank">Mali and Burkina Faso impose travel ban on US citizens in tit-for-tat move</a>&nbsp;&nbsp;<font color="#6f6f6f">BBC</font></li><li><a href="https://news.google.com/rss/articles/CBMiowFBVV95cUxOSFRLbnVJaDVTRlpCLW1VWXk2MjNuSlNDb2s4eWRaR1RyYlNuZE5uVnVDQ3RGOWh1cEJyclp5RnNWd3Zwc0NpdFVrZC0zeVJvcTFma18ySFA4LXBoUWVJYUxOclA1SUl5YVpSUkI2TWRKNFhPVDVUUmw3MUdEbWxqeXNLQjVmbEZOWC1xVmN0NVYtZ2htUEZNMHN1TGtoR1ptV1Rr0gGoAUFVX3lxTFBnYkFST2Y0SzVSTThRbnBmTHpYNl9HYThjSWVMLTBhZ0ZuaFRoc1pvZVlpQkFPSEt3S3VIX2dVNFR0aEliMDBQRE9yRnlqekdiWEVaRG9GRnRlQ0FDY1RFUjRIWWV3VGpNSFlxVl9rSUcwazkyc1RGLXVROEQtdkVsVkhaM2gzazl1eGFCWHdkMnpTcjRlYWFZXzVFTTdJT2g0RVJtYkp2dQ?oc=5" target="_blank">Why are some African countries banning US citizens from entry?</a>&nbsp;&nbsp;<font color="#6f6f6f">Al Jazeera</font></li><li><a href="https://news.google.com/rss/articles/CBMimAFBVV95cUxQdERhRWVKWVV6UzhxQ1Nhb1NldHNDenNYb0JPdlpOaEozV0s2Y3NkSnN5Q08zQy1xM0k3M3hxcnFaYWFweER2NzFCMXozeExZbEk5MHZHMEpHcTJOSUxhMlVrUEpkNHh1aUNjWTVNeXRleGNqdVRwVm9NWWFBVE8tQnphbEZBeGFzUFUwRENkcUVMNklCeExyQg?oc=5" target="_blank">African countries ban Americans in revenge for Trump crackdown</a>&nbsp;&nbsp;<font color="#6f6f6f">The Telegraph</font></li></ol>
