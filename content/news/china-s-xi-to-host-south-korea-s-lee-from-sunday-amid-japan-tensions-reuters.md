@@ -1,0 +1,21 @@
+---
+title: "China's Xi to host South Korea's Lee from Sunday amid Japan tensions - Reuters"
+date: 2026-01-02
+description: "China's Xi to host South Korea's Lee from Sunday amid Japan tensions&nbsp;&nbsp;ReutersSouth Korean President Lee to visit Beijing for pivotal 2nd summit with Xi&nbsp;&nbsp;Al JazeeraChina: Some Japanese political forces 'trying to reverse course of history'&nbsp;&nbsp;nhk.or.jpChina approaches S. Korea to form joint front against Japan&nbsp;&nbsp;Inquirer.netChina’s Wang Yi takes aim at Japan in call with South Korean foreign minister&nbsp;&nbsp;South China Morning Post"
+summary: "China's Xi to host South Korea's Lee from Sunday amid Japan tensions&nbsp;&nbsp;ReutersSouth Korean President Lee to visit Beijing for pivotal 2nd summit with Xi&nbsp;&nbsp;Al JazeeraChina: Some Japanese political forces 'trying to reverse course of history'&nbsp;&nbsp;nhk.or.jpChina approaches S. Korea to form joint front against Japan&nbsp;&nbsp;Inquirer.netChina’s Wang Yi takes aim at Japan in call with South Korean foreign minister&nbsp;&nbsp;South China Morning Post"
+slug: "china-s-xi-to-host-south-korea-s-lee-from-sunday-amid-japan-tensions-reuters"
+image: ''
+link: 'https://news.google.com/rss/articles/CBMirAFBVV95cUxOYmNWVkpJdmJoNkh3SVk4RnhCWmxCRy02WExFZXdMVW4xQ284UHlscGVxUllraUNhU2pmNENmYlUzOFp5dVh5cVdyZW5XTkFOLTIxNEVNc1JOQVpvT0ExSDZ4OWdoS0dVSThpYU83aFJ4UFA5eWhPaHRhWjFWNUVPZW1HVjVLQ2xDSU1lUjZsOGpTZFZvYWNmRlFhZklmS0tUaUV2ZE1ucUc3emtv?oc=5'
+source: 'https://news.google.com/rss/topics/CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx1YlY4U0FtVnVHZ0pWVXlnQVAB?hl=en-US&gl=US&ceid=US:en'
+categories:
+- 'news.google.com'
+tags:
+- 'tensions'
+- 'reuters'
+- 'sunday'
+- 'china'
+- 'south'
+
+draft: false
+---
+<ol><li><a href="https://news.google.com/rss/articles/CBMirAFBVV95cUxOYmNWVkpJdmJoNkh3SVk4RnhCWmxCRy02WExFZXdMVW4xQ284UHlscGVxUllraUNhU2pmNENmYlUzOFp5dVh5cVdyZW5XTkFOLTIxNEVNc1JOQVpvT0ExSDZ4OWdoS0dVSThpYU83aFJ4UFA5eWhPaHRhWjFWNUVPZW1HVjVLQ2xDSU1lUjZsOGpTZFZvYWNmRlFhZklmS0tUaUV2ZE1ucUc3emtv?oc=5" target="_blank">China's Xi to host South Korea's Lee from Sunday amid Japan tensions</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font></li><li><a href="https://news.google.com/rss/articles/CBMitAFBVV95cUxNVVRVN0xUWTdYSkFnXzhtNzl0OXpxZzRJd2tjVkRLQlRTTGp3eEgxVGF4a0Z2OHkzaVZjaTZJWDA3dGJtNmIydTRCX1VjQ1gtRjdXdHRNU2NqZTduT0ktMUo5Z1ZobjlJMWx1OENpbkNXOEVMWXBPbHA2aU40YmVYOFlqaThZX096Zmx5SEhXMG5DTzdzZ2N2clUwbWRQOGlsbFN4eTVILU1CR210bDAzRVI1ckTSAboBQVVfeXFMTXV3T2JjOTNJNy1FT1MtS3JpMDdkekp5SnpGVWwxWC1TXzNoWkI4dTFXZjR5dFZNdVNuWnJhZjRTNHc0TmhqdWZyMENmM2l1S0ZmWnVWV292cExMNVpheXJkSC1XVHZjZU1XME05QU0xVWo4bnFFWFdEdHVMcF9jUlhfdmNtbUI2dktCQzlkdDQ1RUFBVEYxNDh2TEYwRDdEdHlINl9nVVA4RXBERGNBcGk1N3lLSFNOeGZ3?oc=5" target="_blank">South Korean President Lee to visit Beijing for pivotal 2nd summit with Xi</a>&nbsp;&nbsp;<font color="#6f6f6f">Al Jazeera</font></li><li><a href="https://news.google.com/rss/articles/CBMiYkFVX3lxTFBocUVxVWg5YXFnVVZSdHp5R1VOX09UR1dBOTIwSUp5djctZEJEVHJQOFZfb0xVMTYtQVpjbmgxTGh6S1JMenp6eVhFTzNyZC1sOC15OWtJMEpBR0Fwc212SVNB?oc=5" target="_blank">China: Some Japanese political forces 'trying to reverse course of history'</a>&nbsp;&nbsp;<font color="#6f6f6f">nhk.or.jp</font></li><li><a href="https://news.google.com/rss/articles/CBMioAFBVV95cUxOdzEtTzBWNmVWWTdwTVREWndubk9QS21ScGk2NXJpamc4S1ozWDliZDJKclhfOTFwSFBRTVozbWV4ZWJieXNiRUtnb0loVEdIU05EWUI1OFgxZVhsLXhrd3pqdGpvQ0F1eERVc3hzVHVZck9zMFI3UVFpc2lVRHBWZ3BNS19mMUdQaTEzTllEYW9RdnU2RDlBUDhCaklCU2ZH0gGmAUFVX3lxTE1HMFFvX2FjWHI5R0FCdEdpeWFDUUtuZXFUYm9yWTBwUjVjdExpbi1FX3JMYUVxVndScGsxd0E4UWxhRnZwU0hUQmtGWUVGWmNuam9OdjFXcmNVaVBrM0ZueFN4UDhpRTRfUGZoMFpGRDRaU2hMWkpTTFdEYmtOVGFqZHQtNllUUVEtY0FMZjFrcW5abjVyWEFUaW5uOUtjendvamEwcUE?oc=5" target="_blank">China approaches S. Korea to form joint front against Japan</a>&nbsp;&nbsp;<font color="#6f6f6f">Inquirer.net</font></li><li><a href="https://news.google.com/rss/articles/CBMiwAFBVV95cUxNcDZkWnQwa0E0cndiak9WbzdhUjQ2NGFWWDMwYzlyd2ZFYnhZLW14VndNSEowVFVDbms4UU9XMHJNTkFQTjlJdkdxcjFESGVlbWp4QnhLQXZQNG01bS1lSF91YmVDN19vWHZvaGdzaDJMbkNmQlEtZTJHUE5JakVBSmNSazdzR05MWHBqU1lKaUt5S09uYUVfZWpsaXNtUVJRUmJ1MVl2NDNYX29selJRYXBhNFZLMnNkMlhRNUZwYXE?oc=5" target="_blank">China’s Wang Yi takes aim at Japan in call with South Korean foreign minister</a>&nbsp;&nbsp;<font color="#6f6f6f">South China Morning Post</font></li></ol>
