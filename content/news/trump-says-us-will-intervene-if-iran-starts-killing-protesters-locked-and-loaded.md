@@ -1,8 +1,8 @@
 ---
 title: "Trump says US will intervene if Iran starts killing protesters: ‘Locked and loaded’"
 date: 2026-01-02
-description: "President Trump warned the US would intervene if Iran begins killing protesters, as demonstrations fueled by economic collapse spread beyond Tehran and raise fears of a violent crackdown."
-summary: "President Trump warned the US would intervene if Iran begins killing protesters, as demonstrations fueled by economic collapse spread beyond Tehran and raise fears of a violent crackdown."
+description: "President Trump warned the U.S. would intervene if Iran begins killing protesters, as demonstrations fueled by economic collapse spread beyond Tehran and raise fears of a violent crackdown."
+summary: "President Trump warned the U.S. would intervene if Iran begins killing protesters, as demonstrations fueled by economic collapse spread beyond Tehran and raise fears of a violent crackdown."
 slug: "trump-says-us-will-intervene-if-iran-starts-killing-protesters-locked-and-loaded"
 image: ''
 link: 'https://www.foxnews.com/politics/trump-says-us-intervene-iran-starts-killing-protesters-locked-loaded'
