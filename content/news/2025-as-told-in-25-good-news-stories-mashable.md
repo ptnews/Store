@@ -1,6 +1,6 @@
 ---
 title: "2025 as told in 25 good news stories - Mashable"
-date: 2026-01-01
+date: 2026-01-02
 description: "2025 as told in 25 good news stories&nbsp;&nbsp;MashableThe people who gave us hope in 2025&nbsp;&nbsp;HaaretzOpinion | In Which I Try Valiantly to Cheer You Up&nbsp;&nbsp;The New York Times“Favorite good news” for 2025 includes these four facts&nbsp;&nbsp;Denison ForumThe Year That Was and Wasn’t&nbsp;&nbsp;The Morning News"
 summary: "2025 as told in 25 good news stories&nbsp;&nbsp;MashableThe people who gave us hope in 2025&nbsp;&nbsp;HaaretzOpinion | In Which I Try Valiantly to Cheer You Up&nbsp;&nbsp;The New York Times“Favorite good news” for 2025 includes these four facts&nbsp;&nbsp;Denison ForumThe Year That Was and Wasn’t&nbsp;&nbsp;The Morning News"
 slug: "2025-as-told-in-25-good-news-stories-mashable"

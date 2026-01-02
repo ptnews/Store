@@ -1,6 +1,6 @@
 ---
 title: "Most Read War on the Rocks Articles of 2025 - War on the Rocks"
-date: 2026-01-01
+date: 2026-01-02
 description: "Most Read War on the Rocks Articles of 2025&nbsp;&nbsp;War on the Rocks2025 was a year of heightened conflict, amid wars in Gaza, Ukraine and Sudan&nbsp;&nbsp;The Washington PostJohn Simpson on wars: ‘Why I've never seen a year like 2025'&nbsp;&nbsp;BBCAnalysis: 2025 sees drastic changes in global security dynamics. Can democracies keep up?&nbsp;&nbsp;WTOP5 Revealing Stats About War Around the World in 2025&nbsp;&nbsp;Foreign Policy"
 summary: "Most Read War on the Rocks Articles of 2025&nbsp;&nbsp;War on the Rocks2025 was a year of heightened conflict, amid wars in Gaza, Ukraine and Sudan&nbsp;&nbsp;The Washington PostJohn Simpson on wars: ‘Why I've never seen a year like 2025'&nbsp;&nbsp;BBCAnalysis: 2025 sees drastic changes in global security dynamics. Can democracies keep up?&nbsp;&nbsp;WTOP5 Revealing Stats About War Around the World in 2025&nbsp;&nbsp;Foreign Policy"
 slug: "most-read-war-on-the-rocks-articles-of-2025-war-on-the-rocks"

@@ -1,6 +1,6 @@
 ---
 title: "Passenger describes 'chaos' after head-on Machu Picchu train collision"
-date: 2026-01-01
+date: 2026-01-02
 description: "Tourist Niels Honkoop says shattered glass littered the carriage floor and injured people were lying in the aisles."
 summary: "Tourist Niels Honkoop says shattered glass littered the carriage floor and injured people were lying in the aisles."
 slug: "passenger-describes-chaos-after-head-on-machu-picchu-train-collision"

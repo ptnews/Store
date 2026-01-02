@@ -1,6 +1,6 @@
 ---
 title: "Condom tax and cheaper childcare: China's plan to boost birth rates"
-date: 2026-01-01
+date: 2026-01-02
 description: "Chinese people pay a 13% sales tax on contraceptives from 1 January, while childcare services are exempt.
 "
 summary: "Chinese people pay a 13% sales tax on contraceptives from 1 January, while childcare services are exempt.

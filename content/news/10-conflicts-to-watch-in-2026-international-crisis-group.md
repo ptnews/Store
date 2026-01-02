@@ -1,6 +1,6 @@
 ---
 title: "10 Conflicts to Watch in 2026 - International Crisis Group"
-date: 2026-01-01
+date: 2026-01-02
 description: "10 Conflicts to Watch in 2026&nbsp;&nbsp;International Crisis GroupTrump's midterms, Xi's signals: What to watch in 2026&nbsp;&nbsp;Australian Broadcasting CorporationIt’s not just Taiwan... Five flashpoints that could spark World War Three in 2026&nbsp;&nbsp;The IndependentFrom Sudan to Yemen and Gaza, Middle East wars top the list of conflicts to watch in 2026, report says&nbsp;&nbsp;Middle East Eye2026 preview: The most consequential year in modern American history?&nbsp;&nbsp;Sky News"
 summary: "10 Conflicts to Watch in 2026&nbsp;&nbsp;International Crisis GroupTrump's midterms, Xi's signals: What to watch in 2026&nbsp;&nbsp;Australian Broadcasting CorporationIt’s not just Taiwan... Five flashpoints that could spark World War Three in 2026&nbsp;&nbsp;The IndependentFrom Sudan to Yemen and Gaza, Middle East wars top the list of conflicts to watch in 2026, report says&nbsp;&nbsp;Middle East Eye2026 preview: The most consequential year in modern American history?&nbsp;&nbsp;Sky News"
 slug: "10-conflicts-to-watch-in-2026-international-crisis-group"

@@ -1,6 +1,6 @@
 ---
 title: "Intriguing finds could solve mystery of women in medieval cemetery - BBC"
-date: 2026-01-01
+date: 2026-01-02
 description: "Intriguing finds could solve mystery of women in medieval cemetery&nbsp;&nbsp;BBC"
 summary: "Intriguing finds could solve mystery of women in medieval cemetery&nbsp;&nbsp;BBC"
 slug: "intriguing-finds-could-solve-mystery-of-women-in-medieval-cemetery-bbc"

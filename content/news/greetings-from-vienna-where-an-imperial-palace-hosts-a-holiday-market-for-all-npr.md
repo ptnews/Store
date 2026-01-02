@@ -1,6 +1,6 @@
 ---
 title: "Greetings from Vienna, where an imperial palace hosts a holiday market for all - NPR"
-date: 2026-01-01
+date: 2026-01-02
 description: "Greetings from Vienna, where an imperial palace hosts a holiday market for all&nbsp;&nbsp;NPR"
 summary: "Greetings from Vienna, where an imperial palace hosts a holiday market for all&nbsp;&nbsp;NPR"
 slug: "greetings-from-vienna-where-an-imperial-palace-hosts-a-holiday-market-for-all-npr"

@@ -1,6 +1,6 @@
 ---
 title: "Cardinal Koch: Pope Benedict XVI taught us to seek face of God - Vatican News"
-date: 2026-01-01
+date: 2026-01-02
 description: "Cardinal Koch: Pope Benedict XVI taught us to seek face of God&nbsp;&nbsp;Vatican NewsMüller: «The theological legacy of Benedict XVI is essential for the Church today»&nbsp;&nbsp;infovaticana"
 summary: "Cardinal Koch: Pope Benedict XVI taught us to seek face of God&nbsp;&nbsp;Vatican NewsMüller: «The theological legacy of Benedict XVI is essential for the Church today»&nbsp;&nbsp;infovaticana"
 slug: "cardinal-koch-pope-benedict-xvi-taught-us-to-seek-face-of-god-vatican-news"

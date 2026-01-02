@@ -1,6 +1,6 @@
 ---
 title: "Pope Leo: Pray for peace in our world and our families - Vatican News"
-date: 2026-01-01
+date: 2026-01-02
 description: "Pope Leo: Pray for peace in our world and our families&nbsp;&nbsp;Vatican NewsPope Leo XIV urges families to keep the flame of love alive&nbsp;&nbsp;EWTN VaticanFeast of the Holy Family: Imaging the God of relationship&nbsp;&nbsp;National Catholic ReporterFr. Enrique Salvo’s Homily: December 28, 2025&nbsp;&nbsp;The Good NewsroomREFLECTIONS: Faith-Family struggles&nbsp;&nbsp;MindaNews"
 summary: "Pope Leo: Pray for peace in our world and our families&nbsp;&nbsp;Vatican NewsPope Leo XIV urges families to keep the flame of love alive&nbsp;&nbsp;EWTN VaticanFeast of the Holy Family: Imaging the God of relationship&nbsp;&nbsp;National Catholic ReporterFr. Enrique Salvo’s Homily: December 28, 2025&nbsp;&nbsp;The Good NewsroomREFLECTIONS: Faith-Family struggles&nbsp;&nbsp;MindaNews"
 slug: "pope-leo-pray-for-peace-in-our-world-and-our-families-vatican-news"

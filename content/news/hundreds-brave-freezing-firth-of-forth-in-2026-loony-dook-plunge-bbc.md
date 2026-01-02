@@ -1,6 +1,6 @@
 ---
 title: "Hundreds brave freezing Firth of Forth in 2026 Loony Dook plunge - BBC"
-date: 2026-01-01
+date: 2026-01-02
 description: "Hundreds brave freezing Firth of Forth in 2026 Loony Dook plunge&nbsp;&nbsp;BBCNe’er Day Dip: huge crowds watch as hundreds take part in Kirkcaldy’s 2026 Loony Dook&nbsp;&nbsp;Fife TodayPeople brave the cold conditions for New Years Day dip near Edinburgh&nbsp;&nbsp;Yahoo News UKWATCH: Tony McGuire takes a New Year's plunge in the freezing Firth of Forth waters&nbsp;&nbsp;GB NewsLoony Dook 2026: Here are 16 fun pictures of this year's Loony Dook in South Queensferry&nbsp;&nbsp;The Scotsman"
 summary: "Hundreds brave freezing Firth of Forth in 2026 Loony Dook plunge&nbsp;&nbsp;BBCNe’er Day Dip: huge crowds watch as hundreds take part in Kirkcaldy’s 2026 Loony Dook&nbsp;&nbsp;Fife TodayPeople brave the cold conditions for New Years Day dip near Edinburgh&nbsp;&nbsp;Yahoo News UKWATCH: Tony McGuire takes a New Year's plunge in the freezing Firth of Forth waters&nbsp;&nbsp;GB NewsLoony Dook 2026: Here are 16 fun pictures of this year's Loony Dook in South Queensferry&nbsp;&nbsp;The Scotsman"
 slug: "hundreds-brave-freezing-firth-of-forth-in-2026-loony-dook-plunge-bbc"

@@ -1,6 +1,6 @@
 ---
 title: "What we know about the Switzerland ski resort fire"
-date: 2026-01-01
+date: 2026-01-02
 description: "Several dozen people are presumed to have died in the fire at a New Year party in the resort of Crans-Montana."
 summary: "Several dozen people are presumed to have died in the fire at a New Year party in the resort of Crans-Montana."
 slug: "what-we-know-about-the-switzerland-ski-resort-fire"

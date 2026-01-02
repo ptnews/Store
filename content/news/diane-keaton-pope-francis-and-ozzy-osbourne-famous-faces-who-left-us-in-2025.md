@@ -1,6 +1,6 @@
 ---
 title: "Diane Keaton, Pope Francis and Ozzy Osbourne... famous faces who left us in 2025"
-date: 2026-01-01
+date: 2026-01-02
 description: "Pope Francis, Ozzy Osbourne and Diane Keaton are among those who died this year."
 summary: "Pope Francis, Ozzy Osbourne and Diane Keaton are among those who died this year."
 slug: "diane-keaton-pope-francis-and-ozzy-osbourne-famous-faces-who-left-us-in-2025"

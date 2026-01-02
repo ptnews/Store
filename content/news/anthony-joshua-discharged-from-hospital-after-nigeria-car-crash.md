@@ -1,6 +1,6 @@
 ---
 title: "Anthony Joshua discharged from hospital after Nigeria car crash"
-date: 2026-01-01
+date: 2026-01-02
 description: "Two of the former world champion's closest friends were killed in the accident on Monday. "
 summary: "Two of the former world champion's closest friends were killed in the accident on Monday. "
 slug: "anthony-joshua-discharged-from-hospital-after-nigeria-car-crash"

@@ -1,6 +1,6 @@
 ---
 title: "How Thousands of Secret Russian Documents Were Exposed - The New York Times"
-date: 2026-01-01
+date: 2026-01-02
 description: "How Thousands of Secret Russian Documents Were Exposed&nbsp;&nbsp;The New York TimesView Full Coverage on Google News"
 summary: "How Thousands of Secret Russian Documents Were Exposed&nbsp;&nbsp;The New York TimesView Full Coverage on Google News"
 slug: "how-thousands-of-secret-russian-documents-were-exposed-the-new-york-times"

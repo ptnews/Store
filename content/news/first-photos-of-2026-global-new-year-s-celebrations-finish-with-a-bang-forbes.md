@@ -1,6 +1,6 @@
 ---
 title: "First Photos Of 2026: Global New Year’s Celebrations Finish With A Bang - Forbes"
-date: 2026-01-01
+date: 2026-01-02
 description: "First Photos Of 2026: Global New Year’s Celebrations Finish With A Bang&nbsp;&nbsp;ForbesNew Year's Eve celebrations welcome 2026 around the world. See the photos.&nbsp;&nbsp;CBS NewsIn pictures: New Year welcomed around the world&nbsp;&nbsp;BBCAsia rings in 2026 and Australia is defiant after its worst mass shooting&nbsp;&nbsp;ABC7 New YorkPhotos: The world welcomes the new year : The Picture Show&nbsp;&nbsp;NPR"
 summary: "First Photos Of 2026: Global New Year’s Celebrations Finish With A Bang&nbsp;&nbsp;ForbesNew Year's Eve celebrations welcome 2026 around the world. See the photos.&nbsp;&nbsp;CBS NewsIn pictures: New Year welcomed around the world&nbsp;&nbsp;BBCAsia rings in 2026 and Australia is defiant after its worst mass shooting&nbsp;&nbsp;ABC7 New YorkPhotos: The world welcomes the new year : The Picture Show&nbsp;&nbsp;NPR"
 slug: "first-photos-of-2026-global-new-year-s-celebrations-finish-with-a-bang-forbes"

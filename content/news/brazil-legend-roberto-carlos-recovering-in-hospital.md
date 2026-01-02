@@ -1,6 +1,6 @@
 ---
 title: "Brazil legend Roberto Carlos recovering in hospital"
-date: 2026-01-01
+date: 2026-01-02
 description: "Brazil and Real Madrid legend Roberto Carlos is \"recovering well\" after undergoing what he describes as \"a preventative medical procedure\"."
 summary: "Brazil and Real Madrid legend Roberto Carlos is \"recovering well\" after undergoing what he describes as \"a preventative medical procedure\"."
 slug: "brazil-legend-roberto-carlos-recovering-in-hospital"

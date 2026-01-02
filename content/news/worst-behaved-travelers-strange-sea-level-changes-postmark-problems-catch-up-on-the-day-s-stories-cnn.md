@@ -1,6 +1,6 @@
 ---
 title: "Worst-behaved travelers, strange sea-level changes, postmark problems: Catch up on the day’s stories - CNN"
-date: 2026-01-01
+date: 2026-01-02
 description: "Worst-behaved travelers, strange sea-level changes, postmark problems: Catch up on the day’s stories&nbsp;&nbsp;CNNView Full Coverage on Google News"
 summary: "Worst-behaved travelers, strange sea-level changes, postmark problems: Catch up on the day’s stories&nbsp;&nbsp;CNNView Full Coverage on Google News"
 slug: "worst-behaved-travelers-strange-sea-level-changes-postmark-problems-catch-up-on-the-day-s-stories-cnn"

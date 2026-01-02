@@ -1,6 +1,6 @@
 ---
 title: "Ukraine updates: Kyiv says it struck Russia's oil facilities - DW"
-date: 2026-01-01
+date: 2026-01-02
 description: "Ukraine updates: Kyiv says it struck Russia's oil facilities&nbsp;&nbsp;DWRussia and Ukraine Trade Strikes on Black Sea Ports Overnight&nbsp;&nbsp;Bloomberg.comUkrainian drones hit targets in three Russian regions, local officials say&nbsp;&nbsp;ReutersExplosions rock Russia's Rybinsk: fuel storage tanks ablaze – videos&nbsp;&nbsp;Українська правдаUkraine Sets New Record With 24 Strikes on Russian Oil & Gas Sites in December&nbsp;&nbsp;UNITED24 Media"
 summary: "Ukraine updates: Kyiv says it struck Russia's oil facilities&nbsp;&nbsp;DWRussia and Ukraine Trade Strikes on Black Sea Ports Overnight&nbsp;&nbsp;Bloomberg.comUkrainian drones hit targets in three Russian regions, local officials say&nbsp;&nbsp;ReutersExplosions rock Russia's Rybinsk: fuel storage tanks ablaze – videos&nbsp;&nbsp;Українська правдаUkraine Sets New Record With 24 Strikes on Russian Oil & Gas Sites in December&nbsp;&nbsp;UNITED24 Media"
 slug: "ukraine-updates-kyiv-says-it-struck-russia-s-oil-facilities-dw"

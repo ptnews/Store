@@ -1,6 +1,6 @@
 ---
 title: "‘People are wrestling with the burden’: Japan pivots to focus on nuclear power ‘maximisation’ alongside renewables - The Guardian"
-date: 2026-01-01
+date: 2026-01-02
 description: "‘People are wrestling with the burden’: Japan pivots to focus on nuclear power ‘maximisation’ alongside renewables&nbsp;&nbsp;The GuardianTepco plans to restart 1.3 GW reactor at Kashiwazaki-Kariwa plant in Japan&nbsp;&nbsp;EnerdataWorld’s Largest Nuclear Plant Coming Back Online in Japan&nbsp;&nbsp;Zeihan on GeopoliticsJapan to Allocate US$1.3 Billion to Spur Clean Power Demand&nbsp;&nbsp;Mexico Business NewsGreen light given for the reopening of the world’s largest nuclear power pl..."
 summary: "‘People are wrestling with the burden’: Japan pivots to focus on nuclear power ‘maximisation’ alongside renewables&nbsp;&nbsp;The GuardianTepco plans to restart 1.3 GW reactor at Kashiwazaki-Kariwa plant in Japan&nbsp;&nbsp;EnerdataWorld’s Largest Nuclear Plant Coming Back Online in Japan&nbsp;&nbsp;Zeihan on GeopoliticsJapan to Allocate US$1.3 Billion to Spur Clean Power Demand&nbsp;&nbsp;Mexico Business NewsGreen light given for the reopening of the world’s largest nuclear power pl..."
 slug: "people-are-wrestling-with-the-burden-japan-pivots-to-focus-on-nuclear-power-maximisation-alongside-renewables-the-guardian"

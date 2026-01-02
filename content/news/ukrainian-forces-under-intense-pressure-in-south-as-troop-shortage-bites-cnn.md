@@ -1,6 +1,6 @@
 ---
 title: "Ukrainian forces under ‘intense’ pressure in south, as troop shortage bites - CNN"
-date: 2026-01-01
+date: 2026-01-02
 description: "Ukrainian forces under ‘intense’ pressure in south, as troop shortage bites&nbsp;&nbsp;CNNAFU show how they eliminate Russian troops in Huliaipole&nbsp;&nbsp;UkrinformRussian Offensive Campaign Assessment, December 28, 2025&nbsp;&nbsp;Critical ThreatsUkrainian soldiers battle to stabilize southern front amid latest peace push&nbsp;&nbsp;ABC NewsUkraine's Azov Corps denies Russian claim of capturing Rodynske in Donetsk Oblast – video&nbsp;&nbsp;Yahoo"
 summary: "Ukrainian forces under ‘intense’ pressure in south, as troop shortage bites&nbsp;&nbsp;CNNAFU show how they eliminate Russian troops in Huliaipole&nbsp;&nbsp;UkrinformRussian Offensive Campaign Assessment, December 28, 2025&nbsp;&nbsp;Critical ThreatsUkrainian soldiers battle to stabilize southern front amid latest peace push&nbsp;&nbsp;ABC NewsUkraine's Azov Corps denies Russian claim of capturing Rodynske in Donetsk Oblast – video&nbsp;&nbsp;Yahoo"
 slug: "ukrainian-forces-under-intense-pressure-in-south-as-troop-shortage-bites-cnn"

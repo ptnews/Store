@@ -1,6 +1,6 @@
 ---
 title: "New Year's Eve trains delayed after cable theft near Doncaster - BBC"
-date: 2026-01-01
+date: 2026-01-02
 description: "New Year's Eve trains delayed after cable theft near Doncaster&nbsp;&nbsp;BBCSouth Yorkshire train passengers face delays after theft of signalling cables&nbsp;&nbsp;The GuardianYorkshire: Cable thieves cause New Year’s Eve train disruption&nbsp;&nbsp;The IndependentRail delays after cables stolen from line between Sheffield and Doncaster | News - Greatest Hits Radio (West Yorkshire)&nbsp;&nbsp;hellorayo.co.ukPassengers stranded on Eurostar trains OVERNIGHT with no working toilets in chaotic r..."
 summary: "New Year's Eve trains delayed after cable theft near Doncaster&nbsp;&nbsp;BBCSouth Yorkshire train passengers face delays after theft of signalling cables&nbsp;&nbsp;The GuardianYorkshire: Cable thieves cause New Year’s Eve train disruption&nbsp;&nbsp;The IndependentRail delays after cables stolen from line between Sheffield and Doncaster | News - Greatest Hits Radio (West Yorkshire)&nbsp;&nbsp;hellorayo.co.ukPassengers stranded on Eurostar trains OVERNIGHT with no working toilets in chaotic r..."
 slug: "new-year-s-eve-trains-delayed-after-cable-theft-near-doncaster-bbc"

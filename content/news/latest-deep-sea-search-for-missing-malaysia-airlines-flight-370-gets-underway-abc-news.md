@@ -1,6 +1,6 @@
 ---
 title: "Latest deep-sea search for missing Malaysia Airlines Flight 370 gets underway - ABC News"
-date: 2026-01-01
+date: 2026-01-02
 description: "Latest deep-sea search for missing Malaysia Airlines Flight 370 gets underway&nbsp;&nbsp;ABC NewsWhat to know about the mystery of Malaysia Airlines Flight 370 as the search resumes&nbsp;&nbsp;AP NewsSearch for missing MH370 plane resumes in Indian Ocean 12 years after it vanished with 239 people on board&nbsp;&nbsp;CBS NewsSearch for Malaysia Airlines flight MH370 expected to resume on Tuesday&nbsp;&nbsp;The GuardianSearch for Malaysia Airlines flight MH370 to resume 11 years after it went miss..."
 summary: "Latest deep-sea search for missing Malaysia Airlines Flight 370 gets underway&nbsp;&nbsp;ABC NewsWhat to know about the mystery of Malaysia Airlines Flight 370 as the search resumes&nbsp;&nbsp;AP NewsSearch for missing MH370 plane resumes in Indian Ocean 12 years after it vanished with 239 people on board&nbsp;&nbsp;CBS NewsSearch for Malaysia Airlines flight MH370 expected to resume on Tuesday&nbsp;&nbsp;The GuardianSearch for Malaysia Airlines flight MH370 to resume 11 years after it went miss..."
 slug: "latest-deep-sea-search-for-missing-malaysia-airlines-flight-370-gets-underway-abc-news"

@@ -1,6 +1,6 @@
 ---
 title: "Watch: Historic Amsterdam church engulfed by fire on New Year's Eve"
-date: 2026-01-01
+date: 2026-01-02
 description: "The blaze was thought to have started just after midnight and was swiftly declared a major fire"
 summary: "The blaze was thought to have started just after midnight and was swiftly declared a major fire"
 slug: "watch-historic-amsterdam-church-engulfed-by-fire-on-new-year-s-eve"

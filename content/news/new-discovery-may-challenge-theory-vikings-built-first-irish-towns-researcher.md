@@ -1,6 +1,6 @@
 ---
 title: "New discovery may challenge theory Vikings built first Irish towns - researcher"
-date: 2026-01-01
+date: 2026-01-02
 description: "Dr Dirk Brandherm and his colleagues have identified more than 600 suspected house platforms in the Brusselstown Ring."
 summary: "Dr Dirk Brandherm and his colleagues have identified more than 600 suspected house platforms in the Brusselstown Ring."
 slug: "new-discovery-may-challenge-theory-vikings-built-first-irish-towns-researcher"

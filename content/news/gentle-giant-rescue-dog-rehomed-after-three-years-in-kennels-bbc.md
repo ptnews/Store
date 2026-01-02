@@ -1,6 +1,6 @@
 ---
 title: "'Gentle giant' rescue dog rehomed after three years in kennels - BBC"
-date: 2026-01-01
+date: 2026-01-02
 description: "'Gentle giant' rescue dog rehomed after three years in kennels&nbsp;&nbsp;BBC"
 summary: "'Gentle giant' rescue dog rehomed after three years in kennels&nbsp;&nbsp;BBC"
 slug: "gentle-giant-rescue-dog-rehomed-after-three-years-in-kennels-bbc"

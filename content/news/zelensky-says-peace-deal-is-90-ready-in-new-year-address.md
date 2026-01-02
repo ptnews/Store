@@ -1,6 +1,6 @@
 ---
 title: "Zelensky says peace deal is 90% ready in New Year address "
-date: 2026-01-01
+date: 2026-01-02
 description: "Russian President Vladimir Putin used his New Year speech to tell troops that he \"believed in you and our victory\" in Ukraine."
 summary: "Russian President Vladimir Putin used his New Year speech to tell troops that he \"believed in you and our victory\" in Ukraine."
 slug: "zelensky-says-peace-deal-is-90-ready-in-new-year-address"

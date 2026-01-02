@@ -1,6 +1,6 @@
 ---
 title: "Sydney sends message of peace for New Year's after Bondi attack"
-date: 2026-01-01
+date: 2026-01-02
 description: "The words peace and unity were projected onto the Sydney Harbour Bridge as thousands gathered to watch the annual fireworks."
 summary: "The words peace and unity were projected onto the Sydney Harbour Bridge as thousands gathered to watch the annual fireworks."
 slug: "sydney-sends-message-of-peace-for-new-year-s-after-bondi-attack"

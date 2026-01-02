@@ -1,6 +1,6 @@
 ---
 title: "At least two die in violent New Year Dutch police call 'unprecedented' - Euronews.com"
-date: 2026-01-01
+date: 2026-01-02
 description: "At least two die in violent New Year Dutch police call 'unprecedented'&nbsp;&nbsp;Euronews.comNetherlands police face 'unprecedented' New Year's violence&nbsp;&nbsp;BBCA Monumental Church in Amsterdam Is Ravaged by Flames on New Year’s Day&nbsp;&nbsp;The New York TimesFireworks accidents kill two in the Netherlands; fire destroys historic Amsterdam church&nbsp;&nbsp;ReutersHistoric 150-Year-Old Dutch Church Goes Up in Flames amid 'Unprecedented' New Years Violence&nbsp;&nbsp;AOL.com"
 summary: "At least two die in violent New Year Dutch police call 'unprecedented'&nbsp;&nbsp;Euronews.comNetherlands police face 'unprecedented' New Year's violence&nbsp;&nbsp;BBCA Monumental Church in Amsterdam Is Ravaged by Flames on New Year’s Day&nbsp;&nbsp;The New York TimesFireworks accidents kill two in the Netherlands; fire destroys historic Amsterdam church&nbsp;&nbsp;ReutersHistoric 150-Year-Old Dutch Church Goes Up in Flames amid 'Unprecedented' New Years Violence&nbsp;&nbsp;AOL.com"
 slug: "at-least-two-die-in-violent-new-year-dutch-police-call-unprecedented-euronews-com"

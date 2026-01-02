@@ -1,6 +1,6 @@
 ---
 title: "Netherlands police face 'unprecedented' New Year's  violence"
-date: 2026-01-01
+date: 2026-01-02
 description: "Reports of fireworks and other explosives being thrown are widespread across the country."
 summary: "Reports of fireworks and other explosives being thrown are widespread across the country."
 slug: "netherlands-police-face-unprecedented-new-year-s-violence"

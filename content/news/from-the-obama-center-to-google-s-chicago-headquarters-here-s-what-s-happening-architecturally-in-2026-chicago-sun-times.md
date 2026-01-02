@@ -1,6 +1,6 @@
 ---
 title: "From the Obama Center to Google's Chicago headquarters, here's what's happening architecturally in 2026 - Chicago Sun-Times"
-date: 2026-01-01
+date: 2026-01-02
 description: "From the Obama Center to Google's Chicago headquarters, here's what's happening architecturally in 2026&nbsp;&nbsp;Chicago Sun-TimesView Full Coverage on Google News"
 summary: "From the Obama Center to Google's Chicago headquarters, here's what's happening architecturally in 2026&nbsp;&nbsp;Chicago Sun-TimesView Full Coverage on Google News"
 slug: "from-the-obama-center-to-google-s-chicago-headquarters-here-s-what-s-happening-architecturally-in-2026-chicago-sun-times"

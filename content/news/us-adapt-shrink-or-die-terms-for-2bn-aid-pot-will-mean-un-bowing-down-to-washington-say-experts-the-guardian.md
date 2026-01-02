@@ -1,6 +1,6 @@
 ---
 title: "US ‘adapt, shrink or die’ terms for $2bn aid pot will mean UN bowing down to Washington, say experts - The Guardian"
-date: 2026-01-01
+date: 2026-01-02
 description: "US ‘adapt, shrink or die’ terms for $2bn aid pot will mean UN bowing down to Washington, say experts&nbsp;&nbsp;The GuardianOpinion | Trump and the United Nations come to a head&nbsp;&nbsp;The Washington PostUS pledges $2 billion for UN humanitarian aid as Trump warns agencies must ‘adapt or die’&nbsp;&nbsp;AP NewsU.S. unveils new plan for humanitarian aid after pausing contributions earlier this year&nbsp;&nbsp;PBSUS pledges $2bn for humanitarian aid, but tells UN 'adapt or die'&nbsp;&n..."
 summary: "US ‘adapt, shrink or die’ terms for $2bn aid pot will mean UN bowing down to Washington, say experts&nbsp;&nbsp;The GuardianOpinion | Trump and the United Nations come to a head&nbsp;&nbsp;The Washington PostUS pledges $2 billion for UN humanitarian aid as Trump warns agencies must ‘adapt or die’&nbsp;&nbsp;AP NewsU.S. unveils new plan for humanitarian aid after pausing contributions earlier this year&nbsp;&nbsp;PBSUS pledges $2bn for humanitarian aid, but tells UN 'adapt or die'&nbsp;&n..."
 slug: "us-adapt-shrink-or-die-terms-for-2bn-aid-pot-will-mean-un-bowing-down-to-washington-say-experts-the-guardian"

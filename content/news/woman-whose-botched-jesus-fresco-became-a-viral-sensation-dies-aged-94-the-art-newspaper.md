@@ -1,6 +1,6 @@
 ---
 title: "Woman whose botched Jesus fresco became a viral sensation dies, aged 94 - The Art Newspaper"
-date: 2026-01-01
+date: 2026-01-02
 description: "Woman whose botched Jesus fresco became a viral sensation dies, aged 94&nbsp;&nbsp;The Art NewspaperCecilia Giménez’s botched Monkey Christ became a global meme. The real marvel was the woman behind it&nbsp;&nbsp;The GuardianSpanish woman who found fame for botching fresco restoration dies&nbsp;&nbsp;BBCWoman Behind the Viral ‘Beast Jesus’ Restoration, Cecilia Giménez, Dies at 94&nbsp;&nbsp;Artnet NewsCecilia Giménez, the artist who 'restored' the face of Jesus, has died at 94&nbsp;&nbs..."
 summary: "Woman whose botched Jesus fresco became a viral sensation dies, aged 94&nbsp;&nbsp;The Art NewspaperCecilia Giménez’s botched Monkey Christ became a global meme. The real marvel was the woman behind it&nbsp;&nbsp;The GuardianSpanish woman who found fame for botching fresco restoration dies&nbsp;&nbsp;BBCWoman Behind the Viral ‘Beast Jesus’ Restoration, Cecilia Giménez, Dies at 94&nbsp;&nbsp;Artnet NewsCecilia Giménez, the artist who 'restored' the face of Jesus, has died at 94&nbsp;&nbs..."
 slug: "woman-whose-botched-jesus-fresco-became-a-viral-sensation-dies-aged-94-the-art-newspaper"

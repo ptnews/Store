@@ -1,6 +1,6 @@
 ---
 title: "‘The sight of it is still shocking’: 46 photos that tell the story of the century so far - The Guardian"
-date: 2026-01-01
+date: 2026-01-02
 description: "‘The sight of it is still shocking’: 46 photos that tell the story of the century so far&nbsp;&nbsp;The Guardian25 Photographers Share One Photo That Defines the First Quarter of the Century&nbsp;&nbsp;culturedmag.comThe most striking photos that document the 21st century so far&nbsp;&nbsp;Yahoo News Canada“The Sight of It Is Still Shocking”: 46 Photos That Tell the Story of the Century So Far&nbsp;&nbsp;vocal.media"
 summary: "‘The sight of it is still shocking’: 46 photos that tell the story of the century so far&nbsp;&nbsp;The Guardian25 Photographers Share One Photo That Defines the First Quarter of the Century&nbsp;&nbsp;culturedmag.comThe most striking photos that document the 21st century so far&nbsp;&nbsp;Yahoo News Canada“The Sight of It Is Still Shocking”: 46 Photos That Tell the Story of the Century So Far&nbsp;&nbsp;vocal.media"
 slug: "the-sight-of-it-is-still-shocking-46-photos-that-tell-the-story-of-the-century-so-far-the-guardian"

@@ -1,6 +1,6 @@
 ---
 title: "Bulgaria joins the euro after rocky path to new currency"
-date: 2026-01-01
+date: 2026-01-02
 description: "The move is dividing the nation - some welcome it as a bold leap forwards, but others fear it will lead to economic stagnation."
 summary: "The move is dividing the nation - some welcome it as a bold leap forwards, but others fear it will lead to economic stagnation."
 slug: "bulgaria-joins-the-euro-after-rocky-path-to-new-currency"

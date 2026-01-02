@@ -1,6 +1,6 @@
 ---
 title: "Meet five new species discovered in 2025 - NPR"
-date: 2026-01-01
+date: 2026-01-02
 description: "Meet five new species discovered in 2025&nbsp;&nbsp;NPRScientists Just Discovered 70 New Species and Some Are Truly Wild&nbsp;&nbsp;SciTechDailyScientists discover previously unseen animals and plants that appear to come from another planet&nbsp;&nbsp;ECOticias.comPhotos: Top new species from 2025&nbsp;&nbsp;MongabayNew Species Are Now Being Discovered Faster Than Ever Before, Study Suggests&nbsp;&nbsp;Morning Ag Clips"
 summary: "Meet five new species discovered in 2025&nbsp;&nbsp;NPRScientists Just Discovered 70 New Species and Some Are Truly Wild&nbsp;&nbsp;SciTechDailyScientists discover previously unseen animals and plants that appear to come from another planet&nbsp;&nbsp;ECOticias.comPhotos: Top new species from 2025&nbsp;&nbsp;MongabayNew Species Are Now Being Discovered Faster Than Ever Before, Study Suggests&nbsp;&nbsp;Morning Ag Clips"
 slug: "meet-five-new-species-discovered-in-2025-npr"

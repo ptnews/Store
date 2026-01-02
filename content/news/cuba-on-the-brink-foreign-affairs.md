@@ -1,6 +1,6 @@
 ---
 title: "Cuba on the Brink - Foreign Affairs"
-date: 2026-01-01
+date: 2026-01-02
 description: "Cuba on the Brink&nbsp;&nbsp;Foreign AffairsDíaz-Canel sends a congratulatory message to Cubans with a request for 2026&nbsp;&nbsp;CiberCubaCuba's Economic Collapse: Why Legal and Market Reforms Are Essential to Attract Investment&nbsp;&nbsp;CubaHeadlinesFor a Better Nation&nbsp;&nbsp;radiogritodebaire.cuDíaz-Canel says that \"the New Year in Cuba is synonymous with triumph.\"&nbsp;&nbsp;CiberCuba"
 summary: "Cuba on the Brink&nbsp;&nbsp;Foreign AffairsDíaz-Canel sends a congratulatory message to Cubans with a request for 2026&nbsp;&nbsp;CiberCubaCuba's Economic Collapse: Why Legal and Market Reforms Are Essential to Attract Investment&nbsp;&nbsp;CubaHeadlinesFor a Better Nation&nbsp;&nbsp;radiogritodebaire.cuDíaz-Canel says that \"the New Year in Cuba is synonymous with triumph.\"&nbsp;&nbsp;CiberCuba"
 slug: "cuba-on-the-brink-foreign-affairs"

@@ -1,6 +1,6 @@
 ---
 title: "US military says five killed in latest strike on alleged drug boats"
-date: 2026-01-01
+date: 2026-01-02
 description: "The latest strike comes as the US Coast Guard searches for survivors of another that happened a day earlier."
 summary: "The latest strike comes as the US Coast Guard searches for survivors of another that happened a day earlier."
 slug: "us-military-says-five-killed-in-latest-strike-on-alleged-drug-boats"

@@ -1,6 +1,6 @@
 ---
 title: "Around 40 dead in Swiss ski resort bar fire, police say"
-date: 2026-01-01
+date: 2026-01-02
 description: "A further 115 are injured, some severely, in a fire at Le Constellation bar in Crans-Montana ski resort, officials say."
 summary: "A further 115 are injured, some severely, in a fire at Le Constellation bar in Crans-Montana ski resort, officials say."
 slug: "around-40-dead-in-swiss-ski-resort-bar-fire-police-say"

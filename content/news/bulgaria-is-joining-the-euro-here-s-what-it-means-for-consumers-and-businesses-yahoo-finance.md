@@ -1,6 +1,6 @@
 ---
 title: "Bulgaria is joining the euro. Here's what it means for consumers and businesses - Yahoo Finance"
-date: 2026-01-01
+date: 2026-01-02
 description: "Bulgaria is joining the euro. Here's what it means for consumers and businesses&nbsp;&nbsp;Yahoo FinanceBulgaria joins the euro after rocky path to new currency&nbsp;&nbsp;BBCBulgarians join the euro and eject their government&nbsp;&nbsp;The EconomistWhich countries will start using the euro in 2026?&nbsp;&nbsp;Al JazeeraBulgaria joins Eurozone despite pro-Russian disinformation&nbsp;&nbsp;Financial Times"
 summary: "Bulgaria is joining the euro. Here's what it means for consumers and businesses&nbsp;&nbsp;Yahoo FinanceBulgaria joins the euro after rocky path to new currency&nbsp;&nbsp;BBCBulgarians join the euro and eject their government&nbsp;&nbsp;The EconomistWhich countries will start using the euro in 2026?&nbsp;&nbsp;Al JazeeraBulgaria joins Eurozone despite pro-Russian disinformation&nbsp;&nbsp;Financial Times"
 slug: "bulgaria-is-joining-the-euro-here-s-what-it-means-for-consumers-and-businesses-yahoo-finance"

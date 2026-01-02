@@ -1,6 +1,6 @@
 ---
 title: "Disney worker hurt stopping 180-kg fake boulder from hitting audience"
-date: 2026-01-01
+date: 2026-01-02
 description: "The worker is \"recovering\" after he was seen on video being knocked off his feet by the 400-lb (180kg) rubber Indiana Jones prop. "
 summary: "The worker is \"recovering\" after he was seen on video being knocked off his feet by the 400-lb (180kg) rubber Indiana Jones prop. "
 slug: "disney-worker-hurt-stopping-180-kg-fake-boulder-from-hitting-audience"

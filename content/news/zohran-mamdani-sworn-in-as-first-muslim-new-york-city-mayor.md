@@ -1,6 +1,6 @@
 ---
 title: "Zohran Mamdani sworn in as first Muslim New York City Mayor"
-date: 2026-01-01
+date: 2026-01-02
 description: "The Democratic politician took his oath over a Quran in the disused Old City Hall subway station."
 summary: "The Democratic politician took his oath over a Quran in the disused Old City Hall subway station."
 slug: "zohran-mamdani-sworn-in-as-first-muslim-new-york-city-mayor"
