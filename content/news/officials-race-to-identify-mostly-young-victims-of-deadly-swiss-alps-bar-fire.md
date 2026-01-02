@@ -6,7 +6,7 @@ summary: "Deadly New Year&apos;s Eve bar fire at Swiss ski resort kills around 4
 slug: "officials-race-to-identify-mostly-young-victims-of-deadly-swiss-alps-bar-fire"
 image: ''
 link: 'https://www.foxnews.com/world/officials-race-identify-mostly-young-victims-deadly-swiss-alps-bar-fire'
-source: 'https://feeds.foxnews.com/foxnews/latest'
+source: 'https://feeds.foxnews.com/foxnews/world'
 categories:
 - 'feeds.foxnews.com'
 tags:
