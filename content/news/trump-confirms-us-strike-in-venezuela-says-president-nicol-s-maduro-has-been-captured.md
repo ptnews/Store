@@ -6,7 +6,7 @@ summary: "The U.S. military carried out air strikes in various areas of Venezuel
 slug: "trump-confirms-us-strike-in-venezuela-says-president-nicol-s-maduro-has-been-captured"
 image: ''
 link: 'https://www.foxnews.com/world/explosions-venezuelan-capital-caracas-reports'
-source: 'https://feeds.foxnews.com/foxnews/latest'
+source: 'https://feeds.foxnews.com/foxnews/world'
 categories:
 - 'feeds.foxnews.com'
 tags:

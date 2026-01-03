@@ -1,8 +1,8 @@
 ---
 title: "Live: Trump claims Venezuela’s Maduro ‘captured’ after US attacks"
 date: 2026-01-03
-description: "The government of President Nicolas Maduro declares ‌a national ‌emergency after series of attacks across the country."
-summary: "The government of President Nicolas Maduro declares ‌a national ‌emergency after series of attacks across the country."
+description: "President Trump claims &#039;capture&#039; of Maduro and his wife Cilia Flores in a military operation."
+summary: "President Trump claims &#039;capture&#039; of Maduro and his wife Cilia Flores in a military operation."
 slug: "live-trump-claims-venezuela-s-maduro-captured-after-us-attacks"
 image: ''
 link: 'https://www.aljazeera.com/news/liveblog/2026/1/3/live-loud-noises-heard-in-venezuelas-capital-amid-us-tensions?traffic_source=rss'
@@ -18,4 +18,4 @@ tags:
 
 draft: false
 ---
-The government of President Nicolas Maduro declares ‌a national ‌emergency after series of attacks across the country.
+President Trump claims &#039;capture&#039; of Maduro and his wife Cilia Flores in a military operation.
