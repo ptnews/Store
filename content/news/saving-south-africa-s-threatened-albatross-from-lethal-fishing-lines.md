@@ -1,6 +1,6 @@
 ---
 title: "Saving South Africa's threatened albatross from lethal fishing lines"
-date: 2026-01-02
+date: 2026-01-03
 description: "A task force is trying to save seabirds from getting caught and killed in fishing boat nets."
 summary: "A task force is trying to save seabirds from getting caught and killed in fishing boat nets."
 slug: "saving-south-africa-s-threatened-albatross-from-lethal-fishing-lines"

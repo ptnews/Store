@@ -1,6 +1,6 @@
 ---
 title: "Trump warns US will intervene if Iran kills protesters"
-date: 2026-01-02
+date: 2026-01-03
 description: "The US president says \"we will come to their rescue\" after days of demonstrations and clashes."
 summary: "The US president says \"we will come to their rescue\" after days of demonstrations and clashes."
 slug: "trump-warns-us-will-intervene-if-iran-kills-protesters"

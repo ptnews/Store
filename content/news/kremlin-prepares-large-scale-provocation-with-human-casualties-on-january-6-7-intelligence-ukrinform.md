@@ -1,6 +1,6 @@
 ---
 title: "Kremlin prepares large-scale provocation with human casualties on January 6-7 — intelligence - Ukrinform"
-date: 2026-01-02
+date: 2026-01-03
 description: "Kremlin prepares large-scale provocation with human casualties on January 6-7 — intelligence&nbsp;&nbsp;UkrinformUkraine warns Putin plans false flag attack inside Russia to derail peace talks&nbsp;&nbsp;politico.euIntelligence warns Kremlin is preparing large-scale provocation with casualties&nbsp;&nbsp;Українська правдаUkraine warns Russia plans false-flag attack on place of worship with ‘significant’ casualties&nbsp;&nbsp;Новая газета ЕвропаRussia-Ukrain..."
 summary: "Kremlin prepares large-scale provocation with human casualties on January 6-7 — intelligence&nbsp;&nbsp;UkrinformUkraine warns Putin plans false flag attack inside Russia to derail peace talks&nbsp;&nbsp;politico.euIntelligence warns Kremlin is preparing large-scale provocation with casualties&nbsp;&nbsp;Українська правдаUkraine warns Russia plans false-flag attack on place of worship with ‘significant’ casualties&nbsp;&nbsp;Новая газета ЕвропаRussia-Ukrain..."
 slug: "kremlin-prepares-large-scale-provocation-with-human-casualties-on-january-6-7-intelligence-ukrinform"

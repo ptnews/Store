@@ -1,6 +1,6 @@
 ---
 title: "Incoming Swiss president wants new partnerships but deems the US ‘indispensable’ - SWI swissinfo.ch"
-date: 2026-01-02
+date: 2026-01-03
 description: "Incoming Swiss president wants new partnerships but deems the US ‘indispensable’&nbsp;&nbsp;SWI swissinfo.chXinhua News | Xi congratulates Guy Parmelin on assuming Swiss presidency&nbsp;&nbsp;XinhuaSwiss Economy Minister Parmelin assumes rotating presidency&nbsp;&nbsp;YahooCongratulations extended to Swiss president&nbsp;&nbsp;中国新闻网Guy Parmelin, President of the Swiss Confederation 2026&nbsp;&nbsp;Eidgenössisches Departement für Wirtschaft, Bildung und Forschung WBF"
 summary: "Incoming Swiss president wants new partnerships but deems the US ‘indispensable’&nbsp;&nbsp;SWI swissinfo.chXinhua News | Xi congratulates Guy Parmelin on assuming Swiss presidency&nbsp;&nbsp;XinhuaSwiss Economy Minister Parmelin assumes rotating presidency&nbsp;&nbsp;YahooCongratulations extended to Swiss president&nbsp;&nbsp;中国新闻网Guy Parmelin, President of the Swiss Confederation 2026&nbsp;&nbsp;Eidgenössisches Departement für Wirtschaft, Bildung und Forschung WBF"
 slug: "incoming-swiss-president-wants-new-partnerships-but-deems-the-us-indispensable-swi-swissinfo-ch"

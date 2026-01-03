@@ -1,6 +1,6 @@
 ---
 title: "China's BYD overtakes Tesla as world's top EV seller"
-date: 2026-01-02
+date: 2026-01-03
 description: "It  marks the first time the Chinese firm has outpaced its American rival for annual sales."
 summary: "It  marks the first time the Chinese firm has outpaced its American rival for annual sales."
 slug: "china-s-byd-overtakes-tesla-as-world-s-top-ev-seller"

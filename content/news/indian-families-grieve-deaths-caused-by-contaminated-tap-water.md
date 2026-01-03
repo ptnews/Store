@@ -1,6 +1,6 @@
 ---
 title: "Indian families grieve deaths caused by contaminated tap water"
-date: 2026-01-02
+date: 2026-01-03
 description: "Officials in Indore say four people have died after drinking contaminated water but families allege the toll is higher."
 summary: "Officials in Indore say four people have died after drinking contaminated water but families allege the toll is higher."
 slug: "indian-families-grieve-deaths-caused-by-contaminated-tap-water"

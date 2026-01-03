@@ -1,6 +1,6 @@
 ---
 title: "Trump says he takes higher daily dose of aspirin than doctors recommend"
-date: 2026-01-02
+date: 2026-01-03
 description: "In an interview about his health, the US president says: \"I don't want thick blood pouring through my heart\"."
 summary: "In an interview about his health, the US president says: \"I don't want thick blood pouring through my heart\"."
 slug: "trump-says-he-takes-higher-daily-dose-of-aspirin-than-doctors-recommend"

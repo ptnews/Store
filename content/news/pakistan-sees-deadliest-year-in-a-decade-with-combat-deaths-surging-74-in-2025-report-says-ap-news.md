@@ -1,6 +1,6 @@
 ---
 title: "Pakistan sees deadliest year in a decade, with combat deaths surging 74% in 2025, report says - AP News"
-date: 2026-01-02
+date: 2026-01-03
 description: "Pakistan sees deadliest year in a decade, with combat deaths surging 74% in 2025, report says&nbsp;&nbsp;AP NewsView Full Coverage on Google News"
 summary: "Pakistan sees deadliest year in a decade, with combat deaths surging 74% in 2025, report says&nbsp;&nbsp;AP NewsView Full Coverage on Google News"
 slug: "pakistan-sees-deadliest-year-in-a-decade-with-combat-deaths-surging-74-in-2025-report-says-ap-news"

@@ -1,0 +1,21 @@
+---
+title: "US appeals court strikes down California's open-carry ban in major Second Amendment ruling"
+date: 2026-01-02
+description: "A federal appeals court struck down California&apos;s open-carry ban affecting 95% of state residents, ruling the restrictions violate Second Amendment rights."
+summary: "A federal appeals court struck down California&apos;s open-carry ban affecting 95% of state residents, ruling the restrictions violate Second Amendment rights."
+slug: "us-appeals-court-strikes-down-california-s-open-carry-ban-in-major-second-amendment-ruling"
+image: ''
+link: 'https://www.foxnews.com/politics/us-appeals-court-strikes-californias-open-carry-ban-major-second-amendment-ruling'
+source: 'https://feeds.foxnews.com/foxnews/latest'
+categories:
+- 'feeds.foxnews.com'
+tags:
+- 'california'
+- 'amendment'
+- 'appeals'
+- 'strikes'
+- 'second'
+
+draft: false
+---
+<p>A federal appeals court on Friday struck down <a href="https://www.foxnews.com/category/us/us-regions/west/california" target="_blank" rel="noopener">California’s ban</a> on openly carrying guns across most of the state.</p><p>In a 2–1 decision, the San Francisco-based Court of Appeals for the 9th Circuit ruled California's ban on open carry in counties with more than 200,000 people — covering roughly 95% of the state’s population — violates the <a href="https://www.foxnews.com/category/us/personal-freedoms/second-amendment" target="_blank" rel="noopener">Second Amendment</a>, according to Reuters.</p><p>U.S. Circuit Judge Lawrence VanDyke, writing for the majority, said the ban conflicts with <a href="https://www.foxnews.com/category/politics/judiciary/supreme-court" target="_blank" rel="noopener">the Supreme Court’s</a> 2022 decision in New York State Rifle &amp; Pistol Association v. Bruen, which requires gun regulations to be consistent with the nation’s "historical tradition of firearm regulation," Reuters reported.</p><p><a href="https://www.foxnews.com/politics/nra-sues-california-over-ban-glock-style-firearms-violates-second-amendment" target="_blank" rel="noopener"><strong>NRA SUES CALIFORNIA OVER BAN ON GLOCK-STYLE FIREARMS: 'VIOLATES THE SECOND AMENDMENT'</strong></a></p><p>"The <a href="https://www.foxnews.com/category/science/archaeology/history" target="_blank" rel="noopener">historical record</a> makes unmistakably plain that open carry is part of this Nation’s history and tradition," VanDyke wrote. "It was clearly protected at the time of the founding and at the time of the adoption of the Fourteenth Amendment."</p><p>VanDyke also noted that California previously allowed residents to openly carry holstered handguns for self-defense without penalty until 2012.</p><p><a href="https://www.foxnews.com/politics/californias-crackdown-less-lethal-weapons-sparks-2a-lawsuit-targeting-newsom-administration" target="_blank" rel="noopener"><strong>CALIFORNIA’S CRACKDOWN ON ‘LESS-LETHAL’ WEAPONS SPARKS 2A LAWSUIT TARGETING NEWSOM ADMINISTRATION</strong></a></p><p>"That changed only when California enacted its urban open-carry ban barely over a decade ago in 2012," he said. "In doing so, California joined a tiny minority of states to have adopted such severe restrictions on open carry."</p><p>The decision overturned part of a 2023 ruling by a lower court that had <a href="https://www.foxnews.com/category/politics/executive/law" target="_blank" rel="noopener">dismissed a lawsuit</a> filed in 2019 by gun owner Mark Baird, while rejecting his challenge to open-carry licensing in smaller counties, according to Reuters.</p><p><a href="https://www.foxnews.com/politics/federal-appeals-court-rules-california-ammunition-background-checks-unconstitutional" target="_blank" rel="noopener"><strong>FEDERAL APPEALS COURT RULES CALIFORNIA AMMUNITION BACKGROUND CHECKS UNCONSTITUTIONAL</strong></a></p><p>In October, the National Rifle Association (NRA) and other gun groups said they were suing California over the state's ban on Glock-style guns with features known as switches that allow them to be converted to fully automatic weapons.</p><p>The NRA was joined by the Firearms Policy Coalition, Second Amendment Foundation, Poway Weapons &amp; Gear, and two NRA members in challenging the state's ban.</p><p><i>Fox News Digital's Landon Mion contributed to this report.</i></p>

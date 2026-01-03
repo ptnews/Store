@@ -1,6 +1,6 @@
 ---
 title: "Bulgaria joins Eurozone despite pro-Russian disinformation - Financial Times"
-date: 2026-01-02
+date: 2026-01-03
 description: "Bulgaria joins Eurozone despite pro-Russian disinformation&nbsp;&nbsp;Financial TimesBulgaria celebrates entry into euro zone, lev currency banished into history&nbsp;&nbsp;ReutersAnother country starts using euros and retires its currency&nbsp;&nbsp;The IndependentWhich countries will start using the euro in 2026?&nbsp;&nbsp;Al JazeeraBulgaria adopts the euro&nbsp;&nbsp;politico.eu"
 summary: "Bulgaria joins Eurozone despite pro-Russian disinformation&nbsp;&nbsp;Financial TimesBulgaria celebrates entry into euro zone, lev currency banished into history&nbsp;&nbsp;ReutersAnother country starts using euros and retires its currency&nbsp;&nbsp;The IndependentWhich countries will start using the euro in 2026?&nbsp;&nbsp;Al JazeeraBulgaria adopts the euro&nbsp;&nbsp;politico.eu"
 slug: "bulgaria-joins-eurozone-despite-pro-russian-disinformation-financial-times"

@@ -1,6 +1,6 @@
 ---
 title: "EU’s new ‘green tariff’ rules on high-carbon goods come into force - The Guardian"
-date: 2026-01-02
+date: 2026-01-03
 description: "EU’s new ‘green tariff’ rules on high-carbon goods come into force&nbsp;&nbsp;The GuardianChina Calls EU Carbon Border Tax Unfair, Warns of Counter-Moves&nbsp;&nbsp;Bloomberg.comEU to launch carbon border tax despite opposition from trade partners&nbsp;&nbsp;Financial TimesEuropean CBAM: how the mechanism will work in 2026&nbsp;&nbsp;GMK CenterEU exporters of heavy goods to start paying for their CO2 emissions&nbsp;&nbsp;Euronews.com"
 summary: "EU’s new ‘green tariff’ rules on high-carbon goods come into force&nbsp;&nbsp;The GuardianChina Calls EU Carbon Border Tax Unfair, Warns of Counter-Moves&nbsp;&nbsp;Bloomberg.comEU to launch carbon border tax despite opposition from trade partners&nbsp;&nbsp;Financial TimesEuropean CBAM: how the mechanism will work in 2026&nbsp;&nbsp;GMK CenterEU exporters of heavy goods to start paying for their CO2 emissions&nbsp;&nbsp;Euronews.com"
 slug: "eu-s-new-green-tariff-rules-on-high-carbon-goods-come-into-force-the-guardian"

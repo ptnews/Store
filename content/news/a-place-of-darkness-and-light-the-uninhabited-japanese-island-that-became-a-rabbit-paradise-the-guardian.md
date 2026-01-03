@@ -1,6 +1,6 @@
 ---
 title: "‘A place of darkness and light’: the uninhabited Japanese island that became a rabbit paradise - The Guardian"
-date: 2026-01-02
+date: 2026-01-03
 description: "‘A place of darkness and light’: the uninhabited Japanese island that became a rabbit paradise&nbsp;&nbsp;The Guardian"
 summary: "‘A place of darkness and light’: the uninhabited Japanese island that became a rabbit paradise&nbsp;&nbsp;The Guardian"
 slug: "a-place-of-darkness-and-light-the-uninhabited-japanese-island-that-became-a-rabbit-paradise-the-guardian"

@@ -1,0 +1,21 @@
+---
+title: "London coroner calls for circumcision safeguards after baby death - BBC"
+date: 2026-01-03
+description: "London coroner calls for circumcision safeguards after baby death&nbsp;&nbsp;BBCCoroner calls for circumcision safety measures after baby’s death in London&nbsp;&nbsp;The GuardianBaby died after botched circumcision&nbsp;&nbsp;The TelegraphWarning after six-month-old baby boy dies in West London days after circumcision&nbsp;&nbsp;My LondonBaby boy dies after catching infection in botched circumcision&nbsp;&nbsp;Metro.co.uk"
+summary: "London coroner calls for circumcision safeguards after baby death&nbsp;&nbsp;BBCCoroner calls for circumcision safety measures after baby’s death in London&nbsp;&nbsp;The GuardianBaby died after botched circumcision&nbsp;&nbsp;The TelegraphWarning after six-month-old baby boy dies in West London days after circumcision&nbsp;&nbsp;My LondonBaby boy dies after catching infection in botched circumcision&nbsp;&nbsp;Metro.co.uk"
+slug: "london-coroner-calls-for-circumcision-safeguards-after-baby-death-bbc"
+image: ''
+link: 'https://news.google.com/rss/articles/CBMiWkFVX3lxTE13MW9JY3hpLXV6dkpoU2RibktiS0pVZ3hFazZ0TXlzZXp2aUkzMXc3VjQtR0ZLWktXaVlYSzVrYy1rVFA1dlVTRlB3TTBJbkh5U1pZY0dualJOQdIBX0FVX3lxTE9IcFA0RVFhY01lcEQ1SFc1ZmtVOUh0M3RxMFExSWJ1enAyS1FuUF82OV96YWFBaFZ4b1NGNkNZbm1zRTNzc29wQnd6TEpxOE1telhnQXpLRjZkT3owV3Rn?oc=5'
+source: 'https://news.google.com/rss/topics/CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx1YlY4U0FtVnVHZ0pWVXlnQVAB?hl=en-US&gl=US&ceid=US:en'
+categories:
+- 'news.google.com'
+tags:
+- 'circumcision'
+- 'safeguards'
+- 'coroner'
+- 'london'
+- 'calls'
+
+draft: false
+---
+<ol><li><a href="https://news.google.com/rss/articles/CBMiWkFVX3lxTE13MW9JY3hpLXV6dkpoU2RibktiS0pVZ3hFazZ0TXlzZXp2aUkzMXc3VjQtR0ZLWktXaVlYSzVrYy1rVFA1dlVTRlB3TTBJbkh5U1pZY0dualJOQdIBX0FVX3lxTE9IcFA0RVFhY01lcEQ1SFc1ZmtVOUh0M3RxMFExSWJ1enAyS1FuUF82OV96YWFBaFZ4b1NGNkNZbm1zRTNzc29wQnd6TEpxOE1telhnQXpLRjZkT3owV3Rn?oc=5" target="_blank">London coroner calls for circumcision safeguards after baby death</a>&nbsp;&nbsp;<font color="#6f6f6f">BBC</font></li><li><a href="https://news.google.com/rss/articles/CBMirAFBVV95cUxOZjYxaVpOdU5DaU14M0xvaTk3V1pHb2RQTUtHNFB6NnRnUUpjVVU3N1piaG1tWUlqQjhTYnpFRVNFWkxrSEdnbEsyOUVWQ2puSDhHRVlNVUw0Q3JPRUFtaGItRHJNOXVyNExzLS1rODdPTjlRY05nY3NScEpMZU5CTTFTRjdwdlJRVkVrR3kxRW1zaDA5MDRObDRNbXR2dDdPT2ZxRXI4RDBkR2cw?oc=5" target="_blank">Coroner calls for circumcision safety measures after baby’s death in London</a>&nbsp;&nbsp;<font color="#6f6f6f">The Guardian</font></li><li><a href="https://news.google.com/rss/articles/CBMiiAFBVV95cUxQNWlkWnNZZTJvcnZuOGJyMkRYTGZIcnNUQ29FNEt3TEdGTF84Smo5aC1sVERSdTh0c0hSMjJHeEtvZmhCNHp1cXU0TndRVDhfUFN5M3hUOXdvZmJyWVd5YjFkRWZ3anQ2S0FpM0k3aUw2NDJWWXhkZlFpTGEySFljZjk1NmJOM2tU?oc=5" target="_blank">Baby died after botched circumcision</a>&nbsp;&nbsp;<font color="#6f6f6f">The Telegraph</font></li><li><a href="https://news.google.com/rss/articles/CBMif0FVX3lxTE1FVWYxNW9FeWJfMWo1RXkyZkpaZ3ZQMTNqMXNQTmRhYjZsZXo0cTVyQTdnY1BkUVhGbzZuc0J5MjI3aHY5d2NISHlCQzhnRS1OSkd3aEptZUtsOExmNDBwNnhvTGR2Nk1LQkhqejhjOXh0TEUwd1k2azZZVHpuNEnSAYQBQVVfeXFMUEhnVlV2cXNYTzhBallpS2FhY29qOWdIY3FrMElfUUo4Y2NadlVXN05Yc09qTlY4Qkt0aE5jQmtkUVVkbHcyRndzaTBMSlJnZl9lR2xaSGxOMHM5d1pOejlaVkNaYS1XNmx0ZlpPaGRrTHQyMnVrdEZ3cGw5OWFmelF1OWxl?oc=5" target="_blank">Warning after six-month-old baby boy dies in West London days after circumcision</a>&nbsp;&nbsp;<font color="#6f6f6f">My London</font></li><li><a href="https://news.google.com/rss/articles/CBMimgFBVV95cUxNZzNETk5oWlhYUmJZQzJKbmticHA5cXVUYVlsUGFYZnNnSlozMENLNTNIVkE3M0FMcmZkUzlfV1lZLUIyZUJVMFFnUndMeGZmemlBNWxuNHE5RldFWV81aEUyZ3dBc3BreUZZM3hUVi0tbXB5aW14QmFBN1VBd0VOMWlQRkM5c21SWnBLZElmQkxfcHJ2Wkh6Nm5R0gGfAUFVX3lxTE9SWnBUalNIT0ZCZ2F0anpMd2dKTlk2c084WllfNHZ0ZjZDcjUzSk1SZVczODlPalRwRlpTR1RsV2pBRF9OazA4RXJUNDhwV2V3cklJalZrVG5yTUdxeHkyeGVxTkVOQ2h3ckswYmpUMmZManp2ak1kR3FPUEVrX2VSQXllcG9sSWRwa3Y4ZFM0WjMySGtZVkw1S2xucVlpWQ?oc=5" target="_blank">Baby boy dies after catching infection in botched circumcision</a>&nbsp;&nbsp;<font color="#6f6f6f">Metro.co.uk</font></li></ol>

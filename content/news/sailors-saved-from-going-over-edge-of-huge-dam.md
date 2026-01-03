@@ -1,6 +1,6 @@
 ---
 title: "Sailors saved from going over edge of huge dam "
-date: 2026-01-02
+date: 2026-01-03
 description: "According to reports, the boat had suffered motor failure before drifting to the edge of the dam"
 summary: "According to reports, the boat had suffered motor failure before drifting to the edge of the dam"
 slug: "sailors-saved-from-going-over-edge-of-huge-dam"

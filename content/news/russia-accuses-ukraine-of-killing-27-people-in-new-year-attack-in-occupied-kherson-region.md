@@ -1,6 +1,6 @@
 ---
 title: "Russia accuses Ukraine of killing 27 people in New Year attack in occupied Kherson region"
-date: 2026-01-02
+date: 2026-01-03
 description: "Ukraine says it only conducts strikes against military targets and adheres to international law."
 summary: "Ukraine says it only conducts strikes against military targets and adheres to international law."
 slug: "russia-accuses-ukraine-of-killing-27-people-in-new-year-attack-in-occupied-kherson-region"

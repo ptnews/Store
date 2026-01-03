@@ -1,6 +1,6 @@
 ---
 title: "Swiss bar fire likely started by sparklers on champagne bottles"
-date: 2026-01-02
+date: 2026-01-03
 description: "The investigation into the fire that killed 40 people will consider whether criminal prosecutions are necessary, officials said."
 summary: "The investigation into the fire that killed 40 people will consider whether criminal prosecutions are necessary, officials said."
 slug: "swiss-bar-fire-likely-started-by-sparklers-on-champagne-bottles"

@@ -1,6 +1,6 @@
 ---
 title: "Japan PM joins fight for more female toilets in parliament"
-date: 2026-01-02
+date: 2026-01-03
 description: "Japan's parliament building was built in 1936, a decade before women were given the right to vote."
 summary: "Japan's parliament building was built in 1936, a decade before women were given the right to vote."
 slug: "japan-pm-joins-fight-for-more-female-toilets-in-parliament"

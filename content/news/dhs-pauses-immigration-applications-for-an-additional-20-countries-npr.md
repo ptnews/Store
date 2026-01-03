@@ -1,6 +1,6 @@
 ---
 title: "DHS pauses immigration applications for an additional 20 countries - NPR"
-date: 2026-01-02
+date: 2026-01-03
 description: "DHS pauses immigration applications for an additional 20 countries&nbsp;&nbsp;NPRView Full Coverage on Google News"
 summary: "DHS pauses immigration applications for an additional 20 countries&nbsp;&nbsp;NPRView Full Coverage on Google News"
 slug: "dhs-pauses-immigration-applications-for-an-additional-20-countries-npr"

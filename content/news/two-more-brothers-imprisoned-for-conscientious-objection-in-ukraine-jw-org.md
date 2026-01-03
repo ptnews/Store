@@ -1,6 +1,6 @@
 ---
 title: "Two More Brothers Imprisoned for Conscientious Objection in Ukraine - JW.ORG"
-date: 2026-01-02
+date: 2026-01-03
 description: "Two More Brothers Imprisoned for Conscientious Objection in Ukraine&nbsp;&nbsp;JW.ORG"
 summary: "Two More Brothers Imprisoned for Conscientious Objection in Ukraine&nbsp;&nbsp;JW.ORG"
 slug: "two-more-brothers-imprisoned-for-conscientious-objection-in-ukraine-jw-org"

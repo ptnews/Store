@@ -1,6 +1,6 @@
 ---
 title: "Woman killed in suspected mountain lion attack in US"
-date: 2026-01-02
+date: 2026-01-03
 description: "Colorado officials said that it would be the first time in more than 25 years that a mountain lion killed a person in the state, if confirmed."
 summary: "Colorado officials said that it would be the first time in more than 25 years that a mountain lion killed a person in the state, if confirmed."
 slug: "woman-killed-in-suspected-mountain-lion-attack-in-us"

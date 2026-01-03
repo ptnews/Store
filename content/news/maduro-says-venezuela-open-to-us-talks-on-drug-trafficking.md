@@ -1,6 +1,6 @@
 ---
 title: "Maduro says Venezuela open to US talks on drug trafficking"
-date: 2026-01-02
+date: 2026-01-03
 description: "In an interview with state TV, the Venezuelan president also evaded a question about an attack in his country claimed by the US. "
 summary: "In an interview with state TV, the Venezuelan president also evaded a question about an attack in his country claimed by the US. "
 slug: "maduro-says-venezuela-open-to-us-talks-on-drug-trafficking"

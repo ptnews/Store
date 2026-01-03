@@ -1,6 +1,6 @@
 ---
 title: "Yemen clashes bring Saudi- and UAE-backed forces into confrontation"
-date: 2026-01-02
+date: 2026-01-03
 description: "The powerful Gulf allies back rival sides in an escalating conflict which threatens to divide Yemen. "
 summary: "The powerful Gulf allies back rival sides in an escalating conflict which threatens to divide Yemen. "
 slug: "yemen-clashes-bring-saudi-and-uae-backed-forces-into-confrontation"

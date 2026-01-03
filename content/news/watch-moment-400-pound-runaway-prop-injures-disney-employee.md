@@ -1,6 +1,6 @@
 ---
 title: "Watch: Moment 400-pound runaway prop injures Disney employee"
-date: 2026-01-02
+date: 2026-01-03
 description: "The incident took place during a live recreation of a scene from the film of Indiana Jones "
 summary: "The incident took place during a live recreation of a scene from the film of Indiana Jones "
 slug: "watch-moment-400-pound-runaway-prop-injures-disney-employee"

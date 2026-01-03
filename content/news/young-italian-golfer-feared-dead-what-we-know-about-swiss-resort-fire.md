@@ -1,6 +1,6 @@
 ---
 title: "Young Italian golfer feared dead: What we know about Swiss resort fire"
-date: 2026-01-02
+date: 2026-01-03
 description: "Authorities say 40 people died in the blaze in the resort of Crans-Montana."
 summary: "Authorities say 40 people died in the blaze in the resort of Crans-Montana."
 slug: "young-italian-golfer-feared-dead-what-we-know-about-swiss-resort-fire"

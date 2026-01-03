@@ -1,6 +1,6 @@
 ---
 title: "Stranger Things draws to an epic and emotional close"
-date: 2026-01-02
+date: 2026-01-03
 description: "Fans gathered at premieres in cities across the US and Canada to watch the finale on the big screen."
 summary: "Fans gathered at premieres in cities across the US and Canada to watch the finale on the big screen."
 slug: "stranger-things-draws-to-an-epic-and-emotional-close"

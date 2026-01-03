@@ -1,6 +1,6 @@
 ---
 title: "Americans brace to start New Year without healthcare"
-date: 2026-01-02
+date: 2026-01-03
 description: "More than 20 million Americans are preparing for steeper healthcare costs in the New Year because of expiring subsidies. "
 summary: "More than 20 million Americans are preparing for steeper healthcare costs in the New Year because of expiring subsidies. "
 slug: "americans-brace-to-start-new-year-without-healthcare"

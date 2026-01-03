@@ -1,6 +1,6 @@
 ---
 title: "US slashes proposed tariffs on Italian pasta imports"
-date: 2026-01-02
+date: 2026-01-03
 description: "The plan to impose steep tariffs on 13 producers could have seen major price rises for US consumers."
 summary: "The plan to impose steep tariffs on 13 producers could have seen major price rises for US consumers."
 slug: "us-slashes-proposed-tariffs-on-italian-pasta-imports"

@@ -1,6 +1,6 @@
 ---
 title: "4 charts show the growth of temples around the world the last 50 years - Church News"
-date: 2026-01-02
+date: 2026-01-03
 description: "4 charts show the growth of temples around the world the last 50 years&nbsp;&nbsp;Church NewsSee 50 years of temple growth in 4 charts&nbsp;&nbsp;Deseret NewsTemples in 2025: A look back at a year’s worth of milestone events&nbsp;&nbsp;Church News"
 summary: "4 charts show the growth of temples around the world the last 50 years&nbsp;&nbsp;Church NewsSee 50 years of temple growth in 4 charts&nbsp;&nbsp;Deseret NewsTemples in 2025: A look back at a year’s worth of milestone events&nbsp;&nbsp;Church News"
 slug: "4-charts-show-the-growth-of-temples-around-the-world-the-last-50-years-church-news"
