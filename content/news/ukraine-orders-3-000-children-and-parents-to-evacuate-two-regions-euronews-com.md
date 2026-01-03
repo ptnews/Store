@@ -1,0 +1,21 @@
+---
+title: "Ukraine orders 3,000 children and parents to evacuate two regions - Euronews.com"
+date: 2026-01-03
+description: "Ukraine orders 3,000 children and parents to evacuate two regions&nbsp;&nbsp;Euronews.comUkraine to Evacuate More Than 3,000 Children from Zaporizhzhia and Dnipropetrovsk Regions&nbsp;&nbsp;UNITED24 MediaRussia-Ukraine war: List of key events, day 1,406&nbsp;&nbsp;Al JazeeraRusso-Ukrainian war, day 1409: Ukraine evacuates 3,000 children from front lines as Zelenskyy reshuffles top leadership&nbsp;&nbsp;Euromaidan PressMandatory evacuation announced in border villages of Chernihiv Oblast&nbsp;&nb..."
+summary: "Ukraine orders 3,000 children and parents to evacuate two regions&nbsp;&nbsp;Euronews.comUkraine to Evacuate More Than 3,000 Children from Zaporizhzhia and Dnipropetrovsk Regions&nbsp;&nbsp;UNITED24 MediaRussia-Ukraine war: List of key events, day 1,406&nbsp;&nbsp;Al JazeeraRusso-Ukrainian war, day 1409: Ukraine evacuates 3,000 children from front lines as Zelenskyy reshuffles top leadership&nbsp;&nbsp;Euromaidan PressMandatory evacuation announced in border villages of Chernihiv Oblast&nbsp;&nb..."
+slug: "ukraine-orders-3-000-children-and-parents-to-evacuate-two-regions-euronews-com"
+image: ''
+link: 'https://news.google.com/rss/articles/CBMixAFBVV95cUxQRnpfdGNmbExfSTIwOVYzOXN3WHU0UlptQU91UmdxVGVzUG9zeG1uTTN5TWt0RWw5eDhFa1hpd2U5SmNTbVFseXpkSUtldVYySC1kZGpaa1puN0hhNHFRRl8wZ1V2YTdWS2E0WkYyWExWRkxBcWx6VTJoTHdxR0xaUmhVbVNJQTA3Nkh1dnk2SEVCRGhFM3FJYjZjMDdKRHh1Q1JSY1BSQzJJamRSZFIzV2dNZDdTSjVzZ2dscG50dnNrZWox?oc=5'
+source: 'https://news.google.com/rss/topics/CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx1YlY4U0FtVnVHZ0pWVXlnQVAB?hl=en-US&gl=US&ceid=US:en'
+categories:
+- 'news.google.com'
+tags:
+- 'children'
+- 'evacuate'
+- 'euronews'
+- 'ukraine'
+- 'parents'
+
+draft: false
+---
+<ol><li><a href="https://news.google.com/rss/articles/CBMixAFBVV95cUxQRnpfdGNmbExfSTIwOVYzOXN3WHU0UlptQU91UmdxVGVzUG9zeG1uTTN5TWt0RWw5eDhFa1hpd2U5SmNTbVFseXpkSUtldVYySC1kZGpaa1puN0hhNHFRRl8wZ1V2YTdWS2E0WkYyWExWRkxBcWx6VTJoTHdxR0xaUmhVbVNJQTA3Nkh1dnk2SEVCRGhFM3FJYjZjMDdKRHh1Q1JSY1BSQzJJamRSZFIzV2dNZDdTSjVzZ2dscG50dnNrZWox?oc=5" target="_blank">Ukraine orders 3,000 children and parents to evacuate two regions</a>&nbsp;&nbsp;<font color="#6f6f6f">Euronews.com</font></li><li><a href="https://news.google.com/rss/articles/CBMizAFBVV95cUxOZlF5VzNnQkxyRVFvZDd2amlMNzNzU3UtaG5UbUtOQVVzc01CWWJNbklhQlFBeWZzOHNxOGhvZWhLR3BGZWgzVE5SRXVhQmE4UEVBTUdWdU1jbmJIZk9rUUNGLV9mN3hTMG1XOWtBRDFFZjMyZ0p3OTZwU2cyVHJoS2gycFVOYS0wdVJPOV9xWUhSZkVSdUtDSUlrOC1peGg1MU9lTHNzMlVWckZoeWkxWjVwN1ZENGwxdFFRbTMyWnRQNWtObVFKRlFmRHA?oc=5" target="_blank">Ukraine to Evacuate More Than 3,000 Children from Zaporizhzhia and Dnipropetrovsk Regions</a>&nbsp;&nbsp;<font color="#6f6f6f">UNITED24 Media</font></li><li><a href="https://news.google.com/rss/articles/CBMikgFBVV95cUxPcWZ5M3dsX1lXckdUM0NBSWt3T3NfVDZSSHpVMEdiS0p2cjZhM25ZcXhJaG5vMEFCQUZ3SXRoSHEtRUdCdjRvMU5BQWNDMmNEaDdDZHdNSDcyZnV0emhvSllKUE9DOTdWMUFHdER4TUlyYjJCajZROFEzX1lFRVExZWJQMC1jazFNQXBMU0VjbkZ4QdIBlwFBVV95cUxPYVE2RjJRSk9LeVBjLUNKaDIzSGN2dUVBdWlob2JqNlRNZ3lRUXRuM2p1ZUkyUDVWMkc1bmI0Zk1zaTI0U1lHTmFoN1pyNHBLZmxCUUYyeWZxWDJ3bDl4Y2VQcmJwTW15V3NFd3pCTnAzSnhCMjdGUUVPSWpzSlBpcmZMRTB3T3dzTEpXeTNoVmY1OXNJZ2JV?oc=5" target="_blank">Russia-Ukraine war: List of key events, day 1,406</a>&nbsp;&nbsp;<font color="#6f6f6f">Al Jazeera</font></li><li><a href="https://news.google.com/rss/articles/CBMid0FVX3lxTE1MRUhiMGdZR0ZoT3dNUEtFeHQ3dFBMdGowSkJaanJXQ0lCRkFwOEJScmJwSFNvTmduVG9ReTdEZmNKQ3FaSU9xVzhaUjFWWVIweXl2bzN0dUtOY1JCZVR1VENsTmtHTkt1LVFxNG54QXpGcW5CMmww?oc=5" target="_blank">Russo-Ukrainian war, day 1409: Ukraine evacuates 3,000 children from front lines as Zelenskyy reshuffles top leadership</a>&nbsp;&nbsp;<font color="#6f6f6f">Euromaidan Press</font></li><li><a href="https://news.google.com/rss/articles/CBMiZEFVX3lxTE5sV3hJZkNoelF1WE1kOUZlTnlwN2NkUnNUa1Z5MnZZd1E0LWt6SWsyMUoyOHZ3eERZOHloNnFjUDVSNXFEOUZrU182S3ZLYVRxN281NHZYc2Y4bVNqWHVHSmpuYXXSAXBBVV95cUxPWWhNQTdvUmVOU3RQdU9tUDl5WDNmOExUc1BOenRqMENGV1k5YnN4WUZGUnFjMjZRMGhma3ItUkZrNkk4LUotbUZ6NzhwTHJFRXFBc2c4dVFocnMydVEwcllXLTVGN1BWMjRaNXZHSU1Z?oc=5" target="_blank">Mandatory evacuation announced in border villages of Chernihiv Oblast</a>&nbsp;&nbsp;<font color="#6f6f6f">Українська правда</font></li></ol>

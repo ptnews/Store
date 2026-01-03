@@ -1,0 +1,21 @@
+---
+title: "Yemen’s separatists announce a constitution for an independent south - AP News"
+date: 2026-01-03
+description: "Yemen’s separatists announce a constitution for an independent south&nbsp;&nbsp;AP NewsYemen’s separatist STC calls for independence vote as fighting intensifies&nbsp;&nbsp;Al JazeeraYemen's separatists announce a constitution for an independent south&nbsp;&nbsp;NPRSaudi invites Yemen’s southern factions to ‘dialogue’ in Riyadh after surprise independence bid&nbsp;&nbsp;The GuardianYemen separatists plan transition to independence by 2028&nbsp;&nbsp;dw.com"
+summary: "Yemen’s separatists announce a constitution for an independent south&nbsp;&nbsp;AP NewsYemen’s separatist STC calls for independence vote as fighting intensifies&nbsp;&nbsp;Al JazeeraYemen's separatists announce a constitution for an independent south&nbsp;&nbsp;NPRSaudi invites Yemen’s southern factions to ‘dialogue’ in Riyadh after surprise independence bid&nbsp;&nbsp;The GuardianYemen separatists plan transition to independence by 2028&nbsp;&nbsp;dw.com"
+slug: "yemen-s-separatists-announce-a-constitution-for-an-independent-south-ap-news"
+image: ''
+link: 'https://news.google.com/rss/articles/CBMiowFBVV95cUxOU1VOT2lsZ1JVZE8tYVgydk13STNjeEF0TzVqeVMteGNmZEZVWmpDUkxyZ04zald6N1NBUjFjR2xFdi10R1c3UC1MOGgwNmJiN18xaF9JZGxoZmctM0xsV0gxcEppTTgxMWFKT0NFZzVaQXpZbDhrRmZleEVrY3pjZUdmY0g4MEt2M2N1S2tUNTQtT0c2RTNhWTBRaFpYSXFuZS1N?oc=5'
+source: 'https://news.google.com/rss/topics/CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx1YlY4U0FtVnVHZ0pWVXlnQVAB?hl=en-US&gl=US&ceid=US:en'
+categories:
+- 'news.google.com'
+tags:
+- 'constitution'
+- 'separatists'
+- 'independent'
+- 'announce'
+- 'yemen'
+
+draft: false
+---
+<ol><li><a href="https://news.google.com/rss/articles/CBMiowFBVV95cUxOU1VOT2lsZ1JVZE8tYVgydk13STNjeEF0TzVqeVMteGNmZEZVWmpDUkxyZ04zald6N1NBUjFjR2xFdi10R1c3UC1MOGgwNmJiN18xaF9JZGxoZmctM0xsV0gxcEppTTgxMWFKT0NFZzVaQXpZbDhrRmZleEVrY3pjZUdmY0g4MEt2M2N1S2tUNTQtT0c2RTNhWTBRaFpYSXFuZS1N?oc=5" target="_blank">Yemen’s separatists announce a constitution for an independent south</a>&nbsp;&nbsp;<font color="#6f6f6f">AP News</font></li><li><a href="https://news.google.com/rss/articles/CBMiswFBVV95cUxNZC1YLWFwSy0xY2dHQ0o0c0VaQnFmcWhWdTZ6X3hRNzRpdkFJelc1dm5BcHhFQ0tTVjBCcVZEZ1RzU0ZKZ0hBWWY3ZF84LWRqakRZUnJRWHhKNy0zVWJsNWtXQzVtUGt4THNMcEt1MThqdHI1VTg2WjQzamFpS1NPcVYyT2p2dFFwSVJCa1NkODMxVWdYWjBadFQ1WTYtbjdYc0R1c1R3aDRLUG5NQzhoaWJGc9IBuAFBVV95cUxQWmRlbUtBMnhUZ0FKOV9XLUQydkNMRE5PQThxbjZSM2VnLUN0YkQ5Z0tYWTkzaHhyQU9yQm1DQ2xtQllDQkY3b3d6RVpWQ2F3V0lkZXYxdTM2TWhIbWY3NVQ3Q2U5WUhrT1Y2VlNkYTdmb0Y4QWN4enVBZ0tiZmltSHgwcnprZWx2RFZwLUYtOXZGZEhUNXBwZlFGNWxsNTlSSmRENWV4M1RhMEFKRFFiQzZxQ0JOWFdS?oc=5" target="_blank">Yemen’s separatist STC calls for independence vote as fighting intensifies</a>&nbsp;&nbsp;<font color="#6f6f6f">Al Jazeera</font></li><li><a href="https://news.google.com/rss/articles/CBMifkFVX3lxTE1kdHdZM1dxMlV6elhiTUNEQVNxQmJSV1JXaUU4blNtZjlfUHU3T0dlR0NIXzB4dlRvaC05Mk1iNzd3cjJBSWlneXRrSUZrZ051MDR2bE1ubmpwbWQ0OHVLRTNUZEhNN1pUSUZxdmQzR3BWRWtfYWZBcS1BdTRPUQ?oc=5" target="_blank">Yemen's separatists announce a constitution for an independent south</a>&nbsp;&nbsp;<font color="#6f6f6f">NPR</font></li><li><a href="https://news.google.com/rss/articles/CBMinAFBVV95cUxPbHRGbEtKWkU3ekFRZFJNajc5OVVkZUlOQkxKNl91SFZBVlVrekpMcWktMVdYdFdETDZqb3pxY2VfVXlsUjZCcUNVRjVySExpMlY1V3ZJSTMzSjdlZHdVY09ZdEMwbEZnV1h2Sy1wQVp2SklDazkxTlFHZXBRTmNZOF92b1pyZmszRG0xV1Z6QVAyOHplSDhkNHBUNEg?oc=5" target="_blank">Saudi invites Yemen’s southern factions to ‘dialogue’ in Riyadh after surprise independence bid</a>&nbsp;&nbsp;<font color="#6f6f6f">The Guardian</font></li><li><a href="https://news.google.com/rss/articles/CBMilAFBVV95cUxPXzYtNThXVE5SeVhIRzh6UWR3TlB2RkNMMGRweVhMQjBaSHlObS1GWDRNQm55M013SjJLQ2FxZE56OVVtWGJCUzBtUVJGVFRfY1N1ZHU1OW45alNLWnBNWXFJZ1NqeW9XNzhWMHV6RlpDZUxuWGMxeXBSOHdnUW44ZTg1UzZjTDhOMmtNb2d6SEM4YTdo0gGUAUFVX3lxTE8tei0zdmJMdk04RjA0aXRMZ0l0T0ZuN09Zbm9wZDA2ZnZBRzJPcTNycXFCVlA5UGxHa0NvT1lPLWRsQTd4c3YzRlltdGRzQ3Zidl90R2Nmb0hyNjJGNGF6UVpESUEtaXVrQ1F5dllQX3F5TlFxcDlMYkhPWVc5bjNnSU1wekVGaURGbHYyS2NqRVFmcDg?oc=5" target="_blank">Yemen separatists plan transition to independence by 2028</a>&nbsp;&nbsp;<font color="#6f6f6f">dw.com</font></li></ol>
