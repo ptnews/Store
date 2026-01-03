@@ -1,0 +1,21 @@
+---
+title: "Birmingham revellers turn out for non-existent fireworks – for second new year in a row - The Guardian"
+date: 2026-01-03
+description: "Birmingham revellers turn out for non-existent fireworks – for second new year in a row&nbsp;&nbsp;The GuardianThousands Gather for Fake New Year’s Eve Firework Show After AI Hoax&nbsp;&nbsp;The Daily BeastBritish Crowd Tricked Into Attending Fake New Year's Eve Fireworks For 2nd Year In Row&nbsp;&nbsp;NDTVHundreds Tricked Into Watching Sky for Fireworks That Never Happened... Again&nbsp;&nbsp;OutKickUK news: Confusion swept across the crowds as thousands turned up&nbsp;&nbsp;facebook.com"
+summary: "Birmingham revellers turn out for non-existent fireworks – for second new year in a row&nbsp;&nbsp;The GuardianThousands Gather for Fake New Year’s Eve Firework Show After AI Hoax&nbsp;&nbsp;The Daily BeastBritish Crowd Tricked Into Attending Fake New Year's Eve Fireworks For 2nd Year In Row&nbsp;&nbsp;NDTVHundreds Tricked Into Watching Sky for Fireworks That Never Happened... Again&nbsp;&nbsp;OutKickUK news: Confusion swept across the crowds as thousands turned up&nbsp;&nbsp;facebook.com"
+slug: "birmingham-revellers-turn-out-for-non-existent-fireworks-for-second-new-year-in-a-row-the-guardian"
+image: ''
+link: 'https://news.google.com/rss/articles/CBMirgFBVV95cUxQMEk3QTdQOURNS01BUnRUWDdZbkZvNmdYWWlYVlhyaHBqMWhZa1dfLWs0M1NVbEhlbGo3SmRVSjlnLTdnODRjWnFYZ3VEZlNGMjRydHBUQ3RFdzYzOERZTnVHZ21GSTBfbUZvdDZObVJ3enB1SkVyM3BjNC1aeTdaT0szcDJ6Z0NnMnczU1RLLXVGNmF3YkpFVFhpQk84dDZpZzBBUWd2c05oc0pVOUE?oc=5'
+source: 'https://news.google.com/rss/topics/CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx1YlY4U0FtVnVHZ0pWVXlnQVAB?hl=en-US&gl=US&ceid=US:en'
+categories:
+- 'news.google.com'
+tags:
+- 'birmingham'
+- 'revellers'
+- 'fireworks'
+- 'existent'
+- 'guardian'
+
+draft: false
+---
+<ol><li><a href="https://news.google.com/rss/articles/CBMirgFBVV95cUxQMEk3QTdQOURNS01BUnRUWDdZbkZvNmdYWWlYVlhyaHBqMWhZa1dfLWs0M1NVbEhlbGo3SmRVSjlnLTdnODRjWnFYZ3VEZlNGMjRydHBUQ3RFdzYzOERZTnVHZ21GSTBfbUZvdDZObVJ3enB1SkVyM3BjNC1aeTdaT0szcDJ6Z0NnMnczU1RLLXVGNmF3YkpFVFhpQk84dDZpZzBBUWd2c05oc0pVOUE?oc=5" target="_blank">Birmingham revellers turn out for non-existent fireworks – for second new year in a row</a>&nbsp;&nbsp;<font color="#6f6f6f">The Guardian</font></li><li><a href="https://news.google.com/rss/articles/CBMinwFBVV95cUxNYThFemhZTjNTQmg0RUo3OWRvQWdwNnRsM2ZGS2N4YVFldnEwUDVEaFRZR3ZHWXFGMVNzVmFtRlBleXNJMEo5ektYbmF2Mm1RQzFFMGtmX2JDMXV6VGUyV0F4NVRYWWZUSU1lOU5vOEl4aF9UNmRRMEJHU3VGa2didHFIRGdEMS1peVlKSHZ2Z25VRTJBMWQ4aVIxUjZYa0k?oc=5" target="_blank">Thousands Gather for Fake New Year’s Eve Firework Show After AI Hoax</a>&nbsp;&nbsp;<font color="#6f6f6f">The Daily Beast</font></li><li><a href="https://news.google.com/rss/articles/CBMixAFBVV95cUxNUEtoaC05bkYzMzN4U2NiWVhsazcxUXRSdTd4MFgxTHZpcTZNdklNU2FFc3lEOFlfbDRaR2lsTDlPeXAyZnBsalpXNVM5TW5MN0J3QWFidGZFUXU3R3F1dUszQnlHenBnUFM2dTdlOEl3RUJPZ1U5RTNNcU5NQXNiMGQzYUdaNmpsaENhdVptVExLNmlTMHRHdGdfc2txTnlfbFp4SndXeHk1UV9pc3dBU25la1VOVHl1OS1QUVV6SW1NbjRz0gHMAUFVX3lxTE43azdYZGViei16S3JKQ05iQnlvLWlKekpzYzdLU1JaR2laWWhEc1UtS1F0NXRtbGkxS1AxczVVUGptUG9zc3BSckVDMWFYeWdxWFNSVlNHT3ozOHFfRk81N1NxT1p1TzBsbldQR3NRWUVHM1ZxeUt4MnQ5ZW9SMlFwaHhUWlhRMTJEV3JuZkV3U0UtU0FwMWV1eHd6R2h2NERnVUZiYmZrYUxVMFhEUko4Q0FrSXdoUHJCS3hIOTlub1hZNFliQmg2UEtvRw?oc=5" target="_blank">British Crowd Tricked Into Attending Fake New Year's Eve Fireworks For 2nd Year In Row</a>&nbsp;&nbsp;<font color="#6f6f6f">NDTV</font></li><li><a href="https://news.google.com/rss/articles/CBMid0FVX3lxTE9pNlB2a1k4c1ZzZGxYTzhNMjAyeHNUV1NaVmVmWXVMTnQyTjU0ckVkelRKb041RzJ1aWYwNUhSd2ljN1oyVy0waC02M2JzZWpxZTdYd1F4Tmo4djlrejVRWmdCdktyRnBFSlBXamdQX2xLZTluaUI0?oc=5" target="_blank">Hundreds Tricked Into Watching Sky for Fireworks That Never Happened... Again</a>&nbsp;&nbsp;<font color="#6f6f6f">OutKick</font></li><li><a href="https://news.google.com/rss/articles/CBMi0gFBVV95cUxPcVB1anMwMU5Ja3FxTlN1UmhMdnJqaWlLRm5aTXkzN2pneFdSWFVLNjRKM0RGdlZrRUtHcFRjYlh0ZlkxZDFFeVdQOXFQSHE2czRSQlF2ZlQ4eXN3VWcyemtqVWNlSmZscVFWdFhSdXEyNUxWMi11OVM0dTBfNmJMZ2RsZ1ROQ3dHQklVSEhDUWFMUHRGMjdlaVNNc3k2S3JmXzBIeXJaS2NHOS1lUUVLcW8xc0hINjZSci0yTHZGSUtQRVJoU0VLXzdCVTJCQ2RVbEE?oc=5" target="_blank">UK news: Confusion swept across the crowds as thousands turned up</a>&nbsp;&nbsp;<font color="#6f6f6f">facebook.com</font></li></ol>
