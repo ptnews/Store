@@ -1,8 +1,8 @@
 ---
-title: "Trump says Venezuela’s Maduro captured after huge US military strikes"
+title: "Trump says Venezuela’s Maduro ‘captured’ after huge US military strikes"
 date: 2026-01-03
-description: "President Nicolas Maduro had earlier declared a national state of emergency following the US attack on Caracas."
-summary: "President Nicolas Maduro had earlier declared a national state of emergency following the US attack on Caracas."
+description: "Venezuelan Vice President Delcy Rodriguez calls on the US to issue &quot;proof of life&quot; of Venezuelan leader after US attack."
+summary: "Venezuelan Vice President Delcy Rodriguez calls on the US to issue &quot;proof of life&quot; of Venezuelan leader after US attack."
 slug: "trump-says-venezuela-s-maduro-captured-after-huge-us-military-strikes"
 image: ''
 link: 'https://www.aljazeera.com/news/2026/1/3/explosions-heard-over-venezuelan-capital-caracas-amid-us-tensions?traffic_source=rss'
@@ -18,4 +18,4 @@ tags:
 
 draft: false
 ---
-President Nicolas Maduro had earlier declared a national state of emergency following the US attack on Caracas.
+Venezuelan Vice President Delcy Rodriguez calls on the US to issue &quot;proof of life&quot; of Venezuelan leader after US attack.
