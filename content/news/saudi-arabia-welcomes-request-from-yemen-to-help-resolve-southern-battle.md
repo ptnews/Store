@@ -1,8 +1,8 @@
 ---
 title: "Saudi Arabia welcomes request from Yemen to help resolve southern battle"
 date: 2026-01-03
-description: "Saudi foreign ministry calls on southern factions in Yemen to participate in the forum in Riyadh amid rising casualties."
-summary: "Saudi foreign ministry calls on southern factions in Yemen to participate in the forum in Riyadh amid rising casualties."
+description: "Saudi foreign ministry calls on southern factions in Yemen to participate in a forum in Riyadh amid rising casualties."
+summary: "Saudi foreign ministry calls on southern factions in Yemen to participate in a forum in Riyadh amid rising casualties."
 slug: "saudi-arabia-welcomes-request-from-yemen-to-help-resolve-southern-battle"
 image: ''
 link: 'https://www.aljazeera.com/news/2026/1/3/saudi-arabia-welcomes-request-from-yemen-to-help-resolve-southern-battle?traffic_source=rss'
@@ -18,4 +18,4 @@ tags:
 
 draft: false
 ---
-Saudi foreign ministry calls on southern factions in Yemen to participate in the forum in Riyadh amid rising casualties.
+Saudi foreign ministry calls on southern factions in Yemen to participate in a forum in Riyadh amid rising casualties.
