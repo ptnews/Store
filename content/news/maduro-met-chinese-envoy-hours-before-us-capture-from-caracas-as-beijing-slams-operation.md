@@ -1,8 +1,8 @@
 ---
 title: "Maduro met Chinese envoy hours before US capture from Caracas as Beijing slams operation"
 date: 2026-01-03
-description: "Venezuela&apos;s dictator Nicolas Maduro was captured by U.S. forces and flown out of the country hours after meeting Chinese envoy to Latin America, Qiu Xiaoqi."
-summary: "Venezuela&apos;s dictator Nicolas Maduro was captured by U.S. forces and flown out of the country hours after meeting Chinese envoy to Latin America, Qiu Xiaoqi."
+description: "Venezuela&apos;s dictator Nicolás Maduro was captured by U.S. forces and flown out of the country hours after meeting Chinese envoy to Latin America, Qiu Xiaoqi."
+summary: "Venezuela&apos;s dictator Nicolás Maduro was captured by U.S. forces and flown out of the country hours after meeting Chinese envoy to Latin America, Qiu Xiaoqi."
 slug: "maduro-met-chinese-envoy-hours-before-us-capture-from-caracas-as-beijing-slams-operation"
 image: ''
 link: 'https://www.foxnews.com/world/maduro-met-chinese-envoy-hours-before-us-capture-from-caracas-beijing-slams-operation'
