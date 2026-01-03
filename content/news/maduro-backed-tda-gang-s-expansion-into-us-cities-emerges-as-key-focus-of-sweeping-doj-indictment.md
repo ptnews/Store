@@ -1,8 +1,8 @@
 ---
 title: "Maduro-backed TdA gang’s expansion into US cities emerges as key focus of sweeping DOJ indictment"
 date: 2026-01-03
-description: "Nicolas Maduro faces narco-terrorism and cocaine conspiracy charges in unsealed U.S. indictment after military operation captures Venezuelan president and wife."
-summary: "Nicolas Maduro faces narco-terrorism and cocaine conspiracy charges in unsealed U.S. indictment after military operation captures Venezuelan president and wife."
+description: "Nicolas Maduro faces narco-terrorism and cocaine conspiracy charges in an unsealed U.S. indictment after a military operation captured the Venezuelan president and his wife."
+summary: "Nicolas Maduro faces narco-terrorism and cocaine conspiracy charges in an unsealed U.S. indictment after a military operation captured the Venezuelan president and his wife."
 slug: "maduro-backed-tda-gang-s-expansion-into-us-cities-emerges-as-key-focus-of-sweeping-doj-indictment"
 image: ''
 link: 'https://www.foxnews.com/politics/maduro-backed-tda-gangs-expansion-us-cities-emerges-key-focus-sweeping-doj-indictment'
