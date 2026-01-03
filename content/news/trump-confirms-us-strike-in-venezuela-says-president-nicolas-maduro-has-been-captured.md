@@ -1,12 +1,12 @@
 ---
-title: "Trump confirms US strike in Venezuela, says President Nicolás Maduro has been 'captured'"
+title: "Trump confirms US strike in Venezuela, says President Nicolas Maduro has been 'captured'"
 date: 2026-01-03
 description: "The U.S. military carried out air strikes in various areas of Venezuela, including the capital of Caracas, early Saturday morning, officials confirmed to Fox News."
 summary: "The U.S. military carried out air strikes in various areas of Venezuela, including the capital of Caracas, early Saturday morning, officials confirmed to Fox News."
-slug: "trump-confirms-us-strike-in-venezuela-says-president-nicol-s-maduro-has-been-captured"
+slug: "trump-confirms-us-strike-in-venezuela-says-president-nicolas-maduro-has-been-captured"
 image: ''
 link: 'https://www.foxnews.com/world/explosions-venezuelan-capital-caracas-reports'
-source: 'https://feeds.foxnews.com/foxnews/latest'
+source: 'https://feeds.foxnews.com/foxnews/world'
 categories:
 - 'feeds.foxnews.com'
 tags:
@@ -14,7 +14,7 @@ tags:
 - 'president'
 - 'confirms'
 - 'captured'
-- 'strike'
+- 'nicolas'
 
 draft: false
 ---
