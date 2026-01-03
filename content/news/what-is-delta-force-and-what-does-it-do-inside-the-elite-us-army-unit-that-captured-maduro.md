@@ -1,9 +1,9 @@
 ---
-title: "What is Delta Force and what do they do? Inside the elite US Army unit that captured Maduro"
+title: "What is Delta Force and what does it do? Inside the elite US Army unit that captured Maduro"
 date: 2026-01-03
 description: "What is Delta Force? President Donald Trump confirms the elite U.S. Army unit led the operation that captured Venezuela’s Nicolás Maduro."
 summary: "What is Delta Force? President Donald Trump confirms the elite U.S. Army unit led the operation that captured Venezuela’s Nicolás Maduro."
-slug: "what-is-delta-force-and-what-do-they-do-inside-the-elite-us-army-unit-that-captured-maduro"
+slug: "what-is-delta-force-and-what-does-it-do-inside-the-elite-us-army-unit-that-captured-maduro"
 image: ''
 link: 'https://www.foxnews.com/world/what-is-delta-force-what-do-they-do-inside-elite-us-army-unit-captured-maduro'
 source: 'https://feeds.foxnews.com/foxnews/world'
