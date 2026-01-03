@@ -1,8 +1,8 @@
 ---
 title: "You can finally change your Gmail address without losing data"
 date: 2026-01-03
-description: "Gmail address change feature lets users replace their @gmail.com email while keeping inbox history, Google Drive files, photos and purchase data intact."
-summary: "Gmail address change feature lets users replace their @gmail.com email while keeping inbox history, Google Drive files, photos and purchase data intact."
+description: "A Gmail address change feature lets users replace their @gmail.com email while keeping inbox history, Google Drive files, photos and purchase data intact."
+summary: "A Gmail address change feature lets users replace their @gmail.com email while keeping inbox history, Google Drive files, photos and purchase data intact."
 slug: "you-can-finally-change-your-gmail-address-without-losing-data"
 image: ''
 link: 'https://www.foxnews.com/tech/you-can-finally-change-your-gmail-address-without-losing-data'
