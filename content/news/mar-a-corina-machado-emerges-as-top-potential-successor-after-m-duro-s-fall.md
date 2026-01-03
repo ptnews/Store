@@ -1,9 +1,9 @@
 ---
-title: "Maria Corina Machado emerges as top potential successor after Maduro’s fall"
+title: "María Corina Machado emerges as top potential successor after Máduro’s fall"
 date: 2026-01-03
 description: "With Nicolás Maduro out, experts say Nobel laureate María Corina Machado and Edmundo González could lead Venezuela’s transition, though major hurdles remain."
 summary: "With Nicolás Maduro out, experts say Nobel laureate María Corina Machado and Edmundo González could lead Venezuela’s transition, though major hurdles remain."
-slug: "maria-corina-machado-emerges-as-top-potential-successor-after-maduro-s-fall"
+slug: "mar-a-corina-machado-emerges-as-top-potential-successor-after-m-duro-s-fall"
 image: ''
 link: 'https://www.foxnews.com/world/maria-corina-machado-emerges-top-potential-successor-after-maduros-fall'
 source: 'https://feeds.foxnews.com/foxnews/world'

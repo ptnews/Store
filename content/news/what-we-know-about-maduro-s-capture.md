@@ -1,8 +1,8 @@
 ---
 title: "What we know about Maduro's capture "
 date: 2026-01-03
-description: "Explosions were seen in capital Caracas as President Nicolas Maduro was detained by the US. "
-summary: "Explosions were seen in capital Caracas as President Nicolas Maduro was detained by the US. "
+description: "Maduro and his wife were taken from \"a house that was more like a fortress\", Donald Trump says."
+summary: "Maduro and his wife were taken from \"a house that was more like a fortress\", Donald Trump says."
 slug: "what-we-know-about-maduro-s-capture"
 image: ''
 link: 'https://www.bbc.com/news/articles/crmlz7r0zrxo?at_medium=RSS&at_campaign=rss'
@@ -16,4 +16,4 @@ tags:
 
 draft: false
 ---
-Explosions were seen in capital Caracas as President Nicolas Maduro was detained by the US. 
+Maduro and his wife were taken from "a house that was more like a fortress", Donald Trump says.
