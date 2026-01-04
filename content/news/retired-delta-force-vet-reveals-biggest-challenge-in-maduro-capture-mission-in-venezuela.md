@@ -1,0 +1,21 @@
+---
+title: "Retired Delta Force vet reveals biggest challenge in Maduro capture mission in Venezuela"
+date: 2026-01-04
+description: "Retired Delta Force member reveals the biggest challenge in capturing Venezuela&apos;s Nicolás Maduro wasn&apos;t the target — it was addressing the country&apos;s air defenses."
+summary: "Retired Delta Force member reveals the biggest challenge in capturing Venezuela&apos;s Nicolás Maduro wasn&apos;t the target — it was addressing the country&apos;s air defenses."
+slug: "retired-delta-force-vet-reveals-biggest-challenge-in-maduro-capture-mission-in-venezuela"
+image: ''
+link: 'https://www.foxnews.com/media/retired-delta-force-vet-reveals-biggest-challenge-venezuela-maduro-capture-mission'
+source: 'https://feeds.foxnews.com/foxnews/latest'
+categories:
+- 'feeds.foxnews.com'
+tags:
+- 'challenge'
+- 'venezuela'
+- 'retired'
+- 'reveals'
+- 'biggest'
+
+draft: false
+---
+<p>A retired Delta Force veteran offered new insight into the U.S. military’s capture of Venezuela's Nicolás Maduro, revealing the most difficult part of the mission and describing the <a href="https://www.foxnews.com/category/us/military/army" target="_blank" rel="noopener">elite Army special operations</a> unit as "more polished now than ever."</p><p>John McPhee, who served in the U.S. Army's elite special operations unit, told "Fox &amp; Friends Weekend" on Sunday that the greatest challenge of the mission came before operators reached their target.</p><p>"I'd say the most difficult task is knocking out all the air defenses and getting the guys in on the ground," McPhee said. "Once the guys are on the ground, they can handle themselves. However, you gotta get to the fight if you're gonna have a fight."</p><p><a href="https://www.foxnews.com/politics/trump-reveals-venezuelas-maduro-captured-fortress-like-house-he-got-bum-rushed-so-fast" target="_blank" rel="noopener"><strong>TRUMP REVEALS VENEZUELA’S MADURO WAS CAPTURED IN ‘FORTRESS’-LIKE HOUSE: ‘HE GOT BUM RUSHED SO FAST’</strong></a></p><p>McPhee emphasized that operations of this scale require extensive preparation and coordination. </p><p>"Something like this would take months to kind of plan, get organized. But once the guys figure this out, there's no stopping them," he said.</p><p>During the raid, <a href="https://www.foxnews.com/world/what-is-delta-force-what-do-they-do-inside-elite-us-army-unit-captured-maduro" target="_blank" rel="noopener">U.S. Army helicopters</a> from the 160th Special Operations Aviation Regiment, known as the "Night Stalkers," flew the special operations forces into Venezuela, officials said.</p><p>At least <a href="https://www.foxnews.com/world/explosions-venezuelan-capital-caracas-reports" target="_blank" rel="noopener"><u>seven explosions were heard</u></a> in Venezuela’s capital, Caracas, and low-flying aircraft were seen over the city at about 2 a.m. local time, according to reports.</p><p><a href="https://www.foxnews.com/world/us-capture-maduro-championed-condemned-across-world-stage-after-surgical-venezuela-strikes" target="_blank" rel="noopener"><strong>US CAPTURE OF MADURO CHAMPIONED, CONDEMNED ACROSS WORLD STAGE AFTER SURGICAL VENEZUELA STRIKES</strong></a></p><p><a href="https://www.foxnews.com/category/tech/topics/cia" target="_blank" rel="noopener"><u>The CIA</u></a> provided intelligence to the Department of War that helped guide Delta Force to Maduro and his wife, whom President Donald Trump said were apprehended during the U.S. military operation.</p><p>Despite the complexity of the strike, McPhee expressed confidence in the <a href="https://www.foxnews.com/category/us/military" target="_blank" rel="noopener">military's planning</a> for every possible scenario.</p><p>"All those tiny details were gone over, polished out, so there were no tiny details that could stop anything that these guys did."</p><p>He said the mission highlights how refined the force has become, adding that America can "use a ground force like nobody has used in history."</p><p>"These guys plan for this, they train for this. Basically, they spend their whole adult lives for this one mission," McPhee said. </p><p>No Americans were killed during the mission, a feat praised by Trump. </p><p><i>Fox News' Michael Dorgan, Rachel Wolf, David Spunt and Lucas Tomlinson contributed to this report. </i></p>
