@@ -1,0 +1,21 @@
+---
+title: "In 2026, Citizens From These 7 Nations Are Limited From Entering The U.S. – Along With 19 Others - Forbes"
+date: 2026-01-04
+description: "In 2026, Citizens From These 7 Nations Are Limited From Entering The U.S. – Along With 19 Others&nbsp;&nbsp;ForbesNew Trump-ordered immigration restrictions go into effect Jan. 1&nbsp;&nbsp;ABC NewsWhy are some African countries banning US citizens from entry?&nbsp;&nbsp;Al JazeeraMali and Burkina Faso impose travel ban on US citizens in tit-for-tat move&nbsp;&nbsp;BBCMali and Burkina Faso Impose Travel Bans on Americans&nbsp;&nbsp;The New York Times"
+summary: "In 2026, Citizens From These 7 Nations Are Limited From Entering The U.S. – Along With 19 Others&nbsp;&nbsp;ForbesNew Trump-ordered immigration restrictions go into effect Jan. 1&nbsp;&nbsp;ABC NewsWhy are some African countries banning US citizens from entry?&nbsp;&nbsp;Al JazeeraMali and Burkina Faso impose travel ban on US citizens in tit-for-tat move&nbsp;&nbsp;BBCMali and Burkina Faso Impose Travel Bans on Americans&nbsp;&nbsp;The New York Times"
+slug: "in-2026-citizens-from-these-7-nations-are-limited-from-entering-the-u-s-along-with-19-others-forbes"
+image: ''
+link: 'https://news.google.com/rss/articles/CBMi3wFBVV95cUxOTFYydlJfSU5lOEhIMC1MVHJMbWRZbjdUbGxlQmxHQU00dnA3cnBXR0FhT3laUWtUSmFxZ1dqTWJIU2xoTE1SSGlERHE2ZWpKUXczbzZPaFdnWnJJallNU1E1QzYzMEQ4YXBDZk9raXFtTFNaanQwNWFNTzMyVjNtTGw3czROMWRyZ3FXdFFmNGFNMkR3R1EzQ0x4WlhvakRHZzlTcFVDS3BEdnJ3NGZJTHJmVFk2cFNhelBLXzcxNVZDemJtOVByTzAwUEtMSzlpXzdOSmc0ODdrVDJZNHcw?oc=5'
+source: 'https://news.google.com/rss/topics/CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx1YlY4U0FtVnVHZ0pWVXlnQVAB?hl=en-US&gl=US&ceid=US:en'
+categories:
+- 'news.google.com'
+tags:
+- 'citizens'
+- 'entering'
+- 'nations'
+- 'limited'
+- 'others'
+
+draft: false
+---
+<ol><li><a href="https://news.google.com/rss/articles/CBMi3wFBVV95cUxOTFYydlJfSU5lOEhIMC1MVHJMbWRZbjdUbGxlQmxHQU00dnA3cnBXR0FhT3laUWtUSmFxZ1dqTWJIU2xoTE1SSGlERHE2ZWpKUXczbzZPaFdnWnJJallNU1E1QzYzMEQ4YXBDZk9raXFtTFNaanQwNWFNTzMyVjNtTGw3czROMWRyZ3FXdFFmNGFNMkR3R1EzQ0x4WlhvakRHZzlTcFVDS3BEdnJ3NGZJTHJmVFk2cFNhelBLXzcxNVZDemJtOVByTzAwUEtMSzlpXzdOSmc0ODdrVDJZNHcw?oc=5" target="_blank">In 2026, Citizens From These 7 Nations Are Limited From Entering The U.S. – Along With 19 Others</a>&nbsp;&nbsp;<font color="#6f6f6f">Forbes</font></li><li><a href="https://news.google.com/rss/articles/CBMiogFBVV95cUxPbFRINGVlaGNkVmZxbnFUWll0LVVRNUdjQ0NUaXR2T1ZyR0NyVk5GRTB4YkdZaEZiWGJqMU9rR3c1TE9nMXZfbXYxNURYTGFSWnVBSktRUURBblBYOHJrNUs4NkFRM2JLbTVDODdnUWJiYnFOUkNXejhqVDFvc2JRT3ByNjhmNHFrZGVvWHNiWlJXWFdNTmpJeWpJMEg4ZV9pV2fSAacBQVVfeXFMUDdtbzktYVItTXRLTXp6Y1E5Y2tlRGh2cDM3a3ViTmsyckVaLUFtMTBMNUVObGhLTjd1NnVOOXctSHFzN1NkaFBwalFwZlZ1bGJVWnE3QmZFT205em1rcGp1Z3l2TEg3SWdwY1JTNVBScWplYnh2N2p2end0ZnhhZUk0dUFES3dpQkZZLTN1M2N5UjJDcjRBYlJvNXd5YkQzakVqdGhBUHM?oc=5" target="_blank">New Trump-ordered immigration restrictions go into effect Jan. 1</a>&nbsp;&nbsp;<font color="#6f6f6f">ABC News</font></li><li><a href="https://news.google.com/rss/articles/CBMiowFBVV95cUxOSFRLbnVJaDVTRlpCLW1VWXk2MjNuSlNDb2s4eWRaR1RyYlNuZE5uVnVDQ3RGOWh1cEJyclp5RnNWd3Zwc0NpdFVrZC0zeVJvcTFma18ySFA4LXBoUWVJYUxOclA1SUl5YVpSUkI2TWRKNFhPVDVUUmw3MUdEbWxqeXNLQjVmbEZOWC1xVmN0NVYtZ2htUEZNMHN1TGtoR1ptV1Rr0gGoAUFVX3lxTFBnYkFST2Y0SzVSTThRbnBmTHpYNl9HYThjSWVMLTBhZ0ZuaFRoc1pvZVlpQkFPSEt3S3VIX2dVNFR0aEliMDBQRE9yRnlqekdiWEVaRG9GRnRlQ0FDY1RFUjRIWWV3VGpNSFlxVl9rSUcwazkyc1RGLXVROEQtdkVsVkhaM2gzazl1eGFCWHdkMnpTcjRlYWFZXzVFTTdJT2g0RVJtYkp2dQ?oc=5" target="_blank">Why are some African countries banning US citizens from entry?</a>&nbsp;&nbsp;<font color="#6f6f6f">Al Jazeera</font></li><li><a href="https://news.google.com/rss/articles/CBMiWkFVX3lxTE4zdG5vNWpCX2FDYktvMDNISlRfZjBsbml3aG5ibzRIaEZuTy1nNm80OFhneGppbnpudnU3cDFIc2hUbDNJdFk0dUNJQWNoZnJRUUJJd0pxenROUQ?oc=5" target="_blank">Mali and Burkina Faso impose travel ban on US citizens in tit-for-tat move</a>&nbsp;&nbsp;<font color="#6f6f6f">BBC</font></li><li><a href="https://news.google.com/rss/articles/CBMijAFBVV95cUxOY2dXWDQtMTJ0OUxGMVQ2M0VzUVk2aTFJQWszUlZQa3lKN21oa21qZEw4dU81NFM1Q1ZxOUpueXc0T1RSLXlEWEExUGRPVU81UnF3RV8tbmJLdU9MOFZTYWNFX0cwZ2VtdDJHdExXcFFxSWZYZ21KOU9JWWVvQlA3c1lNSy1uZ054cHZVcQ?oc=5" target="_blank">Mali and Burkina Faso Impose Travel Bans on Americans</a>&nbsp;&nbsp;<font color="#6f6f6f">The New York Times</font></li></ol>
