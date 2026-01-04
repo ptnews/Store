@@ -1,6 +1,6 @@
 ---
 title: "Missile attack on Kharkiv kills two including child, authorities say"
-date: 2026-01-03
+date: 2026-01-04
 description: "Russian officials say reports of the missile strike are untrue, suggesting the explosion was caused by Ukrainian ammunition."
 summary: "Russian officials say reports of the missile strike are untrue, suggesting the explosion was caused by Ukrainian ammunition."
 slug: "missile-attack-on-kharkiv-kills-two-including-child-authorities-say"

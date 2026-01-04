@@ -1,6 +1,6 @@
 ---
 title: "Can community groups help cut small boat crossings? - BBC"
-date: 2026-01-03
+date: 2026-01-04
 description: "Can community groups help cut small boat crossings?&nbsp;&nbsp;BBC"
 summary: "Can community groups help cut small boat crossings?&nbsp;&nbsp;BBC"
 slug: "can-community-groups-help-cut-small-boat-crossings-bbc"

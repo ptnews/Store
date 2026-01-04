@@ -1,6 +1,6 @@
 ---
 title: "Racial and religious hate crime on UK public transport is growing, data shows - The Guardian"
-date: 2026-01-03
+date: 2026-01-04
 description: "Racial and religious hate crime on UK public transport is growing, data shows&nbsp;&nbsp;The Guardian‘I’m Muslim and wore a face veil for the first time. Then a man tried to hit me on the Tube’&nbsp;&nbsp;The IndependentI was racially abused on a bus - I'm not surprised hate crimes are rising&nbsp;&nbsp;Metro.co.ukRacist and religious hate crimes on the rise across UK public transport networks&nbsp;&nbsp;HariciIslamophobic attacks on public transport growing in UK&nbsp;&nbsp;arabnews.jp"
 summary: "Racial and religious hate crime on UK public transport is growing, data shows&nbsp;&nbsp;The Guardian‘I’m Muslim and wore a face veil for the first time. Then a man tried to hit me on the Tube’&nbsp;&nbsp;The IndependentI was racially abused on a bus - I'm not surprised hate crimes are rising&nbsp;&nbsp;Metro.co.ukRacist and religious hate crimes on the rise across UK public transport networks&nbsp;&nbsp;HariciIslamophobic attacks on public transport growing in UK&nbsp;&nbsp;arabnews.jp"
 slug: "racial-and-religious-hate-crime-on-uk-public-transport-is-growing-data-shows-the-guardian"

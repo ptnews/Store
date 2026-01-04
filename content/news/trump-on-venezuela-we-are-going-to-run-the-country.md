@@ -1,6 +1,6 @@
 ---
 title: "Trump on Venezuela: 'We are going to run the country'"
-date: 2026-01-03
+date: 2026-01-04
 description: "President Donald Trump announced that the US will run Venezuela until a 'proper transition can take place.'"
 summary: "President Donald Trump announced that the US will run Venezuela until a 'proper transition can take place.'"
 slug: "trump-on-venezuela-we-are-going-to-run-the-country"

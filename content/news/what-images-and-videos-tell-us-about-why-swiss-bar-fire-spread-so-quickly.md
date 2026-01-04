@@ -1,6 +1,6 @@
 ---
 title: "What images and videos tell us about why Swiss bar fire spread so quickly"
-date: 2026-01-03
+date: 2026-01-04
 description: "How the blaze took hold with such ferocity, killing at least 40 people and leaving many more critically injured, is now a key focus for officials."
 summary: "How the blaze took hold with such ferocity, killing at least 40 people and leaving many more critically injured, is now a key focus for officials."
 slug: "what-images-and-videos-tell-us-about-why-swiss-bar-fire-spread-so-quickly"

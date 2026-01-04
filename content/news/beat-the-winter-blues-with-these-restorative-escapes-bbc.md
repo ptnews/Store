@@ -1,6 +1,6 @@
 ---
 title: "Beat the winter blues with these restorative escapes - BBC"
-date: 2026-01-03
+date: 2026-01-04
 description: "Beat the winter blues with these restorative escapes&nbsp;&nbsp;BBC"
 summary: "Beat the winter blues with these restorative escapes&nbsp;&nbsp;BBC"
 slug: "beat-the-winter-blues-with-these-restorative-escapes-bbc"

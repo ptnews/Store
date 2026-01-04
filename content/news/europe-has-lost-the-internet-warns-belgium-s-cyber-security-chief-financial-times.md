@@ -1,6 +1,6 @@
 ---
 title: "Europe has ‘lost the internet’, warns Belgium’s cyber security chief - Financial Times"
-date: 2026-01-03
+date: 2026-01-04
 description: "Europe has ‘lost the internet’, warns Belgium’s cyber security chief&nbsp;&nbsp;Financial TimesBelgium Recognizes Europe's Backwardness in Internet Development&nbsp;&nbsp;Inbox.lvBelgium Cybersecurity Chief Urges EU Digital Sovereignty Amid US Tech Dependence&nbsp;&nbsp;БуквиEurope Has ‘Lost the Internet,’ Warns Belgium’s Cybersecurity Chief: A Wake-Up Call for the Digital Age&nbsp;&nbsp;vocal.mediaEurope has lost the internet, Belgium’s cyber security chief warns&nbsp;&nbsp;C..."
 summary: "Europe has ‘lost the internet’, warns Belgium’s cyber security chief&nbsp;&nbsp;Financial TimesBelgium Recognizes Europe's Backwardness in Internet Development&nbsp;&nbsp;Inbox.lvBelgium Cybersecurity Chief Urges EU Digital Sovereignty Amid US Tech Dependence&nbsp;&nbsp;БуквиEurope Has ‘Lost the Internet,’ Warns Belgium’s Cybersecurity Chief: A Wake-Up Call for the Digital Age&nbsp;&nbsp;vocal.mediaEurope has lost the internet, Belgium’s cyber security chief warns&nbsp;&nbsp;C..."
 slug: "europe-has-lost-the-internet-warns-belgium-s-cyber-security-chief-financial-times"

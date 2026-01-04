@@ -1,6 +1,6 @@
 ---
 title: "‘Escape From Pompeii’ Review: Life After the Eruption - The Wall Street Journal"
-date: 2026-01-03
+date: 2026-01-04
 description: "‘Escape From Pompeii’ Review: Life After the Eruption&nbsp;&nbsp;The Wall Street Journal"
 summary: "‘Escape From Pompeii’ Review: Life After the Eruption&nbsp;&nbsp;The Wall Street Journal"
 slug: "escape-from-pompeii-review-life-after-the-eruption-the-wall-street-journal"

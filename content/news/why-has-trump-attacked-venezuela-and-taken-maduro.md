@@ -1,6 +1,6 @@
 ---
 title: "Why has Trump attacked Venezuela and taken Maduro?"
-date: 2026-01-03
+date: 2026-01-04
 description: "The US has been ramping up pressure on the Venezuelan leader since Trump took office last January."
 summary: "The US has been ramping up pressure on the Venezuelan leader since Trump took office last January."
 slug: "why-has-trump-attacked-venezuela-and-taken-maduro"

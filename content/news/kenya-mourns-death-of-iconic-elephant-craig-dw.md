@@ -1,6 +1,6 @@
 ---
 title: "Kenya mourns death of iconic elephant Craig - DW"
-date: 2026-01-03
+date: 2026-01-04
 description: "Kenya mourns death of iconic elephant Craig&nbsp;&nbsp;DWCraig the beer-ambassador elephant dies aged 54&nbsp;&nbsp;BBCConservationists in Kenya pay tribute to beloved 'super tusker' elephant Craig, who died at age 54&nbsp;&nbsp;AP NewsAP Trending SummaryBrief at 8:49 a.m. EST&nbsp;&nbsp;Hometown StationsCraig, Kenya’s iconic elephant and Tusker beer ambassador, dies at 54&nbsp;&nbsp;Daily Nation"
 summary: "Kenya mourns death of iconic elephant Craig&nbsp;&nbsp;DWCraig the beer-ambassador elephant dies aged 54&nbsp;&nbsp;BBCConservationists in Kenya pay tribute to beloved 'super tusker' elephant Craig, who died at age 54&nbsp;&nbsp;AP NewsAP Trending SummaryBrief at 8:49 a.m. EST&nbsp;&nbsp;Hometown StationsCraig, Kenya’s iconic elephant and Tusker beer ambassador, dies at 54&nbsp;&nbsp;Daily Nation"
 slug: "kenya-mourns-death-of-iconic-elephant-craig-dw"

@@ -1,6 +1,6 @@
 ---
 title: "Air India pilot removed from plane under influence of alcohol; Canada seeks investigation - CNBC"
-date: 2026-01-03
+date: 2026-01-04
 description: "Air India pilot removed from plane under influence of alcohol; Canada seeks investigation&nbsp;&nbsp;CNBCView Full Coverage on Google News"
 summary: "Air India pilot removed from plane under influence of alcohol; Canada seeks investigation&nbsp;&nbsp;CNBCView Full Coverage on Google News"
 slug: "air-india-pilot-removed-from-plane-under-influence-of-alcohol-canada-seeks-investigation-cnbc"

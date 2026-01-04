@@ -1,6 +1,6 @@
 ---
 title: "Security Council: New faces, old tensions as five nations take their seats - UN News"
-date: 2026-01-03
+date: 2026-01-04
 description: "Security Council: New faces, old tensions as five nations take their seats&nbsp;&nbsp;UN News5 countries assume responsibilities as UN Security Council non-permanent members&nbsp;&nbsp;XinhuaDRC, Liberia among five new non-permanent UN Security Council members&nbsp;&nbsp;africanews.comForeign Minister meets heads of overseas diplomatic missions on Bahrain’s UN Security Council membership&nbsp;&nbsp;OANANewsAlgeria’s Security Council Term: A Firm Voice for Just Causes and Africa’s Rights&nb..."
 summary: "Security Council: New faces, old tensions as five nations take their seats&nbsp;&nbsp;UN News5 countries assume responsibilities as UN Security Council non-permanent members&nbsp;&nbsp;XinhuaDRC, Liberia among five new non-permanent UN Security Council members&nbsp;&nbsp;africanews.comForeign Minister meets heads of overseas diplomatic missions on Bahrain’s UN Security Council membership&nbsp;&nbsp;OANANewsAlgeria’s Security Council Term: A Firm Voice for Just Causes and Africa’s Rights&nb..."
 slug: "security-council-new-faces-old-tensions-as-five-nations-take-their-seats-un-news"

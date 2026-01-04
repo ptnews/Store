@@ -1,6 +1,6 @@
 ---
 title: "What we know about Maduro's capture and US plan to 'run' Venezuela"
-date: 2026-01-03
+date: 2026-01-04
 description: "Donald Trump said the US would \"run\" Venezuela until a \"safe\" transition after his forces captured President Nicolás Maduro and his wife."
 summary: "Donald Trump said the US would \"run\" Venezuela until a \"safe\" transition after his forces captured President Nicolás Maduro and his wife."
 slug: "what-we-know-about-maduro-s-capture-and-us-plan-to-run-venezuela"

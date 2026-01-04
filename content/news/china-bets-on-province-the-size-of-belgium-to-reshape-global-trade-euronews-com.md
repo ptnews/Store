@@ -1,6 +1,6 @@
 ---
 title: "China bets on province the size of Belgium to reshape global trade - Euronews.com"
-date: 2026-01-03
+date: 2026-01-04
 description: "China bets on province the size of Belgium to reshape global trade&nbsp;&nbsp;Euronews.comOpinion | Is Hainan the next Hong Kong? That’s the wrong question to ask&nbsp;&nbsp;South China Morning PostValue of 'zero-tariff' imported goods in Hainan FTP reaches 420 million yuan as of Dec 31, 2025&nbsp;&nbsp;Global TimesPromotional blitz and strong footfall prompt+93.8% surge in New Year’s Day Hainan offshore duty-free sales&nbsp;&nbsp;Moodie Davitt ReportForeign Companies Expand into Hainan as F..."
 summary: "China bets on province the size of Belgium to reshape global trade&nbsp;&nbsp;Euronews.comOpinion | Is Hainan the next Hong Kong? That’s the wrong question to ask&nbsp;&nbsp;South China Morning PostValue of 'zero-tariff' imported goods in Hainan FTP reaches 420 million yuan as of Dec 31, 2025&nbsp;&nbsp;Global TimesPromotional blitz and strong footfall prompt+93.8% surge in New Year’s Day Hainan offshore duty-free sales&nbsp;&nbsp;Moodie Davitt ReportForeign Companies Expand into Hainan as F..."
 slug: "china-bets-on-province-the-size-of-belgium-to-reshape-global-trade-euronews-com"

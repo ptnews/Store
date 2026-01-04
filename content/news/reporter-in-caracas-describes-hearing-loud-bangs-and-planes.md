@@ -1,6 +1,6 @@
 ---
 title: "Reporter in Caracas describes hearing loud bangs and planes"
-date: 2026-01-03
+date: 2026-01-04
 description: "Ana Vanessa Herrero is in Caracas and says she began hearing planes at 02:00 local time.
 
 "

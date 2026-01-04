@@ -1,6 +1,6 @@
 ---
 title: "Pakistan court sentences journalists to life over links to protests after Imran Khan's arrest - Reuters"
-date: 2026-01-03
+date: 2026-01-04
 description: "Pakistan court sentences journalists to life over links to protests after Imran Khan's arrest&nbsp;&nbsp;ReutersPakistan court sentences journalists to life over 2023 pro-Khan protests&nbsp;&nbsp;Al JazeeraPakistan sentences journalists, YouTubers and ex-military officers to life over inciting violence&nbsp;&nbsp;AP NewsIslamabad ATC hands double life sentences to YouTuber Adil Raja, 6 others for ‘waging war against Pakistan’&nbsp;&nbsp;DawnCrushing Digital Dissent: Pakistani Court Hands Lif..."
 summary: "Pakistan court sentences journalists to life over links to protests after Imran Khan's arrest&nbsp;&nbsp;ReutersPakistan court sentences journalists to life over 2023 pro-Khan protests&nbsp;&nbsp;Al JazeeraPakistan sentences journalists, YouTubers and ex-military officers to life over inciting violence&nbsp;&nbsp;AP NewsIslamabad ATC hands double life sentences to YouTuber Adil Raja, 6 others for ‘waging war against Pakistan’&nbsp;&nbsp;DawnCrushing Digital Dissent: Pakistani Court Hands Lif..."
 slug: "pakistan-court-sentences-journalists-to-life-over-links-to-protests-after-imran-khan-s-arrest-reuters"

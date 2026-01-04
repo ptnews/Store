@@ -1,6 +1,6 @@
 ---
 title: "Two people killed in magnitude 6.5 earthquake in Mexico"
-date: 2026-01-03
+date: 2026-01-04
 description: "The powerful earthquake shook southern and central Mexico on Friday, also leaving several people injured. "
 summary: "The powerful earthquake shook southern and central Mexico on Friday, also leaving several people injured. "
 slug: "two-people-killed-in-magnitude-6-5-earthquake-in-mexico"

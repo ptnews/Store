@@ -1,6 +1,6 @@
 ---
 title: "Ukraine orders 3,000 children and parents to evacuate two regions - Euronews.com"
-date: 2026-01-03
+date: 2026-01-04
 description: "Ukraine orders 3,000 children and parents to evacuate two regions&nbsp;&nbsp;Euronews.comCompulsory Evacuation of 44 Settlements in Dnipropetrovsk and Zaporizhzhia Regions Announced&nbsp;&nbsp;МілітарнийUkraine to Evacuate More Than 3,000 Children from Zaporizhzhia and Dnipropetrovsk Regions&nbsp;&nbsp;UNITED24 MediaRussia-Ukraine war: List of key events, day 1,406&nbsp;&nbsp;Al JazeeraMandatory evacuation announced in border villages of Chernihiv Oblast&nbsp;&nbsp;Українська..."
 summary: "Ukraine orders 3,000 children and parents to evacuate two regions&nbsp;&nbsp;Euronews.comCompulsory Evacuation of 44 Settlements in Dnipropetrovsk and Zaporizhzhia Regions Announced&nbsp;&nbsp;МілітарнийUkraine to Evacuate More Than 3,000 Children from Zaporizhzhia and Dnipropetrovsk Regions&nbsp;&nbsp;UNITED24 MediaRussia-Ukraine war: List of key events, day 1,406&nbsp;&nbsp;Al JazeeraMandatory evacuation announced in border villages of Chernihiv Oblast&nbsp;&nbsp;Українська..."
 slug: "ukraine-orders-3-000-children-and-parents-to-evacuate-two-regions-euronews-com"

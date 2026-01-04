@@ -1,6 +1,6 @@
 ---
 title: "At least two people killed and scores injured in Russian strike on Ukraine's Kharkiv - Euronews.com"
-date: 2026-01-03
+date: 2026-01-04
 description: "At least two people killed and scores injured in Russian strike on Ukraine's Kharkiv&nbsp;&nbsp;Euronews.comMissile attack on Kharkiv kills two including child, authorities say&nbsp;&nbsp;BBCRussian strike on Ukraine's Kharkiv kills two, injures 25, Moscow denies attack took place&nbsp;&nbsp;ReutersRussians hit high-rise building in Kharkiv&nbsp;&nbsp;Українська правдаAnguish, Finger-Pointing After Strike On Kharkiv Zoo&nbsp;&nbsp;Radio Free Europe/Radio Liberty"
 summary: "At least two people killed and scores injured in Russian strike on Ukraine's Kharkiv&nbsp;&nbsp;Euronews.comMissile attack on Kharkiv kills two including child, authorities say&nbsp;&nbsp;BBCRussian strike on Ukraine's Kharkiv kills two, injures 25, Moscow denies attack took place&nbsp;&nbsp;ReutersRussians hit high-rise building in Kharkiv&nbsp;&nbsp;Українська правдаAnguish, Finger-Pointing After Strike On Kharkiv Zoo&nbsp;&nbsp;Radio Free Europe/Radio Liberty"
 slug: "at-least-two-people-killed-and-scores-injured-in-russian-strike-on-ukraine-s-kharkiv-euronews-com"

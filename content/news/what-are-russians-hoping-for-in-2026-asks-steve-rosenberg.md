@@ -1,6 +1,6 @@
 ---
 title: "What are Russians hoping for in 2026, asks Steve Rosenberg"
-date: 2026-01-03
+date: 2026-01-04
 description: "The BBC's Russia editor speaks to people in the country as the war in Ukraine nears a fourth year.
 "
 summary: "The BBC's Russia editor speaks to people in the country as the war in Ukraine nears a fourth year.

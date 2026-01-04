@@ -1,6 +1,6 @@
 ---
 title: "Four challenges facing New York City Mayor Mamdani "
-date: 2026-01-03
+date: 2026-01-04
 description: "Can the Democratic socialist deliver on the big cost-of-living promises that propelled him to victory?"
 summary: "Can the Democratic socialist deliver on the big cost-of-living promises that propelled him to victory?"
 slug: "four-challenges-facing-new-york-city-mayor-mamdani"

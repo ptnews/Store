@@ -1,6 +1,6 @@
 ---
 title: "South African activist uses history to highlight ongoing injustice - Al Jazeera"
-date: 2026-01-03
+date: 2026-01-04
 description: "South African activist uses history to highlight ongoing injustice&nbsp;&nbsp;Al JazeeraSouth Africa's intellectual stagnation: the post-apartheid crisis of ideas&nbsp;&nbsp;IOLLessons From History Fuel a Modern Struggle for Justice in South Africa&nbsp;&nbsp;Sierra Express Media"
 summary: "South African activist uses history to highlight ongoing injustice&nbsp;&nbsp;Al JazeeraSouth Africa's intellectual stagnation: the post-apartheid crisis of ideas&nbsp;&nbsp;IOLLessons From History Fuel a Modern Struggle for Justice in South Africa&nbsp;&nbsp;Sierra Express Media"
 slug: "south-african-activist-uses-history-to-highlight-ongoing-injustice-al-jazeera"

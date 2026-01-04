@@ -1,6 +1,6 @@
 ---
 title: "Ukraine’s Killer AI Drones Are Back With A Vengeance - Forbes"
-date: 2026-01-03
+date: 2026-01-04
 description: "Ukraine’s Killer AI Drones Are Back With A Vengeance&nbsp;&nbsp;ForbesIn Ukraine, an Arsenal of Killer A.I. Drones Is Being Born in War Against Russia&nbsp;&nbsp;The New York Times\"A monster has been created.\" The era of killer robots has begun at the front&nbsp;&nbsp;Online.UATechnological revolution in drone warfare! Ukrainian army attacks Russia with unmanned aerial vehicles with navigation w&nbsp;&nbsp;fakti.bgGround Drones Serve As Lifelines In Embattled Vovchansk&nbsp;&nbsp;Radio Free Eu..."
 summary: "Ukraine’s Killer AI Drones Are Back With A Vengeance&nbsp;&nbsp;ForbesIn Ukraine, an Arsenal of Killer A.I. Drones Is Being Born in War Against Russia&nbsp;&nbsp;The New York Times\"A monster has been created.\" The era of killer robots has begun at the front&nbsp;&nbsp;Online.UATechnological revolution in drone warfare! Ukrainian army attacks Russia with unmanned aerial vehicles with navigation w&nbsp;&nbsp;fakti.bgGround Drones Serve As Lifelines In Embattled Vovchansk&nbsp;&nbsp;Radio Free Eu..."
 slug: "ukraine-s-killer-ai-drones-are-back-with-a-vengeance-forbes"

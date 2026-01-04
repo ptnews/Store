@@ -1,6 +1,6 @@
 ---
 title: "'Somewhere to put worker bees': Why Canada's micro-condos are losing their appeal"
-date: 2026-01-03
+date: 2026-01-04
 description: "The condo market in Canada's biggest cities is undergoing a historic crash, with smaller units losing their value faster than any others."
 summary: "The condo market in Canada's biggest cities is undergoing a historic crash, with smaller units losing their value faster than any others."
 slug: "somewhere-to-put-worker-bees-why-canada-s-micro-condos-are-losing-their-appeal"

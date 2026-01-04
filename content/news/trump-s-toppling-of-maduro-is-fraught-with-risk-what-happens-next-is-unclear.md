@@ -1,6 +1,6 @@
 ---
 title: "Trump's toppling of Maduro is fraught with risk - what happens next is unclear"
-date: 2026-01-03
+date: 2026-01-04
 description: "Will the US push for elections or will it try to depose more members of the government, asks the BBC's Ione Wells. "
 summary: "Will the US push for elections or will it try to depose more members of the government, asks the BBC's Ione Wells. "
 slug: "trump-s-toppling-of-maduro-is-fraught-with-risk-what-happens-next-is-unclear"

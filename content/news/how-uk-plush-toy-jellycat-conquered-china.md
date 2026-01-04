@@ -1,6 +1,6 @@
 ---
 title: "How UK plush toy Jellycat conquered China "
-date: 2026-01-03
+date: 2026-01-04
 description: "The plushies bring \"emotional value\" to Chinese youth navigating economic uncertainty."
 summary: "The plushies bring \"emotional value\" to Chinese youth navigating economic uncertainty."
 slug: "how-uk-plush-toy-jellycat-conquered-china"

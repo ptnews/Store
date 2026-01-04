@@ -1,6 +1,6 @@
 ---
 title: "BBC reaches agreement with Israeli family for filming in home after 7 October without consent"
-date: 2026-01-03
+date: 2026-01-04
 description: "The family who survived the Hamas attack in 2023 call the incident an “intrusion”."
 summary: "The family who survived the Hamas attack in 2023 call the incident an “intrusion”."
 slug: "bbc-reaches-agreement-with-israeli-family-for-filming-in-home-after-7-october-without-consent"

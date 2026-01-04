@@ -1,6 +1,6 @@
 ---
 title: "100 Years of Faith, Service, and Hope: The Church of Jesus Christ Concludes Its - newsroom.churchofjesuschrist.org"
-date: 2026-01-03
+date: 2026-01-04
 description: "100 Years of Faith, Service, and Hope: The Church of Jesus Christ Concludes Its&nbsp;&nbsp;newsroom.churchofjesuschrist.orgView Full Coverage on Google News"
 summary: "100 Years of Faith, Service, and Hope: The Church of Jesus Christ Concludes Its&nbsp;&nbsp;newsroom.churchofjesuschrist.orgView Full Coverage on Google News"
 slug: "100-years-of-faith-service-and-hope-the-church-of-jesus-christ-concludes-its-newsroom-churchofjesuschrist-org"

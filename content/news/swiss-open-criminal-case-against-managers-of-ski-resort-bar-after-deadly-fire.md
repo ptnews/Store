@@ -1,6 +1,6 @@
 ---
 title: "Swiss open criminal case against managers of ski resort bar after deadly fire"
-date: 2026-01-03
+date: 2026-01-04
 description: "It comes after a preliminary investigation found the likely cause was sparklers on champagne bottles being carried too close to the ceiling."
 summary: "It comes after a preliminary investigation found the likely cause was sparklers on champagne bottles being carried too close to the ceiling."
 slug: "swiss-open-criminal-case-against-managers-of-ski-resort-bar-after-deadly-fire"
