@@ -1,0 +1,21 @@
+---
+title: "Draymond Green suffers 24th career ejection after hostile encounter with referee"
+date: 2026-01-04
+description: "Golden State Warriors player Draymond Green receives two technical fouls and ejection against Utah Jazz after shouting at referee. Warriors win 123-114 despite the loss."
+summary: "Golden State Warriors player Draymond Green receives two technical fouls and ejection against Utah Jazz after shouting at referee. Warriors win 123-114 despite the loss."
+slug: "draymond-green-suffers-24th-career-ejection-after-hostile-encounter-with-referee"
+image: ''
+link: 'https://www.foxnews.com/sports/draymond-green-suffers-24th-career-ejection-after-hostile-encounter-referee'
+source: 'https://feeds.foxnews.com/foxnews/latest'
+categories:
+- 'feeds.foxnews.com'
+tags:
+- 'encounter'
+- 'draymond'
+- 'ejection'
+- 'suffers'
+- 'hostile'
+
+draft: false
+---
+<p><a href="https://www.foxnews.com/category/sports/nba/golden-state-warriors" target="_blank" rel="noopener">Golden State Warriors</a> player Draymond Green was ejected from Saturday's game against the Utah Jazz, marking his 24th career ejection and 22nd regular season ejection. It was also his second in the past eight games. </p><p>The penalty was dealt after Green played defense on <a href="https://www.foxnews.com/category/sports/nba/utah-jazz" target="_blank" rel="noopener">Utah's Kyle Filipowski</a>, who gestured to a nearby referee asking for a three-second violation to be called against Green. Green then let out an angry shout after the Jazz scored, prompting a technical foul. </p><p>After the whistle, Green approached referee Kevin Cutler and appeared to loudly berate the official. A second technical foul was assessed shortly after that antic, and Green was out of the game. </p><p>Green's teammates and coach Steve Kerr defended the oft-ejected player after the game. </p><p><a href="https://www.foxnews.com/sports" target="_blank" rel="noopener"><strong><u>CLICK HERE FOR MORE SPORTS COVERAGE ON FOXNEWS.COM</u></strong></a></p><p>"I didn’t hear what he said, but it was a quick one," Kerr told reporters. "I know he got the T right away and then Kevin (Cutler) tossed him almost immediately. So I don’t know what he said, but I assume it was something that Kevin just wasn’t going to listen to. So I don’t know anything more about it than that."</p><p><a href="https://www.foxnews.com/sports/russell-westbrook-makes-nba-history-passing-oscar-robertson-scoring-milestone" target="_blank" rel="noopener"><strong><u>RUSSELL WESTBROOK MAKES NBA HISTORY, PASSING OSCAR ROBERTSON IN SCORING MILESTONE</u></strong></a></p><p>Kerr added that the team "needs" Green on the court. </p><p>"We need Draymond and I want him out there," Kerr said. "So I think he might be up to about nine techs. We’re not halfway through the season yet, so a long way to go and we need him."</p><p>Warriors superstar Steph Curry suggested Green's actions did not warrant the ejection. </p><p>"I don’t know what he said to the ref," Curry said. "But I didn’t think it was — the consensus in the locker room was there wasn’t enough to get thrown out."</p><p>The Warriors won the game 123-114 to improve to 19-17. </p><p>Green and Kerr previously got into a <a href="https://www.foxnews.com/sports/warriors-star-storms-off-after-heated-exchange-steve-kerr" target="_blank" rel="noopener">heated incident</a> on the bench during their game against the Orlando Magic in December.</p><p><i><strong>Follow Fox News Digital’s </strong></i><a href="https://twitter.com/FoxNewsSports_" target="_blank" rel="noopener"><i><strong><u>sports coverage on X</u></strong></i></a><i><strong>, and subscribe to </strong></i><a href="https://www.foxnews.com/newsletters" target="_blank" rel="noopener"><i><strong><u>the Fox News Sports Huddle newsletter</u></strong></i></a><i><strong>.</strong></i></p>
