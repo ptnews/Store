@@ -1,8 +1,8 @@
 ---
 title: "Sailors saved from going over edge of huge dam "
 date: 2026-01-04
-description: "According to reports, the boat had suffered motor failure before drifting to the edge of the dam"
-summary: "According to reports, the boat had suffered motor failure before drifting to the edge of the dam"
+description: "According to reports, the boat had suffered motor failure before drifting to the edge of the dam."
+summary: "According to reports, the boat had suffered motor failure before drifting to the edge of the dam."
 slug: "sailors-saved-from-going-over-edge-of-huge-dam"
 image: ''
 link: 'https://www.bbc.com/news/videos/cj6wew4958eo?at_medium=RSS&at_campaign=rss'
@@ -16,4 +16,4 @@ tags:
 
 draft: false
 ---
-According to reports, the boat had suffered motor failure before drifting to the edge of the dam
+According to reports, the boat had suffered motor failure before drifting to the edge of the dam.
