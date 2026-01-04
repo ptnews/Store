@@ -1,0 +1,21 @@
+---
+title: "Dozens of flights canceled at O'Hare due to Maduro's capture in Venezuela - CBS News"
+date: 2026-01-04
+description: "Dozens of flights canceled at O'Hare due to Maduro's capture in Venezuela&nbsp;&nbsp;CBS NewsAmerican tourists stranded across the Caribbean after airspace closed for Maduro capture&nbsp;&nbsp;ABC NewsAirlines scramble to add Caribbean flights after airspace restrictions strand tens of thousands of travelers&nbsp;&nbsp;CNBCDelta issues customer advisory, resumes Caribbean service&nbsp;&nbsp;Delta News HubOver 300 flights canceled as Puerto Rico air travel is suspended&nbsp;&nbsp;USA Today"
+summary: "Dozens of flights canceled at O'Hare due to Maduro's capture in Venezuela&nbsp;&nbsp;CBS NewsAmerican tourists stranded across the Caribbean after airspace closed for Maduro capture&nbsp;&nbsp;ABC NewsAirlines scramble to add Caribbean flights after airspace restrictions strand tens of thousands of travelers&nbsp;&nbsp;CNBCDelta issues customer advisory, resumes Caribbean service&nbsp;&nbsp;Delta News HubOver 300 flights canceled as Puerto Rico air travel is suspended&nbsp;&nbsp;USA Today"
+slug: "dozens-of-flights-canceled-at-o-hare-due-to-maduro-s-capture-in-venezuela-cbs-news"
+image: ''
+link: 'https://news.google.com/rss/articles/CBMimwFBVV95cUxPZHZlcmFqTlRMSmhKRmMzOXdvMUZzZXd2YnBOVEJMOE94X1pVUG1pck1RN25oVW5XR1pHN0U3Q0hacU1nNV9ER3lacE54cTZKcVhZajFwOTBValBpRmxTZ3hPSzhydWFGUXBLY1Q2U0sycjZuNDZ2NGhfVk5zTU5DWlJ1M3RDN2RXMHBkOTc5bGlHZ0FfX09yc3VIdw?oc=5'
+source: 'https://news.google.com/rss/topics/CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx1YlY4U0FtVnVHZ0pWVXlnQVAB?hl=en-US&gl=US&ceid=US:en'
+categories:
+- 'news.google.com'
+tags:
+- 'venezuela'
+- 'canceled'
+- 'flights'
+- 'capture'
+- 'dozens'
+
+draft: false
+---
+<ol><li><a href="https://news.google.com/rss/articles/CBMimwFBVV95cUxPZHZlcmFqTlRMSmhKRmMzOXdvMUZzZXd2YnBOVEJMOE94X1pVUG1pck1RN25oVW5XR1pHN0U3Q0hacU1nNV9ER3lacE54cTZKcVhZajFwOTBValBpRmxTZ3hPSzhydWFGUXBLY1Q2U0sycjZuNDZ2NGhfVk5zTU5DWlJ1M3RDN2RXMHBkOTc5bGlHZ0FfX09yc3VIdw?oc=5" target="_blank">Dozens of flights canceled at O'Hare due to Maduro's capture in Venezuela</a>&nbsp;&nbsp;<font color="#6f6f6f">CBS News</font></li><li><a href="https://news.google.com/rss/articles/CBMirwFBVV95cUxNZFVienExOVE1bldXRFZVbEI4TUc1YnZXSTJmZVRaREU2dEVOOWdkOURCcWxIWTJvamdvUXc4cTJkWHJNNzM0NlRGUFd5eTJ5UVdVNzkxMFJ1UTU2eVIyWElFWUkxV2N0R1NmMU16WkdkYlZONHl1N295eGtWUFc5Sk9mT2xrM3VXdHZ3UHVwZzhMTVdHYkh4N2UwVldabm9DUzAzbmxRSE82WUdLYW400gG0AUFVX3lxTE1VZGNwZVg2cllZallXNk1sZ2VkX0YzYmE3eUE0bmppMzdJMG1MWmw1VHVwLW1CdUROXzNpWWpGTFg1OUF5MWlObXlGS1NsenZDaHhHNGlVVVZNYkttRUFmLXUtOFdvV3BzdkgtUzRZM1BrQTM0ZFlDX1pMZFh4UjFGN2RMcnZjMHR3ckZSUm1sQnFvVzlXSGpSQUhHNlUwZGc3ejRMbXl0ZXJFQnZSWS1ZN0VMdA?oc=5" target="_blank">American tourists stranded across the Caribbean after airspace closed for Maduro capture</a>&nbsp;&nbsp;<font color="#6f6f6f">ABC News</font></li><li><a href="https://news.google.com/rss/articles/CBMingFBVV95cUxOQWJKOXl3ZEpXNUt5TFNMTDFlemRIbklHNzNsOE43SFVPbFZDY0ZCZWUtSWJ6N3RvQmJ1VFRFXzZSNG5CVzFUaUxvOUdyeXZZZ3ZaUXhTNnJIcWJ2dkZid24xYllYMThoWHByTkdqS2dDQUZCRm5STllQNV9qOHhidTcxOXNCLU5fNlJaSnIzYWhQSjVKZlJGUlowV2UxUdIBowFBVV95cUxNWlBxZDgzekdDNTJ4LVV4dFhseXYwT25EVDI3Z0x0VXZaQXZKUGZCMDhBZDExWnJoR0YtRVM0Ym1PZWdqS0phYVd2UFV2OUxfUlV2aHVGR2RSTV85Yy1FdWtTdk0wWWIzd1ZOTmJEWFMyMndPWFdleTV4Q3FjWU9PUi1rbjMyUlpwUW1PQks5SmVDNE5KSFJJTi1GSmRabnhQTi1j?oc=5" target="_blank">Airlines scramble to add Caribbean flights after airspace restrictions strand tens of thousands of travelers</a>&nbsp;&nbsp;<font color="#6f6f6f">CNBC</font></li><li><a href="https://news.google.com/rss/articles/CBMihgFBVV95cUxQVUNFc0Y1SnE0Y0sxeWhfbE8zTWtLSjQwTUVRU1RqTGltSEhRZkFMQU0xemdHdVpZa0RVM0dWZldmV3J4Zm1kdURzaVhFRDEyRVBJRzhMQmxnSDlMV1JwM08wOHR5SGhPMEZJcTkyYnJZcXVhSFAxeHN6ZWprMFVjVWpJczFHUQ?oc=5" target="_blank">Delta issues customer advisory, resumes Caribbean service</a>&nbsp;&nbsp;<font color="#6f6f6f">Delta News Hub</font></li><li><a href="https://news.google.com/rss/articles/CBMimwFBVV95cUxNTWRaU3hkRFFMN3FkcWVGZkN4QlNzb292SFRoa1dlUFc1aU5hbWxORHhlS01vM2Z5bGhVY21NWHB6R0NIelNVcUFWLTRQa3BIZUVmcmI2akxURURTSS10RXZxR003WU5DdlhhOWJ4bjU3anFjZTdUUnJQTU1IdTIwRWtySExqX3haOGU2LW9nZEVmU1lKdWhnUlN0OA?oc=5" target="_blank">Over 300 flights canceled as Puerto Rico air travel is suspended</a>&nbsp;&nbsp;<font color="#6f6f6f">USA Today</font></li></ol>
