@@ -1,0 +1,21 @@
+---
+title: "Starmer ready for closer alignment with the EU 'in the national interest' - BBC"
+date: 2026-01-04
+description: "Starmer ready for closer alignment with the EU 'in the national interest'&nbsp;&nbsp;BBCStarmer says closer ties with EU single market preferable to a customs union&nbsp;&nbsp;The GuardianUK should seek ‘closer alignment’ with EU single market, Starmer says&nbsp;&nbsp;Financial TimesStarmer signals new plan to unpick Brexit harm a decade on from EU referendum&nbsp;&nbsp;The IndependentDAN CARDEN: Why I will not stand by and watch my party break a solemn pledge to the British people&nbsp;&nbs..."
+summary: "Starmer ready for closer alignment with the EU 'in the national interest'&nbsp;&nbsp;BBCStarmer says closer ties with EU single market preferable to a customs union&nbsp;&nbsp;The GuardianUK should seek ‘closer alignment’ with EU single market, Starmer says&nbsp;&nbsp;Financial TimesStarmer signals new plan to unpick Brexit harm a decade on from EU referendum&nbsp;&nbsp;The IndependentDAN CARDEN: Why I will not stand by and watch my party break a solemn pledge to the British people&nbsp;&nbs..."
+slug: "starmer-ready-for-closer-alignment-with-the-eu-in-the-national-interest-bbc"
+image: ''
+link: 'https://news.google.com/rss/articles/CBMiWkFVX3lxTE1McmRGN3dsY2wtak1qX20xOHZMcnUxaG92YUVmTnM1MXhjMGFZeEdqNm5iMWhoUEkxVWl1eGRhWWtCUVJSLV9pZWFCTDl4elpMMHYxNDJZM0pxUdIBX0FVX3lxTE8zR3gza2FrbUQ0ZVRUZF90X2tJUC13Mk9rRzY1dVV6cy1FekdjWWpiWFVycmt4VGNLaDBYVnBzSWdrSm1aclA0Q3VHYWItU1k4Nnh1REU2Y25uRG5lRnBB?oc=5'
+source: 'https://news.google.com/rss/topics/CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx1YlY4U0FtVnVHZ0pWVXlnQVAB?hl=en-US&gl=US&ceid=US:en'
+categories:
+- 'news.google.com'
+tags:
+- 'alignment'
+- 'national'
+- 'interest'
+- 'starmer'
+- 'closer'
+
+draft: false
+---
+<ol><li><a href="https://news.google.com/rss/articles/CBMiWkFVX3lxTE1McmRGN3dsY2wtak1qX20xOHZMcnUxaG92YUVmTnM1MXhjMGFZeEdqNm5iMWhoUEkxVWl1eGRhWWtCUVJSLV9pZWFCTDl4elpMMHYxNDJZM0pxUdIBX0FVX3lxTE8zR3gza2FrbUQ0ZVRUZF90X2tJUC13Mk9rRzY1dVV6cy1FekdjWWpiWFVycmt4VGNLaDBYVnBzSWdrSm1aclA0Q3VHYWItU1k4Nnh1REU2Y25uRG5lRnBB?oc=5" target="_blank">Starmer ready for closer alignment with the EU 'in the national interest'</a>&nbsp;&nbsp;<font color="#6f6f6f">BBC</font></li><li><a href="https://news.google.com/rss/articles/CBMitgFBVV95cUxNR1pEZHllanJmdk1RYlpMX254X2JnUm5sOTZLNGlndkw0Zkd6VDdHOGhTTngtX2ZLaG9idFdSWFV0RWdYR0RMQzlaeHl1SkpmTnZvYUU0OU9vSFZ4cWtuQVVxS19EN2ItM21mTVVlYmJUVDRsbTV4QmFrUGdJbGVfazllSE1aOGVDVHZ0eUlSRmJkc0FxWXpLRjRtdjUxVVFteGhhajJMb0ltWVNvQVIxM241T3JFdw?oc=5" target="_blank">Starmer says closer ties with EU single market preferable to a customs union</a>&nbsp;&nbsp;<font color="#6f6f6f">The Guardian</font></li><li><a href="https://news.google.com/rss/articles/CBMicEFVX3lxTFBkMzFSOUtGOGhWb0hiLWk5ZkZEYXRrS2Z0ZEhidllOSEpmN2JUbWR3MWFxUEl2czBvd3lJMmhUcHZDWmpncVA3ZUJsUlAxT2h0UkFxN1lGMzBtZGNJaGxDLUtEUmVyTE4yU0RxZXIxV2k?oc=5" target="_blank">UK should seek ‘closer alignment’ with EU single market, Starmer says</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font></li><li><a href="https://news.google.com/rss/articles/CBMingFBVV95cUxQRzBSeXFHVWZPUFROa3FXdlF4OTh1MmFiVDNjMlNDTEVNVTNYSHBzeWpJMWQ4X1VwaVowNzdNd3pfYjFieW5sUk50Mi0tS0haTjlxTldFOHAyUjM4ak9jY0RUdWdQeHIzQzgyWmNoRjEtdE5YT29VZFpTQUM0TElFeHZJREFVYWZVXzNEeEdGZWo2WjFEOWd3d096OTZSZw?oc=5" target="_blank">Starmer signals new plan to unpick Brexit harm a decade on from EU referendum</a>&nbsp;&nbsp;<font color="#6f6f6f">The Independent</font></li><li><a href="https://news.google.com/rss/articles/CBMivgFBVV95cUxPTE9DSTExTTNVckV6UWxYcDdqOENtY0twWnVGVWZXODdMVnU4RW43UEh4OURTYkZIUUIxbGdDajVzMkZRbXVtaHREbnIyc3pzeVBiUlpqQVJRRWdqdzA1cUlxZXEza0tyUWdDdUFReDZBNW1BY01OakVBdTV5VV9JXzdCZkM5SDlvSWdWTngwMlFmZnpFcThoZ2xzWU1TZXloQmZqTEItUVVPQ1ZHUDZlb1lZQ2F2T2pZcWw1SGFB0gHDAUFVX3lxTE84ZXExWDJJLXFMUmJFX241V0JzWDl6YzN2NElIMmdEMjdWNnBZbWpiT3pjNGphR1hvZEJabWJxYmI5cW5vRW1lSGthd3RyZVhzczFnNFNmdXZiWmtvNnpKU0hrbE1qM3M5bVEyX2o0NnBrQ3pvRlNncGxUYnJ0bXhpZldQbktGcUFvYWlWU0FxdzRveS1kbTVDaGlJak1zX05vLU9iTW9DWW5BUm83UFZoUDREQlJ3a1dZVW9LOHV3ZjdhWQ?oc=5" target="_blank">DAN CARDEN: Why I will not stand by and watch my party break a solemn pledge to the British people</a>&nbsp;&nbsp;<font color="#6f6f6f">Daily Mail</font></li></ol>

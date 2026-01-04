@@ -1,0 +1,21 @@
+---
+title: "Security Alert: Venezuela: Explosions Reported; Shelter in Place - U.S. Embassy in Venezuela (.gov)"
+date: 2026-01-04
+description: "Security Alert: Venezuela: Explosions Reported; Shelter in Place&nbsp;&nbsp;U.S. Embassy in Venezuela (.gov)Fox News Sounds Alarm to Americans Still in Venezuela&nbsp;&nbsp;The Daily BeastVenezuela Tourism Boils as Thousands of Stranded Tourists Stuck in The Country Amid the US Conflict Disrupting Travel Across the Americas and Beyond: All you need to know&nbsp;&nbsp;Travel And Tour WorldCanada warns borders, airspace in Venezuela could close with little notice&nbsp;&nbsp;CTV News🚨 UK Foreign..."
+summary: "Security Alert: Venezuela: Explosions Reported; Shelter in Place&nbsp;&nbsp;U.S. Embassy in Venezuela (.gov)Fox News Sounds Alarm to Americans Still in Venezuela&nbsp;&nbsp;The Daily BeastVenezuela Tourism Boils as Thousands of Stranded Tourists Stuck in The Country Amid the US Conflict Disrupting Travel Across the Americas and Beyond: All you need to know&nbsp;&nbsp;Travel And Tour WorldCanada warns borders, airspace in Venezuela could close with little notice&nbsp;&nbsp;CTV News🚨 UK Foreign..."
+slug: "security-alert-venezuela-explosions-reported-shelter-in-place-u-s-embassy-in-venezuela-gov"
+image: ''
+link: 'https://news.google.com/rss/articles/CBMikAFBVV95cUxPTUVVaV9kVlo5b3lQQjQ1OG9icjl2QlBoTlRYTkx0dkk0SGxYTWl2TldSc2ZzdldKeUMwTzVQb2lMN3I1c2JXTHU1SHRoWkNiWDF2amYzUnZZUWZFc3FWVVRGVkxhMkFKOWRqcGNVMFBPc1VUS2REbmw2N2N3TW9yR2NKNGZKNFh2aG50TUdSN2c?oc=5'
+source: 'https://news.google.com/rss/topics/CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx1YlY4U0FtVnVHZ0pWVXlnQVAB?hl=en-US&gl=US&ceid=US:en'
+categories:
+- 'news.google.com'
+tags:
+- 'explosions'
+- 'venezuela'
+- 'venezuela'
+- 'security'
+- 'reported'
+
+draft: false
+---
+<ol><li><a href="https://news.google.com/rss/articles/CBMikAFBVV95cUxPTUVVaV9kVlo5b3lQQjQ1OG9icjl2QlBoTlRYTkx0dkk0SGxYTWl2TldSc2ZzdldKeUMwTzVQb2lMN3I1c2JXTHU1SHRoWkNiWDF2amYzUnZZUWZFc3FWVVRGVkxhMkFKOWRqcGNVMFBPc1VUS2REbmw2N2N3TW9yR2NKNGZKNFh2aG50TUdSN2c?oc=5" target="_blank">Security Alert: Venezuela: Explosions Reported; Shelter in Place</a>&nbsp;&nbsp;<font color="#6f6f6f">U.S. Embassy in Venezuela (.gov)</font></li><li><a href="https://news.google.com/rss/articles/CBMijAFBVV95cUxNVjZjb19OUVZzOGdqZVlxYUNINkowanQ2VXJQMEtIY2xtY2R6S2IzdmNuMFpYVzlkMVlxd3diemdsU2NpYlBtbUZRbXZSdVp3MkhrdXQ5dk13QnRNLWZjZ01ETXZmekdFYlZtVkNETlU3MFQ5Y0NUUkc5eGk1ZGJHY1huTjVyM3I1UEpqRA?oc=5" target="_blank">Fox News Sounds Alarm to Americans Still in Venezuela</a>&nbsp;&nbsp;<font color="#6f6f6f">The Daily Beast</font></li><li><a href="https://news.google.com/rss/articles/CBMivwJBVV95cUxNRmpxd3F4Y0pkM2o5c1lqOTloU1lfWnYyZlZqMU9UM1pfdzFINlZITmFHT0FxSDE5SkZZeEV4enZXYUVrZTUyQ0w5NkhxM2JJYlZMTUY2NUZTeVIzMmdiQ1JOb2doZWNZSHM4TTRpUUFIR1RRd0c2UGl3WUxXMFJLanpkcVVKQzhHQjh4dXU1d1JORHUySlB4VlBKcWhkek9Sc2dWMF9FcVVRRWpQT0YxQ2JZWmhQZy1HV3pGUG5YTUREWTZnWER5R1BtR0tQejVtX21zME81YlRHb3p0VGxlUmN5Q3E2SGZRV2RaMVQxaGRsSnlmSVV4bVo3QzZQSmdqcjdYWHdMWWpTdjNUMi1wOEdsYnlBQkZDMDFZbjlIR1JBZmFhdnBZMjlaUFBldGwtZWI5ZGxZcmJzTmc5Q1VF?oc=5" target="_blank">Venezuela Tourism Boils as Thousands of Stranded Tourists Stuck in The Country Amid the US Conflict Disrupting Travel Across the Americas and Beyond: All you need to know</a>&nbsp;&nbsp;<font color="#6f6f6f">Travel And Tour World</font></li><li><a href="https://news.google.com/rss/articles/CBMiswFBVV95cUxPNV8tWXFTR2RDMFZvR0psX2R3ODRZd0NKUjdLdTE1M0tWeXJGSFdfQVhTQXZyMkhoLTNMOHRHZTZDUVdNNkxNb0ZHVS1kWXRueWJHNERJRFNIeERrSy1pYWtZTS1lVjBESGFfM0tobnEtaTQtSEI0YXhPOFF0cFBEUnJTMVlGakdsdWI4WlR1UmxhdzdzTWgyd1VORUNKQXQ0VUdHT0ZKQ2ZycmpaU0dsOTdNdw?oc=5" target="_blank">Canada warns borders, airspace in Venezuela could close with little notice</a>&nbsp;&nbsp;<font color="#6f6f6f">CTV News</font></li><li><a href="https://news.google.com/rss/articles/CBMi3gFBVV95cUxNc1lKNnNnNmVFOGRKdmtETWZJTWFVYl8tRjNGWUhlenRlUjB4ZXFfSGpnN3pWMGFiOFRBR1lBMEI3Z0FZb09DQ09DeDQ2WTNGR2h1UmZ5eUxCczExMnptYnhsR0ZBMTdmWWlIeVZFU0RDUHZaMVNOSktYX3lHZHI5a2M0d3JhVzYtWmlKTnJ5Yy14ck9iMlZYTDNIUUFLbUxyeFRlUnZFODdpS0ZsSDFtX19zaExRZy1pQ2RHUE16SjNteDZ1a3RoSS1LTk9wbTUyM0dkSEhYcFNDRzlrOWc?oc=5" target="_blank">🚨 UK Foreign Office issues new travel advice for Venezuela after US strikes</a>&nbsp;&nbsp;<font color="#6f6f6f">facebook.com</font></li></ol>

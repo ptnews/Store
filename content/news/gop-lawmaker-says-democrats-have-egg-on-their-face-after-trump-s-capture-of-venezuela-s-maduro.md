@@ -1,0 +1,21 @@
+---
+title: "GOP lawmaker says Democrats have ‘egg on their face’ after Trump’s capture of Venezuela’s Maduro"
+date: 2026-01-04
+description: "Republicans defended Trump&apos;s Venezuela operation capturing Maduro on Saturday, pushing back against Democratic criticism with legal precedent arguments."
+summary: "Republicans defended Trump&apos;s Venezuela operation capturing Maduro on Saturday, pushing back against Democratic criticism with legal precedent arguments."
+slug: "gop-lawmaker-says-democrats-have-egg-on-their-face-after-trump-s-capture-of-venezuela-s-maduro"
+image: ''
+link: 'https://www.foxnews.com/media/gop-lawmaker-says-democrats-have-egg-face-after-trumps-capture-venezuelas-maduro'
+source: 'https://feeds.foxnews.com/foxnews/latest'
+categories:
+- 'feeds.foxnews.com'
+tags:
+- 'democrats'
+- 'venezuela'
+- 'lawmaker'
+- 'capture'
+- 'maduro'
+
+draft: false
+---
+<p>House Foreign Affairs Committee Chairman <a href="https://www.foxnews.com/category/politics/house-of-representatives/republicans" target="_blank" rel="noopener">Rep. Brian Mast</a>, R-Fla., pushed back Saturday against Democratic criticism of President Donald Trump’s capture of Venezuelan strongman Nicolás Maduro, arguing the administration carefully weighed risks before acting.</p><p>"Democrats have total egg on their face[s] from previous operations saying we're going to be in these protracted long-war operations that did not take place," Mast said on "The Big Weekend Show."</p><p>"President Trump is not the protracted war president. He is the person that is going in there with any operations, saying… what is the mission that has to be accomplished?" </p><p>Mast contrasted Trump’s approach with past administrations, pointing to limited strikes in Syria during Trump’s first term and efforts to lay the groundwork for a conditions-based <a href="https://www.foxnews.com/category/world/conflicts/afghanistan" target="_blank" rel="noopener">withdrawal from Afghanistan</a>.</p><p><a href="https://www.foxnews.com/politics/kamala-harris-blasts-trump-administrations-capture-venezuelas-maduro-unlawful-unwise" target="_blank" rel="noopener"><strong>KAMALA HARRIS BLASTS TRUMP ADMINISTRATION’S CAPTURE OF VENEZUELA’S MADURO AS ‘UNLAWFUL AND UNWISE’</strong></a></p><p>He also cited a recent targeted operation against Iran, which he said neutralized threats without triggering a broader conflict or violating U.S. war powers.</p><p>As Democrats questioned the legality of the operation, other Republican lawmakers defended it Saturday, including Texas Rep. Dan Crenshaw and Arkansas Sen. Tom Cotton.</p><p>"The legality is very well established," Crenshaw said, citing the first Bush administration’s capture of former <a href="https://www.foxnews.com/world/maduro-capture-echoes-noriega-takedown-used-rock-music-psychological-warfare-dictator" target="_blank" rel="noopener">Panamanian strongman Manuel Antonio Noriega</a> and the Obama administration’s actions against Libyan dictator Moammar Gadhafi as precedent.</p><p><a href="https://www.foxnews.com/politics/trump-reveals-venezuelas-maduro-captured-fortress-like-house-he-got-bum-rushed-so-fast" target="_blank" rel="noopener"><strong>TRUMP REVEALS VENEZUELA’S MADURO WAS CAPTURED IN ‘FORTRESS’-LIKE HOUSE: ‘HE GOT BUM RUSHED SO FAST’</strong></a></p><p>"You're going after a person who's indicted in U.S. courts, and you're going after someone who we've established as an imminent danger to U.S. national security," Crenshaw added.</p><p>Cotton echoed that argument, saying <a href="https://www.foxnews.com/category/us/congress" target="_blank" rel="noopener">Congress does not need</a> to be notified when the executive branch carries out arrests of indicted individuals.</p><p>"Congress isn't notified when the FBI is going to arrest a drug trafficker or a cybercriminal here in the United States, nor should Congress be notified when the executive branch is executing arrests on indicted persons," he said Saturday on "Fox &amp; Friends Weekend."</p><p>"That's really what you can make the analogy to here. In fact, the FBI was part of this operation, part of the arrest of Maduro and his wife, who were indicted here in the United States, so Congress doesn't need to be notified every time the executive branch is making an arrest."</p>
