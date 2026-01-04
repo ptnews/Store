@@ -1,0 +1,21 @@
+---
+title: "Venezuela’s economic descent (Updated) : The Indicator from Planet Money - NPR"
+date: 2026-01-04
+description: "Venezuela’s economic descent (Updated) : The Indicator from Planet Money&nbsp;&nbsp;NPRAnatomy of an economic suicide: Venezuela under Maduro&nbsp;&nbsp;Asia TimesWhat is socialism and how it turned Venezuela into a living hell under Nicholas Maduro&nbsp;&nbsp;WIONVenezuela: Collapse in 10 years — GDP shrank, oil prices plummeted, and hyperinflation drove millions out.&nbsp;&nbsp;CPG Click Petróleo e GásVenezuela Crisis Explained: Socialist economy, domestic blunders or U.S. sanctions â' ..."
+summary: "Venezuela’s economic descent (Updated) : The Indicator from Planet Money&nbsp;&nbsp;NPRAnatomy of an economic suicide: Venezuela under Maduro&nbsp;&nbsp;Asia TimesWhat is socialism and how it turned Venezuela into a living hell under Nicholas Maduro&nbsp;&nbsp;WIONVenezuela: Collapse in 10 years — GDP shrank, oil prices plummeted, and hyperinflation drove millions out.&nbsp;&nbsp;CPG Click Petróleo e GásVenezuela Crisis Explained: Socialist economy, domestic blunders or U.S. sanctions â' ..."
+slug: "venezuela-s-economic-descent-updated-the-indicator-from-planet-money-npr"
+image: ''
+link: 'https://news.google.com/rss/articles/CBMihwFBVV95cUxPbS1jNFJweGNCY2VTWHlab1RoaVpzZTZ0OThJR205UjRVYndVbHNIZjc1QXVFUWFOWGU4UXhDQnFpYmZoSTBFTksxN3NLUnJFaVJHZVhUbEZsT1ZudGl3aGxkQ0ViTHhfSTdURTZuamtzUldDNnIwNHBfTE5tRl9OR01GV2NlZFk?oc=5'
+source: 'https://news.google.com/rss/topics/CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx1YlY4U0FtVnVHZ0pWVXlnQVAB?hl=en-US&gl=US&ceid=US:en'
+categories:
+- 'news.google.com'
+tags:
+- 'venezuela'
+- 'indicator'
+- 'economic'
+- 'descent'
+- 'updated'
+
+draft: false
+---
+<ol><li><a href="https://news.google.com/rss/articles/CBMihwFBVV95cUxPbS1jNFJweGNCY2VTWHlab1RoaVpzZTZ0OThJR205UjRVYndVbHNIZjc1QXVFUWFOWGU4UXhDQnFpYmZoSTBFTksxN3NLUnJFaVJHZVhUbEZsT1ZudGl3aGxkQ0ViTHhfSTdURTZuamtzUldDNnIwNHBfTE5tRl9OR01GV2NlZFk?oc=5" target="_blank">Venezuela’s economic descent (Updated) : The Indicator from Planet Money</a>&nbsp;&nbsp;<font color="#6f6f6f">NPR</font></li><li><a href="https://news.google.com/rss/articles/CBMijAFBVV95cUxNcEpCb1hfSk1kTThEdDY2N1RKckFCclR0SWJEYWxhOGdnVHRicV9TSU5iM0ZzR1poaU5fQnJ2a3BBTFdhUXB2SFdGLVVvTmZxUlhVSEtFYlpzdS15eWpXSjlGcTM5ZGV1S2JvZDM5U2x2dHlUVHRfZnJsQ2NrZWtuRHV6ZV9fdXVMSDFnUw?oc=5" target="_blank">Anatomy of an economic suicide: Venezuela under Maduro</a>&nbsp;&nbsp;<font color="#6f6f6f">Asia Times</font></li><li><a href="https://news.google.com/rss/articles/CBMiywFBVV95cUxQbkpSQzlyb0dIUFBrQ3IxNXJsRE5VeGFxQ1VjMjhPNXgwelVrRWdic0FIaFRxYWFfckFudEgxUXY0bVNsUThKbzBrNU52dV91VzRzNWlMdEZJNzg1NXl6RFFPcXdxdUY1eHBxZkI3SEdaMHhtV2ZGM19NUFVwSFgzdUU3RzZIOC02d3g0ZFZ2TW9QbFlSLWxKVm5zRXFKRHJPcVdFbjFWVnphUW9GWWdUNUo0S250WWtzNDNCNEEtN2YwZ1Y3TVJ4TXE1NA?oc=5" target="_blank">What is socialism and how it turned Venezuela into a living hell under Nicholas Maduro</a>&nbsp;&nbsp;<font color="#6f6f6f">WION</font></li><li><a href="https://news.google.com/rss/articles/CBMi4gFBVV95cUxQZG80SHF5SW5uZlFpWFFwekhDV0hqYkc1anAwLU5lV01PekJMV3VnNnN6cEd5U0pyZWVXRjRfUVh2bDAxajQyclNEcG05a04ySTZOc1hzRkFQd1c5TzJWVmNnVjM3Q1o5N3VjbVAtU3BaUEIwQmRBd3M2dUhDN0U4dC0ySTNNNnNZcjBBZEhkTW9ackY0YXhYWVBlOTlmcmp2Smd3ak1wZzhpRUZuWGhPbXZvd05FRnRBbkFzbUNjU3hmM2Y0Z1kwcFYzTkhTZTZNYmJocERpQ3JmYXRDempycW93?oc=5" target="_blank">Venezuela: Collapse in 10 years — GDP shrank, oil prices plummeted, and hyperinflation drove millions out.</a>&nbsp;&nbsp;<font color="#6f6f6f">CPG Click Petróleo e Gás</font></li><li><a href="https://news.google.com/rss/articles/CBMiywFBVV95cUxQOXpyVURiR1BvV2R0UkxtNnRXNHNfS05JVWN3M0duYkpYRG4zT0JCNXpjRlhXZ3NZZjF6d2lSVU1CS0VCYU8xZkF3eHJnUlNackRPbHNXNEgyU1JLNkZZbGVVNi1PeFNfdDlaaVp6UHp2WXNOUWtTUTduX0JGejVScGRIRjNrU0NzUkdGNS1idDZVbDB6Q3Z4bS00QXhIVkZnQzl6VW9lMTJwN1Jac0l3UDRnd29hc201RU1zT1N0Y3Nicl8wTjR0UFA2a9IB0AFBVV95cUxONXJqZGRMTjNPbEM2LVFiTGYxZ01vRnJOa0Fnb3dmMXFCSUw1ZjRNOVVTbE9VMmJkSDhZZDZ0Sk00eTY3bXN4TlgteDAxOXpLRlBlUTEyaE11SFVUWHFiczRjc1JMN2ZZZFhOc2ZiN0VMbEVmTl9XOENLb3A4bGp0Mlp1anRMUW03YWdvM1daMzMxb0pNUE1tM0N2VG91QWV0QUZMRUhCMG9DX0p6VENZcDM4Vjg3ZUU4VDVVZVl2WWc1OVJ6ZS1saFR6MFFWSk1S?oc=5" target="_blank">Venezuela Crisis Explained: Socialist economy, domestic blunders or U.S. sanctions â' Which bears more blame for collapse?</a>&nbsp;&nbsp;<font color="#6f6f6f">DNA India</font></li></ol>
