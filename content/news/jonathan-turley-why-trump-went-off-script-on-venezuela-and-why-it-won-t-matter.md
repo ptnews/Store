@@ -1,20 +1,20 @@
 ---
-title: "JONATHAN TURLEY: Maduro operation was legal, but Trump makes it complicated"
+title: "JONATHAN TURLEY: Why Trump went off script on Venezuela and why it won't matter"
 date: 2026-01-04
 description: "Legal expert analyzes Trump&apos;s Venezuela operation after president contradicts official narrative on Maduro seizure, revealing nation-building plans."
 summary: "Legal expert analyzes Trump&apos;s Venezuela operation after president contradicts official narrative on Maduro seizure, revealing nation-building plans."
-slug: "jonathan-turley-maduro-operation-was-legal-but-trump-makes-it-complicated"
+slug: "jonathan-turley-why-trump-went-off-script-on-venezuela-and-why-it-won-t-matter"
 image: ''
 link: 'https://www.foxnews.com/opinion/jonathan-turley-maduro-operation-legal-trump-makes-complicated'
 source: 'https://feeds.foxnews.com/foxnews/latest'
 categories:
 - 'feeds.foxnews.com'
 tags:
-- 'complicated'
-- 'operation'
+- 'venezuela'
 - 'jonathan'
 - 'turley'
-- 'maduro'
+- 'script'
+- 'matter'
 
 draft: false
 ---

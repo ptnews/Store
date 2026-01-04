@@ -1,8 +1,8 @@
 ---
 title: "DiCaprio accepts Palm Springs film award remotely due to Venezuela strike travel restrictions"
 date: 2026-01-04
-description: "Actor Leonardo DiCaprio accepted a Desert Palm Achievement Award remotely due to travel restrictions from U.S. strikes on Venezuela, as he unable to leave St. Barts, according to reports."
-summary: "Actor Leonardo DiCaprio accepted a Desert Palm Achievement Award remotely due to travel restrictions from U.S. strikes on Venezuela, as he unable to leave St. Barts, according to reports."
+description: "Actor Leonardo DiCaprio accepted a Desert Palm Achievement Award remotely due to travel restrictions from U.S. strikes on Venezuela, as he was unable to leave St. Barts, according to reports."
+summary: "Actor Leonardo DiCaprio accepted a Desert Palm Achievement Award remotely due to travel restrictions from U.S. strikes on Venezuela, as he was unable to leave St. Barts, according to reports."
 slug: "dicaprio-accepts-palm-springs-film-award-remotely-due-to-venezuela-strike-travel-restrictions"
 image: ''
 link: 'https://www.foxnews.com/media/dicaprio-accepts-palm-springs-film-award-remotely-due-venezuela-strike-travel-restrictions'
