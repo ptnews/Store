@@ -1,0 +1,21 @@
+---
+title: "Ukrainian Drones Kill 28 in Occupied Kherson Resort Town, Pro-Kremlin Governor Says - The Moscow Times"
+date: 2026-01-04
+description: "Ukrainian Drones Kill 28 in Occupied Kherson Resort Town, Pro-Kremlin Governor Says&nbsp;&nbsp;The Moscow TimesRussian Offensive Campaign Assessment, January 2, 2026&nbsp;&nbsp;Institute for the Study of WarRussia puts death toll from Ukrainian strike at 27 as Zelenskyy names intelligence chief to new role&nbsp;&nbsp;ABC NewsRussia-Ukraine war: List of key events, day 1,408&nbsp;&nbsp;Al JazeeraRussia accuses Ukraine of killing 27 people in New Year attack in occupied Kherson region&nbsp;&nbsp;B..."
+summary: "Ukrainian Drones Kill 28 in Occupied Kherson Resort Town, Pro-Kremlin Governor Says&nbsp;&nbsp;The Moscow TimesRussian Offensive Campaign Assessment, January 2, 2026&nbsp;&nbsp;Institute for the Study of WarRussia puts death toll from Ukrainian strike at 27 as Zelenskyy names intelligence chief to new role&nbsp;&nbsp;ABC NewsRussia-Ukraine war: List of key events, day 1,408&nbsp;&nbsp;Al JazeeraRussia accuses Ukraine of killing 27 people in New Year attack in occupied Kherson region&nbsp;&nbsp;B..."
+slug: "ukrainian-drones-kill-28-in-occupied-kherson-resort-town-pro-kremlin-governor-says-the-moscow-times"
+image: ''
+link: 'https://news.google.com/rss/articles/CBMiywFBVV95cUxNVEt5OVZSajlZNVRxcGt2YXB6N2lWMnJaal9zRjhacUNzRVMzUXpmX1FlRUo5WExKNXVtUDlqdVBkNkJId3FsTzdnSWVqY19yeERQV2lkOWxlamlKd2VYTHowUFVlRFo4MVBJbVV2dTQ4YnlvU2RDdVpBeG1LMGN4TkVER0RCcmtzdzhkbC1hMV9HM1RaLTduazQwbmc1RmYwSGRJZ3RiaVhwQTIxXzlSbEZET3Qxb3NabjJvcllzalcySXk1cjVRRTVlZw?oc=5'
+source: 'https://news.google.com/rss/topics/CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx1YlY4U0FtVnVHZ0pWVXlnQVAB?hl=en-US&gl=US&ceid=US:en'
+categories:
+- 'news.google.com'
+tags:
+- 'ukrainian'
+- 'occupied'
+- 'governor'
+- 'kherson'
+- 'kremlin'
+
+draft: false
+---
+<ol><li><a href="https://news.google.com/rss/articles/CBMiywFBVV95cUxNVEt5OVZSajlZNVRxcGt2YXB6N2lWMnJaal9zRjhacUNzRVMzUXpmX1FlRUo5WExKNXVtUDlqdVBkNkJId3FsTzdnSWVqY19yeERQV2lkOWxlamlKd2VYTHowUFVlRFo4MVBJbVV2dTQ4YnlvU2RDdVpBeG1LMGN4TkVER0RCcmtzdzhkbC1hMV9HM1RaLTduazQwbmc1RmYwSGRJZ3RiaVhwQTIxXzlSbEZET3Qxb3NabjJvcllzalcySXk1cjVRRTVlZw?oc=5" target="_blank">Ukrainian Drones Kill 28 in Occupied Kherson Resort Town, Pro-Kremlin Governor Says</a>&nbsp;&nbsp;<font color="#6f6f6f">The Moscow Times</font></li><li><a href="https://news.google.com/rss/articles/CBMiqgFBVV95cUxNdVZWYkNzRkkySmVsS3BkMTBILWFIb082SFVFYlhPS1ZpT3N3M09sMEdDQ18xQkVJV1RTZ05uQldRcWdkNVRlYXNpNlRzbkJfS3RCb2V2aGwwY2JkQ1lIRFR5bmZrYXkwOWYtaXpPc2ozYVBxSkVGVExtLW1nVDU3eDVHNk1XdHF2SDV2Yk5IV0dWNzRvMk00bmlHQXFqb2RhN2padjVfSmxIUQ?oc=5" target="_blank">Russian Offensive Campaign Assessment, January 2, 2026</a>&nbsp;&nbsp;<font color="#6f6f6f">Institute for the Study of War</font></li><li><a href="https://news.google.com/rss/articles/CBMirgFBVV95cUxQaFAtVE1teDNYN2tMZzJ4a3p0R1lHT1pzX1YydjJMd3VNeUJNTjlvSU9PT09xcDhmNHBWcjZJazgyRkhBbEhIZzcxaXFZc3k5QWpIWUY5Ym0yLWtVcmM3TUJ3TXh6Q0tJb3VMVTZRVENmS01QTXNHUTdmTzhxbEVwWGVINTdKWUVyZU9WcEkxT1puWlZBT0V4MmpTRGlzRnFva1FZY095elMzNENFMkHSAbMBQVVfeXFMTWN0Z19reE1fbUZjZFlzcFY1UVktS3BjdlBpNm9ZUlZXQ2xmNkxpZmtUWTQ5bGY4eF9KU212anJTSmdPcW45d1ozaE53LWNiSDJuU0lGNlU3anliNWF0Zm9NRDNVbVpnNk10czZYV1ByaTA5MEJZYU1RclR2RWpyaHBTdkZjdFMyODhLTW16eXBIMGc2OHdnQkxoT0tHcHB4TDRNcVVSM1pWelgtRWxheW9pZVE?oc=5" target="_blank">Russia puts death toll from Ukrainian strike at 27 as Zelenskyy names intelligence chief to new role</a>&nbsp;&nbsp;<font color="#6f6f6f">ABC News</font></li><li><a href="https://news.google.com/rss/articles/CBMijwFBVV95cUxOUmVUVnRaSWJMZjY3UkZ6cnhvbzRqQjFWZEVLTnNVM19HNGxrZTRSSTVEMTR0NWprWjRCaEJzZXZiT2ZiYUxVdlpQV1hacllzTmhHTWpYbEU0b1ZneEp5WTc2MFd4eG9rSlFCZGhOUDhHam1QVzFjQjAwNk1GU0RZLV9XYzkzWFJHai1WdGQyVQ?oc=5" target="_blank">Russia-Ukraine war: List of key events, day 1,408</a>&nbsp;&nbsp;<font color="#6f6f6f">Al Jazeera</font></li><li><a href="https://news.google.com/rss/articles/CBMiWkFVX3lxTFBlLUhmck9fcG5ObmxtNi16SFdkOWNMeTdhUGhvSEd5a3VrbzBkRWFuZFAyMkRPNXZvWGhLNlZ1bGJ1U24wbGpBVUl2azF5UFhIMFdDNFZNLTIydw?oc=5" target="_blank">Russia accuses Ukraine of killing 27 people in New Year attack in occupied Kherson region</a>&nbsp;&nbsp;<font color="#6f6f6f">BBC</font></li></ol>
