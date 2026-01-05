@@ -1,0 +1,21 @@
+---
+title: "Cardinals fire coach Jonathan Gannon after nine straight losses end disastrous season"
+date: 2026-01-05
+description: "The Cardinals dismissed coach Jonathan Gannon following a disastrous season, finishing 3-14 after a promising start crumbled amid injuries and costly mistakes."
+summary: "The Cardinals dismissed coach Jonathan Gannon following a disastrous season, finishing 3-14 after a promising start crumbled amid injuries and costly mistakes."
+slug: "cardinals-fire-coach-jonathan-gannon-after-nine-straight-losses-end-disastrous-season"
+image: ''
+link: 'https://www.foxnews.com/sports/cardinals-fire-jonathan-gannon-nine-straight-losses-end-disastrous-season'
+source: 'https://feeds.foxnews.com/foxnews/latest'
+categories:
+- 'feeds.foxnews.com'
+tags:
+- 'disastrous'
+- 'cardinals'
+- 'jonathan'
+- 'straight'
+- 'gannon'
+
+draft: false
+---
+<p><a href="https://www.foxnews.com/category/sports/nfl/arizona-cardinals" target="_blank" rel="noopener">Arizona Cardinals</a> coach Jonathan Gannon was the latest NFL coach shown the door on "Black Monday," getting dismissed a day after the team suffered its ninth straight loss of the season.</p><p>The move was announced via the team’s website after the Cardinals ended the season with a 37-20 loss to the <a href="https://www.foxnews.com/category/sports/nfl/los-angeles-rams" target="_blank" rel="noopener">Los Angeles Rams.</a></p><p>"Jonathan is a very smart, motivated, enthusiastic, intelligent, awesome coach," Cardinals owner Michael Bidwill said during a press conference on Monday. </p><p><a href="https://www.foxnews.com/sports" target="_blank" rel="noopener"><strong>CLICK HERE FOR MORE SPORTS COVERAGE ON FOXNEWS.COM</strong></a></p><p>"He made us better, but I think, as you all know, this is a league about wins and losses. The wins and losses speak for themselves — especially this year. We just felt like we were going in the wrong direction, and we needed to change course." </p><p>Gannon, 43, was short with the media after the game and had little to elaborate on after the Cardinals finished with a 3-14 record.</p><p>"Not a great one," he said when asked to summarize the season. "A lot of adversity, but growth will happen."</p><p>"My best memory? My best memory has not happened," he continued. "It will be the growth that comes from this year. That’s a good question." </p><p><a href="https://www.foxnews.com/sports/giants-gm-joe-schoen-losing-season-citing-need-continuity-stability" target="_blank" rel="noopener"><strong><u>GIANTS STICK WITH GM JOE SCHOEN DESPITE ANOTHER LOSING SEASON, CITING NEED FOR 'CONTINUITY AND STABILITY'</u></strong></a></p><p>Gannon declined to speculate about his future, telling reporters that Monday would look like "the same 24 hours" of any Monday after failing to make the playoffs. But that wasn't the case.</p><p>His dismissal comes after three seasons with the organization, but the 2024 NFL season marked Gannon's worst – by far. </p><p>The Cardinals burst out of the gate with two straight wins, but injuries to stars like <a href="https://www.foxnews.com/category/person/kyler-murray" target="_blank" rel="noopener">Kyler Murray</a> and James Conner, combined with sloppy, self-inflicted mistakes — most notably Emari Demercado’s premature celebration and fumbled ball at the goal line — swiftly ended any realistic playoff hopes.</p><p>Gannon even had his own sideline blunder when he was <a href="https://www.foxnews.com/sports/cardinals-fine-head-coach-jonathan-gannon-100k-altercation-player-after-big-blunder-reports" target="_blank" rel="noopener">fined $100,000 by the NFL</a> for appearing to get into an altercation with Demercado following the dropped ball. </p><p>Gannon parts ways with the organization with a 15-36 record.</p><p><i>The Associated Press contributed to this report. </i></p><p><i><strong>Follow Fox News Digital’s</strong></i><a href="https://twitter.com/FoxNewsSports_" target="_blank" rel="noopener"><i><strong><u> sports coverage on X</u></strong></i></a><i><strong>, and subscribe to</strong></i><a href="https://www.foxnews.com/newsletters" target="_blank" rel="noopener"><i><strong><u> the Fox News Sports Huddle newsletter</u></strong></i></a><i><strong>.</strong></i></p>
