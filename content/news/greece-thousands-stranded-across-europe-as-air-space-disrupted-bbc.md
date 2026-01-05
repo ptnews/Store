@@ -1,0 +1,21 @@
+---
+title: "Greece: Thousands stranded across Europe as air space disrupted - BBC"
+date: 2026-01-05
+description: "Greece: Thousands stranded across Europe as air space disrupted&nbsp;&nbsp;BBCGreece says a radio failure that grounded flights is unlikely to be a cyberattack&nbsp;&nbsp;ABC NewsSome Greek flights resume after air traffic radio collapse&nbsp;&nbsp;ReutersDelays expected at Ben Gurion Airport after Greece shuts its airports over radio issue&nbsp;&nbsp;The Times of IsraelGreek airspace closes until 4 p.m. amid widespread issues&nbsp;&nbsp;The Jerusalem Post"
+summary: "Greece: Thousands stranded across Europe as air space disrupted&nbsp;&nbsp;BBCGreece says a radio failure that grounded flights is unlikely to be a cyberattack&nbsp;&nbsp;ABC NewsSome Greek flights resume after air traffic radio collapse&nbsp;&nbsp;ReutersDelays expected at Ben Gurion Airport after Greece shuts its airports over radio issue&nbsp;&nbsp;The Times of IsraelGreek airspace closes until 4 p.m. amid widespread issues&nbsp;&nbsp;The Jerusalem Post"
+slug: "greece-thousands-stranded-across-europe-as-air-space-disrupted-bbc"
+image: ''
+link: 'https://news.google.com/rss/articles/CBMiWkFVX3lxTE9tek9uLWpERWpaOEJ4Uk9XLUVvTjVsdzZFam1PenExSV9FdnFXZndLSmxFb2JKMmxnT0lzRXhtQnRHVnRsVThySzRrUkJLLTdpVkhZb3JRNHFtUdIBX0FVX3lxTFBnTU00bnM4WEFZcGZpRVRBWVJSd21McGotQk9yWjBqM3dVRG5hRHdvYk5FaGthUm1ONmtHa0l3SjNIRXJFN3dNSldta3ptai1nRE9XME5rdy05SFl5cjc0?oc=5'
+source: 'https://news.google.com/rss/topics/CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx1YlY4U0FtVnVHZ0pWVXlnQVAB?hl=en-US&gl=US&ceid=US:en'
+categories:
+- 'news.google.com'
+tags:
+- 'thousands'
+- 'disrupted'
+- 'stranded'
+- 'greece'
+- 'across'
+
+draft: false
+---
+<ol><li><a href="https://news.google.com/rss/articles/CBMiWkFVX3lxTE9tek9uLWpERWpaOEJ4Uk9XLUVvTjVsdzZFam1PenExSV9FdnFXZndLSmxFb2JKMmxnT0lzRXhtQnRHVnRsVThySzRrUkJLLTdpVkhZb3JRNHFtUdIBX0FVX3lxTFBnTU00bnM4WEFZcGZpRVRBWVJSd21McGotQk9yWjBqM3dVRG5hRHdvYk5FaGthUm1ONmtHa0l3SjNIRXJFN3dNSldta3ptai1nRE9XME5rdy05SFl5cjc0?oc=5" target="_blank">Greece: Thousands stranded across Europe as air space disrupted</a>&nbsp;&nbsp;<font color="#6f6f6f">BBC</font></li><li><a href="https://news.google.com/rss/articles/CBMiqgFBVV95cUxOOXZmSjZ2eDBDWUpEdWJocHM0amswY21IbF9GLXRMUjZEZUs0T2oyNXhaSXE2VG95WnRYT09IajhJeTYyOGY5SVFHdVhkVU1hQ3BoUGowZ1BqblJKRXVSc1E5Z2pZNzg4YmpRd3ozTWVsRWVGYkhfM3d5UGlxRk9xZE5fcDRVZnFHcVJDazJMd3RYODFTNldkbGtQZC0waWw1TjdFNWlxZ0R3UdIBrwFBVV95cUxQb05kb3JUdW50Q0cwUk1ZaFpkNndybFpHbmZNUE8wRk9ScDlvOFByTmNaNzhUYms3U04yQWZBQlVlM2FuZDQxZzMtdEJ4NkVRalBBX2lWbEVsMEhUbDBwN082d1dDV2JNUEI1Y2FMcDItNGtzWmw3MHJjMWVfa1RfUWVUTjcxaHlHOTBzenFJNS1IeklPWVpSUTZ2d3pOcTNZVGhycWxTcGxQMHcxUHlV?oc=5" target="_blank">Greece says a radio failure that grounded flights is unlikely to be a cyberattack</a>&nbsp;&nbsp;<font color="#6f6f6f">ABC News</font></li><li><a href="https://news.google.com/rss/articles/CBMipgFBVV95cUxNQlBaNmxfa0hDYnNzMGtPRG0tWDdUc0hJcURFTFZhZHplM2J3bHptODdEeHZIb2N3X3pGWVZlcVpoUHlvcE5MLW5NUnN1b0hkQ0hoX0YxWEZwX3F2eGlIRl9BdmRELVJDOFpQV1pWZTNxX3ZscERVUjZCOTNiQm1yRWdZT1gzN2VqdFNzV2xvaXg1c1FQZVNiaHBLMUlrNlU4c0UxVEJB?oc=5" target="_blank">Some Greek flights resume after air traffic radio collapse</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font></li><li><a href="https://news.google.com/rss/articles/CBMiswFBVV95cUxPUlI2VW8xeXdSMEdNZGlORldsRmQxMVdkSWYwUXdSRzdsX1FCNkVJekdqUldQVVBWTE5CRjdHZm5XQzFOaE9TaE9QTDBzcEY2bzExQ2JVcW1RVk5hczhsSC15MHU2c2d6Nlpackdtb3U3c2JBM0ZPbmtQd3dVekJoTUl6TDk2VG1DX1Fvc1NsZVR2aHB4U3ZLS200R3JVTXhTdGhxel9MUFZUQUNocllIYmVEWdIBuAFBVV95cUxQREdRR3RnRnNncUlURlozeU5PZllCZ1N4NVNwSnpLZHlwa0xuQTA4WjlVaEVucWVqRllTV0JpZkFIYU1tTFg3OEdXMjZzbzRfemhLd3pUdEdZY0FvY0d2RG1iR1EzdHhRQlc3b3YxR2RsLUNoUWQwS1hyVWFCTS1CX0FhdlI4QmppNDlrUnE3SEI5YWh1NGl5OWd6V3pXZ2l6TmxfSnNhdDhxNlRQTnRzUVRuNUxtNWgw?oc=5" target="_blank">Delays expected at Ben Gurion Airport after Greece shuts its airports over radio issue</a>&nbsp;&nbsp;<font color="#6f6f6f">The Times of Israel</font></li><li><a href="https://news.google.com/rss/articles/CBMiX0FVX3lxTE05SWpaN1RQUG9pTmhYNG1mTjljLWJCWEVXMnZ4ZjFPc1FEa3VtcUVBekg2YVFuWWNSd0JBUjd6cndhY2RIQm00T2JLUndCcWxmaEZCY2t4bEkwLWlEUU5Z?oc=5" target="_blank">Greek airspace closes until 4 p.m. amid widespread issues</a>&nbsp;&nbsp;<font color="#6f6f6f">The Jerusalem Post</font></li></ol>
