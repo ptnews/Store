@@ -1,6 +1,6 @@
 ---
 title: "Police tighten measures against Fitburg crew amid cable damage investigation - Yle"
-date: 2026-01-04
+date: 2026-01-05
 description: "Police tighten measures against Fitburg crew amid cable damage investigation&nbsp;&nbsp;YleSabotage Suspected in Cutting of Undersea Cable, Finnish Police Say&nbsp;&nbsp;The New York TimesFinland seizes ship sailing from Russia after suspected cable sabotage in Baltic Sea&nbsp;&nbsp;ReutersVessel Coming From Russia Dragged Anchor Before Subsea Cable Damaged — Finnish Police&nbsp;&nbsp;The Moscow TimesFinland detains Russian-crewed ship after another subsea cable damaged&nbsp;&nbsp;politico.eu"
 summary: "Police tighten measures against Fitburg crew amid cable damage investigation&nbsp;&nbsp;YleSabotage Suspected in Cutting of Undersea Cable, Finnish Police Say&nbsp;&nbsp;The New York TimesFinland seizes ship sailing from Russia after suspected cable sabotage in Baltic Sea&nbsp;&nbsp;ReutersVessel Coming From Russia Dragged Anchor Before Subsea Cable Damaged — Finnish Police&nbsp;&nbsp;The Moscow TimesFinland detains Russian-crewed ship after another subsea cable damaged&nbsp;&nbsp;politico.eu"
 slug: "police-tighten-measures-against-fitburg-crew-amid-cable-damage-investigation-yle"

@@ -1,6 +1,6 @@
 ---
 title: "'Deeply shocked': World leaders react to US attack on Venezuela "
-date: 2026-01-04
+date: 2026-01-05
 description: "There has been a mixed reaction to a large-scale strike on Venezuela and Maduro's capture by the US."
 summary: "There has been a mixed reaction to a large-scale strike on Venezuela and Maduro's capture by the US."
 slug: "deeply-shocked-world-leaders-react-to-us-attack-on-venezuela"

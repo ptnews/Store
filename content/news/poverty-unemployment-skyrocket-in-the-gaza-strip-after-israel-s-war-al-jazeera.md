@@ -1,6 +1,6 @@
 ---
 title: "Poverty, unemployment skyrocket in the Gaza Strip after Israel’s war - Al Jazeera"
-date: 2026-01-04
+date: 2026-01-05
 description: "Poverty, unemployment skyrocket in the Gaza Strip after Israel’s war&nbsp;&nbsp;Al JazeeraCommentary: Internet access is a human right&nbsp;&nbsp;The Daily GazetteFrom ‘Little Scientist’ to plastic scavenger: Dreams lost to Israel’s war on Gaza&nbsp;&nbsp;Tehran TimesGaza Economy Collapses As Israeli Regime’s War Drives Mass P|تسنیم&nbsp;&nbsp;خبرپوPoverty and unemployment surge in Gaza in the aftermath of Israel’s war&nbsp;&nbsp;National Herald"
 summary: "Poverty, unemployment skyrocket in the Gaza Strip after Israel’s war&nbsp;&nbsp;Al JazeeraCommentary: Internet access is a human right&nbsp;&nbsp;The Daily GazetteFrom ‘Little Scientist’ to plastic scavenger: Dreams lost to Israel’s war on Gaza&nbsp;&nbsp;Tehran TimesGaza Economy Collapses As Israeli Regime’s War Drives Mass P|تسنیم&nbsp;&nbsp;خبرپوPoverty and unemployment surge in Gaza in the aftermath of Israel’s war&nbsp;&nbsp;National Herald"
 slug: "poverty-unemployment-skyrocket-in-the-gaza-strip-after-israel-s-war-al-jazeera"

@@ -1,6 +1,6 @@
 ---
 title: "How AI is helping to study tourist impact on seals - BBC"
-date: 2026-01-04
+date: 2026-01-05
 description: "How AI is helping to study tourist impact on seals&nbsp;&nbsp;BBC"
 summary: "How AI is helping to study tourist impact on seals&nbsp;&nbsp;BBC"
 slug: "how-ai-is-helping-to-study-tourist-impact-on-seals-bbc"

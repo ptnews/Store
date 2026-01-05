@@ -1,6 +1,6 @@
 ---
 title: "Watch: 'I'm so happy' - Venezuelans in the US react to Maduro's capture"
-date: 2026-01-04
+date: 2026-01-05
 description: "The BBC's Bernd Debusmann reports from Doral Florida, where the Venezuelan-American community has gathered to celebrate the US attack."
 summary: "The BBC's Bernd Debusmann reports from Doral Florida, where the Venezuelan-American community has gathered to celebrate the US attack."
 slug: "watch-i-m-so-happy-venezuelans-in-the-us-react-to-maduro-s-capture"

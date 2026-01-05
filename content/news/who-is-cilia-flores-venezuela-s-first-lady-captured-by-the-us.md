@@ -1,6 +1,6 @@
 ---
 title: "Who is Cilia Flores, Venezuela's first lady captured by the US? "
-date: 2026-01-04
+date: 2026-01-05
 description: "Long seen as a powerful figure, Flores has also faced allegations of corruption and nepotism."
 summary: "Long seen as a powerful figure, Flores has also faced allegations of corruption and nepotism."
 slug: "who-is-cilia-flores-venezuela-s-first-lady-captured-by-the-us"

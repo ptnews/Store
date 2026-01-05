@@ -1,6 +1,6 @@
 ---
 title: "Can Maduro's trusted lieutenant now work for Trump?"
-date: 2026-01-04
+date: 2026-01-05
 description: "Delcy Rodríguez, a close ally of captured Venezuelan leader Nicolás Maduro, has been named interim president. "
 summary: "Delcy Rodríguez, a close ally of captured Venezuelan leader Nicolás Maduro, has been named interim president. "
 slug: "can-maduro-s-trusted-lieutenant-now-work-for-trump"

@@ -1,6 +1,6 @@
 ---
 title: "Thousands stranded across Europe as Greece airspace disrupted"
-date: 2026-01-04
+date: 2026-01-05
 description: "A fault with radio communications caused air traffic controllers to temporarily suspend arrivals and departures."
 summary: "A fault with radio communications caused air traffic controllers to temporarily suspend arrivals and departures."
 slug: "thousands-stranded-across-europe-as-greece-airspace-disrupted"

@@ -1,6 +1,6 @@
 ---
 title: "Raw emotions as mourners attend Mass for Swiss bar fire victims"
-date: 2026-01-04
+date: 2026-01-05
 description: "There are tears and hugs at a special Mass for the victims of the blaze on New Year’s Eve."
 summary: "There are tears and hugs at a special Mass for the victims of the blaze on New Year’s Eve."
 slug: "raw-emotions-as-mourners-attend-mass-for-swiss-bar-fire-victims"

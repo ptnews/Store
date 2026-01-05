@@ -1,6 +1,6 @@
 ---
 title: "Pope dedicates Sistine Chapel Christmas Concert to children without peace - Vatican News"
-date: 2026-01-04
+date: 2026-01-05
 description: "Pope dedicates Sistine Chapel Christmas Concert to children without peace&nbsp;&nbsp;Vatican News"
 summary: "Pope dedicates Sistine Chapel Christmas Concert to children without peace&nbsp;&nbsp;Vatican News"
 slug: "pope-dedicates-sistine-chapel-christmas-concert-to-children-without-peace-vatican-news"

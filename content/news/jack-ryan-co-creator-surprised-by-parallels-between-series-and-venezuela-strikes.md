@@ -1,0 +1,21 @@
+---
+title: "'Jack Ryan' co-creator surprised by parallels between series and Venezuela strikes"
+date: 2026-01-04
+description: "Amazon&apos;s &quot;Jack Ryan&quot; co-creator Carlton Cruse reacted to clips of his series trending on social media after recent U.S. military strikes against Venezuela."
+summary: "Amazon&apos;s &quot;Jack Ryan&quot; co-creator Carlton Cruse reacted to clips of his series trending on social media after recent U.S. military strikes against Venezuela."
+slug: "jack-ryan-co-creator-surprised-by-parallels-between-series-and-venezuela-strikes"
+image: ''
+link: 'https://www.foxnews.com/media/jack-ryan-co-creator-surprised-parallels-between-series-venezuela-strikes'
+source: 'https://feeds.foxnews.com/foxnews/latest'
+categories:
+- 'feeds.foxnews.com'
+tags:
+- 'surprised'
+- 'parallels'
+- 'venezuela'
+- 'creator'
+- 'between'
+
+draft: false
+---
+<p>Carlton Cruse, co-creator of Amazon's "Jack Ryan" series, remarked about the surprising parallels between his show and the recent <a href="https://www.foxnews.com/world/explosions-venezuelan-capital-caracas-reports" target="_blank" rel="noopener">U.S. strikes against Venezuela.</a></p><p>Clips from season two of the series began trending on social media over the weekend, featuring protagonist Jack Ryan, played by John Krasinski, explaining <a href="https://www.foxnews.com/category/topic/venezuelan-political-crisis" target="_blank" rel="noopener">Venezuela's political turmoil</a>.</p><p>"The fact is that Venezuela is arguably the single greatest resource of oil and minerals on the planet," Ryan said. "So why is this country in the midst of one of the greatest humanitarian crises in modern history?"</p><p><a href="https://www.foxnews.com/media/florida-mayor-says-maduro-capture-light-end-tunnel-venezuelan-americans-celebrate" target="_blank" rel="noopener"><strong>FLORIDA MAYOR SAYS MADURO CAPTURE A 'LIGHT AT THE END OF THE TUNNEL' AS VENEZUELAN AMERICANS CELEBRATE</strong></a></p><p>He went on to explain that the political ruin came from the country's fictional leader Nicholas Reyes, whom Ryan described as having "crippled the national economy by half" and "raised the poverty rate by almost 400%."</p><p>Despite the clip airing in 2019, Cruse recognized perceived connections between the nearly seven-year-old episode and the real world.</p><p>"What always surprises you as a storyteller is how often real-world events catch up to fiction," <a href="https://deadline.com/2026/01/jack-ryan-us-venezuela-intervention-prediction-carlton-cuse-1236661169/" target="_blank" rel="nofollow noopener">Cruse told Deadline</a> Sunday. "The goal of that season wasn’t prophecy — it was plausibility. When you ground a story in real geopolitical dynamics, reality has a way of making it rhyme."</p><p><a href="https://www.foxnews.com/media/rubio-defends-venezuela-operation-after-nbc-questions-lack-congressional-approval-maduro-capture" target="_blank" rel="noopener"><strong><u>RUBIO DEFENDS VENEZUELA OPERATION AFTER NBC QUESTIONS LACK OF CONGRESSIONAL APPROVAL FOR MADURO CAPTURE</u></strong></a></p><p>Cruse added that the series always sought to make the international scenarios "credible" and based its plot on the ongoing tensions affecting Venezuela at the time.</p><p>"[Co-creator] Graham Roland and I weren’t making a statement — we were telling a fictional character-driven thriller rooted in Venezuela’s long-standing strategic relevance," Cruse said. "Our job was to make the situation feel credible. We approached Venezuela as a country where democratic ideals, economic reality and geopolitical interests have been in tension for a long time — and where choices are never simple."</p><p><a href="http://foxnews.com/media" target="_blank" rel="noopener"><strong>CLICK HERE FOR MORE COVERAGE OF MEDIA AND CULTURE</strong></a></p><p>On Saturday, President Donald Trump confirmed U.S. military strikes against Venezuela, taking Venezuelan President Nicolás Maduro and his wife <a href="https://www.foxnews.com/live-news/maduro-captured-venezuela-attack-january-4-2026" target="_blank" rel="noopener">into custody.</a></p><p>Though the second season of "Jack Ryan" featured the Venezuelan president being removed from power after U.S. forces travel to the Presidential Palace, the series saw the Venezuelan leader being ousted after losing the election.</p>

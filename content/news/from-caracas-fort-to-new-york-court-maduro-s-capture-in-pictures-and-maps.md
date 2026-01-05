@@ -1,6 +1,6 @@
 ---
 title: "From Caracas 'fort' to New York court: Maduro's capture in pictures and maps"
-date: 2026-01-04
+date: 2026-01-05
 description: "Follow the operation to seize the Venezuelan president through photos, satellite images and maps."
 summary: "Follow the operation to seize the Venezuelan president through photos, satellite images and maps."
 slug: "from-caracas-fort-to-new-york-court-maduro-s-capture-in-pictures-and-maps"

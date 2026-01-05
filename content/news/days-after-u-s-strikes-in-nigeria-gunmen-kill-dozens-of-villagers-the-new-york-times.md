@@ -1,6 +1,6 @@
 ---
 title: "Days After U.S. Strikes in Nigeria, Gunmen Kill Dozens of Villagers - The New York Times"
-date: 2026-01-04
+date: 2026-01-05
 description: "Days After U.S. Strikes in Nigeria, Gunmen Kill Dozens of Villagers&nbsp;&nbsp;The New York TimesGunmen raid village in northern Nigeria, killing at least 30 people and abducting others&nbsp;&nbsp;ABC NewsNiger state: At least 30 killed in Kasuwan-Daji village attack in Nigeria&nbsp;&nbsp;BBCMassacre at Nigerian market leaves more than 30 dead as gunmen torch stalls, kidnap others&nbsp;&nbsp;Fox NewsGunmen kill over 30 in village raid, abduct others in northern Nigeria&nbsp;&nbsp;Al Jazeera"
 summary: "Days After U.S. Strikes in Nigeria, Gunmen Kill Dozens of Villagers&nbsp;&nbsp;The New York TimesGunmen raid village in northern Nigeria, killing at least 30 people and abducting others&nbsp;&nbsp;ABC NewsNiger state: At least 30 killed in Kasuwan-Daji village attack in Nigeria&nbsp;&nbsp;BBCMassacre at Nigerian market leaves more than 30 dead as gunmen torch stalls, kidnap others&nbsp;&nbsp;Fox NewsGunmen kill over 30 in village raid, abduct others in northern Nigeria&nbsp;&nbsp;Al Jazeera"
 slug: "days-after-u-s-strikes-in-nigeria-gunmen-kill-dozens-of-villagers-the-new-york-times"

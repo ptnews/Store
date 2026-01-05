@@ -1,6 +1,6 @@
 ---
 title: "Will 2026 be the year MPs and peers agree how to repair Parliament? - BBC"
-date: 2026-01-04
+date: 2026-01-05
 description: "Will 2026 be the year MPs and peers agree how to repair Parliament?&nbsp;&nbsp;BBC"
 summary: "Will 2026 be the year MPs and peers agree how to repair Parliament?&nbsp;&nbsp;BBC"
 slug: "will-2026-be-the-year-mps-and-peers-agree-how-to-repair-parliament-bbc"

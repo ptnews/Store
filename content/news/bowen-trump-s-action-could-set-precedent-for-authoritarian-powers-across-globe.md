@@ -1,6 +1,6 @@
 ---
 title: "Bowen: Trump's action could set precedent for authoritarian powers across globe"
-date: 2026-01-04
+date: 2026-01-05
 description: "Trump seems to believe he makes the rules and others cannot have the same privileges. "
 summary: "Trump seems to believe he makes the rules and others cannot have the same privileges. "
 slug: "bowen-trump-s-action-could-set-precedent-for-authoritarian-powers-across-globe"

@@ -1,6 +1,6 @@
 ---
 title: "Spies, drones and blowtorches: How the US captured Maduro"
-date: 2026-01-04
+date: 2026-01-05
 description: "An extraordinary mission dubbed \"Operation Absolute Resolve\" saw elite troops breach the Venezuelan president's fortified compound."
 summary: "An extraordinary mission dubbed \"Operation Absolute Resolve\" saw elite troops breach the Venezuelan president's fortified compound."
 slug: "spies-drones-and-blowtorches-how-the-us-captured-maduro"
