@@ -1,0 +1,21 @@
+---
+title: "Indonesian rescuers find second body as search for Spanish soccer coach and 2 children continues - CBS News"
+date: 2026-01-05
+description: "Indonesian rescuers find second body as search for Spanish soccer coach and 2 children continues&nbsp;&nbsp;CBS NewsSoccer Coach and His 3 Young Children Die After Boat Sinks Near Popular Tourist Destination&nbsp;&nbsp;People.comOfficial Announcement&nbsp;&nbsp;realmadrid.comSecond Body Found in Search for Tourists Lost at Sea in Indonesia&nbsp;&nbsp;The InertiaIndonesia’s poor maritime safety in spotlight following Labuan Bajo boat accident&nbsp;&nbsp;Asia News Network"
+summary: "Indonesian rescuers find second body as search for Spanish soccer coach and 2 children continues&nbsp;&nbsp;CBS NewsSoccer Coach and His 3 Young Children Die After Boat Sinks Near Popular Tourist Destination&nbsp;&nbsp;People.comOfficial Announcement&nbsp;&nbsp;realmadrid.comSecond Body Found in Search for Tourists Lost at Sea in Indonesia&nbsp;&nbsp;The InertiaIndonesia’s poor maritime safety in spotlight following Labuan Bajo boat accident&nbsp;&nbsp;Asia News Network"
+slug: "indonesian-rescuers-find-second-body-as-search-for-spanish-soccer-coach-and-2-children-continues-cbs-news"
+image: ''
+link: 'https://news.google.com/rss/articles/CBMingFBVV95cUxNb25NclFQbFVrbU9KUWNuV1pxTDhyQWM5Ml9FRHlwdkpxUkVkOHdxS2F3cENMTGFXSDR0ZzIwcW9QMU02bC00Q3VEWWVQS3oyM0xIcVQ1eDdzVWpGaGZmVk9FQnVjTkhGeU5RODJOUVI1QXRXUmJMem91d3M0X1hBTElLTnVLczF6Uk5TWmhmckN0SHFBQWFZajg4MC1rd9IBowFBVV95cUxOOVNoamZldEtiVmtlVWladXA1V0lqeHpZMExCN1JGY0N2Mm94enhJZFFJTG1jcEpXV0dUbFh1TW9mcUFkZ1VKalBQYm9ITmR3Q1hmdlFEN01na2hLNWhnd2g3YUZLbDhkSW15d3lKaThZZG5mTm1pTXAzejB4Z2RKYjJ4M0g4cmYxTTQ3TUpqbTVjaUNiNEQ5Q0hwNkhQVkNUMU1n?oc=5'
+source: 'https://news.google.com/rss/topics/CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx1YlY4U0FtVnVHZ0pWVXlnQVAB?hl=en-US&gl=US&ceid=US:en'
+categories:
+- 'news.google.com'
+tags:
+- 'indonesian'
+- 'continues'
+- 'rescuers'
+- 'children'
+- 'spanish'
+
+draft: false
+---
+<ol><li><a href="https://news.google.com/rss/articles/CBMingFBVV95cUxNb25NclFQbFVrbU9KUWNuV1pxTDhyQWM5Ml9FRHlwdkpxUkVkOHdxS2F3cENMTGFXSDR0ZzIwcW9QMU02bC00Q3VEWWVQS3oyM0xIcVQ1eDdzVWpGaGZmVk9FQnVjTkhGeU5RODJOUVI1QXRXUmJMem91d3M0X1hBTElLTnVLczF6Uk5TWmhmckN0SHFBQWFZajg4MC1rd9IBowFBVV95cUxOOVNoamZldEtiVmtlVWladXA1V0lqeHpZMExCN1JGY0N2Mm94enhJZFFJTG1jcEpXV0dUbFh1TW9mcUFkZ1VKalBQYm9ITmR3Q1hmdlFEN01na2hLNWhnd2g3YUZLbDhkSW15d3lKaThZZG5mTm1pTXAzejB4Z2RKYjJ4M0g4cmYxTTQ3TUpqbTVjaUNiNEQ5Q0hwNkhQVkNUMU1n?oc=5" target="_blank">Indonesian rescuers find second body as search for Spanish soccer coach and 2 children continues</a>&nbsp;&nbsp;<font color="#6f6f6f">CBS News</font></li><li><a href="https://news.google.com/rss/articles/CBMiqwFBVV95cUxNU1dySzd4NFV0RGI2a3AtMGdfYU9veW1XRUl6Tms4YlRpU0FSTUhJYlB5SkhaYy10el9fYjBNckJBWkQ1QzNHRkFGV0dtUlduWHM1aVBFdi1xbGZXQ3NaM3VMaG9nTi1XVVdlMTdtYl85bFNFS1dJaWxvRlZoSUVzTDc1Y0hiQkpfaWpSZ0VrQXd1SXVDY0x6MmljVXlqQVFCQXVLd1paQ2hBUjA?oc=5" target="_blank">Soccer Coach and His 3 Young Children Die After Boat Sinks Near Popular Tourist Destination</a>&nbsp;&nbsp;<font color="#6f6f6f">People.com</font></li><li><a href="https://news.google.com/rss/articles/CBMijwFBVV95cUxNSS1YT3lyUDZIMktiQlFnWW5ab2hZZzJPRElBTXpkMjA2VnF1TXY0bjlfWkhJUmtvWExBN1g3blNqRVZNOThEUlNlTG1BVWpGVU9kU1FLRHRoSXQtTHczeWNMSFp4R1JUR3hZOC1ZN0d3U0lBY3hDNkl3LXRmXzF4c2ktWTdNR3d1SXczck4zaw?oc=5" target="_blank">Official Announcement</a>&nbsp;&nbsp;<font color="#6f6f6f">realmadrid.com</font></li><li><a href="https://news.google.com/rss/articles/CBMiiAFBVV95cUxNZ2pkX1pzcDRERzNDajlUWWFfcUFiZElOb1RYY21uOVhhNFl5RzQ1b2EzeEFmbUFSXzhjQzNUZHlpMXdSUUNMenhZSmxpd3ItbW1JVk1uUFhhZ2YwRzFTUTdRS2JsaHRfYVc0U1R5V2pheld6TnQyMjRDTk5kemJmYW1QdUJXQkY1?oc=5" target="_blank">Second Body Found in Search for Tourists Lost at Sea in Indonesia</a>&nbsp;&nbsp;<font color="#6f6f6f">The Inertia</font></li><li><a href="https://news.google.com/rss/articles/CBMiqgFBVV95cUxPd0dhNEs4Q0FZb29qWGJkY3Z3a0I4bENra3U1cGlGYzhfVWtaM3JIY2tLYTZEd29BVWlnSzI0eEtRQlppcEx0NUlWRUY5MVJSLW9Ld212Zk51aFhocm81a3Q5T1laejBKbjdKQWVaMWg3LVZQQ1Q1OU81RHQtV0Y3MWJaRVM0TnhyUVFMZFdETGNJZ2I1bklwTHJaZENFcFN0dWpJRHBjMkNWZw?oc=5" target="_blank">Indonesia’s poor maritime safety in spotlight following Labuan Bajo boat accident</a>&nbsp;&nbsp;<font color="#6f6f6f">Asia News Network</font></li></ol>
