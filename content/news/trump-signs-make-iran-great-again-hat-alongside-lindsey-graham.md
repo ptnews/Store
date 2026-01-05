@@ -1,0 +1,21 @@
+---
+title: "Trump signs 'Make Iran Great Again' hat alongside Lindsey Graham"
+date: 2026-01-05
+description: "President Donald Trump and Sen. Lindsey Graham were photographed with a signed &quot;Make Iran Great Again&quot; hat, as protests spread across Iran."
+summary: "President Donald Trump and Sen. Lindsey Graham were photographed with a signed &quot;Make Iran Great Again&quot; hat, as protests spread across Iran."
+slug: "trump-signs-make-iran-great-again-hat-alongside-lindsey-graham"
+image: ''
+link: 'https://www.foxnews.com/politics/trump-signs-make-iran-great-again-hat-alongside-lindsey-graham'
+source: 'https://feeds.foxnews.com/foxnews/latest'
+categories:
+- 'feeds.foxnews.com'
+tags:
+- 'alongside'
+- 'lindsey'
+- 'graham'
+- 'trump'
+- 'signs'
+
+draft: false
+---
+<p>President <a href="https://www.foxnews.com/category/person/donald-trump" target="_blank" rel="noopener">Donald Trump</a> was photographed with a signed "Make Iran Great Again" hat alongside Sen. Lindsey Graham, R-S.C., as nationwide demonstrations in Iran continued against the regime’s political and economic corruption.</p><p>In a photo posted Monday morning on <a href="https://www.foxnews.com/category/person/lindsey-graham" target="_blank" rel="noopener">Graham’s X account</a>, the senator could be seen flashing a thumbs up next to Trump as the president holds the black hat emblazoned with his signature.</p><p>"Another great day with @POTUS who has brought America back, stronger than ever, at home and abroad," Graham wrote. "God bless our Commander in Chief and all of the brave men and women who serve under him."</p><p>"I’m proud to be an American," the post continued. "God bless and protect the brave people of Iran who are standing up to tyranny."</p><p><a href="https://www.foxnews.com/politics/iran-crackdown-rattles-middle-east-analysts-weigh-us-options-short-military-intervention" target="_blank" rel="noopener"><strong>IRAN CRACKDOWN RATTLES MIDDLE EAST AS ANALYSTS WEIGH US OPTIONS SHORT OF MILITARY INTERVENTION</strong></a></p><p>Demonstrations have spread to more than 220 locations across 26 of Iran’s 31 provinces, the U.S.-based Human Rights Activists News Agency reported early Monday. <a href="https://www.foxnews.com/world/iran-protests-turn-deadly-anti-regime-demonstrations-enter-fifth-day" target="_blank" rel="noopener">At least 20 people</a> have been killed, the group said, and more than 990 have been arrested.</p><p>What began as <a href="https://www.foxnews.com/world/anti-iran-regime-protests-grow-across-country-trump-admin-boosts-demonstrators-offering-support" target="_blank" rel="noopener">protests over economic hardship</a> quickly escalated, with demonstrators chanting anti-government slogans.</p><p>Iran’s collapsing currency has fueled a deepening economic crisis. Prices for staples such as meat and rice have surged, while the country grapples with inflation of around 40%.</p><p><a href="https://www.foxnews.com/world/iranian-protesters-clash-security-forces-tear-gas-fills-tehran-streets-amid-nationwide-unrest" target="_blank" rel="noopener"><strong>IRANIAN PROTESTERS CLASH WITH SECURITY FORCES AS TEAR GAS FILLS TEHRAN STREETS AMID NATIONWIDE UNREST</strong></a></p><p>In December, the government introduced a new pricing tier for its heavily subsidized gasoline, raising the cost of some of the world’s cheapest fuel and adding to public anger. Tehran has signaled that further increases may follow, with officials now set to review fuel prices every three months.</p><p>The protests have continued even after <a href="https://www.foxnews.com/world/irans-khamenei-lashes-out-protesters-nationwide-anti-regime-unrest-grows" target="_blank" rel="noopener">Supreme Leader Ayatollah Ali Khamenei</a> on Saturday said that "rioters must be put in their place."</p><p>Khamenei’s branding of the pro-democracy activists as "rioters" came a day after <a href="https://www.foxnews.com/politics/trump-says-us-intervene-iran-starts-killing-protesters-locked-loaded" target="_blank" rel="noopener noreferrer nofollow">Trump’s unprecedented message</a> of solidarity with the demonstrators.</p><p><i>Fox News Digital’s Benjamin Weinthal and The Associated Press contributed to this report.</i></p>
