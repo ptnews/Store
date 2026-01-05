@@ -1,0 +1,21 @@
+---
+title: "At least 30 killed after gunmen raid village in northern Nigeria - CBS News"
+date: 2026-01-05
+description: "At least 30 killed after gunmen raid village in northern Nigeria&nbsp;&nbsp;CBS NewsGunmen raid village in northern Nigeria, killing at least 30 people and abducting others&nbsp;&nbsp;ABC NewsAt least 30 killed in Nigeria market attack, police say&nbsp;&nbsp;ReutersNiger state: At least 30 killed in Kasuwan-Daji village attack in Nigeria&nbsp;&nbsp;BBCDays After U.S. Strikes in Nigeria, Gunmen Kill Dozens of Villagers&nbsp;&nbsp;The New York Times"
+summary: "At least 30 killed after gunmen raid village in northern Nigeria&nbsp;&nbsp;CBS NewsGunmen raid village in northern Nigeria, killing at least 30 people and abducting others&nbsp;&nbsp;ABC NewsAt least 30 killed in Nigeria market attack, police say&nbsp;&nbsp;ReutersNiger state: At least 30 killed in Kasuwan-Daji village attack in Nigeria&nbsp;&nbsp;BBCDays After U.S. Strikes in Nigeria, Gunmen Kill Dozens of Villagers&nbsp;&nbsp;The New York Times"
+slug: "at-least-30-killed-after-gunmen-raid-village-in-northern-nigeria-cbs-news"
+image: ''
+link: 'https://news.google.com/rss/articles/CBMihgFBVV95cUxQVHF1dG5yNUhvTEV1YXJSRlFSYTF0aGRPY0M0LS1wcERzNzJfOUdFRUZxTVBqdXlWMUhpQ1ZPbVhfOXZFSHgxOTVyakFmZkVzSF9EZ1FFQm9IR3lmblFQX1J2LWN0VERoWDIwblZjUFFCQlh4amxJczloUnJIaXM4bkpUeFZtd9IBiwFBVV95cUxPWUstd2hMenZTazNYcFppM2ZvVEVnU1JfTExmaWQ0R1lnQW5zS3h1SHBIenoxc3I3bjBmQ011dkxGSFY4VkFWNlAzMWFLaTZ3amZtdGFFNGRtQk5PdDZuTTlIVHQwU04wSGNYOExlV3NCQU9CaEtxb3RXY3ROcXp4UHhILVRQWjdBQW1r?oc=5'
+source: 'https://news.google.com/rss/topics/CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx1YlY4U0FtVnVHZ0pWVXlnQVAB?hl=en-US&gl=US&ceid=US:en'
+categories:
+- 'news.google.com'
+tags:
+- 'northern'
+- 'village'
+- 'nigeria'
+- 'killed'
+- 'gunmen'
+
+draft: false
+---
+<ol><li><a href="https://news.google.com/rss/articles/CBMihgFBVV95cUxQVHF1dG5yNUhvTEV1YXJSRlFSYTF0aGRPY0M0LS1wcERzNzJfOUdFRUZxTVBqdXlWMUhpQ1ZPbVhfOXZFSHgxOTVyakFmZkVzSF9EZ1FFQm9IR3lmblFQX1J2LWN0VERoWDIwblZjUFFCQlh4amxJczloUnJIaXM4bkpUeFZtd9IBiwFBVV95cUxPWUstd2hMenZTazNYcFppM2ZvVEVnU1JfTExmaWQ0R1lnQW5zS3h1SHBIenoxc3I3bjBmQ011dkxGSFY4VkFWNlAzMWFLaTZ3amZtdGFFNGRtQk5PdDZuTTlIVHQwU04wSGNYOExlV3NCQU9CaEtxb3RXY3ROcXp4UHhILVRQWjdBQW1r?oc=5" target="_blank">At least 30 killed after gunmen raid village in northern Nigeria</a>&nbsp;&nbsp;<font color="#6f6f6f">CBS News</font></li><li><a href="https://news.google.com/rss/articles/CBMisAFBVV95cUxOZmY3NXNHMkRPbmV2aUtqUVVIOFFQNm9DalBJZ0xBbmdpTUZTVHVacFlIdzMzUGZINWdjYzJ5YThfQ096cy1LT0k0LXRjX3k0VHFQMWdqT1RDamJHMjV3ZU1tZEo2aE5pSEQwX0YwYWcwZktjWUxrUWdCMTNlZy1zaXpMSTVfSjhkWjNoS0k4T1VCTEtyXzZMYlNIWDV0eVNkMFA3eUlCczJHSmFtYU84dNIBtgFBVV95cUxQam9lRDZ0MlRXXzBVSnZoWVJlaU9mcU1ZT1lfYnBhNS12WThBdGw2YWtIRkREVXRRbUQzMVI2dzZGWFBzQ1F3M21EUUY4QnlDOHhVUHA1amVoeU5ybzRQNmlKU3NDN3MzWDJoa00yd21XNFIzMHZlWk5TeGFLdmhvdlNJX2pzbHNSYmtzSElDdFZYLTZvejBVTzBYaTM2ZURPdGNyUlBURDRrQ1M4cVM1YUZHWGxqQQ?oc=5" target="_blank">Gunmen raid village in northern Nigeria, killing at least 30 people and abducting others</a>&nbsp;&nbsp;<font color="#6f6f6f">ABC News</font></li><li><a href="https://news.google.com/rss/articles/CBMingFBVV95cUxONFh1cC0taWVlMGZEZUpiZERmQjZPaGJDdHRfNzNSVkdDRXpadVUyY2hSZVltOUg3RzFsaGxkdlAtWnJDTnFyWDQyQU5MbWhhd1FjLXJIeHFaVFZvMzdZRnc4YjhSMnZ2elRseGVSY0J3d2l2NVBRazhPZkwxOUtYZFlPek9sVDN3R2NZWG9tZlF1VVp5SUtMUXgyYmt1QQ?oc=5" target="_blank">At least 30 killed in Nigeria market attack, police say</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font></li><li><a href="https://news.google.com/rss/articles/CBMiWkFVX3lxTE9qM2NrWXd6ZkdlQVdrWmdjYVFQY2ZLbWFNVHdOS2FkUGlWR25zclpIUTdqcjFrbFdNNUpMMFBLMHkxTjhOM3F0WUh5bk5JNUFMejl5WVhycHBOUQ?oc=5" target="_blank">Niger state: At least 30 killed in Kasuwan-Daji village attack in Nigeria</a>&nbsp;&nbsp;<font color="#6f6f6f">BBC</font></li><li><a href="https://news.google.com/rss/articles/CBMiiAFBVV95cUxOUzBWV3RuSzhfeXBUR0x0YXlXWmRQZGFxNmk4aGN6THBSMzVlbW9NUkdOTTNUZnNJRHRQY1k5LTlJN0JQVGdKSF8xbnNlY1pCWFNvWFNRQjlZVEpERlNuTHlKSHFzaDVhM3VCeWg3WmsxNzlhZDN1eU1mM0JrTDJ5M0VRaWhUa1hG?oc=5" target="_blank">Days After U.S. Strikes in Nigeria, Gunmen Kill Dozens of Villagers</a>&nbsp;&nbsp;<font color="#6f6f6f">The New York Times</font></li></ol>

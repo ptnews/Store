@@ -1,0 +1,21 @@
+---
+title: "Israel begins strikes of Hezbollah and Hamas 'targets' in Lebanon - Reuters"
+date: 2026-01-05
+description: "Israel begins strikes of Hezbollah and Hamas 'targets' in Lebanon&nbsp;&nbsp;ReutersIsrael bombs Lebanon, saying it targeted Hezbollah and Hamas&nbsp;&nbsp;Al JazeeraAfter warning civilians of strikes, IDF conducts attacks on Hezbollah, Hamas targets in Lebanon&nbsp;&nbsp;The Jerusalem PostLebanon says 2 killed in Israeli strike in south, after IDF said it targeted Hezbollah there&nbsp;&nbsp;The Times of IsraelIsrael strikes Hezbollah and Hamas targets in Lebanon ahead of a key disarmament meeti..."
+summary: "Israel begins strikes of Hezbollah and Hamas 'targets' in Lebanon&nbsp;&nbsp;ReutersIsrael bombs Lebanon, saying it targeted Hezbollah and Hamas&nbsp;&nbsp;Al JazeeraAfter warning civilians of strikes, IDF conducts attacks on Hezbollah, Hamas targets in Lebanon&nbsp;&nbsp;The Jerusalem PostLebanon says 2 killed in Israeli strike in south, after IDF said it targeted Hezbollah there&nbsp;&nbsp;The Times of IsraelIsrael strikes Hezbollah and Hamas targets in Lebanon ahead of a key disarmament meeti..."
+slug: "israel-begins-strikes-of-hezbollah-and-hamas-targets-in-lebanon-reuters"
+image: ''
+link: 'https://news.google.com/rss/articles/CBMivAFBVV95cUxPTzhnbkJBRlNyV3JCUjFwbUdDXzlKMFFoS0RDLWYwb2RGTzdkUkppTV9pMlFxbFRRb1RGOGZzalk5eXNVWmFENEtQWWdKRjVMZlc1S3NVRVJ4SXNsY3F6RFMtRlAwRnV4UHJ1d3N5N2lla1pzX29Yc3NSVEl5amstenJERlpjakpXczBIRzlRVENrZmVLNmdlbmdKLWdGZmw1MGdIaExTUjI4UVRTTDNYR2gtTTJRRXh4RzB5SA?oc=5'
+source: 'https://news.google.com/rss/topics/CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx1YlY4U0FtVnVHZ0pWVXlnQVAB?hl=en-US&gl=US&ceid=US:en'
+categories:
+- 'news.google.com'
+tags:
+- 'hezbollah'
+- 'strikes'
+- 'targets'
+- 'lebanon'
+- 'reuters'
+
+draft: false
+---
+<ol><li><a href="https://news.google.com/rss/articles/CBMivAFBVV95cUxPTzhnbkJBRlNyV3JCUjFwbUdDXzlKMFFoS0RDLWYwb2RGTzdkUkppTV9pMlFxbFRRb1RGOGZzalk5eXNVWmFENEtQWWdKRjVMZlc1S3NVRVJ4SXNsY3F6RFMtRlAwRnV4UHJ1d3N5N2lla1pzX29Yc3NSVEl5amstenJERlpjakpXczBIRzlRVENrZmVLNmdlbmdKLWdGZmw1MGdIaExTUjI4UVRTTDNYR2gtTTJRRXh4RzB5SA?oc=5" target="_blank">Israel begins strikes of Hezbollah and Hamas 'targets' in Lebanon</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font></li><li><a href="https://news.google.com/rss/articles/CBMirAFBVV95cUxQZUNTekt3c21MSTYyeGxKRU5aU3BEQmwxZVJyYWtTTjN3RlF6UVE0SUJ5OXBvZFpCRXdvUDV6TlpQb2NGUElXVXEzR3hpZU50MkNvcWI3YjNrRDM4VUIxRVQ4dEpkcy11aFNhTWl1MktseVNmUWc4YW5iYzAyRlExeUhTY29fQUt4OWF5MzM3XzJ0ZHhFeVdyN0NlSGhYSzZwR3Axb3p5anhWWl9C0gGyAUFVX3lxTFBqTW5YMHZBNnRxbGhCdEt1UkMwT0NIR2hJQV9kbGNoSjlUVGNaeUU3UlJJUS1Hd2M0X2EwblZvek8yd29CZlJqRWNHODR0YTRMU1dNcEZlVnlEZWo0MGdqdGtnRTMycDRmYkNNc0dBTWRXd0s0QVhscHVhVEdpaFJzb0c3cF9QdTM3WFNKTEV4SzF6VzNPNzM1MHdSRnJqTFp1TUtGNTNrX1Z0YjJabk8wcWc?oc=5" target="_blank">Israel bombs Lebanon, saying it targeted Hezbollah and Hamas</a>&nbsp;&nbsp;<font color="#6f6f6f">Al Jazeera</font></li><li><a href="https://news.google.com/rss/articles/CBMibkFVX3lxTE80bV9keDZlSmNWWTdqQ0xRTlFDVXNJZnBYcWJXNUhIZVNQZFRfaFF2ZmxkVDV6eml0MEhYenlXYkd5eWlSN2U2TkdTdWZaUTlDeWlodm9TLWpZZnE2a0xEUWtEeEd4bWdZTEFKSmtB?oc=5" target="_blank">After warning civilians of strikes, IDF conducts attacks on Hezbollah, Hamas targets in Lebanon</a>&nbsp;&nbsp;<font color="#6f6f6f">The Jerusalem Post</font></li><li><a href="https://news.google.com/rss/articles/CBMi0wFBVV95cUxPWVRnUHNuV1A4bDFCeWNzeUtoWUhJbG9kSlZ6WFJKWXB4Q2x4dXlTWGFZd1hlZ0VhRjVsVUdaUk41SERwZDhxRXMwbUttenl5UlFDMGhrX016ZWE3MWRUZmdTX2JQSzUwTlBVbGR3Y3RPUS00YXpDc0wzVTBtRnhBWklvUDR5Z1ZHcEdfQXpSX1J0cDRVRVktLXpwYUUtcHBISXdqc3plVDF5RnY4Ml9uVHVwajRlbXFGTkZrVl9PdDJuX3lWM1RWSDhPY3JaeDE1QmFN?oc=5" target="_blank">Lebanon says 2 killed in Israeli strike in south, after IDF said it targeted Hezbollah there</a>&nbsp;&nbsp;<font color="#6f6f6f">The Times of Israel</font></li><li><a href="https://news.google.com/rss/articles/CBMi0gFBVV95cUxNY3VWNWZTdVI3Y0FQck9fVkZ3cEpILTJEQUNaa2lEVkp6Q1RKWWhzVmUzTk56TWpER1MtblUtdG5yRkNVQ2tQeVgwLWIzMDc4c002eGpOT05OWE5YY2phVklCM0owN2VRbFdGamNyOThiVFZfTkJVTXh5aDQzVVpSOVhISEpKT3N6V1BBTmZCSEEtTHhha0tEeEhqM0lIRDM2ckE1SFZVMnNvaGdYczJZbDNtVHBaaTljUngzOExHVldYQ3YyM016ZlcyYlVqTmpKb0E?oc=5" target="_blank">Israel strikes Hezbollah and Hamas targets in Lebanon ahead of a key disarmament meeting</a>&nbsp;&nbsp;<font color="#6f6f6f">Los Angeles Times</font></li></ol>
