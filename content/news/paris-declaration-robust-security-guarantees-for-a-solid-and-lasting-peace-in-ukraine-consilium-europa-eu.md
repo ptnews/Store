@@ -1,0 +1,21 @@
+---
+title: "Paris Declaration - Robust Security Guarantees for a Solid and Lasting Peace in Ukraine - consilium.europa.eu"
+date: 2026-01-06
+description: "Paris Declaration - Robust Security Guarantees for a Solid and Lasting Peace in Ukraine&nbsp;&nbsp;consilium.europa.euUS backs security guarantees for Ukraine at summit of Kyiv's allies in Paris&nbsp;&nbsp;ReutersEurope gets warm words from US on Ukraine — but reliability fears loom&nbsp;&nbsp;politico.euUK and France would send troops to Ukraine in event of peace deal, Starmer says after Paris talks&nbsp;&nbsp;BBCEuropean Leaders Meet for Latest Round of Ukraine Talks&nbsp;&nbsp;The New York ..."
+summary: "Paris Declaration - Robust Security Guarantees for a Solid and Lasting Peace in Ukraine&nbsp;&nbsp;consilium.europa.euUS backs security guarantees for Ukraine at summit of Kyiv's allies in Paris&nbsp;&nbsp;ReutersEurope gets warm words from US on Ukraine — but reliability fears loom&nbsp;&nbsp;politico.euUK and France would send troops to Ukraine in event of peace deal, Starmer says after Paris talks&nbsp;&nbsp;BBCEuropean Leaders Meet for Latest Round of Ukraine Talks&nbsp;&nbsp;The New York ..."
+slug: "paris-declaration-robust-security-guarantees-for-a-solid-and-lasting-peace-in-ukraine-consilium-europa-eu"
+image: ''
+link: 'https://news.google.com/rss/articles/CBMinwJBVV95cUxQNzV0eFBhRkRrZUhGTjVSMWFRc2NVM0J4ODctTEhRSDM1S09aaWUyNU1lSFg4c2w5Yk0wY0tvdHJ0am50OVhZMDZpUDJTNDJsYkx4Y2NqaEtQekpvSlRNT0RPcXd2Q3k2endGOW9oOWF1WTVtRkhfdnpiVVBjYVZ2cmRVdkVubUZheU1TSkdsR1gtMEszNDR0NVU5d1c5Vlc4Wm85SF9nNWZmeTlUcmpRVXlHbGY0WTZXS25tVzlXMGUteFFSeXhyVU1rRm5jVkZtVklqS1p2ZUhPRnM3UUg1TTcwZk9aWWo3ZnpQOTBGU2dtU3A5azliajhKelR4SHJZVE5FM0xWVFpPSmxGVDNuNG1XSW9ubW9NbGpmOEh0TQ?oc=5'
+source: 'https://news.google.com/rss/topics/CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx1YlY4U0FtVnVHZ0pWVXlnQVAB?hl=en-US&gl=US&ceid=US:en'
+categories:
+- 'news.google.com'
+tags:
+- 'declaration'
+- 'guarantees'
+- 'consilium'
+- 'security'
+- 'lasting'
+
+draft: false
+---
+<ol><li><a href="https://news.google.com/rss/articles/CBMinwJBVV95cUxQNzV0eFBhRkRrZUhGTjVSMWFRc2NVM0J4ODctTEhRSDM1S09aaWUyNU1lSFg4c2w5Yk0wY0tvdHJ0am50OVhZMDZpUDJTNDJsYkx4Y2NqaEtQekpvSlRNT0RPcXd2Q3k2endGOW9oOWF1WTVtRkhfdnpiVVBjYVZ2cmRVdkVubUZheU1TSkdsR1gtMEszNDR0NVU5d1c5Vlc4Wm85SF9nNWZmeTlUcmpRVXlHbGY0WTZXS25tVzlXMGUteFFSeXhyVU1rRm5jVkZtVklqS1p2ZUhPRnM3UUg1TTcwZk9aWWo3ZnpQOTBGU2dtU3A5azliajhKelR4SHJZVE5FM0xWVFpPSmxGVDNuNG1XSW9ubW9NbGpmOEh0TQ?oc=5" target="_blank">Paris Declaration - Robust Security Guarantees for a Solid and Lasting Peace in Ukraine</a>&nbsp;&nbsp;<font color="#6f6f6f">consilium.europa.eu</font></li><li><a href="https://news.google.com/rss/articles/CBMiwwFBVV95cUxQOURWTk1ISkdRU1FWcGZYUERnMDNqQjZ4ZG9GZFgxQ0UySjJCaTVxNG90WnVmVjRERm5GbVdPZG9NS0N4cnhZb0tHcXk1Mm9zeHRFSWdrWjVQOHJOQnBjUF9LWnNNNk1jVDMzXzZib05ySlVTTDU3UWFoWWNXLWQ2ZnpQbEJORXh2bzllUFJPMkRUMDJ1MnZ6M3JKTy1SYmNpb3ZOeFJIZWxqZmVVNkpqNmNzQTFkcUdkVF91MjhxLXMwZTQ?oc=5" target="_blank">US backs security guarantees for Ukraine at summit of Kyiv's allies in Paris</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font></li><li><a href="https://news.google.com/rss/articles/CBMilgFBVV95cUxNMmNCcVJta2Jfb0VyR0tVMnFUR3RkUXRSb1BnMmI4YXNBX0t4UUQxaDA1VVFGclRWTnRjcklHdUtRNXZoR3ZHeVN0ZDR5clE1UTNaSXUwelp3ZFJ5ZE9KaHVuVEl3dnE4cHlEM0FKVmtKRTRGcGxGUUd3VlF3THJwOHF2dVJ4ZnlvVTh2Wm9jVV9lZlFTeGc?oc=5" target="_blank">Europe gets warm words from US on Ukraine — but reliability fears loom</a>&nbsp;&nbsp;<font color="#6f6f6f">politico.eu</font></li><li><a href="https://news.google.com/rss/articles/CBMiVEFVX3lxTE5jLWM5X0pQSWRjUkppNFJROXVnZGhDV01nTUd5ZmliMHNhRXRUQklpXzFGVEtJd2EzbDJpdWVpZGJmX05RcjZvMGhoVVpPRVpfSkFlcA?oc=5" target="_blank">UK and France would send troops to Ukraine in event of peace deal, Starmer says after Paris talks</a>&nbsp;&nbsp;<font color="#6f6f6f">BBC</font></li><li><a href="https://news.google.com/rss/articles/CBMifkFVX3lxTE9nZnBfalpYWmxJQzdxbUw0STI2UWVOTGpmSkVfbVZMdVJlakFTbHBnVy1RTWJ4c19CaUN0WnY1aDd5SFZQSmpuVENYUGUycmxabVd3VmdrUWU0TjVYb1NldWtkSmV5TUQ0cW9fUTluMGlTdkdzRHpBZzZYdlU1dw?oc=5" target="_blank">European Leaders Meet for Latest Round of Ukraine Talks</a>&nbsp;&nbsp;<font color="#6f6f6f">The New York Times</font></li></ol>
