@@ -1,5 +1,5 @@
 ---
-title: "Live: Deadly clashes erupt between Syrian army, SDF forces in Aleppo"
+title: "LIVE: Deadly clashes erupt between Syrian army, SDF forces in Aleppo"
 date: 2026-01-06
 description: "At least four people killed after clashes erupted between the Syrian army and the Kurdish-led forces in Aleppo."
 summary: "At least four people killed after clashes erupted between the Syrian army and the Kurdish-led forces in Aleppo."

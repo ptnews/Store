@@ -1,0 +1,20 @@
+---
+title: "Pope Leo XIV closes 2025 Holy Year with critique of consumerism and xenophobia - NBC News"
+date: 2026-01-06
+description: "Pope Leo XIV closes 2025 Holy Year with critique of consumerism and xenophobia&nbsp;&nbsp;NBC NewsClosing Holy Year, pope calls to reject 'distorted economy' of profit&nbsp;&nbsp;National Catholic ReporterJubilee: Rite for the closing of Holy Door at St. Peter’s Basilica&nbsp;&nbsp;Vatican NewsRome welcomed record 33.5 million pilgrims for Catholic Holy Year&nbsp;&nbsp;ReutersPope closes jubilee saying it opened new horizon of hope&nbsp;&nbsp;Crux"
+summary: "Pope Leo XIV closes 2025 Holy Year with critique of consumerism and xenophobia&nbsp;&nbsp;NBC NewsClosing Holy Year, pope calls to reject 'distorted economy' of profit&nbsp;&nbsp;National Catholic ReporterJubilee: Rite for the closing of Holy Door at St. Peter’s Basilica&nbsp;&nbsp;Vatican NewsRome welcomed record 33.5 million pilgrims for Catholic Holy Year&nbsp;&nbsp;ReutersPope closes jubilee saying it opened new horizon of hope&nbsp;&nbsp;Crux"
+slug: "pope-leo-xiv-closes-2025-holy-year-with-critique-of-consumerism-and-xenophobia-nbc-news"
+image: ''
+link: 'https://news.google.com/rss/articles/CBMivAFBVV95cUxPUU1UV202TjAwaDFWeVh0R0t1dDJaM1kxVkNwMDB5cFlURGhiLUI5VVRaSTBYYmhqSTdva0lQeWtMQ1N1Q1h3N2lrRjZNRzJLeHU2UVFESmxLR3NkYnl4RktYdUFjSTY2eEk3U2tjOTFYOFh0a21hM2U2ZzNZQ0VnaENNanBwNGVQUjN6WHRYekFYX2MwMDJWcmZaYUhJeGpBOERnWXRZR2ktR18tTzk0MHlULWJCU3BuTjVNRdIBVkFVX3lxTFBCcWM5aVR0NlV6TlQwa3U4MW94YkZpdzZWb3EtV2o5OWQxUmxEcDU4ZUhoY21FbTZxS0wta2JjdFl2aGgzaTVXN1BQV0JGZVhkLWNQaXdn?oc=5'
+source: 'https://news.google.com/rss/topics/CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx1YlY4U0FtVnVHZ0pWVXlnQVAB?hl=en-US&gl=US&ceid=US:en'
+categories:
+- 'news.google.com'
+tags:
+- 'consumerism'
+- 'xenophobia'
+- 'critique'
+- 'closes'
+
+draft: false
+---
+<ol><li><a href="https://news.google.com/rss/articles/CBMivAFBVV95cUxPUU1UV202TjAwaDFWeVh0R0t1dDJaM1kxVkNwMDB5cFlURGhiLUI5VVRaSTBYYmhqSTdva0lQeWtMQ1N1Q1h3N2lrRjZNRzJLeHU2UVFESmxLR3NkYnl4RktYdUFjSTY2eEk3U2tjOTFYOFh0a21hM2U2ZzNZQ0VnaENNanBwNGVQUjN6WHRYekFYX2MwMDJWcmZaYUhJeGpBOERnWXRZR2ktR18tTzk0MHlULWJCU3BuTjVNRdIBVkFVX3lxTFBCcWM5aVR0NlV6TlQwa3U4MW94YkZpdzZWb3EtV2o5OWQxUmxEcDU4ZUhoY21FbTZxS0wta2JjdFl2aGgzaTVXN1BQV0JGZVhkLWNQaXdn?oc=5" target="_blank">Pope Leo XIV closes 2025 Holy Year with critique of consumerism and xenophobia</a>&nbsp;&nbsp;<font color="#6f6f6f">NBC News</font></li><li><a href="https://news.google.com/rss/articles/CBMijwFBVV95cUxOa0RnQ2lkN1o5anBnLWJ5bUpEb0Y0UERSaFIxaE5VUTZSR1NsMGpCeWc0UjZsTnJQMlhZdVFCUTNxbHhhbThRMGJpR0RDU29lOHhoU05mSGFkazNXQi1RM0F5bzZKMUFPbWtEdW1GNDk0MnlOSERKejgyXzVLQVY4SVpCXzNYYkJkYW5heUNtdw?oc=5" target="_blank">Closing Holy Year, pope calls to reject 'distorted economy' of profit</a>&nbsp;&nbsp;<font color="#6f6f6f">National Catholic Reporter</font></li><li><a href="https://news.google.com/rss/articles/CBMiwgFBVV95cUxNV0NFdlh6RDRJZkY2dlJydW9pZUxmMGktTXlra1FibnFkdFNUTktVSkt4clpzd2JrTUVDTlJLbmJsQjdXWWZ3cWdKcmRTTlZDNjIyNDJQRko2eE4tVm83NDB5X2FRNnVveDR4ak9xZTRBWGZlekM2aGYzeU1aME5rY2xLV0RHRnAySUVPTlRkclpseGxnNTRhS21uN1JaZTRSQUUwTklsZUoyZzluX3NENHkxUlI0SndRZnN6NkpyVjh3UQ?oc=5" target="_blank">Jubilee: Rite for the closing of Holy Door at St. Peter’s Basilica</a>&nbsp;&nbsp;<font color="#6f6f6f">Vatican News</font></li><li><a href="https://news.google.com/rss/articles/CBMipAFBVV95cUxNV2FsYnpETWxzY0owR0Z3SVZVRVZ5YVZYajc2TGY3c3RraEpNZW9PMml0TXBCM3NUQTdwUWNteDlQTVo0Z3hQVnVKQVR2bnpsUzJVV1hybHF4SWF4U2g5cWVSZ0FfM2Q0aEdzTGQ5WlhUUXk1djZYeXpBaHE1b1lZcXBsa3FXNmZHNXFhZDJZQllOQ1NHWnVaSWZRZ000cW0wUFB0ZA?oc=5" target="_blank">Rome welcomed record 33.5 million pilgrims for Catholic Holy Year</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font></li><li><a href="https://news.google.com/rss/articles/CBMilwFBVV95cUxOM00tNlFJTFRONl9ydVVxQWhNSk1TTWRISjkzM3VPd3VULVN6anVwODkzdEljZlMxOWxhTG5zSFFDd0Nfa1NQc29JYVpmbFZwcXRXcFY5dTlhRi04WVF0N1VtcWw0Z2RWcFRZejQzam4xRFdfeW10ZmRmbko5VWVlWXlzcXFGU25VMUl5NVpZYXFXMWRxNnZn?oc=5" target="_blank">Pope closes jubilee saying it opened new horizon of hope</a>&nbsp;&nbsp;<font color="#6f6f6f">Crux</font></li></ol>
