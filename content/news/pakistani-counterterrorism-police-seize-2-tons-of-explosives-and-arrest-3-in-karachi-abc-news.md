@@ -1,0 +1,21 @@
+---
+title: "Pakistani counterterrorism police seize 2 tons of explosives and arrest 3 in Karachi - ABC News"
+date: 2026-01-06
+description: "Pakistani counterterrorism police seize 2 tons of explosives and arrest 3 in Karachi&nbsp;&nbsp;ABC NewsSHADES OF MARRIOTT BOMBING IN FAILED TERROR PLOT&nbsp;&nbsp;DawnMini-truck laden with 2,000-kg explosive seized in Karachi&nbsp;&nbsp;Dunya NewsPakistan police say foiled major attack in Karachi linked to separatist militants&nbsp;&nbsp;Arab NewsPakistan Seizes Two Tonnes Of Explosives in Karachi&nbsp;&nbsp;افغانستان اینترنشنال"
+summary: "Pakistani counterterrorism police seize 2 tons of explosives and arrest 3 in Karachi&nbsp;&nbsp;ABC NewsSHADES OF MARRIOTT BOMBING IN FAILED TERROR PLOT&nbsp;&nbsp;DawnMini-truck laden with 2,000-kg explosive seized in Karachi&nbsp;&nbsp;Dunya NewsPakistan police say foiled major attack in Karachi linked to separatist militants&nbsp;&nbsp;Arab NewsPakistan Seizes Two Tonnes Of Explosives in Karachi&nbsp;&nbsp;افغانستان اینترنشنال"
+slug: "pakistani-counterterrorism-police-seize-2-tons-of-explosives-and-arrest-3-in-karachi-abc-news"
+image: ''
+link: 'https://news.google.com/rss/articles/CBMivgFBVV95cUxNMDNoNTNudXhxeGZxeDhNbk5leV84dDJ6a1ZHQjBiZElqVVcySkgxUXlxVXlsWTRXbHd0NXlxLUZPeGhiTWE0eU1La0xMUWE3UHk1dFphTG9WTWkxY3J4Z0dMVVJhWklmWW9PLXZoUmFqLUNySkpVX1IzLXNpMDhDazRGbHNsWmpMTEU0YWtBVlZjS2g2c1dDcEFqMDAzZkt0VlJRTGxOWFUxNzRJdGo2aFFvMFN3WGF3R2hSVlNR0gHDAUFVX3lxTE9kUnh0ek5MRVRJQXV4ZXlrQnRyUzZqbWFMV25wYTRLY0hZaldxa2hPa2NmalFBdFJGWVJyTmlmZTdQcFZiaUNTMUY3Ql80VUJ5RU94Z0F4Qy1oT1VwV1JfZzVqNHBvaG8wWXljLWJhOWZKWVFXMWJkQ2I5bDhkU1JOam5zSVJrSE1Eci0xTHJCbGZFVjdkbWJWd1BxMVE4VzVGQ2FBdzlGaGE2NnJGTXdRcUd2d0tGZFJubzlKeHBqdG1Ccw?oc=5'
+source: 'https://news.google.com/rss/topics/CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx1YlY4U0FtVnVHZ0pWVXlnQVAB?hl=en-US&gl=US&ceid=US:en'
+categories:
+- 'news.google.com'
+tags:
+- 'counterterrorism'
+- 'explosives'
+- 'pakistani'
+- 'karachi'
+- 'police'
+
+draft: false
+---
+<ol><li><a href="https://news.google.com/rss/articles/CBMivgFBVV95cUxNMDNoNTNudXhxeGZxeDhNbk5leV84dDJ6a1ZHQjBiZElqVVcySkgxUXlxVXlsWTRXbHd0NXlxLUZPeGhiTWE0eU1La0xMUWE3UHk1dFphTG9WTWkxY3J4Z0dMVVJhWklmWW9PLXZoUmFqLUNySkpVX1IzLXNpMDhDazRGbHNsWmpMTEU0YWtBVlZjS2g2c1dDcEFqMDAzZkt0VlJRTGxOWFUxNzRJdGo2aFFvMFN3WGF3R2hSVlNR0gHDAUFVX3lxTE9kUnh0ek5MRVRJQXV4ZXlrQnRyUzZqbWFMV25wYTRLY0hZaldxa2hPa2NmalFBdFJGWVJyTmlmZTdQcFZiaUNTMUY3Ql80VUJ5RU94Z0F4Qy1oT1VwV1JfZzVqNHBvaG8wWXljLWJhOWZKWVFXMWJkQ2I5bDhkU1JOam5zSVJrSE1Eci0xTHJCbGZFVjdkbWJWd1BxMVE4VzVGQ2FBdzlGaGE2NnJGTXdRcUd2d0tGZFJubzlKeHBqdG1Ccw?oc=5" target="_blank">Pakistani counterterrorism police seize 2 tons of explosives and arrest 3 in Karachi</a>&nbsp;&nbsp;<font color="#6f6f6f">ABC News</font></li><li><a href="https://news.google.com/rss/articles/CBMiSEFVX3lxTE1nMDliYmZWWTBiTXN5RmdHUWxFRFRCSEl3Z3FNb09rOE1YbnFVQ2MtLU5PMG5ydGtaQ0t0YTdLRUVPbmlMRzI5c9IBTkFVX3lxTE52OGVDVk9SYVJEQms2emY5aHpWaW40Q0M5bDU1QU1TcmJJM3hPbjV4UjZWZGo0SkYyOUtnRVdhUVNxZEdTU1BHcWk0S0c0dw?oc=5" target="_blank">SHADES OF MARRIOTT BOMBING IN FAILED TERROR PLOT</a>&nbsp;&nbsp;<font color="#6f6f6f">Dawn</font></li><li><a href="https://news.google.com/rss/articles/CBMilwFBVV95cUxPVDlYaHJjTjJKbmtaamVEdGdzVzJFWl96X1ZMZDJTOHZBNjUyRktsLV9uOXp2cmZXZjA1VUMtZXNnMnZSWmp0azVJYmpWbXNIRlY1dlFOX3BRLWVES19YZFRYUkpvYmJRcVhqSXZ2bTY4S2VkQUpiYVpuMnBNV29rVTlxcGh6bVFWeFFuM1BnVEF2d2lfTmk00gFWQVVfeXFMTlVhQ2xlTDF4ZWthTFJBd0p0a3NhVTIwSXpkWklCUGh5S3JuWjd1M0hLbXM3RHFwc2xMZUZQM1l6Q1dPNlE2ZmxjVnE3RkdBOVBtMXVwUUE?oc=5" target="_blank">Mini-truck laden with 2,000-kg explosive seized in Karachi</a>&nbsp;&nbsp;<font color="#6f6f6f">Dunya News</font></li><li><a href="https://news.google.com/rss/articles/CBMiWkFVX3lxTE9IR2NtOW1xazBvQjV0SktrUWY0Nmt2NVFTcENibjE2cjVEb29WYkVTdkVEUDZBWk1hMHYyZG0tUnRwOGt5SHNnNWctenR5bWpFNDhSbHI0S25ZZw?oc=5" target="_blank">Pakistan police say foiled major attack in Karachi linked to separatist militants</a>&nbsp;&nbsp;<font color="#6f6f6f">Arab News</font></li><li><a href="https://news.google.com/rss/articles/CBMiT0FVX3lxTE1rLTF6Ml9WaXhnUUNDc2xXWW1HNnhhamM2Y1U3WUs2WUZud2E4M09GWkpPQ05vQTczdlZyQ2k2ZTR1cUV6aVVaak42WkEydjA?oc=5" target="_blank">Pakistan Seizes Two Tonnes Of Explosives in Karachi</a>&nbsp;&nbsp;<font color="#6f6f6f">افغانستان اینترنشنال</font></li></ol>
