@@ -1,0 +1,21 @@
+---
+title: "Olympic gold medalist Chloe Kim gushes over boyfriend Myles Garrett after setting NFL record: 'Proud of you'"
+date: 2026-01-06
+description: "Olympic champion Chloe Kim celebrated boyfriend Myles Garrett&apos;s historic NFL sack record with a sweet Instagram post and homemade cinnamon rolls for the Cleveland Browns star."
+summary: "Olympic champion Chloe Kim celebrated boyfriend Myles Garrett&apos;s historic NFL sack record with a sweet Instagram post and homemade cinnamon rolls for the Cleveland Browns star."
+slug: "olympic-gold-medalist-chloe-kim-gushes-over-boyfriend-myles-garrett-after-setting-nfl-record-proud-of-you"
+image: ''
+link: 'https://www.foxnews.com/sports/olympic-gold-medalist-chloe-kim-gushes-boyfriend-myles-garrett-setting-nfl-record-proud-you'
+source: 'https://feeds.foxnews.com/foxnews/latest'
+categories:
+- 'feeds.foxnews.com'
+tags:
+- 'boyfriend'
+- 'medalist'
+- 'olympic'
+- 'garrett'
+- 'setting'
+
+draft: false
+---
+<p>Two-time Olympic gold medalist Chloe Kim gushed over NFL boyfriend Myles Garrett after the <a href="https://www.foxnews.com/category/sports/nfl/cleveland-browns" target="_blank" rel="noopener noreferrer nofollow">Cleveland Browns</a> star broke the NFL's single-season sack record in the team’s win over the Cincinnati Bengals on Sunday. </p><p>In a photo posted to her Instagram Stories after the game, Kim shared a photo of a <a href="https://www.foxnews.com/category/person/myles-garrett" target="_blank" rel="noopener">smiling Garrett</a> with the caption, "Proud of you!!"</p><p>The star defender was also holding a plate of cinnamon rolls, a homemade treat from Kim. </p><p><a href="https://www.foxnews.com/sports" target="_blank" rel="noopener"><strong>CLICK HERE FOR MORE SPORTS COVERAGE ON FOXNEWS.COM</strong></a></p><p>"Baking [you] all the cinnamon rolls your heart desires!!" she added with a heart emoji.</p><p>Garrett came into the season finale needing one sack to surpass the mark of 22.5 sacks, shared by New York Giants great and Football Hall of Famer Michael Strahan and Pittsburgh Steelers star <a href="https://www.foxnews.com/category/person/tj-watt" target="_blank" rel="noopener">T.J. Watt</a> in 2021. Strahan’s record was set during a 16-game season. </p><p>With just over five minutes remaining in the game, Garrett saw his opportunity with Bengals quarterback <a href="https://www.foxnews.com/category/person/joe-burrow" target="_blank" rel="noopener">Joe Burrow</a> on first-and-10 at the Browns’ 45-yard line, and he took it. </p><p><a href="https://www.foxnews.com/sports/bengals-coach-fumes-referees-decision-stop-play-myles-garrett-record-breaking-sack" target="_blank" rel="noopener"><strong><u>BENGALS COACH FUMES OVER REFEREES' DECISION TO STOP PLAY AFTER MYLES GARRETT'S RECORD-BREAKING SACK</u></strong></a></p><p>"It was everything I expected. It was so tough. I knew they were going to make it difficult," Garrett said after the game. "I don’t think I saw more than three singles on a real drop-back the whole game. And I just knew that if I did, I have to make that moment count. And the feeling couldn’t be better."</p><p>While Garrett's season ended without a playoff appearance and with the dismissal of head coach Kevin Stefanski after six seasons, Kim is gearing up for the <a href="https://www.foxnews.com/category/sports/olympics" target="_blank" rel="noopener noreferrer nofollow">2026 Winter Olympics</a> in Italy.</p><p>Expectations are high for the 25-year-old snowboarder who has the chance to win three straight gold medals in the women’s halfpipe. She won her first medal in dominating fashion, finishing 10 points ahead of the second-place finisher at PyeongChang in 2018.</p><p>Kim is the youngest halfpipe Olympic gold medalist and the first female boarder to land back-to-back 1080s. </p><p>The opening ceremony for the Milan-Cortina Games is scheduled for Feb. 6.</p><p><i>The Associated Press contributed to this report. </i></p><p><i><strong>Follow Fox News Digital’s</strong></i><a href="https://twitter.com/FoxNewsSports_" target="_blank" rel="noopener"><i><strong><u> sports coverage on X</u></strong></i></a><i><strong>, and subscribe to</strong></i><a href="https://www.foxnews.com/newsletters" target="_blank" rel="noopener"><i><strong><u> the Fox News Sports Huddle newsletter</u></strong></i></a><i><strong>.</strong></i></p>
