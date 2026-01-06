@@ -1,0 +1,21 @@
+---
+title: "Holocaust survivor Eva Schloss, the stepsister of Anne Frank, dies at 96 - NPR"
+date: 2026-01-06
+description: "Holocaust survivor Eva Schloss, the stepsister of Anne Frank, dies at 96&nbsp;&nbsp;NPREva Schloss, Anne Frank’s Stepsister and Holocaust Survivor, Dies at 96&nbsp;&nbsp;The New York TimesEva Schloss obituary: Holocaust survivor and stepsister of Anne Frank&nbsp;&nbsp;The TimesAnne Frank stepsister and Auschwitz survivor Eva Schloss dies aged 96&nbsp;&nbsp;The GuardianIn memoriam – Eva Schloss-Geiringer&nbsp;&nbsp;Anne Frank Stichting"
+summary: "Holocaust survivor Eva Schloss, the stepsister of Anne Frank, dies at 96&nbsp;&nbsp;NPREva Schloss, Anne Frank’s Stepsister and Holocaust Survivor, Dies at 96&nbsp;&nbsp;The New York TimesEva Schloss obituary: Holocaust survivor and stepsister of Anne Frank&nbsp;&nbsp;The TimesAnne Frank stepsister and Auschwitz survivor Eva Schloss dies aged 96&nbsp;&nbsp;The GuardianIn memoriam – Eva Schloss-Geiringer&nbsp;&nbsp;Anne Frank Stichting"
+slug: "holocaust-survivor-eva-schloss-the-stepsister-of-anne-frank-dies-at-96-npr"
+image: ''
+link: 'https://news.google.com/rss/articles/CBMirwFBVV95cUxQcjlFd3NVUDVCZzAyUzZoQlIzRHNGZ1FrSkhwcm1wajlVYlBXVnlsZ0FmaDctTWxKT0M4aWxpQlJvM2FVTERwOHhtN0F6cmVER3FiZjJuc1BzV1J2WGlvY29leGs5NVFUTk1zc3lTOU42MWktcC1FbjZuQmh4SEdqdmZTSGQydnhuNFZ4S0k2elJ1VnFYcm8zQlJmOExsNzEtc0RmdWU3cVI1eXdxLTFv?oc=5'
+source: 'https://news.google.com/rss/topics/CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx1YlY4U0FtVnVHZ0pWVXlnQVAB?hl=en-US&gl=US&ceid=US:en'
+categories:
+- 'news.google.com'
+tags:
+- 'stepsister'
+- 'holocaust'
+- 'survivor'
+- 'schloss'
+- 'frank'
+
+draft: false
+---
+<ol><li><a href="https://news.google.com/rss/articles/CBMirwFBVV95cUxQcjlFd3NVUDVCZzAyUzZoQlIzRHNGZ1FrSkhwcm1wajlVYlBXVnlsZ0FmaDctTWxKT0M4aWxpQlJvM2FVTERwOHhtN0F6cmVER3FiZjJuc1BzV1J2WGlvY29leGs5NVFUTk1zc3lTOU42MWktcC1FbjZuQmh4SEdqdmZTSGQydnhuNFZ4S0k2elJ1VnFYcm8zQlJmOExsNzEtc0RmdWU3cVI1eXdxLTFv?oc=5" target="_blank">Holocaust survivor Eva Schloss, the stepsister of Anne Frank, dies at 96</a>&nbsp;&nbsp;<font color="#6f6f6f">NPR</font></li><li><a href="https://news.google.com/rss/articles/CBMieEFVX3lxTE80Y3doTjRnNlBlcjNFREpGSTZZWjZZSVM0Z0VwWE8zRnVVWHQ5YVItVzl0LXpRS1FUUjhsVVd2M2E0TGZMZ01hWTVCempRWlRzekNBNkp2bjVLa2xXZXFRWnBSNTZ1NkVzVl85SkFvVWNjMDcwZG5MMw?oc=5" target="_blank">Eva Schloss, Anne Frank’s Stepsister and Holocaust Survivor, Dies at 96</a>&nbsp;&nbsp;<font color="#6f6f6f">The New York Times</font></li><li><a href="https://news.google.com/rss/articles/CBMiwwFBVV95cUxPUUpSRU9UVlo2c1NQVXVZajFrSG1FN2ZqZWVSRWRjdVZHVXJXekk3SEpST21qQU1FSUZTbTJFS1BsWWJhSHZhcmJlWTk5Ukp2OWRfTEZXNU5zcjRIVndoOHA2alZTWnNxWFoxcTRMYnUwdnhuS2xmcEJiS1hGWjRUbXhSUmxqcU1tWE9qZjdTQmsydXhWeHVZb1N5LWhWb0xJT21Kcm04MV8tVlBlMVE4NW9uaXFaanphdWxnMVB6M3VkTFU?oc=5" target="_blank">Eva Schloss obituary: Holocaust survivor and stepsister of Anne Frank</a>&nbsp;&nbsp;<font color="#6f6f6f">The Times</font></li><li><a href="https://news.google.com/rss/articles/CBMirgFBVV95cUxPRnhIWnp0WU9wWDJoNVpWVFJoMWVRU1pnQnJOTl9rT0RKWHpjMFhxV2tnc0FmT2hVTGJGdjhrbVZMSUt6WE9DazZ2blFYR2llT2c1Y3lNdGlOb2c3TmVRTXRGVmVhS0cwc0FJb1J0RElpM0pib05DY1Y5Y2V2TmxoZm14Smp3bHdZa3k1WjU3LTJjRlA2bjBfWUI5MXlIUkhvRG56eDJiZUZlWjQxc1E?oc=5" target="_blank">Anne Frank stepsister and Auschwitz survivor Eva Schloss dies aged 96</a>&nbsp;&nbsp;<font color="#6f6f6f">The Guardian</font></li><li><a href="https://news.google.com/rss/articles/CBMiowFBVV95cUxNTUxxdjctaDdFdzRzTHdrbWl4Q3BNMUtHdUc2NU8tcXVicnJWRTBWMHpiSW1IeGloTUtKdHJjSDY1RXVXbm9lZC01Z09TREdpMlFlSXNsd0YtME83WU1RbUY4N2FNaXFqUURNUS1qUE0xSlZEeTVwQldjcVdjdi1TU1hKYk5VQnQyNV9YOGZwQTYyZ1dGV0VVRHBFOFNLX3QyWV9n?oc=5" target="_blank">In memoriam – Eva Schloss-Geiringer</a>&nbsp;&nbsp;<font color="#6f6f6f">Anne Frank Stichting</font></li></ol>
