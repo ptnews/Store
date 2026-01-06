@@ -1,0 +1,21 @@
+---
+title: "European Commission calls Grok's sexualised AI photos 'illegal,' Britain demands answers - Reuters"
+date: 2026-01-06
+description: "European Commission calls Grok's sexualised AI photos 'illegal,' Britain demands answers&nbsp;&nbsp;ReutersElon Musk's Grok AI floods X with sexualized photos of women and minors&nbsp;&nbsp;ReutersElon Musk's X faces probes in Europe, India, Malaysia after Grok generated explicit images of women and children&nbsp;&nbsp;CNBCElon Musk’s Pornography Machine&nbsp;&nbsp;The AtlanticGrok apologizes for creating image of young girls in “sexualized attire”&nbsp;&nbsp;Malwarebytes"
+summary: "European Commission calls Grok's sexualised AI photos 'illegal,' Britain demands answers&nbsp;&nbsp;ReutersElon Musk's Grok AI floods X with sexualized photos of women and minors&nbsp;&nbsp;ReutersElon Musk's X faces probes in Europe, India, Malaysia after Grok generated explicit images of women and children&nbsp;&nbsp;CNBCElon Musk’s Pornography Machine&nbsp;&nbsp;The AtlanticGrok apologizes for creating image of young girls in “sexualized attire”&nbsp;&nbsp;Malwarebytes"
+slug: "european-commission-calls-grok-s-sexualised-ai-photos-illegal-britain-demands-answers-reuters"
+image: ''
+link: 'https://news.google.com/rss/articles/CBMiywFBVV95cUxNZGlTbmZfSmk0MENFWHRKM21id0hUYUNSbFdDZmJGX1hUbzBTXzdPTW9fMmlhM2RuOGY1MWs3eHJ3Z210dnZpNGtrZjE0a2FfQVRwQkRodkE3Zi1pSEdjN09tV3dMc2p0ejJieC0yLVVyS2hrWWpOWFJ2b3JVOG84U1pTY29oQm10YXBpbnFNUEI4YWpmRUs1MjRCcUhFaHBlejZfMjM2SFc2NUx5eHNfUHJSSnlaOVJRWDFnZFhCR09odTBTOVhDWEZUdw?oc=5'
+source: 'https://news.google.com/rss/topics/CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx1YlY4U0FtVnVHZ0pWVXlnQVAB?hl=en-US&gl=US&ceid=US:en'
+categories:
+- 'news.google.com'
+tags:
+- 'commission'
+- 'sexualised'
+- 'european'
+- 'illegal'
+- 'britain'
+
+draft: false
+---
+<ol><li><a href="https://news.google.com/rss/articles/CBMiywFBVV95cUxNZGlTbmZfSmk0MENFWHRKM21id0hUYUNSbFdDZmJGX1hUbzBTXzdPTW9fMmlhM2RuOGY1MWs3eHJ3Z210dnZpNGtrZjE0a2FfQVRwQkRodkE3Zi1pSEdjN09tV3dMc2p0ejJieC0yLVVyS2hrWWpOWFJ2b3JVOG84U1pTY29oQm10YXBpbnFNUEI4YWpmRUs1MjRCcUhFaHBlejZfMjM2SFc2NUx5eHNfUHJSSnlaOVJRWDFnZFhCR09odTBTOVhDWEZUdw?oc=5" target="_blank">European Commission calls Grok's sexualised AI photos 'illegal,' Britain demands answers</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font></li><li><a href="https://news.google.com/rss/articles/CBMitwFBVV95cUxQTThPc0RDOU9iWWFlb3NDRVI1d2k3cFduNFpobDAtLVQxWDZuVlZqczhLR2lJVmg4ZVhKS204WDcyNlRabmp0MDVpaGs5UlZlMzFzM29QV0NuRVlWdUMxUmU5ZC1DNHFzZTBZYWk4dV9LTFZqVkFzRTRpUGxCX0ZlWXI2Y1FqSlZFcWtTLVN0RzVBZ3MtT1VyUm4zb3Z2eUFXU2cydkFLYnZrbHJnV2dCUXBNMjg4SWM?oc=5" target="_blank">Elon Musk's Grok AI floods X with sexualized photos of women and minors</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font></li><li><a href="https://news.google.com/rss/articles/CBMipwFBVV95cUxOckRMQV9WbUZyUmFyUW1PQmwzYkozd2E3bFd2VnV4a3FneHRrdmlaTG9XUktZWkE0N0oyRFBRRV9PWlZKTDhvZ2hDQW1ZVEw2UXVZWlZLelptVHBBM0V6SGNMbF85dVRZbnk4ZFQ0LUtoaXB6VTRPVXBLR216X3JUSk8teVNtN2VvYkgzX05qdzNwVGJQZHdkdFRSX2RLVG94V3YtOVRmVdIBrAFBVV95cUxNNnJKb0FNSnc2Qlp3MFZuSFBPVi1FTzB0d0FkM2J5aHdCS3dHcUNKZmh1aXkyRldjbDhmbkxKZDNSNjF1bE9paUtUejFmWVlWSDYzVzZvVTdHdzdmeHpwY3hCZVJaRHRhMzhLTXZhaHlIajhtdXNzVUtSaUhTdFoxTUlTTDhjSlBaRWRoalNXTWQ3dC1ZZF9Xa0g4SDFHREVKcEFjblFzMzRZY21B?oc=5" target="_blank">Elon Musk's X faces probes in Europe, India, Malaysia after Grok generated explicit images of women and children</a>&nbsp;&nbsp;<font color="#6f6f6f">CNBC</font></li><li><a href="https://news.google.com/rss/articles/CBMijgFBVV95cUxOcmFHMnp4WW9XMHJyRElHaldzc2FIUkp6Y1A3Vk5RdHV6Y2RGTzhHQkhNSHdTRkJCVnJTS3U0dFpCVXZCSURoN2V3b1JnckFRaFUxeTI0ZmRxTGRSbHRyNXhPV04zRjRPOVhnenF3Q1I5NkpzbjFrNXZYWkVfUGt4Sk5nZzZERXZIRE5sQjN3?oc=5" target="_blank">Elon Musk’s Pornography Machine</a>&nbsp;&nbsp;<font color="#6f6f6f">The Atlantic</font></li><li><a href="https://news.google.com/rss/articles/CBMiuAFBVV95cUxOTXc5aGN4VXE2QjBBeEN5SjJ3cE5yUXN4SF9nakU4b1FKN1B5V1F1cnRfZ3NHWnFDYjgyeGRMRmdaUnR6VzVLQkhPR3lIaTVZdE8teVh6dWdYVkxYeVktUXVGa1g3OUxhYlFQOUI0UzRpUllyUFdRdEZUT0FlclFSVnhnX19mVXJYbmNTeE1OQzBHLWxvajRkZ1RKTWNhVHlnQUozVFdBWnNHSXJza3pxNlZnVlp5Vk5x?oc=5" target="_blank">Grok apologizes for creating image of young girls in “sexualized attire”</a>&nbsp;&nbsp;<font color="#6f6f6f">Malwarebytes</font></li></ol>
