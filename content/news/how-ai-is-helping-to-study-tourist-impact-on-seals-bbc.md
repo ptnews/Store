@@ -1,6 +1,6 @@
 ---
 title: "How AI is helping to study tourist impact on seals - BBC"
-date: 2026-01-05
+date: 2026-01-06
 description: "How AI is helping to study tourist impact on seals&nbsp;&nbsp;BBCNewburgh Beach in Aberdeenshire Offers Unique AI-Powered Seal-Watching Experience, Setting a Sustainable Tourism Model for Scotland in the Near Future&nbsp;&nbsp;Travel And Tour WorldSea Dog Tourism in Scotland, AI Technology Helps Maintain its Sustainability&nbsp;&nbsp;VOI.id"
 summary: "How AI is helping to study tourist impact on seals&nbsp;&nbsp;BBCNewburgh Beach in Aberdeenshire Offers Unique AI-Powered Seal-Watching Experience, Setting a Sustainable Tourism Model for Scotland in the Near Future&nbsp;&nbsp;Travel And Tour WorldSea Dog Tourism in Scotland, AI Technology Helps Maintain its Sustainability&nbsp;&nbsp;VOI.id"
 slug: "how-ai-is-helping-to-study-tourist-impact-on-seals-bbc"

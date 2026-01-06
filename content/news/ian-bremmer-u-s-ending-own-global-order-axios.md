@@ -1,6 +1,6 @@
 ---
 title: "Ian Bremmer: U.S. ending \"own global order\" - Axios"
-date: 2026-01-05
+date: 2026-01-06
 description: "Ian Bremmer: U.S. ending \"own global order\"&nbsp;&nbsp;AxiosRisk 1: US political revolution&nbsp;&nbsp;Eurasia GroupTrump seen as top global risk in 2026 as US slips further behind China: Eurasia Group&nbsp;&nbsp;South China Morning PostIntroducing the Winter 2026 Print Issue&nbsp;&nbsp;Foreign PolicyTop Ten Global Risks for 2026&nbsp;&nbsp;Stimson Center"
 summary: "Ian Bremmer: U.S. ending \"own global order\"&nbsp;&nbsp;AxiosRisk 1: US political revolution&nbsp;&nbsp;Eurasia GroupTrump seen as top global risk in 2026 as US slips further behind China: Eurasia Group&nbsp;&nbsp;South China Morning PostIntroducing the Winter 2026 Print Issue&nbsp;&nbsp;Foreign PolicyTop Ten Global Risks for 2026&nbsp;&nbsp;Stimson Center"
 slug: "ian-bremmer-u-s-ending-own-global-order-axios"

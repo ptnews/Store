@@ -1,6 +1,6 @@
 ---
 title: "'We need Greenland': Trump repeats threat to annex Danish territory"
-date: 2026-01-05
+date: 2026-01-06
 description: "The US president has repeatedly said he wants the island to become a part of the US."
 summary: "The US president has repeatedly said he wants the island to become a part of the US."
 slug: "we-need-greenland-trump-repeats-threat-to-annex-danish-territory"

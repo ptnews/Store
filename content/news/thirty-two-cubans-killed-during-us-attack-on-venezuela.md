@@ -1,6 +1,6 @@
 ---
 title: "Thirty-two Cubans killed during US attack on Venezuela"
-date: 2026-01-05
+date: 2026-01-06
 description: "Cuba's president said military and intelligence operatives were providing protection to captured leader Nicolás Maduro."
 summary: "Cuba's president said military and intelligence operatives were providing protection to captured leader Nicolás Maduro."
 slug: "thirty-two-cubans-killed-during-us-attack-on-venezuela"

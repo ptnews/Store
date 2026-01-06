@@ -1,6 +1,6 @@
 ---
 title: "Trump warning over Iran protests 'reckless' says foreign minister "
-date: 2026-01-05
+date: 2026-01-06
 description: "The US president earlier said if peaceful protesters are killed, Washington \"will come to their rescue\"."
 summary: "The US president earlier said if peaceful protesters are killed, Washington \"will come to their rescue\"."
 slug: "trump-warning-over-iran-protests-reckless-says-foreign-minister"

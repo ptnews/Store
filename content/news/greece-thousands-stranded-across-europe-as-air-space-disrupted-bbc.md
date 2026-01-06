@@ -1,6 +1,6 @@
 ---
 title: "Greece: Thousands stranded across Europe as air space disrupted - BBC"
-date: 2026-01-05
+date: 2026-01-06
 description: "Greece: Thousands stranded across Europe as air space disrupted&nbsp;&nbsp;BBCSome Greek flights resume after air traffic radio collapse&nbsp;&nbsp;ReutersDelays expected at Ben Gurion Airport after Greece shuts its airports over radio issue&nbsp;&nbsp;The Times of IsraelRadio Collapse Shuts Down Greek Airspace&nbsp;&nbsp;AVwebGreece says a radio failure that grounded flights is unlikely to be a cyberattack&nbsp;&nbsp;ABC News"
 summary: "Greece: Thousands stranded across Europe as air space disrupted&nbsp;&nbsp;BBCSome Greek flights resume after air traffic radio collapse&nbsp;&nbsp;ReutersDelays expected at Ben Gurion Airport after Greece shuts its airports over radio issue&nbsp;&nbsp;The Times of IsraelRadio Collapse Shuts Down Greek Airspace&nbsp;&nbsp;AVwebGreece says a radio failure that grounded flights is unlikely to be a cyberattack&nbsp;&nbsp;ABC News"
 slug: "greece-thousands-stranded-across-europe-as-air-space-disrupted-bbc"

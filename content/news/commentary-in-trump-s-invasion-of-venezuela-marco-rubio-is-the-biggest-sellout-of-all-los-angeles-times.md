@@ -1,6 +1,6 @@
 ---
 title: "Commentary: In Trump's invasion of Venezuela, Marco Rubio is the biggest sellout of all - Los Angeles Times"
-date: 2026-01-05
+date: 2026-01-06
 description: "Commentary: In Trump's invasion of Venezuela, Marco Rubio is the biggest sellout of all&nbsp;&nbsp;Los Angeles Times‘Viceroy of Venezuela’: The assassination plot that made Marco Rubio&nbsp;&nbsp;The TelegraphMarco Rubio sees his 2028 odds soar on Polymarket after Venezuela attacks&nbsp;&nbsp;The IndependentMarco Rubio or JD Vance? Venezuela strike fuels 2028 presidential buzz — who did Trump choose?&nbsp;&nbsp;Times of IndiaThe Rubio Supremacy&nbsp;&nbsp;The Wall Street Journal"
 summary: "Commentary: In Trump's invasion of Venezuela, Marco Rubio is the biggest sellout of all&nbsp;&nbsp;Los Angeles Times‘Viceroy of Venezuela’: The assassination plot that made Marco Rubio&nbsp;&nbsp;The TelegraphMarco Rubio sees his 2028 odds soar on Polymarket after Venezuela attacks&nbsp;&nbsp;The IndependentMarco Rubio or JD Vance? Venezuela strike fuels 2028 presidential buzz — who did Trump choose?&nbsp;&nbsp;Times of IndiaThe Rubio Supremacy&nbsp;&nbsp;The Wall Street Journal"
 slug: "commentary-in-trump-s-invasion-of-venezuela-marco-rubio-is-the-biggest-sellout-of-all-los-angeles-times"

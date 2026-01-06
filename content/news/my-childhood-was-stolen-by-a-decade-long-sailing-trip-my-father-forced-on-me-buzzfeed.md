@@ -1,6 +1,6 @@
 ---
 title: "My Childhood Was Stolen By A Decade-Long Sailing Trip My Father Forced On Me - BuzzFeed"
-date: 2026-01-05
+date: 2026-01-06
 description: "My Childhood Was Stolen By A Decade-Long Sailing Trip My Father Forced On Me&nbsp;&nbsp;BuzzFeed"
 summary: "My Childhood Was Stolen By A Decade-Long Sailing Trip My Father Forced On Me&nbsp;&nbsp;BuzzFeed"
 slug: "my-childhood-was-stolen-by-a-decade-long-sailing-trip-my-father-forced-on-me-buzzfeed"

@@ -1,6 +1,6 @@
 ---
 title: "At least 30 killed in attack on Nigeria village"
-date: 2026-01-05
+date: 2026-01-06
 description: "It is the latest in a spate of violent attacks in Niger state, and comes a day after officials said schools could reopen following a mass abduction last year."
 summary: "It is the latest in a spate of violent attacks in Niger state, and comes a day after officials said schools could reopen following a mass abduction last year."
 slug: "at-least-30-killed-in-attack-on-nigeria-village"

@@ -1,6 +1,6 @@
 ---
 title: "Activist group says it was behind Berlin fire that cut power to thousands"
-date: 2026-01-05
+date: 2026-01-06
 description: "The far-left Vulkan Gruppe says in a statement that targeting the fossil fuel economy, not cutting power, was the goal."
 summary: "The far-left Vulkan Gruppe says in a statement that targeting the fossil fuel economy, not cutting power, was the goal."
 slug: "activist-group-says-it-was-behind-berlin-fire-that-cut-power-to-thousands"

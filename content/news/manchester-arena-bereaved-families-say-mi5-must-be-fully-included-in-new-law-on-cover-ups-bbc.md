@@ -1,6 +1,6 @@
 ---
 title: "Manchester Arena bereaved families say MI5 must be fully included in new law on cover-ups - BBC"
-date: 2026-01-05
+date: 2026-01-06
 description: "Manchester Arena bereaved families say MI5 must be fully included in new law on cover-ups&nbsp;&nbsp;BBC"
 summary: "Manchester Arena bereaved families say MI5 must be fully included in new law on cover-ups&nbsp;&nbsp;BBC"
 slug: "manchester-arena-bereaved-families-say-mi5-must-be-fully-included-in-new-law-on-cover-ups-bbc"

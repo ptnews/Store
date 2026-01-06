@@ -1,6 +1,6 @@
 ---
 title: "Foxes caught frolicking with snowman at Lincoln Cathedral - BBC"
-date: 2026-01-05
+date: 2026-01-06
 description: "Foxes caught frolicking with snowman at Lincoln Cathedral&nbsp;&nbsp;BBC"
 summary: "Foxes caught frolicking with snowman at Lincoln Cathedral&nbsp;&nbsp;BBC"
 slug: "foxes-caught-frolicking-with-snowman-at-lincoln-cathedral-bbc"

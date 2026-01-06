@@ -1,6 +1,6 @@
 ---
 title: "Trump's seizure of Maduro raises thorny legal questions, in US and abroad"
-date: 2026-01-05
+date: 2026-01-06
 description: "US Attorney General Pam Bondi has said Maduro was brought to the US to \"face justice\". Some experts have concerns."
 summary: "US Attorney General Pam Bondi has said Maduro was brought to the US to \"face justice\". Some experts have concerns."
 slug: "trump-s-seizure-of-maduro-raises-thorny-legal-questions-in-us-and-abroad"

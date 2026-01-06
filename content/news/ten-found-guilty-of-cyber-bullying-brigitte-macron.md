@@ -1,6 +1,6 @@
 ---
 title: "Ten found guilty of cyber-bullying Brigitte Macron "
-date: 2026-01-05
+date: 2026-01-06
 description: "A Paris court found them guilty of \"malicious\" bullying towards the wife of the French president."
 summary: "A Paris court found them guilty of \"malicious\" bullying towards the wife of the French president."
 slug: "ten-found-guilty-of-cyber-bullying-brigitte-macron"

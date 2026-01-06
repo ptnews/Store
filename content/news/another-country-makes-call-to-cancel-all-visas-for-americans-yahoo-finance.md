@@ -1,6 +1,6 @@
 ---
 title: "Another country makes call to cancel all visas for Americans - Yahoo Finance"
-date: 2026-01-05
+date: 2026-01-06
 description: "Another country makes call to cancel all visas for Americans&nbsp;&nbsp;Yahoo FinanceNew Trump-ordered immigration restrictions go into effect Jan. 1&nbsp;&nbsp;ABC NewsWhy are some African countries banning US citizens from entry?&nbsp;&nbsp;Al JazeeraMali and Burkina Faso impose travel ban on US citizens in tit-for-tat move&nbsp;&nbsp;BBCAre Americans banned from adopting children from these 39 countries? New US rule explained&nbsp;&nbsp;Times of India"
 summary: "Another country makes call to cancel all visas for Americans&nbsp;&nbsp;Yahoo FinanceNew Trump-ordered immigration restrictions go into effect Jan. 1&nbsp;&nbsp;ABC NewsWhy are some African countries banning US citizens from entry?&nbsp;&nbsp;Al JazeeraMali and Burkina Faso impose travel ban on US citizens in tit-for-tat move&nbsp;&nbsp;BBCAre Americans banned from adopting children from these 39 countries? New US rule explained&nbsp;&nbsp;Times of India"
 slug: "another-country-makes-call-to-cancel-all-visas-for-americans-yahoo-finance"

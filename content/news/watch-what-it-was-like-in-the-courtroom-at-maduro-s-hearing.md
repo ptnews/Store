@@ -1,6 +1,6 @@
 ---
 title: "Watch: What it was like in the courtroom at Maduro's hearing"
-date: 2026-01-05
+date: 2026-01-06
 description: "The BBC's Madeline Halpert was inside the room as the former Venezuelan president addressed the judge. "
 summary: "The BBC's Madeline Halpert was inside the room as the former Venezuelan president addressed the judge. "
 slug: "watch-what-it-was-like-in-the-courtroom-at-maduro-s-hearing"

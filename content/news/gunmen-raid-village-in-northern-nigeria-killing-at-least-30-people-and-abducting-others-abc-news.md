@@ -1,0 +1,21 @@
+---
+title: "Gunmen raid village in northern Nigeria, killing at least 30 people and abducting others - ABC News"
+date: 2026-01-06
+description: "Gunmen raid village in northern Nigeria, killing at least 30 people and abducting others&nbsp;&nbsp;ABC NewsDays After U.S. Strikes in Nigeria, Gunmen Kill Dozens of Villagers&nbsp;&nbsp;The New York TimesAt least 30 killed in Nigeria market attack, police say&nbsp;&nbsp;ReutersNiger state: At least 30 killed in Kasuwan-Daji village attack in Nigeria&nbsp;&nbsp;BBCAt least 30 people dead in Nigeria 'bandit' attack&nbsp;&nbsp;DW"
+summary: "Gunmen raid village in northern Nigeria, killing at least 30 people and abducting others&nbsp;&nbsp;ABC NewsDays After U.S. Strikes in Nigeria, Gunmen Kill Dozens of Villagers&nbsp;&nbsp;The New York TimesAt least 30 killed in Nigeria market attack, police say&nbsp;&nbsp;ReutersNiger state: At least 30 killed in Kasuwan-Daji village attack in Nigeria&nbsp;&nbsp;BBCAt least 30 people dead in Nigeria 'bandit' attack&nbsp;&nbsp;DW"
+slug: "gunmen-raid-village-in-northern-nigeria-killing-at-least-30-people-and-abducting-others-abc-news"
+image: ''
+link: 'https://news.google.com/rss/articles/CBMisAFBVV95cUxOZmY3NXNHMkRPbmV2aUtqUVVIOFFQNm9DalBJZ0xBbmdpTUZTVHVacFlIdzMzUGZINWdjYzJ5YThfQ096cy1LT0k0LXRjX3k0VHFQMWdqT1RDamJHMjV3ZU1tZEo2aE5pSEQwX0YwYWcwZktjWUxrUWdCMTNlZy1zaXpMSTVfSjhkWjNoS0k4T1VCTEtyXzZMYlNIWDV0eVNkMFA3eUlCczJHSmFtYU84dNIBtgFBVV95cUxQam9lRDZ0MlRXXzBVSnZoWVJlaU9mcU1ZT1lfYnBhNS12WThBdGw2YWtIRkREVXRRbUQzMVI2dzZGWFBzQ1F3M21EUUY4QnlDOHhVUHA1amVoeU5ybzRQNmlKU3NDN3MzWDJoa00yd21XNFIzMHZlWk5TeGFLdmhvdlNJX2pzbHNSYmtzSElDdFZYLTZvejBVTzBYaTM2ZURPdGNyUlBURDRrQ1M4cVM1YUZHWGxqQQ?oc=5'
+source: 'https://news.google.com/rss/topics/CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx1YlY4U0FtVnVHZ0pWVXlnQVAB?hl=en-US&gl=US&ceid=US:en'
+categories:
+- 'news.google.com'
+tags:
+- 'abducting'
+- 'northern'
+- 'village'
+- 'nigeria'
+- 'killing'
+
+draft: false
+---
+<ol><li><a href="https://news.google.com/rss/articles/CBMisAFBVV95cUxOZmY3NXNHMkRPbmV2aUtqUVVIOFFQNm9DalBJZ0xBbmdpTUZTVHVacFlIdzMzUGZINWdjYzJ5YThfQ096cy1LT0k0LXRjX3k0VHFQMWdqT1RDamJHMjV3ZU1tZEo2aE5pSEQwX0YwYWcwZktjWUxrUWdCMTNlZy1zaXpMSTVfSjhkWjNoS0k4T1VCTEtyXzZMYlNIWDV0eVNkMFA3eUlCczJHSmFtYU84dNIBtgFBVV95cUxQam9lRDZ0MlRXXzBVSnZoWVJlaU9mcU1ZT1lfYnBhNS12WThBdGw2YWtIRkREVXRRbUQzMVI2dzZGWFBzQ1F3M21EUUY4QnlDOHhVUHA1amVoeU5ybzRQNmlKU3NDN3MzWDJoa00yd21XNFIzMHZlWk5TeGFLdmhvdlNJX2pzbHNSYmtzSElDdFZYLTZvejBVTzBYaTM2ZURPdGNyUlBURDRrQ1M4cVM1YUZHWGxqQQ?oc=5" target="_blank">Gunmen raid village in northern Nigeria, killing at least 30 people and abducting others</a>&nbsp;&nbsp;<font color="#6f6f6f">ABC News</font></li><li><a href="https://news.google.com/rss/articles/CBMiiAFBVV95cUxOUzBWV3RuSzhfeXBUR0x0YXlXWmRQZGFxNmk4aGN6THBSMzVlbW9NUkdOTTNUZnNJRHRQY1k5LTlJN0JQVGdKSF8xbnNlY1pCWFNvWFNRQjlZVEpERlNuTHlKSHFzaDVhM3VCeWg3WmsxNzlhZDN1eU1mM0JrTDJ5M0VRaWhUa1hG?oc=5" target="_blank">Days After U.S. Strikes in Nigeria, Gunmen Kill Dozens of Villagers</a>&nbsp;&nbsp;<font color="#6f6f6f">The New York Times</font></li><li><a href="https://news.google.com/rss/articles/CBMingFBVV95cUxONFh1cC0taWVlMGZEZUpiZERmQjZPaGJDdHRfNzNSVkdDRXpadVUyY2hSZVltOUg3RzFsaGxkdlAtWnJDTnFyWDQyQU5MbWhhd1FjLXJIeHFaVFZvMzdZRnc4YjhSMnZ2elRseGVSY0J3d2l2NVBRazhPZkwxOUtYZFlPek9sVDN3R2NZWG9tZlF1VVp5SUtMUXgyYmt1QQ?oc=5" target="_blank">At least 30 killed in Nigeria market attack, police say</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font></li><li><a href="https://news.google.com/rss/articles/CBMiWkFVX3lxTE9qM2NrWXd6ZkdlQVdrWmdjYVFQY2ZLbWFNVHdOS2FkUGlWR25zclpIUTdqcjFrbFdNNUpMMFBLMHkxTjhOM3F0WUh5bk5JNUFMejl5WVhycHBOUQ?oc=5" target="_blank">Niger state: At least 30 killed in Kasuwan-Daji village attack in Nigeria</a>&nbsp;&nbsp;<font color="#6f6f6f">BBC</font></li><li><a href="https://news.google.com/rss/articles/CBMiiAFBVV95cUxNSUhOZVYtTmRkUlp0dVV0a2lVb0Y5OWcwYUd4eG93NEpGZHhSVUJZa29YTmt6aWFrZ3pyMUQtakw0R3U5SGdLWktUM1JzTHN2QVk1SXB0SmpoVC1lMmFJU3E0Sm92RFFuVFVHakJGMUNQQ0N5clhOZ3RjRGhaS1hUZVYtVm01RFpN0gGIAUFVX3lxTE0zd1lEU1duMVhzWkVERzBJUkZ5TGpuTnBLcFJHTjlTWnlpeC16MFV2aXFDTmsyRC1Zd0txUllNTzljOElpS2FETThtMk5Yc292bzU0Yjg0Tl9HLVRHRGExUi1QLXd2SFI0MnN3UTlLWnZHN0RJWGJ3WldzRnpPZ0wzLW9NZ2x6VW8?oc=5" target="_blank">At least 30 people dead in Nigeria 'bandit' attack</a>&nbsp;&nbsp;<font color="#6f6f6f">DW</font></li></ol>

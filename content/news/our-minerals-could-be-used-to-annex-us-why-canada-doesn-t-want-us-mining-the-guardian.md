@@ -1,6 +1,6 @@
 ---
 title: "‘Our minerals could be used to annex us’: why Canada doesn’t want US mining - The Guardian"
-date: 2026-01-05
+date: 2026-01-06
 description: "‘Our minerals could be used to annex us’: why Canada doesn’t want US mining&nbsp;&nbsp;The Guardian#Encore: U.S.-Owned Oil Sands Giants Send Profits Out of Canada Despite Public Support for Resource Sovereignty&nbsp;&nbsp;The Energy Mix“‘Our Minerals Could Be Used to Annex Us’: Why Canada Doesn’t Want U.S. Mining&nbsp;&nbsp;vocal.mediaMost Canadians oppose foreign ownership of critical mineral projects&nbsp;&nbsp;Juno News"
 summary: "‘Our minerals could be used to annex us’: why Canada doesn’t want US mining&nbsp;&nbsp;The Guardian#Encore: U.S.-Owned Oil Sands Giants Send Profits Out of Canada Despite Public Support for Resource Sovereignty&nbsp;&nbsp;The Energy Mix“‘Our Minerals Could Be Used to Annex Us’: Why Canada Doesn’t Want U.S. Mining&nbsp;&nbsp;vocal.mediaMost Canadians oppose foreign ownership of critical mineral projects&nbsp;&nbsp;Juno News"
 slug: "our-minerals-could-be-used-to-annex-us-why-canada-doesn-t-want-us-mining-the-guardian"

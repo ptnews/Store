@@ -1,6 +1,6 @@
 ---
 title: "‘There’s this whole other story’: inside the fight to end slavery in the Americas - The Guardian"
-date: 2026-01-05
+date: 2026-01-06
 description: "‘There’s this whole other story’: inside the fight to end slavery in the Americas&nbsp;&nbsp;The Guardian"
 summary: "‘There’s this whole other story’: inside the fight to end slavery in the Americas&nbsp;&nbsp;The Guardian"
 slug: "there-s-this-whole-other-story-inside-the-fight-to-end-slavery-in-the-americas-the-guardian"

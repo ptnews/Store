@@ -1,6 +1,6 @@
 ---
 title: "Sir Keir Starmer regrets Alaa Abd El Fattah welcome after 'abhorrent' posts came to light - BBC"
-date: 2026-01-05
+date: 2026-01-06
 description: "Sir Keir Starmer regrets Alaa Abd El Fattah welcome after 'abhorrent' posts came to light&nbsp;&nbsp;BBCHome Secretary refuses to use powers to deport ‘extremist’&nbsp;&nbsp;The TelegraphStarmer says he was not aware of ‘abhorrent’ comments by Egyptian activist he welcomed&nbsp;&nbsp;The Times of IsraelDistractions over Abd el-Fattah were running joke, says ex-Starmer adviser&nbsp;&nbsp;The GuardianTapp: Govt should have known about activist's old tweets&nbsp;&nbsp;ITN Productions"
 summary: "Sir Keir Starmer regrets Alaa Abd El Fattah welcome after 'abhorrent' posts came to light&nbsp;&nbsp;BBCHome Secretary refuses to use powers to deport ‘extremist’&nbsp;&nbsp;The TelegraphStarmer says he was not aware of ‘abhorrent’ comments by Egyptian activist he welcomed&nbsp;&nbsp;The Times of IsraelDistractions over Abd el-Fattah were running joke, says ex-Starmer adviser&nbsp;&nbsp;The GuardianTapp: Govt should have known about activist's old tweets&nbsp;&nbsp;ITN Productions"
 slug: "sir-keir-starmer-regrets-alaa-abd-el-fattah-welcome-after-abhorrent-posts-came-to-light-bbc"

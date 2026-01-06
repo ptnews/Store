@@ -1,6 +1,6 @@
 ---
 title: "US sharply criticised by foes and friends over Maduro seizure"
-date: 2026-01-05
+date: 2026-01-06
 description: "The US taking of Venezuela's leader has faced strong criticism from both America's friends and foes."
 summary: "The US taking of Venezuela's leader has faced strong criticism from both America's friends and foes."
 slug: "us-sharply-criticised-by-foes-and-friends-over-maduro-seizure"

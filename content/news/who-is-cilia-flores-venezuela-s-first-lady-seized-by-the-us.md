@@ -1,6 +1,6 @@
 ---
 title: "Who is Cilia Flores, Venezuela's first lady seized by the US? "
-date: 2026-01-05
+date: 2026-01-06
 description: "Long seen as a powerful figure, Flores has also faced allegations of corruption and nepotism."
 summary: "Long seen as a powerful figure, Flores has also faced allegations of corruption and nepotism."
 slug: "who-is-cilia-flores-venezuela-s-first-lady-seized-by-the-us"

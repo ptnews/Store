@@ -1,6 +1,6 @@
 ---
 title: "Fifteen buildings to look out for in 2026 - Dezeen"
-date: 2026-01-05
+date: 2026-01-06
 description: "Fifteen buildings to look out for in 2026&nbsp;&nbsp;Dezeen11 architecture projects set to shape the world in 2026&nbsp;&nbsp;CNNHere Are 10 Must-See Buildings Opening in 2026&nbsp;&nbsp;hypebeast.com9 blockbuster buildings opening in 2026&nbsp;&nbsp;Fast CompanyBuilding the future: 2026 project milestones to celebrate&nbsp;&nbsp;Buro Happold"
 summary: "Fifteen buildings to look out for in 2026&nbsp;&nbsp;Dezeen11 architecture projects set to shape the world in 2026&nbsp;&nbsp;CNNHere Are 10 Must-See Buildings Opening in 2026&nbsp;&nbsp;hypebeast.com9 blockbuster buildings opening in 2026&nbsp;&nbsp;Fast CompanyBuilding the future: 2026 project milestones to celebrate&nbsp;&nbsp;Buro Happold"
 slug: "fifteen-buildings-to-look-out-for-in-2026-dezeen"

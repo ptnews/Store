@@ -1,6 +1,6 @@
 ---
 title: "Bluefin tuna fetches record $3.2m at Tokyo auction"
-date: 2026-01-05
+date: 2026-01-06
 description: "The 243kg fish went to a man known as the Tuna King, who said \"the year's first tuna brings good luck\"."
 summary: "The 243kg fish went to a man known as the Tuna King, who said \"the year's first tuna brings good luck\"."
 slug: "bluefin-tuna-fetches-record-3-2m-at-tokyo-auction"

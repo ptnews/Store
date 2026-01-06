@@ -1,6 +1,6 @@
 ---
 title: "All 116 injured in Swiss ski resort fire identified"
-date: 2026-01-05
+date: 2026-01-06
 description: "Forty people were killed when a fire swept through a busy bar in Crans-Montana on New Year's Eve."
 summary: "Forty people were killed when a fire swept through a busy bar in Crans-Montana on New Year's Eve."
 slug: "all-116-injured-in-swiss-ski-resort-fire-identified"

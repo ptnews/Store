@@ -1,6 +1,6 @@
 ---
 title: "The French university where spies go for training - BBC"
-date: 2026-01-05
+date: 2026-01-06
 description: "The French university where spies go for training&nbsp;&nbsp;BBC"
 summary: "The French university where spies go for training&nbsp;&nbsp;BBC"
 slug: "the-french-university-where-spies-go-for-training-bbc"

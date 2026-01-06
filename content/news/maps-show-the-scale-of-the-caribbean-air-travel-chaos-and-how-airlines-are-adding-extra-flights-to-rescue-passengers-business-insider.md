@@ -1,0 +1,21 @@
+---
+title: "Maps show the scale of the Caribbean air travel chaos — and how airlines are adding extra flights to rescue passengers - Business Insider"
+date: 2026-01-06
+description: "Maps show the scale of the Caribbean air travel chaos — and how airlines are adding extra flights to rescue passengers&nbsp;&nbsp;Business InsiderTravelers stranded in Caribbean as US military operation sends airlines scrambling to add flights&nbsp;&nbsp;CNNMilitary action in Venezuela raises travel concerns for Caribbean-bound flyers&nbsp;&nbsp;WJARCaribbean Travelers Are Stranded After U.S. Raid in Venezuela Cancels Flights&nbsp;&nbsp;The New York TimesAirlines scramble to add Caribbean flig..."
+summary: "Maps show the scale of the Caribbean air travel chaos — and how airlines are adding extra flights to rescue passengers&nbsp;&nbsp;Business InsiderTravelers stranded in Caribbean as US military operation sends airlines scrambling to add flights&nbsp;&nbsp;CNNMilitary action in Venezuela raises travel concerns for Caribbean-bound flyers&nbsp;&nbsp;WJARCaribbean Travelers Are Stranded After U.S. Raid in Venezuela Cancels Flights&nbsp;&nbsp;The New York TimesAirlines scramble to add Caribbean flig..."
+slug: "maps-show-the-scale-of-the-caribbean-air-travel-chaos-and-how-airlines-are-adding-extra-flights-to-rescue-passengers-business-insider"
+image: ''
+link: 'https://news.google.com/rss/articles/CBMiqgFBVV95cUxQMFlMYzdfOGIyU1NEWlJsd3RWc3ctNGFQT1U4RFVIMzRDQ1BkaTE2b1lDQWtTZUNHT2ExSWVFcnN4SU4zQVlzWERiU251VGEwZmt0UEVLaGxXaVFKc090QzRKV1U0WUN0UW1nU3B6RWNCMlVUbWdnWVFaSldJUzI1TklWcmpuT0pMaVk3eklTWnBWOG1MMDE3c0lVVjd3d21MTVZDb2JGLTlnZw?oc=5'
+source: 'https://news.google.com/rss/topics/CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx1YlY4U0FtVnVHZ0pWVXlnQVAB?hl=en-US&gl=US&ceid=US:en'
+categories:
+- 'news.google.com'
+tags:
+- 'passengers'
+- 'caribbean'
+- 'airlines'
+- 'business'
+- 'flights'
+
+draft: false
+---
+<ol><li><a href="https://news.google.com/rss/articles/CBMiqgFBVV95cUxQMFlMYzdfOGIyU1NEWlJsd3RWc3ctNGFQT1U4RFVIMzRDQ1BkaTE2b1lDQWtTZUNHT2ExSWVFcnN4SU4zQVlzWERiU251VGEwZmt0UEVLaGxXaVFKc090QzRKV1U0WUN0UW1nU3B6RWNCMlVUbWdnWVFaSldJUzI1TklWcmpuT0pMaVk3eklTWnBWOG1MMDE3c0lVVjd3d21MTVZDb2JGLTlnZw?oc=5" target="_blank">Maps show the scale of the Caribbean air travel chaos — and how airlines are adding extra flights to rescue passengers</a>&nbsp;&nbsp;<font color="#6f6f6f">Business Insider</font></li><li><a href="https://news.google.com/rss/articles/CBMihgFBVV95cUxONkJaQjJmemw0ZDZPNHpCUjRkdG9nSG5nTWhucEdxSjRtWGp5WGp3Wi1ucGpfbzRveFFnRFVPTmp0VTVKZFlrWUNLNnJyM0FCNDRwdmhXVEVxWFpqOHl2SGZTQjdISy0tNzZWdW9vSTU1RUdVeE9UazNETlVEblVGMFhfV2pVUQ?oc=5" target="_blank">Travelers stranded in Caribbean as US military operation sends airlines scrambling to add flights</a>&nbsp;&nbsp;<font color="#6f6f6f">CNN</font></li><li><a href="https://news.google.com/rss/articles/CBMixwFBVV95cUxQMGN3ZUtweFo5UmQ2aldIbUJKbGpqSWVlVUZnQlpvTVc3cENBQWlfdkw2U0lkMzZmb3ljYVBVdVdPdHh2cl83elZrTlFzUmZhZzVLSVlOYWNMLVJZOHR5RDZXd240ZnJtcjJFS0VLTERPS3NBMFdsTkhnc18tS2Roc1RYX29LV2c2bVpma2hkR0s2N21YUTZSRmRObjFud0lPYVNaWUtnSWVnV2NWMzN5anF6Szg1eXJYVk4wN0c2elprVFBzaU9j?oc=5" target="_blank">Military action in Venezuela raises travel concerns for Caribbean-bound flyers</a>&nbsp;&nbsp;<font color="#6f6f6f">WJAR</font></li><li><a href="https://news.google.com/rss/articles/CBMijgFBVV95cUxQbG1zWVJ4d1FXaWlYZEFEQkxjNDUtbUd5eVJQbGh1SkRnRDZsOW1OaVVWbWpCUUxCVVV1b2t0bWxRaE1WbTNuT2k2aUFIdHRteFphcmVHV05qRkkwZHljUFpUSFF5N1JPVE04Q2xoblpRaWtSUE8yRFZ6ejFHQ2FZMU44bXRXMl9qWkk4X1ZB?oc=5" target="_blank">Caribbean Travelers Are Stranded After U.S. Raid in Venezuela Cancels Flights</a>&nbsp;&nbsp;<font color="#6f6f6f">The New York Times</font></li><li><a href="https://news.google.com/rss/articles/CBMingFBVV95cUxOQWJKOXl3ZEpXNUt5TFNMTDFlemRIbklHNzNsOE43SFVPbFZDY0ZCZWUtSWJ6N3RvQmJ1VFRFXzZSNG5CVzFUaUxvOUdyeXZZZ3ZaUXhTNnJIcWJ2dkZid24xYllYMThoWHByTkdqS2dDQUZCRm5STllQNV9qOHhidTcxOXNCLU5fNlJaSnIzYWhQSjVKZlJGUlowV2UxUdIBowFBVV95cUxNWlBxZDgzekdDNTJ4LVV4dFhseXYwT25EVDI3Z0x0VXZaQXZKUGZCMDhBZDExWnJoR0YtRVM0Ym1PZWdqS0phYVd2UFV2OUxfUlV2aHVGR2RSTV85Yy1FdWtTdk0wWWIzd1ZOTmJEWFMyMndPWFdleTV4Q3FjWU9PUi1rbjMyUlpwUW1PQks5SmVDNE5KSFJJTi1GSmRabnhQTi1j?oc=5" target="_blank">Airlines scramble to add Caribbean flights after airspace restrictions strand tens of thousands of travelers</a>&nbsp;&nbsp;<font color="#6f6f6f">CNBC</font></li></ol>

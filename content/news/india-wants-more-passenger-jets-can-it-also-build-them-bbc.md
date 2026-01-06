@@ -1,6 +1,6 @@
 ---
 title: "India wants more passenger jets. Can it also build them? - BBC"
-date: 2026-01-05
+date: 2026-01-06
 description: "India wants more passenger jets. Can it also build them?&nbsp;&nbsp;BBC"
 summary: "India wants more passenger jets. Can it also build them?&nbsp;&nbsp;BBC"
 slug: "india-wants-more-passenger-jets-can-it-also-build-them-bbc"

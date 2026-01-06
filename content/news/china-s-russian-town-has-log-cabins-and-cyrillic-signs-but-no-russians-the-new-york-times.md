@@ -1,6 +1,6 @@
 ---
 title: "China’s Russian Town Has Log Cabins and Cyrillic Signs, but No Russians - The New York Times"
-date: 2026-01-05
+date: 2026-01-06
 description: "China’s Russian Town Has Log Cabins and Cyrillic Signs, but No Russians&nbsp;&nbsp;The New York Times"
 summary: "China’s Russian Town Has Log Cabins and Cyrillic Signs, but No Russians&nbsp;&nbsp;The New York Times"
 slug: "china-s-russian-town-has-log-cabins-and-cyrillic-signs-but-no-russians-the-new-york-times"
