@@ -1,0 +1,21 @@
+---
+title: "Jubilee: The rite for the closing of the Holy Door at St Peter’s Basilica - Vatican News"
+date: 2026-01-06
+description: "Jubilee: The rite for the closing of the Holy Door at St Peter’s Basilica&nbsp;&nbsp;Vatican NewsPope Leo, closing Catholic Holy Year, urges kindness to foreigners&nbsp;&nbsp;ReutersVatican says more than 33 million pilgrims took part in jubilee&nbsp;&nbsp;Catholic News AgencySpringtime Delayed: Why the Great Jubilee’s Promise Remains Unfulfilled&nbsp;&nbsp;National Catholic RegisterLast 'holy door' at St Peter's closes to end Catholic jubilee year&nbsp;&nbsp;Yahoo"
+summary: "Jubilee: The rite for the closing of the Holy Door at St Peter’s Basilica&nbsp;&nbsp;Vatican NewsPope Leo, closing Catholic Holy Year, urges kindness to foreigners&nbsp;&nbsp;ReutersVatican says more than 33 million pilgrims took part in jubilee&nbsp;&nbsp;Catholic News AgencySpringtime Delayed: Why the Great Jubilee’s Promise Remains Unfulfilled&nbsp;&nbsp;National Catholic RegisterLast 'holy door' at St Peter's closes to end Catholic jubilee year&nbsp;&nbsp;Yahoo"
+slug: "jubilee-the-rite-for-the-closing-of-the-holy-door-at-st-peter-s-basilica-vatican-news"
+image: ''
+link: 'https://news.google.com/rss/articles/CBMiwgFBVV95cUxNV0NFdlh6RDRJZkY2dlJydW9pZUxmMGktTXlra1FibnFkdFNUTktVSkt4clpzd2JrTUVDTlJLbmJsQjdXWWZ3cWdKcmRTTlZDNjIyNDJQRko2eE4tVm83NDB5X2FRNnVveDR4ak9xZTRBWGZlekM2aGYzeU1aME5rY2xLV0RHRnAySUVPTlRkclpseGxnNTRhS21uN1JaZTRSQUUwTklsZUoyZzluX3NENHkxUlI0SndRZnN6NkpyVjh3UQ?oc=5'
+source: 'https://news.google.com/rss/topics/CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx1YlY4U0FtVnVHZ0pWVXlnQVAB?hl=en-US&gl=US&ceid=US:en'
+categories:
+- 'news.google.com'
+tags:
+- 'basilica'
+- 'jubilee'
+- 'closing'
+- 'vatican'
+- 'peter'
+
+draft: false
+---
+<ol><li><a href="https://news.google.com/rss/articles/CBMiwgFBVV95cUxNV0NFdlh6RDRJZkY2dlJydW9pZUxmMGktTXlra1FibnFkdFNUTktVSkt4clpzd2JrTUVDTlJLbmJsQjdXWWZ3cWdKcmRTTlZDNjIyNDJQRko2eE4tVm83NDB5X2FRNnVveDR4ak9xZTRBWGZlekM2aGYzeU1aME5rY2xLV0RHRnAySUVPTlRkclpseGxnNTRhS21uN1JaZTRSQUUwTklsZUoyZzluX3NENHkxUlI0SndRZnN6NkpyVjh3UQ?oc=5" target="_blank">Jubilee: The rite for the closing of the Holy Door at St Peter’s Basilica</a>&nbsp;&nbsp;<font color="#6f6f6f">Vatican News</font></li><li><a href="https://news.google.com/rss/articles/CBMipgFBVV95cUxQOW1zOV81TF9jdW9QR1pnVXBTNzhkNW1zMzZ3X3B2SWFPUmE1czJ5Q0NtV1VhODdCc3R3YUhhLXVCTkduQUQ4N2NEOWRoMmtYLS03TEF2NEVkbnpELUViSTk5SHM0SnNHWU5ia1hoc1F2MTFKeG85U2tlZFdLTjZoM2JBSEJaeEwwZjRjWTJhbFRlbzlaaEprV2pkNTh2S0sxWUNXTldR?oc=5" target="_blank">Pope Leo, closing Catholic Holy Year, urges kindness to foreigners</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font></li><li><a href="https://news.google.com/rss/articles/CBMirwFBVV95cUxOUWdacVk2V19rZEVsNm5kRlZsVG5mX3dxdnhwYk1Xc0FGX0VMT1V6bjllM19HOFB3OWVrTlUtdTVINV9tSV9pSElsVFd2UmRtaWZxNlNtQzVXVm9fQ0NwSE94SEZPMGR2cThSblRoOGNkOUxrNDBlNEN1cjRNZDRZZXN5ZnJWSkFoVHgtYnVhVzNpczlLaEx4dnFwYnhJVjNjS1BvYTUzU3Ztb3VMeDJF0gG0AUFVX3lxTE5VMzB3RVBuMXhKZ2J1bFZTcHBMNWRPdnpXcDd6dnJBSmVVYjN1UU5KN3I3T1RZaDdrVnplRWdDWDBPQmIwU0RaNEhQZzc5YVVaZDBVbklwOWNQN1E3dnQ1Y0RtaUw3RmFGb0hsMF9EVFJGSk9JcUZSSXgtMXBNNnFuVUVaY3BWd2lCWnNCT1dzd3VHWDBQUzhxajhDV1dWZlByTzEwUGt3NzZLLXBWV0dyZGRUeA?oc=5" target="_blank">Vatican says more than 33 million pilgrims took part in jubilee</a>&nbsp;&nbsp;<font color="#6f6f6f">Catholic News Agency</font></li><li><a href="https://news.google.com/rss/articles/CBMidEFVX3lxTFBtbzZpSFVwdTJoUFYxSThJOXM2U3k0TTR6RnZSRG1GVnhUNzRLOWhtZkZKQ2g2aFUxbzhUOWx0dWlYSzE5ZnRwc1Zsb05LVjgycjE5Mmx5QVBkM252MlFsTlJZa09nd2ctWjB3blQzZUxMMzN10gF6QVVfeXFMTlZSRWp5b09iRllPMjFnX2hBRHVBdUtKcjRFcHFCZEdyZUkwV0JSb3hybWZuR0FIOU5PT19idWFSUlNqT2ZocEpDWGlLMEJ6WDNDMVRFYVN1QlRnN3JZU0liSDdyRTFaOFNBeF9QRTVzVC1QdDR1blBINHc?oc=5" target="_blank">Springtime Delayed: Why the Great Jubilee’s Promise Remains Unfulfilled</a>&nbsp;&nbsp;<font color="#6f6f6f">National Catholic Register</font></li><li><a href="https://news.google.com/rss/articles/CBMigAFBVV95cUxNRjA3cUthVjVnakNWcTRWVkFHbTlCZjROYnpYcE5ZdFZOOUhJQ1FiZ3NyOV85Ty1oM3RFVTI0Z3N5dWpDQUxnNUl1UmJ5ZlI0UmZDcnA3T0w3emhHZ0VpcjlIVGd2dzVaR0ktUjJORGVTRk1UTm9qMTRHdGVrVnFfQw?oc=5" target="_blank">Last 'holy door' at St Peter's closes to end Catholic jubilee year</a>&nbsp;&nbsp;<font color="#6f6f6f">Yahoo</font></li></ol>
