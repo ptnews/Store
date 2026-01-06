@@ -1,8 +1,8 @@
 ---
 title: "Israeli FM visits Somaliland after world-first recognition storm"
 date: 2026-01-06
-description: "Gideon Saar is the first Israeli foreign minister to visit breakaway region since Israel recognised its independence."
-summary: "Gideon Saar is the first Israeli foreign minister to visit breakaway region since Israel recognised its independence."
+description: "Gideon Saar becomes first Israeli minister to visit the breakaway region since Israel recognised its independence."
+summary: "Gideon Saar becomes first Israeli minister to visit the breakaway region since Israel recognised its independence."
 slug: "israeli-fm-visits-somaliland-after-world-first-recognition-storm"
 image: ''
 link: 'https://www.aljazeera.com/news/2026/1/6/israeli-fm-visits-somaliland-after-world-first-recognition-storm?traffic_source=rss'
@@ -18,4 +18,4 @@ tags:
 
 draft: false
 ---
-Gideon Saar is the first Israeli foreign minister to visit breakaway region since Israel recognised its independence.
+Gideon Saar becomes first Israeli minister to visit the breakaway region since Israel recognised its independence.
