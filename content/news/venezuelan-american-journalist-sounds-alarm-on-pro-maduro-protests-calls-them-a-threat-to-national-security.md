@@ -1,0 +1,21 @@
+---
+title: "Venezuelan-American journalist sounds alarm on pro-Maduro protests, calls them a 'threat to national security'"
+date: 2026-01-06
+description: "Venezuelan-American journalist condemns protesters calling to &quot;free Maduro,&quot; arguing the demonstrations are an insult to Venezuelans who have suffered under his leadership."
+summary: "Venezuelan-American journalist condemns protesters calling to &quot;free Maduro,&quot; arguing the demonstrations are an insult to Venezuelans who have suffered under his leadership."
+slug: "venezuelan-american-journalist-sounds-alarm-on-pro-maduro-protests-calls-them-a-threat-to-national-security"
+image: ''
+link: 'https://www.foxnews.com/media/venezuelan-american-journalist-sounds-alarm-pro-maduro-protests-calls-them-threat-national-security'
+source: 'https://feeds.foxnews.com/foxnews/latest'
+categories:
+- 'feeds.foxnews.com'
+tags:
+- 'venezuelan'
+- 'journalist'
+- 'american'
+- 'protests'
+- 'national'
+
+draft: false
+---
+<p>A <a href="https://www.foxnews.com/category/topic/venezuelan-political-crisis" target="_blank" rel="noopener">Venezuelan-American journalist</a> who fled the South American country as a child condemned protesters calling to "free Maduro," denouncing the demonstrations as an insult to Venezuelans who suffered under the regime and a threat to U.S. national security.</p><p>"It's disgusting, both as an American and as a Venezuelan. It's so obvious there's not one Venezuelan in those protests," said Germania Rodriguez Poleo, who escaped Venezuela with her mother when she was 11 years old.</p><p>"These people are disrespecting our tragedy, are disrespecting our political prisoners, those we have lost, those who are still in Venezuela's jails, those who are still starving."</p><p><a href="https://www.foxnews.com/media/fetterman-defends-trumps-venezuela-military-operation-against-criticism-from-fellow-democrats" target="_blank" rel="noopener"><strong>FETTERMAN DEFENDS TRUMP'S VENEZUELA MILITARY OPERATION AGAINST CRITICISM FROM FELLOW DEMOCRATS</strong></a></p><p>Poleo called the demonstrations "absolutely shameful" Tuesday on "Fox &amp; Friends" and said the fact that so many Americans went out to show support for a "criminal dictatorship" was a "threat to national security."</p><p>She said her mother, also a journalist, was accused of terrorism for speaking out against then-Venezuelan leader Hugo Chávez, forcing them into hiding before fleeing the country.</p><p>Even after American forces <a href="https://www.foxnews.com/us/captured-venezuelan-dictator-maduro-faces-new-york-federal-judge-after-dramatic-palace-raid" target="_blank" rel="noopener">captured Nicolás Maduro</a> last week, Poleo said the country remains under authoritarian control.</p><p>"Today, we're still under the same tyranny. We have hope, but my friends, my family in Venezuela remain terrorized by the regime. That's why you don't see them celebrating on the streets, because they're scared for their lives," she said, adding that the government has threatened to take action against U.S. sympathizers. </p><p><a href="https://www.foxnews.com/world/venezuela-orders-nationwide-manhunt-supporters-after-maduros-arrest-us-forces" target="_blank" rel="noopener"><strong>VENEZUELA ORDERS NATIONWIDE MANHUNT FOR SUPPORTERS AFTER MADURO'S ARREST BY US FORCES</strong></a></p><p>"But they are hopeful. They are afraid of what comes next, but they feel they have hope for the first time in 26 years."</p><p>Maduro was succeeded by his vice president, Delcy Rodríguez, who was recently sworn into office as <a href="https://www.foxnews.com/world/venezuelas-new-interim-leader-delcy-rodriguez-hates-west-former-official-warns" target="_blank" rel="noopener">Venezuela's new president</a>.</p><p>Poleo <a href="https://www.foxnews.com/politics/trump-issues-direct-warning-venezuelas-new-leader-delcy-rodriguez-following-maduro-capture" target="_blank" rel="noopener">thanked President Donald Trump</a> for taking action, and urged him to "finish the job" amid fears stemming from Rodríguez’s leadership.</p><p>"She's even more radical than Maduro," Poleo said. "She's a true ideologue, but she's very smart and worldly, and she knows how to handle herself. So right now, we Venezuelans fear that they're gonna leave us with Delcy Rodríguez, who we know as our chief of torture."</p>

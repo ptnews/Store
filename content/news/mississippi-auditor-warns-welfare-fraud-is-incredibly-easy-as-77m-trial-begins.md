@@ -1,8 +1,8 @@
 ---
 title: "Mississippi auditor warns welfare fraud is 'incredibly easy' as $77M trial begins"
 date: 2026-01-06
-description: "State auditor warns welfare fraud is &apos;incredibly easy&apos; as Mississippi&apos;s high-profile trial exposes weaknesses costing taxpayers nationwide."
-summary: "State auditor warns welfare fraud is &apos;incredibly easy&apos; as Mississippi&apos;s high-profile trial exposes weaknesses costing taxpayers nationwide."
+description: "State auditor warns welfare fraud is &quot;incredibly easy&quot; as Mississippi&apos;s high-profile trial exposes weaknesses costing taxpayers nationwide."
+summary: "State auditor warns welfare fraud is &quot;incredibly easy&quot; as Mississippi&apos;s high-profile trial exposes weaknesses costing taxpayers nationwide."
 slug: "mississippi-auditor-warns-welfare-fraud-is-incredibly-easy-as-77m-trial-begins"
 image: ''
 link: 'https://www.foxnews.com/media/mississippi-auditor-warns-welfare-fraud-incredibly-easy-77m-trial-begins'

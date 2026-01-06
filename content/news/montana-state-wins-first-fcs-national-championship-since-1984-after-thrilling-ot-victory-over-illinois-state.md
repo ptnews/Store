@@ -1,0 +1,21 @@
+---
+title: "Montana State wins first FCS national championship since 1984 after thrilling OT victory over Illinois State"
+date: 2026-01-06
+description: "Montana State captured its first FCS championship since 1984 with a thrilling 35-34 overtime victory over Illinois State, ending 40-year title drought."
+summary: "Montana State captured its first FCS championship since 1984 with a thrilling 35-34 overtime victory over Illinois State, ending 40-year title drought."
+slug: "montana-state-wins-first-fcs-national-championship-since-1984-after-thrilling-ot-victory-over-illinois-state"
+image: ''
+link: 'https://www.foxnews.com/sports/montana-state-wins-first-fcs-national-championship-since-1984-thrilling-ot-victory-illinois-state'
+source: 'https://feeds.foxnews.com/foxnews/latest'
+categories:
+- 'feeds.foxnews.com'
+tags:
+- 'championship'
+- 'thrilling'
+- 'national'
+- 'illinois'
+- 'montana'
+
+draft: false
+---
+<p>The Montana State Bobcats defeated the Illinois State Redbirds 35-34 in an overtime thriller to win the program's first <a href="https://www.foxnews.com/category/sports/ncaa-fb" target="_blank" rel="noopener">FCS championship</a> since 1984 on Monday night.</p><p>Last season, the Bobcats lost in the championship in a shootout. The season before, they lost in the quarterfinals after they had an extra point blocked.</p><p>This season had an inauspicious start, as the Bobcats lost their first two games. However, they rattled off 14 straight wins to capture the elusive <a href="https://www.foxnews.com/category/sports/ncaa" target="_blank" rel="noopener">national title.</a></p><p><a href="https://www.foxnews.com/sports" target="_blank" rel="noopener"><strong>CLICK HERE FOR MORE SPORTS COVERAGE ON FOXNEWS.COM</strong></a></p><p>Montana State beat their in-state rivals, Montana, twice in a four-week span as they beat them in the semifinals.</p><p>Head coach Brent Vigen is already focused on next year, saying the team is building for more.</p><p>"To be able to clear that hurdle and know that yes, this ’25 group accomplished what hadn’t been done in a long time," Vigen said. "You know, we’re building for more."</p><p>The future looks bright for the Bobcats, as they had just nine seniors on their title-winning team.</p><p><strong>MISSISSIPPI STATE QB AVOIDS DISASTER AFTER APPEARING TO SUFFER GRUESOME LEG INJURY IN DUKE'S MAYO BOWL</strong></p><p>The Bobcats jumped out to a 21-7 lead at halftime, and kept it a two-score game in the third quarter, leading 28-14, but the Redbirds stormed back.</p><p>Illinois State tied the game at 28-28 and had a chance to take the lead with 57 seconds left in the fourth quarter. Redbirds kicker Michael Cosentino had a 38-yard field goal attempt, but it was blocked by Bobcats defensive back Jhase McMillan.</p><p>Illinois State scored first in overtime, as quarterback Tommy Rittenhouse connected with wide receiver Dylan Lord on a 10-yard touchdown to go up 34-28, but ran into more kicking woes. Bobcats defensive end Hunter Parsons blocked the extra point, keeping the score at 34-28.</p><p>Bobcats quarterback Justin Lamson tied the game with a 14-yard touchdown pass to wide receiver Taco Dowler to make it 34-34, and kicker Myles Sansted buried the extra point to give Montana State the win.</p><p>"Taco was wide open," Lamson said. "I got hit so I was just trying to give him a chance and the rest is history, and Myles did his thing and that was the game."</p><p>Vigen, who was in his third title appearance in five seasons as <a href="https://www.foxnews.com/sports/ole-miss-coach-pete-golding-says-lsu-holds-power-over-lane-kiffin-assistants-rebels-eye-cfp-semifinal" target="_blank" rel="noopener">head coach,</a> said the wins aren’t supposed to come easily.</p><p>"What a hard-fought game, and these things aren’t supposed to come easily, I guess," Vigen said.</p><p><i><strong>Follow Fox News Digital’s</strong></i><a href="https://twitter.com/FoxNewsSports_" target="_blank" rel="noopener"><i><strong> sports coverage on X</strong></i></a><i><strong>, and subscribe to</strong></i><a href="https://www.foxnews.com/newsletters" target="_blank" rel="noopener"><i><strong> the Fox News Sports Huddle newsletter</strong></i></a><i><strong>.</strong></i></p>
