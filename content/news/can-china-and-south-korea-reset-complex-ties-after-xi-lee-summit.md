@@ -1,8 +1,8 @@
 ---
 title: "Can China and South Korea reset complex ties after Xi-Lee summit?"
 date: 2026-01-06
-description: "Analysts say both countries increasingly rely on each other for economic and security factors amid geopolitical churn."
-summary: "Analysts say both countries increasingly rely on each other for economic and security factors amid geopolitical churn."
+description: "Analysts say both countries increasingly rely on each other for economic and security reasons amid geopolitical churn."
+summary: "Analysts say both countries increasingly rely on each other for economic and security reasons amid geopolitical churn."
 slug: "can-china-and-south-korea-reset-complex-ties-after-xi-lee-summit"
 image: ''
 link: 'https://www.aljazeera.com/news/2026/1/6/can-china-and-south-korea-reset-complex-ties-after-xi-lee-summit?traffic_source=rss'
@@ -18,4 +18,4 @@ tags:
 
 draft: false
 ---
-Analysts say both countries increasingly rely on each other for economic and security factors amid geopolitical churn.
+Analysts say both countries increasingly rely on each other for economic and security reasons amid geopolitical churn.

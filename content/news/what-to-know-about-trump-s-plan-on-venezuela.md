@@ -1,5 +1,5 @@
 ---
-title: "What to know about Trump’s plan on Venezuela?"
+title: "What to know about Trump’s plan on Venezuela"
 date: 2026-01-06
 description: "After US forces abducted Venezuelan President Nicolas Maduro, it is unclear what Washington has planned."
 summary: "After US forces abducted Venezuelan President Nicolas Maduro, it is unclear what Washington has planned."

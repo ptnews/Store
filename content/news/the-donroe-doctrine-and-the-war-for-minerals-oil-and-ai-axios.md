@@ -1,0 +1,20 @@
+---
+title: "The \"Donroe Doctrine\" and the war for minerals, oil and AI - Axios"
+date: 2026-01-06
+description: "The \"Donroe Doctrine\" and the war for minerals, oil and AI&nbsp;&nbsp;AxiosU.S. May Seek Critical Minerals In Venezuela To Diversify Supply Chain&nbsp;&nbsp;ForbesSanjayovacha | New Delhi Needs To Reject Trump’s Donroe Doctrine | Sanjaya Baru&nbsp;&nbsp;Deccan ChronicleVenezuela turmoil reveals wider US strategy to secure Taiwan and counter Chinese use of rare earth pressure tactics&nbsp;&nbsp;Organiser"
+summary: "The \"Donroe Doctrine\" and the war for minerals, oil and AI&nbsp;&nbsp;AxiosU.S. May Seek Critical Minerals In Venezuela To Diversify Supply Chain&nbsp;&nbsp;ForbesSanjayovacha | New Delhi Needs To Reject Trump’s Donroe Doctrine | Sanjaya Baru&nbsp;&nbsp;Deccan ChronicleVenezuela turmoil reveals wider US strategy to secure Taiwan and counter Chinese use of rare earth pressure tactics&nbsp;&nbsp;Organiser"
+slug: "the-donroe-doctrine-and-the-war-for-minerals-oil-and-ai-axios"
+image: ''
+link: 'https://news.google.com/rss/articles/CBMihwFBVV95cUxQYjRRaTRQVnN2ZW84SUtFS2pmYTE0Q0NMWHRsNFJCaFpUbV9lbXB4ekpWUmV1SklweGdlcmhjUnh6QVhBOVk0X21pYVViQy1uTjAxckQxUXA4ZDNYSms5NmNDRndtSTZ5dXdGMEdRMmh4LWlzN2Y4X1F5UWZGeU05bHgzZVRiMkE?oc=5'
+source: 'https://news.google.com/rss/topics/CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx1YlY4U0FtVnVHZ0pWVXlnQVAB?hl=en-US&gl=US&ceid=US:en'
+categories:
+- 'news.google.com'
+tags:
+- 'doctrine'
+- 'minerals'
+- 'donroe'
+- 'axios'
+
+draft: false
+---
+<ol><li><a href="https://news.google.com/rss/articles/CBMihwFBVV95cUxQYjRRaTRQVnN2ZW84SUtFS2pmYTE0Q0NMWHRsNFJCaFpUbV9lbXB4ekpWUmV1SklweGdlcmhjUnh6QVhBOVk0X21pYVViQy1uTjAxckQxUXA4ZDNYSms5NmNDRndtSTZ5dXdGMEdRMmh4LWlzN2Y4X1F5UWZGeU05bHgzZVRiMkE?oc=5" target="_blank">The "Donroe Doctrine" and the war for minerals, oil and AI</a>&nbsp;&nbsp;<font color="#6f6f6f">Axios</font></li><li><a href="https://news.google.com/rss/articles/CBMiuAFBVV95cUxObHpvMFN0bVFyRjBheDUtLVlLTFBGc0p6NXo4QkhwUGJHSzdvUGtrbEQ1X2lMWVVMeGVLQ3dNZ2pGMUdYYXUwNUJ6bTdpcnF5LTBiM0NHRndSZWs3Q0o4cDlFa2Rtck1XWnpNU25YSHI3ZWZncjNobXdqWVRyQjlSaTZxdmFhcjJnSFkxUUxvM0JFQ3cwZ0hHMWJWbXJ0b2JpOUdkMWVuNlBhQTl0UVNWRGpNOGt0cGhq?oc=5" target="_blank">U.S. May Seek Critical Minerals In Venezuela To Diversify Supply Chain</a>&nbsp;&nbsp;<font color="#6f6f6f">Forbes</font></li><li><a href="https://news.google.com/rss/articles/CBMizgFBVV95cUxNVThnWlFrVHNCYTZzMzZnWFBiYjhHVEk4eGp5R0FSdTZJODFLMDItN3cyNTFWMDN0RGhHWU9fNUlWUFVnek1ZM3Qza0FnNWppU25kZ1lleXlLMmt0TXBSTmdrU2Z1S093cVhFVVRfTUhzMGdzb2F5eW4tUW1BS0FiSVQ0bTRPNklqdGdWcm1yX1RQLVZlRW9vTEhMMWp0THZSVXl3aGNweThHY2FrdGJha0JWWlNXeXlkNktKS2ZSb2w5WTFrOEMxNzJhVVFuQdIB0wFBVV95cUxOUVBuT3pvNzRyM19jN1NQTlVGQndyRFl6c2E5Nkd0aVlwRS0wRUR1cm9hYTNvZkl0V0ZnUlV5RTRMZGxsa3ZEalVrc2txUks3cFl5WUU4QVM4azR2RzRrZF9GdHpUYy1GVTNWc2FZWnB3eXRRQ0YzaXg5UUpSNU03aTZ3bXoxdDRobWVvY3J0aVhBU3dCQ2x6Vjlvck9iSXJ3RVNIVDZkU1BQV1lFNHFlZUEzV2FhUUtXeWdhVDRfbnd1NHB0Rlp5ZnEtVDJNTnBDTGVN?oc=5" target="_blank">Sanjayovacha | New Delhi Needs To Reject Trump’s Donroe Doctrine | Sanjaya Baru</a>&nbsp;&nbsp;<font color="#6f6f6f">Deccan Chronicle</font></li><li><a href="https://news.google.com/rss/articles/CBMi9AFBVV95cUxOYkxKMDVuaDl0Q2tfcUFuOWI3aXRTa1VqbTRheVlIQjdfQ3FBZzBWS1A1U2R5ZVliS0Y0Wk1xLUdiZWpqeFc5cjVWbERqdUZWQUZaTHduVzJQNVVuSVVMcmRxcEgyWERwWTR0TW1OV2ZEQXRnb2d3d0hfUVJ5LWhuYUZNRlRyNE1QMmNGbktXams4UnBYUkpZd0xwR2xzbVpIQkxOcndScm9feWpRSlA1UUJuQjhwRlhRdlBFUTVNQ2Jrc1EydDZnZGxXRjQxZXV2YmhuOUxKMUk1b0p2NmhSQ2dzWlpOZ3V1SEtad19lVEtCRFVZ0gH6AUFVX3lxTE5kTGU4d1Q0UVRuQ1lIRHNHeWNOUktnYkRDQ21aLTByRmFOcEVVVXdrVW5ESVFERHNseXhqZjlHdUFvZ09kUU5xWWtqYlM5UjJpTUpWTUp6UUNLaVNjLUlmQkQ0SVk0QU9VSFBLOGx6SzFYb0ZRaUNnd0w3WDdyWEI0YVpyVV9NTy03bXF0NmtuOFRoWGw3ejVIT25DYnZ4MHh5cFVMMXNNVGxqVGF1YzFYT3NuM3drcnhaaGxlNWlCMU5Ic29aWGRORW1KdDhPTzUwMmVRVGhSbUM5ZGhINlhsZ1hZWW1nRGZzcUk3THBfN3dYT3RkT0V5UFE?oc=5" target="_blank">Venezuela turmoil reveals wider US strategy to secure Taiwan and counter Chinese use of rare earth pressure tactics</a>&nbsp;&nbsp;<font color="#6f6f6f">Organiser</font></li></ol>
