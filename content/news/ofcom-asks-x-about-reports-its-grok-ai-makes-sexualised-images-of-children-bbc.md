@@ -1,0 +1,21 @@
+---
+title: "Ofcom asks X about reports its Grok AI makes sexualised images of children - BBC"
+date: 2026-01-06
+description: "Ofcom asks X about reports its Grok AI makes sexualised images of children&nbsp;&nbsp;BBCElon Musk's chatbot bikini image edits draw scrutiny from U.S. and global regulators&nbsp;&nbsp;AxiosX users tell Grok to undress women and girls in photos. It’s saying yes.&nbsp;&nbsp;The Washington PostEuropean Commission calls Grok's sexualised AI photos 'illegal,' Britain demands answers&nbsp;&nbsp;ReutersElon Musk's X faces probes in Europe, India, Malaysia after Grok generated explicit images of wome..."
+summary: "Ofcom asks X about reports its Grok AI makes sexualised images of children&nbsp;&nbsp;BBCElon Musk's chatbot bikini image edits draw scrutiny from U.S. and global regulators&nbsp;&nbsp;AxiosX users tell Grok to undress women and girls in photos. It’s saying yes.&nbsp;&nbsp;The Washington PostEuropean Commission calls Grok's sexualised AI photos 'illegal,' Britain demands answers&nbsp;&nbsp;ReutersElon Musk's X faces probes in Europe, India, Malaysia after Grok generated explicit images of wome..."
+slug: "ofcom-asks-x-about-reports-its-grok-ai-makes-sexualised-images-of-children-bbc"
+image: ''
+link: 'https://news.google.com/rss/articles/CBMiWkFVX3lxTE52Z0JzYmNwdFN4aE9Gc0VwNWMybEZHcUNjOFVNMzNia1ZpclNvVElJRGhKdUpsdVdWM0ZkeHU5UkwwU3dpT1hqTWZoNWljbUtfbWoyd2Y2cTAzQdIBX0FVX3lxTE5xM3RkSVlGZ2dCczlhMDg4bUs3b2ZoX1FEMjdwOGlaajBUaEQ5cTdiQUh1TUg5YTJab3RCQzh2NnRFSGZLTWpnQ19uaTgtQjllQ0JsREtIOFBkQmU4SFZV?oc=5'
+source: 'https://news.google.com/rss/topics/CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx1YlY4U0FtVnVHZ0pWVXlnQVAB?hl=en-US&gl=US&ceid=US:en'
+categories:
+- 'news.google.com'
+tags:
+- 'sexualised'
+- 'children'
+- 'reports'
+- 'images'
+- 'ofcom'
+
+draft: false
+---
+<ol><li><a href="https://news.google.com/rss/articles/CBMiWkFVX3lxTE52Z0JzYmNwdFN4aE9Gc0VwNWMybEZHcUNjOFVNMzNia1ZpclNvVElJRGhKdUpsdVdWM0ZkeHU5UkwwU3dpT1hqTWZoNWljbUtfbWoyd2Y2cTAzQdIBX0FVX3lxTE5xM3RkSVlGZ2dCczlhMDg4bUs3b2ZoX1FEMjdwOGlaajBUaEQ5cTdiQUh1TUg5YTJab3RCQzh2NnRFSGZLTWpnQ19uaTgtQjllQ0JsREtIOFBkQmU4SFZV?oc=5" target="_blank">Ofcom asks X about reports its Grok AI makes sexualised images of children</a>&nbsp;&nbsp;<font color="#6f6f6f">BBC</font></li><li><a href="https://news.google.com/rss/articles/CBMidEFVX3lxTFBsRFJTSHJGenRyazBLWmJxZWpWb09kQ2ppdDdOLWdSMmFyb1B4SHJWN0dPbHhpSkRWWUVCOWk3Mml6cWllS2ZDWVdzcFI2TjFmZ09VSzREN3VvN0xZVVhRTXhLa3VucDRKd3pCbUdQQXA1NEI0?oc=5" target="_blank">Elon Musk's chatbot bikini image edits draw scrutiny from U.S. and global regulators</a>&nbsp;&nbsp;<font color="#6f6f6f">Axios</font></li><li><a href="https://news.google.com/rss/articles/CBMiigFBVV95cUxPQWpLNk1YQ0Q0dXQ4dGhQbWNIeFNBY25kZTVCdko4Mm0xQ3BGWFpjOU5VWEd2ZFZleE42ZUhQQWFtWTNxN3otLUZ5TUctck1kSXpmcmUza0YzSmxFQnc2eUltajVDMnZOdXJreFd3OUdVcE1La1ViaWZfTU5iZmRuZWxlRExvWlVDSVE?oc=5" target="_blank">X users tell Grok to undress women and girls in photos. It’s saying yes.</a>&nbsp;&nbsp;<font color="#6f6f6f">The Washington Post</font></li><li><a href="https://news.google.com/rss/articles/CBMiywFBVV95cUxNZGlTbmZfSmk0MENFWHRKM21id0hUYUNSbFdDZmJGX1hUbzBTXzdPTW9fMmlhM2RuOGY1MWs3eHJ3Z210dnZpNGtrZjE0a2FfQVRwQkRodkE3Zi1pSEdjN09tV3dMc2p0ejJieC0yLVVyS2hrWWpOWFJ2b3JVOG84U1pTY29oQm10YXBpbnFNUEI4YWpmRUs1MjRCcUhFaHBlejZfMjM2SFc2NUx5eHNfUHJSSnlaOVJRWDFnZFhCR09odTBTOVhDWEZUdw?oc=5" target="_blank">European Commission calls Grok's sexualised AI photos 'illegal,' Britain demands answers</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font></li><li><a href="https://news.google.com/rss/articles/CBMipwFBVV95cUxOckRMQV9WbUZyUmFyUW1PQmwzYkozd2E3bFd2VnV4a3FneHRrdmlaTG9XUktZWkE0N0oyRFBRRV9PWlZKTDhvZ2hDQW1ZVEw2UXVZWlZLelptVHBBM0V6SGNMbF85dVRZbnk4ZFQ0LUtoaXB6VTRPVXBLR216X3JUSk8teVNtN2VvYkgzX05qdzNwVGJQZHdkdFRSX2RLVG94V3YtOVRmVdIBrAFBVV95cUxNNnJKb0FNSnc2Qlp3MFZuSFBPVi1FTzB0d0FkM2J5aHdCS3dHcUNKZmh1aXkyRldjbDhmbkxKZDNSNjF1bE9paUtUejFmWVlWSDYzVzZvVTdHdzdmeHpwY3hCZVJaRHRhMzhLTXZhaHlIajhtdXNzVUtSaUhTdFoxTUlTTDhjSlBaRWRoalNXTWQ3dC1ZZF9Xa0g4SDFHREVKcEFjblFzMzRZY21B?oc=5" target="_blank">Elon Musk's X faces probes in Europe, India, Malaysia after Grok generated explicit images of women and children</a>&nbsp;&nbsp;<font color="#6f6f6f">CNBC</font></li></ol>
