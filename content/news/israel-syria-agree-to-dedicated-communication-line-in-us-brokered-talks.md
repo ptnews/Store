@@ -1,8 +1,8 @@
 ---
 title: "Israel, Syria agree to dedicated communication line in US-brokered talks"
 date: 2026-01-06
-description: "This is a breaking news story."
-summary: "This is a breaking news story."
+description: "Joint mechanism will be used to de-escalate militarily, and may pave the road for an eventual security agreement."
+summary: "Joint mechanism will be used to de-escalate militarily, and may pave the road for an eventual security agreement."
 slug: "israel-syria-agree-to-dedicated-communication-line-in-us-brokered-talks"
 image: ''
 link: 'https://www.aljazeera.com/news/2026/1/6/israel-syria-agree-to-dedicated-communication-line-in-us-brokered-talks?traffic_source=rss'
@@ -18,4 +18,4 @@ tags:
 
 draft: false
 ---
-This is a breaking news story.
+Joint mechanism will be used to de-escalate militarily, and may pave the road for an eventual security agreement.
