@@ -1,0 +1,19 @@
+---
+title: "Why does Trump want Greenland? - The New York Times"
+date: 2026-01-07
+description: "Why does Trump want Greenland?&nbsp;&nbsp;The New York TimesWhy Trump wants Greenland — and what makes it so important for national security&nbsp;&nbsp;CNBCDenmark, Greenland seek Rubio meeting after Trump remarks&nbsp;&nbsp;The HillThe US has tried to acquire Greenland before – and failed&nbsp;&nbsp;CNNWhite House says U.S. military is an option to acquire Greenland&nbsp;&nbsp;NBC News"
+summary: "Why does Trump want Greenland?&nbsp;&nbsp;The New York TimesWhy Trump wants Greenland — and what makes it so important for national security&nbsp;&nbsp;CNBCDenmark, Greenland seek Rubio meeting after Trump remarks&nbsp;&nbsp;The HillThe US has tried to acquire Greenland before – and failed&nbsp;&nbsp;CNNWhite House says U.S. military is an option to acquire Greenland&nbsp;&nbsp;NBC News"
+slug: "why-does-trump-want-greenland-the-new-york-times"
+image: ''
+link: 'https://news.google.com/rss/articles/CBMifEFVX3lxTE1TS3lmeWM3emhGNV84WUQxR3FvckxUQTFsNzBHQ296MkFIakE1RFNmcWtQczM1RXZjdkxncFRGMndlZWgybVlLVktJU1V0Z3BJYWE2QnM3TGJ6aEtsVE1oLWp3VmwzSjVWeU01dmhPaHBXc3FRSzRvdlFMR18?oc=5'
+source: 'https://news.google.com/rss/topics/CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx1YlY4U0FtVnVHZ0pWVXlnQVAB?hl=en-US&gl=US&ceid=US:en'
+categories:
+- 'news.google.com'
+tags:
+- 'greenland'
+- 'trump'
+- 'times'
+
+draft: false
+---
+<ol><li><a href="https://news.google.com/rss/articles/CBMifEFVX3lxTE1TS3lmeWM3emhGNV84WUQxR3FvckxUQTFsNzBHQ296MkFIakE1RFNmcWtQczM1RXZjdkxncFRGMndlZWgybVlLVktJU1V0Z3BJYWE2QnM3TGJ6aEtsVE1oLWp3VmwzSjVWeU01dmhPaHBXc3FRSzRvdlFMR18?oc=5" target="_blank">Why does Trump want Greenland?</a>&nbsp;&nbsp;<font color="#6f6f6f">The New York Times</font></li><li><a href="https://news.google.com/rss/articles/CBMiqgFBVV95cUxNWnFYT1l0b1R4d2dzRE1GMl9QSVRpQ3FFcXV1b3hkMk5ZLXpHTjNJV1BSV2FiT3dWNUFGRFp3UkdvUTRpcWpBNzN1Z3NVSENGdXMtXzk3dVdhc3l4bGhjTVJaSEpmSjBCOV9qdjY5eDZrTEtSM1kxN1FfTmthSTB2anR4VHlmZVpBb3FEaFFmNlBUd1h6ZWswWHZ0YVlXdUV6MVR0bUFZLVZqQdIBrwFBVV95cUxQdW5STm1OVjhfRWdfREppUFFFa3dLNUZFeFZScTZYWHBJcHVLd015RjJrSEdLSUN6N3BlQzZhV25CM09maUtGSUNOYWNhWWNoZHF4UUNxeGJwWHQxNWJBT3NpQ2czd1V0N3l1ajhfOUZiOFJDU2Jkcmo3aXVFVWFrUzlxOUxzc1lfYkVrdnhCSXVmVGVlalhoTElOdVlya0R6WnNKYUhRYTAzd0FFWWdJ?oc=5" target="_blank">Why Trump wants Greenland — and what makes it so important for national security</a>&nbsp;&nbsp;<font color="#6f6f6f">CNBC</font></li><li><a href="https://news.google.com/rss/articles/CBMijgFBVV95cUxQZDFvS29DX0tsT1VJMkR2akJvYkdTd0l4dXNpVTJ0X0VIbndhaUNLUm5lZEROcmh6MUkwSnJidlA3U2pyeEFnM0M1MFJVbXVfTFlfNDZHeVlDSFBZT0s5R2RqeHc2bk15LVJqVFdZamVMUEFWYi0zb3dNd0VFVFBTSGh6WFJKY1I5d25wMzRR0gGTAUFVX3lxTE1hNzBwdll4azFfXy1fTHJCWTRXT2JQWUlLbXFmTWMyLU9LNDZMZDh3MmlCcXRIYWNRcDZvekxmYjhudlJzSzV3UGs5b1ZLZ3RrcjFFb09FMHFwTWR0UjJuV3RNVkF4MWxlWVNvbEZER1F0WC1lRVFuWmRvS0pwdW1uX1k0WGtzNnotTVJxYXpuLVEwOA?oc=5" target="_blank">Denmark, Greenland seek Rubio meeting after Trump remarks</a>&nbsp;&nbsp;<font color="#6f6f6f">The Hill</font></li><li><a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxNX0l1QVRRbWJyWERZalY2WGNFTXJnSDZoeUV2ek5BX3QxV2MtdWZ5UFo0bTROdFk4SHQ3dEdRTkV4Q2hRUERpUUZfQ18wdUhXb1c0UzNjY01VZ3FHb3Z5d1BTRXNBMGRFa29MdGp5c1hoRVJZa29wdFdXeWw2M3dIUVdfS1M?oc=5" target="_blank">The US has tried to acquire Greenland before – and failed</a>&nbsp;&nbsp;<font color="#6f6f6f">CNN</font></li><li><a href="https://news.google.com/rss/articles/CBMitgFBVV95cUxOSXR6QVFpYTdyUHkxeUx1aU1QRjR2QUUwd2VhLUhZa2hFX0l6VWg4MDA3MWRSMjJNMjFDWnZObGhIRU5xdTktSHlTUXlnakxUeS1QbkM0eHJfNkpLVDkzVmsxTzctX2kxdm1nRDNYaVoxWjVPSEpUVGNsMHRSYTY2Z2hqWkdoY2J0UlhxMXFXb0ZlR185LXp0U0ZPMHdnUmxGdHVRM245a1dHdy0yS0t2UmJBOEFnUdIBVkFVX3lxTE90aG9UdExFX1Z0ZTA0RTdsMEZXTEw0NllxdGJkN21xcWFXZ0NxMlVxYjdEOHlCSWtkaWpCQ2NxN2ZwSUtoZnFtUGh4MVNjU1lpaGVhRzVB?oc=5" target="_blank">White House says U.S. military is an option to acquire Greenland</a>&nbsp;&nbsp;<font color="#6f6f6f">NBC News</font></li></ol>

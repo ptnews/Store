@@ -1,0 +1,21 @@
+---
+title: "After Trump’s Military Victory in Venezuela, Cuba’s Economy Is in ‘Freefall’ - The New York Times"
+date: 2026-01-07
+description: "After Trump’s Military Victory in Venezuela, Cuba’s Economy Is in ‘Freefall’&nbsp;&nbsp;The New York TimesCuba on the Brink&nbsp;&nbsp;Foreign AffairsCuba's Tourism Could Boom if Trump Liberates Its People Like Venezuela&nbsp;&nbsp;The World Property JournalCommunist-ruled Cuba has been mired in a severe economic crisis for years due to tightened US sanctions, the low productivity of its centrally planned economy, the collapse of tourism, and failure of monetary reforms&nbsp;&nbsp;Island..."
+summary: "After Trump’s Military Victory in Venezuela, Cuba’s Economy Is in ‘Freefall’&nbsp;&nbsp;The New York TimesCuba on the Brink&nbsp;&nbsp;Foreign AffairsCuba's Tourism Could Boom if Trump Liberates Its People Like Venezuela&nbsp;&nbsp;The World Property JournalCommunist-ruled Cuba has been mired in a severe economic crisis for years due to tightened US sanctions, the low productivity of its centrally planned economy, the collapse of tourism, and failure of monetary reforms&nbsp;&nbsp;Island..."
+slug: "after-trump-s-military-victory-in-venezuela-cuba-s-economy-is-in-freefall-the-new-york-times"
+image: ''
+link: 'https://news.google.com/rss/articles/CBMiiAFBVV95cUxPSEo3dElEM0VHQk1tYUF1UkJJWUtSclkxUWNhSkVWbzJyNmNaMHdUMnpBU3g5dmJ4RExKMkhsNk5tZ2pPOGJTaGVwSXU2OFh0TExZMmlnM3dBYU9lcmVWRzBGb0xQbzVaR3FzMFhZQjc3Q2Q3X3ZHQ0hTTTFUd2pZNFl1MkdYX2Rl?oc=5'
+source: 'https://news.google.com/rss/topics/CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx1YlY4U0FtVnVHZ0pWVXlnQVAB?hl=en-US&gl=US&ceid=US:en'
+categories:
+- 'news.google.com'
+tags:
+- 'venezuela'
+- 'military'
+- 'freefall'
+- 'victory'
+- 'economy'
+
+draft: false
+---
+<ol><li><a href="https://news.google.com/rss/articles/CBMiiAFBVV95cUxPSEo3dElEM0VHQk1tYUF1UkJJWUtSclkxUWNhSkVWbzJyNmNaMHdUMnpBU3g5dmJ4RExKMkhsNk5tZ2pPOGJTaGVwSXU2OFh0TExZMmlnM3dBYU9lcmVWRzBGb0xQbzVaR3FzMFhZQjc3Q2Q3X3ZHQ0hTTTFUd2pZNFl1MkdYX2Rl?oc=5" target="_blank">After Trump’s Military Victory in Venezuela, Cuba’s Economy Is in ‘Freefall’</a>&nbsp;&nbsp;<font color="#6f6f6f">The New York Times</font></li><li><a href="https://news.google.com/rss/articles/CBMiWkFVX3lxTFBFWUh4Ql9vaC1jVS1LenY5ZHFtdHlOclA0UThqNXBTRW9xZWZIM1JEXzlTR01hLTVRZlBjZVY4aHNDZnFzVm91MlhXcmQyTi1yUEdWN3ZzaDVpdw?oc=5" target="_blank">Cuba on the Brink</a>&nbsp;&nbsp;<font color="#6f6f6f">Foreign Affairs</font></li><li><a href="https://news.google.com/rss/articles/CBMiygJBVV95cUxNQzdwNk40YlIyelYycUZCTWQ4allGQ2tBTDFtMi1mZnJNalpZa2VZMVpxMGh3UHE2U3JMZEs3YmIzeFh1Mm9DcTRxSVZ5YWI0Y25rakZNMjhMOFljR1p6MTRkMl9EaF9lQkpzUUtZSEhZNWhnc2RiRUVRb01GNHJsTzJha2tRNDA4NDFvLUdOWm5uRWtjNUdrQ2pjVkV4bk9ocXF4bVdZZUVBajByelFXTUVsSk0zUUdTZy15UWFsc3pIVURSdXRIbUdOMjZ2bWV5Yk9ZaTc4cno2dEQyVzBfUExTX1lPUnlJX1lfd3RqQk55S2dkV0xBTEdoYW53UEI2UEU0MUNFTWJ5M2IzOFR6Wm9DRmtqSXRnSjhMbVd2OFRyWmJYWjhuOVdUSDhHRFo1SEJLS3RNenBMSGhiMDQ4MEV2ek5rR1ZkelE?oc=5" target="_blank">Cuba's Tourism Could Boom if Trump Liberates Its People Like Venezuela</a>&nbsp;&nbsp;<font color="#6f6f6f">The World Property Journal</font></li><li><a href="https://news.google.com/rss/articles/CBMigAJBVV95cUxPN0RhRFJhVTdjRktQVlZUSUVBc3ZhNmU1NWdZVmtzaFRiNGc5Y0N0bWlwbFZ3NWo1VE52cFl1RXdOZkF0TEJsb3VyQ3J5R1NYREN3dDZvbVc3Q0JnNlA5aXNqdzgxSkEtSFdORWxGY3RKekx3ZElZbDhTbUpSR25ucXYyWXZkcVZtNzVmaWEtQ1BOeFZBR2tvR2NrSVBRV1dPaTJqVVNwSGZYOW5YQ28wR0ZvdWl0elM2ZFRDczB5U3VXcEhmSVE1bkktOUgyQjhneUJmOXl0NDR1blFjZFpRbkYyZWFYZTFkTS13WTJ2c0RqcWU2dzVZMkQ0UFB1cm5M?oc=5" target="_blank">Communist-ruled Cuba has been mired in a severe economic crisis for years due to tightened US sanctions, the low productivity of its centrally planned economy, the collapse of tourism, and failure of monetary reforms</a>&nbsp;&nbsp;<font color="#6f6f6f">IslanderNews.com</font></li><li><a href="https://news.google.com/rss/articles/CBMilgFBVV95cUxPZF9VTVZJbndKRXVyc0NBUWh1eTJxVkY2LUFoOGl5anNQQ2diYzdaZC1MM19aaVBhS2VOSUluTnlBMHNTYzd0NUJtTk1hTkR2T1pRNHJITF9OTWQ2MVVNaXpSNzdZdGEzaV9MM245dlNfSVNPa1B4Ul9DazBRM09acGtiQmYxMkh3ZTFfSXcydXNieEFrUWc?oc=5" target="_blank">^GSPC Today: January 04 — Rubio, Trump Put Cuba Sanctions Risk Back</a>&nbsp;&nbsp;<font color="#6f6f6f">Meyka</font></li></ol>

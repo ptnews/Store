@@ -1,0 +1,21 @@
+---
+title: "Uvalde trial halted after key witness changes testimony"
+date: 2026-01-07
+description: "Uvalde shooting trial halted after key witness reportedly changes testimony about officer&apos;s location during 2022 attack that killed 21 at Robb Elementary."
+summary: "Uvalde shooting trial halted after key witness reportedly changes testimony about officer&apos;s location during 2022 attack that killed 21 at Robb Elementary."
+slug: "uvalde-trial-halted-after-key-witness-changes-testimony"
+image: ''
+link: 'https://www.foxnews.com/us/uvalde-trial-halted-after-key-witness-changes-testimony'
+source: 'https://feeds.foxnews.com/foxnews/latest'
+categories:
+- 'feeds.foxnews.com'
+tags:
+- 'testimony'
+- 'witness'
+- 'changes'
+- 'uvalde'
+- 'halted'
+
+draft: false
+---
+<p>The trial of a former <a href="https://www.foxnews.com/category/us/us-regions/southwest/texas" target="_blank" rel="noopener">Uvalde, Texas</a>, school police officer accused of not doing more to save lives in the 2022 shooting that left 21 dead was halted after a key witness reportedly changed her testimony. </p><p>Adrian Gonzales has pleaded not guilty to 29 counts of child abandonment or endangerment following the attack at Robb Elementary. He could be sentenced to a maximum of two years in prison if he’s convicted, prosecutors said.   </p><p>Former teacher Stephanie Hale <a href="https://www.foxnews.com/category/us/crime/trials" target="_blank" rel="noopener">testified on Tuesday</a> that she saw the shooter on the south side of the campus, the same area where Gonzales was located, according to Texas Public Radio. </p><p>However, defense attorneys objected, arguing her testimony was different compared to statements Hale made to a Texas Ranger during a 2022 investigation when she placed the shooter closer to Gonzales than previously indicated, <a href="https://www.tpr.org/criminal-justice/2026-01-06/uvalde-trial-weighs-criminal-responsibility-in-school-shooting-response" target="_blank" rel="nofollow noopener">the outlet added. </a></p><p><a href="https://www.foxnews.com/us/trial-underway-former-uvalde-school-police-officer-accused-slow-response-shooting" target="_blank" rel="noopener"><strong>TRIAL UNDERWAY FOR FORMER UVALDE SCHOOL POLICE OFFICER ACCUSED OF SLOW RESPONSE TO SHOOTING</strong></a></p><p>The jury in the trial was then dismissed until Thursday as attorneys are preparing arguments on motions related to Hale’s testimony, the report said. The judge in the case is expected to hear those arguments on Wednesday, and the defense has raised the possibility of a mistrial, Texas Public Radio also reported. </p><p>Gonzales, who was among the first to respond to the attack, arrived while the teenage assailant was still outside the building. The officer allegedly did not make a move, even when a teacher pointed out the direction of the shooter, special prosecutor Bill Turner said Tuesday during opening statements in the trial.  </p><p>The officer only went inside Robb Elementary minutes later "after the damage had been done," Turner said. </p><p><a href="https://www.foxnews.com/us/ex-uvalde-school-police-chief-officer-indicted-over-response-elementary-mass-shooting-reports" target="_blank" rel="noopener"><strong><u>FORMER UVALDE SCHOOL POLICE CHIEF, OFFICER INDICTED OVER RESPONSE TO ELEMENTARY MASS SHOOTING</u></strong></a></p><p>"When you hear gunshots, you go to the gunfire," Turner added, noting that Gonzales, a 10-year veteran of the police force, had extensive active shooter training. </p><p>An indictment accused Gonzales of putting children in "imminent danger" of injury or death by failing to engage, distract or delay the shooter and by not following his training. The allegations also said he did not go toward the gunfire despite hearing shots and being told the shooter’s location. </p><p>Gonzales' attorneys disputed accusations that he did nothing at what they called a chaotic scene, saying that he helped evacuate children as other police arrived.</p><p>"The government makes it want to seem like he just sat there," defense attorney Nico LaHood said on Tuesday. "He did what he could, with what he knew at the time." </p><p><i>The Associated Press contributed to this report.</i> </p>
