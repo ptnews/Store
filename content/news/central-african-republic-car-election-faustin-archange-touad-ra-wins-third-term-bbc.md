@@ -1,0 +1,21 @@
+---
+title: "Central African Republic (CAR) election: Faustin-Archange Touadéra wins third term - BBC"
+date: 2026-01-07
+description: "Central African Republic (CAR) election: Faustin-Archange Touadéra wins third term&nbsp;&nbsp;BBCCentral African Republic President Touadera wins re-election, results show&nbsp;&nbsp;ReutersCentral African Republic's Touadera wins third presidential term&nbsp;&nbsp;France 24Re-Elected President of Central African Republic Invites Russia's Putin to Visit, TASS Says&nbsp;&nbsp;U.S. News & World ReportCentral African Republic President Faustin Archange Touadéra reelected, provisional results show..."
+summary: "Central African Republic (CAR) election: Faustin-Archange Touadéra wins third term&nbsp;&nbsp;BBCCentral African Republic President Touadera wins re-election, results show&nbsp;&nbsp;ReutersCentral African Republic's Touadera wins third presidential term&nbsp;&nbsp;France 24Re-Elected President of Central African Republic Invites Russia's Putin to Visit, TASS Says&nbsp;&nbsp;U.S. News & World ReportCentral African Republic President Faustin Archange Touadéra reelected, provisional results show..."
+slug: "central-african-republic-car-election-faustin-archange-touad-ra-wins-third-term-bbc"
+image: ''
+link: 'https://news.google.com/rss/articles/CBMiWkFVX3lxTE1fT0RHVmJMcEZ4LTVaa2JKQV8wNTI5N0RQdEZheVpJZG81ZVlMTENtWUZ2OVJvMG1QRDh2N2tZMU5sbDZZZWh5VmQ5NEg0LVd1akQ4MGpnRXNkd9IBX0FVX3lxTE1jTW5sT2FqT3VUOHNvVnhwUzZHTVpZLWNmczcwUDVTRko0d3ZscjlTWWNFYkxjMGdFNzRPR2txX3pQd2QtYVp6RWZQb2s1b2MxMEV3YktPVFpqSnhLaEVB?oc=5'
+source: 'https://news.google.com/rss/topics/CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx1YlY4U0FtVnVHZ0pWVXlnQVAB?hl=en-US&gl=US&ceid=US:en'
+categories:
+- 'news.google.com'
+tags:
+- 'republic'
+- 'election'
+- 'archange'
+- 'central'
+- 'african'
+
+draft: false
+---
+<ol><li><a href="https://news.google.com/rss/articles/CBMiWkFVX3lxTE1fT0RHVmJMcEZ4LTVaa2JKQV8wNTI5N0RQdEZheVpJZG81ZVlMTENtWUZ2OVJvMG1QRDh2N2tZMU5sbDZZZWh5VmQ5NEg0LVd1akQ4MGpnRXNkd9IBX0FVX3lxTE1jTW5sT2FqT3VUOHNvVnhwUzZHTVpZLWNmczcwUDVTRko0d3ZscjlTWWNFYkxjMGdFNzRPR2txX3pQd2QtYVp6RWZQb2s1b2MxMEV3YktPVFpqSnhLaEVB?oc=5" target="_blank">Central African Republic (CAR) election: Faustin-Archange Touadéra wins third term</a>&nbsp;&nbsp;<font color="#6f6f6f">BBC</font></li><li><a href="https://news.google.com/rss/articles/CBMiyAFBVV95cUxNa2dJMTBoaFpCaTVuQzNteW5naDRxWEE5OVRXbWpya0YzcjRiRzJSb1hEdUZNRUQxYkZqckUtR3dTUUlQdW8tY1EwV3pZdEJDeHl2cXpIRlNYeTVWY0NuT2M1MTJOZ3lXSEtoUXhIa2d4SmVERS1uc19kOWJiYXp6NzBaVktOOWZac2R1aHUtVmQ0UkdfeldnRXVwYXFfU0dXN20tVmxFUGRvVkw1dEQwNmRiaUJhdVNPVHpLMWpMazlPeXVHclRjYw?oc=5" target="_blank">Central African Republic President Touadera wins re-election, results show</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font></li><li><a href="https://news.google.com/rss/articles/CBMivwFBVV95cUxPLWNiZFZENERVaHl6dDZVN21GeTRLOEp1dVJCMkh0Nlk5UUhGQVhQUjEyM2hsMzZ6OG9wTkdkc0lyV2pqMHFhZS1TcnJrTGd2TTBPREtqSTUzWlVLT29TdU9JOEFEeEtTZHVQU3o4VFNOMzNyVWdLbDFSdHl6WmJRZERPVEtxVnh2U2t6T1V6VG5xWFduT1QySlJRQkVKdkc1Y2ZWRWZ6VEN1WTdubFlYaW9tOXUzWG9OQ1JjZGJ1Zw?oc=5" target="_blank">Central African Republic's Touadera wins third presidential term</a>&nbsp;&nbsp;<font color="#6f6f6f">France 24</font></li><li><a href="https://news.google.com/rss/articles/CBMi2wFBVV95cUxOel96Z1lscjlzbk5oYndPb2ZVWHhqNlM5MGdac1IyaFllSkZiXzVPYUlfWXU1LWxxcURJeG15aTZSMjdRTElqYkhKNnpsYXpNaF9JZkN6eDlvbF9yOExobnZqN3c5Vmh5MUY2Z093czBSbk1OSUpES1Q0MVlSZHZQZnpKNTJDWEJNOXUzemo3eXVxWkF6WFYzMWZOUm1jZ0VYUHIwanNMWHlsMENzdmowekpnc2ZZVXoySFVYeElGQmhzYmlLd0ZvcEVFelFWQkNYYnhYWUtfd2E4cTg?oc=5" target="_blank">Re-Elected President of Central African Republic Invites Russia's Putin to Visit, TASS Says</a>&nbsp;&nbsp;<font color="#6f6f6f">U.S. News & World Report</font></li><li><a href="https://news.google.com/rss/articles/CBMi3gFBVV95cUxQNkNmbEtQSXBJYkR5b3VCQjZFNFIzNTdrZUxhSElxR2JZMkREM2hodFRoWEUxenhhQXM0aW9OMzZqNzFEZXFLWGR2aGF3b1lXUXUyY25SWG1WMnV1a1c1RU9NYzFXeWN6cHFWTTczSjJhemNKVzVENlVRd3JaU0FZQ3d0RFhjdld0YXhSZkQ0enpOeDhvSFNrMm52RXVBaDNXdmRVUERDbmN4QnVQend0ajZibU8yYm9zcjIydEVLbFN2WGdCRUpPeGhHeW9fNElKTkRTbGtMOE9iSXk0VVE?oc=5" target="_blank">Central African Republic President Faustin Archange Touadéra reelected, provisional results show</a>&nbsp;&nbsp;<font color="#6f6f6f">livingstonenterprise.net</font></li></ol>
