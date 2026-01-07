@@ -1,0 +1,21 @@
+---
+title: "Ukraine war briefing: US backs European ceasefire security guarantees for first time - The Guardian"
+date: 2026-01-07
+description: "Ukraine war briefing: US backs European ceasefire security guarantees for first time&nbsp;&nbsp;The GuardianUS backs security guarantees for Ukraine at summit of Kyiv's allies in Paris&nbsp;&nbsp;ReutersFrance and UK commit to deploying troops to Ukraine if ceasefire is agreed with Russia&nbsp;&nbsp;ABC NewsEuropean Allies Agree to Key Security Provisions for Ukraine&nbsp;&nbsp;The New York TimesUkraine updates: Zelenskyy seeks 'concrete results' in Paris&nbsp;&nbsp;DW"
+summary: "Ukraine war briefing: US backs European ceasefire security guarantees for first time&nbsp;&nbsp;The GuardianUS backs security guarantees for Ukraine at summit of Kyiv's allies in Paris&nbsp;&nbsp;ReutersFrance and UK commit to deploying troops to Ukraine if ceasefire is agreed with Russia&nbsp;&nbsp;ABC NewsEuropean Allies Agree to Key Security Provisions for Ukraine&nbsp;&nbsp;The New York TimesUkraine updates: Zelenskyy seeks 'concrete results' in Paris&nbsp;&nbsp;DW"
+slug: "ukraine-war-briefing-us-backs-european-ceasefire-security-guarantees-for-first-time-the-guardian"
+image: ''
+link: 'https://news.google.com/rss/articles/CBMiyAFBVV95cUxPRk5HQzljSjhKQm9CQmhrNWtMSTBZeUVOdDlyQmdiTHVUU0d1RXpKcl9QVlJOalNRSDRoZEYzblJ5MXM2a0FjNERqX3FmYkRRMEdlVUs1MmZoQnJJRDFSV3FzX3N6UTk1R1V5TjBkNXFmdjhaU2dfXzFZdGtGdjZqWmkwZGpreF9tMXF4NFNENksxYkhyaXIxbnB2YUxMRHNYcFFYZVpWaXVEWjhJQm0wbVRQSU1RbUVUQjNFNGNNYUlZZnRQUGQ4cg?oc=5'
+source: 'https://news.google.com/rss/topics/CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx1YlY4U0FtVnVHZ0pWVXlnQVAB?hl=en-US&gl=US&ceid=US:en'
+categories:
+- 'news.google.com'
+tags:
+- 'guarantees'
+- 'ceasefire'
+- 'briefing'
+- 'european'
+- 'security'
+
+draft: false
+---
+<ol><li><a href="https://news.google.com/rss/articles/CBMiyAFBVV95cUxPRk5HQzljSjhKQm9CQmhrNWtMSTBZeUVOdDlyQmdiTHVUU0d1RXpKcl9QVlJOalNRSDRoZEYzblJ5MXM2a0FjNERqX3FmYkRRMEdlVUs1MmZoQnJJRDFSV3FzX3N6UTk1R1V5TjBkNXFmdjhaU2dfXzFZdGtGdjZqWmkwZGpreF9tMXF4NFNENksxYkhyaXIxbnB2YUxMRHNYcFFYZVpWaXVEWjhJQm0wbVRQSU1RbUVUQjNFNGNNYUlZZnRQUGQ4cg?oc=5" target="_blank">Ukraine war briefing: US backs European ceasefire security guarantees for first time</a>&nbsp;&nbsp;<font color="#6f6f6f">The Guardian</font></li><li><a href="https://news.google.com/rss/articles/CBMiwwFBVV95cUxQOURWTk1ISkdRU1FWcGZYUERnMDNqQjZ4ZG9GZFgxQ0UySjJCaTVxNG90WnVmVjRERm5GbVdPZG9NS0N4cnhZb0tHcXk1Mm9zeHRFSWdrWjVQOHJOQnBjUF9LWnNNNk1jVDMzXzZib05ySlVTTDU3UWFoWWNXLWQ2ZnpQbEJORXh2bzllUFJPMkRUMDJ1MnZ6M3JKTy1SYmNpb3ZOeFJIZWxqZmVVNkpqNmNzQTFkcUdkVF91MjhxLXMwZTQ?oc=5" target="_blank">US backs security guarantees for Ukraine at summit of Kyiv's allies in Paris</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font></li><li><a href="https://news.google.com/rss/articles/CBMitAFBVV95cUxPX3JWcG5LX0Z5MW1lT25pWU5UQ0NjcmFOeUNNWGFxMmszelI4N3JBSXFkcVhYLUExY3lqR2RNSTdjU3EyMkg4SXdyU0hCUmN2LWpMX05UTjhxT2l4VWpNRmtQLW1wYmgxazZfS0RfV2Vnc2t3bmpQVTJwVjVzakZEMmNqZmJOOEZTWldQMzhuVENSdnI1YVFZY2daajEtaVRjaW9XZGMyVUJwcXF0N00tOXEyaGLSAboBQVVfeXFMT3F1Z1lQcnV0Z3FtLW1nVUFkTlpnWkNXTnAxWWsyWHlKVzJSWG9ub01vN0xITkROMHZHTG1zMGM3Ym45TDlfUjNSek5hNU9ld3lwWC1CaW1uUUY4ZUJFZ3ZDY0tvaUlZZ0VtT2wxbEluY2Nrck50SlBQN3hqbGVUcnZZdWdFcHUyREd1dWx1NlYxMDJFUEZkVlFBUWRHTVhwQTFfOW94cVNncjFaNURzN3M0dUc1NFVzeFdB?oc=5" target="_blank">France and UK commit to deploying troops to Ukraine if ceasefire is agreed with Russia</a>&nbsp;&nbsp;<font color="#6f6f6f">ABC News</font></li><li><a href="https://news.google.com/rss/articles/CBMifkFVX3lxTE9nZnBfalpYWmxJQzdxbUw0STI2UWVOTGpmSkVfbVZMdVJlakFTbHBnVy1RTWJ4c19CaUN0WnY1aDd5SFZQSmpuVENYUGUycmxabVd3VmdrUWU0TjVYb1NldWtkSmV5TUQ0cW9fUTluMGlTdkdzRHpBZzZYdlU1dw?oc=5" target="_blank">European Allies Agree to Key Security Provisions for Ukraine</a>&nbsp;&nbsp;<font color="#6f6f6f">The New York Times</font></li><li><a href="https://news.google.com/rss/articles/CBMimAFBVV95cUxOWVN3NmE0ajdad0VTLVhLalFNWGlNTXN6bVMyTTFIdHlrT3JIcFI0WTROamlMWlRXLWt4blY4WnFDZXljUURiOUNUWWhxelZDNEtoUm5Xa2JaWFktQnZMcC0zOF9ZNHRBdmpqajBJVklSNlc1T1MzWFVWaTBETlJ5MmVkTkFMQ2NPYnpkVjdwSmhEVTVPNXBVVg?oc=5" target="_blank">Ukraine updates: Zelenskyy seeks 'concrete results' in Paris</a>&nbsp;&nbsp;<font color="#6f6f6f">DW</font></li></ol>

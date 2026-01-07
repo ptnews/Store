@@ -1,0 +1,21 @@
+---
+title: "Saudi-led coalition strikes Yemen, says STC leader al-Zubaidi has fled - Al Jazeera"
+date: 2026-01-07
+description: "Saudi-led coalition strikes Yemen, says STC leader al-Zubaidi has fled&nbsp;&nbsp;Al JazeeraDelegation led by Yemen's main separatist group to travel to Saudi Arabia, sources say&nbsp;&nbsp;ReutersYemen's separatists announce a constitution for an independent south&nbsp;&nbsp;NPRYemen clashes bring Saudi and UAE-backed forces into confrontation&nbsp;&nbsp;BBCYemen's STC Leader Al-Zubaidi Flees, Saudi-Backed Coalition Says&nbsp;&nbsp;U.S. News & World Report"
+summary: "Saudi-led coalition strikes Yemen, says STC leader al-Zubaidi has fled&nbsp;&nbsp;Al JazeeraDelegation led by Yemen's main separatist group to travel to Saudi Arabia, sources say&nbsp;&nbsp;ReutersYemen's separatists announce a constitution for an independent south&nbsp;&nbsp;NPRYemen clashes bring Saudi and UAE-backed forces into confrontation&nbsp;&nbsp;BBCYemen's STC Leader Al-Zubaidi Flees, Saudi-Backed Coalition Says&nbsp;&nbsp;U.S. News & World Report"
+slug: "saudi-led-coalition-strikes-yemen-says-stc-leader-al-zubaidi-has-fled-al-jazeera"
+image: ''
+link: 'https://news.google.com/rss/articles/CBMirgFBVV95cUxObmtMMkpXa0dJQ1Y0UHdOQXcxU2NvdWo2UXdVaHY4d281Snd0cC1NeVpYeHFlZXF3Z09IR2I5ay03a01ucXo5dVJ1REIxN1IzMG1UbXpzRTJkTzY4bmVNbHc2eThCc3Q0a3VVdkZjYnU2V2djN0dSRzhzMFdFSUUwdFpPZ29ybC1yYXAycDhidk1ncVpJWHJ3TVJGd0EwMkZaUGx3M0dna3RzZzZYYXfSAbMBQVVfeXFMUFBndzduSGdMR1VLcFdFX0ZnY0lSeWJrSFFZcjFld1o5aUM2OXh5MXJBdDdyWWlMUzBOam40LU56WE1IbjNPTHJOc1p3emJPdHNfSDZHNnltbm80ek5fLXd0bzJIMjNTRzVVSVBrQk5UYi1mM3hpRzJkTURBWHlSSXFSVVl2YmRfQ2hYRWtwaTJKX3JMQlJod25BSUc4MlhOcTA5dXZ2MTd4R0hIT1dYY2dKZGM?oc=5'
+source: 'https://news.google.com/rss/topics/CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx1YlY4U0FtVnVHZ0pWVXlnQVAB?hl=en-US&gl=US&ceid=US:en'
+categories:
+- 'news.google.com'
+tags:
+- 'coalition'
+- 'strikes'
+- 'zubaidi'
+- 'jazeera'
+- 'leader'
+
+draft: false
+---
+<ol><li><a href="https://news.google.com/rss/articles/CBMirgFBVV95cUxObmtMMkpXa0dJQ1Y0UHdOQXcxU2NvdWo2UXdVaHY4d281Snd0cC1NeVpYeHFlZXF3Z09IR2I5ay03a01ucXo5dVJ1REIxN1IzMG1UbXpzRTJkTzY4bmVNbHc2eThCc3Q0a3VVdkZjYnU2V2djN0dSRzhzMFdFSUUwdFpPZ29ybC1yYXAycDhidk1ncVpJWHJ3TVJGd0EwMkZaUGx3M0dna3RzZzZYYXfSAbMBQVVfeXFMUFBndzduSGdMR1VLcFdFX0ZnY0lSeWJrSFFZcjFld1o5aUM2OXh5MXJBdDdyWWlMUzBOam40LU56WE1IbjNPTHJOc1p3emJPdHNfSDZHNnltbm80ek5fLXd0bzJIMjNTRzVVSVBrQk5UYi1mM3hpRzJkTURBWHlSSXFSVVl2YmRfQ2hYRWtwaTJKX3JMQlJod25BSUc4MlhOcTA5dXZ2MTd4R0hIT1dYY2dKZGM?oc=5" target="_blank">Saudi-led coalition strikes Yemen, says STC leader al-Zubaidi has fled</a>&nbsp;&nbsp;<font color="#6f6f6f">Al Jazeera</font></li><li><a href="https://news.google.com/rss/articles/CBMizAFBVV95cUxPQ1NJcUFqMm9XdGRmeW9wWGdqLXB6cTZ4c25IeG5rMi1CQUNTckxJelVhdU5QZlhJcXF5RmpHUlFZTWVHeDIyWTl5UkFQRXVlOVBzbGZnRzIxVHZwVGxIVFFmb2xLS0llb1kzdW5zTVM4ZmVWTEVRSmJrUE1MRzhLaXh5NE8yUkxmZ0JRVVdyUVRrVVFwWERZeHZMMVZ3Y09JSmRJMkZOSm5OamRBbjQxQWZtT05WeDlRRVhLM01VT0ZlSnM3THRQaUZxbGw?oc=5" target="_blank">Delegation led by Yemen's main separatist group to travel to Saudi Arabia, sources say</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font></li><li><a href="https://news.google.com/rss/articles/CBMifkFVX3lxTE1kdHdZM1dxMlV6elhiTUNEQVNxQmJSV1JXaUU4blNtZjlfUHU3T0dlR0NIXzB4dlRvaC05Mk1iNzd3cjJBSWlneXRrSUZrZ051MDR2bE1ubmpwbWQ0OHVLRTNUZEhNN1pUSUZxdmQzR3BWRWtfYWZBcS1BdTRPUQ?oc=5" target="_blank">Yemen's separatists announce a constitution for an independent south</a>&nbsp;&nbsp;<font color="#6f6f6f">NPR</font></li><li><a href="https://news.google.com/rss/articles/CBMiWkFVX3lxTE5PY1A0Yk5fWnFEQTJncktveUVTQ1ZZZXpac1VWNlJsMi1QU1ZLQ1VfSGRrSk42a0dlM3pRSU5IV3AzN05iZXRhajVQaWtpVXdKLTFUck14TFBfUQ?oc=5" target="_blank">Yemen clashes bring Saudi and UAE-backed forces into confrontation</a>&nbsp;&nbsp;<font color="#6f6f6f">BBC</font></li><li><a href="https://news.google.com/rss/articles/CBMi1AFBVV95cUxQOHZqN2ItNXV3bTlNQWl6djNHcENzNmZfcmt1SUYxOVdPZDNvU3JlazZ6NU5oOFN5MElZWUk5Qy1hREhCckVwdXgtQ2NNdGgxNnpYZU5fTWJrVXpKODh3R0ZtRl8xckphaEI4b0dKcHUyeHRZenlrSHR0Q1BrOW5YcDNqMDl0RFZmZXpLV0hlN2VQXzJzZmdWaVR0d3NFZy16MUg1WHdUUi1WQU9TLTAtajV5SEdKaG5NbloybmRFTE5jaHhEbzZsX2hkSEY2dnhmbnozbQ?oc=5" target="_blank">Yemen's STC Leader Al-Zubaidi Flees, Saudi-Backed Coalition Says</a>&nbsp;&nbsp;<font color="#6f6f6f">U.S. News & World Report</font></li></ol>
