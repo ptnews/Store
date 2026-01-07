@@ -6,7 +6,7 @@ summary: "Coalition of the Willing signs Ukraine security agreement with U.S. su
 slug: "uk-france-strike-new-ukraine-security-pact-as-us-takes-lead-in-ceasefire-enforcement"
 image: ''
 link: 'https://www.foxnews.com/world/uk-france-strike-new-ukraine-security-pact-us-takes-lead-ceasefire-enforcement'
-source: 'https://feeds.foxnews.com/foxnews/latest'
+source: 'https://feeds.foxnews.com/foxnews/world'
 categories:
 - 'feeds.foxnews.com'
 tags:
