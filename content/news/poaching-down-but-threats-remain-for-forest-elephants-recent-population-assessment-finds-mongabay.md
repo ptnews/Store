@@ -1,6 +1,6 @@
 ---
 title: "Poaching down but threats remain for forest elephants, recent population assessment finds - Mongabay"
-date: 2026-01-06
+date: 2026-01-07
 description: "Poaching down but threats remain for forest elephants, recent population assessment finds&nbsp;&nbsp;Mongabay"
 summary: "Poaching down but threats remain for forest elephants, recent population assessment finds&nbsp;&nbsp;Mongabay"
 slug: "poaching-down-but-threats-remain-for-forest-elephants-recent-population-assessment-finds-mongabay"

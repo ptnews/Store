@@ -1,6 +1,6 @@
 ---
 title: "Israel's foreign minister on historic visit to Somaliland"
-date: 2026-01-06
+date: 2026-01-07
 description: "In a controversial move, Israel became the first nation to acknowledge Somaliland as an independent state."
 summary: "In a controversial move, Israel became the first nation to acknowledge Somaliland as an independent state."
 slug: "israel-s-foreign-minister-on-historic-visit-to-somaliland"

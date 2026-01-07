@@ -1,6 +1,6 @@
 ---
 title: "David Gioe and Doug Chalmers ask if Europe could take on Russia without American help - The Economist"
-date: 2026-01-06
+date: 2026-01-07
 description: "David Gioe and Doug Chalmers ask if Europe could take on Russia without American help&nbsp;&nbsp;The EconomistEurope’s generals are warning people to prepare for war&nbsp;&nbsp;The EconomistThe 5 signs Putin is preparing for a bigger war in Europe&nbsp;&nbsp;The IndependentThe Baltic is becoming a battleground between NATO and Russia&nbsp;&nbsp;Hindustan TimesRussian information warfare strategy in light of the experience of the war in Ukraine&nbsp;&nbsp;Defence24.com"
 summary: "David Gioe and Doug Chalmers ask if Europe could take on Russia without American help&nbsp;&nbsp;The EconomistEurope’s generals are warning people to prepare for war&nbsp;&nbsp;The EconomistThe 5 signs Putin is preparing for a bigger war in Europe&nbsp;&nbsp;The IndependentThe Baltic is becoming a battleground between NATO and Russia&nbsp;&nbsp;Hindustan TimesRussian information warfare strategy in light of the experience of the war in Ukraine&nbsp;&nbsp;Defence24.com"
 slug: "david-gioe-and-doug-chalmers-ask-if-europe-could-take-on-russia-without-american-help-the-economist"

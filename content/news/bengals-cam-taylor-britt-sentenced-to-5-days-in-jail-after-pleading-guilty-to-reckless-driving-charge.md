@@ -1,0 +1,21 @@
+---
+title: "Bengals' Cam Taylor-Britt sentenced to 5 days in jail after pleading guilty to reckless driving charge"
+date: 2026-01-06
+description: "Cincinnati Bengals fourth-year cornerback Cam Taylor-Britt was sentenced to five days in jail, which will start immediately, after his guilty plea Tuesday."
+summary: "Cincinnati Bengals fourth-year cornerback Cam Taylor-Britt was sentenced to five days in jail, which will start immediately, after his guilty plea Tuesday."
+slug: "bengals-cam-taylor-britt-sentenced-to-5-days-in-jail-after-pleading-guilty-to-reckless-driving-charge"
+image: ''
+link: 'https://www.foxnews.com/sports/bengals-cam-taylor-britt-sentenced-5-days-jail-after-pleading-guilty-reckless-driving-charge'
+source: 'https://feeds.foxnews.com/foxnews/latest'
+categories:
+- 'feeds.foxnews.com'
+tags:
+- 'sentenced'
+- 'pleading'
+- 'reckless'
+- 'bengals'
+- 'driving'
+
+draft: false
+---
+<p><a href="https://www.foxnews.com/category/sports/nfl/cincinnati-bengals" target="_blank" rel="noopener">Cincinnati Bengals</a> cornerback Cam Taylor-Britt must spend five days in jail after pleading guilty in a Hamilton County courtroom Tuesday.</p><p>Taylor-Britt, 26, pleaded guilty to reckless operation and driving without a license, a court bailiff confirmed to <a href="https://www.fox19.com/2026/01/06/bengals-cam-taylor-britt-spend-5-days-jail-court-confirms/" target="_blank" rel="noopener">FOX19 NOW</a>.</p><p>Taylor-Britt was ticketed for street racing Sept. 19, Cincinnati police records show. He was allowed to play out the season with the Bengals and had his court hearing Tuesday.</p><p><a href="https://www.foxnews.com/sports" target="_blank" rel="noopener"><strong>CLICK HERE FOR MORE SPORTS COVERAGE ON </strong></a><a href="http://FOXNEWS.COM" target="_blank" rel="noopener"><strong>FOXNEWS.COM</strong></a></p><p>Hamilton County Judge Bernie Bouchard declined to grant Taylor-Britt community service after his court hearing, <a href="https://www.espn.com/nfl/story/_/id/47531176/bengals-cam-taylor-britt-sentenced-driving-incident" target="_blank" rel="nofollow noopener">per ESPN</a>.</p><p>The reckless driving misdemeanor was punishable by up to 30 days in jail with a $250 fine or a combination of the two. Bouchard insisted Taylor-Britt serve his jail time immediately.</p><p><a href="https://www.foxnews.com/sports/zac-taylor-survives-coaching-carousel-bengals-commit-another-season-despite-playoff-miss" target="_blank" rel="noopener"><strong>ZAC TAYLOR SURVIVES COACHING CAROUSEL AS BENGALS COMMIT TO ANOTHER SEASON DESPITE PLAYOFF MISS</strong></a></p><p>"That’s a gift," he told Taylor-Britt in court, per ESPN. "Five days instead of 30. He’s got to do them now. It’ll be over soon enough."</p><p>After <a href="https://www.foxnews.com/category/crime" target="_blank" rel="noopener">pleading guilty,</a> Taylor-Britt was taken into custody and booked at 11:23 a.m.</p><p>Taylor-Britt is expected to be released Jan. 11.</p><p>Three months before his citation for street racing, Taylor-Britt was ticketed for reckless driving around Race Street June 18, according to police records.</p><p>Taylor-Britt will enter free agency this offseason with his rookie contract with the Bengals set to expire with the new league year.</p><p>He also arrived to court on crutches as he recovers from a Lisfranc injury in his left foot, which required surgery.</p><p>"I just want to apologize, first and foremost, for my actions that I’ve put everybody else through," he said in court. "Not intentional in [any] way."</p><p>Taylor-Britt has tallied 203 combined tackles, two forced fumbles, seven interceptions and 38 passes defended in four years in Cincinnati.</p><p>While Taylor-Britt said he would like to be back with the Bengals, he was a health scratch earlier this season. They have been using Dax Hill and DJ Turner II as their top two cornerbacks since.</p><p><i><strong>Follow Fox News Digital’s </strong></i><a href="https://twitter.com/FoxNewsSports_" target="_blank" rel="noopener"><i><strong>sports coverage on X</strong></i></a><i><strong> and subscribe to </strong></i><a href="https://www.foxnews.com/newsletters" target="_blank" rel="noopener"><i><strong>the Fox News Sports Huddle newsletter</strong></i></a><i><strong>.</strong></i></p>

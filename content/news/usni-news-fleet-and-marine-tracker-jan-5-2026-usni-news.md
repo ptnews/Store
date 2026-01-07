@@ -1,6 +1,6 @@
 ---
 title: "USNI News Fleet and Marine Tracker: Jan. 5, 2026 - USNI News"
-date: 2026-01-06
+date: 2026-01-07
 description: "USNI News Fleet and Marine Tracker: Jan. 5, 2026&nbsp;&nbsp;USNI News"
 summary: "USNI News Fleet and Marine Tracker: Jan. 5, 2026&nbsp;&nbsp;USNI News"
 slug: "usni-news-fleet-and-marine-tracker-jan-5-2026-usni-news"

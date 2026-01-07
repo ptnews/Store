@@ -1,6 +1,6 @@
 ---
 title: "US Congressman Doug LaMalfa dies unexpectedly at 65"
-date: 2026-01-06
+date: 2026-01-07
 description: "The death of LaMalfa, a Trump ally, shaves the Republican majority in the US House of Representatives to just a few seats."
 summary: "The death of LaMalfa, a Trump ally, shaves the Republican majority in the US House of Representatives to just a few seats."
 slug: "us-congressman-doug-lamalfa-dies-unexpectedly-at-65"

@@ -1,6 +1,6 @@
 ---
 title: "Long wait for justice leaves South African families in limbo"
-date: 2026-01-06
+date: 2026-01-07
 description: "With tens of thousands of cases waiting to be heard, some people have to wait four years for their trials to start."
 summary: "With tens of thousands of cases waiting to be heard, some people have to wait four years for their trials to start."
 slug: "long-wait-for-justice-leaves-south-african-families-in-limbo"

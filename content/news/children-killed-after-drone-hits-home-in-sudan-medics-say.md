@@ -1,6 +1,6 @@
 ---
 title: "Children killed after drone hits home in Sudan, medics say"
-date: 2026-01-06
+date: 2026-01-07
 description: "At least 13 people, including eight children, have been killed in the strike in el-Obeid city, medics say."
 summary: "At least 13 people, including eight children, have been killed in the strike in el-Obeid city, medics say."
 slug: "children-killed-after-drone-hits-home-in-sudan-medics-say"

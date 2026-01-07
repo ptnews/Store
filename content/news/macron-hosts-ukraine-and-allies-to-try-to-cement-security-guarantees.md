@@ -1,6 +1,6 @@
 ---
 title: "Macron hosts Ukraine and allies to try to cement security guarantees"
-date: 2026-01-06
+date: 2026-01-07
 description: "The talks are held as Russia continues attacking Ukraine's energy sector and under the shadow of US threats to annex Greenland."
 summary: "The talks are held as Russia continues attacking Ukraine's energy sector and under the shadow of US threats to annex Greenland."
 slug: "macron-hosts-ukraine-and-allies-to-try-to-cement-security-guarantees"

@@ -1,6 +1,6 @@
 ---
 title: "'It seems unjust to me' - views from Caracas on Maduro's seizure"
-date: 2026-01-06
+date: 2026-01-07
 description: "BBC Mundo has spoken to Venezuelans in the country's capital about the latest US military operation."
 summary: "BBC Mundo has spoken to Venezuelans in the country's capital about the latest US military operation."
 slug: "it-seems-unjust-to-me-views-from-caracas-on-maduro-s-seizure"

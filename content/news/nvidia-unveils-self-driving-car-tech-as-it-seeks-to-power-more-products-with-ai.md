@@ -1,6 +1,6 @@
 ---
 title: "Nvidia unveils self-driving car tech as it seeks to power more products with AI"
-date: 2026-01-06
+date: 2026-01-07
 description: "The chip giant is looking for ways to move the AI revolution beyond software and into physical products."
 summary: "The chip giant is looking for ways to move the AI revolution beyond software and into physical products."
 slug: "nvidia-unveils-self-driving-car-tech-as-it-seeks-to-power-more-products-with-ai"

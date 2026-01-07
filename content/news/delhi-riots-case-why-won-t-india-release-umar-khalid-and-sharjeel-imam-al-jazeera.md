@@ -1,6 +1,6 @@
 ---
 title: "Delhi riots case: Why won’t India release Umar Khalid and Sharjeel Imam? - Al Jazeera"
-date: 2026-01-06
+date: 2026-01-07
 description: "Delhi riots case: Why won’t India release Umar Khalid and Sharjeel Imam?&nbsp;&nbsp;Al JazeeraIndia's top court denies bail to 2 Muslim activists after 5 years in jail without trial&nbsp;&nbsp;NBC NewsUmar Khalid, Sharjeel Imam: No bail for Indian activists after five years in jail without trial&nbsp;&nbsp;BBCThe Court chose caution over courage&nbsp;&nbsp;Tribune IndiaOn Denial Of Bail To Umar Khalid, Harish Salve Said \"Context\" Matters&nbsp;&nbsp;NDTV"
 summary: "Delhi riots case: Why won’t India release Umar Khalid and Sharjeel Imam?&nbsp;&nbsp;Al JazeeraIndia's top court denies bail to 2 Muslim activists after 5 years in jail without trial&nbsp;&nbsp;NBC NewsUmar Khalid, Sharjeel Imam: No bail for Indian activists after five years in jail without trial&nbsp;&nbsp;BBCThe Court chose caution over courage&nbsp;&nbsp;Tribune IndiaOn Denial Of Bail To Umar Khalid, Harish Salve Said \"Context\" Matters&nbsp;&nbsp;NDTV"
 slug: "delhi-riots-case-why-won-t-india-release-umar-khalid-and-sharjeel-imam-al-jazeera"

@@ -1,6 +1,6 @@
 ---
 title: "Maduro’s Gesture Was Not Just a Peace Sign - The New York Times"
-date: 2026-01-06
+date: 2026-01-07
 description: "Maduro’s Gesture Was Not Just a Peace Sign&nbsp;&nbsp;The New York TimesVenezuela’s Iran embassy: US misjudged Maduro, expected a Noriega, found a Mandela&nbsp;&nbsp;PressTVVenezuelan ambassador hails SA's stance against US 'invasion'&nbsp;&nbsp;capetimes.co.zaEXCLUSIVE INTERVIEW: “Maduro Still Our President,” Venezuela Ambassador to Uganda&nbsp;&nbsp;UG Diplomat'We will resist US imperialist aggression' - Venezuela's ambassador&nbsp;&nbsp;eNCA News"
 summary: "Maduro’s Gesture Was Not Just a Peace Sign&nbsp;&nbsp;The New York TimesVenezuela’s Iran embassy: US misjudged Maduro, expected a Noriega, found a Mandela&nbsp;&nbsp;PressTVVenezuelan ambassador hails SA's stance against US 'invasion'&nbsp;&nbsp;capetimes.co.zaEXCLUSIVE INTERVIEW: “Maduro Still Our President,” Venezuela Ambassador to Uganda&nbsp;&nbsp;UG Diplomat'We will resist US imperialist aggression' - Venezuela's ambassador&nbsp;&nbsp;eNCA News"
 slug: "maduro-s-gesture-was-not-just-a-peace-sign-the-new-york-times"

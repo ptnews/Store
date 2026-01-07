@@ -1,6 +1,6 @@
 ---
 title: "Ban on TV junk food advertising before 9pm comes into force in UK - The Guardian"
-date: 2026-01-06
+date: 2026-01-07
 description: "Ban on TV junk food advertising before 9pm comes into force in UK&nbsp;&nbsp;The GuardianThe Guardian view on the junk food advertising ban: shaping tastes is a job for government | Editorial&nbsp;&nbsp;The GuardianJunk food TV and online advert ban comes into force&nbsp;&nbsp;BBCThere’s a huge loophole in the new UK ban on daytime junk food ads&nbsp;&nbsp;The ConversationJunk food advert ban comes into effect with soft drinks, porridge and chocolate included&nbsp;&nbsp;Sky News"
 summary: "Ban on TV junk food advertising before 9pm comes into force in UK&nbsp;&nbsp;The GuardianThe Guardian view on the junk food advertising ban: shaping tastes is a job for government | Editorial&nbsp;&nbsp;The GuardianJunk food TV and online advert ban comes into force&nbsp;&nbsp;BBCThere’s a huge loophole in the new UK ban on daytime junk food ads&nbsp;&nbsp;The ConversationJunk food advert ban comes into effect with soft drinks, porridge and chocolate included&nbsp;&nbsp;Sky News"
 slug: "ban-on-tv-junk-food-advertising-before-9pm-comes-into-force-in-uk-the-guardian"

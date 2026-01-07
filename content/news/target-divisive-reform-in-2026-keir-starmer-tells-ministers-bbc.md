@@ -1,6 +1,6 @@
 ---
 title: "Target 'divisive' Reform in 2026, Keir Starmer tells ministers - BBC"
-date: 2026-01-06
+date: 2026-01-07
 description: "Target 'divisive' Reform in 2026, Keir Starmer tells ministers&nbsp;&nbsp;BBCGovernment lacks emotional link with voters, cabinet ministers warned&nbsp;&nbsp;The GuardianStarmer tells Cabinet of ‘fight of our political lives’ in clash with Farage’s Reform&nbsp;&nbsp;London Evening StandardWATCH: Keir Starmer accuses 'slippery' Nigel Farage of 'peddling falsehoods'&nbsp;&nbsp;GB NewsStarmer tells Cabinet to prepare for ‘fight of our lives’ against Reform&nbsp;&nbsp;The Telegraph"
 summary: "Target 'divisive' Reform in 2026, Keir Starmer tells ministers&nbsp;&nbsp;BBCGovernment lacks emotional link with voters, cabinet ministers warned&nbsp;&nbsp;The GuardianStarmer tells Cabinet of ‘fight of our political lives’ in clash with Farage’s Reform&nbsp;&nbsp;London Evening StandardWATCH: Keir Starmer accuses 'slippery' Nigel Farage of 'peddling falsehoods'&nbsp;&nbsp;GB NewsStarmer tells Cabinet to prepare for ‘fight of our lives’ against Reform&nbsp;&nbsp;The Telegraph"
 slug: "target-divisive-reform-in-2026-keir-starmer-tells-ministers-bbc"

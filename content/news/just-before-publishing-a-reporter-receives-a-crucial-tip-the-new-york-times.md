@@ -1,6 +1,6 @@
 ---
 title: "Just Before Publishing, a Reporter Receives a Crucial Tip - The New York Times"
-date: 2026-01-06
+date: 2026-01-07
 description: "Just Before Publishing, a Reporter Receives a Crucial Tip&nbsp;&nbsp;The New York Times"
 summary: "Just Before Publishing, a Reporter Receives a Crucial Tip&nbsp;&nbsp;The New York Times"
 slug: "just-before-publishing-a-reporter-receives-a-crucial-tip-the-new-york-times"

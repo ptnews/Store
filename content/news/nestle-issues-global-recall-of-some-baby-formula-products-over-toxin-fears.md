@@ -1,6 +1,6 @@
 ---
 title: "Nestle issues global recall of some baby formula products over toxin fears"
-date: 2026-01-06
+date: 2026-01-07
 description: "The food giant discovered some batches of SMA infant and follow-on formula could lead to vomiting"
 summary: "The food giant discovered some batches of SMA infant and follow-on formula could lead to vomiting"
 slug: "nestle-issues-global-recall-of-some-baby-formula-products-over-toxin-fears"

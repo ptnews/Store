@@ -1,6 +1,6 @@
 ---
 title: "Oldest known cremation pyre in Africa reveals mysterious woman who lived 9,500 years ago - CNN"
-date: 2026-01-06
+date: 2026-01-07
 description: "Oldest known cremation pyre in Africa reveals mysterious woman who lived 9,500 years ago&nbsp;&nbsp;CNNNews - Large Hunter-Gatherer Pyre Discovered in Central Africa&nbsp;&nbsp;Archaeology MagazineAncient cremation pyre offers glimpse of tropical hunter gatherers’ mortuary practices&nbsp;&nbsp;YaleNewsEarliest Cremation in Africa 9,550 Years Ago Discovered in Malawi&nbsp;&nbsp;HaaretzOldest known cremation in Africa poses 9,500-year-old mystery about Stone Age hunter-gatherers&nbsp;&nbsp;The C..."
 summary: "Oldest known cremation pyre in Africa reveals mysterious woman who lived 9,500 years ago&nbsp;&nbsp;CNNNews - Large Hunter-Gatherer Pyre Discovered in Central Africa&nbsp;&nbsp;Archaeology MagazineAncient cremation pyre offers glimpse of tropical hunter gatherers’ mortuary practices&nbsp;&nbsp;YaleNewsEarliest Cremation in Africa 9,550 Years Ago Discovered in Malawi&nbsp;&nbsp;HaaretzOldest known cremation in Africa poses 9,500-year-old mystery about Stone Age hunter-gatherers&nbsp;&nbsp;The C..."
 slug: "oldest-known-cremation-pyre-in-africa-reveals-mysterious-woman-who-lived-9-500-years-ago-cnn"

@@ -1,6 +1,6 @@
 ---
 title: "North Korea says latest missile tests involved new hypersonic weapons systems - Euronews.com"
-date: 2026-01-06
+date: 2026-01-07
 description: "North Korea says latest missile tests involved new hypersonic weapons systems&nbsp;&nbsp;Euronews.comNorth Korea fires ballistic missiles, condemns US strikes on Venezuela&nbsp;&nbsp;ReutersNorth Korea Conducts First Missile Launch of 2026 into Sea of Japan&nbsp;&nbsp;USNI NewsPyongyang fires ballistic missiles as South Korean President Lee Jae Myung makes state visit to China&nbsp;&nbsp;CNNNorth Korea's Kim oversees hypersonic missile test amid 'geopolitical crisis'&nbsp;&nbsp;France 24"
 summary: "North Korea says latest missile tests involved new hypersonic weapons systems&nbsp;&nbsp;Euronews.comNorth Korea fires ballistic missiles, condemns US strikes on Venezuela&nbsp;&nbsp;ReutersNorth Korea Conducts First Missile Launch of 2026 into Sea of Japan&nbsp;&nbsp;USNI NewsPyongyang fires ballistic missiles as South Korean President Lee Jae Myung makes state visit to China&nbsp;&nbsp;CNNNorth Korea's Kim oversees hypersonic missile test amid 'geopolitical crisis'&nbsp;&nbsp;France 24"
 slug: "north-korea-says-latest-missile-tests-involved-new-hypersonic-weapons-systems-euronews-com"

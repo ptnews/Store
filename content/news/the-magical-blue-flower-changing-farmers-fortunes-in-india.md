@@ -1,6 +1,6 @@
 ---
 title: "The 'magical' blue flower changing farmers' fortunes in India"
-date: 2026-01-06
+date: 2026-01-07
 description: "Indian farmers are turning to butterfly pea flower which is in demand for its bright blue colour."
 summary: "Indian farmers are turning to butterfly pea flower which is in demand for its bright blue colour."
 slug: "the-magical-blue-flower-changing-farmers-fortunes-in-india"

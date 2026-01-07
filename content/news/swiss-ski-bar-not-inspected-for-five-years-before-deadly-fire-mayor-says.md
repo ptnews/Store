@@ -1,6 +1,6 @@
 ---
 title: "Swiss ski bar not inspected for five years before deadly fire, mayor says"
-date: 2026-01-06
+date: 2026-01-07
 description: "The New Year's Eve fire at a bar in Crans-Montana killed 40 people and injured 116. "
 summary: "The New Year's Eve fire at a bar in Crans-Montana killed 40 people and injured 116. "
 slug: "swiss-ski-bar-not-inspected-for-five-years-before-deadly-fire-mayor-says"

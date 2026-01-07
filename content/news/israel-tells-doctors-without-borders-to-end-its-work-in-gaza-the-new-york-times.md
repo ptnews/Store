@@ -1,6 +1,6 @@
 ---
 title: "Israel Tells Doctors Without Borders to End Its Work in Gaza - The New York Times"
-date: 2026-01-06
+date: 2026-01-07
 description: "Israel Tells Doctors Without Borders to End Its Work in Gaza&nbsp;&nbsp;The New York TimesInternational aid groups grapple with what Israel’s ban will mean for their work in Gaza&nbsp;&nbsp;AP NewsIsrael’s grave threat to withhold NGO registration&nbsp;&nbsp;Doctors Without BordersUN chief deeply concerned over Israel's suspension of NGOs&nbsp;&nbsp;ReutersFrom Gaza Aid Groups to Haaretz: The Shrinking Space for 'Legitimate Criticism' of Israel&nbsp;&nbsp;Haaretz"
 summary: "Israel Tells Doctors Without Borders to End Its Work in Gaza&nbsp;&nbsp;The New York TimesInternational aid groups grapple with what Israel’s ban will mean for their work in Gaza&nbsp;&nbsp;AP NewsIsrael’s grave threat to withhold NGO registration&nbsp;&nbsp;Doctors Without BordersUN chief deeply concerned over Israel's suspension of NGOs&nbsp;&nbsp;ReutersFrom Gaza Aid Groups to Haaretz: The Shrinking Space for 'Legitimate Criticism' of Israel&nbsp;&nbsp;Haaretz"
 slug: "israel-tells-doctors-without-borders-to-end-its-work-in-gaza-the-new-york-times"

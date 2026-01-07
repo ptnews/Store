@@ -1,6 +1,6 @@
 ---
 title: "Containing the Threat of Containerized Missiles - War on the Rocks"
-date: 2026-01-06
+date: 2026-01-07
 description: "Containing the Threat of Containerized Missiles&nbsp;&nbsp;War on the Rocks"
 summary: "Containing the Threat of Containerized Missiles&nbsp;&nbsp;War on the Rocks"
 slug: "containing-the-threat-of-containerized-missiles-war-on-the-rocks"

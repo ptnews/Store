@@ -1,6 +1,6 @@
 ---
 title: "Indian gang rape survivor back home after a week in hospital"
-date: 2026-01-06
+date: 2026-01-07
 description: "The 26-year-old was taken to hospital with serious head and facial injuries and several fractures.
 
 "

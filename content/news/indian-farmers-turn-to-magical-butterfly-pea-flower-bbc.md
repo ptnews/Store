@@ -1,6 +1,6 @@
 ---
 title: "Indian farmers turn to 'magical' butterfly pea flower - BBC"
-date: 2026-01-06
+date: 2026-01-07
 description: "Indian farmers turn to 'magical' butterfly pea flower&nbsp;&nbsp;BBC"
 summary: "Indian farmers turn to 'magical' butterfly pea flower&nbsp;&nbsp;BBC"
 slug: "indian-farmers-turn-to-magical-butterfly-pea-flower-bbc"

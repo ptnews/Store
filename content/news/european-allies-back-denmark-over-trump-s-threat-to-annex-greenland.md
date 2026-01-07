@@ -1,6 +1,6 @@
 ---
 title: "European allies back Denmark over Trump's threat to annex Greenland"
-date: 2026-01-06
+date: 2026-01-07
 description: "Donald Trump has refused to rule out using force to annex Greenland - a scenario that would spell the end of Nato, according to Denmark."
 summary: "Donald Trump has refused to rule out using force to annex Greenland - a scenario that would spell the end of Nato, according to Denmark."
 slug: "european-allies-back-denmark-over-trump-s-threat-to-annex-greenland"

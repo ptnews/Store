@@ -1,6 +1,6 @@
 ---
 title: "Netflix pulls Chinese drama after Vietnam's outcry over disputed map"
-date: 2026-01-06
+date: 2026-01-07
 description: "An episode in the drama Shine on Me features a map depicting contested claims in the South China Sea."
 summary: "An episode in the drama Shine on Me features a map depicting contested claims in the South China Sea."
 slug: "netflix-pulls-chinese-drama-after-vietnam-s-outcry-over-disputed-map"

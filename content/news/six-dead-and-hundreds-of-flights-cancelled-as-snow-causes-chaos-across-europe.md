@@ -1,6 +1,6 @@
 ---
 title: "Six dead and hundreds of flights cancelled as snow causes chaos across Europe"
-date: 2026-01-06
+date: 2026-01-07
 description: "Hundreds of flights have been cancelled in Amsterdam and Paris, with thousands of people stranded."
 summary: "Hundreds of flights have been cancelled in Amsterdam and Paris, with thousands of people stranded."
 slug: "six-dead-and-hundreds-of-flights-cancelled-as-snow-causes-chaos-across-europe"

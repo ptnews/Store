@@ -1,6 +1,6 @@
 ---
 title: "Why I spent a week on a South Pacific island with my best friend’s husband - CNN"
-date: 2026-01-06
+date: 2026-01-07
 description: "Why I spent a week on a South Pacific island with my best friend’s husband&nbsp;&nbsp;CNN"
 summary: "Why I spent a week on a South Pacific island with my best friend’s husband&nbsp;&nbsp;CNN"
 slug: "why-i-spent-a-week-on-a-south-pacific-island-with-my-best-friend-s-husband-cnn"

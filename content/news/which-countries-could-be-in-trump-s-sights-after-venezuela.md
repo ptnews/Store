@@ -1,6 +1,6 @@
 ---
 title: "Which countries could be in Trump's sights after Venezuela?"
-date: 2026-01-06
+date: 2026-01-07
 description: "Trump has made numerous threats against other nations in Washington's orbit."
 summary: "Trump has made numerous threats against other nations in Washington's orbit."
 slug: "which-countries-could-be-in-trump-s-sights-after-venezuela"

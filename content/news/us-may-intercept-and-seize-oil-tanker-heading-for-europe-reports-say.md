@@ -1,6 +1,6 @@
 ---
 title: "US may intercept and seize oil tanker heading for Europe, reports say "
-date: 2026-01-06
+date: 2026-01-07
 description: "US officials have a warrant to seize the Russian-flagged ship accused of breaking sanctions."
 summary: "US officials have a warrant to seize the Russian-flagged ship accused of breaking sanctions."
 slug: "us-may-intercept-and-seize-oil-tanker-heading-for-europe-reports-say"

@@ -1,6 +1,6 @@
 ---
 title: "Why does Trump want Greenland and what could it mean for Nato?"
-date: 2026-01-06
+date: 2026-01-07
 description: "The US president's repeated demands to control Greenland could threaten the Nato military alliance."
 summary: "The US president's repeated demands to control Greenland could threaten the Nato military alliance."
 slug: "why-does-trump-want-greenland-and-what-could-it-mean-for-nato"

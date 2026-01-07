@@ -1,6 +1,6 @@
 ---
 title: "If China Attacks Taiwan - German Marshall Fund of the United States"
-date: 2026-01-06
+date: 2026-01-07
 description: "If China Attacks Taiwan&nbsp;&nbsp;German Marshall Fund of the United StatesTrump’s Venezuela Attack May Give China Cover on Taiwan&nbsp;&nbsp;Foreign PolicyChina would suffer 100,000 fatalities in Taiwan invasion: Report&nbsp;&nbsp;Focus TaiwanA Taiwan strike would come with heavy costs for Beijing: report&nbsp;&nbsp;Nikkei AsiaThe International Costs of Chinese Use of Force Against Taiwan&nbsp;&nbsp;American Enterprise Institute - AEI"
 summary: "If China Attacks Taiwan&nbsp;&nbsp;German Marshall Fund of the United StatesTrump’s Venezuela Attack May Give China Cover on Taiwan&nbsp;&nbsp;Foreign PolicyChina would suffer 100,000 fatalities in Taiwan invasion: Report&nbsp;&nbsp;Focus TaiwanA Taiwan strike would come with heavy costs for Beijing: report&nbsp;&nbsp;Nikkei AsiaThe International Costs of Chinese Use of Force Against Taiwan&nbsp;&nbsp;American Enterprise Institute - AEI"
 slug: "if-china-attacks-taiwan-german-marshall-fund-of-the-united-states"

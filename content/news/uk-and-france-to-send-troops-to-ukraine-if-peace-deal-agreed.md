@@ -1,6 +1,6 @@
 ---
 title: "UK and France to send troops to Ukraine if peace deal agreed"
-date: 2026-01-06
+date: 2026-01-07
 description: "The announcement was made by UK PM Sir Keir Starmer after a meeting of Ukraine's allies in Paris."
 summary: "The announcement was made by UK PM Sir Keir Starmer after a meeting of Ukraine's allies in Paris."
 slug: "uk-and-france-to-send-troops-to-ukraine-if-peace-deal-agreed"

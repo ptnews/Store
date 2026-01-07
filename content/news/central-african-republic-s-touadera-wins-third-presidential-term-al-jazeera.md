@@ -1,6 +1,6 @@
 ---
 title: "Central African Republic’s Touadera wins third presidential term - Al Jazeera"
-date: 2026-01-06
+date: 2026-01-07
 description: "Central African Republic’s Touadera wins third presidential term&nbsp;&nbsp;Al JazeeraCentral African Republic (CAR) election: Faustin-Archange Touadéra wins third term&nbsp;&nbsp;BBCCentral African Republic President Touadera wins re-election, results show&nbsp;&nbsp;ReutersCentral African Republic's Touadera wins third presidential term&nbsp;&nbsp;France 24Central African Republic: Touadera expected to win election&nbsp;&nbsp;DW"
 summary: "Central African Republic’s Touadera wins third presidential term&nbsp;&nbsp;Al JazeeraCentral African Republic (CAR) election: Faustin-Archange Touadéra wins third term&nbsp;&nbsp;BBCCentral African Republic President Touadera wins re-election, results show&nbsp;&nbsp;ReutersCentral African Republic's Touadera wins third presidential term&nbsp;&nbsp;France 24Central African Republic: Touadera expected to win election&nbsp;&nbsp;DW"
 slug: "central-african-republic-s-touadera-wins-third-presidential-term-al-jazeera"

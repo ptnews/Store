@@ -1,6 +1,6 @@
 ---
 title: "Dance music festival Tomorrowland to hold three-day event in Thailand"
-date: 2026-01-06
+date: 2026-01-07
 description: "Founded 20 years ago, Tomorrowland has grown into one of the most iconic celebrations of electronic music."
 summary: "Founded 20 years ago, Tomorrowland has grown into one of the most iconic celebrations of electronic music."
 slug: "dance-music-festival-tomorrowland-to-hold-three-day-event-in-thailand"

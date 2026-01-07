@@ -1,6 +1,6 @@
 ---
 title: "Cuba defiant as it braces for post-Maduro era"
-date: 2026-01-06
+date: 2026-01-07
 description: "The prospects for Cuba - a close ally of Nicolás Maduro's Venezuela - are now bleak, writes the BBC's Will Grant."
 summary: "The prospects for Cuba - a close ally of Nicolás Maduro's Venezuela - are now bleak, writes the BBC's Will Grant."
 slug: "cuba-defiant-as-it-braces-for-post-maduro-era"

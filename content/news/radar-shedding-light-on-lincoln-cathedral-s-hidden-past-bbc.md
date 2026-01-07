@@ -1,6 +1,6 @@
 ---
 title: "Radar shedding light on Lincoln Cathedral's hidden past - BBC"
-date: 2026-01-06
+date: 2026-01-07
 description: "Radar shedding light on Lincoln Cathedral's hidden past&nbsp;&nbsp;BBC"
 summary: "Radar shedding light on Lincoln Cathedral's hidden past&nbsp;&nbsp;BBC"
 slug: "radar-shedding-light-on-lincoln-cathedral-s-hidden-past-bbc"
