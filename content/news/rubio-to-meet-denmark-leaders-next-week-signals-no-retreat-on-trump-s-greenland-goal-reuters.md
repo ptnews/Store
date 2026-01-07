@@ -1,0 +1,21 @@
+---
+title: "Rubio to meet Denmark leaders next week, signals no retreat on Trump's Greenland goal - Reuters"
+date: 2026-01-07
+description: "Rubio to meet Denmark leaders next week, signals no retreat on Trump's Greenland goal&nbsp;&nbsp;ReutersBuy Greenland? Take It? Why? An Old Pact Already Gives Trump a Free Hand.&nbsp;&nbsp;The New York TimesRepublican leaders push back on Trump's openness to using the military to take Greenland&nbsp;&nbsp;NBC NewsRand Paul says \"I will do everything in my power to stop any kind of military takeover in Greenland\"&nbsp;&nbsp;CBS NewsTrump’s Greenland idea isn’t new. The US has pursued it at le..."
+summary: "Rubio to meet Denmark leaders next week, signals no retreat on Trump's Greenland goal&nbsp;&nbsp;ReutersBuy Greenland? Take It? Why? An Old Pact Already Gives Trump a Free Hand.&nbsp;&nbsp;The New York TimesRepublican leaders push back on Trump's openness to using the military to take Greenland&nbsp;&nbsp;NBC NewsRand Paul says \"I will do everything in my power to stop any kind of military takeover in Greenland\"&nbsp;&nbsp;CBS NewsTrump’s Greenland idea isn’t new. The US has pursued it at le..."
+slug: "rubio-to-meet-denmark-leaders-next-week-signals-no-retreat-on-trump-s-greenland-goal-reuters"
+image: ''
+link: 'https://news.google.com/rss/articles/CBMiqAFBVV95cUxOOF9tLXhhUnRtT3Q0eWI1VzU0ZS1zWUdQc3dsYXpNb3JtOW5pMEFQb3JVM05WbHhhcDk3SlNvczlhbFFrWFkxMkJNQ0lodjZXVkRNbnRZZ1FFNllNcVp6RnJIU082czAxSThhY0t1OFBLVGhYanVBVndYY1RaX3VwNV9RRFV6UU1YTzlEUlo2X0hvUExxOGphMURwYkRjTU9hUVcwOGY1TlU?oc=5'
+source: 'https://news.google.com/rss/topics/CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx1YlY4U0FtVnVHZ0pWVXlnQVAB?hl=en-US&gl=US&ceid=US:en'
+categories:
+- 'news.google.com'
+tags:
+- 'greenland'
+- 'denmark'
+- 'leaders'
+- 'signals'
+- 'retreat'
+
+draft: false
+---
+<ol><li><a href="https://news.google.com/rss/articles/CBMiqAFBVV95cUxOOF9tLXhhUnRtT3Q0eWI1VzU0ZS1zWUdQc3dsYXpNb3JtOW5pMEFQb3JVM05WbHhhcDk3SlNvczlhbFFrWFkxMkJNQ0lodjZXVkRNbnRZZ1FFNllNcVp6RnJIU082czAxSThhY0t1OFBLVGhYanVBVndYY1RaX3VwNV9RRFV6UU1YTzlEUlo2X0hvUExxOGphMURwYkRjTU9hUVcwOGY1TlU?oc=5" target="_blank">Rubio to meet Denmark leaders next week, signals no retreat on Trump's Greenland goal</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font></li><li><a href="https://news.google.com/rss/articles/CBMilwFBVV95cUxNUnpLRWIzSExWdHVlanlrY2I4am04eUVzYVBKQ3RNTEk1V1BaaEIyQXpBenBXWFhCemRRRTRHQnlKcldqSk5UeW5MY2VVYzZwSzJQU1VHMEFNRkE0SjZDZkx0UEZqVGNJcGlmWkgxLW85YUd1XzlrS3BPcFVyT1g4b19ldEN0UllHM1ZMSG9pNnNPdVpvTm9J?oc=5" target="_blank">Buy Greenland? Take It? Why? An Old Pact Already Gives Trump a Free Hand.</a>&nbsp;&nbsp;<font color="#6f6f6f">The New York Times</font></li><li><a href="https://news.google.com/rss/articles/CBMitgFBVV95cUxQR0lhaHVRZWFLQW1KeW1GZ05MMlFjMXRGZ2d6VFctYkRLS0ZsNUVfcVFfQzMzYzduem5SdXA1SWxsWEpQTWNha1IyNFFOY21Pc0lIYXViWGRVUGJuWlpfVnpROFVkdHppamt2b3V4b2FpWElMT24wWjZyYlkwbVRZalVDNklRM3REWk9abHJBVl9PN1ZuR3VVS0hqRG9NMXV1ZXJoN09oY2l6NU5RbTYxb1dMN2FkZ9IBVkFVX3lxTFBKdUFSTUdHUnVXakV5aTcwaDRRMTBqQlBydXJiNkJ0SEJPNy1EVDFheWFNSjZSVXdNdnRwR0RQUUc1R2k0NUtmcWpHSnhEMGN1bHZSNkF3?oc=5" target="_blank">Republican leaders push back on Trump's openness to using the military to take Greenland</a>&nbsp;&nbsp;<font color="#6f6f6f">NBC News</font></li><li><a href="https://news.google.com/rss/articles/CBMidkFVX3lxTE5OQURyYXNaOUlOQWt4Sjh0N3RqUWpJOU10TmNvTXdIa3dfQ3BlQ25hUnN0SzdiWnNlWmZwaHFJdENWRzRmQzhWNlpGdHFWWEhXVDNERDIyNm1VVDlXVGVyaktHQkFidVlLdmk5WnFrcEdsWVZ6eGfSAXtBVV95cUxPUzFtc2ZuYm1FdzJ1cXpuMm5Pd2dUak80eFNTV3dfbzFnV3ZneVFrZWNfekc0cWtkdFUwbS1ZYllMXzRTN0VORTdnc0otQ2c2bXZFejFDbzJIc1hWRXRDV2xhMnhnNjR5eVpucXRPV0xDakpFRDZqR01SNTA?oc=5" target="_blank">Rand Paul says "I will do everything in my power to stop any kind of military takeover in Greenland"</a>&nbsp;&nbsp;<font color="#6f6f6f">CBS News</font></li><li><a href="https://news.google.com/rss/articles/CBMimgFBVV95cUxNRVhaU0pXb25YTDR4QkI5emNYNjc1VDM1YklCTVlpY1pJZVlMT294SUUzdkFzNWh6ZHlKUE1LSkF6WnBpUHdselJWZlhMLUswZjJEMnd1VXVxZ29zVk5mM3hoc0dneGpjZXBZZUZGVF83SXZ6MFNrU203bWMzb2dadWF1YnJUejJVU1BnNHRrZk5sdUlLTFFLdzR3?oc=5" target="_blank">Trump’s Greenland idea isn’t new. The US has pursued it at least 3 times before</a>&nbsp;&nbsp;<font color="#6f6f6f">AP News</font></li></ol>
