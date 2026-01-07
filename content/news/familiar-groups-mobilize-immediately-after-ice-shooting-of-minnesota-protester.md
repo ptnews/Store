@@ -1,8 +1,8 @@
 ---
 title: "Familiar groups mobilize immediately after ICE shooting of Minnesota protester"
 date: 2026-01-07
-description: "A Minnesota protester was allegedly shot dead after attempting to run over ICE agents, sparking immediate nationwide mobilization by far-left groups."
-summary: "A Minnesota protester was allegedly shot dead after attempting to run over ICE agents, sparking immediate nationwide mobilization by far-left groups."
+description: "A Minnesota protester was allegedly shot dead after allegedly attempting to run over ICE agents, sparking immediate nationwide mobilization by far-left groups."
+summary: "A Minnesota protester was allegedly shot dead after allegedly attempting to run over ICE agents, sparking immediate nationwide mobilization by far-left groups."
 slug: "familiar-groups-mobilize-immediately-after-ice-shooting-of-minnesota-protester"
 image: ''
 link: 'https://www.foxnews.com/us/familiar-protest-groups-mobilize-immediately-after-ice-shooting-minnesota-protester'
