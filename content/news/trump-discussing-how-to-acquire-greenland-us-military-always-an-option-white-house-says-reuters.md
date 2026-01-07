@@ -1,0 +1,21 @@
+---
+title: "Trump discussing how to acquire Greenland, US military always an option, White House says - Reuters"
+date: 2026-01-07
+description: "Trump discussing how to acquire Greenland, US military always an option, White House says&nbsp;&nbsp;ReutersWhite House discussing ‘options’ to acquire Greenland, says military use isn’t off the table&nbsp;&nbsp;CNNWhy Trump wants Greenland — and what makes it so important for national security&nbsp;&nbsp;CNBCWhite House floats military option for Greenland, rattling Denmark and NATO&nbsp;&nbsp;The Washington PostGreenland war powers vote could be heading to Senate floor&nbsp;&nbsp;Polit..."
+summary: "Trump discussing how to acquire Greenland, US military always an option, White House says&nbsp;&nbsp;ReutersWhite House discussing ‘options’ to acquire Greenland, says military use isn’t off the table&nbsp;&nbsp;CNNWhy Trump wants Greenland — and what makes it so important for national security&nbsp;&nbsp;CNBCWhite House floats military option for Greenland, rattling Denmark and NATO&nbsp;&nbsp;The Washington PostGreenland war powers vote could be heading to Senate floor&nbsp;&nbsp;Polit..."
+slug: "trump-discussing-how-to-acquire-greenland-us-military-always-an-option-white-house-says-reuters"
+image: ''
+link: 'https://news.google.com/rss/articles/CBMivAFBVV95cUxPSzVpWV9yM3JJWG5jMDRfRWZFUmJ1QWU0QmFGOGNRTlNCT3NTN3R5SFQ0UFA4QUlXSW95eWIzTTJBQlVKLTM1UVpENTFUal8yeXltWVF6QW1qemtOOEZ6QnFKM08zRXZRS3hncWpWYlFSeWhBbXJuOUZXQjBrdXF0VXlITnlVUjZHYzZCUUZhQXZZRVVuMjAtVHVoa2l0WG1pR2hibmFnbFhXZ1lzczVKZGpLeW1SWWw0UEJfVQ?oc=5'
+source: 'https://news.google.com/rss/topics/CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx1YlY4U0FtVnVHZ0pWVXlnQVAB?hl=en-US&gl=US&ceid=US:en'
+categories:
+- 'news.google.com'
+tags:
+- 'discussing'
+- 'greenland'
+- 'military'
+- 'acquire'
+- 'reuters'
+
+draft: false
+---
+<ol><li><a href="https://news.google.com/rss/articles/CBMivAFBVV95cUxPSzVpWV9yM3JJWG5jMDRfRWZFUmJ1QWU0QmFGOGNRTlNCT3NTN3R5SFQ0UFA4QUlXSW95eWIzTTJBQlVKLTM1UVpENTFUal8yeXltWVF6QW1qemtOOEZ6QnFKM08zRXZRS3hncWpWYlFSeWhBbXJuOUZXQjBrdXF0VXlITnlVUjZHYzZCUUZhQXZZRVVuMjAtVHVoa2l0WG1pR2hibmFnbFhXZ1lzczVKZGpLeW1SWWw0UEJfVQ?oc=5" target="_blank">Trump discussing how to acquire Greenland, US military always an option, White House says</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font></li><li><a href="https://news.google.com/rss/articles/CBMieEFVX3lxTFBBQW5CVVVndVlrVjJwclZBcGd1UjBaaWJ6RVJRbV9VcmM3UUE2cXhycTJpOFRCZWdRdW8wMzVWTWc0c0ZkX3laZmtYbUpfLVRBUDlpZzNEQ0dqTGYwYl80MEhZVnFwVmh0N3BEdEFHV2lLTnpIUWtSTg?oc=5" target="_blank">White House discussing ‘options’ to acquire Greenland, says military use isn’t off the table</a>&nbsp;&nbsp;<font color="#6f6f6f">CNN</font></li><li><a href="https://news.google.com/rss/articles/CBMiqgFBVV95cUxNWnFYT1l0b1R4d2dzRE1GMl9QSVRpQ3FFcXV1b3hkMk5ZLXpHTjNJV1BSV2FiT3dWNUFGRFp3UkdvUTRpcWpBNzN1Z3NVSENGdXMtXzk3dVdhc3l4bGhjTVJaSEpmSjBCOV9qdjY5eDZrTEtSM1kxN1FfTmthSTB2anR4VHlmZVpBb3FEaFFmNlBUd1h6ZWswWHZ0YVlXdUV6MVR0bUFZLVZqQdIBrwFBVV95cUxQdW5STm1OVjhfRWdfREppUFFFa3dLNUZFeFZScTZYWHBJcHVLd015RjJrSEdLSUN6N3BlQzZhV25CM09maUtGSUNOYWNhWWNoZHF4UUNxeGJwWHQxNWJBT3NpQ2czd1V0N3l1ajhfOUZiOFJDU2Jkcmo3aXVFVWFrUzlxOUxzc1lfYkVrdnhCSXVmVGVlalhoTElOdVlya0R6WnNKYUhRYTAzd0FFWWdJ?oc=5" target="_blank">Why Trump wants Greenland — and what makes it so important for national security</a>&nbsp;&nbsp;<font color="#6f6f6f">CNBC</font></li><li><a href="https://news.google.com/rss/articles/CBMixgFBVV95cUxNMEF5cTlyLTVsdmdJVmRDdWRvVnpTNTBxNWhQWjJvdjZTbzBfanBPN0xFV0RSVmFvYUtWOUQ5ZExMczJnRXpqdGgwcUo2MVJUZHV6VThFYVMzQWRPc0hBNUtJOHppRWsybkpGOHVfZjNsXzRkMjRoaWlVcEZDSDJ4SDZPNWVlZUVJTFcyT2NFTm80TmwweXcyV2VsODltZEtVV2dzNnZQejd6M18yeW9SUU1SSkJVdzBzN1QwZk9zUzBJTkNrM2c?oc=5" target="_blank">White House floats military option for Greenland, rattling Denmark and NATO</a>&nbsp;&nbsp;<font color="#6f6f6f">The Washington Post</font></li><li><a href="https://news.google.com/rss/articles/CBMimwFBVV95cUxOd1FuSG4zNFFUbkNfV0I3ZnBYRE9BSktuWEtqcWZMRzlZSUdxeHF0UnJaa3ZhYTJQUFVoeUgzSnBFLUNjcngzNTR4MHRyUDd1UjVwd2pfeUdId1FlakkzSmpwbG1EclU2cmZPeWNYTmdGcV9mcE5nRVdNVEU2U2xoM1NGQVQ3M1NGR1hTWUVRemNoNEpMaS1HaGd5OA?oc=5" target="_blank">Greenland war powers vote could be heading to Senate floor</a>&nbsp;&nbsp;<font color="#6f6f6f">Politico</font></li></ol>
