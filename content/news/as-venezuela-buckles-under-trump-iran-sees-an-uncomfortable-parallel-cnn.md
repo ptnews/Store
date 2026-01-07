@@ -1,0 +1,21 @@
+---
+title: "As Venezuela buckles under Trump, Iran sees an uncomfortable parallel - CNN"
+date: 2026-01-07
+description: "As Venezuela buckles under Trump, Iran sees an uncomfortable parallel&nbsp;&nbsp;CNNProtest-hit Iran warily watches the US after its raid on Venezuela&nbsp;&nbsp;ABC NewsTrump’s abduction of Maduro escalates concerns over potential war with Iran&nbsp;&nbsp;Al JazeeraIran’s Calculations Are Scrambled by U.S. Raid in Caracas&nbsp;&nbsp;The Wall Street Journal'This Big Truck Is Coming': Iran After The Maduro Kidnapping&nbsp;&nbsp;FOREVER WARS by Spencer Ackerman"
+summary: "As Venezuela buckles under Trump, Iran sees an uncomfortable parallel&nbsp;&nbsp;CNNProtest-hit Iran warily watches the US after its raid on Venezuela&nbsp;&nbsp;ABC NewsTrump’s abduction of Maduro escalates concerns over potential war with Iran&nbsp;&nbsp;Al JazeeraIran’s Calculations Are Scrambled by U.S. Raid in Caracas&nbsp;&nbsp;The Wall Street Journal'This Big Truck Is Coming': Iran After The Maduro Kidnapping&nbsp;&nbsp;FOREVER WARS by Spencer Ackerman"
+slug: "as-venezuela-buckles-under-trump-iran-sees-an-uncomfortable-parallel-cnn"
+image: ''
+link: 'https://news.google.com/rss/articles/CBMigwFBVV95cUxQU0hRZkZYaXZINlJMdDZGczUxTWt2b0VReEUxM3RHMW9zV1FuTU9sZ25Qd2hSQWx3NmtNYzRuYUxvMXJMQVROeTlXT1hud055Wk5mQUlJaUNBYzhXdWk3MkYtN0ZWazdQdm5qNGU0MWxqNEh2ZGR0M2d1UWhtbnJqMzdodw?oc=5'
+source: 'https://news.google.com/rss/topics/CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx1YlY4U0FtVnVHZ0pWVXlnQVAB?hl=en-US&gl=US&ceid=US:en'
+categories:
+- 'news.google.com'
+tags:
+- 'uncomfortable'
+- 'venezuela'
+- 'parallel'
+- 'buckles'
+- 'under'
+
+draft: false
+---
+<ol><li><a href="https://news.google.com/rss/articles/CBMigwFBVV95cUxQU0hRZkZYaXZINlJMdDZGczUxTWt2b0VReEUxM3RHMW9zV1FuTU9sZ25Qd2hSQWx3NmtNYzRuYUxvMXJMQVROeTlXT1hud055Wk5mQUlJaUNBYzhXdWk3MkYtN0ZWazdQdm5qNGU0MWxqNEh2ZGR0M2d1UWhtbnJqMzdodw?oc=5" target="_blank">As Venezuela buckles under Trump, Iran sees an uncomfortable parallel</a>&nbsp;&nbsp;<font color="#6f6f6f">CNN</font></li><li><a href="https://news.google.com/rss/articles/CBMipAFBVV95cUxQQ01kUEtIaTRabEtDd1FlSFJ1Ynh2eU5DSHRWNFB1RGZyMDNoUVhmeEVHX2lSUTBNTmdRQ3paYXlsNTVtaUF4OXBVbGdXSHh6S1hxWXZUM0NSaUlUU3FXZml2c253UkRLUU9CUkltbEdQMHdIdDBZOWpGcy16aTRReVl5MXQ0TlY1OWczNXBWNzBoUUFfRVRzcEtMZUVNSDczWVp6bdIBqgFBVV95cUxPQ0JmbmtWR1hkajdhQXQ3RXZ6eGU2QW44MGY4d1Rxa05yS1RDZVA5b1ZRTHRTUXpPOXdyelY0U0wxZXE1MWRFX3FIT244TzZkZ0tRTlN1a1J5d25wQnFJYzQ1YVdkcDM4R0J6WXFVZmdQZ3BUSUduRXoyYWpDVHp0RExGUlVSY0dZYlh2UWlOUjNaVnVTWkNubWNHb1ZQZWNtZEJBQjhUS1o4dw?oc=5" target="_blank">Protest-hit Iran warily watches the US after its raid on Venezuela</a>&nbsp;&nbsp;<font color="#6f6f6f">ABC News</font></li><li><a href="https://news.google.com/rss/articles/CBMitAFBVV95cUxNLWhXTjNpR3RyWm9NSThWZXVSRzhyNnhQUTRmLXdnUDlQSnFtczVCRkd6Q3lOZms0MGd5OF9KbUZYcHJ3aUw4bVVOZDY4MGEwZEJ0TWpDS0Y1c1NNNFJhaGczUmRISloxZ3Y0Ry1IYzg1NGRYQWhITDU2b3JTT3p6cC1VaHAzOXZZUlY5XzFub3A0RHZpWXpSRmRpbWRITFdCWlp1Q2haV3J1OGRncGZyOUNMbWLSAboBQVVfeXFMT09LNnRfVFY3bmtPNDMyUDlqdi1JX0ZOZ1ZiMk5xS201bW5reWhQRUtYUHRzaGhjTUpuMkRyQWlxU3oyYTNZTUJIMDJLOGhwOXo4Yi1OcXVyRUdtYXpWTUhyenRaWUVxbEF0Z3RwRjY4dk1ySTJORWVabmtjTmQ3dThkZ0d5TWNIalJvTGwwcm1uWEVucy0xRkI4MnVZeGhoLUdlSTd1OVRUeUNfZ2FoemtnaW1CUUxQVFF3?oc=5" target="_blank">Trump’s abduction of Maduro escalates concerns over potential war with Iran</a>&nbsp;&nbsp;<font color="#6f6f6f">Al Jazeera</font></li><li><a href="https://news.google.com/rss/articles/CBMipAFBVV95cUxOZ1VNenR6cllhN3NjVTd6NkRJRTl4aVlRaEFucl9pN3ZTT0Y5eHJtbFZRZEV5V1RpXzg1d013a0M3dlFhTDhGMG9yZDZIcTZBRHJFS3NCXzRxLTk0WGowYWJ0c3ZOXzN5d3AyZFRZYmxIV2g4aXdablVMZ3FWcjA3LVR3WVF3YmxENlNyVXVCYUFfb1dKXzdaX0VqbjQtYWpqdEZsSw?oc=5" target="_blank">Iran’s Calculations Are Scrambled by U.S. Raid in Caracas</a>&nbsp;&nbsp;<font color="#6f6f6f">The Wall Street Journal</font></li><li><a href="https://news.google.com/rss/articles/CBMikAFBVV95cUxQNl9QLUNuc1V6VVozaVhrZUJXSmJIWjZvOHJvdnJfQTlJOWUyZXZmQ29ldlM4S2o4SXo2cTNodHVWY0RZZ2VpRHRCbXpMYVhhMldDSWp6eng2SXJmWXNFTDNaQkY1T0RtTVJXR3hVY0pGVXRhNlFjampMSEVvWXhMaWVWcXRXWkgzZmhqb3lCQUs?oc=5" target="_blank">'This Big Truck Is Coming': Iran After The Maduro Kidnapping</a>&nbsp;&nbsp;<font color="#6f6f6f">FOREVER WARS by Spencer Ackerman</font></li></ol>
