@@ -1,0 +1,21 @@
+---
+title: "South Korea's Lee, in Beijing, says he seeks full restoration of China ties in 2026 - NBC News"
+date: 2026-01-07
+description: "South Korea's Lee, in Beijing, says he seeks full restoration of China ties in 2026&nbsp;&nbsp;NBC NewsWhy China Stopped Publicly Urging for North Korean Denuclearization&nbsp;&nbsp;The Wall Street JournalSouth Korea's Lee says he asked Xi to play a mediating role on North Korea&nbsp;&nbsp;ReutersChina, South Korea sign US$44 million in trade deals after years of friction&nbsp;&nbsp;South China Morning PostSouth Korea’s Lee Sees Japan Ties as Vital as China Relations&nbsp;&nbsp;Bloomberg.com"
+summary: "South Korea's Lee, in Beijing, says he seeks full restoration of China ties in 2026&nbsp;&nbsp;NBC NewsWhy China Stopped Publicly Urging for North Korean Denuclearization&nbsp;&nbsp;The Wall Street JournalSouth Korea's Lee says he asked Xi to play a mediating role on North Korea&nbsp;&nbsp;ReutersChina, South Korea sign US$44 million in trade deals after years of friction&nbsp;&nbsp;South China Morning PostSouth Korea’s Lee Sees Japan Ties as Vital as China Relations&nbsp;&nbsp;Bloomberg.com"
+slug: "south-korea-s-lee-in-beijing-says-he-seeks-full-restoration-of-china-ties-in-2026-nbc-news"
+image: ''
+link: 'https://news.google.com/rss/articles/CBMitAFBVV95cUxQM3RDVnMzM1BubGdsb0J3WXJ4Wl9DRjNQdHlXNm9oZTdlVFRqQzNOOXJwY1czNkJPdzFITGp1bmRGOXdVa0tnTlhfTS1FSHE3bnVwYVEtR09KYW1OZGJKRTJ5WmQyNDJDR1dUTG1RZXBMZVRNczNPczNHTU5JODNSU0FBWE9abVUtMVFUdk5qMlpITVRLTml4akpVSnFZTVBsaUIwSnJyQWx0Q3hTal9YQmxRdjjSAVZBVV95cUxPSU9uQmdvNnpWZ0NWdTdvbUZpNm9DSmc1OXB0bU5nblNNa0FwbXNIQkF4WTlxdjRIbmMza1A4SUR5a3hFTnB5WmNNT21oMDRfTU91T1Q1QQ?oc=5'
+source: 'https://news.google.com/rss/topics/CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx1YlY4U0FtVnVHZ0pWVXlnQVAB?hl=en-US&gl=US&ceid=US:en'
+categories:
+- 'news.google.com'
+tags:
+- 'restoration'
+- 'beijing'
+- 'south'
+- 'korea'
+- 'seeks'
+
+draft: false
+---
+<ol><li><a href="https://news.google.com/rss/articles/CBMitAFBVV95cUxQM3RDVnMzM1BubGdsb0J3WXJ4Wl9DRjNQdHlXNm9oZTdlVFRqQzNOOXJwY1czNkJPdzFITGp1bmRGOXdVa0tnTlhfTS1FSHE3bnVwYVEtR09KYW1OZGJKRTJ5WmQyNDJDR1dUTG1RZXBMZVRNczNPczNHTU5JODNSU0FBWE9abVUtMVFUdk5qMlpITVRLTml4akpVSnFZTVBsaUIwSnJyQWx0Q3hTal9YQmxRdjjSAVZBVV95cUxPSU9uQmdvNnpWZ0NWdTdvbUZpNm9DSmc1OXB0bU5nblNNa0FwbXNIQkF4WTlxdjRIbmMza1A4SUR5a3hFTnB5WmNNT21oMDRfTU91T1Q1QQ?oc=5" target="_blank">South Korea's Lee, in Beijing, says he seeks full restoration of China ties in 2026</a>&nbsp;&nbsp;<font color="#6f6f6f">NBC News</font></li><li><a href="https://news.google.com/rss/articles/CBMiqwFBVV95cUxPM1dUR09samlVWE9kNVM3NFlNRldGMGZReHdFaWpBdXowVXdRVERiTkhCR3dtT0V4Mmlyb0gtUkVFbENsVmp6Q1FGUHlYTnVNcHREMHBYV2pVVE9kc05rdVN2Q1pxdjIxV21samRQcUVYcHJxeUNKZmxwWEhPek1pVnl1ZTY0UW9TVUM0OWlST0NhOEdFYzloYXhZZ3ZuSGV5MTdmMVQ4NlRRLUk?oc=5" target="_blank">Why China Stopped Publicly Urging for North Korean Denuclearization</a>&nbsp;&nbsp;<font color="#6f6f6f">The Wall Street Journal</font></li><li><a href="https://news.google.com/rss/articles/CBMiswFBVV95cUxNazZMbU90VFZFbXl5N3l1WGV1Y21vaWZwUnVveW83eDM0SlVxenN1azVHcVFpb2tOVmdUdWNFbEpJVXlkNnZQMTlaNFdwSEtudVYtMWFfblhOMTZqdzR3bWFQd29vNzg3eUJwOVZBdDV3eUZtTmo2ZTB1dExmbERkUTA2MjFEd0JQaGxINnBhUkw4Rm00RWtZY2tZS3k3NlZrWExKdnA2SndGc0x2SHFEWGJacw?oc=5" target="_blank">South Korea's Lee says he asked Xi to play a mediating role on North Korea</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font></li><li><a href="https://news.google.com/rss/articles/CBMixgFBVV95cUxQazJ0SkxHczEyUmE0TlBoZ1lPa0FwQm1KZ3pZR3hMVndVeE5meXhLQVBjdVRKVUNwQnBueFRuUm5POE45aUVFalozM2ZJeUlIaGNFeEJ3b0lzalEtRi05WmlzYjVoLTc0TUt2a2oyLTN6XzdNSWZPTWtGLWExRDc5NFBuWWppVUIyUXdSRUF5RXFBV0t4VXhxT1c0SWh0N0hGWV9BTTVXOVE3amlvU09VWlVPUDVTdXFoUExUQklTc0ZpbnZqUUE?oc=5" target="_blank">China, South Korea sign US$44 million in trade deals after years of friction</a>&nbsp;&nbsp;<font color="#6f6f6f">South China Morning Post</font></li><li><a href="https://news.google.com/rss/articles/CBMisgFBVV95cUxQWG45andlWG5xYmxzRUdGTGpnZnV6eXpnU0phQTVRZ3ZYQmI1Mnl5d0NYZ3FnRjNHeEEtcjVuLXVQa09QUFc4NUdfMkRfN3BGR19abTF3SEFQVkFMTkdHOFhNWE9BTEN0ZjN6MVlZbTk5OUNPQWlJNjlPU2RJS1Y2RFJYN0Z0SDhicmg2QVp4d0Z6TUFpbGZibm55cHNMR1JvazlnclJIOERXaHZBOFF3WW93?oc=5" target="_blank">South Korea’s Lee Sees Japan Ties as Vital as China Relations</a>&nbsp;&nbsp;<font color="#6f6f6f">Bloomberg.com</font></li></ol>
