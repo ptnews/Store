@@ -1,0 +1,21 @@
+---
+title: "Weather tracker: Arctic air grips Europe as severe winds batter Corsica - The Guardian"
+date: 2026-01-07
+description: "Weather tracker: Arctic air grips Europe as severe winds batter Corsica&nbsp;&nbsp;The GuardianWestern Europe braces for another wave of snow and ice&nbsp;&nbsp;ReutersEurope Braces for Major Winter Impact: Deep Snow and Severe Cold Through Mid-January&nbsp;&nbsp;Severe Weather EuropeFrance Unites Ireland, Switzerland, Italy, Spain, Sweden, and Norway Hit by Historic Snow and Storm Surge – Tourists in Europe Face New Spree of Travel Nightmare: What You Need to Know&nbsp;&nbsp;Travel And Tour W..."
+summary: "Weather tracker: Arctic air grips Europe as severe winds batter Corsica&nbsp;&nbsp;The GuardianWestern Europe braces for another wave of snow and ice&nbsp;&nbsp;ReutersEurope Braces for Major Winter Impact: Deep Snow and Severe Cold Through Mid-January&nbsp;&nbsp;Severe Weather EuropeFrance Unites Ireland, Switzerland, Italy, Spain, Sweden, and Norway Hit by Historic Snow and Storm Surge – Tourists in Europe Face New Spree of Travel Nightmare: What You Need to Know&nbsp;&nbsp;Travel And Tour W..."
+slug: "weather-tracker-arctic-air-grips-europe-as-severe-winds-batter-corsica-the-guardian"
+image: ''
+link: 'https://news.google.com/rss/articles/CBMiqAFBVV95cUxOMlk3VHFfOHo1SDBJVU04eGlMQzZKZkwtLWZmT3ZZX2FQcnIxblZkVU1YSlk2QmxoT3MtZDE1V3pvMmNxRVNYTGFYVHdzdjFWTlhsa3l3YmxuMTByV3NQQTcyQXFld0VuTVJ5OXExaUVOSnhadVpPOWJZbW1aR3RpOWpJRm5wMFVZYXhfNWQtb3loWUw5LU16aFlhRy1uUWhxU0llN0lzS3c?oc=5'
+source: 'https://news.google.com/rss/topics/CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx1YlY4U0FtVnVHZ0pWVXlnQVAB?hl=en-US&gl=US&ceid=US:en'
+categories:
+- 'news.google.com'
+tags:
+- 'guardian'
+- 'weather'
+- 'tracker'
+- 'corsica'
+- 'arctic'
+
+draft: false
+---
+<ol><li><a href="https://news.google.com/rss/articles/CBMiqAFBVV95cUxOMlk3VHFfOHo1SDBJVU04eGlMQzZKZkwtLWZmT3ZZX2FQcnIxblZkVU1YSlk2QmxoT3MtZDE1V3pvMmNxRVNYTGFYVHdzdjFWTlhsa3l3YmxuMTByV3NQQTcyQXFld0VuTVJ5OXExaUVOSnhadVpPOWJZbW1aR3RpOWpJRm5wMFVZYXhfNWQtb3loWUw5LU16aFlhRy1uUWhxU0llN0lzS3c?oc=5" target="_blank">Weather tracker: Arctic air grips Europe as severe winds batter Corsica</a>&nbsp;&nbsp;<font color="#6f6f6f">The Guardian</font></li><li><a href="https://news.google.com/rss/articles/CBMiogFBVV95cUxQSGpxUGltX2E4aDB4a2hkdnN5UzFDNGVMc09WU1NCeGRJVHJ5T1FkRm5OWU01R2lPb3NFTGdCTDFLUlkzYk5SNXRPdHRCclVuQnVXX2pHTHpTa09GMW5ISnI1YXlXTU1TWGxRdnpvZkxIRGJvTUVaWF9WTlduZGliWlVycV8xYWRKSWJBeWJpZk1fVERWUFpqUWw5dWhreE4yenc?oc=5" target="_blank">Western Europe braces for another wave of snow and ice</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font></li><li><a href="https://news.google.com/rss/articles/CBMiugFBVV95cUxOSWxlQVk0aVBDdzgwQmVrb2V1TnFpSmo2QmFTMUxrSVVBcGRwX0FLekNJdXNta1NFWFJxMy1SeENwemVFeTZ4NnhFWjNTUXY5OExHcXFzbE93YW1GcHF3Rng1TWI1ay1Yd0JzTGxkM3dhaXJEZGVEYUVGZEU0RVY3UFpucTQ4TDhBcDNvSmZKT2NSRU1oV1RLdVhKMlkzUnJibHdsTGdSSDNJTS1PZjN2R09jZk41N3FGNFE?oc=5" target="_blank">Europe Braces for Major Winter Impact: Deep Snow and Severe Cold Through Mid-January</a>&nbsp;&nbsp;<font color="#6f6f6f">Severe Weather Europe</font></li><li><a href="https://news.google.com/rss/articles/CBMiyAJBVV95cUxPdTVteXM4cFM1MTBNOFpjQk5RZ28ySjQ0cDVoWVR6SFpRdVpab2xsS2tLQVMyUFRnSUFkUUs2cFc3OTBrNDR4d2RON2QtZXVpZEV1S0pIWGp1UHhOUTljaEI4emoyLVU2aE9qcElvMnAwaUZvazI4Z2U1WllnVjgxZmZYZndic3ZuN1Vhd1dzdFdKWjNUdnQwaURMYmR0U01qMmpDSTNCOXhFVFhfb1F1Z3dvUFJfRU1ZQlk5MmlPcTJQaXJ0QTNMcE9vSzFSbmR1cDZmdHdJdjhkREtPVmJUZG9PRVNJTlVDMVhIcjBIYnBxQ3YyMkt2QlFab0w3cWwtNWtEWnVMSDNNTExwYllMN21wTWJNR1hseUVycU5xWnV5eFl2TGYtTWt6WVFSdUMxdTZWbnRtZzZFSU5VaWFjNC1XRmc3aHFu?oc=5" target="_blank">France Unites Ireland, Switzerland, Italy, Spain, Sweden, and Norway Hit by Historic Snow and Storm Surge – Tourists in Europe Face New Spree of Travel Nightmare: What You Need to Know</a>&nbsp;&nbsp;<font color="#6f6f6f">Travel And Tour World</font></li><li><a href="https://news.google.com/rss/articles/CBMieEFVX3lxTFBlMERGdzZoVGh4UnVvUTRvbVUtQ1NFX0J1M0RkZjRRY05XZldGS2dseC1MSTE4MjhWd0p1aUdrOFB3elBIT3ZBcHJYd2NzdE1RdTN0OTluOEVtR3ZBX3FYZm43Q21EbFZxekcwUFk4RTU5cEd1M0JONw?oc=5" target="_blank">Global Weather丨Most of Europe Continues to Experience Heavy Snowfall</a>&nbsp;&nbsp;<font color="#6f6f6f">cma.gov.cn</font></li></ol>
