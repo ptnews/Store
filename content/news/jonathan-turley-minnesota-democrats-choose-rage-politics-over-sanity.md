@@ -1,5 +1,5 @@
 ---
-title: "JONATHAN TURLEY: Minnesota Democrats' choose 'rage politics' over sanity"
+title: "JONATHAN TURLEY: Minnesota Democrats choose 'rage politics' over sanity"
 date: 2026-01-08
 description: "New York Democrat Rep. Dan Goldman and Minneapolis officials dismiss due process in case involving shooting of woman who sped toward ICE agent."
 summary: "New York Democrat Rep. Dan Goldman and Minneapolis officials dismiss due process in case involving shooting of woman who sped toward ICE agent."
