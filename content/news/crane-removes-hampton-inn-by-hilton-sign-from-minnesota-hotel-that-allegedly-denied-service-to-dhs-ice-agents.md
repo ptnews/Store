@@ -1,5 +1,5 @@
 ---
-title: "Crane removes Hampton Inn By Hilton sign from Minnesota hotel that allegedly denied service to DHS, ICE agents"
+title: "Crane removes Hampton Inn by Hilton sign from Minnesota hotel that allegedly denied service to DHS, ICE agents"
 date: 2026-01-08
 description: "Photos captured a crane removing a Hampton Inn sign from a hotel in the Minneapolis area that allegedly refused to accommodate ICE and DHS agents."
 summary: "Photos captured a crane removing a Hampton Inn sign from a hotel in the Minneapolis area that allegedly refused to accommodate ICE and DHS agents."

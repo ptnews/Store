@@ -1,5 +1,5 @@
 ---
-title: "Marco Rubio jokingly shuts down 'rumors' he is looking to become Dolphins next head coach"
+title: "Marco Rubio jokingly shuts down 'rumors' he is looking to become Dolphins' next head coach"
 date: 2026-01-08
 description: "Sen. Marco Rubio poked fun at online speculation, saying he has no plans to pursue the Miami Dolphins’ head coaching job after Mike McDaniel was fired."
 summary: "Sen. Marco Rubio poked fun at online speculation, saying he has no plans to pursue the Miami Dolphins’ head coaching job after Mike McDaniel was fired."

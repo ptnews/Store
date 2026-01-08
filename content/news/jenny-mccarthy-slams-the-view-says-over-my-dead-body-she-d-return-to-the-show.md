@@ -1,8 +1,8 @@
 ---
 title: "Jenny McCarthy slams 'The View,' says 'over my dead body' she'd return to the show"
 date: 2026-01-08
-description: "Jenny McCarthy firmly refuses to return to &quot;The View&quot; for any reunions, saying &quot;over my dead body&quot; after her difficult season 17 experience on the show."
-summary: "Jenny McCarthy firmly refuses to return to &quot;The View&quot; for any reunions, saying &quot;over my dead body&quot; after her difficult season 17 experience on the show."
+description: "Jenny McCarthy firmly refuses to return to &quot;The View&quot; for any reunions, saying &quot;over my dead body&quot; after her difficult Season 17 experience on the show."
+summary: "Jenny McCarthy firmly refuses to return to &quot;The View&quot; for any reunions, saying &quot;over my dead body&quot; after her difficult Season 17 experience on the show."
 slug: "jenny-mccarthy-slams-the-view-says-over-my-dead-body-she-d-return-to-the-show"
 image: ''
 link: 'https://www.foxnews.com/entertainment/jenny-mccarthy-slams-the-view-says-over-my-dead-body-return-show'
