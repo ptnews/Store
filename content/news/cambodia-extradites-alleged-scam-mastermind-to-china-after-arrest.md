@@ -1,6 +1,6 @@
 ---
 title: "Cambodia extradites alleged scam mastermind to China after arrest"
-date: 2026-01-07
+date: 2026-01-08
 description: "Chen Zhi is charged with turning his business into a front for fraud hubs that stole from people around the world."
 summary: "Chen Zhi is charged with turning his business into a front for fraud hubs that stole from people around the world."
 slug: "cambodia-extradites-alleged-scam-mastermind-to-china-after-arrest"

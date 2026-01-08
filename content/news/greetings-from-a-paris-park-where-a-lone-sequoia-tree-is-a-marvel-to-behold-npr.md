@@ -1,6 +1,6 @@
 ---
 title: "Greetings from a Paris park, where a lone sequoia tree is a marvel to behold - NPR"
-date: 2026-01-07
+date: 2026-01-08
 description: "Greetings from a Paris park, where a lone sequoia tree is a marvel to behold&nbsp;&nbsp;NPR"
 summary: "Greetings from a Paris park, where a lone sequoia tree is a marvel to behold&nbsp;&nbsp;NPR"
 slug: "greetings-from-a-paris-park-where-a-lone-sequoia-tree-is-a-marvel-to-behold-npr"

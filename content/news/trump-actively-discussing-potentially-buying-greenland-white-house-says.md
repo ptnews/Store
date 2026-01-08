@@ -1,6 +1,6 @@
 ---
 title: "Trump actively discussing potentially buying Greenland, White House says"
-date: 2026-01-07
+date: 2026-01-08
 description: "Both Greenland and its owner Denmark have repeatedly stressed the island was not for sale."
 summary: "Both Greenland and its owner Denmark have repeatedly stressed the island was not for sale."
 slug: "trump-actively-discussing-potentially-buying-greenland-white-house-says"

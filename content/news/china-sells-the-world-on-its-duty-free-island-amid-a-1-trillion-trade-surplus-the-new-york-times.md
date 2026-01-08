@@ -1,6 +1,6 @@
 ---
 title: "China Sells the World on Its Duty-Free Island, Amid a $1 Trillion Trade Surplus - The New York Times"
-date: 2026-01-07
+date: 2026-01-08
 description: "China Sells the World on Its Duty-Free Island, Amid a $1 Trillion Trade Surplus&nbsp;&nbsp;The New York TimesChina bets on province the size of Belgium to reshape global trade&nbsp;&nbsp;Euronews.comHaikou Positions Itself as a Global Hub for Tourism, Culture and International Events, Showcasing Their Thriving Ecosystem and Free Trade Port Advantages&nbsp;&nbsp;Travel And Tour WorldDuty-free shopping further fuels Hainan's holiday travel boom&nbsp;&nbsp;China Daily - Global EditionHainan Free Tr..."
 summary: "China Sells the World on Its Duty-Free Island, Amid a $1 Trillion Trade Surplus&nbsp;&nbsp;The New York TimesChina bets on province the size of Belgium to reshape global trade&nbsp;&nbsp;Euronews.comHaikou Positions Itself as a Global Hub for Tourism, Culture and International Events, Showcasing Their Thriving Ecosystem and Free Trade Port Advantages&nbsp;&nbsp;Travel And Tour WorldDuty-free shopping further fuels Hainan's holiday travel boom&nbsp;&nbsp;China Daily - Global EditionHainan Free Tr..."
 slug: "china-sells-the-world-on-its-duty-free-island-amid-a-1-trillion-trade-surplus-the-new-york-times"

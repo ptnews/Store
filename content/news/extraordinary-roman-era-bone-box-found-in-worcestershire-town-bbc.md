@@ -1,6 +1,6 @@
 ---
 title: "'Extraordinary' Roman era bone box found in Worcestershire town - BBC"
-date: 2026-01-07
+date: 2026-01-08
 description: "'Extraordinary' Roman era bone box found in Worcestershire town&nbsp;&nbsp;BBC"
 summary: "'Extraordinary' Roman era bone box found in Worcestershire town&nbsp;&nbsp;BBC"
 slug: "extraordinary-roman-era-bone-box-found-in-worcestershire-town-bbc"

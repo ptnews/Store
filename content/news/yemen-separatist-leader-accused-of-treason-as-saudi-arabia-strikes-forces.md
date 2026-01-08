@@ -1,6 +1,6 @@
 ---
 title: "Yemen separatist leader accused of treason as Saudi Arabia strikes forces"
-date: 2026-01-07
+date: 2026-01-08
 description: "The presidency also expels Aidarous al-Zubaidi, head of the UAE-backed Southern Transitional Council, after he fails to fly to Riyadh for talks."
 summary: "The presidency also expels Aidarous al-Zubaidi, head of the UAE-backed Southern Transitional Council, after he fails to fly to Riyadh for talks."
 slug: "yemen-separatist-leader-accused-of-treason-as-saudi-arabia-strikes-forces"

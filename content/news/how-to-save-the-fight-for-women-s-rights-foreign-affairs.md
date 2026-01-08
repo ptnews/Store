@@ -1,6 +1,6 @@
 ---
 title: "How to Save the Fight for Women’s Rights - Foreign Affairs"
-date: 2026-01-07
+date: 2026-01-08
 description: "How to Save the Fight for Women’s Rights&nbsp;&nbsp;Foreign AffairsWomen’s Rights Under Siege—but We’ve Come Too Far to Go Back&nbsp;&nbsp;Nonprofit QuarterlyYes, women’s rights are under threat around the world. But we’ve found hope in unlikely places | Rahila Gupta&nbsp;&nbsp;The GuardianResistance, Backlash, and Survival&nbsp;&nbsp;LA ProgressiveProgress and persistent challenges mark women's rights in 21st century&nbsp;&nbsp;Yeni Safak English"
 summary: "How to Save the Fight for Women’s Rights&nbsp;&nbsp;Foreign AffairsWomen’s Rights Under Siege—but We’ve Come Too Far to Go Back&nbsp;&nbsp;Nonprofit QuarterlyYes, women’s rights are under threat around the world. But we’ve found hope in unlikely places | Rahila Gupta&nbsp;&nbsp;The GuardianResistance, Backlash, and Survival&nbsp;&nbsp;LA ProgressiveProgress and persistent challenges mark women's rights in 21st century&nbsp;&nbsp;Yeni Safak English"
 slug: "how-to-save-the-fight-for-women-s-rights-foreign-affairs"

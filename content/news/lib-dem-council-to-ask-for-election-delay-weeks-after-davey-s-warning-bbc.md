@@ -1,6 +1,6 @@
 ---
 title: "Lib Dem council to ask for election delay weeks after Davey's warning - BBC"
-date: 2026-01-07
+date: 2026-01-08
 description: "Lib Dem council to ask for election delay weeks after Davey's warning&nbsp;&nbsp;BBC"
 summary: "Lib Dem council to ask for election delay weeks after Davey's warning&nbsp;&nbsp;BBC"
 slug: "lib-dem-council-to-ask-for-election-delay-weeks-after-davey-s-warning-bbc"

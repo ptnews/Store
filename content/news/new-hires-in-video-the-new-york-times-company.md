@@ -1,6 +1,6 @@
 ---
 title: "New Hires in Video - The New York Times Company"
-date: 2026-01-07
+date: 2026-01-08
 description: "New Hires in Video&nbsp;&nbsp;The New York Times Company"
 summary: "New Hires in Video&nbsp;&nbsp;The New York Times Company"
 slug: "new-hires-in-video-the-new-york-times-company"

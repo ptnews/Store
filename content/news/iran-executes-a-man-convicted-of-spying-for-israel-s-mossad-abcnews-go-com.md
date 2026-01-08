@@ -1,6 +1,6 @@
 ---
 title: "Iran executes a man convicted of spying for Israel's Mossad - abcnews.go.com"
-date: 2026-01-07
+date: 2026-01-08
 description: "Iran executes a man convicted of spying for Israel's Mossad&nbsp;&nbsp;abcnews.go.comIran hangs alleged Israeli spy, leans into anti-Western bluster as it tries to quell deadly protests&nbsp;&nbsp;CBS NewsIran executes man accused of spying for Israel&nbsp;&nbsp;ReutersIran executes another man accused of spying for Israel, as protests roil country&nbsp;&nbsp;The Times of IsraelExecution reported as Iran protest deaths hit three dozen&nbsp;&nbsp;The Jerusalem Post"
 summary: "Iran executes a man convicted of spying for Israel's Mossad&nbsp;&nbsp;abcnews.go.comIran hangs alleged Israeli spy, leans into anti-Western bluster as it tries to quell deadly protests&nbsp;&nbsp;CBS NewsIran executes man accused of spying for Israel&nbsp;&nbsp;ReutersIran executes another man accused of spying for Israel, as protests roil country&nbsp;&nbsp;The Times of IsraelExecution reported as Iran protest deaths hit three dozen&nbsp;&nbsp;The Jerusalem Post"
 slug: "iran-executes-a-man-convicted-of-spying-for-israel-s-mossad-abcnews-go-com"

@@ -1,6 +1,6 @@
 ---
 title: "Tracking the oil tankers seized by the US"
-date: 2026-01-07
+date: 2026-01-08
 description: "The US has announced the seizure of two oil tankers:  the Marinera formerly known as the Bella 1 in the North Atlantic and the Sophia in international waters near the Caribbean."
 summary: "The US has announced the seizure of two oil tankers:  the Marinera formerly known as the Bella 1 in the North Atlantic and the Sophia in international waters near the Caribbean."
 slug: "tracking-the-oil-tankers-seized-by-the-us"

@@ -1,6 +1,6 @@
 ---
 title: "Watch: US seizes oil tanker in Caribbean sea"
-date: 2026-01-07
+date: 2026-01-08
 description: "The US Coast Guard boarded two \"ghost fleet\" tanker ships in a \"meticulously coordinated\" operation, Homeland Security Secretary Kristi Noem said."
 summary: "The US Coast Guard boarded two \"ghost fleet\" tanker ships in a \"meticulously coordinated\" operation, Homeland Security Secretary Kristi Noem said."
 slug: "watch-us-seizes-oil-tanker-in-caribbean-sea"

@@ -1,6 +1,6 @@
 ---
 title: "Rare mountain gorilla twins born in Africa's oldest national park"
-date: 2026-01-07
+date: 2026-01-08
 description: "Trackers in DR Congo's Virunga National Park spotted the babies being hugged by their mother on Saturday."
 summary: "Trackers in DR Congo's Virunga National Park spotted the babies being hugged by their mother on Saturday."
 slug: "rare-mountain-gorilla-twins-born-in-africa-s-oldest-national-park"

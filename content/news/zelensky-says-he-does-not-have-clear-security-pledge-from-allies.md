@@ -1,6 +1,6 @@
 ---
 title: "Zelensky says he does not have clear security pledge from allies"
-date: 2026-01-07
+date: 2026-01-08
 description: "The comments come after the UK and France said they would deploy troops to Ukraine if a peace deal with Russia is agreed."
 summary: "The comments come after the UK and France said they would deploy troops to Ukraine if a peace deal with Russia is agreed."
 slug: "zelensky-says-he-does-not-have-clear-security-pledge-from-allies"

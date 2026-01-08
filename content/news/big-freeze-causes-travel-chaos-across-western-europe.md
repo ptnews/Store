@@ -1,6 +1,6 @@
 ---
 title: "Big freeze causes travel chaos across western Europe"
-date: 2026-01-07
+date: 2026-01-08
 description: "More than 700 flights were cancelled at Amsterdam's Schiphol Airport alone on Wednesday."
 summary: "More than 700 flights were cancelled at Amsterdam's Schiphol Airport alone on Wednesday."
 slug: "big-freeze-causes-travel-chaos-across-western-europe"

@@ -1,6 +1,6 @@
 ---
 title: "How could Donald Trump 'take' Greenland?"
-date: 2026-01-07
+date: 2026-01-08
 description: "The White House says it is considering a range of options to acquire the island, including deploying the military."
 summary: "The White House says it is considering a range of options to acquire the island, including deploying the military."
 slug: "how-could-donald-trump-take-greenland"

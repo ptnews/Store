@@ -1,6 +1,6 @@
 ---
 title: "Crowds line Saint-Tropez streets for Bardot funeral"
-date: 2026-01-07
+date: 2026-01-08
 description: "The French film star had wanted her funeral to be without fanfare - but locals wanted to pay her a proper adieu."
 summary: "The French film star had wanted her funeral to be without fanfare - but locals wanted to pay her a proper adieu."
 slug: "crowds-line-saint-tropez-streets-for-bardot-funeral"

@@ -1,6 +1,6 @@
 ---
 title: "'Fear in the streets': Venezuelans uncertain about what might happen next"
-date: 2026-01-07
+date: 2026-01-08
 description: "The BBC spoke to Venezuelans after the seizure by US forces of Venezuelan leader Nicolás Maduro. "
 summary: "The BBC spoke to Venezuelans after the seizure by US forces of Venezuelan leader Nicolás Maduro. "
 slug: "fear-in-the-streets-venezuelans-uncertain-about-what-might-happen-next"

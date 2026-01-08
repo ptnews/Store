@@ -1,6 +1,6 @@
 ---
 title: "US seizes two 'shadow fleet' tankers linked to Venezuelan oil"
-date: 2026-01-07
+date: 2026-01-08
 description: "The ships were boarded by US forces in predawn operations in the North Atlantic and the Caribbean Sea."
 summary: "The ships were boarded by US forces in predawn operations in the North Atlantic and the Caribbean Sea."
 slug: "us-seizes-two-shadow-fleet-tankers-linked-to-venezuelan-oil"

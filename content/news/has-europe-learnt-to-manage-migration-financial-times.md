@@ -1,6 +1,6 @@
 ---
 title: "Has Europe learnt to manage migration? - Financial Times"
-date: 2026-01-07
+date: 2026-01-08
 description: "Has Europe learnt to manage migration?&nbsp;&nbsp;Financial TimesEU Seals Landmark Deal to Fast-Track Migrant Returns&nbsp;&nbsp;ETIAS.comShould Europe shut its gates to migrants?&nbsp;&nbsp;Times of Malta"
 summary: "Has Europe learnt to manage migration?&nbsp;&nbsp;Financial TimesEU Seals Landmark Deal to Fast-Track Migrant Returns&nbsp;&nbsp;ETIAS.comShould Europe shut its gates to migrants?&nbsp;&nbsp;Times of Malta"
 slug: "has-europe-learnt-to-manage-migration-financial-times"

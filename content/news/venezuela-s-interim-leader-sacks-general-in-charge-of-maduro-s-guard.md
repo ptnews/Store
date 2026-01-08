@@ -1,6 +1,6 @@
 ---
 title: "Venezuela's interim leader sacks general in charge of Maduro's guard"
-date: 2026-01-07
+date: 2026-01-08
 description: "General Javier Marcano Tábata was the commander of the inner circle of guards tasked with protecting Maduro. "
 summary: "General Javier Marcano Tábata was the commander of the inner circle of guards tasked with protecting Maduro. "
 slug: "venezuela-s-interim-leader-sacks-general-in-charge-of-maduro-s-guard"

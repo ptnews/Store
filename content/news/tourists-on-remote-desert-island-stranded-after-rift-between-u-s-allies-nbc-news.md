@@ -1,6 +1,6 @@
 ---
 title: "Tourists on remote desert island stranded after rift between U.S. allies - NBC News"
-date: 2026-01-07
+date: 2026-01-08
 description: "Tourists on remote desert island stranded after rift between U.S. allies&nbsp;&nbsp;NBC NewsHundreds of Tourists on Yemeni Island Caught Up in Saudi-U.A.E. Rift&nbsp;&nbsp;The New York TimesDozens of Italian tourists evacuated from Yemeni island&nbsp;&nbsp;ReutersHundreds of tourists stranded on remote island as troops are pulled from conflict zone&nbsp;&nbsp;Fox NewsHundreds of Tourists Stranded on Paradise Island Amid Conflict&nbsp;&nbsp;The Daily Beast"
 summary: "Tourists on remote desert island stranded after rift between U.S. allies&nbsp;&nbsp;NBC NewsHundreds of Tourists on Yemeni Island Caught Up in Saudi-U.A.E. Rift&nbsp;&nbsp;The New York TimesDozens of Italian tourists evacuated from Yemeni island&nbsp;&nbsp;ReutersHundreds of tourists stranded on remote island as troops are pulled from conflict zone&nbsp;&nbsp;Fox NewsHundreds of Tourists Stranded on Paradise Island Amid Conflict&nbsp;&nbsp;The Daily Beast"
 slug: "tourists-on-remote-desert-island-stranded-after-rift-between-u-s-allies-nbc-news"

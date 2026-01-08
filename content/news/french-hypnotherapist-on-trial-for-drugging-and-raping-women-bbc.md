@@ -1,6 +1,6 @@
 ---
 title: "French 'hypnotherapist' on trial for drugging and raping women - BBC"
-date: 2026-01-07
+date: 2026-01-08
 description: "French 'hypnotherapist' on trial for drugging and raping women&nbsp;&nbsp;BBCFrench hypnotherapist goes on trial for drug-facilitated rape: 'If I had been believed, he would not have destroyed the lives of other women'&nbsp;&nbsp;Le Monde.frHypnotherapist Cyril Zattara accused of drugging and raping 14 women and filming horrifying attacks in France&nbsp;&nbsp;The US SunHypnotist accused of drugging, raping and secretly filming multiple women including friends&nbsp;&nbsp;The Mirror USHypnotherapi..."
 summary: "French 'hypnotherapist' on trial for drugging and raping women&nbsp;&nbsp;BBCFrench hypnotherapist goes on trial for drug-facilitated rape: 'If I had been believed, he would not have destroyed the lives of other women'&nbsp;&nbsp;Le Monde.frHypnotherapist Cyril Zattara accused of drugging and raping 14 women and filming horrifying attacks in France&nbsp;&nbsp;The US SunHypnotist accused of drugging, raping and secretly filming multiple women including friends&nbsp;&nbsp;The Mirror USHypnotherapi..."
 slug: "french-hypnotherapist-on-trial-for-drugging-and-raping-women-bbc"

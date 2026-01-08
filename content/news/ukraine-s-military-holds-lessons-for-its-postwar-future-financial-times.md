@@ -1,6 +1,6 @@
 ---
 title: "Ukraine’s military holds lessons for its postwar future - Financial Times"
-date: 2026-01-07
+date: 2026-01-08
 description: "Ukraine’s military holds lessons for its postwar future&nbsp;&nbsp;Financial TimesUkraine peace plan ‘scares the bejesus out of us,’ officials say&nbsp;&nbsp;Defense NewsAnalysis: Why effective use of manpower will define who is winning the war in Ukraine in 2026&nbsp;&nbsp;The Kyiv IndependentUkraine Confirms 800,000 Troop Limit in US Peace Plan, No Restrictions on Mobilization&nbsp;&nbsp;UNITED24 MediaUkraine Now Has Europe’s Biggest Military. What Happens to It When the War Ends? - WS..."
 summary: "Ukraine’s military holds lessons for its postwar future&nbsp;&nbsp;Financial TimesUkraine peace plan ‘scares the bejesus out of us,’ officials say&nbsp;&nbsp;Defense NewsAnalysis: Why effective use of manpower will define who is winning the war in Ukraine in 2026&nbsp;&nbsp;The Kyiv IndependentUkraine Confirms 800,000 Troop Limit in US Peace Plan, No Restrictions on Mobilization&nbsp;&nbsp;UNITED24 MediaUkraine Now Has Europe’s Biggest Military. What Happens to It When the War Ends? - WS..."
 slug: "ukraine-s-military-holds-lessons-for-its-postwar-future-financial-times"

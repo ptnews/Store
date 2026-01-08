@@ -1,6 +1,6 @@
 ---
 title: "The delightful history behind serendipity suggests it’s not mere luck - NPR"
-date: 2026-01-07
+date: 2026-01-08
 description: "The delightful history behind serendipity suggests it’s not mere luck&nbsp;&nbsp;NPR"
 summary: "The delightful history behind serendipity suggests it’s not mere luck&nbsp;&nbsp;NPR"
 slug: "the-delightful-history-behind-serendipity-suggests-it-s-not-mere-luck-npr"

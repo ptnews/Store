@@ -1,6 +1,6 @@
 ---
 title: "Violence, death and stolen land: people need to know the true cost of an avocado - The Guardian"
-date: 2026-01-07
+date: 2026-01-08
 description: "Violence, death and stolen land: people need to know the true cost of an avocado&nbsp;&nbsp;The Guardian"
 summary: "Violence, death and stolen land: people need to know the true cost of an avocado&nbsp;&nbsp;The Guardian"
 slug: "violence-death-and-stolen-land-people-need-to-know-the-true-cost-of-an-avocado-the-guardian"
