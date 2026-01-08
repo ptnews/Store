@@ -1,0 +1,21 @@
+---
+title: "Bradley Cooper addresses plastic surgery rumors after getting approached by fans who told him he looks 'good'"
+date: 2026-01-08
+description: "Bradley Cooper addresses plastic surgery rumors on the &quot;SmartLess&quot; podcast as friend Will Arnett defends the actor against ongoing speculation."
+summary: "Bradley Cooper addresses plastic surgery rumors on the &quot;SmartLess&quot; podcast as friend Will Arnett defends the actor against ongoing speculation."
+slug: "bradley-cooper-addresses-plastic-surgery-rumors-after-getting-approached-by-fans-who-told-him-he-looks-good"
+image: ''
+link: 'https://www.foxnews.com/entertainment/bradley-cooper-addresses-plastic-surgery-rumors-after-getting-approached-fans-who-told-him-he-looks-good'
+source: 'https://feeds.foxnews.com/foxnews/latest'
+categories:
+- 'feeds.foxnews.com'
+tags:
+- 'approached'
+- 'addresses'
+- 'bradley'
+- 'plastic'
+- 'surgery'
+
+draft: false
+---
+<p><a href="https://www.foxnews.com/category/person/bradley-cooper" target="_blank" rel="noopener">Bradley Cooper</a> is putting an end to the plastic surgery rumors — once and for all.</p><p>The 51-year-old actor addressed ongoing speculation about his appearance during the <a href="https://podcasts.apple.com/us/podcast/ricky-gervais/id1521578868?i=1000742483441" target="_blank" rel="nofollow noopener">"SmartLess" podcast</a>, revealing that the online chatter has spilled into his real life.</p><p>"Some people came up to me the last couple weeks," Bradley told hosts Jason Bateman, Sean Hayes and Will Arnett. "They're like, 'Oh, you look good!’"</p><p><a href="https://www.foxnews.com/entertainment/brad-pitt-ines-de-ramon-spotted-double-date-bradley-cooper-gigi-hadid" target="_blank" rel="noopener"><strong>BRAD PITT, INES DE RAMON SPOTTED ON DOUBLE DATE WITH BRADLEY COOPER, GIGI HADID</strong></a></p><p>The comments prompted a response from Arnett, who made clear he’s fed up with the rumors surrounding his <a href="https://www.foxnews.com/entertainment/super-bowl-young-eagles-fans-priceless-reaction-bradley-coopers-surprise" target="_blank" rel="noopener">celebrity friend.</a></p><p><a href="https://www.foxnews.com/newsletters?cmpid=fnfirstnl" target="_blank" rel="noopener"><strong>CLICK HERE TO SIGN UP FOR THE ENTERTAINMENT NEWSLETTER</strong></a></p><p>"It made me mad because people say that all the time, and I’m like, it’s such a hilarious thing. Everybody thinks that they know. You know, you read that bulls--t stuff."</p><p>The topic was brought up after Arnett was previously asked to name one fact about Cooper that people don’t already know.</p><p>"I said, 'Well, there's a lot'," Arnett explained. "And then I was gonna say, because we keep reading it, ‘everybody thinks that Bradley's had plastic surgery.’ Everybody keeps saying that. I'm like, 'What people don't know is that he hasn't.’ Of course, he hasn’t!"</p><p><a href="https://www.foxnews.com/entertainment" target="_blank" rel="noopener"><strong>LIKE WHAT YOU’RE READING? CLICK HERE FOR MORE ENTERTAINMENT NEWS</strong></a></p><p>The exchange marked the first time Cooper has publicly weighed in on plastic surgery rumors, though it’s not the first time his appearance has sparked debate.</p><p>The actor previously faced backlash for wearing a prosthetic nose while portraying legendary composer Leonard Bernstein in the 2023 film "Maestro," a transformation that drew criticism and forced Cooper to publicly defend the creative choice.</p><p>"The truth is I’ve done this whole project out of love," he shared on <a href="https://www.nbcnews.com/pop-culture/pop-culture-news/-just-bradley-cooper-speaks-prosthetic-nose-controversy-maestro-rcna126215" target="_blank" rel="nofollow noopener">CBS Mornings</a> at the time. He said his intentions were perfectly clear. "My nose is very similar to Lenny, actually," he added. "The prosthetic is like a silk sheet…"</p><p>"The Hangover" star has been romantically linked to model Gigi Hadid since 2023. The supermodel from Malibu has a 5-year-old daughter with former One Direction musician Zayn Malik, while Cooper and his ex, <a href="https://www.foxnews.com/category/person/irina-shayk" target="_blank" rel="noopener">Irina Shayk</a>, co-parent their 8-year-old daughter, Lea.</p>
