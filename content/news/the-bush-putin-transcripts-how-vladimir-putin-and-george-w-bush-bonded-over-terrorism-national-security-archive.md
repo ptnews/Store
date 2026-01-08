@@ -1,0 +1,21 @@
+---
+title: "The Bush-Putin Transcripts: How Vladimir Putin and George W. Bush Bonded Over Terrorism - National Security Archive"
+date: 2026-01-08
+description: "The Bush-Putin Transcripts: How Vladimir Putin and George W. Bush Bonded Over Terrorism&nbsp;&nbsp;National Security ArchiveTime Machine: When Putin Warned Bush About Dangers of Regime Change&nbsp;&nbsp;SpyTalkBush Jr.'s statements to Putin have been declassified&nbsp;&nbsp;EADailyDeclassified US transcripts raise questions about Russian reliability in Tehran&nbsp;&nbsp;Amwaj.mediaBush–Putin talks reveal US pursuing smaller nuclear bombs: Docs expose origins of Russia–West breakdown&nbsp;&nb..."
+summary: "The Bush-Putin Transcripts: How Vladimir Putin and George W. Bush Bonded Over Terrorism&nbsp;&nbsp;National Security ArchiveTime Machine: When Putin Warned Bush About Dangers of Regime Change&nbsp;&nbsp;SpyTalkBush Jr.'s statements to Putin have been declassified&nbsp;&nbsp;EADailyDeclassified US transcripts raise questions about Russian reliability in Tehran&nbsp;&nbsp;Amwaj.mediaBush–Putin talks reveal US pursuing smaller nuclear bombs: Docs expose origins of Russia–West breakdown&nbsp;&nb..."
+slug: "the-bush-putin-transcripts-how-vladimir-putin-and-george-w-bush-bonded-over-terrorism-national-security-archive"
+image: ''
+link: 'https://news.google.com/rss/articles/CBMivgFBVV95cUxOZE5CWU94NDVON2lBeXJacnNzcmV5XzBzZzdOQjR5TzdRRE5CZ1hTUWRVWDlOVHViRnlYdEczWDg2N1BnVlJ2QzF4TlFVNElHT2ZKMnlFRjZ4bUhnSDhkenhxN0dVNVJYRUVOM1loNWJpUHYtXy04QW1uZDFHT1VYWkJGbXNra093endoVVdhQkh0MllfR1NqSklyTVF0Z0VpNkVUOHZtTFdJVmZxc3Vmc3F3VTJxdWdIdnkzTkNB?oc=5'
+source: 'https://news.google.com/rss/topics/CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx1YlY4U0FtVnVHZ0pWVXlnQVAB?hl=en-US&gl=US&ceid=US:en'
+categories:
+- 'news.google.com'
+tags:
+- 'transcripts'
+- 'terrorism'
+- 'vladimir'
+- 'national'
+- 'security'
+
+draft: false
+---
+<ol><li><a href="https://news.google.com/rss/articles/CBMivgFBVV95cUxOZE5CWU94NDVON2lBeXJacnNzcmV5XzBzZzdOQjR5TzdRRE5CZ1hTUWRVWDlOVHViRnlYdEczWDg2N1BnVlJ2QzF4TlFVNElHT2ZKMnlFRjZ4bUhnSDhkenhxN0dVNVJYRUVOM1loNWJpUHYtXy04QW1uZDFHT1VYWkJGbXNra093endoVVdhQkh0MllfR1NqSklyTVF0Z0VpNkVUOHZtTFdJVmZxc3Vmc3F3VTJxdWdIdnkzTkNB?oc=5" target="_blank">The Bush-Putin Transcripts: How Vladimir Putin and George W. Bush Bonded Over Terrorism</a>&nbsp;&nbsp;<font color="#6f6f6f">National Security Archive</font></li><li><a href="https://news.google.com/rss/articles/CBMibEFVX3lxTE41YktyZkJEeVdtbGFXQjZmUXVjVjFDUXlOVS16UkUwY0hfS3E3eTJJeEpPV2ZBQkpBNlR1Nk90dmZvaEdrQ1FRUFVnWDg4Q3ItNEV2c0l4anAwS1NjNmRIQk5NTWxMSC0yUlBLTw?oc=5" target="_blank">Time Machine: When Putin Warned Bush About Dangers of Regime Change</a>&nbsp;&nbsp;<font color="#6f6f6f">SpyTalk</font></li><li><a href="https://news.google.com/rss/articles/CBMilgFBVV95cUxOWF9IM08yNVV3LTd2aEZTQ2hmaWhDUkozSXZLVkZFRDBta2hhUEZxR0FpTG5wSE1xQ1JTWFhfRVEyZk4yU3pLWHBleWpkTG03czFHb2M4LXNabGExRlU3TldkdzF2dnJybTNtN0xLVFc3TV9iTDF3YlZZN09DbE9PLUtXQTNrQl9KWDE1d3htbEd5OXJvT3fSAZoBQVVfeXFMT1RQQ003Z28wMHI1N3MzM1hCS2VXc0s3VjVJT3hoZjhTSkVmd3doTEp3WkFMR1B0T2JQamF0SEVrQ0c4eXVjb2N5emJ4N2F3NWgtOHpiTHNKaFFZOGMtTFhuZHZpUkNqcGxDUzNxcVA2c1B3NV9JU3VMREFUcDFOcV9SQ0ZYZ3ZTSkJEbFNGQUJlYWJ2TkNiMXZnZw?oc=5" target="_blank">Bush Jr.'s statements to Putin have been declassified</a>&nbsp;&nbsp;<font color="#6f6f6f">EADaily</font></li><li><a href="https://news.google.com/rss/articles/CBMirgFBVV95cUxQX2JHMHFnNWF4eHdFVU14ZDkwLWR4TTY5RlctU3hmdkgyTl9nX2MtUGF5N2dZV3ZFZlBiSnpuRUlQOFlDazc1blpQcEJtc0hDVmdmVU1sbm1yeFdJaVpvU3puc200LUdZeWZNcldwNXhPZ0piMUNyWkZHQXl5VUY5aTdfNU94V2tzTEw2VHRPOHNvYXVLVzhiTENvVHkyNm96SnV4OVltaW9mMlA3Ymc?oc=5" target="_blank">Declassified US transcripts raise questions about Russian reliability in Tehran</a>&nbsp;&nbsp;<font color="#6f6f6f">Amwaj.media</font></li><li><a href="https://news.google.com/rss/articles/CBMi1AFBVV95cUxPbzgxUjlRbDMwUXlkNVBRMkkyRTF4bWJxbkxMZ2dWUmVMM1JBdzdqSTlHRFhVMnZnR1lvWEtkRjlaY3h1Zm84Umk2d1RyZkN1aWs1VUd3bmRDSFhXbjY3UkJYQlBfT1NGQTFnVUpVTHUxRlhPdU5XZ1VtYzNZdDd1X1o1UGdtSEh4V0dyaWw3ZURyNzRJT3hxOU1NakY1d3pZNHd0eUlGQ3J3cTJscUZ3RVBXMFNBU0VaaDJlcnB6TldoRmloRVRHakRYVFJ6cjRubkVwZw?oc=5" target="_blank">Bush–Putin talks reveal US pursuing smaller nuclear bombs: Docs expose origins of Russia–West breakdown</a>&nbsp;&nbsp;<font color="#6f6f6f">BLiTZ - Fears None But God</font></li></ol>

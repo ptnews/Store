@@ -1,0 +1,21 @@
+---
+title: "Separatist group in Yemen loses contact with delegation that went to Riyadh for talks - AP News"
+date: 2026-01-08
+description: "Separatist group in Yemen loses contact with delegation that went to Riyadh for talks&nbsp;&nbsp;AP NewsSaudi-led coalition says STC’s al-Zubaidi fled to UAE via Somaliland&nbsp;&nbsp;Al JazeeraSaudi Arabia says UAE helped Yemeni separatist leader flee as crisis deepens&nbsp;&nbsp;The GuardianSaudi Arabia’s allies in Yemen oust UAE-backed separatist from government&nbsp;&nbsp;The Washington PostLeader of Yemen's southern separatist group never gave up hopes for independence&nbsp;&nbsp;Reuter..."
+summary: "Separatist group in Yemen loses contact with delegation that went to Riyadh for talks&nbsp;&nbsp;AP NewsSaudi-led coalition says STC’s al-Zubaidi fled to UAE via Somaliland&nbsp;&nbsp;Al JazeeraSaudi Arabia says UAE helped Yemeni separatist leader flee as crisis deepens&nbsp;&nbsp;The GuardianSaudi Arabia’s allies in Yemen oust UAE-backed separatist from government&nbsp;&nbsp;The Washington PostLeader of Yemen's southern separatist group never gave up hopes for independence&nbsp;&nbsp;Reuter..."
+slug: "separatist-group-in-yemen-loses-contact-with-delegation-that-went-to-riyadh-for-talks-ap-news"
+image: ''
+link: 'https://news.google.com/rss/articles/CBMiqgFBVV95cUxNWjNTWHc3Ynk3MlNZOEJ4T0kzRF9kNTFZcktwSkNuOHpVLWtuSWdyWW1fcGVqVFNGbWtQMXdCUEY1ODM0NzBib3l6c00yNnVTSGViRjFZRk1obzVFQ0NJOEV5dWFQR0pDOXp5dzg4a1hVTnZTXzcwRXhMdWQ3cmRydHcxaE1aQXNLT0c0RjJwYXhidE9jZFN0UnZoNzJtNWlNTGUtOTNsb1YwUQ?oc=5'
+source: 'https://news.google.com/rss/topics/CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx1YlY4U0FtVnVHZ0pWVXlnQVAB?hl=en-US&gl=US&ceid=US:en'
+categories:
+- 'news.google.com'
+tags:
+- 'separatist'
+- 'delegation'
+- 'contact'
+- 'riyadh'
+- 'group'
+
+draft: false
+---
+<ol><li><a href="https://news.google.com/rss/articles/CBMiqgFBVV95cUxNWjNTWHc3Ynk3MlNZOEJ4T0kzRF9kNTFZcktwSkNuOHpVLWtuSWdyWW1fcGVqVFNGbWtQMXdCUEY1ODM0NzBib3l6c00yNnVTSGViRjFZRk1obzVFQ0NJOEV5dWFQR0pDOXp5dzg4a1hVTnZTXzcwRXhMdWQ3cmRydHcxaE1aQXNLT0c0RjJwYXhidE9jZFN0UnZoNzJtNWlNTGUtOTNsb1YwUQ?oc=5" target="_blank">Separatist group in Yemen loses contact with delegation that went to Riyadh for talks</a>&nbsp;&nbsp;<font color="#6f6f6f">AP News</font></li><li><a href="https://news.google.com/rss/articles/CBMiqwFBVV95cUxQb29hVE9jTVJWSjVQc01fVk5oRTNZc3VJTUlacEpWRkI5aWk0ZE8wTkpwMnNBb2RZUmdnc3RUZWtXNDhQdzZxR1pZcUhGOU55b283Z2VlYnBWS1lwTVE0RFc0TzloX2lNU2p5OFp3Ty00UndZWnppZTZKNW5GbEZKSUowbEktTFAtMUFFU2NEb1FiZk5jTXBoNW8ySGlMcUFWOTdxdFdpZm1EbEHSAbABQVVfeXFMTjZNN3FuYThyTzRacG5xR1RrOElEYjNlbUhFcGVzZU9MMTZCcEgtbl82WGxqb0dteHl1aDQ0c25hY1RDM283dDY1OFFtMUFHSHg3NnkxSVpaQjVZTFRueHlRaDBFcGVRdXhTN2hVdHhFZjdQdEljY00xREpoV2JQNUNGcHoxbnljc1ZoeXlWaWdkU2loNlEteEsweW5oaFBfZTFUbGJtTFU3azM5VnlnZjk?oc=5" target="_blank">Saudi-led coalition says STC’s al-Zubaidi fled to UAE via Somaliland</a>&nbsp;&nbsp;<font color="#6f6f6f">Al Jazeera</font></li><li><a href="https://news.google.com/rss/articles/CBMisAFBVV95cUxPTjhaSHR1NlNJbkNabVExUzZBTDZsWkV1QTY4bW5UcFdqN08wSWY3dGE0UGdBV1J2VjA1LU1mc3NmanEteEZoUko1dWtiUHIzaU51akdQT0xsM3hmbC1FWWRScVpNQXJJc0pXYnRxd19lenNPVkpnZXJvWUdjV0ZXSEZvQVhzMDM1d0UteENfNFNmLTE5dGIzX3VVZFhkbmpPUlNwVjVLOF90U2NSQmtzbQ?oc=5" target="_blank">Saudi Arabia says UAE helped Yemeni separatist leader flee as crisis deepens</a>&nbsp;&nbsp;<font color="#6f6f6f">The Guardian</font></li><li><a href="https://news.google.com/rss/articles/CBMiggFBVV95cUxNdXhuU2dxY2NlZ1pYWjVDMnh1TTVsdlR0WlB2VHFWenVGQ0MxNHhYaF90eDJ5UGFKYXMtOVlRZnAya1NGOENNR01fQXZZTjBUcFBJSnlicXk4eUxad21IbFNKNU5Ib3NOa3ItQXUybjFhT3QxZ2pHc0dnWlZVem5kWURn?oc=5" target="_blank">Saudi Arabia’s allies in Yemen oust UAE-backed separatist from government</a>&nbsp;&nbsp;<font color="#6f6f6f">The Washington Post</font></li><li><a href="https://news.google.com/rss/articles/CBMixAFBVV95cUxOWENqUVUwMjM4OXpJYWFVNnhENjc0Q2V0eHdsdkp2QjhCZlJfVEtETGs3TWt4SmprTWctZGwtYlBoSnRkZzF6dy1QMzVXcEU4RVlhWDljZFFDT1dtMHhtcEFzR21WM1RRajZFNy1NRExUWWpXNTZiWEFObUswLTZKUWVtNjN2RzkwT2lHc3hmbF80ck93ZEtyeXhnczJrRmR6UUdibWUtTnNrZ1VzV1RMZndUSXFYWGItVEw2UjNlTzRmcjhP?oc=5" target="_blank">Leader of Yemen's southern separatist group never gave up hopes for independence</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font></li></ol>
