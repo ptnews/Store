@@ -1,0 +1,21 @@
+---
+title: "‘Unrealistic’ €600m Louvre redevelopment plans must be scrapped, say striking workers - The Art Newspaper"
+date: 2026-01-08
+description: "‘Unrealistic’ €600m Louvre redevelopment plans must be scrapped, say striking workers&nbsp;&nbsp;The Art NewspaperFresh strike at Louvre museum as workers walkout over conditions&nbsp;&nbsp;Euronews.comLouvre Staff Vote Unanimously to Strike—Again&nbsp;&nbsp;Artnet NewsParis' Louvre museum opens but some parts stay closed as staff resume strike&nbsp;&nbsp;ReutersStrike at the Louvre in January 2026: the museum reopens, but the dispute continues&nbsp;&nbsp;Sortir à Paris"
+summary: "‘Unrealistic’ €600m Louvre redevelopment plans must be scrapped, say striking workers&nbsp;&nbsp;The Art NewspaperFresh strike at Louvre museum as workers walkout over conditions&nbsp;&nbsp;Euronews.comLouvre Staff Vote Unanimously to Strike—Again&nbsp;&nbsp;Artnet NewsParis' Louvre museum opens but some parts stay closed as staff resume strike&nbsp;&nbsp;ReutersStrike at the Louvre in January 2026: the museum reopens, but the dispute continues&nbsp;&nbsp;Sortir à Paris"
+slug: "unrealistic-600m-louvre-redevelopment-plans-must-be-scrapped-say-striking-workers-the-art-newspaper"
+image: ''
+link: 'https://news.google.com/rss/articles/CBMiwgFBVV95cUxQWGtCekxldy15Zm40d3RRMkZlbGZhcEUxODVtRUJxMUJFeG14OGtHVFNlVTNZdWUzMUp5VWxfYmxJR21iaHBtYVhWanVIZjBLTXpTREc0dERuellxb05oSnFCbUpPd094NUdCOUw5dzdqLW0wZ2NLMUlXVHdjcXo2NHBGVHdtSUhhemxyQnJHbkJzM0tqbFhuaFdNdENJYjRpUk05MVlBUGp4WVh5Ym5MRHM0SUhfa1ZCZno0YXFZdGFQUQ?oc=5'
+source: 'https://news.google.com/rss/topics/CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx1YlY4U0FtVnVHZ0pWVXlnQVAB?hl=en-US&gl=US&ceid=US:en'
+categories:
+- 'news.google.com'
+tags:
+- 'redevelopment'
+- 'unrealistic'
+- 'newspaper'
+- 'scrapped'
+- 'striking'
+
+draft: false
+---
+<ol><li><a href="https://news.google.com/rss/articles/CBMiwgFBVV95cUxQWGtCekxldy15Zm40d3RRMkZlbGZhcEUxODVtRUJxMUJFeG14OGtHVFNlVTNZdWUzMUp5VWxfYmxJR21iaHBtYVhWanVIZjBLTXpTREc0dERuellxb05oSnFCbUpPd094NUdCOUw5dzdqLW0wZ2NLMUlXVHdjcXo2NHBGVHdtSUhhemxyQnJHbkJzM0tqbFhuaFdNdENJYjRpUk05MVlBUGp4WVh5Ym5MRHM0SUhfa1ZCZno0YXFZdGFQUQ?oc=5" target="_blank">‘Unrealistic’ €600m Louvre redevelopment plans must be scrapped, say striking workers</a>&nbsp;&nbsp;<font color="#6f6f6f">The Art Newspaper</font></li><li><a href="https://news.google.com/rss/articles/CBMizwFBVV95cUxQS1lXM2hwMmhMN1BmMkJiVVhfa1Fhakh1UGlkYjhRSDUxdFFYYWlfVzZGNUlZT1pONXpuckEtR1o2RzdBc1F3R29mei1STzNkZFNqZ3ZGZ05MRzFXOVZtbWFWOW03MnBNeXZvQ0M4RGtOVnFjellMLVU0UnhURFptUHZPQThYVWJVdG4weGJGYU40Y3lKVjB0b1o2dkxBVzJRemF5bVlUbW00SlpVdjBFUXFPTWFvWG9qVVNqem4takZ1QmpiMVdERzcydmc5YXM?oc=5" target="_blank">Fresh strike at Louvre museum as workers walkout over conditions</a>&nbsp;&nbsp;<font color="#6f6f6f">Euronews.com</font></li><li><a href="https://news.google.com/rss/articles/CBMiaEFVX3lxTFBOQkZ1ZThkSmZ5bTM0RVFuRkp2OTZpVDl4ZXJjSWNWdjVnTWxFUTQ4dS1fbS0xaXZiSWdnWEZyRkFYNlhKaGh3bGlvQ2U4YkZMRzFDRm5PSWpkTWZMT1BBc1hTZmtORXIz0gFwQVVfeXFMTkhtNk4weFU4YWdaVDJGZmUxbkFxQUVpR1JmMGFEa1BIanNEdzd4TWhfRGxLMjJvY1kzZnczLWJ1c3A2eWhHNk82b2diczFpUlc3MGFiekhGZWpwY2FyZ3V6U2FQNHFyWjRUQWNzYU5LNw?oc=5" target="_blank">Louvre Staff Vote Unanimously to Strike—Again</a>&nbsp;&nbsp;<font color="#6f6f6f">Artnet News</font></li><li><a href="https://news.google.com/rss/articles/CBMivwFBVV95cUxQNHNtZXRRQ1FwdlZacHpkOTFwLU9wTk4ydzhKc2F5UDVJcXdRbEFIU1BsaHI2b09yUXB6RElPRnk1X0puYjNBM3NWeWN0dEN6VXB3ZzdfZDU4bWUyRlRwS2FiVnJNcGJSR0FTdS1BdG5QZllpNnhSeDZKczVFZXQ5cXBwaDhwdi1oU0Y1VHJORFg0R2xZWXZiWUJkNlB0WUttTEpKeEtKam1tUmhLZW9fa0o5V2trU1BXZlBORzRzaw?oc=5" target="_blank">Paris' Louvre museum opens but some parts stay closed as staff resume strike</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font></li><li><a href="https://news.google.com/rss/articles/CBMi2wFBVV95cUxNY3oxU2k2aEFVNTBRUzFWRFNaQV8zclNzM0prUHJicUNJcUFqVGdOZUpxSVBOQXVXTkZILWRHMlcwSG1HVWpmR3pFWTlmTnNUV1Fmajk5aVZ3TmlLYUxVTEVSM05NZElsOG9yei1WOV8yN2hQY1l6N2RUWDZoUUJ1TXRCeTNPc2EwcUlUOVJZRmo2dzhERHdCY0lRT0o5aXZZQWtZRng1dy1JVnJWSnYxZ2NHaDJGNXVaRzAtZTg2X1hMbmFSYmtWOGhFTXRCWndxc1BGWjhwV2NfWlk?oc=5" target="_blank">Strike at the Louvre in January 2026: the museum reopens, but the dispute continues</a>&nbsp;&nbsp;<font color="#6f6f6f">Sortir à Paris</font></li></ol>
