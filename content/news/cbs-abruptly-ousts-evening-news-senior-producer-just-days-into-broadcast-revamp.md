@@ -1,0 +1,21 @@
+---
+title: "CBS abruptly ousts 'Evening News' senior producer just days into broadcast revamp"
+date: 2026-01-08
+description: "Fox News Digital confirmed CBS News dismissed top producer Javier Guzman just days into the network&apos;s revamp of &quot;CBS Evening News&quot; with anchor Tony Dokoupil."
+summary: "Fox News Digital confirmed CBS News dismissed top producer Javier Guzman just days into the network&apos;s revamp of &quot;CBS Evening News&quot; with anchor Tony Dokoupil."
+slug: "cbs-abruptly-ousts-evening-news-senior-producer-just-days-into-broadcast-revamp"
+image: ''
+link: 'https://www.foxnews.com/media/cbs-abruptly-ousts-evening-news-senior-producer-just-days-broadcast-revamp'
+source: 'https://feeds.foxnews.com/foxnews/latest'
+categories:
+- 'feeds.foxnews.com'
+tags:
+- 'broadcast'
+- 'abruptly'
+- 'producer'
+- 'evening'
+- 'senior'
+
+draft: false
+---
+<p>CBS News dismissed one of the top producers of its marquee evening newscast just days into a major revamp.</p><p>A source confirmed with <a href="https://www.foxnews.com/media" target="_blank" rel="noopener">Fox News Digital</a> that Javier Guzman, who was promoted to senior broadcast producer for "CBS Evening News" in August, was pulled off the program Wednesday. According to his LinkedIn page, Guzman joined the "CBS Evening News" in 2018.</p><p>It remains unclear why Guzman was abruptly removed.</p><p>Neither Guzman nor CBS News immediately responded to Fox News Digital's requests for comment.</p><p><a href="https://www.foxnews.com/media/tony-dokoupil-becomes-latest-revolving-door-anchors-tasked-revive-cbs-evening-news" target="_blank" rel="noopener"><strong>TONY DOKOUPIL BECOMES LATEST IN REVOLVING DOOR OF ANCHORS TASKED TO REVIVE ‘CBS EVENING NEWS’</strong></a></p><p>"CBS Evening News" has been undergoing an overhaul led by the network's editor-in-chief Bari Weiss, who tapped "CBS Mornings" co-host Tony Dokoupil to take over the anchor desk.</p><p>Dokoupil made his debut on Saturday during a special breaking news edition of the program covering President Donald Trump's actions in Venezuela and the dramatic capture of Nicolás Maduro. The official relaunch of "CBS Evening News" was set for Jan. 5.</p><p><a href="https://www.foxnews.com/media/2025-review-tumultuous-year-paramount-cbs-news" target="_blank" rel="noopener"><strong>2025 IN REVIEW: A TUMULTUOUS YEAR FOR PARAMOUNT AND CBS NEWS</strong></a></p><p>The rollout of the revamped broadcast has had some hiccups. During Monday's newscast, Dokoupil was <a href="https://www.foxnews.com/media/cbs-anchor-deals-big-problems-technical-malfunction-affects-first-broadcast" target="_blank" rel="noopener">hit with technical difficulties</a> as he became flustered between what was in the teleprompter and the images appearing on-screen.</p><p>"First day, first day, big problems here," Dokoupil acknowledged to viewers.</p><p>Liberal critics also swiped the anchor when he concluded Tuesday's broadcast from Miami by offering a "salute" to Secretary of State Marco Rubio while wrapping a light-hearted segment about Rubio's various roles in the Trump administration from his hometown.</p><p>"Marco Rubio, we salute you. You’re the ultimate Florida man," Dokoupil told Rubio, with Floridians dining behind him.</p><p><a href="https://www.foxnews.com/media/bari-weiss-tells-staff-60-minutes-cecot-story-wasnt-ready-says-disrespect-among-colleagues-unacceptable" target="_blank" rel="noopener"><strong>BARI WEISS TELLS STAFF '60 MINUTES' CECOT STORY WASN'T READY, SAYS DISRESPECT AMONG COLLEAGUES IS UNACCEPTABLE</strong></a></p><p>Dokoupil, however, has already landed high-profile interviews in his new stint including Secretary of War Pete Hegseth following the raid on Venezuela last Saturday and White House Border Czar Tom Homan, <a href="https://www.foxnews.com/media/cbs-anchor-grills-trump-border-czar-over-ice-conduct-after-fatal-shooting-calling-not-believable" target="_blank" rel="noopener">who offered his reaction</a> to Wednesday's ICE-involved shooting in Minneapolis that left one person dead.</p><p>The effort to revamp "CBS Evening News" is no easy task. As the perpetual third-place evening newscast among the three broadcast networks, Dokoupil is the fourth anchor to helm the program since 2019 and the seventh since the scandal-plagued exit of veteran CBS anchor Dan Rather in 2005. </p>
