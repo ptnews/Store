@@ -1,0 +1,21 @@
+---
+title: "Saudi air strikes target UAE-backed separatist leader in Yemen - Financial Times"
+date: 2026-01-08
+description: "Saudi air strikes target UAE-backed separatist leader in Yemen&nbsp;&nbsp;Financial TimesSaudi-led coalition says STC’s al-Zubaidi fled to UAE via Somaliland&nbsp;&nbsp;Al JazeeraSaudi Official Accuses U.A.E. of Helping Yemeni Separatist to Escape&nbsp;&nbsp;The New York TimesSaudi Arabia’s allies in Yemen oust UAE-backed separatist from government&nbsp;&nbsp;The Washington PostYemen anti-Houthi council expels separatist leader and says he faces treason charges&nbsp;&nbsp;abcnews.go.com"
+summary: "Saudi air strikes target UAE-backed separatist leader in Yemen&nbsp;&nbsp;Financial TimesSaudi-led coalition says STC’s al-Zubaidi fled to UAE via Somaliland&nbsp;&nbsp;Al JazeeraSaudi Official Accuses U.A.E. of Helping Yemeni Separatist to Escape&nbsp;&nbsp;The New York TimesSaudi Arabia’s allies in Yemen oust UAE-backed separatist from government&nbsp;&nbsp;The Washington PostYemen anti-Houthi council expels separatist leader and says he faces treason charges&nbsp;&nbsp;abcnews.go.com"
+slug: "saudi-air-strikes-target-uae-backed-separatist-leader-in-yemen-financial-times"
+image: ''
+link: 'https://news.google.com/rss/articles/CBMicEFVX3lxTE5JOUpkMXVnSjgyVFR4NmNtU2tsTTVQcWg5SmpnQjBaZlo2TXRDcGdKWl9UZHlFNlFzMldjVEItRS1YX1RaamlVcHhIV3RoTkcyOUtUMlRhQzJWN3h6MlVPMmNCb3VmN240b1JKRTUzV2o?oc=5'
+source: 'https://news.google.com/rss/topics/CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx1YlY4U0FtVnVHZ0pWVXlnQVAB?hl=en-US&gl=US&ceid=US:en'
+categories:
+- 'news.google.com'
+tags:
+- 'separatist'
+- 'financial'
+- 'strikes'
+- 'target'
+- 'backed'
+
+draft: false
+---
+<ol><li><a href="https://news.google.com/rss/articles/CBMicEFVX3lxTE5JOUpkMXVnSjgyVFR4NmNtU2tsTTVQcWg5SmpnQjBaZlo2TXRDcGdKWl9UZHlFNlFzMldjVEItRS1YX1RaamlVcHhIV3RoTkcyOUtUMlRhQzJWN3h6MlVPMmNCb3VmN240b1JKRTUzV2o?oc=5" target="_blank">Saudi air strikes target UAE-backed separatist leader in Yemen</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font></li><li><a href="https://news.google.com/rss/articles/CBMiqwFBVV95cUxQb29hVE9jTVJWSjVQc01fVk5oRTNZc3VJTUlacEpWRkI5aWk0ZE8wTkpwMnNBb2RZUmdnc3RUZWtXNDhQdzZxR1pZcUhGOU55b283Z2VlYnBWS1lwTVE0RFc0TzloX2lNU2p5OFp3Ty00UndZWnppZTZKNW5GbEZKSUowbEktTFAtMUFFU2NEb1FiZk5jTXBoNW8ySGlMcUFWOTdxdFdpZm1EbEHSAbABQVVfeXFMTjZNN3FuYThyTzRacG5xR1RrOElEYjNlbUhFcGVzZU9MMTZCcEgtbl82WGxqb0dteHl1aDQ0c25hY1RDM283dDY1OFFtMUFHSHg3NnkxSVpaQjVZTFRueHlRaDBFcGVRdXhTN2hVdHhFZjdQdEljY00xREpoV2JQNUNGcHoxbnljc1ZoeXlWaWdkU2loNlEteEsweW5oaFBfZTFUbGJtTFU3azM5VnlnZjk?oc=5" target="_blank">Saudi-led coalition says STC’s al-Zubaidi fled to UAE via Somaliland</a>&nbsp;&nbsp;<font color="#6f6f6f">Al Jazeera</font></li><li><a href="https://news.google.com/rss/articles/CBMinwFBVV95cUxQenlWR0RmZkdfUkw3cEZxb012eVV0MGhpZFBxTnNyOE1mM0l6U1hyazVNWXFsd2RCdUxabkZkcnEwRXA1bTUwS0NscVdXSDhISVpIcWhBSHFyajVvakl0Y1J6UzJPYVdXUkpFNGRvYU5rMEVLOXN6RExzWHBrdmVMVHpPUDdJLVROVUxramlFYXFuaV81eThEUkR6RHdCRTA?oc=5" target="_blank">Saudi Official Accuses U.A.E. of Helping Yemeni Separatist to Escape</a>&nbsp;&nbsp;<font color="#6f6f6f">The New York Times</font></li><li><a href="https://news.google.com/rss/articles/CBMiggFBVV95cUxNdXhuU2dxY2NlZ1pYWjVDMnh1TTVsdlR0WlB2VHFWenVGQ0MxNHhYaF90eDJ5UGFKYXMtOVlRZnAya1NGOENNR01fQXZZTjBUcFBJSnlicXk4eUxad21IbFNKNU5Ib3NOa3ItQXUybjFhT3QxZ2pHc0dnWlZVem5kWURn?oc=5" target="_blank">Saudi Arabia’s allies in Yemen oust UAE-backed separatist from government</a>&nbsp;&nbsp;<font color="#6f6f6f">The Washington Post</font></li><li><a href="https://news.google.com/rss/articles/CBMiswFBVV95cUxNbnBnVEVncGtLM0tvaVFsajBKMk5uWm5OaWZaS0JWem9pbDFBZmZsUTVIcTJWemZ6OURoc2dWZTA3U2N1ZTVqX3dHT3huemZGOXRUVV9pTUMwcE8xcFc0QzVxa2ppTXo4WUZPVVhQWVlILVZjTEJjRGkwY0hBWVNmVTlLR1BBZFk0VW1KTTJxc0Rwa2txbHE0eU5fSXF0WFRVbFBUVVRfd0ZnbVJ4ZTNoLUpYY9IBuAFBVV95cUxPeWtna05pTWIyV0N1ZWtXYzJZWmpxLVBaMVZGa1hjMGtvdldhVzVESDZEaVZxNV90UEtqS2p3dmdpNHZMN0pWSzU1eG9EZGYzUVVhSldwSEVZQjRWSkxKZUNScVVRYWsyc0U4T2UxaWlZM0licUNYS19ORUs4czJQRmtWbXlYSGc0MG83dmt3R25neFZaVkFKM3FZOER2Wk9neEdHMVJRSFBuV2t5SnhCdllOXzFRUFJ4?oc=5" target="_blank">Yemen anti-Houthi council expels separatist leader and says he faces treason charges</a>&nbsp;&nbsp;<font color="#6f6f6f">abcnews.go.com</font></li></ol>
