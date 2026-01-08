@@ -1,8 +1,8 @@
 ---
 title: "US halts assistance to Somalia over claims food aid was illegally seized"
 date: 2026-01-08
-description: "Donald Trump's administration has a zero-tolerance policy for waste, a US official tweeted."
-summary: "Donald Trump's administration has a zero-tolerance policy for waste, a US official tweeted."
+description: "Somalia denies the claims and says the 76 tonnes of aid is still in the hands of the World Food Programme."
+summary: "Somalia denies the claims and says the 76 tonnes of aid is still in the hands of the World Food Programme."
 slug: "us-halts-assistance-to-somalia-over-claims-food-aid-was-illegally-seized"
 image: ''
 link: 'https://www.bbc.com/news/articles/ckgn1lpq52ko?at_medium=RSS&at_campaign=rss'
@@ -18,4 +18,4 @@ tags:
 
 draft: false
 ---
-Donald Trump's administration has a zero-tolerance policy for waste, a US official tweeted.
+Somalia denies the claims and says the 76 tonnes of aid is still in the hands of the World Food Programme.
