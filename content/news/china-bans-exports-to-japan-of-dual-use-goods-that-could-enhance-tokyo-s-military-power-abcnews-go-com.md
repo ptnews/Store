@@ -1,0 +1,21 @@
+---
+title: "China bans exports to Japan of dual-use goods that could enhance Tokyo's military power - abcnews.go.com"
+date: 2026-01-08
+description: "China bans exports to Japan of dual-use goods that could enhance Tokyo's military power&nbsp;&nbsp;abcnews.go.comJapan condemns China's dual-use export ban as rare earth curbs loom&nbsp;&nbsp;ReutersHow Rare Earths Raise the Stakes in China-Japan Spat&nbsp;&nbsp;Bloomberg.comJapanese PM’s Taiwan comments prompt China to ban certain exports to Japan&nbsp;&nbsp;CNNChina Ramps Up Dispute With Japan&nbsp;&nbsp;The Wall Street Journal"
+summary: "China bans exports to Japan of dual-use goods that could enhance Tokyo's military power&nbsp;&nbsp;abcnews.go.comJapan condemns China's dual-use export ban as rare earth curbs loom&nbsp;&nbsp;ReutersHow Rare Earths Raise the Stakes in China-Japan Spat&nbsp;&nbsp;Bloomberg.comJapanese PM’s Taiwan comments prompt China to ban certain exports to Japan&nbsp;&nbsp;CNNChina Ramps Up Dispute With Japan&nbsp;&nbsp;The Wall Street Journal"
+slug: "china-bans-exports-to-japan-of-dual-use-goods-that-could-enhance-tokyo-s-military-power-abcnews-go-com"
+image: ''
+link: 'https://news.google.com/rss/articles/CBMiqwFBVV95cUxQdmtwMDc5RHNxZWtiM2stVnlNTzNYVFdCMmF1eWFMTzF4UDVTc1NWR1VLazNGSmZpSDRLSk5mNDduTVVyU2o3RGNDMi1UWEk3Zm1WaGJSenY4N1A2Q0ZCZW9QY3BYOVJYRVAxdHFKSlJLR0hEa2pORmljODZnYk8zOTNLUUtrS280ZGRMaUdXMUZnSWxzVUVqbE9kaW9hME4wRXBGMHNkeWxyS0XSAbABQVVfeXFMTTZCTy1NcHhGNXJ2Zm1HYk56SFdEblQzb0RGdHFPWjlUSDVTUGdDSVVzenBuem01QmNBZmxsOGVwc051ZkJZZjBCVlptX1RlV2JCcW5sM3FibmhRREhPc1ZBLUpQdHBFeDVBcUhvazk1VUxwMjlvTkRPc1FQVmFEZDRQdFRySGs2VHM2Ql9PMkprMHFhLW9HZF9IbE0zaHo2WGNrbWtxYzk2TWhOODlqdkM?oc=5'
+source: 'https://news.google.com/rss/topics/CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx1YlY4U0FtVnVHZ0pWVXlnQVAB?hl=en-US&gl=US&ceid=US:en'
+categories:
+- 'news.google.com'
+tags:
+- 'military'
+- 'exports'
+- 'enhance'
+- 'abcnews'
+- 'china'
+
+draft: false
+---
+<ol><li><a href="https://news.google.com/rss/articles/CBMiqwFBVV95cUxQdmtwMDc5RHNxZWtiM2stVnlNTzNYVFdCMmF1eWFMTzF4UDVTc1NWR1VLazNGSmZpSDRLSk5mNDduTVVyU2o3RGNDMi1UWEk3Zm1WaGJSenY4N1A2Q0ZCZW9QY3BYOVJYRVAxdHFKSlJLR0hEa2pORmljODZnYk8zOTNLUUtrS280ZGRMaUdXMUZnSWxzVUVqbE9kaW9hME4wRXBGMHNkeWxyS0XSAbABQVVfeXFMTTZCTy1NcHhGNXJ2Zm1HYk56SFdEblQzb0RGdHFPWjlUSDVTUGdDSVVzenBuem01QmNBZmxsOGVwc051ZkJZZjBCVlptX1RlV2JCcW5sM3FibmhRREhPc1ZBLUpQdHBFeDVBcUhvazk1VUxwMjlvTkRPc1FQVmFEZDRQdFRySGs2VHM2Ql9PMkprMHFhLW9HZF9IbE0zaHo2WGNrbWtxYzk2TWhOODlqdkM?oc=5" target="_blank">China bans exports to Japan of dual-use goods that could enhance Tokyo's military power</a>&nbsp;&nbsp;<font color="#6f6f6f">abcnews.go.com</font></li><li><a href="https://news.google.com/rss/articles/CBMixwFBVV95cUxPaGItQ2hfdVlBeVd2dTJiamhhb3l3dXhTNUM5Wk9xMVhzOHVqemZjQXFIcDhyR0lRVWdYb0h5Y0hsNnlsQ29LX2ZCRmYwZlpNdWhEYWQwOWRUZTVqNXM5Y3YxY28wbFZEYmZsbE5VNnZVaWtoTnVaTW54RnUxV010bDFhT0xsMGptV2V3aVlRdXUzbmxQN1RhaEFhRWpDTWJ0STlPZ3l4T3g2dlNrSDRDMmNNOVJRQlJjZEx0WU9TNXZOV1lNOXg4?oc=5" target="_blank">Japan condemns China's dual-use export ban as rare earth curbs loom</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font></li><li><a href="https://news.google.com/rss/articles/CBMixgFBVV95cUxOcG15bUl4VmtnVmFNRWItT3IxV2pYdDJ6VHAzMWEyMmpHaHVzT05ONl84bmw3bTZZWjRHYWhXSy10bTFtamRVNGtRYm43dXg0SVA2TFNaS0NHRHVvYVExbkpXU01IYnYxSnhJaFRac28zRnZhb3pNbmVlNVV2b1d6YUFJaV92d0tOcG91X1BJS1hndjJZX1VWXzctQzY5RWhaYi1EZTRpdjl5ZkdSTzBUZ3Bib1hvRF9TNFdnNkZGTURxQ01ld0E?oc=5" target="_blank">How Rare Earths Raise the Stakes in China-Japan Spat</a>&nbsp;&nbsp;<font color="#6f6f6f">Bloomberg.com</font></li><li><a href="https://news.google.com/rss/articles/CBMiggFBVV95cUxQQk1LZEVobDZwS2ZHbTFtTzVRQjRZTm5iSEVaeXZSNGxicUR5TW5EWXAxWDRHUE1zbW0tMEE2OTFGNWhsU29DQi1RWUlQYTNnYkRjeHhsZjA1VlBTQ2hHamkxanpPRlBXeHpRcDkzSHFhak14MEFFZ3UzZF9BdFYwbG5R?oc=5" target="_blank">Japanese PM’s Taiwan comments prompt China to ban certain exports to Japan</a>&nbsp;&nbsp;<font color="#6f6f6f">CNN</font></li><li><a href="https://news.google.com/rss/articles/CBMifkFVX3lxTE5pSGwxN3ptNFVUYlotay05UnBaRUx0NkRtYWU4X0FXQzJRdGt5SURvd3p3dlltVUpjbnFVUGRSZW90a1FxY002LTl5MnhlMUxXMDR2SXRzMEFHaGRPa2w5bnhleHpBbXZxZVZObjBXeGlOY3JNQncyeVNmQi0tdw?oc=5" target="_blank">China Ramps Up Dispute With Japan</a>&nbsp;&nbsp;<font color="#6f6f6f">The Wall Street Journal</font></li></ol>

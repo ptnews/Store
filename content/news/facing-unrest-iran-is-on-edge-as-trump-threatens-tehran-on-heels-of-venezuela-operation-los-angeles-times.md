@@ -1,0 +1,21 @@
+---
+title: "Facing unrest, Iran is on edge as Trump threatens Tehran on heels of Venezuela operation - Los Angeles Times"
+date: 2026-01-08
+description: "Facing unrest, Iran is on edge as Trump threatens Tehran on heels of Venezuela operation&nbsp;&nbsp;Los Angeles TimesAs Venezuela buckles under Trump, Iran sees an uncomfortable parallel&nbsp;&nbsp;CNNWhat to Know About Iran’s Protests—and Trump’s Threat of U.S. Intervention&nbsp;&nbsp;Time MagazineProtest-hit Iran warily watches the US after its raid on Venezuela&nbsp;&nbsp;abcnews.go.comToday Venezuela, tomorrow Iran: can the Islamic Republic survive a second Trump presidency?&nbsp;&nbsp..."
+summary: "Facing unrest, Iran is on edge as Trump threatens Tehran on heels of Venezuela operation&nbsp;&nbsp;Los Angeles TimesAs Venezuela buckles under Trump, Iran sees an uncomfortable parallel&nbsp;&nbsp;CNNWhat to Know About Iran’s Protests—and Trump’s Threat of U.S. Intervention&nbsp;&nbsp;Time MagazineProtest-hit Iran warily watches the US after its raid on Venezuela&nbsp;&nbsp;abcnews.go.comToday Venezuela, tomorrow Iran: can the Islamic Republic survive a second Trump presidency?&nbsp;&nbsp..."
+slug: "facing-unrest-iran-is-on-edge-as-trump-threatens-tehran-on-heels-of-venezuela-operation-los-angeles-times"
+image: ''
+link: 'https://news.google.com/rss/articles/CBMi0gFBVV95cUxPVU00a29hYjFUZ0RfV1dYT1I3UjdjNkRSRmN2bWFOd0hTTTgyNXdHcGVSbHk3OTNRZmprLWlmZ1VhbXdlX0RJT0ZsNGFRcWRwZ3Y2bGktd083VkpUcmk3YVZZeGs2YlUxd21zZzlGeDdsckdwbTRhWFRVYjNMaGdwRzI5bUtHR0x1RUFIV090R0plazkta2tSdXEtTElQMjZPSEIySjN2czREbTV0Uk9TTHJfSnhfRkVJVjRZNjlCQnpreHMyZE9XX2ExanFHVEQyblE?oc=5'
+source: 'https://news.google.com/rss/topics/CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx1YlY4U0FtVnVHZ0pWVXlnQVAB?hl=en-US&gl=US&ceid=US:en'
+categories:
+- 'news.google.com'
+tags:
+- 'threatens'
+- 'venezuela'
+- 'operation'
+- 'angeles'
+- 'facing'
+
+draft: false
+---
+<ol><li><a href="https://news.google.com/rss/articles/CBMi0gFBVV95cUxPVU00a29hYjFUZ0RfV1dYT1I3UjdjNkRSRmN2bWFOd0hTTTgyNXdHcGVSbHk3OTNRZmprLWlmZ1VhbXdlX0RJT0ZsNGFRcWRwZ3Y2bGktd083VkpUcmk3YVZZeGs2YlUxd21zZzlGeDdsckdwbTRhWFRVYjNMaGdwRzI5bUtHR0x1RUFIV090R0plazkta2tSdXEtTElQMjZPSEIySjN2czREbTV0Uk9TTHJfSnhfRkVJVjRZNjlCQnpreHMyZE9XX2ExanFHVEQyblE?oc=5" target="_blank">Facing unrest, Iran is on edge as Trump threatens Tehran on heels of Venezuela operation</a>&nbsp;&nbsp;<font color="#6f6f6f">Los Angeles Times</font></li><li><a href="https://news.google.com/rss/articles/CBMigwFBVV95cUxQU0hRZkZYaXZINlJMdDZGczUxTWt2b0VReEUxM3RHMW9zV1FuTU9sZ25Qd2hSQWx3NmtNYzRuYUxvMXJMQVROeTlXT1hud055Wk5mQUlJaUNBYzhXdWk3MkYtN0ZWazdQdm5qNGU0MWxqNEh2ZGR0M2d1UWhtbnJqMzdodw?oc=5" target="_blank">As Venezuela buckles under Trump, Iran sees an uncomfortable parallel</a>&nbsp;&nbsp;<font color="#6f6f6f">CNN</font></li><li><a href="https://news.google.com/rss/articles/CBMibEFVX3lxTFBUNERvb3drN1pUWUpzTnZjdUljaGxRRFZJTFBpaEc2Y1JuaVJQeXo3SUxJQlVDV3VPUUdoTGpKWkRwbklfVU1BV0pySzBEdDR5andBekduQmc4dXJXMlJlQjNqREZDdm12a0JXLQ?oc=5" target="_blank">What to Know About Iran’s Protests—and Trump’s Threat of U.S. Intervention</a>&nbsp;&nbsp;<font color="#6f6f6f">Time Magazine</font></li><li><a href="https://news.google.com/rss/articles/CBMipAFBVV95cUxQQ01kUEtIaTRabEtDd1FlSFJ1Ynh2eU5DSHRWNFB1RGZyMDNoUVhmeEVHX2lSUTBNTmdRQ3paYXlsNTVtaUF4OXBVbGdXSHh6S1hxWXZUM0NSaUlUU3FXZml2c253UkRLUU9CUkltbEdQMHdIdDBZOWpGcy16aTRReVl5MXQ0TlY1OWczNXBWNzBoUUFfRVRzcEtMZUVNSDczWVp6bdIBqgFBVV95cUxPQ0JmbmtWR1hkajdhQXQ3RXZ6eGU2QW44MGY4d1Rxa05yS1RDZVA5b1ZRTHRTUXpPOXdyelY0U0wxZXE1MWRFX3FIT244TzZkZ0tRTlN1a1J5d25wQnFJYzQ1YVdkcDM4R0J6WXFVZmdQZ3BUSUduRXoyYWpDVHp0RExGUlVSY0dZYlh2UWlOUjNaVnVTWkNubWNHb1ZQZWNtZEJBQjhUS1o4dw?oc=5" target="_blank">Protest-hit Iran warily watches the US after its raid on Venezuela</a>&nbsp;&nbsp;<font color="#6f6f6f">abcnews.go.com</font></li><li><a href="https://news.google.com/rss/articles/CBMiwAFBVV95cUxOQ0pObmZqUFl5ZUgzZnNzNWFlSkhCZF9UWEd3SWdWdTFhYUhkYVFQbUZkbU0zTXpBeUNJeUFMb2NyV1RGdFpmUVNQbXEtN2ZZd09iRFR2SVdXcjhXRUR0NTh6ckNKQUtpR3hyU0M3Mkl2cFlTZnVYWDhlcWhYZlBDWFN5Y3ZVa21LVVQxTi1YMUdMZ0R6bXVzVDNTTDhhT2ZCdHdFNFl1UlFrV2V1S3hRVi04cUpyclNYbXpWbDZzakU?oc=5" target="_blank">Today Venezuela, tomorrow Iran: can the Islamic Republic survive a second Trump presidency?</a>&nbsp;&nbsp;<font color="#6f6f6f">The Conversation</font></li></ol>
