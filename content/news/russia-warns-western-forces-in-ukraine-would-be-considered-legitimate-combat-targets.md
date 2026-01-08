@@ -6,7 +6,7 @@ summary: "Russia warns Western forces deployed to Ukraine under postwar security
 slug: "russia-warns-western-forces-in-ukraine-would-be-considered-legitimate-combat-targets"
 image: ''
 link: 'https://www.foxnews.com/world/russia-warns-western-forces-ukraine-would-considered-legitimate-combat-targets'
-source: 'https://feeds.foxnews.com/foxnews/latest'
+source: 'https://feeds.foxnews.com/foxnews/world'
 categories:
 - 'feeds.foxnews.com'
 tags:

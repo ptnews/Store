@@ -1,0 +1,21 @@
+---
+title: "Marco Rubio jokingly shuts down 'rumors' he is looking to become Dolphins next head coach"
+date: 2026-01-08
+description: "Sen. Marco Rubio poked fun at online speculation, saying he has no plans to pursue the Miami Dolphins’ head coaching job after Mike McDaniel was fired."
+summary: "Sen. Marco Rubio poked fun at online speculation, saying he has no plans to pursue the Miami Dolphins’ head coaching job after Mike McDaniel was fired."
+slug: "marco-rubio-jokingly-shuts-down-rumors-he-is-looking-to-become-dolphins-next-head-coach"
+image: ''
+link: 'https://www.foxnews.com/sports/marco-rubio-jokingly-shuts-down-rumors-he-looking-become-dolphins-next-head-coach'
+source: 'https://feeds.foxnews.com/foxnews/latest'
+categories:
+- 'feeds.foxnews.com'
+tags:
+- 'jokingly'
+- 'dolphins'
+- 'looking'
+- 'rumors'
+- 'become'
+
+draft: false
+---
+<p>The <a href="https://www.foxnews.com/category/sports/nfl/miami-dolphins" target="_blank" rel="noopener">Miami Dolphins</a> fired head coach Mike McDaniel on Thursday morning, but at least one person is off their list to fill the vacancy.</p><p>Shortly after the <a href="https://www.foxnews.com/sports/dolphins-fire-coach-mike-mcdaniel-four-seasons" target="_blank" rel="noopener">Dolphins' announcement</a>, Sen. Marco Rubio joked that there were "online rumors" that he was a candidate for the team.</p><p>However, he shut those rumors down.</p><p><a href="https://www.foxnews.com/sports" target="_blank" rel="noopener"><strong>CLICK HERE FOR MORE SPORTS COVERAGE ON FOXNEWS.COM</strong></a><i><strong> </strong></i></p><p>"I do not normally respond to online rumors but feel the need to do so at this moment. I will not be a candidate for the currently vacant HC and GM positions with the Miami Dolphins," Rubio posted on X. "While you never know what the future may bring right now my focus must remain on global events and also the precious archives of the United States of America. Thank you."</p><p><a href="https://www.foxnews.com/sports/dolphins-turning-hall-fame-quarterback-help-find-next-general-manager" target="_blank" rel="noopener"><u>Dolphins owner Stephen Ross</u></a> announced the news, citing a need for "comprehensive change" after the team missed the playoffs for a second straight year with a 7-10 finish this season. They also fired general manager Chris Grier in October.</p><p>"After careful evaluation and extensive discussions since the season ended, I have made the decision that our organization is in need of comprehensive change," the statement read. </p><p><a href="https://www.foxnews.com/sports/from-mr-irrelevant-generational-wealth-brock-purdy-wants-use-his-lifestyle-good" target="_blank" rel="noopener"><strong>FROM MR IRRELEVANT TO GENERATIONAL WEALTH, BROCK PURDY WANTS TO USE HIS LIFESTYLE FOR GOOD</strong></a></p><p>"I informed Mike McDaniel this morning that he has been relieved of his duties as head coach. I love Mike and want to thank him for his hard work, commitment, and the energy he brought to our organization. Mike is an incredibly creative football mind whose passion for the game and his players was evident every day. I wish him and his family the best moving forward."</p><p>McDaniel's firing marks the eighth coaching vacancy in the NFL this season.</p><p>The Dolphins made back-to-back playoff appearances in McDaniel’s first two seasons as head coach, but were eliminated both times in the first round. The following season, they were eliminated after suffering an unexpected loss to the New York Jets in the team’s season finale. </p><p>McDaniel’s final season in Miami was tumultuous, highlighted by quarterback <a href="https://www.foxnews.com/category/person/tua-tagovailoa" target="_blank" rel="noopener"><u>Tua Tagovailoa's</u></a> struggles and his eventual benching in the final three games of the season.</p><p><i>Fox News' Paulina Dedaj contributed to this report.</i></p><p><i><strong>Follow Fox News Digital’s </strong></i><a href="https://twitter.com/FoxNewsSports_" target="_blank" rel="noopener"><i><strong>sports coverage on X</strong></i></a><i><strong>, and subscribe to </strong></i><a href="https://www.foxnews.com/newsletters" target="_blank" rel="noopener"><i><strong>the Fox News Sports Huddle newsletter</strong></i></a></p>
