@@ -1,0 +1,19 @@
+---
+title: "An Interview With the President - The New York Times"
+date: 2026-01-09
+description: "An Interview With the President&nbsp;&nbsp;The New York TimesTrump Says His “Morality” Is the Only Thing Stopping Him from Exerting Global Power&nbsp;&nbsp;Esquire‘I don’t need international law’: Trump says power constrained only by ‘my own morality’&nbsp;&nbsp;The GuardianTrump says he doesn’t need international law amid aggressive US policies&nbsp;&nbsp;Al JazeeraOn using U.S. might, Trump says he’s constrained by his ‘morality,’ not international law&nbsp;&nbsp;MS NOW"
+summary: "An Interview With the President&nbsp;&nbsp;The New York TimesTrump Says His “Morality” Is the Only Thing Stopping Him from Exerting Global Power&nbsp;&nbsp;Esquire‘I don’t need international law’: Trump says power constrained only by ‘my own morality’&nbsp;&nbsp;The GuardianTrump says he doesn’t need international law amid aggressive US policies&nbsp;&nbsp;Al JazeeraOn using U.S. might, Trump says he’s constrained by his ‘morality,’ not international law&nbsp;&nbsp;MS NOW"
+slug: "an-interview-with-the-president-the-new-york-times"
+image: ''
+link: 'https://news.google.com/rss/articles/CBMif0FVX3lxTFA2a24tSmV0Ni03MDlkTjNVQ0tFTkVUSjVSd1pEMVFXNXJhM2thZmdLTUZveGUwOENrMFZsc0w4NjNzaEQyNXdRVW16RjlOUHUzcHB0Y1h2SmVfZC02bnE3Mnp5T0NydDlWZU13MG1COHBrdXg5Q0ZyMHJVWTV0QlU?oc=5'
+source: 'https://news.google.com/rss/topics/CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx1YlY4U0FtVnVHZ0pWVXlnQVAB?hl=en-US&gl=US&ceid=US:en'
+categories:
+- 'news.google.com'
+tags:
+- 'interview'
+- 'president'
+- 'times'
+
+draft: false
+---
+<ol><li><a href="https://news.google.com/rss/articles/CBMif0FVX3lxTFA2a24tSmV0Ni03MDlkTjNVQ0tFTkVUSjVSd1pEMVFXNXJhM2thZmdLTUZveGUwOENrMFZsc0w4NjNzaEQyNXdRVW16RjlOUHUzcHB0Y1h2SmVfZC02bnE3Mnp5T0NydDlWZU13MG1COHBrdXg5Q0ZyMHJVWTV0QlU?oc=5" target="_blank">An Interview With the President</a>&nbsp;&nbsp;<font color="#6f6f6f">The New York Times</font></li><li><a href="https://news.google.com/rss/articles/CBMiiAFBVV95cUxPQVlVTlBTTExRdU9aQkhoOEoxT0JqVGkwZWZkZk90Ymh2UG45cXZKaV9LUEFDNlJUenZQNXJUbHd3ZDJmTmp6WS04Z1VJQzd6VXFodVNSZm1SR3Vtd2I4THFWZmRzTjNTVDlrMWlWYXpYOVpXdWoxYldEZTZsZm5hVHZZcXg5WWZo?oc=5" target="_blank">Trump Says His “Morality” Is the Only Thing Stopping Him from Exerting Global Power</a>&nbsp;&nbsp;<font color="#6f6f6f">Esquire</font></li><li><a href="https://news.google.com/rss/articles/CBMigwFBVV95cUxQR3dTTnR1MG12azgwazZQbFB0bFN6ZmJQaDhicE4tZkU0SUx4SlZjTXlaYzlOdkE2aXJ4QjJJUlNNZ3oxX3pDUWtKQjJpV0prRzA3eVJKaVFWVldtU0dIbGhjOEdkVkVyM19ianQwYlNPcldJMzI4WUlFenk3YVVzQnE4bw?oc=5" target="_blank">‘I don’t need international law’: Trump says power constrained only by ‘my own morality’</a>&nbsp;&nbsp;<font color="#6f6f6f">The Guardian</font></li><li><a href="https://news.google.com/rss/articles/CBMisAFBVV95cUxPaHFCNFZ6d2NlNmlwU1M2X2dSaHhXUXNoTTNFNGlPM2VibUdfNGVfVTc0T0ZvZERSRmNCODJRZk5PaWhmbHh0YS1nY2pfZFc1eTdTVWt4d1dwVUp6LTIzZFpxSUUxUTlZS0ZuMjNTSTFoQXhEcmJRUjk2d2NUSDlvbG5JbThoTjZiUFNWTHN1M2hKZExxUWRhOVhOX3FiQTVvQW9obmN3cUtWQUxhZU8wSdIBtgFBVV95cUxNRUZmTmlNV0thZk1UdnkxREJmcHQ5aXJVTmUwVzlDMDJWWEFobUFzdVRYT0lTbVk5UFhsQ0lHU1JfQk81ek5CYVdtTEJLX3QwX3BTc0R1NTVCak50eS1mRlEyZmhOa0g0aUt1VVhSQ25rR2p3OVFPUzc3V2NoYUZsNS14SUx3OC1LNTUzODlEbEJZeWpCbDBlRkxBbllBV0k0emlnQ0ptV1Rqc0lPaVhhVktQeC1nUQ?oc=5" target="_blank">Trump says he doesn’t need international law amid aggressive US policies</a>&nbsp;&nbsp;<font color="#6f6f6f">Al Jazeera</font></li><li><a href="https://news.google.com/rss/articles/CBMizAFBVV95cUxNUEhPVXVLNGlxYVF4aDVEUXlmOWwyRkROaHJYX1FRc0hZc2F4eDB3ZWhLQ1ZDUE1LTGFXUzh4LXFiTkRYZjdJZ2tQdTZIMlNIaXpLQ3pURW9hRHJqU2VyVHM1MFdKdGlVQXljVjBaTVlPcWVFZUQtYUREemxFS0lLTXNLNWpxWmRnRTlvM0JGYkpsS0hGY2JULVZaZ2g0cVlXMlNNUnJRa0gxeFhYT3l5RlNTeDctNEF0LTZjZnVTdVVQN2pUV2oxeFFRMG8?oc=5" target="_blank">On using U.S. might, Trump says he’s constrained by his ‘morality,’ not international law</a>&nbsp;&nbsp;<font color="#6f6f6f">MS NOW</font></li></ol>
