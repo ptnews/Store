@@ -1,0 +1,21 @@
+---
+title: "Ravens coach admits he 'didn't coach Lamar (Jackson) well enough' after missing playoffs this season"
+date: 2026-01-09
+description: "Baltimore Ravens offensive coordinator Todd Monken admitted he &quot;didn&apos;t coach Lamar well enough&quot; after Baltimore&apos;s disappointing 8-9 season in which the team missed the playoffs."
+summary: "Baltimore Ravens offensive coordinator Todd Monken admitted he &quot;didn&apos;t coach Lamar well enough&quot; after Baltimore&apos;s disappointing 8-9 season in which the team missed the playoffs."
+slug: "ravens-coach-admits-he-didn-t-coach-lamar-jackson-well-enough-after-missing-playoffs-this-season"
+image: ''
+link: 'https://www.foxnews.com/sports/ravens-coach-admits-he-didnt-coach-lamar-jackson-well-enough-after-missing-playoffs-season'
+source: 'https://feeds.foxnews.com/foxnews/latest'
+categories:
+- 'feeds.foxnews.com'
+tags:
+- 'playoffs'
+- 'jackson'
+- 'missing'
+- 'ravens'
+- 'admits'
+
+draft: false
+---
+<p>The <a href="https://www.foxnews.com/category/sports/nfl/baltimore-ravens" target="_blank" rel="noopener">Baltimore Ravens</a> underperformed this season, missed the playoffs and fired longtime head coach John Harbaugh, and offensive coordinator Todd Monken took blame for the results.</p><p>Monken, 59, said he did not have as good a relationship with star quarterback <a href="https://www.foxnews.com/category/person/lamar-jackson" target="_blank" rel="noopener">Lamar Jackson</a> as he could have.</p><p>"I didn't coach Lamar well enough," Monken said during a recent appearance on the <a href="https://www.youtube.com/watch?v=VAJSS5ieDHU" target="_blank" rel="nofollow noopener">"Ryan Ripken Show."</a> "I didn't have as good of a relationship as I could have. I didn't do the things we needed to do this year to win enough games to give ourselves a chance. I believe that."</p><p><a href="https://www.foxnews.com/sports" target="_blank" rel="noopener"><strong>CLICK HERE FOR MORE SPORTS COVERAGE ON FOXNEWS.COM</strong></a></p><p>The Ravens finished 8-9 and missed the playoffs in heartbreaking fashion. One of the reasons for their regression was Monken’s unit also regressed. The Ravens scored 30.1 points per game in 2024, third in the NFL, but averaged 24.9 points per game in 2025, ranking 11th in the NFL.</p><p>While the offense still ranked toward the top of the NFL, it was nearly a touchdown less than last season. Jackson missed four games due to injuries while dealing with hamstring, back, ankle and toe issues, and Monken lamented not being able to build on 2024’s success.</p><p>"I really wish Lamar would have been healthy and seen what we kept building on," Monken said, "where we went from '23 to '24, and then we just never got it going. That's what you have to live with."</p><p><a href="https://www.foxnews.com/sports/jaxson-darts-sideline-appearance-ole-miss-bowl-game-fuels-head-coaching-speculation" target="_blank" rel="noopener"><strong>JAXSON DART’S SIDELINE APPEARANCE AT OLE MISS BOWL GAME FUELS HEAD COACHING SPECULATION</strong></a></p><p>Upon Harbaugh’s surprise firing, reports surfaced that Monken and Jackson had a strained relationship, which Monken disputed.</p><p>"Lamar and I, to me, had a good relationship," Monken said. "Could it have been better? Of course. Lamar and I never had an issue."</p><p>Monken said he never saw Harbaugh not have a great relationship with his players.</p><p>"I never saw Lamar and Coach Harbaugh not have a great relationship. I never saw that," Monken said. "I never saw Coach Harbaugh and any of our players not have a great relationship. Never. Not one time."</p><p>Monken said the longtime head coach also did not lose the locker room, calling his former boss "the best at motivating and directing in keeping a team moving in a certain direction."</p><p>With Harbaugh out of town, it is unlikely Monken will still be calling plays for the Ravens next season.</p><p><i><strong>Follow Fox News Digital’s</strong></i><a href="https://twitter.com/FoxNewsSports_" target="_blank" rel="noopener"><i><strong> sports coverage on X</strong></i></a><i><strong>, and subscribe to</strong></i><a href="https://www.foxnews.com/newsletters" target="_blank" rel="noopener"><i><strong> the Fox News Sports Huddle newsletter</strong></i></a><i><strong>.</strong></i></p>
