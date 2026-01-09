@@ -1,0 +1,20 @@
+---
+title: "Pope Leo: Another Consistory in June; We will hold one every year - Vatican News"
+date: 2026-01-09
+description: "Pope Leo: Another Consistory in June; We will hold one every year&nbsp;&nbsp;Vatican NewsPope to cardinals: You are not experts promoting agendas, but a community of faith&nbsp;&nbsp;OSV NewsLeo’s consistory, Francis’ legacy - by Ed. Condon&nbsp;&nbsp;The PillarPope Leo XIV calls on Catholics to rediscover Vatican II teachings&nbsp;&nbsp;usccbPope Leo XIV to hold next consistory in June, hopes for annual meetings with cardinals&nbsp;&nbsp;Catholic News Agency"
+summary: "Pope Leo: Another Consistory in June; We will hold one every year&nbsp;&nbsp;Vatican NewsPope to cardinals: You are not experts promoting agendas, but a community of faith&nbsp;&nbsp;OSV NewsLeo’s consistory, Francis’ legacy - by Ed. Condon&nbsp;&nbsp;The PillarPope Leo XIV calls on Catholics to rediscover Vatican II teachings&nbsp;&nbsp;usccbPope Leo XIV to hold next consistory in June, hopes for annual meetings with cardinals&nbsp;&nbsp;Catholic News Agency"
+slug: "pope-leo-another-consistory-in-june-we-will-hold-one-every-year-vatican-news"
+image: ''
+link: 'https://news.google.com/rss/articles/CBMiwgFBVV95cUxQWkZHeGZiUWl0X2VvU3EydkE3a2dLTVNkOEFfc0tSdGVRRG9tRDRTeHlhS3R2QWU4Q2doeVFHSmJUMWRlQUJFb3FLeFpGeHZVVnB1Y2FjWXJMXzgzYnhxeFEyaHdtV0NxM1N3dnQydmpQQloxc2xhWURGMC1PVVhtY0hpQ0h4SjktUVhDcEI4Y0VBUm1RM1dPaEZLYmZCTVN6bXl4V05JMExZRmdPUnppSk1fclRKUDNtSHUyZkpJUmRZUQ?oc=5'
+source: 'https://news.google.com/rss/topics/CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx1YlY4U0FtVnVHZ0pWVXlnQVAB?hl=en-US&gl=US&ceid=US:en'
+categories:
+- 'news.google.com'
+tags:
+- 'consistory'
+- 'another'
+- 'vatican'
+- 'every'
+
+draft: false
+---
+<ol><li><a href="https://news.google.com/rss/articles/CBMiwgFBVV95cUxQWkZHeGZiUWl0X2VvU3EydkE3a2dLTVNkOEFfc0tSdGVRRG9tRDRTeHlhS3R2QWU4Q2doeVFHSmJUMWRlQUJFb3FLeFpGeHZVVnB1Y2FjWXJMXzgzYnhxeFEyaHdtV0NxM1N3dnQydmpQQloxc2xhWURGMC1PVVhtY0hpQ0h4SjktUVhDcEI4Y0VBUm1RM1dPaEZLYmZCTVN6bXl4V05JMExZRmdPUnppSk1fclRKUDNtSHUyZkpJUmRZUQ?oc=5" target="_blank">Pope Leo: Another Consistory in June; We will hold one every year</a>&nbsp;&nbsp;<font color="#6f6f6f">Vatican News</font></li><li><a href="https://news.google.com/rss/articles/CBMiqAFBVV95cUxOTHlCUWxoUmtVWWFEOVFhdWdpXzAxb1ZjZ2lEQUpEMjhDdS1iRjIwVF95RjkxSkh2ckx1ZEJFMzJRbzlZc3VLNFpkeVczcUNRblpwaG9uOFY4TUdveUZ5bDZ3V3F1cnh3NzNFUFY2QnUwamNjSkRvYzZiR1BJbzlCR3dCUkk2MjlXVWRQRVJ4UUxmVlVxbXN0U0h4eEh2U2tsbjEyT1JyN1o?oc=5" target="_blank">Pope to cardinals: You are not experts promoting agendas, but a community of faith</a>&nbsp;&nbsp;<font color="#6f6f6f">OSV News</font></li><li><a href="https://news.google.com/rss/articles/CBMicEFVX3lxTE1oMllUdDF0ZkphSmwtYl8tZnotVHNia19MUktYY01sUTk0MFRNYkg5RlRxaDhiY2dVSlBrLXlVcy14Z05DRDVuV3lzM1FxNzVwNkdWeGNkalJBeUJCMTVyRmhHTGNXcXRVdllQTVlwR1A?oc=5" target="_blank">Leo’s consistory, Francis’ legacy - by Ed. Condon</a>&nbsp;&nbsp;<font color="#6f6f6f">The Pillar</font></li><li><a href="https://news.google.com/rss/articles/CBMilwFBVV95cUxQdTZTRU9IWjkyNHF5QnV2M1prSndKYkE0WFhxVE1rYURrdHlWejNEZ1QtVk9DNGlaUmVvdFR4NHdLZTFwTWROTkFUek01aUlqZUJyWjdrUU5MWTNjbUktSWRNa2c2YWd0Ykg2TmVYY2hSYWxwTnpTLWFGRkRYbW0wcWo5dEp5TlQ0NWhEaDZEOXlBS0ZHSkV3?oc=5" target="_blank">Pope Leo XIV calls on Catholics to rediscover Vatican II teachings</a>&nbsp;&nbsp;<font color="#6f6f6f">usccb</font></li><li><a href="https://news.google.com/rss/articles/CBMizAFBVV95cUxPdVNxalpuREU1SFpLOHEtdWctbjJTcmc2VmhDUkJYaTgzTlV0TGluTGs4UGdiNHVoX1JzNVpmakduWjQ1WXRqMW1FTWpzejg1cmh6QlJuX3lRMUc4U0daV0hFLTh2VWxTS2dSUDlZU3JKZ2lWdnBMMG9GSGJtZm1ybE5rZ3Y1ZHhpaDNJVTlsckp4YlBneHJfYVptY08wOTBRYnFBd0N5OXZmMlc2WGhlUVpYZjRRTWRaUnRhNFBEWW5qY1N5Qm9SVFdINjTSAdIBQVVfeXFMUG9LTGU3RmFhQXRNdFNZVGwtaW82X0NIZGx1M2lJVUV1OEQ3d0FHWkN4Y2lrdFBYSjVXOXhNTHMwSFlaR0NhcGxkWnFZQ2xybno5RDgtT210QzVjNlo0WVFQN2g0NmdjNEJQMDhQenVQVHZFYThHbjM5RWFMcEhBRHNjYl85QzRpWDh5aGV4clFqXzBweklpTUd3TVNmTno3MTRHNVJWLUVrVV81NlhWNlU0NUI3ZU10YTV4aHp5N1NpVUpHbDJKR0tLX3hVRk9HYU9n?oc=5" target="_blank">Pope Leo XIV to hold next consistory in June, hopes for annual meetings with cardinals</a>&nbsp;&nbsp;<font color="#6f6f6f">Catholic News Agency</font></li></ol>
