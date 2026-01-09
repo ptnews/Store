@@ -1,8 +1,8 @@
 ---
 title: "Trump wears 'happy Trump' pin alongside American flag during White House oil executive meeting"
 date: 2026-01-09
-description: "President Trump wore a unique &apos;happy Trump&apos; lapel pin alongside his American flag pin while hosting oil executives at the White House on Friday afternoon."
-summary: "President Trump wore a unique &apos;happy Trump&apos; lapel pin alongside his American flag pin while hosting oil executives at the White House on Friday afternoon."
+description: "President Trump wore a unique &quot;happy Trump&quot; lapel pin alongside his American flag pin while hosting oil executives at the White House Friday afternoon."
+summary: "President Trump wore a unique &quot;happy Trump&quot; lapel pin alongside his American flag pin while hosting oil executives at the White House Friday afternoon."
 slug: "trump-wears-happy-trump-pin-alongside-american-flag-during-white-house-oil-executive-meeting"
 image: ''
 link: 'https://www.foxnews.com/politics/trump-wears-happy-trump-pin-alongside-american-flag-during-white-house-oil-executive-meeting'
