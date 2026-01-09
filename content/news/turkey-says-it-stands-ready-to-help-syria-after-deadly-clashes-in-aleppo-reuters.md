@@ -1,0 +1,21 @@
+---
+title: "Turkey says it stands ready to help Syria after deadly clashes in Aleppo - Reuters"
+date: 2026-01-09
+description: "Turkey says it stands ready to help Syria after deadly clashes in Aleppo&nbsp;&nbsp;ReutersTurkey offers to 'support' Syrian forces against Kurdish fighters in Aleppo&nbsp;&nbsp;France 24Türkiye calls on US-backed terrorists in Syria to step back | Daily Sabah&nbsp;&nbsp;Daily SabahTürkiye says operation against SDF in Aleppo being carried out entirely by Syrian Army&nbsp;&nbsp;Anadolu AjansıTurkish FM: SDF Must 'Do its Part' for National Unity in Syria&nbsp;&nbsp;Caspian Post"
+summary: "Turkey says it stands ready to help Syria after deadly clashes in Aleppo&nbsp;&nbsp;ReutersTurkey offers to 'support' Syrian forces against Kurdish fighters in Aleppo&nbsp;&nbsp;France 24Türkiye calls on US-backed terrorists in Syria to step back | Daily Sabah&nbsp;&nbsp;Daily SabahTürkiye says operation against SDF in Aleppo being carried out entirely by Syrian Army&nbsp;&nbsp;Anadolu AjansıTurkish FM: SDF Must 'Do its Part' for National Unity in Syria&nbsp;&nbsp;Caspian Post"
+slug: "turkey-says-it-stands-ready-to-help-syria-after-deadly-clashes-in-aleppo-reuters"
+image: ''
+link: 'https://news.google.com/rss/articles/CBMivwFBVV95cUxNbUd6OFZHSXprNUEzaHJSb1hHTWdpOUtMd3VyVzU3bU5JQmYxemlMOGZ6YkZkSWZndEZVNjhuY3hOZW90VWpGNy1EWkZja1BKV1Y1YlozbUpObkYzUXcwOFJJTUNpMmpYaXlINDVSQlY5d1cxeTZfNHFaT2ptcDdLRTM4enZieTFYS2RPUUFqUm1XekY3aXVfWXBQeWhSb3B0UHpfdjFCTW1hS055WVBSY3Vpb0N3MXRfNFRWUjRGNA?oc=5'
+source: 'https://news.google.com/rss/topics/CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx1YlY4U0FtVnVHZ0pWVXlnQVAB?hl=en-US&gl=US&ceid=US:en'
+categories:
+- 'news.google.com'
+tags:
+- 'clashes'
+- 'reuters'
+- 'turkey'
+- 'stands'
+- 'deadly'
+
+draft: false
+---
+<ol><li><a href="https://news.google.com/rss/articles/CBMivwFBVV95cUxNbUd6OFZHSXprNUEzaHJSb1hHTWdpOUtMd3VyVzU3bU5JQmYxemlMOGZ6YkZkSWZndEZVNjhuY3hOZW90VWpGNy1EWkZja1BKV1Y1YlozbUpObkYzUXcwOFJJTUNpMmpYaXlINDVSQlY5d1cxeTZfNHFaT2ptcDdLRTM4enZieTFYS2RPUUFqUm1XekY3aXVfWXBQeWhSb3B0UHpfdjFCTW1hS055WVBSY3Vpb0N3MXRfNFRWUjRGNA?oc=5" target="_blank">Turkey says it stands ready to help Syria after deadly clashes in Aleppo</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font></li><li><a href="https://news.google.com/rss/articles/CBMivwFBVV95cUxPeFNiVEJOQUxEWEhod2ZZSjNLUng3QUFPcTNMN0FfSDgydkwzWk9MTEFYdm9vRG5ybmFnWG9jenpLVEFVcWFES2syN0M2R0RjV2lyZXhyOXFfb1lCb2hrSnZTOUR1YmxxbFNIdlFZMl9vNXdpUjNVTnhoU3ZlWEJ3VGI1RnNLc0FMbXM1aGVlTnp5Yk1yYW5EQjR1WHFKOThZaFFKSll3MkRBUXItVmRfZGtJMnJyLUlMTFFWcl9VTQ?oc=5" target="_blank">Turkey offers to 'support' Syrian forces against Kurdish fighters in Aleppo</a>&nbsp;&nbsp;<font color="#6f6f6f">France 24</font></li><li><a href="https://news.google.com/rss/articles/CBMiogFBVV95cUxOQUlGT3Bpb0VxbnNCMTBoZVVocDU2MDNhdUZ4Y0ljampoa09mNVQ0VUZsUmI4T2xxTUlydXlTeTI3TkdabllmUTB3RDhnX2M5N0lrOXNEUnhhZDJ4c0JhYk1reTdicElIRHVmejNoV3o5OXk5aHE2aFg3dXMzNTR2SWh2cFpSQW85clNNUHU5UVV6MXhiY3NOWXRqT0lubWxKZXfSAacBQVVfeXFMUEZCMUEyd3htVk1IOXdLSF9kWHdDM1JzWmV0bV83TEtGbDQwSjF1YnE1dTFUZ3FmUHhZaTV1X2JCYXdzZUpERklLMnFlY2xaWWpRRmVxWXBCM0huS0x3T3VIRmg4blptUFJsWWc2UXlUMllyMGJKaWoxZDE1RW51Z3lyUWVYRVdnRGx0LUJkc1g4RjljTEJJZWlTNDZEd21FTGtFTXJSSEE?oc=5" target="_blank">Türkiye calls on US-backed terrorists in Syria to step back | Daily Sabah</a>&nbsp;&nbsp;<font color="#6f6f6f">Daily Sabah</font></li><li><a href="https://news.google.com/rss/articles/CBMiywFBVV95cUxQR094QUV3U21uTllyM1FRZVFXTHdRcDB5WXJtdVI4NHhwOUp5V2hMMWR3a045WmhQRXZPTU9vYncwelhkemYydHZMS2VSdHJPN3pOSFdNR3pQUTYtOFlyNmYzQU5GX2R1ODRNRVEyMy1BemNxbW9oZEFFd0JHOVN2TUoxb0FTVjExczFLaHc0d1RMbTAzcWdNYVdFaGlqLTFvQktJY0Z4NWo1Y1c5OHFJOS1SWTJENUpDQl9ra2ZpRHhZODFGYzB5VG8tZw?oc=5" target="_blank">Türkiye says operation against SDF in Aleppo being carried out entirely by Syrian Army</a>&nbsp;&nbsp;<font color="#6f6f6f">Anadolu Ajansı</font></li><li><a href="https://news.google.com/rss/articles/CBMilwFBVV95cUxQV1EwclZDLWtZN3ZZaTlteFlNQ09LdVhUWXNxVGg3bE1Lc29iYktDQ3FPNFZYZm5oN1lVcWIyWkNvcHJnUmxSbGI4UlhwRnJELWxGYkZQOHlJSDgyVmVzaXJhNVlGNFVJM3ljaHltV2NVend4MWRLMmhkdURyNFJ3NUdaWXoxel9lS0k3Snh3WnhCS2NKeFgw?oc=5" target="_blank">Turkish FM: SDF Must 'Do its Part' for National Unity in Syria</a>&nbsp;&nbsp;<font color="#6f6f6f">Caspian Post</font></li></ol>

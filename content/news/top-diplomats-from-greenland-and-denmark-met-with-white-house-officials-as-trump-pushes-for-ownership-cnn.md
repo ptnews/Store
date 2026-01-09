@@ -1,0 +1,21 @@
+---
+title: "Top diplomats from Greenland and Denmark met with White House officials as Trump pushes for ownership - CNN"
+date: 2026-01-09
+description: "Top diplomats from Greenland and Denmark met with White House officials as Trump pushes for ownership&nbsp;&nbsp;CNNNATO faces a major crisis over Greenland. Europe seems powerless to stop it&nbsp;&nbsp;CNNTrump is desperate to take Greenland. Can NATO defend itself — and is it willing to?&nbsp;&nbsp;CNBCTrump admin reportedly considers paying each Greenland resident up to $100K amid US takeover talks&nbsp;&nbsp;Fox NewsRubio Says He’ll Discuss Greenland With Danish Officials Next Week&nbsp;..."
+summary: "Top diplomats from Greenland and Denmark met with White House officials as Trump pushes for ownership&nbsp;&nbsp;CNNNATO faces a major crisis over Greenland. Europe seems powerless to stop it&nbsp;&nbsp;CNNTrump is desperate to take Greenland. Can NATO defend itself — and is it willing to?&nbsp;&nbsp;CNBCTrump admin reportedly considers paying each Greenland resident up to $100K amid US takeover talks&nbsp;&nbsp;Fox NewsRubio Says He’ll Discuss Greenland With Danish Officials Next Week&nbsp;..."
+slug: "top-diplomats-from-greenland-and-denmark-met-with-white-house-officials-as-trump-pushes-for-ownership-cnn"
+image: ''
+link: 'https://news.google.com/rss/articles/CBMiiwFBVV95cUxPT2tFdWU4WjFOaFlid1ZmWGFTT283cmpRdUJfUHo2ZjVIb01JLWwyWTUyQUZqSi1vejdkbkhMLXVnR2FENnhSNE9Rd3dSMVVPaFVBTXJpdjZuTHV4Sk52YnJFNEFBcmN0dlRlclZHY0FZSkg1NFBvajlhM0xBN0dOejRINGJoanBwMEk0?oc=5'
+source: 'https://news.google.com/rss/topics/CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx1YlY4U0FtVnVHZ0pWVXlnQVAB?hl=en-US&gl=US&ceid=US:en'
+categories:
+- 'news.google.com'
+tags:
+- 'diplomats'
+- 'greenland'
+- 'officials'
+- 'ownership'
+- 'denmark'
+
+draft: false
+---
+<ol><li><a href="https://news.google.com/rss/articles/CBMiiwFBVV95cUxPT2tFdWU4WjFOaFlid1ZmWGFTT283cmpRdUJfUHo2ZjVIb01JLWwyWTUyQUZqSi1vejdkbkhMLXVnR2FENnhSNE9Rd3dSMVVPaFVBTXJpdjZuTHV4Sk52YnJFNEFBcmN0dlRlclZHY0FZSkg1NFBvajlhM0xBN0dOejRINGJoanBwMEk0?oc=5" target="_blank">Top diplomats from Greenland and Denmark met with White House officials as Trump pushes for ownership</a>&nbsp;&nbsp;<font color="#6f6f6f">CNN</font></li><li><a href="https://news.google.com/rss/articles/CBMigwFBVV95cUxQSzlNTVFrU2xIcm1jMXZ5TjQxOTNQYmJpTEtnSWU4LVBsbHhNbXRCaWw5X3JRRXYyMFdmYTNmNi1VbXVhd0hRZzVDM1htTllqWFlJTktQSGt0amh0RngzWDdwbjdyWW9tbGFyR1VwbmxiR3VQSk4tSDRlOElTVmRydzNFYw?oc=5" target="_blank">NATO faces a major crisis over Greenland. Europe seems powerless to stop it</a>&nbsp;&nbsp;<font color="#6f6f6f">CNN</font></li><li><a href="https://news.google.com/rss/articles/CBMiggFBVV95cUxPZUlwVld6UGVtWldVd25NN0MwdW15Wkk1cy1UQUhwWmZaSFlNSzlnaHVuYldqRXZkc1U4VGpDR21CdUF0eDM5cWZEeW5mbmkzaXhKQ1FPY3JJZGF3LUpXTW5MbVVKRU1DcnRDQlJpZjBKZG8yb3A0VjdhWWlBUE90QTZB0gGHAUFVX3lxTE1wMDM3d3JQSDN2aWJ1U0RTS2FJdU90dWUydjJ4MEl6dndpTDJTSmkzSk1FTFZrX3VCSzBWQ2xoeVVXSFRnLUN3T2J1UjFwa2VKLVlValRaZmRCaldUcGZKd2J6eUFEbjNSUlJXeDhac0t0ZUZiNnota0NRNzVzU3VsWnhlV09sMA?oc=5" target="_blank">Trump is desperate to take Greenland. Can NATO defend itself — and is it willing to?</a>&nbsp;&nbsp;<font color="#6f6f6f">CNBC</font></li><li><a href="https://news.google.com/rss/articles/CBMiuwFBVV95cUxPODY2NVp5a3dYaDk4V05VWHF2ZVJELVFRS2pWWTY0RFlLci0tVC1xc3JOdWRXVnN1MDRRYXpTV0tHbmhJMHRrT1VlLTE5ZlBGTEYxNXlsTld2Rmo1TWZmaEowOG1MTHZhdUZrT2sxQ0V1V1B3QUsyTzNucEFjMEFfcVBpQkpFQno0cjVyYk1QWmV4WTJ3T2VJRmNMNDhFejBpdWZqVm12ZDdBRWZ6QjQ1QWFIUmdGcmpNd2xj0gHAAUFVX3lxTE5KelFJVVhfSGI4R3FYSmlTaC1Pd0MzUTg2M04xeV9qdEo3UERXMmJjaWtnRGtRNUZSaEdyaEhmd094TDZKUllhWm1zcXdlNVpCN0RiN1ZGQVhLZjNMa2xSbW1VQnFPRm44UjhDeVZGMUE5NVQwa2ZjbXhtRTllMVZiNnBoTzhVeDc4OG1tMWtZOFMwbk13ZDdjbU1sU1Rhb3owbmljVnlZWUNjM25FS0JWVVFxTFhDWTItMHdDcVVMNg?oc=5" target="_blank">Trump admin reportedly considers paying each Greenland resident up to $100K amid US takeover talks</a>&nbsp;&nbsp;<font color="#6f6f6f">Fox News</font></li><li><a href="https://news.google.com/rss/articles/CBMimwFBVV95cUxPXzVkbnpQVnNwanBvTHBWTWZ3UEFDOENURVlSYTRic0U5T21nMTFKRFU2MTFKWFdrQkFzcGJ3ZVU1RldTX2RyN0xfNThqMkhJdEtkVmQ0Y2ZfOEpxWTRnZ2xEMGZTeGxLWVNUanhZX3lCY0JaYlVtVVNYTWJCa3U3NHhFY3AxVjlfVWRNVmJGQkZvYUp4cGdBUEdLTQ?oc=5" target="_blank">Rubio Says He’ll Discuss Greenland With Danish Officials Next Week</a>&nbsp;&nbsp;<font color="#6f6f6f">The New York Times</font></li></ol>
