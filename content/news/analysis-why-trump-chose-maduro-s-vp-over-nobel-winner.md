@@ -1,6 +1,6 @@
 ---
 title: "Analysis: Why Trump chose Maduro's VP over Nobel winner"
-date: 2026-01-08
+date: 2026-01-09
 description: "What is it about Delcy Rodríguez that caught the eye of the Trump administration?"
 summary: "What is it about Delcy Rodríguez that caught the eye of the Trump administration?"
 slug: "analysis-why-trump-chose-maduro-s-vp-over-nobel-winner"

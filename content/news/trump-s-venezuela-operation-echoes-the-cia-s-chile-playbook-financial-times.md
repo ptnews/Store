@@ -1,6 +1,6 @@
 ---
 title: "Trump’s Venezuela operation echoes the CIA’s Chile playbook - Financial Times"
-date: 2026-01-08
+date: 2026-01-09
 description: "Trump’s Venezuela operation echoes the CIA’s Chile playbook&nbsp;&nbsp;Financial TimesAmerica’s Guatemalan misadventure should be a warning to Trump the regime-toppler&nbsp;&nbsp;The ObserverGringo is he who decides on the state of exception | Daily Sabah&nbsp;&nbsp;Daily SabahThe Latin American Trap We Pretend Not to See&nbsp;&nbsp;EVWORLD.COMBeyond military invasion, there exists a deep-rooted fear of communism&nbsp;&nbsp;Minute Mirror"
 summary: "Trump’s Venezuela operation echoes the CIA’s Chile playbook&nbsp;&nbsp;Financial TimesAmerica’s Guatemalan misadventure should be a warning to Trump the regime-toppler&nbsp;&nbsp;The ObserverGringo is he who decides on the state of exception | Daily Sabah&nbsp;&nbsp;Daily SabahThe Latin American Trap We Pretend Not to See&nbsp;&nbsp;EVWORLD.COMBeyond military invasion, there exists a deep-rooted fear of communism&nbsp;&nbsp;Minute Mirror"
 slug: "trump-s-venezuela-operation-echoes-the-cia-s-chile-playbook-financial-times"

@@ -1,6 +1,6 @@
 ---
 title: "Watch: Eyewitnesses recount deadly ICE shooting"
-date: 2026-01-08
+date: 2026-01-09
 description: "Renee Good was fatally shot by an ICE agent in the Central neighbourhood of Minneapolis.
 "
 summary: "Renee Good was fatally shot by an ICE agent in the Central neighbourhood of Minneapolis.

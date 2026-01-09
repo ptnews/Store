@@ -1,6 +1,6 @@
 ---
 title: "Job Opportunity: Citizen Lab Research Officer in the Area of Spyware and Digital Targeted Threats - The Citizen Lab"
-date: 2026-01-08
+date: 2026-01-09
 description: "Job Opportunity: Citizen Lab Research Officer in the Area of Spyware and Digital Targeted Threats&nbsp;&nbsp;The Citizen Lab"
 summary: "Job Opportunity: Citizen Lab Research Officer in the Area of Spyware and Digital Targeted Threats&nbsp;&nbsp;The Citizen Lab"
 slug: "job-opportunity-citizen-lab-research-officer-in-the-area-of-spyware-and-digital-targeted-threats-the-citizen-lab"

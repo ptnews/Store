@@ -1,6 +1,6 @@
 ---
 title: "Sick young ants send out a 'kill me' scent to prevent deadly epidemics - NPR"
-date: 2026-01-08
+date: 2026-01-09
 description: "Sick young ants send out a 'kill me' scent to prevent deadly epidemics&nbsp;&nbsp;NPR"
 summary: "Sick young ants send out a 'kill me' scent to prevent deadly epidemics&nbsp;&nbsp;NPR"
 slug: "sick-young-ants-send-out-a-kill-me-scent-to-prevent-deadly-epidemics-npr"

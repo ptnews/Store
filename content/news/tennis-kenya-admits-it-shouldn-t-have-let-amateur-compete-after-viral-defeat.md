@@ -1,6 +1,6 @@
 ---
 title: "Tennis Kenya admits it shouldn't have let amateur compete after viral defeat"
-date: 2026-01-08
+date: 2026-01-09
 description: "The organisers of a professional women's tournament which has gone viral because of a wildcard player's poor performance acknowledge she should not have been allowed to play."
 summary: "The organisers of a professional women's tournament which has gone viral because of a wildcard player's poor performance acknowledge she should not have been allowed to play."
 slug: "tennis-kenya-admits-it-shouldn-t-have-let-amateur-compete-after-viral-defeat"

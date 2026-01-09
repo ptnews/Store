@@ -1,6 +1,6 @@
 ---
 title: "One million spent hours without heat and water after Russian strikes, Ukraine says"
-date: 2026-01-08
+date: 2026-01-09
 description: "Efforts are continuing to restore services in Dnipropetrovsk, officials say, after wide-spread attacks in the southeast. "
 summary: "Efforts are continuing to restore services in Dnipropetrovsk, officials say, after wide-spread attacks in the southeast. "
 slug: "one-million-spent-hours-without-heat-and-water-after-russian-strikes-ukraine-says"

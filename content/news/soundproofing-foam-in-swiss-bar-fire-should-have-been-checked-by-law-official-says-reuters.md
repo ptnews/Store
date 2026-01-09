@@ -1,6 +1,6 @@
 ---
 title: "Soundproofing foam in Swiss bar fire should have been checked by law, official says - Reuters"
-date: 2026-01-08
+date: 2026-01-09
 description: "Soundproofing foam in Swiss bar fire should have been checked by law, official says&nbsp;&nbsp;ReutersTeen soccer players lay to rest mate killed in Swiss bar fire&nbsp;&nbsp;ReutersAn ‘Avoidable Tragedy’: The Hazards That Led to the Swiss Fire Disaster&nbsp;&nbsp;The New York TimesFIA pays tribute to 18-year-old karting driver Joaquim van Thuyne after Crans-Montana bar fire&nbsp;&nbsp;Motorsport.comOpinion | Lessons of Switzerland’s Crans-Montana Fire&nbsp;&nbsp;The Wall Street Journal"
 summary: "Soundproofing foam in Swiss bar fire should have been checked by law, official says&nbsp;&nbsp;ReutersTeen soccer players lay to rest mate killed in Swiss bar fire&nbsp;&nbsp;ReutersAn ‘Avoidable Tragedy’: The Hazards That Led to the Swiss Fire Disaster&nbsp;&nbsp;The New York TimesFIA pays tribute to 18-year-old karting driver Joaquim van Thuyne after Crans-Montana bar fire&nbsp;&nbsp;Motorsport.comOpinion | Lessons of Switzerland’s Crans-Montana Fire&nbsp;&nbsp;The Wall Street Journal"
 slug: "soundproofing-foam-in-swiss-bar-fire-should-have-been-checked-by-law-official-says-reuters"

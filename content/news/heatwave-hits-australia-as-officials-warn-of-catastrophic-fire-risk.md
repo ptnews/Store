@@ -1,6 +1,6 @@
 ---
 title: "Heatwave hits Australia as officials warn of 'catastrophic' fire risk"
-date: 2026-01-08
+date: 2026-01-09
 description: "The fire danger level for northern Victoria will be set at the highest level."
 summary: "The fire danger level for northern Victoria will be set at the highest level."
 slug: "heatwave-hits-australia-as-officials-warn-of-catastrophic-fire-risk"

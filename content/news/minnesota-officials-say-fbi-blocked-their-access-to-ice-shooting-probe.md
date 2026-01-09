@@ -1,6 +1,6 @@
 ---
 title: "Minnesota officials say FBI blocked their access to ICE shooting probe"
-date: 2026-01-08
+date: 2026-01-09
 description: "Hundreds of people have taken to the streets of Minneapolis to protest the killing of 37-year-old Renee Good."
 summary: "Hundreds of people have taken to the streets of Minneapolis to protest the killing of 37-year-old Renee Good."
 slug: "minnesota-officials-say-fbi-blocked-their-access-to-ice-shooting-probe"

@@ -1,6 +1,6 @@
 ---
 title: "Russian war deaths are rising to unsustainable levels, says Ukraine - Al Jazeera"
-date: 2026-01-08
+date: 2026-01-09
 description: "Russian war deaths are rising to unsustainable levels, says Ukraine&nbsp;&nbsp;Al JazeeraRussia loses 1,400 personnel, 17 artillery systems in war against Ukraine over past day&nbsp;&nbsp;UkrinformRussia loses 1,040 soldiers over past day&nbsp;&nbsp;Українська правдаAFU fighters eliminated more than 900 occupiers in one day&nbsp;&nbsp;UA.NEWSRussian army lost 1,400 soldiers and 225 UAVs in one day - General Staff&nbsp;&nbsp;Українські Національні Новини"
 summary: "Russian war deaths are rising to unsustainable levels, says Ukraine&nbsp;&nbsp;Al JazeeraRussia loses 1,400 personnel, 17 artillery systems in war against Ukraine over past day&nbsp;&nbsp;UkrinformRussia loses 1,040 soldiers over past day&nbsp;&nbsp;Українська правдаAFU fighters eliminated more than 900 occupiers in one day&nbsp;&nbsp;UA.NEWSRussian army lost 1,400 soldiers and 225 UAVs in one day - General Staff&nbsp;&nbsp;Українські Національні Новини"
 slug: "russian-war-deaths-are-rising-to-unsustainable-levels-says-ukraine-al-jazeera"

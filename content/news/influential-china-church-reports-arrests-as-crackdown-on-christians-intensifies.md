@@ -1,6 +1,6 @@
 ---
 title: "Influential China church reports arrests as crackdown on Christians intensifies"
-date: 2026-01-08
+date: 2026-01-09
 description: "Leaders of Early Rain Covenant Church have been arrested and Yayang Church is being torn down, groups say."
 summary: "Leaders of Early Rain Covenant Church have been arrested and Yayang Church is being torn down, groups say."
 slug: "influential-china-church-reports-arrests-as-crackdown-on-christians-intensifies"

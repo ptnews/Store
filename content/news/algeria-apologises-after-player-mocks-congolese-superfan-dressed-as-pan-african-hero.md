@@ -1,6 +1,6 @@
 ---
 title: "Algeria apologises after player mocks Congolese superfan dressed as pan-African hero"
-date: 2026-01-08
+date: 2026-01-09
 description: "Michel Nkuka Mboladinga stood motionless throughout DR Congo's Afcon matches in tribute to Patrice Lumumba."
 summary: "Michel Nkuka Mboladinga stood motionless throughout DR Congo's Afcon matches in tribute to Patrice Lumumba."
 slug: "algeria-apologises-after-player-mocks-congolese-superfan-dressed-as-pan-african-hero"

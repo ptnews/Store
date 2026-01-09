@@ -1,6 +1,6 @@
 ---
 title: "Could gamers be the secret weapon of a modern UK military? - BBC"
-date: 2026-01-08
+date: 2026-01-09
 description: "Could gamers be the secret weapon of a modern UK military?&nbsp;&nbsp;BBC"
 summary: "Could gamers be the secret weapon of a modern UK military?&nbsp;&nbsp;BBC"
 slug: "could-gamers-be-the-secret-weapon-of-a-modern-uk-military-bbc"

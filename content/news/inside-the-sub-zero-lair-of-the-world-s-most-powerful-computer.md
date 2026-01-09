@@ -1,6 +1,6 @@
 ---
 title: "Inside the sub-zero lair of the world's most powerful computer"
-date: 2026-01-08
+date: 2026-01-09
 description: "Faisal Islam gets rare access to Willow - Google's quantum computer."
 summary: "Faisal Islam gets rare access to Willow - Google's quantum computer."
 slug: "inside-the-sub-zero-lair-of-the-world-s-most-powerful-computer"

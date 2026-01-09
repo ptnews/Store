@@ -1,0 +1,21 @@
+---
+title: "Trump Feels ‘Strongly’ That Russia Would Not Invade Ukraine Again - The New York Times"
+date: 2026-01-09
+description: "Trump Feels ‘Strongly’ That Russia Would Not Invade Ukraine Again&nbsp;&nbsp;The New York TimesUkraine security guarantees supported by U.S.&nbsp;&nbsp;NBC NewsTrump open to expanding Ukraine security guarantees, Herbst says&nbsp;&nbsp;Novyny.LIVETrump ready to defend Ukraine, but there's a catch - NYT&nbsp;&nbsp;Українські Національні НовиниTrump may provide security guarantees to Ukraine: what the CIA expert said&nbsp;&nbsp;112.ua"
+summary: "Trump Feels ‘Strongly’ That Russia Would Not Invade Ukraine Again&nbsp;&nbsp;The New York TimesUkraine security guarantees supported by U.S.&nbsp;&nbsp;NBC NewsTrump open to expanding Ukraine security guarantees, Herbst says&nbsp;&nbsp;Novyny.LIVETrump ready to defend Ukraine, but there's a catch - NYT&nbsp;&nbsp;Українські Національні НовиниTrump may provide security guarantees to Ukraine: what the CIA expert said&nbsp;&nbsp;112.ua"
+slug: "trump-feels-strongly-that-russia-would-not-invade-ukraine-again-the-new-york-times"
+image: ''
+link: 'https://news.google.com/rss/articles/CBMifEFVX3lxTE1jQTdDbFRtU2NaSFVjYmtOYUF6LUl0Y0dwalBjMGF6ZVpOdGVXWklRNnBYUlRab01CekdfRV8tOVBoV0ZBUlo2YnVuMmE2RkRFeEFVS29RLUl1ZHkyNnVNdjlSMnY0RjRLNXJ0bHk2TVl1MUVTeWpCNElQOGY?oc=5'
+source: 'https://news.google.com/rss/topics/CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx1YlY4U0FtVnVHZ0pWVXlnQVAB?hl=en-US&gl=US&ceid=US:en'
+categories:
+- 'news.google.com'
+tags:
+- 'strongly'
+- 'ukraine'
+- 'russia'
+- 'invade'
+- 'trump'
+
+draft: false
+---
+<ol><li><a href="https://news.google.com/rss/articles/CBMifEFVX3lxTE1jQTdDbFRtU2NaSFVjYmtOYUF6LUl0Y0dwalBjMGF6ZVpOdGVXWklRNnBYUlRab01CekdfRV8tOVBoV0ZBUlo2YnVuMmE2RkRFeEFVS29RLUl1ZHkyNnVNdjlSMnY0RjRLNXJ0bHk2TVl1MUVTeWpCNElQOGY?oc=5" target="_blank">Trump Feels ‘Strongly’ That Russia Would Not Invade Ukraine Again</a>&nbsp;&nbsp;<font color="#6f6f6f">The New York Times</font></li><li><a href="https://news.google.com/rss/articles/CBMi0wFBVV95cUxPSVNOR0hxMWpsYllsRjcyTEZIOUJUNF9QZXdSX3ZDV3ZfRmR5dVBiVG03UmhPQUVQOHNzZ284b3h3STZFTDhpWVJvTHAya0Q5VVRiSVVNYlBrWnQxVWctb2ZrVFhTZ3NZRG5qMmk0SnRVWWQ2VktnTU92TEtCVDBZbDVnU1ROQzZCMUtOdlZHdGIwa0dFaGtlMTN0TTc1SnhTNi1jWHlwd05fZlFsN0xTMV95QldvZTJ6N1o0blp3UkJOVVBZSW81WFRycldPZU1vZmpz0gFjQVVfeXFMTTY3SXFWYmVXaXFjd2c0RlFrNWlGdVB4c1E4cm4zQVEwTGtjUFJJQnRmV2NpYUpLdmpLeXlvRnZNSWxhZjFzVGNvT1FucV9uYUVwdzlfUE8xbHRDUUFhQzR1M2RR?oc=5" target="_blank">Ukraine security guarantees supported by U.S.</a>&nbsp;&nbsp;<font color="#6f6f6f">NBC News</font></li><li><a href="https://news.google.com/rss/articles/CBMinwFBVV95cUxPbmJNVVcwVU1sdDhGN2oxMFUwNC00YjNQNEhiUk5OWmcxWlVTV19wdlNIZHR6YWFyZlRpSW12ZmprMjdUME9mMzZkLVJhZjVlYk1xaVNlY2xyOUs3U2hha0Zmc2NQYjhJQkc1V2UxdVRBUkhTRkpqc0pQbG5pOU1lQTEyZG5HVVNtaEFGS3YxdGZXZlB3YTE0OWluOHFfTEXSAaQBQVVfeXFMT1g4bzdFTnFnMDFYUm4zV1Zrcy1YWFVUZmZiZjZnMFhKRkp4eS1kOW5rV1NLTGlodUF0cVhsbWpBRWFFZ1dXV25KUFRsSTY2WlRBZC1qU0Vsb3hsYWhPOTA5TDdLQ2J1TjM1VmpoRGZ5Rkdad2pjTmZ6VnlmS0gyWFo1ODhOT0ZZYmk1enNUcjNZVzFPSE1QU05WN1Y3N0c1Tkd4ZFc?oc=5" target="_blank">Trump open to expanding Ukraine security guarantees, Herbst says</a>&nbsp;&nbsp;<font color="#6f6f6f">Novyny.LIVE</font></li><li><a href="https://news.google.com/rss/articles/CBMigAFBVV95cUxPa0JTVVdNeWFyNERpajI3Q0locFlibkNrTjhoVklfNlQ0YUtqdy1VbkNEOHowdnRESW5kdHE3dk5DUTNLZ2Mwc0QzRTlSU1ZnWExTNVh3QzF6OUhDTHVUd095QUd3Z2MtSnJtV0lzQlF5WlgyV09ya0tELTdGMjItcNIBf0FVX3lxTE1TeGxYYV9mYmItSjBodm5QelR5VVZnOE0yMHhiUjlmZmU2Nl90LVlMU2g0QkRyNWtoRmFzYmc1VFRhN0NSOFVtb3lUUGl5UkFTZ0VPSERSeERZclk0dzBvQktfRURyRXhHNGYwLUVJREYzbThNdFoxcEMxVXBQM2M?oc=5" target="_blank">Trump ready to defend Ukraine, but there's a catch - NYT</a>&nbsp;&nbsp;<font color="#6f6f6f">Українські Національні Новини</font></li><li><a href="https://news.google.com/rss/articles/CBMiswFBVV95cUxOSXA4aDVrOFhVNzRFa2szOEhRVWpqVlRQbVlwdXJjR3FXblNFWktaVi1WUlNlY3V6TjhBNUdDNWVJSElZZzNjMzViT09oNnR4MWN6VC1fLTJpcW5HMVA5V1dMODNKZEZxSWRad1UwVENMMk00NXlPS3RDMUtQOHNGWHhJdE1JVUxJekNMdWN0QkxzX0hNZ3hoclNyTFpJeV9OYTdkNmRiUGwzYmhZSHhUYU1Daw?oc=5" target="_blank">Trump may provide security guarantees to Ukraine: what the CIA expert said</a>&nbsp;&nbsp;<font color="#6f6f6f">112.ua</font></li></ol>

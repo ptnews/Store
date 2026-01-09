@@ -1,6 +1,6 @@
 ---
 title: "Lebanese army says it has taken over security in Hezbollah-dominated south"
-date: 2026-01-08
+date: 2026-01-09
 description: "The army says it has met its goal of clearing the area of non-state weapons but Israel calls the move \"insufficient\"."
 summary: "The army says it has met its goal of clearing the area of non-state weapons but Israel calls the move \"insufficient\"."
 slug: "lebanese-army-says-it-has-taken-over-security-in-hezbollah-dominated-south"

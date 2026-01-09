@@ -1,6 +1,6 @@
 ---
 title: "'We are not for sale': Greenlanders express fear and indignation as Trump eyes territory"
-date: 2026-01-08
+date: 2026-01-09
 description: "Greenlanders tell the BBC they have no interest in becoming American as the White House restates its desire for annexation."
 summary: "Greenlanders tell the BBC they have no interest in becoming American as the White House restates its desire for annexation."
 slug: "we-are-not-for-sale-greenlanders-express-fear-and-indignation-as-trump-eyes-territory"

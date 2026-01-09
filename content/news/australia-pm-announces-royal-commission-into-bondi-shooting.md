@@ -1,6 +1,6 @@
 ---
 title: "Australia PM announces royal commission into Bondi shooting"
-date: 2026-01-08
+date: 2026-01-09
 description: "Anthony Albanese had previously resisted such an inquiry despite pressure from the Jewish community."
 summary: "Anthony Albanese had previously resisted such an inquiry despite pressure from the Jewish community."
 slug: "australia-pm-announces-royal-commission-into-bondi-shooting"

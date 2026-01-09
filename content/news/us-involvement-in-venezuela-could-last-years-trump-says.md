@@ -1,6 +1,6 @@
 ---
 title: "US involvement in Venezuela could last years, Trump says"
-date: 2026-01-08
+date: 2026-01-09
 description: "The US president says only time would tell how long his administration will be involved in the running of the country."
 summary: "The US president says only time would tell how long his administration will be involved in the running of the country."
 slug: "us-involvement-in-venezuela-could-last-years-trump-says"

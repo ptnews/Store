@@ -1,6 +1,6 @@
 ---
 title: "Spain's Catholic Church signs deal on sexual abuse compensation"
-date: 2026-01-08
+date: 2026-01-09
 description: "The accord follows complaints that religious leaders had failed to tackle the issue adequately."
 summary: "The accord follows complaints that religious leaders had failed to tackle the issue adequately."
 slug: "spain-s-catholic-church-signs-deal-on-sexual-abuse-compensation"

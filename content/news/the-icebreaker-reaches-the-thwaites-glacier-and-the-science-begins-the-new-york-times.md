@@ -1,6 +1,6 @@
 ---
 title: "The Icebreaker Reaches the Thwaites Glacier, and the Science Begins - The New York Times"
-date: 2026-01-08
+date: 2026-01-09
 description: "The Icebreaker Reaches the Thwaites Glacier, and the Science Begins&nbsp;&nbsp;The New York TimesAntarctic Sea Ice&nbsp;&nbsp;eos.orgNearly 40 scientists are aboard the Araon, an icebreaker heading for Antarctica’s fastest-melting glaciers. Our journalists are traveling with them for a two-month expedition that could unearth crucial data about rising sea levels. Here’s a tour of the ship. https://n&nbsp;&nbsp;facebook.comFighting Through the Ice, Without a Horizon as a Guide&nbsp;&nbsp;The N..."
 summary: "The Icebreaker Reaches the Thwaites Glacier, and the Science Begins&nbsp;&nbsp;The New York TimesAntarctic Sea Ice&nbsp;&nbsp;eos.orgNearly 40 scientists are aboard the Araon, an icebreaker heading for Antarctica’s fastest-melting glaciers. Our journalists are traveling with them for a two-month expedition that could unearth crucial data about rising sea levels. Here’s a tour of the ship. https://n&nbsp;&nbsp;facebook.comFighting Through the Ice, Without a Horizon as a Guide&nbsp;&nbsp;The N..."
 slug: "the-icebreaker-reaches-the-thwaites-glacier-and-the-science-begins-the-new-york-times"

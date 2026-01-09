@@ -1,6 +1,6 @@
 ---
 title: "What's the relationship between Venezuela and Cuba?"
-date: 2026-01-08
+date: 2026-01-09
 description: "The BBC's Cuba Correspondent, Will Grant, looks at the close ties between the two nations."
 summary: "The BBC's Cuba Correspondent, Will Grant, looks at the close ties between the two nations."
 slug: "what-s-the-relationship-between-venezuela-and-cuba"

@@ -1,6 +1,6 @@
 ---
 title: "The Caribbean island where locals can't access the beach - BBC"
-date: 2026-01-08
+date: 2026-01-09
 description: "The Caribbean island where locals can't access the beach&nbsp;&nbsp;BBC"
 summary: "The Caribbean island where locals can't access the beach&nbsp;&nbsp;BBC"
 slug: "the-caribbean-island-where-locals-can-t-access-the-beach-bbc"

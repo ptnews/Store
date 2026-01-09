@@ -1,6 +1,6 @@
 ---
 title: "How medieval monks tried to stay warm in the winter - The Conversation"
-date: 2026-01-08
+date: 2026-01-09
 description: "How medieval monks tried to stay warm in the winter&nbsp;&nbsp;The Conversation"
 summary: "How medieval monks tried to stay warm in the winter&nbsp;&nbsp;The Conversation"
 slug: "how-medieval-monks-tried-to-stay-warm-in-the-winter-the-conversation"

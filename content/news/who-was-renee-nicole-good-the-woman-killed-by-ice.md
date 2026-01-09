@@ -1,6 +1,6 @@
 ---
 title: "Who was Renee Nicole Good, the woman killed by ICE?"
-date: 2026-01-08
+date: 2026-01-09
 description: "A mother of three and award-winning poet, Good's sudden death sparks protests across the US."
 summary: "A mother of three and award-winning poet, Good's sudden death sparks protests across the US."
 slug: "who-was-renee-nicole-good-the-woman-killed-by-ice"

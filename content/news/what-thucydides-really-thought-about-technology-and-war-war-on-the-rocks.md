@@ -1,6 +1,6 @@
 ---
 title: "What Thucydides Really Thought About Technology and War - War on the Rocks"
-date: 2026-01-08
+date: 2026-01-09
 description: "What Thucydides Really Thought About Technology and War&nbsp;&nbsp;War on the Rocks"
 summary: "What Thucydides Really Thought About Technology and War&nbsp;&nbsp;War on the Rocks"
 slug: "what-thucydides-really-thought-about-technology-and-war-war-on-the-rocks"

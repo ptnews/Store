@@ -1,6 +1,6 @@
 ---
 title: "How The Times Is Drawing on Over a Century of Reporting in Venezuela - The New York Times"
-date: 2026-01-08
+date: 2026-01-09
 description: "How The Times Is Drawing on Over a Century of Reporting in Venezuela&nbsp;&nbsp;The New York TimesBehind the scenes of our Nicolás Maduro front page: The New York Times&nbsp;&nbsp;Editor and PublisherBehind the Scenes of Our Nicolás Maduro Front Page&nbsp;&nbsp;The New York Times"
 summary: "How The Times Is Drawing on Over a Century of Reporting in Venezuela&nbsp;&nbsp;The New York TimesBehind the scenes of our Nicolás Maduro front page: The New York Times&nbsp;&nbsp;Editor and PublisherBehind the Scenes of Our Nicolás Maduro Front Page&nbsp;&nbsp;The New York Times"
 slug: "how-the-times-is-drawing-on-over-a-century-of-reporting-in-venezuela-the-new-york-times"

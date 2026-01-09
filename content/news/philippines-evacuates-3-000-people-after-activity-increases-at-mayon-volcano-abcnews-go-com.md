@@ -1,6 +1,6 @@
 ---
 title: "Philippines evacuates 3,000 people after activity increases at Mayon Volcano - abcnews.go.com"
-date: 2026-01-08
+date: 2026-01-09
 description: "Philippines evacuates 3,000 people after activity increases at Mayon Volcano&nbsp;&nbsp;abcnews.go.comView Full Coverage on Google News"
 summary: "Philippines evacuates 3,000 people after activity increases at Mayon Volcano&nbsp;&nbsp;abcnews.go.comView Full Coverage on Google News"
 slug: "philippines-evacuates-3-000-people-after-activity-increases-at-mayon-volcano-abcnews-go-com"

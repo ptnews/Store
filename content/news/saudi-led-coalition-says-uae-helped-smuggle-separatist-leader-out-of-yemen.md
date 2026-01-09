@@ -1,6 +1,6 @@
 ---
 title: "Saudi-led coalition says UAE helped smuggle separatist leader out of Yemen"
-date: 2026-01-08
+date: 2026-01-09
 description: "Aidarous al-Zubaidi, head of the UAE-backed Southern Transitional Council, fled to Somaliland by boat before flying to Abu Dhabi, according to the coalition."
 summary: "Aidarous al-Zubaidi, head of the UAE-backed Southern Transitional Council, fled to Somaliland by boat before flying to Abu Dhabi, according to the coalition."
 slug: "saudi-led-coalition-says-uae-helped-smuggle-separatist-leader-out-of-yemen"

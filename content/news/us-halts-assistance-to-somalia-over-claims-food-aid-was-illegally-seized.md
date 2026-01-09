@@ -1,6 +1,6 @@
 ---
 title: "US halts assistance to Somalia over claims food aid was illegally seized"
-date: 2026-01-08
+date: 2026-01-09
 description: "Somalia denies the claims and says the 76 tonnes of aid is still in the hands of the World Food Programme."
 summary: "Somalia denies the claims and says the 76 tonnes of aid is still in the hands of the World Food Programme."
 slug: "us-halts-assistance-to-somalia-over-claims-food-aid-was-illegally-seized"

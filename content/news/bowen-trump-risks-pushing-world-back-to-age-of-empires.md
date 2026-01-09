@@ -1,6 +1,6 @@
 ---
 title: "Bowen: Trump risks pushing world back to age of empires"
-date: 2026-01-08
+date: 2026-01-09
 description: "Donald Trump wants and needs quick victories. Taking Maduro is the decisive win he has craved, writes Jeremy Bowen."
 summary: "Donald Trump wants and needs quick victories. Taking Maduro is the decisive win he has craved, writes Jeremy Bowen."
 slug: "bowen-trump-risks-pushing-world-back-to-age-of-empires"

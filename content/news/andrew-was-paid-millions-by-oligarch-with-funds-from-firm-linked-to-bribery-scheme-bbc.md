@@ -1,6 +1,6 @@
 ---
 title: "Andrew was paid millions by oligarch with funds from firm linked to bribery scheme - BBC"
-date: 2026-01-08
+date: 2026-01-09
 description: "Andrew was paid millions by oligarch with funds from firm linked to bribery scheme&nbsp;&nbsp;BBCAndrew’s £15m home sale to oligarch ‘linked to bribery scheme’&nbsp;&nbsp;The TimesPrince Andrew property sale raises fresh questions after BBC corruption probe&nbsp;&nbsp;The Pembrokeshire HeraldCalls for Andrew Mountbatten-Windsor to face criminal probe amid oligarch revelations&nbsp;&nbsp;TheNational.scotAndrew must face criminal investigation&nbsp;&nbsp;republic.org.uk"
 summary: "Andrew was paid millions by oligarch with funds from firm linked to bribery scheme&nbsp;&nbsp;BBCAndrew’s £15m home sale to oligarch ‘linked to bribery scheme’&nbsp;&nbsp;The TimesPrince Andrew property sale raises fresh questions after BBC corruption probe&nbsp;&nbsp;The Pembrokeshire HeraldCalls for Andrew Mountbatten-Windsor to face criminal probe amid oligarch revelations&nbsp;&nbsp;TheNational.scotAndrew must face criminal investigation&nbsp;&nbsp;republic.org.uk"
 slug: "andrew-was-paid-millions-by-oligarch-with-funds-from-firm-linked-to-bribery-scheme-bbc"

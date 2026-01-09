@@ -1,6 +1,6 @@
 ---
 title: "How tariff disruption will continue reshaping the global economy in 2026"
-date: 2026-01-08
+date: 2026-01-09
 description: "Trump's import levies are still changing the patterns of international trade."
 summary: "Trump's import levies are still changing the patterns of international trade."
 slug: "how-tariff-disruption-will-continue-reshaping-the-global-economy-in-2026"

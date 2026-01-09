@@ -1,6 +1,6 @@
 ---
 title: "Abebe Aemro Selassie to Retire as Director of the African Department at the IMF - International Monetary Fund | IMF"
-date: 2026-01-08
+date: 2026-01-09
 description: "Abebe Aemro Selassie to Retire as Director of the African Department at the IMF&nbsp;&nbsp;International Monetary Fund | IMFView Full Coverage on Google News"
 summary: "Abebe Aemro Selassie to Retire as Director of the African Department at the IMF&nbsp;&nbsp;International Monetary Fund | IMFView Full Coverage on Google News"
 slug: "abebe-aemro-selassie-to-retire-as-director-of-the-african-department-at-the-imf-international-monetary-fund-imf"

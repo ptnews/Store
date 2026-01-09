@@ -1,0 +1,21 @@
+---
+title: "Spain: Catholic Church signs deal on sexual abuse compensation - BBC"
+date: 2026-01-09
+description: "Spain: Catholic Church signs deal on sexual abuse compensation&nbsp;&nbsp;BBCBishops and Spanish government agree on a plan to compensate sexual abuse victims&nbsp;&nbsp;abcnews.go.comSpanish bishops will allow government to oversee compensation for sexual abuse victims&nbsp;&nbsp;The Boston GlobeBishops and government of Spain reach new agreement to compensate sex abuse victims&nbsp;&nbsp;CruxChurch abuse victims to be compensated by Spain&nbsp;&nbsp;The Telegraph"
+summary: "Spain: Catholic Church signs deal on sexual abuse compensation&nbsp;&nbsp;BBCBishops and Spanish government agree on a plan to compensate sexual abuse victims&nbsp;&nbsp;abcnews.go.comSpanish bishops will allow government to oversee compensation for sexual abuse victims&nbsp;&nbsp;The Boston GlobeBishops and government of Spain reach new agreement to compensate sex abuse victims&nbsp;&nbsp;CruxChurch abuse victims to be compensated by Spain&nbsp;&nbsp;The Telegraph"
+slug: "spain-catholic-church-signs-deal-on-sexual-abuse-compensation-bbc"
+image: ''
+link: 'https://news.google.com/rss/articles/CBMiWkFVX3lxTE9JNVE3OUg1Q29HeDR3RC1MSWdJTDVEbWwzbGVZeXZESHp2WmxoSTd6RTFWT0FYN0dWaUhqOWNnLW1UdVkybllIVllpdnpuM3JfeXRDZm9ZS0p2d9IBX0FVX3lxTE1oUWVZbG5PYlVnelBjOEZnR1Q3ZjdiUFIzOTUxRnp6TW9PZEx5LVlFNUNUYW9nNEthNlhZeFYxZjUxdlhTOWw0WTlHb1RlMmxsLTU1Z3dRbkdKSFVVWXd3?oc=5'
+source: 'https://news.google.com/rss/topics/CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx1YlY4U0FtVnVHZ0pWVXlnQVAB?hl=en-US&gl=US&ceid=US:en'
+categories:
+- 'news.google.com'
+tags:
+- 'compensation'
+- 'catholic'
+- 'church'
+- 'sexual'
+- 'spain'
+
+draft: false
+---
+<ol><li><a href="https://news.google.com/rss/articles/CBMiWkFVX3lxTE9JNVE3OUg1Q29HeDR3RC1MSWdJTDVEbWwzbGVZeXZESHp2WmxoSTd6RTFWT0FYN0dWaUhqOWNnLW1UdVkybllIVllpdnpuM3JfeXRDZm9ZS0p2d9IBX0FVX3lxTE1oUWVZbG5PYlVnelBjOEZnR1Q3ZjdiUFIzOTUxRnp6TW9PZEx5LVlFNUNUYW9nNEthNlhZeFYxZjUxdlhTOWw0WTlHb1RlMmxsLTU1Z3dRbkdKSFVVWXd3?oc=5" target="_blank">Spain: Catholic Church signs deal on sexual abuse compensation</a>&nbsp;&nbsp;<font color="#6f6f6f">BBC</font></li><li><a href="https://news.google.com/rss/articles/CBMiugFBVV95cUxOUUR2bVZWNUhqMzJWd0FZaDQxN0xKbk9DZHRCQXc2eHhlcVdBRlpBX2NCZTRHTk01bnhIRm5iRTI5Q3lmRWN1MDJDYml5eGNuM3dkVmw3aWlIRWpzUFBwS1VyM1VZZkhHYm0xdlVIN1BWQ1o1Ympjcy1lZEJHUnBMYjZwYTBFYUU0bkxSMDJ1OU5wSU1YcThmUm1ndXlwc3Q3YVYybHBGTDMyOTAyaE5iYUs1RDJBZHFKRnfSAb8BQVVfeXFMUHJFWExnMVMzTXM5Q0cyOG9fbUx5RWU4UFMtQjRtcnUwNGotd0Itd3VwVExnbUdsU2hiMkxndUpDR3hfMUtOVHkzb0phcmxrYlZhLUIwUWVRTDVnMVJkN1RuN2VXM2tEUW81MnU0YkFXWU5Ybms3RUZiN0h4VWhFR0hHbEM4dEZvX1lfVmpaZ0cwZldIZGVnNGJMb3BOLU8zVjNqSERvN1pyXzF4YWZvRnozUWI3NjBuMzdBLTVvaXM?oc=5" target="_blank">Bishops and Spanish government agree on a plan to compensate sexual abuse victims</a>&nbsp;&nbsp;<font color="#6f6f6f">abcnews.go.com</font></li><li><a href="https://news.google.com/rss/articles/CBMiwwFBVV95cUxQZTI3Tnk0endaQm5RQ1MzZzFuYjlOeUVkRmMzWXRqcmh4ZzNOY20tN1QyQm1BVHExR1JtZDl2TEt2T3N6MENlOWcyd3hkY1gybXlKdzd5U2xQbFgxWC0wQXdYSkZzalk0ejVkV0tDeTJ6ODU3cVFYekoxUXVCNWJKN0stclJuUXF5Q1lwM1hueEduc01laWg0ZlRkMWlVVlFPSUtHQ21Mazk3MFAyUlk1RGJyeWhaTThXdlBhNGltRWhOenc?oc=5" target="_blank">Spanish bishops will allow government to oversee compensation for sexual abuse victims</a>&nbsp;&nbsp;<font color="#6f6f6f">The Boston Globe</font></li><li><a href="https://news.google.com/rss/articles/CBMixwFBVV95cUxOMzAtUnlMaTRwb1NhcnJsNnUyT0VjVXEwYzliMzR0cXgxdGVZTUtoajV1ZHYycktjdVBpV3l5a1BQUFNXUlVPdlhtaVVRanVWQ1VLWnBXd3hmTEU5S3JjYTZwbzBqSW5aTkxPbnRFUXNlT0ZVcU11cFlTSkRScU85VVF0OVNuNklSZmd0cE1WY3BZS2tieGpPcVJYVllCcWVPRmlnRTI2UFhZV1NELUVYSHJKdWE1TFA2Si16aEpiZnhOTTdXM0xR?oc=5" target="_blank">Bishops and government of Spain reach new agreement to compensate sex abuse victims</a>&nbsp;&nbsp;<font color="#6f6f6f">Crux</font></li><li><a href="https://news.google.com/rss/articles/CBMinwFBVV95cUxQNkphZ3RENGgxOTU5djVId2ExeXQ3QWZiV3NQb2V1VWJyYnVmRUFlSTFVU3hESDEwTVlvQ2NSbENaa0kyYVMyYlV5Tm9aNDJpZzZfMXV6c1ZtRTItYzZlTWdBZnlldzV6MGNWamdpWlExU0NjakVHX3RDcmZkQno1LXlMd3ZfNmpPeFA3dzE3S0p4NXV3UU9rU1NRMm5nTFk?oc=5" target="_blank">Church abuse victims to be compensated by Spain</a>&nbsp;&nbsp;<font color="#6f6f6f">The Telegraph</font></li></ol>

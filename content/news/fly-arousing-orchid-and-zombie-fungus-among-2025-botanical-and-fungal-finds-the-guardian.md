@@ -1,0 +1,21 @@
+---
+title: "Fly-arousing orchid and zombie fungus among 2025 botanical and fungal finds - The Guardian"
+date: 2026-01-09
+description: "Fly-arousing orchid and zombie fungus among 2025 botanical and fungal finds&nbsp;&nbsp;The GuardianZombie fungi and 'bloodstained' orchids: Top plant and fungal species named new to science in 2025&nbsp;&nbsp;Phys.org'Death ball' sponge, tiny opossum among cool new species of 2025&nbsp;&nbsp;CBCScientists discover previously unseen animals and plants that appear to come from another planet&nbsp;&nbsp;ECOticias.comCalifornia Academy of Sciences Describes 72 New Species in 2025&nbsp;&nbsp;Californ..."
+summary: "Fly-arousing orchid and zombie fungus among 2025 botanical and fungal finds&nbsp;&nbsp;The GuardianZombie fungi and 'bloodstained' orchids: Top plant and fungal species named new to science in 2025&nbsp;&nbsp;Phys.org'Death ball' sponge, tiny opossum among cool new species of 2025&nbsp;&nbsp;CBCScientists discover previously unseen animals and plants that appear to come from another planet&nbsp;&nbsp;ECOticias.comCalifornia Academy of Sciences Describes 72 New Species in 2025&nbsp;&nbsp;Californ..."
+slug: "fly-arousing-orchid-and-zombie-fungus-among-2025-botanical-and-fungal-finds-the-guardian"
+image: ''
+link: 'https://news.google.com/rss/articles/CBMixgFBVV95cUxNd3p1SVp6TDBpRHpPQjJqWnBLRnZ3M2ZxTGF2cTVGU19VcGZnM0tXYVhBZ3VZVVl2YnFiM1BvZnludURKcGxFWk9lTlRTdmFnRnhQZWJDVE1LbzVtUEtMeC1EdHI4ckNORjQwNG41bEptM085QXNhdmtLMllzajZfTHZCQnU0NGlEZ1pQNElvU1pTTXRvdl93Q0QzWHhWazFSaDR5MWtFeHhrNGM4YU55MC0ySGRLbHlTcGVScEd0LWtRZTdvMlE?oc=5'
+source: 'https://news.google.com/rss/topics/CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx1YlY4U0FtVnVHZ0pWVXlnQVAB?hl=en-US&gl=US&ceid=US:en'
+categories:
+- 'news.google.com'
+tags:
+- 'botanical'
+- 'arousing'
+- 'guardian'
+- 'orchid'
+- 'zombie'
+
+draft: false
+---
+<ol><li><a href="https://news.google.com/rss/articles/CBMixgFBVV95cUxNd3p1SVp6TDBpRHpPQjJqWnBLRnZ3M2ZxTGF2cTVGU19VcGZnM0tXYVhBZ3VZVVl2YnFiM1BvZnludURKcGxFWk9lTlRTdmFnRnhQZWJDVE1LbzVtUEtMeC1EdHI4ckNORjQwNG41bEptM085QXNhdmtLMllzajZfTHZCQnU0NGlEZ1pQNElvU1pTTXRvdl93Q0QzWHhWazFSaDR5MWtFeHhrNGM4YU55MC0ySGRLbHlTcGVScEd0LWtRZTdvMlE?oc=5" target="_blank">Fly-arousing orchid and zombie fungus among 2025 botanical and fungal finds</a>&nbsp;&nbsp;<font color="#6f6f6f">The Guardian</font></li><li><a href="https://news.google.com/rss/articles/CBMigAFBVV95cUxPMHpnMzF6SENVUnhSTUZac0xIN3pwWnZvWlBuemt4Y3JUMGdsWkJSLW0tY1RNOUlPaWdrQndGRG5TcWl2bmhaMEFYa19wWFFPQk1qU1U3NnFzdElWSWNSdWdUZ2NKcktIZkFFYnN2S3NVOEVTdm5BdWlBdnQ1di1Pag?oc=5" target="_blank">Zombie fungi and 'bloodstained' orchids: Top plant and fungal species named new to science in 2025</a>&nbsp;&nbsp;<font color="#6f6f6f">Phys.org</font></li><li><a href="https://news.google.com/rss/articles/CBMiakFVX3lxTFBVOEtqM3YtMlNLNVhkWnVDR3FVZVNqZUJFOXNoM3RNOVd2aGg4OTVZQk90N29rV0xsVUZqaDd6aVFEUUNmV0VSc2x6aHowU2tBeE5ycUVENWRobVJqbDZYZUdOYzFSaG9WRnc?oc=5" target="_blank">'Death ball' sponge, tiny opossum among cool new species of 2025</a>&nbsp;&nbsp;<font color="#6f6f6f">CBC</font></li><li><a href="https://news.google.com/rss/articles/CBMizAFBVV95cUxPbmI3Y0lvRVYzcFdNLVBqS3NkSVRwTmF0cGtCVUl1bzRQNmRwQXdsWWI0OEZDU2NpMGFLdnJCQjVmNTNpVFY3TmlzUmY5RkNRSUxtc2pkOEJvcW5rNkZoLWdoWUc3S1FZWWx3eGxuMFg3S3Noc3YyYjRqS2RhNEMzd0pldE1PYm00eFdVWjB6MXRVLWZUUWRwUTFzS3FlMEVWbUM1UUNhejB1U1dBT2RVM0tGS1NKbjRoSXJGbzFfWm9FM2pCc3BfSExwazg?oc=5" target="_blank">Scientists discover previously unseen animals and plants that appear to come from another planet</a>&nbsp;&nbsp;<font color="#6f6f6f">ECOticias.com</font></li><li><a href="https://news.google.com/rss/articles/CBMiqAFBVV95cUxPM3hoS3VHMlZLTlVCYXctcU9HbTdpME1sd3AxZFVpcFlfUkhhMExOSl82ZWZqQS1yMkIzVHRQZ2g1UElzV085TFRXZFZMaVRmQTh4b2UtUWFCU2F6MVJqcjFJMGtjb3hqV19hUWMyM1RMR29lVXJOX0JWS2daQ0k3X2RBT3RXMmd5X2NKUUVjWV9NTHFJdFdpNlFkanlrSEpRMjU0eWE0YlDSAa4BQVVfeXFMTzFLMVdfbFJ2NEo0d0hOZjFHbDcwZWd1cFhiNEgyVzJCWGVRcFUzTU5wSVo2SXlYTVMwZ2xaTm5rWVltc3VhQlhERUMzdm80MEMtaUx4alc1QU1rZ3hkbFdxXzJIaUlGY0dyUDNPUjVkZGJVTXF2RVVyVVR1TUt1NDEzNGx2QzQ2RWRRT2RVUDZEVlczTVplcS1yTTVQTjRua1VFOWFJRGdpSmc2N3NB?oc=5" target="_blank">California Academy of Sciences Describes 72 New Species in 2025</a>&nbsp;&nbsp;<font color="#6f6f6f">California Academy of Sciences</font></li></ol>
