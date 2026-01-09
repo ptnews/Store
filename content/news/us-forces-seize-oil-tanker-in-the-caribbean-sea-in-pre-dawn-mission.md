@@ -1,0 +1,21 @@
+---
+title: "US forces seize oil tanker in the Caribbean Sea in pre-dawn mission"
+date: 2026-01-09
+description: "U.S. forces boarded a tanker known as Olina in ongoing campaign against vessels evading Venezuela sanctions blockade, the U.S. Southern Command said."
+summary: "U.S. forces boarded a tanker known as Olina in ongoing campaign against vessels evading Venezuela sanctions blockade, the U.S. Southern Command said."
+slug: "us-forces-seize-oil-tanker-in-the-caribbean-sea-in-pre-dawn-mission"
+image: ''
+link: 'https://www.foxnews.com/world/us-forces-seize-oil-tanker-caribbean-sea-pre-dawn-mission'
+source: 'https://feeds.foxnews.com/foxnews/world'
+categories:
+- 'feeds.foxnews.com'
+tags:
+- 'caribbean'
+- 'mission'
+- 'forces'
+- 'tanker'
+- 'seize'
+
+draft: false
+---
+<p>U.S. forces boarded an oil tanker on Friday in a pre-dawn action, the U.S. Southern Command announced.</p><p>"In a pre-dawn action, Marines and Sailors from Joint Task Force Southern Spear, in coordination with the Department of Homeland Security, launched from the USS Gerald R. Ford and apprehended Motor/Tanker Olina in the Caribbean Sea without incident," the U.S. Southern Command wrote in <a href="https://x.com/Southcom/status/2009626517660107010" target="_blank" rel="nofollow noopener">a post on X</a>. </p><p>"Apprehensions like this are backed by the full power of the U.S. Navy’s Amphibious Ready Group, including the ready and lethal platforms of the USS Iwo Jima, USS San Antonio, and USS Fort Lauderdale," the statement added. "The Department of War’s Operation Southern Spear is unwavering in its mission to defend our homeland by ending illicit activity and restoring security in the Western Hemisphere."</p><p>U.S. Southern Command said the operation sent a clear message that "there is no safe haven for criminals."</p><p>"The vessel’s AIS (location) tracker was last active 52 days ago in the Venezuelan EEZ, northeast of Curaçao," British maritime risk management company Vanguard said, <a href="https://www.reuters.com/business/energy/us-process-seizing-olina-tanker-caribbean-us-official-says-2026-01-09" target="_blank" rel="nofollow noopener">according to Reuters</a>. "The seizure follows a prolonged pursuit of tankers linked to sanctioned Venezuelan oil shipments in the region."</p><p>The Olina was reportedly flying the flag of Timor-Leste, according to Reuters, which cited Equasis. The vessel had previously sailed from Venezuela and returned to the region, Reuters reported, attributing the statement to an industry source with direct knowledge of the matter.</p><p>The Olina, previously named the Minerva M, was sanctioned by the United States for its role in transporting Russian oil, according to The Wall Street Journal. The outlet noted the move could further inflame tensions between Washington and Moscow, coming just days after the U.S. seized another vessel that claimed Russian protection and was reportedly escorted by the Russian Navy.</p><p>This is the fifth such seizure in recent weeks and comes less than one week after the U.S. carried out a daring operation in Venezuela in which dictator Nicolás Maduro and his wife, Cili Flores, were arrested.</p><p>Homeland Security Secretary Kristi Noem said "the world's criminals are on notice" after the latest operation.</p><p>"Early this morning, the [U.S. Coast Guard] executed a boarding and seizure of the Motor Tanker Olina in international waters east of the Caribbean Sea. As another "ghost fleet" tanker ship suspected of carrying embargoed oil, this vessel had departed Venezuela attempting to evade U.S. forces," Noem <a href="https://x.com/Sec_Noem/status/2009628070047604976" target="_blank" rel="nofollow noopener">wrote on X</a>.</p><p>"The ghost fleets will not outrun justice. They will not hide under false claims of nationality. <br>The Coast Guard will seize sanctioned oil tankers, enforce U.S. and international law, and eliminate these funding streams for illicit activity including narco-terrorism," Noem added. She also praised the U.S. Coast Guard for its "relentless execution of this mission."</p><p><i>This is a developing story. Please check back for more details.</i></p><p><i>Fox News' James Levinson contributed to this report.</i></p>
