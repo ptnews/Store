@@ -1,8 +1,8 @@
 ---
 title: "'He's crazy': BBC speaks to Greenlanders about Trump's threats"
 date: 2026-01-09
-description: "The BBC's Europe Editor Katya Adler visits the Artic island to ask what people think of the US president's plans."
-summary: "The BBC's Europe Editor Katya Adler visits the Artic island to ask what people think of the US president's plans."
+description: "The BBC's Europe Editor Katya Adler visits the Arctic island to ask what people think of the US president's plans."
+summary: "The BBC's Europe Editor Katya Adler visits the Arctic island to ask what people think of the US president's plans."
 slug: "he-s-crazy-bbc-speaks-to-greenlanders-about-trump-s-threats"
 image: ''
 link: 'https://www.bbc.com/news/videos/c78veq59823o?at_medium=RSS&at_campaign=rss'
@@ -18,4 +18,4 @@ tags:
 
 draft: false
 ---
-The BBC's Europe Editor Katya Adler visits the Artic island to ask what people think of the US president's plans.
+The BBC's Europe Editor Katya Adler visits the Arctic island to ask what people think of the US president's plans.

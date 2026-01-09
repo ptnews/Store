@@ -1,8 +1,8 @@
 ---
 title: "Prosecutors blast Mangione’s ‘misleading’ bid to force Bondi off case with death penalty at stake"
 date: 2026-01-09
-description: "Prosecutors reject &apos;meritless&apos; conflict claims against Attorney General Pam Bondi in Luigi Mangione case, calling defense arguments &apos;misleading.&apos;"
-summary: "Prosecutors reject &apos;meritless&apos; conflict claims against Attorney General Pam Bondi in Luigi Mangione case, calling defense arguments &apos;misleading.&apos;"
+description: "Prosecutors reject &quot;meritless&quot; conflict claims against Attorney General Pam Bondi in Luigi Mangione case, calling defense arguments &quot;misleading.&quot;"
+summary: "Prosecutors reject &quot;meritless&quot; conflict claims against Attorney General Pam Bondi in Luigi Mangione case, calling defense arguments &quot;misleading.&quot;"
 slug: "prosecutors-blast-mangione-s-misleading-bid-to-force-bondi-off-case-with-death-penalty-at-stake"
 image: ''
 link: 'https://www.foxnews.com/us/prosecutors-blast-mangiones-misleading-bid-force-bondi-off-case-death-penalty-stake'

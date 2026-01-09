@@ -1,0 +1,21 @@
+---
+title: "Democratic socialist Mamdani ally mounts bid for US House of Representatives"
+date: 2026-01-09
+description: "Democratic socialist New York state Assemblymember Claire Valdez, an ally of New York City Mayor Zohran Mamdani, has mounted a bid for U.S. House."
+summary: "Democratic socialist New York state Assemblymember Claire Valdez, an ally of New York City Mayor Zohran Mamdani, has mounted a bid for U.S. House."
+slug: "democratic-socialist-mamdani-ally-mounts-bid-for-us-house-of-representatives"
+image: ''
+link: 'https://www.foxnews.com/politics/democratic-socialist-mamdani-ally-mounts-bid-u-s-house-representatives'
+source: 'https://feeds.foxnews.com/foxnews/latest'
+categories:
+- 'feeds.foxnews.com'
+tags:
+- 'representatives'
+- 'democratic'
+- 'socialist'
+- 'mamdani'
+- 'mounts'
+
+draft: false
+---
+<p>New York state Assemblymember Claire Valdez, an ally of New York City Mayor <a href="https://www.foxnews.com/category/person/zohran-mamdani" target="_blank" rel="noopener">Zohran Mamdani,</a> has mounted a bid for the U.S. House of Representatives.</p><p>"I’m a union organizer, Assemblymember, and democratic socialist running for Congress in NY-07. I came to politics through low-wage jobs and the labor movement. That’s the perspective I’ll bring to Washington to take on oligarchy, fascism, and war — and win for working people," she wrote in a <a href="https://x.com/claireforny/status/2009234798607552543" target="_blank" rel="nofollow noopener">post on X.</a></p><p>Valdez has called for the abolition of U.S. Immigration and Customs <a href="https://www.foxnews.com/category/us/immigration/enforcement" target="_blank" rel="noopener">Enforcement (ICE)</a>.</p><p><a href="https://www.foxnews.com/politics/the-peoples-quran-mamdani-announces-nyc-quran-exhibit-book-belonging-revolutionary-activist" target="_blank" rel="noopener"><strong>‘THE PEOPLE’S QUR'AN': MAMDANI ANNOUNCES NYC QURAN EXHIBIT WITH BOOK BELONGING TO REVOLUTIONARY ACTIVIST</strong></a></p><p>"When we called this administration fascist last year, we were called hyperbolic. We were called hysterical," she <a href="https://x.com/claireforny/status/2009418625162072442" target="_blank" rel="nofollow noopener">said in recent public remarks.</a> </p><p>"We must abolish ICE at the federal level," she asserted, calling it a "militarized terrorist organization that is destroying our country."</p><p>Her campaign website makes clear that she is an advocate for "Medicare for All."</p><p><a href="https://www.foxnews.com/politics/nyc-mayor-zohran-mamdani-set-earn-258k-about-80-more-than-his-prior-salary" target="_blank" rel="noopener"><strong>NYC MAYOR ZOHRAN MAMDANI SET TO EARN NEARLY $260K, ABOUT 80% MORE THAN HIS PRIOR SALARY</strong></a></p><p>"Claire will fight to pass Medicare for All, paid for by taxing billionaires and corporations that have rigged the system, and deliver universal health care for every New Yorker," the <a href="https://clairevaldezforcongress.com/#issues" target="_blank" rel="nofollow noopener">site notes.</a></p><p>"Housing is a human right — but Congress has chosen to side with landlords and speculators instead of working people. Claire will fight to guarantee safe, affordable housing for all, because housing is not a commodity. It’s a necessity," the site also states.</p><p><a href="https://www.foxnews.com/politics/noem-reports-mamdani-dhs-talks-have-not-been-productive-says-nyc-mayor-chose-stand-illegals" target="_blank" rel="noopener"><strong>NOEM REPORTS MAMDANI-DHS TALKS HAVE ‘NOT BEEN PRODUCTIVE,' SAYS NYC MAYOR ‘CHOSE TO STAND WITH ILLEGALS’</strong></a></p><p><a href="https://www.foxnews.com/download" target="_blank" rel="noopener"><strong><u>CLICK HERE TO GET THE FOX NEWS APP</u></strong></a></p><p>Valdez will compete in a Democratic primary in June for the seat being vacated by Rep. Nydia Velazquez, D-N.Y.</p><p>Velazquez, who currently represents the Empire State's 7th Congressional District, is <a href="https://www.foxnews.com/politics/house-dem-serving-since-1993-announces-she-wont-seek-re-election" target="_blank" rel="noopener">not seeking re-election</a> in 2026. Brooklyn Borough President Antonio Reynoso already announced his 2026 primary bid for the House seat last year.</p>
