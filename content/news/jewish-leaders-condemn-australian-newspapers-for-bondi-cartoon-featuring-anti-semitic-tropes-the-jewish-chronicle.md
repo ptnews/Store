@@ -1,0 +1,21 @@
+---
+title: "Jewish leaders condemn Australian newspapers for Bondi cartoon featuring ‘anti-Semitic tropes’ - The Jewish Chronicle"
+date: 2026-01-09
+description: "Jewish leaders condemn Australian newspapers for Bondi cartoon featuring ‘anti-Semitic tropes’&nbsp;&nbsp;The Jewish ChronicleFury over Cathy Wilcox cartoon: Bibi ‘beats drum’ for Bondi Massacre inquiry — Mick Fanning caught in backlash&nbsp;&nbsp;BeachGrit.comNine’s papers march to the beat of leftist drum&nbsp;&nbsp;The AustralianThe Sydney Morning Herald and The Age are facing calls to apologise after publishing a \"deeply offensive\" cartoon mocking widespread calls for a Royal Com..."
+summary: "Jewish leaders condemn Australian newspapers for Bondi cartoon featuring ‘anti-Semitic tropes’&nbsp;&nbsp;The Jewish ChronicleFury over Cathy Wilcox cartoon: Bibi ‘beats drum’ for Bondi Massacre inquiry — Mick Fanning caught in backlash&nbsp;&nbsp;BeachGrit.comNine’s papers march to the beat of leftist drum&nbsp;&nbsp;The AustralianThe Sydney Morning Herald and The Age are facing calls to apologise after publishing a \"deeply offensive\" cartoon mocking widespread calls for a Royal Com..."
+slug: "jewish-leaders-condemn-australian-newspapers-for-bondi-cartoon-featuring-anti-semitic-tropes-the-jewish-chronicle"
+image: ''
+link: 'https://news.google.com/rss/articles/CBMiqAFBVV95cUxOZzFZZVY4RDNiRll0NU4zSzZ1ZlVidW1rQzVsSnd2czdiaUZ5aFYzRDRFYTFhalZXQjhPaURGbmR2M01CNmZGVmgwU3NiRUtaa3ptYzQtWi1qaXRxVEhCSGUxQ3FYSG9xbnpwLUx2LWEwNXdMWHcwSG5KUkMxdTYwU1VUeDhkdUNSaGVKTFN0UVZYRlZidjBHT19wV0k0Q0Z4cmxjWWlPaDA?oc=5'
+source: 'https://news.google.com/rss/topics/CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx1YlY4U0FtVnVHZ0pWVXlnQVAB?hl=en-US&gl=US&ceid=US:en'
+categories:
+- 'news.google.com'
+tags:
+- 'australian'
+- 'newspapers'
+- 'featuring'
+- 'chronicle'
+- 'leaders'
+
+draft: false
+---
+<ol><li><a href="https://news.google.com/rss/articles/CBMiqAFBVV95cUxOZzFZZVY4RDNiRll0NU4zSzZ1ZlVidW1rQzVsSnd2czdiaUZ5aFYzRDRFYTFhalZXQjhPaURGbmR2M01CNmZGVmgwU3NiRUtaa3ptYzQtWi1qaXRxVEhCSGUxQ3FYSG9xbnpwLUx2LWEwNXdMWHcwSG5KUkMxdTYwU1VUeDhkdUNSaGVKTFN0UVZYRlZidjBHT19wV0k0Q0Z4cmxjWWlPaDA?oc=5" target="_blank">Jewish leaders condemn Australian newspapers for Bondi cartoon featuring ‘anti-Semitic tropes’</a>&nbsp;&nbsp;<font color="#6f6f6f">The Jewish Chronicle</font></li><li><a href="https://news.google.com/rss/articles/CBMi2AFBVV95cUxNbjZZaC1PNGlKZTNORnNyczBGWHlCSWFEeWdqOUxqQzF6cFBqV1ZhYTlsSUg2OXk5bGg2eTUtZl80akhpSk43blVlbFIwa0YxTE9HU3hsZkR3cl83WVlaMmZJOUZ2emNYSlFBcjY1MXZLRjNIVW5pdmZYVEwtbVZKeXlQUjE1ajR4YXdjU214d0VhaTladld4NTZBWWY1M3lnR3ZNOVBNWF9hYVdlOExwVndudTc4MVdUUU5SUXpkVjdxdUJPdGF2WkF5ZU1CbE5pYTZmdk9QU3M?oc=5" target="_blank">Fury over Cathy Wilcox cartoon: Bibi ‘beats drum’ for Bondi Massacre inquiry — Mick Fanning caught in backlash</a>&nbsp;&nbsp;<font color="#6f6f6f">BeachGrit.com</font></li><li><a href="https://news.google.com/rss/articles/CBMi4gFBVV95cUxQOEtHaG02eVlzX1hBN1NJNnFGYkZBdFVZRmdDSFhveDJBM3VjcGIxbWlodTFESDVzRkowOF92LUJidkZCa0J4Yk0yc1pxTXNtS0kwU2hQLU9ySGYtN3RCb0NwSzl0bDJxWjlBd0l3YTA0elZPMXVHVnRfcXBpQ1BrVjktckp5djZmMmFOWEViOVVSMkNqNGVYQ2ZZX0ZvSWRodFZZNWUzSWV6TEcyM3FaMmQ2OGJjVjRHNnF3SEtBXzJudGxPQVlqcF9JRmRvSUlmM1JYMjg0V2xpWVlHdWFha05B?oc=5" target="_blank">Nine’s papers march to the beat of leftist drum</a>&nbsp;&nbsp;<font color="#6f6f6f">The Australian</font></li><li><a href="https://news.google.com/rss/articles/CBMiiAFBVV95cUxOSS01NlNxYmVyTnVVMFdDY3VJNWhTc2E1MklSZFZvRTEwQndEdzRQSkFtd0c1eEJQU01zWXpfYWdZYUtTSm82ZjBFekd3SWRURV84c3ZLWnFpanRlVkxjX0V6X3JTaGxkNWhsdnFGWjlzSUJoai1BV0p3WnBCbGkwTVExdElNOWxE?oc=5" target="_blank">The Sydney Morning Herald and The Age are facing calls to apologise after publishing a "deeply offensive" cartoon mocking widespread calls for a Royal Commission into the Bondi terror attack.</a>&nbsp;&nbsp;<font color="#6f6f6f">facebook.com</font></li><li><a href="https://news.google.com/rss/articles/CBMirAFBVV95cUxNRkVYOUtxMGZwV3p6MTBvNWkwb2oyMkdxRVFRLXVEc0YtU1JzWURiSXNVNUNDMkNjcGpadTdRUEJKcXpuME0xSTdaSlRONUVzSmVtT2NVNE5IcUduRWJLblhZQzJaM1JPaEpZdHpkaDN4MUJKUWVqeFVoMThYUy11WFhkc0cyUUsyTnZKNWw3WkR5dVh0TGhoZnJDTW9xczZHSzBGOTltdWdhM2tS?oc=5" target="_blank">Shane McInnes hits out at ‘reprehensible’ cartoon depicting calls for Royal Commission</a>&nbsp;&nbsp;<font color="#6f6f6f">3AW</font></li></ol>
