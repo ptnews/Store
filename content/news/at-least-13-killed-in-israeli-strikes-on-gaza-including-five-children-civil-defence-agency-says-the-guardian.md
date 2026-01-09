@@ -1,0 +1,21 @@
+---
+title: "At least 13 killed in Israeli strikes on Gaza, including five children, civil defence agency says - The Guardian"
+date: 2026-01-09
+description: "At least 13 killed in Israeli strikes on Gaza, including five children, civil defence agency says&nbsp;&nbsp;The GuardianIsraeli attack across Gaza kill 14 Palestinians despite ‘ceasefire’&nbsp;&nbsp;Al JazeeraIDF says it struck Hamas targets in Gaza in response to failed rocket launch&nbsp;&nbsp;The Times of IsraelIsraeli forces kill 11 in Gaza, say they hit rocket launch site&nbsp;&nbsp;ReutersEight people killed by Israeli air strikes, Gaza civil defence agency says&nbsp;&nbsp;BBC"
+summary: "At least 13 killed in Israeli strikes on Gaza, including five children, civil defence agency says&nbsp;&nbsp;The GuardianIsraeli attack across Gaza kill 14 Palestinians despite ‘ceasefire’&nbsp;&nbsp;Al JazeeraIDF says it struck Hamas targets in Gaza in response to failed rocket launch&nbsp;&nbsp;The Times of IsraelIsraeli forces kill 11 in Gaza, say they hit rocket launch site&nbsp;&nbsp;ReutersEight people killed by Israeli air strikes, Gaza civil defence agency says&nbsp;&nbsp;BBC"
+slug: "at-least-13-killed-in-israeli-strikes-on-gaza-including-five-children-civil-defence-agency-says-the-guardian"
+image: ''
+link: 'https://news.google.com/rss/articles/CBMi2AFBVV95cUxNZmlIeTFENy11eGdYVGNXWkxTZHRtUUxTTVJETGt3bFBBb0FkNF91Ukp1MTJXbjgzOTJqSzJBZ2NtQ1FlTFhJVFJ5SDhOb1o0NGd3bjJGNXdMY25OVjl1eDRHN25ERXhqWEU4ZW42dUNrTTFOdnB0SWNBWUs0TXJreHFuYldGYzM5dVlyeXg0TEhkbFkwempRc0UzSXZuMjNXZjFZNHh6THJnV3JTS05XMzEwWk1pLUFEYzNNWVRUbk9kc0hsbnI5WWk2SEFaTGp2b05OMDlGYkE?oc=5'
+source: 'https://news.google.com/rss/topics/CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx1YlY4U0FtVnVHZ0pWVXlnQVAB?hl=en-US&gl=US&ceid=US:en'
+categories:
+- 'news.google.com'
+tags:
+- 'including'
+- 'children'
+- 'guardian'
+- 'israeli'
+- 'strikes'
+
+draft: false
+---
+<ol><li><a href="https://news.google.com/rss/articles/CBMi2AFBVV95cUxNZmlIeTFENy11eGdYVGNXWkxTZHRtUUxTTVJETGt3bFBBb0FkNF91Ukp1MTJXbjgzOTJqSzJBZ2NtQ1FlTFhJVFJ5SDhOb1o0NGd3bjJGNXdMY25OVjl1eDRHN25ERXhqWEU4ZW42dUNrTTFOdnB0SWNBWUs0TXJreHFuYldGYzM5dVlyeXg0TEhkbFkwempRc0UzSXZuMjNXZjFZNHh6THJnV3JTS05XMzEwWk1pLUFEYzNNWVRUbk9kc0hsbnI5WWk2SEFaTGp2b05OMDlGYkE?oc=5" target="_blank">At least 13 killed in Israeli strikes on Gaza, including five children, civil defence agency says</a>&nbsp;&nbsp;<font color="#6f6f6f">The Guardian</font></li><li><a href="https://news.google.com/rss/articles/CBMiowFBVV95cUxNNjVHUTE1bWNkUjJvSzdndUpWRXNsWFEtYlJNNVRFZ3dMNS1kbnJLN3dZbEdlUS1scjlpMDlPSWtSbVlOUXBvbFBUTkZOd21CcW14ajExX1F0Snk2a2loZkJfRWdsd1FabmpkazBPN3VfZ2lUQXEybkJlMGtkMnYxaER2c0RGeU1KZlZHdEpSRk11ZjRsekR6Uk5kVEtKMnQwRmNB0gGoAUFVX3lxTE0zeWljYlRELThvelFWclNYRHBHVFFjd3Y5QmNXMklOQnZ3UTdUWFNIN3A1OEJLVTBGX1Fwd2c4c18zbnczOTB5OER5VXFKZVZMaVFrY25fdDhRZGRZeHZOZGNjUW54V2FJenFKYWdmQWFyZ0ozWU5vNGlvQUJyQ3VMZV9YRmEtUk92eElMM1VnMmVfSHlFUUlIM2Z1MmFuQjl2NUl1VVVRMA?oc=5" target="_blank">Israeli attack across Gaza kill 14 Palestinians despite ‘ceasefire’</a>&nbsp;&nbsp;<font color="#6f6f6f">Al Jazeera</font></li><li><a href="https://news.google.com/rss/articles/CBMivwFBVV95cUxPX2t4ZndKOGhhbTJLcWJMeDVNY19NYVdFSnJQM05PUFk2a0JaTHY4aVJwS2g3dVdpRk9ZM0doelU5Y2hCQmtPNlZfVjlqS2pKbGc2akdTbW1kQXJXNUNBT1NhWDJwWDdRTFQzYlFMMlNMeVRkcjJqR2xuSnZPUjA3OWFzeVJFbzdsN240cDJSSXZWRlRJOFpOY193Qkc2OEdmV3JqNVA4OG5haGliT2dVS2xDR21Hb2FPMWpfcllKSQ?oc=5" target="_blank">IDF says it struck Hamas targets in Gaza in response to failed rocket launch</a>&nbsp;&nbsp;<font color="#6f6f6f">The Times of Israel</font></li><li><a href="https://news.google.com/rss/articles/CBMixwFBVV95cUxNNkxPNTVvNDFmQ20xWHExNUxNd0RGeTViNngzckF3QjVuNkdnUTBVRXB5cjR5UWthYVNuOGFLZGxMU2FuMmYxcmRxUTRhQUNDbkZmbTdvdEhkMDFhaWQ4eEF5Y2U0WEVUOVlaMmZJdWhadkhUeFZNNWFKeEpxNnFyS01KaDZJTkQ2RGxLUy1aOUdHWUlzclJlcFBXTWdHRHRiQ2RsZmZtVmdpU0JmNkRNcVh6d0IzUEpIMy05QVJueHBydmExUjRr?oc=5" target="_blank">Israeli forces kill 11 in Gaza, say they hit rocket launch site</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font></li><li><a href="https://news.google.com/rss/articles/CBMiWkFVX3lxTE4wUkRZcm5RcGtRN2FxSzFlTnV1Z05TZlo2VFVhMzZjYzY4WFU1dVVMT1BWVDIzNldOdHliZERiVFh0ZkhOWmotX0gwbE1ta3RybjVCT040MlJIUQ?oc=5" target="_blank">Eight people killed by Israeli air strikes, Gaza civil defence agency says</a>&nbsp;&nbsp;<font color="#6f6f6f">BBC</font></li></ol>

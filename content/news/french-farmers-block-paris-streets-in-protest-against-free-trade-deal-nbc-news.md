@@ -1,0 +1,21 @@
+---
+title: "French farmers block Paris streets in protest against free trade deal - NBC News"
+date: 2026-01-09
+description: "French farmers block Paris streets in protest against free trade deal&nbsp;&nbsp;NBC NewsMacron says France will vote against Mercosur after farmers protest in Paris&nbsp;&nbsp;ReutersFarmers drive tractors through Paris and block highways in Greece to protest free trade deal&nbsp;&nbsp;AP NewsFrance tightens food import checks as farmers protest Mercosur deal&nbsp;&nbsp;France 24Paris to vote ‘No’ on Mercosur, risking major diplomatic setback for Macron&nbsp;&nbsp;Euronews.com"
+summary: "French farmers block Paris streets in protest against free trade deal&nbsp;&nbsp;NBC NewsMacron says France will vote against Mercosur after farmers protest in Paris&nbsp;&nbsp;ReutersFarmers drive tractors through Paris and block highways in Greece to protest free trade deal&nbsp;&nbsp;AP NewsFrance tightens food import checks as farmers protest Mercosur deal&nbsp;&nbsp;France 24Paris to vote ‘No’ on Mercosur, risking major diplomatic setback for Macron&nbsp;&nbsp;Euronews.com"
+slug: "french-farmers-block-paris-streets-in-protest-against-free-trade-deal-nbc-news"
+image: ''
+link: 'https://news.google.com/rss/articles/CBMiugFBVV95cUxNcHlPdTV6UW56Tk1tem9DN1F5bjNuNXhJRTVkUElZclgzbmJDV1BxOWRIZENhdTNoT1lUU015T1pZUHdTSkRGekhHUzVHYmp4eWJKRVJBUFVrZlFIQ2lVNFRoVS03SHRnTmNuczF5aU1ET1VscTZFUUtfOXR3MW5ITzZkeWZudXM5OGlMQVV5cmMwWnpkUDlvYnZZSUV6Z2VUZzZEemQtMklSaVdLNWdWaDVsT21DZ0x3bnfSAVZBVV95cUxQWk1jNE5vajdRMWwzZ211ZTBobE9WQ1dnS19jdkZLYktVZlp2ZGVTY2duRUx5dlduLTJPdGJ2by14NVE1aE8yVFQ4WVVSQnM5VUdZU2lWQQ?oc=5'
+source: 'https://news.google.com/rss/topics/CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx1YlY4U0FtVnVHZ0pWVXlnQVAB?hl=en-US&gl=US&ceid=US:en'
+categories:
+- 'news.google.com'
+tags:
+- 'farmers'
+- 'streets'
+- 'protest'
+- 'against'
+- 'french'
+
+draft: false
+---
+<ol><li><a href="https://news.google.com/rss/articles/CBMiugFBVV95cUxNcHlPdTV6UW56Tk1tem9DN1F5bjNuNXhJRTVkUElZclgzbmJDV1BxOWRIZENhdTNoT1lUU015T1pZUHdTSkRGekhHUzVHYmp4eWJKRVJBUFVrZlFIQ2lVNFRoVS03SHRnTmNuczF5aU1ET1VscTZFUUtfOXR3MW5ITzZkeWZudXM5OGlMQVV5cmMwWnpkUDlvYnZZSUV6Z2VUZzZEemQtMklSaVdLNWdWaDVsT21DZ0x3bnfSAVZBVV95cUxQWk1jNE5vajdRMWwzZ211ZTBobE9WQ1dnS19jdkZLYktVZlp2ZGVTY2duRUx5dlduLTJPdGJ2by14NVE1aE8yVFQ4WVVSQnM5VUdZU2lWQQ?oc=5" target="_blank">French farmers block Paris streets in protest against free trade deal</a>&nbsp;&nbsp;<font color="#6f6f6f">NBC News</font></li><li><a href="https://news.google.com/rss/articles/CBMikgFBVV95cUxQZDlWSmphMncxZHBNTmMxSVJlTjdRVkJfMU9jNHJwWkZ4ZXd6RTU5TVVTWWpWTTh2cUdfbnNKSDJfNkRIazRXcWQwemM4SVphY3JvTno4RTZGdlVVdGRzWHBIRlZxOU5lRWc4bElCeU1jeGo4LUZ2RHJUUmdEM0JTUXZGM0hyZW11M2d1S0duSmVLdw?oc=5" target="_blank">Macron says France will vote against Mercosur after farmers protest in Paris</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font></li><li><a href="https://news.google.com/rss/articles/CBMipAFBVV95cUxOdzloVkRCYnkyYUp1bG9JOEl4S3h5aFFBZ3VmWkdtQWVPNkpabnh2Zl9pZGpQVHJXNUE2VndmQmJ2aTJqRXprYkVKZjljb1F5MHFnQTJabnYtVVNwcFZDNXNfbEZmbGdTeFA5ZGh6UEdpOWVjb2hEQ0VXRm03djExQVYtN0ZvandtTTJyUnBlT3N0V3lhOGd0SEU4S3A4NHRrZ3pFag?oc=5" target="_blank">Farmers drive tractors through Paris and block highways in Greece to protest free trade deal</a>&nbsp;&nbsp;<font color="#6f6f6f">AP News</font></li><li><a href="https://news.google.com/rss/articles/CBMisAFBVV95cUxOamo5WTJfb19kVGE1X0FUMmdYZS0tM2R4eUFKcEhpNHVub2lacWtBZVZQNk53SWpnRGxQUzNpYnA4eTBEVmxPbU53a284Q210Tm1MdG5UTmRiZnhJY1owbFFXblp5eFFhV21DUEhHYzluRHc3ampFaVhxb3RqbThjZjRwN0pIbWw1dWpUcEFEM0FIVFVmeWtWUmNzRTRqdXdwdkE4ZE5oNGEyTy1HSUZLeQ?oc=5" target="_blank">France tightens food import checks as farmers protest Mercosur deal</a>&nbsp;&nbsp;<font color="#6f6f6f">France 24</font></li><li><a href="https://news.google.com/rss/articles/CBMiugFBVV95cUxNXzl1OVJQc3hBME93ZE5SY1g5TFk0UW51M3EycXNzbXdKYkNDOGVaVXJ5dEhNdGtVVkZzb3ZzYk9KbFRMdC1Ubm1wRnZQZDEwTDVMbDIwNnN4aThfRXF6aHR3YUZsTm1lSjYxaEJIM0ozQUdXelRBbkFkMDF4d21DOGxOSDc0N01aN1huZGhXM1Qzb1J4MVJZYjN2ZDE4aHk3Ym1JSTFqOW93RU9hbWtuRWU1ZlRIZTVNNXc?oc=5" target="_blank">Paris to vote ‘No’ on Mercosur, risking major diplomatic setback for Macron</a>&nbsp;&nbsp;<font color="#6f6f6f">Euronews.com</font></li></ol>
