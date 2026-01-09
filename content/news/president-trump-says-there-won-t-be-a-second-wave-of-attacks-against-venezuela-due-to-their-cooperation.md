@@ -1,0 +1,21 @@
+---
+title: "President Trump says there won't be a 'second Wave of Attacks' against Venezuela due to their 'cooperation'"
+date: 2026-01-09
+description: "U.S. President Donald Trump said that due to &quot;cooperation,&quot; he has &quot;cancelled the previously expected second Wave of Attacks&quot; against Venezuela."
+summary: "U.S. President Donald Trump said that due to &quot;cooperation,&quot; he has &quot;cancelled the previously expected second Wave of Attacks&quot; against Venezuela."
+slug: "president-trump-says-there-won-t-be-a-second-wave-of-attacks-against-venezuela-due-to-their-cooperation"
+image: ''
+link: 'https://www.foxnews.com/politics/president-trump-says-wont-second-wave-attacks-against-venezuela-due-cooperation'
+source: 'https://feeds.foxnews.com/foxnews/latest'
+categories:
+- 'feeds.foxnews.com'
+tags:
+- 'cooperation'
+- 'president'
+- 'venezuela'
+- 'attacks'
+- 'against'
+
+draft: false
+---
+<p>President <a href="https://www.foxnews.com/category/person/donald-trump" target="_blank" rel="noopener">Donald Trump</a> announced in an early Friday morning Truth Social post that he has "cancelled the previously expected second Wave of Attacks" against Venezuela in light of the "cooperation" between the foreign nation and the U.S.</p><p>"Venezuela is releasing large numbers of political prisoners as a sign of 'Seeking Peace.' This is a very important and smart gesture. The U.S.A. and Venezuela are working well together, especially as it pertains to rebuilding, in a much bigger, better, and more modern form, their oil and gas infrastructure. Because of this cooperation, I have cancelled the previously expected second Wave of Attacks, which looks like it will not be needed, however, all ships will stay in place for safety and security purposes," Trump said in the <a href="https://truthsocial.com/@realDonaldTrump/posts/115864395969123502" target="_blank" rel="nofollow noopener">post</a>.</p><p>He noted that he will meet with "BIG OIL" figures at the <a href="https://www.foxnews.com/category/politics/executive/white-house" target="_blank" rel="noopener">White House</a> on Friday.</p><p><a href="https://www.foxnews.com/media/trump-announces-expansion-drug-cartel-crackdown-issues-grim-warning-iran" target="_blank" rel="noopener"><strong>TRUMP DISCUSSES EXPANSION OF DRUG CARTEL CRACKDOWN, ISSUES GRIM WARNING TO IRAN</strong></a></p><p>"At least 100 Billion Dollars will be invested by BIG OIL, all of whom I will be meeting with today at The White House. Thank you for your attention to this matter!" he declared in the post.</p><p>The president's comments come after he unilaterally ordered an attack against <a href="https://www.foxnews.com/category/topic/venezuelan-political-crisis" target="_blank" rel="noopener">Venezuela</a> last week in which U.S. forces successfully captured Nicolás Maduro.</p><p><a href="https://www.foxnews.com/world/venezuela-teeters-guerrilla-groups-cartels-exploit-maduro-power-vacuum" target="_blank" rel="noopener"><strong>VENEZUELA TEETERS AS GUERRILLA GROUPS, CARTELS EXPLOIT MADURO POWER VACUUM</strong></a></p><p>Trump noted in a Wednesay Truth Social <a href="https://truthsocial.com/@realDonaldTrump/posts/115856078669121098" target="_blank" rel="nofollow noopener">post</a>, "I have just been informed that Venezuela is going to be purchasing ONLY American Made Products, with the money they receive from our new Oil Deal. These purchases will include, among other things, American Agricultural Products, and American Made Medicines, Medical Devices, and Equipment to improve Venezuela’s Electric Grid and Energy Facilities."</p><p><a href="https://www.foxnews.com/politics/gop-senators-join-democrats-stop-trump-from-policing-venezuela" target="_blank" rel="noopener"><strong>5 GOP SENATORS JOIN DEMOCRATS TO STOP TRUMP FROM POLICING VENEZUELA</strong></a></p><p><a href="https://www.foxnews.com/download" target="_blank" rel="noopener"><strong><u>CLICK HERE TO GET THE FOX NEWS APP</u></strong></a></p><p>"In other words, Venezuela is committing to doing business with the United States of America as their principal partner – A wise choice, and a very good thing for the people of Venezuela, and the United States. Thank you for your attention to this matter!" he added.</p>
