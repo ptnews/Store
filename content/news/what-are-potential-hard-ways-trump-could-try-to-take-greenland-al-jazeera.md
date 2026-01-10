@@ -1,0 +1,21 @@
+---
+title: "What are potential ‘hard ways’ Trump could try to take Greenland? - Al Jazeera"
+date: 2026-01-10
+description: "What are potential ‘hard ways’ Trump could try to take Greenland?&nbsp;&nbsp;Al JazeeraDenmark's Greenland dilemma: Defending a territory already on its way out&nbsp;&nbsp;ReutersTrump Eyes Greenland, and Europe Figures Its Best Bet Is a Negotiation&nbsp;&nbsp;The New York TimesGreenland Was America’s Friend. Now It’s a Takeover Target.&nbsp;&nbsp;The Wall Street JournalGreenland’s party leaders reject Trump calls for US control&nbsp;&nbsp;The Hill"
+summary: "What are potential ‘hard ways’ Trump could try to take Greenland?&nbsp;&nbsp;Al JazeeraDenmark's Greenland dilemma: Defending a territory already on its way out&nbsp;&nbsp;ReutersTrump Eyes Greenland, and Europe Figures Its Best Bet Is a Negotiation&nbsp;&nbsp;The New York TimesGreenland Was America’s Friend. Now It’s a Takeover Target.&nbsp;&nbsp;The Wall Street JournalGreenland’s party leaders reject Trump calls for US control&nbsp;&nbsp;The Hill"
+slug: "what-are-potential-hard-ways-trump-could-try-to-take-greenland-al-jazeera"
+image: ''
+link: 'https://news.google.com/rss/articles/CBMipgFBVV95cUxQNC1BdVE5YUo1clJjbEtsM3JkLXhnT2FiZ1ZIRUFTOUJjaTlZRU1DaC1wWTFldktqclBGVU1ValpYTnE0NGhvTERVck5JbkZjdlVuRTZJcnFFN1JiZlBWMmFsSzZXMk05cE4tbm01TWwwcGFCV09uLXdobXZvR1cxbTlUSURMUUdvZ0pCQVZTa3JFVko0Q0ZWTHdQc29ybE9HME4wcGNn0gGrAUFVX3lxTE5vclhMSHZLVThjZmJZeGZqZFRXUU14TVVzNmZjS1dCdzVpNFdFeTI0bG01Y2FJdzBDY1BPTmFGR2JSdHdnVWhOSHRlWlZGSFp2TUczRXc2T01RQ1hLZzFDY3ZiUjFnc3ZMUksteGYtdTdkN3NKWWJ3NmtGbkRIbjh3NEFaZTFsd1hJRWVVdXZQRG93alBBVE5Pd0tSUjRCM3BmczhuVWE2LWV1UQ?oc=5'
+source: 'https://news.google.com/rss/topics/CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx1YlY4U0FtVnVHZ0pWVXlnQVAB?hl=en-US&gl=US&ceid=US:en'
+categories:
+- 'news.google.com'
+tags:
+- 'potential'
+- 'greenland'
+- 'jazeera'
+- 'trump'
+- 'could'
+
+draft: false
+---
+<ol><li><a href="https://news.google.com/rss/articles/CBMipgFBVV95cUxQNC1BdVE5YUo1clJjbEtsM3JkLXhnT2FiZ1ZIRUFTOUJjaTlZRU1DaC1wWTFldktqclBGVU1ValpYTnE0NGhvTERVck5JbkZjdlVuRTZJcnFFN1JiZlBWMmFsSzZXMk05cE4tbm01TWwwcGFCV09uLXdobXZvR1cxbTlUSURMUUdvZ0pCQVZTa3JFVko0Q0ZWTHdQc29ybE9HME4wcGNn0gGrAUFVX3lxTE5vclhMSHZLVThjZmJZeGZqZFRXUU14TVVzNmZjS1dCdzVpNFdFeTI0bG01Y2FJdzBDY1BPTmFGR2JSdHdnVWhOSHRlWlZGSFp2TUczRXc2T01RQ1hLZzFDY3ZiUjFnc3ZMUksteGYtdTdkN3NKWWJ3NmtGbkRIbjh3NEFaZTFsd1hJRWVVdXZQRG93alBBVE5Pd0tSUjRCM3BmczhuVWE2LWV1UQ?oc=5" target="_blank">What are potential ‘hard ways’ Trump could try to take Greenland?</a>&nbsp;&nbsp;<font color="#6f6f6f">Al Jazeera</font></li><li><a href="https://news.google.com/rss/articles/CBMitgFBVV95cUxOUHZudWdYZzYyRmp1QWwzUkFyVkRKemZCMXpoZGpubEttRnUydFdPTDFYS1BMZlYzcUlnS2kxZzcyYmNoMnZxemxSVlRUMVN2VXdCZDRBTzBMTVd3OHdVY3piRHpBTWtTVl9HYm9HRUdfZ3lldklqWDBNcXV3b2Y5b3NHVnp0ZFRteHpsS2dYVUlOWkJxZGtLcWNEWmdZemhRcnRUN1JCcnlQTl9vQmZKdGFkeVFvdw?oc=5" target="_blank">Denmark's Greenland dilemma: Defending a territory already on its way out</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font></li><li><a href="https://news.google.com/rss/articles/CBMigAFBVV95cUxNaXZKMnJKZEE4aEdhZTIydTVKNW1aUkh1WnpyZDl5TWNhdGozSXVXU3lmNUV1bFUyTDE0ZHhuWjRxOWQxUW40RGZRRU0zbFZ4RnRacS04U095QVhZSTVtdjFwaDU5VUU5dDY5Rnc2UGljcXAtSFBSMmk2bFN3OE5MeQ?oc=5" target="_blank">Trump Eyes Greenland, and Europe Figures Its Best Bet Is a Negotiation</a>&nbsp;&nbsp;<font color="#6f6f6f">The New York Times</font></li><li><a href="https://news.google.com/rss/articles/CBMickFVX3lxTE1Jd1Zxa0c1YndPTE4zYllfVlR3OXZ1dHJuS3VBell0TGlJb1o3cm5OYi1mNmtsaEs5UFVBRnRwUGllTVdzbTBKMlJmNDZOXy0wZXlqWGNtNHhSZFlvd3NRUVc1OHlMT29pN1NNeFFRMGhVZw?oc=5" target="_blank">Greenland Was America’s Friend. Now It’s a Takeover Target.</a>&nbsp;&nbsp;<font color="#6f6f6f">The Wall Street Journal</font></li><li><a href="https://news.google.com/rss/articles/CBMiigFBVV95cUxOdFdhZzJEbzluTU1QR3UySDZwZDJqQk5sTHplUmdiWGtHRWNsa215cVVvSmVsOWdOTlVlRFpjT2RzZFFOdWZrb2hKNWJvUE1qU3JsdUFZamdCV1JxRmQxa05ZRW5ocFkzSFJCMW5aNXBFckJkd2lWWGNoeThDWUphMU1SV2tQV0RKaFHSAY8BQVVfeXFMUGl2dm0wc2VXQS1Odm9GNGIzYWdYc2pKTVJzTmdGcmoxR01NSU13VHRkV0dzcEVaNG1oX1A5UHUzazU5NXV4UGlPakVhOFNnMTl6b2JTT25hX2FCdENyNi1Cci1yaExlTTV3WFhCYl9rNFFxYU1JY2p4YWpTelE0OG14Vi1MclVzSUhqaWM5alE?oc=5" target="_blank">Greenland’s party leaders reject Trump calls for US control</a>&nbsp;&nbsp;<font color="#6f6f6f">The Hill</font></li></ol>
