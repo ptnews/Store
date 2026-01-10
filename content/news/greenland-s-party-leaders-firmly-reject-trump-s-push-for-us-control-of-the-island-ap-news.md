@@ -1,0 +1,21 @@
+---
+title: "Greenland’s party leaders firmly reject Trump’s push for US control of the island - AP News"
+date: 2026-01-10
+description: "Greenland’s party leaders firmly reject Trump’s push for US control of the island&nbsp;&nbsp;AP NewsDenmark's Greenland dilemma: Defending a territory already on its way out&nbsp;&nbsp;ReutersThe US must take Greenland, whatever the cost&nbsp;&nbsp;The HillTrump Eyes Greenland, and Europe Figures Its Best Bet Is a Negotiation&nbsp;&nbsp;The New York TimesGreenland leaders push back on Trump's calls for US control of the island: 'We don’t want to be Americans'&nbsp;&nbsp;Fox News"
+summary: "Greenland’s party leaders firmly reject Trump’s push for US control of the island&nbsp;&nbsp;AP NewsDenmark's Greenland dilemma: Defending a territory already on its way out&nbsp;&nbsp;ReutersThe US must take Greenland, whatever the cost&nbsp;&nbsp;The HillTrump Eyes Greenland, and Europe Figures Its Best Bet Is a Negotiation&nbsp;&nbsp;The New York TimesGreenland leaders push back on Trump's calls for US control of the island: 'We don’t want to be Americans'&nbsp;&nbsp;Fox News"
+slug: "greenland-s-party-leaders-firmly-reject-trump-s-push-for-us-control-of-the-island-ap-news"
+image: ''
+link: 'https://news.google.com/rss/articles/CBMijwFBVV95cUxQMkJZYjVyMloyYmpmWllMSW5hNUpZTkpUejhnZ3ZYR2FnVEpVX1A4b3BkWlk3Mk54ZXA4dFpSRWtwOXNQYjVZVGNhX2ZLVlQyUWVTUzluekxTeW90V1JTUkV4QnduazhHWWxpdm9kMXgzY3pUZXlxdzhRU3ZvVUxyX2JHVzRadkt4S2R0THhGMA?oc=5'
+source: 'https://news.google.com/rss/topics/CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx1YlY4U0FtVnVHZ0pWVXlnQVAB?hl=en-US&gl=US&ceid=US:en'
+categories:
+- 'news.google.com'
+tags:
+- 'greenland'
+- 'leaders'
+- 'control'
+- 'firmly'
+- 'reject'
+
+draft: false
+---
+<ol><li><a href="https://news.google.com/rss/articles/CBMijwFBVV95cUxQMkJZYjVyMloyYmpmWllMSW5hNUpZTkpUejhnZ3ZYR2FnVEpVX1A4b3BkWlk3Mk54ZXA4dFpSRWtwOXNQYjVZVGNhX2ZLVlQyUWVTUzluekxTeW90V1JTUkV4QnduazhHWWxpdm9kMXgzY3pUZXlxdzhRU3ZvVUxyX2JHVzRadkt4S2R0THhGMA?oc=5" target="_blank">Greenland’s party leaders firmly reject Trump’s push for US control of the island</a>&nbsp;&nbsp;<font color="#6f6f6f">AP News</font></li><li><a href="https://news.google.com/rss/articles/CBMitgFBVV95cUxOUHZudWdYZzYyRmp1QWwzUkFyVkRKemZCMXpoZGpubEttRnUydFdPTDFYS1BMZlYzcUlnS2kxZzcyYmNoMnZxemxSVlRUMVN2VXdCZDRBTzBMTVd3OHdVY3piRHpBTWtTVl9HYm9HRUdfZ3lldklqWDBNcXV3b2Y5b3NHVnp0ZFRteHpsS2dYVUlOWkJxZGtLcWNEWmdZemhRcnRUN1JCcnlQTl9vQmZKdGFkeVFvdw?oc=5" target="_blank">Denmark's Greenland dilemma: Defending a territory already on its way out</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font></li><li><a href="https://news.google.com/rss/articles/CBMiiwFBVV95cUxNVGtkTWlHVXM0NlFldk52QS1VQnYxbW5aSXA1VFBlS0dTOC01ZDNWd3laem84NjVRbXBIY0txQkplb1ZvQUl1ZUtaRVVVUnU3N01mMjBybU9TWHFEUldIT1Y4dF8tNUx5Z2gwOWh2dzVHSlcyV05SMi16dDJ5dGtHaW9hY1NoTVdaaEhz0gGQAUFVX3lxTFBLaVdPWHVEUk9DRV9vWnA3X1N6bnN0c0V6d3Y5Mi1PejNTckZMTWJZcHY5VXFJUXpONWs2MFpKWGNyamVDam1LRUo1a2RQSE1maGU0clJsMlpES3hnU3pELXR4cjd0cnRyOHhBdEZxSHV1NHJKa0NNelBpSnJZbm9CcDdRTmxlR3lsWDRrV2ZjOQ?oc=5" target="_blank">The US must take Greenland, whatever the cost</a>&nbsp;&nbsp;<font color="#6f6f6f">The Hill</font></li><li><a href="https://news.google.com/rss/articles/CBMigAFBVV95cUxNaXZKMnJKZEE4aEdhZTIydTVKNW1aUkh1WnpyZDl5TWNhdGozSXVXU3lmNUV1bFUyTDE0ZHhuWjRxOWQxUW40RGZRRU0zbFZ4RnRacS04U095QVhZSTVtdjFwaDU5VUU5dDY5Rnc2UGljcXAtSFBSMmk2bFN3OE5MeQ?oc=5" target="_blank">Trump Eyes Greenland, and Europe Figures Its Best Bet Is a Negotiation</a>&nbsp;&nbsp;<font color="#6f6f6f">The New York Times</font></li><li><a href="https://news.google.com/rss/articles/CBMisAFBVV95cUxPeElMT3lsbk9fU1A2ZFdFcVpERFJhTG1ja3R3Q2RCS3dla01xVXBrVVVHbExYdFE5ZzNzTXJSMFY3OGdUbkNtZGs1ZnJQMV95cFFsd0VTLXNhV0tUYnJNQjhmSlk5eUtweDFVM25SM214RTZFemI1VUVOYU9FVFJfN0otdWV2Y1lLdDJuVVR2MnhLc3RsNEhSZjdSd3I0UTVDSkI4OHJNcC1rcmp2TnZJT9IBtgFBVV95cUxQbHZzYUw1NW53bHhhdlZrYjVhcWRFdUttSVQtQnpwS09YS0tZUUJQN0hhUVBEWFFOemhHN3NVMTVMeVpwMm9SMEljNjByaFBKZWNhTVFEQld6SUREV2ZpR01TSzlMTTFEVU1DbUtIR1Q3RmdLWWt6U1RqOWZDT2RkeGU1cE1QeVU3cjZCZkVvdWg0S1U5bHpWUi1Pdm56MGNOYmgwLWxrR1Z0OVkyTW9nMk1kN05kQQ?oc=5" target="_blank">Greenland leaders push back on Trump's calls for US control of the island: 'We don’t want to be Americans'</a>&nbsp;&nbsp;<font color="#6f6f6f">Fox News</font></li></ol>
