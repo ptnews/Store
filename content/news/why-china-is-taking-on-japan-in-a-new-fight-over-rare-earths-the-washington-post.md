@@ -1,0 +1,21 @@
+---
+title: "Why China is taking on Japan in a new fight over rare earths - The Washington Post"
+date: 2026-01-10
+description: "Why China is taking on Japan in a new fight over rare earths&nbsp;&nbsp;The Washington PostChina’s Curbs Leave Japan Little Choice But to Look to the US&nbsp;&nbsp;Bloomberg.comWith US focused on Venezuela, China has window to pressure Japan: analysts&nbsp;&nbsp;South China Morning PostChina and Japan, uneasy neighbors in East Asia, are at odds again&nbsp;&nbsp;AP NewsChina’s Threat to Block Rare Earths Has Put Japan on High Alert&nbsp;&nbsp;The New York Times"
+summary: "Why China is taking on Japan in a new fight over rare earths&nbsp;&nbsp;The Washington PostChina’s Curbs Leave Japan Little Choice But to Look to the US&nbsp;&nbsp;Bloomberg.comWith US focused on Venezuela, China has window to pressure Japan: analysts&nbsp;&nbsp;South China Morning PostChina and Japan, uneasy neighbors in East Asia, are at odds again&nbsp;&nbsp;AP NewsChina’s Threat to Block Rare Earths Has Put Japan on High Alert&nbsp;&nbsp;The New York Times"
+slug: "why-china-is-taking-on-japan-in-a-new-fight-over-rare-earths-the-washington-post"
+image: ''
+link: 'https://news.google.com/rss/articles/CBMifEFVX3lxTFB1Ti16c1ZuekJkR3hkbG14UW1QTTVITVdIQzNTVTlwWjRXamQzWWtrWFZ4NjJlRFFkVGprMU5TbXg2MUYzRmFDRzRBQUs4dTNKNVhCd1JfZG8xUXgwcnNjVHZKWjh4ZWtZRVBLRWlfN1BPS0czc1BYbDRwc0Q?oc=5'
+source: 'https://news.google.com/rss/topics/CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx1YlY4U0FtVnVHZ0pWVXlnQVAB?hl=en-US&gl=US&ceid=US:en'
+categories:
+- 'news.google.com'
+tags:
+- 'washington'
+- 'taking'
+- 'earths'
+- 'china'
+- 'japan'
+
+draft: false
+---
+<ol><li><a href="https://news.google.com/rss/articles/CBMifEFVX3lxTFB1Ti16c1ZuekJkR3hkbG14UW1QTTVITVdIQzNTVTlwWjRXamQzWWtrWFZ4NjJlRFFkVGprMU5TbXg2MUYzRmFDRzRBQUs4dTNKNVhCd1JfZG8xUXgwcnNjVHZKWjh4ZWtZRVBLRWlfN1BPS0czc1BYbDRwc0Q?oc=5" target="_blank">Why China is taking on Japan in a new fight over rare earths</a>&nbsp;&nbsp;<font color="#6f6f6f">The Washington Post</font></li><li><a href="https://news.google.com/rss/articles/CBMisgFBVV95cUxPbGJPMmgzSWdvdjNjaWFobklVVHVoV3hXTjJSTC0tNG5yWDFOU1BRWWhFVWFYRmhnZEdkcTc1Ym4yN0Q1WTVkZEFkMldaZnFMQUprZzk2azFjQ3FHQ2xLaC1sRDlFZ0F4UVhHUjN6aWJzbmNLaDhmMTFwNjZNSXZKdk0tclR3TjRvbW43RTFGWmhQUklHTmpWQjJXQ2lLSW9GTE4xT2ZaMDRkUXQ2NGRPcnl3?oc=5" target="_blank">China’s Curbs Leave Japan Little Choice But to Look to the US</a>&nbsp;&nbsp;<font color="#6f6f6f">Bloomberg.com</font></li><li><a href="https://news.google.com/rss/articles/CBMivgFBVV95cUxNNE1xbG1MWUhmdVBNeGwyaEpvenVPVER0Q1FOR1pXcVNmcUZDN0RrYk9hTDYyY2l2elNjMGhKWEk1eS1OTVhIN0ppSnAzWVMwWndzdzd4aFVILVlLdG1Cakg5bVREcGVzZk9kSWc5MnpxSjZnNFBkY0R6dko3R2NaWEJCRWQtbUcwc3BIbWQ4LWdodjdrY2ZFaEdWYWFkNlZ2N08wWG9DR2Y0Z2lmanJFbXBUaGs1a1hLN0RBU1Jn?oc=5" target="_blank">With US focused on Venezuela, China has window to pressure Japan: analysts</a>&nbsp;&nbsp;<font color="#6f6f6f">South China Morning Post</font></li><li><a href="https://news.google.com/rss/articles/CBMipgFBVV95cUxOMnZOdDNVUlVhQnl3cC1UNTJQWDFob3dIdjRQY1ZMWTdRWTA1SHkyckVyZGRBUVVzbFBrSnRtRlgzZEM5WDRRMXlTNzZOeWVBR295OU1FVnM3bGVZd08wQ1VyMDR3SklabTNfNkxac3FOTVNhajJKTjlCaF91Zld4LWNrZVJjeEJBeXh5SnQ4b3ZQQkNLbWZxV296WXpzMVk4YnFSU2x3?oc=5" target="_blank">China and Japan, uneasy neighbors in East Asia, are at odds again</a>&nbsp;&nbsp;<font color="#6f6f6f">AP News</font></li><li><a href="https://news.google.com/rss/articles/CBMifEFVX3lxTFAxcTZJS1RJZ0owMzRubjc2M08ySUQ0LXo5Ym5WT1l1M3dyRUE3bUJKWTZGN3pFUFRaSUFaUkloNEJ1OWt4NlE0eFZLV2VfUUR5cy0xeDcyN0JpTGhZRkx1ck9aQkJCaXRUVFluUEhpVEJBZTZzbS12QkxKcGI?oc=5" target="_blank">China’s Threat to Block Rare Earths Has Put Japan on High Alert</a>&nbsp;&nbsp;<font color="#6f6f6f">The New York Times</font></li></ol>

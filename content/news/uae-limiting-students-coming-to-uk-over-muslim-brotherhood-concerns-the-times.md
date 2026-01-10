@@ -1,0 +1,21 @@
+---
+title: "UAE limiting students coming to UK over Muslim Brotherhood concerns - The Times"
+date: 2026-01-10
+description: "UAE limiting students coming to UK over Muslim Brotherhood concerns&nbsp;&nbsp;The TimesUAE cuts funds for citizens keen to study in UK over Muslim Brotherhood tensions&nbsp;&nbsp;Financial TimesUAE cuts funding for citizens studying at UK universities over campus radicalization fears: report&nbsp;&nbsp;Fox NewsJD Vance: Islamist radicalisation at UK universities is insane&nbsp;&nbsp;The TimesUAE restricts funding for studying in Britain over radicalisation fears&nbsp;&nbsp;The Telegraph"
+summary: "UAE limiting students coming to UK over Muslim Brotherhood concerns&nbsp;&nbsp;The TimesUAE cuts funds for citizens keen to study in UK over Muslim Brotherhood tensions&nbsp;&nbsp;Financial TimesUAE cuts funding for citizens studying at UK universities over campus radicalization fears: report&nbsp;&nbsp;Fox NewsJD Vance: Islamist radicalisation at UK universities is insane&nbsp;&nbsp;The TimesUAE restricts funding for studying in Britain over radicalisation fears&nbsp;&nbsp;The Telegraph"
+slug: "uae-limiting-students-coming-to-uk-over-muslim-brotherhood-concerns-the-times"
+image: ''
+link: 'https://news.google.com/rss/articles/CBMiwAFBVV95cUxOSjNQWlJ5Z0JvS3d2U2N3QkIxazNSSngzZEpnSjg2WG1KUUdvVW93Q0dsZFF1aTNQSFpqVlduUDR1Qk51MXhjNVFNemFoM2x3Nk1fY1NwRndXeU4tUVJQRzlvWHd2UDltZlo3QXJ6aWhXdWxoenlKdDVTbUx6aWNkaXVQWWVsZ29BQXVQMnlMSFAwME1xQTdjX096TU1VVTc5cnhoQlVEWUdnLWRjZ25sYnRyekw1a2ZCVTlJODEwdTk?oc=5'
+source: 'https://news.google.com/rss/topics/CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx1YlY4U0FtVnVHZ0pWVXlnQVAB?hl=en-US&gl=US&ceid=US:en'
+categories:
+- 'news.google.com'
+tags:
+- 'brotherhood'
+- 'limiting'
+- 'students'
+- 'concerns'
+- 'coming'
+
+draft: false
+---
+<ol><li><a href="https://news.google.com/rss/articles/CBMiwAFBVV95cUxOSjNQWlJ5Z0JvS3d2U2N3QkIxazNSSngzZEpnSjg2WG1KUUdvVW93Q0dsZFF1aTNQSFpqVlduUDR1Qk51MXhjNVFNemFoM2x3Nk1fY1NwRndXeU4tUVJQRzlvWHd2UDltZlo3QXJ6aWhXdWxoenlKdDVTbUx6aWNkaXVQWWVsZ29BQXVQMnlMSFAwME1xQTdjX096TU1VVTc5cnhoQlVEWUdnLWRjZ25sYnRyekw1a2ZCVTlJODEwdTk?oc=5" target="_blank">UAE limiting students coming to UK over Muslim Brotherhood concerns</a>&nbsp;&nbsp;<font color="#6f6f6f">The Times</font></li><li><a href="https://news.google.com/rss/articles/CBMicEFVX3lxTE9naHEtUkJNVFN2SHRlbmhCTE0tVFZGd0NOTzE3cjlienVnVVV3TXZ5U3ZkNGRwNU5SdnlJalRlSWExNmtkMk5IZW40UUQ5T0hSOGNwbEpFV3N6VjhrZGgwM1JyWU4tNm03X3g2RTI5bEI?oc=5" target="_blank">UAE cuts funds for citizens keen to study in UK over Muslim Brotherhood tensions</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font></li><li><a href="https://news.google.com/rss/articles/CBMivAFBVV95cUxPOU1kUjNBbURESHF2a2t2cTFseVZXZUdTdlhsNWdZNHA1WklVODdEeUswMTJTUWlKeENTS0RtT2FBWUhlV2c1QV8xMFFnM2NaZVk1ZENyMGVBSmQ2cjFVdlJueEdpczRCUkJwcVlZMDJ6U0xQbTVzM3ppeEtwNzYwaWJycWtPVWpUUDQzNG5jejJTS0FYeVJObXBOQS1aV2lJckwycWxuQVk2T2w2YlZ6WHZOdzF0STdsZGFGMdIBwgFBVV95cUxNaEhxMWFpZDZ1SWliOUV4RzB6VjAxN2loU3lxa1dPS21kQ2RyMXNSb0ZqeV9MQ0hnaXRGZ3Rsemg0bnFoS0VXY3RIbjhhbmRkQnpZUVl1bFJmS09GQnNvd2NRcjFvd1B4UEsyNFdJRE5fSjZZM0x3RExyc0dUT0plUE5ka2pZbkRDNjVaSWRpc1d4RWFNZ3luZC1nYmZfSy12bDFfYmw3SzRfdWNSaEstZXNaQkFkQ25yRlRLTWhidGM0dw?oc=5" target="_blank">UAE cuts funding for citizens studying at UK universities over campus radicalization fears: report</a>&nbsp;&nbsp;<font color="#6f6f6f">Fox News</font></li><li><a href="https://news.google.com/rss/articles/CBMiogFBVV95cUxPQUs5OHVPS29RVmlxVnBTcFo3TUd5UzJweC1xam1XSm9rVHdnSVc3eVN4Q3FvR21HaFZXNzV2cTBCOEgyVl9DNDJ4ZWQtUDlxNnUxTmR4UDNjRE81ZUFEa2I0cFhVemMxMDZjYnlxUkdaVFA5ZWdGWTBxSUEzTUVUay04UXY1YThMM2dIZzJDNUJKNVdXX0NYVnVkQ09MWlNieGc?oc=5" target="_blank">JD Vance: Islamist radicalisation at UK universities is insane</a>&nbsp;&nbsp;<font color="#6f6f6f">The Times</font></li><li><a href="https://news.google.com/rss/articles/CBMipgFBVV95cUxPSmtMQ1NCNVk0cWlKeEl0NkFfUmpIUk1maGtWZm1DWlptYkx2M2tfYTcxZmdtV0xEWVJZZUhLSG8tVmZEMDlQNXNySTYzaGgyMTlRWnNoSGdWMFJnMzlXWDVFYWVHZWtQNTEzWm9mUGl6Z3U4Xzg5QXFndkZWVWxlZXNEXzJPSGJueGJhWU9nc2pjS0Z2MzdIZW5VN19XSmVnMWgwT2NR?oc=5" target="_blank">UAE restricts funding for studying in Britain over radicalisation fears</a>&nbsp;&nbsp;<font color="#6f6f6f">The Telegraph</font></li></ol>
