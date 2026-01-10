@@ -1,20 +1,20 @@
 ---
-title: "Whitney Cummings calls out liberal hypocrisy on climate change and vaccine mandates during podcast appearance"
+title: "Whitney Cummings calls out liberal hypocrisy on climate change and vaccine mandates"
 date: 2026-01-10
 description: "Whitney Cummings calls out woke hypocrisy on Joe Rogan&apos;s podcast, citing contradictions in liberal ideology from gender beliefs to climate change actions."
 summary: "Whitney Cummings calls out woke hypocrisy on Joe Rogan&apos;s podcast, citing contradictions in liberal ideology from gender beliefs to climate change actions."
-slug: "whitney-cummings-calls-out-liberal-hypocrisy-on-climate-change-and-vaccine-mandates-during-podcast-appearance"
+slug: "whitney-cummings-calls-out-liberal-hypocrisy-on-climate-change-and-vaccine-mandates"
 image: ''
-link: 'https://www.foxnews.com/entertainment/whitney-cummings-calls-out-liberal-hypocrisy-climate-change-vaccine-mandates-during-podcast-appearance'
+link: 'https://www.foxnews.com/entertainment/whitney-cummings-calls-out-liberal-hypocrisy-climate-change-vaccine-mandates'
 source: 'https://feeds.foxnews.com/foxnews/latest'
 categories:
 - 'feeds.foxnews.com'
 tags:
-- 'appearance'
 - 'hypocrisy'
 - 'cummings'
 - 'mandates'
 - 'whitney'
+- 'liberal'
 
 draft: false
 ---

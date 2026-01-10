@@ -1,5 +1,5 @@
 ---
-title: "Melodee Buzzard’s grandmother shreds possible insanity defense for accused killer mom: ‘planned everything’"
+title: "Melodee Buzzard’s grandmother shreds possible insanity defense for accused killer mom: ‘Planned everything’"
 date: 2026-01-10
 description: "Grandmother speaks out as mother accused of killing 9-year-old Melodee Buzzard appears in court, questioning what changed in the woman she once knew."
 summary: "Grandmother speaks out as mother accused of killing 9-year-old Melodee Buzzard appears in court, questioning what changed in the woman she once knew."
