@@ -1,0 +1,21 @@
+---
+title: "Lebanon: Army says has taken over security in Hezbollah-dominated south - BBC"
+date: 2026-01-10
+description: "Lebanon: Army says has taken over security in Hezbollah-dominated south&nbsp;&nbsp;BBCLebanon army says it takes control of south; Israel says Hezbollah still must disarm&nbsp;&nbsp;ReutersLebanon’s mission to complete disarmament plan of Hezbollah&nbsp;&nbsp;Al JazeeraLebanese military moves to new phase of disarming non-state groups like Hezbollah&nbsp;&nbsp;YahooLebanon says first phase of plan to disarm Hezbollah completed, but Netanyahu warns progress ‘far from sufficient’&nbsp;&nbsp;..."
+summary: "Lebanon: Army says has taken over security in Hezbollah-dominated south&nbsp;&nbsp;BBCLebanon army says it takes control of south; Israel says Hezbollah still must disarm&nbsp;&nbsp;ReutersLebanon’s mission to complete disarmament plan of Hezbollah&nbsp;&nbsp;Al JazeeraLebanese military moves to new phase of disarming non-state groups like Hezbollah&nbsp;&nbsp;YahooLebanon says first phase of plan to disarm Hezbollah completed, but Netanyahu warns progress ‘far from sufficient’&nbsp;&nbsp;..."
+slug: "lebanon-army-says-has-taken-over-security-in-hezbollah-dominated-south-bbc"
+image: ''
+link: 'https://news.google.com/rss/articles/CBMiWkFVX3lxTFBQdUc1YmdFVUVBZS1nQmExRy1ZX2VsTnJROHJ4YWNJcUluUnFPTjg2bXI3V1pucU1UOVNSal9ZRHA5ajJoUFF6U0lzMl95eThzcXpERnlKNk4yQdIBX0FVX3lxTFBFbmVDdENVdGFqRHhUaEhxd0d0YVBidHJjVWhnWjkwYS1KTE5BeDA4NXNMZmtWQVNfazVLNDhSdGh2VEdyRDg4YU1iYVRETzE4QmRZNXZrMGVhYk1UTFVr?oc=5'
+source: 'https://news.google.com/rss/topics/CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx1YlY4U0FtVnVHZ0pWVXlnQVAB?hl=en-US&gl=US&ceid=US:en'
+categories:
+- 'news.google.com'
+tags:
+- 'hezbollah'
+- 'dominated'
+- 'security'
+- 'lebanon'
+- 'taken'
+
+draft: false
+---
+<ol><li><a href="https://news.google.com/rss/articles/CBMiWkFVX3lxTFBQdUc1YmdFVUVBZS1nQmExRy1ZX2VsTnJROHJ4YWNJcUluUnFPTjg2bXI3V1pucU1UOVNSal9ZRHA5ajJoUFF6U0lzMl95eThzcXpERnlKNk4yQdIBX0FVX3lxTFBFbmVDdENVdGFqRHhUaEhxd0d0YVBidHJjVWhnWjkwYS1KTE5BeDA4NXNMZmtWQVNfazVLNDhSdGh2VEdyRDg4YU1iYVRETzE4QmRZNXZrMGVhYk1UTFVr?oc=5" target="_blank">Lebanon: Army says has taken over security in Hezbollah-dominated south</a>&nbsp;&nbsp;<font color="#6f6f6f">BBC</font></li><li><a href="https://news.google.com/rss/articles/CBMiyAFBVV95cUxNOTgxQzl6aWpraGFBTzduRzFkUDcyWXBraFE4dHlqeHVqYnc5TUZPOHVPOHVkTU9lMlRBZ0RNUnFGYV95MGZaaks2NXpzTTZJU1pua2I0czRWRnB1dXNNd0NHN09PTkFVdFB6ZjRoU1lzemVrV2J1anhYYV9rVlhKQjhndDBtODZ4eDJPYzFBUmtZeFVOT1p1ZmRSUDJlQjlTcHlNUnBhVmFpTWt0N0gzUmF3ZEJ1RzlISW5kZi14d3ZHTnpranMyUw?oc=5" target="_blank">Lebanon army says it takes control of south; Israel says Hezbollah still must disarm</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font></li><li><a href="https://news.google.com/rss/articles/CBMinwFBVV95cUxOVUYtQ3JDNi1QQXBZdUJhbW5hemhLd19iSnBXRHBjUkpxQjRuSTFhbm1HS3l2VUZIVHlzV3lGdHpxNVY1VEdkdEFTalJOdnpSRmprRXlFWHZIb3d5dG9qVXpCS2NwZlRjQ1ptY2p5N1FUaHpCOTZXbE96V3F5d1JyRlh4N1pUOEdXaUI1QTI5ZjliN3ptMTBMMEdYVV9uWFnSAaQBQVVfeXFMTkEtTUJkbmx1cDR6T2tNMFZIZmhPOHEwZGluNTNjcDloLVZ2c0RnTFBwODl6NEdSbjVQUEM1R3Vjdks1eWdMd3AyV0ptbWRkdS1RWV9GeV9KcWxrNnhOUFpFWHlvamVMcmFuTmV3OVhXZFU3UTBkNTlNVll0SXhONGNtcVUtaXM0SjhWYjhISl9nLUNzTEgtV2V2MWNGbE16ZEczS2k?oc=5" target="_blank">Lebanon’s mission to complete disarmament plan of Hezbollah</a>&nbsp;&nbsp;<font color="#6f6f6f">Al Jazeera</font></li><li><a href="https://news.google.com/rss/articles/CBMilwFBVV95cUxNOGlKOHN2ZTZqeFN5eTEza3ZISmtJX2VleFc2ZERwUFNheUh4OGZ5djdmLVF1VlB0STFFcks5UnZTM0lmNGk0R1k0S29VTFJxMHJoaUQ1Yjg2eGZPZ2liZVBBenpVaEQ5elJwSkNCeE5CSHhEUkNsa3NicDNpVmJZc0pfOWNpZkVnV3p5UUp5LWJrZkNLejBZ?oc=5" target="_blank">Lebanese military moves to new phase of disarming non-state groups like Hezbollah</a>&nbsp;&nbsp;<font color="#6f6f6f">Yahoo</font></li><li><a href="https://news.google.com/rss/articles/CBMilwFBVV95cUxOMlRKODhiU2tPd1FtRjFqTzhMTnVodmplX1dyZ0p2Y3FOd0MzdXVvUGdtcU5tU2RxMloxaHVRa29pdmRNaHJNdl8xc0tyVkk2bUV1amQzcC11YUs5V1k1dnVabzRSYVVfMFQ4VzROUW9OdW5femptWVhRdmduX3g3aWVEY2luakQ3UThDdGpNM1NlRWE3TWNJ?oc=5" target="_blank">Lebanon says first phase of plan to disarm Hezbollah completed, but Netanyahu warns progress ‘far from sufficient’</a>&nbsp;&nbsp;<font color="#6f6f6f">CNN</font></li></ol>
