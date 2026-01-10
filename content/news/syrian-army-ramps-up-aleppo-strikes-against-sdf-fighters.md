@@ -1,9 +1,9 @@
 ---
-title: "Syrian army ramps up Aleppo strikes against Kurdish fighters"
+title: "Syrian army ramps up Aleppo strikes against SDF fighters"
 date: 2026-01-09
 description: "The Syrian army is combing through the Sheikh Maqsoud neighbourhood of Aleppo as fighting intensifies. "
 summary: "The Syrian army is combing through the Sheikh Maqsoud neighbourhood of Aleppo as fighting intensifies. "
-slug: "syrian-army-ramps-up-aleppo-strikes-against-kurdish-fighters"
+slug: "syrian-army-ramps-up-aleppo-strikes-against-sdf-fighters"
 image: ''
 link: 'https://www.aljazeera.com/news/2026/1/9/syrian-army-renews-aleppo-strikes-as-kurdish-fighters-refuse-to-budge?traffic_source=rss'
 source: 'https://aljazeera.com/xml/rss/all.xml'
@@ -13,8 +13,8 @@ tags:
 - 'fighters'
 - 'strikes'
 - 'against'
-- 'kurdish'
 - 'syrian'
+- 'aleppo'
 
 draft: false
 ---
