@@ -1,0 +1,21 @@
+---
+title: "North Korea claims it shot down South Korean drone - DW"
+date: 2026-01-10
+description: "North Korea claims it shot down South Korean drone&nbsp;&nbsp;DWNorth Korea vows response as it accuses the South of flying drones across the border&nbsp;&nbsp;abcnews.go.comN. Korea accuses S. Korea of drone incursion this week, warns of countermeasures&nbsp;&nbsp;Yonhap News AgencyNorth Korea revives drone claims in rebuff to Seoul’s outreach&nbsp;&nbsp;South China Morning PostSouth Korea Denies North's Drone Infiltration Claims&nbsp;&nbsp;조선일보"
+summary: "North Korea claims it shot down South Korean drone&nbsp;&nbsp;DWNorth Korea vows response as it accuses the South of flying drones across the border&nbsp;&nbsp;abcnews.go.comN. Korea accuses S. Korea of drone incursion this week, warns of countermeasures&nbsp;&nbsp;Yonhap News AgencyNorth Korea revives drone claims in rebuff to Seoul’s outreach&nbsp;&nbsp;South China Morning PostSouth Korea Denies North's Drone Infiltration Claims&nbsp;&nbsp;조선일보"
+slug: "north-korea-claims-it-shot-down-south-korean-drone-dw"
+image: ''
+link: 'https://news.google.com/rss/articles/CBMiowFBVV95cUxQUnZHR3V3NTItRzdPU3BEX25nb09HMjJKR3VBd1hFUXV3d3RRUVdvUlF2WkU2WjJ5bzlGVENSdm9BXzdXZWF4VTFsLVVKR2dCMVotYmMyRXRNSTZnLWJ3VGtOOHEyam5TaXJVd1p2ZENSZWRwbUVGaDdXa1luQWllalcxWUNfMmozWGN2cHZldUp1eHpLQ0hodzZQV00ydHVXWTVr0gGjAUFVX3lxTE52VUdaN1A0WFcxY1liTGthbnE0QUZKcThvRklPR0RpLUQ1X0p0VV9TeHFNbVEwMngzaXNmVnZyRjlRSHlXY09PNmVkWW1mS21mMW1sSXlKWXQ3VUdtRkFBbXhYNjRabVJVNEJSV2dacC12ZFRacy1icU5KaVJTN3V4a3FuTFFhQmpOWTRoM18wM1FEV1B4S3UwVWtFdjBhOFBZcG8?oc=5'
+source: 'https://news.google.com/rss/topics/CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx1YlY4U0FtVnVHZ0pWVXlnQVAB?hl=en-US&gl=US&ceid=US:en'
+categories:
+- 'news.google.com'
+tags:
+- 'claims'
+- 'korean'
+- 'north'
+- 'korea'
+- 'south'
+
+draft: false
+---
+<ol><li><a href="https://news.google.com/rss/articles/CBMiowFBVV95cUxQUnZHR3V3NTItRzdPU3BEX25nb09HMjJKR3VBd1hFUXV3d3RRUVdvUlF2WkU2WjJ5bzlGVENSdm9BXzdXZWF4VTFsLVVKR2dCMVotYmMyRXRNSTZnLWJ3VGtOOHEyam5TaXJVd1p2ZENSZWRwbUVGaDdXa1luQWllalcxWUNfMmozWGN2cHZldUp1eHpLQ0hodzZQV00ydHVXWTVr0gGjAUFVX3lxTE52VUdaN1A0WFcxY1liTGthbnE0QUZKcThvRklPR0RpLUQ1X0p0VV9TeHFNbVEwMngzaXNmVnZyRjlRSHlXY09PNmVkWW1mS21mMW1sSXlKWXQ3VUdtRkFBbXhYNjRabVJVNEJSV2dacC12ZFRacy1icU5KaVJTN3V4a3FuTFFhQmpOWTRoM18wM1FEV1B4S3UwVWtFdjBhOFBZcG8?oc=5" target="_blank">North Korea claims it shot down South Korean drone</a>&nbsp;&nbsp;<font color="#6f6f6f">DW</font></li><li><a href="https://news.google.com/rss/articles/CBMirwFBVV95cUxNRzJGLUNqSnNMczBjZ2NvdzFGWHM0QWs3T3BJSGtoRkFZc3JtX2NQanJRV3Q3MnNPTmw2N2lBM01ZcEFlVmNXQjYyREdKSG5DdEkwSVk2T1IwR0xVVko1Qkl3UnllTmJGWUhJOUV1TTBIZUNSUkRqdHlJbk82dElkYkN2QkNja2ZiVVlpZ3I1QUs4ZkkxNnNtRUFaeEJjSExhbVFKd2t1U3NSWDhJY3Yw0gG0AUFVX3lxTE91MTlKYXVmSDQtUFM5aFItX2xCcHhRcVNpdGFNdWhXQ1lPUUZVTVlENEdkY2lFSkIzb1hiY3BjaFh0bXJ0NWk2VFQ3bzRKYUpGU25iOWJVQ2FXc3JFT3NiWnJaSzZBQWxNb3l6czdjdTc2S2ZDVHFWUFcyNlJGNDRNaVN1c2V2VnlOaUFCOTBfVFFUdFFueXpNVHpiVGI0YjZ1V25XSXN2cDVKdUdEOEptMm4yNg?oc=5" target="_blank">North Korea vows response as it accuses the South of flying drones across the border</a>&nbsp;&nbsp;<font color="#6f6f6f">abcnews.go.com</font></li><li><a href="https://news.google.com/rss/articles/CBMiWkFVX3lxTE85dmRTdEgxZGJZNTJtY2t1OWFGdUpETFhBaHlJakduWHlwbmtqWHp1LUdVZE5KaDI3OUZHRFF1SVJsYXAySi1ZaTZZdmpsb0I3YkZEaWhNSlp6Zw?oc=5" target="_blank">N. Korea accuses S. Korea of drone incursion this week, warns of countermeasures</a>&nbsp;&nbsp;<font color="#6f6f6f">Yonhap News Agency</font></li><li><a href="https://news.google.com/rss/articles/CBMisAFBVV95cUxONEJlYS1qQnNPYnhPTWk5SmRJdUlfR1FUT21UN1VUbHA5b1duZEdHbjlPNFNhQ2tucDBOa0F4aE03bE1EVlRDcTQ3ZkVkQ2xYTzNhZ3JHSkl2RFlEbFZ0QTlZUUt4ZUZMOHhmYlFRcmxjSV85ZzFRWU00UG1OQVRlM0FwRDVzQ2N0ZktvWHBlZ2JfbHV1UzQ0T1l0LWdTXzBZVnJHN3J6N0xIdktBV3V0bw?oc=5" target="_blank">North Korea revives drone claims in rebuff to Seoul’s outreach</a>&nbsp;&nbsp;<font color="#6f6f6f">South China Morning Post</font></li><li><a href="https://news.google.com/rss/articles/CBMiiAFBVV95cUxONlBkNzFLVGFzNU05eHJYTVlGOVA4Y3M5SjllMlozNWlvSGt0eU9nNDRiZ011WXhCd2RBRTE5bjR6bUZsVGhHcGNIMDFpS0E1QUNjRk91dXh2cjJjN09PdGVCR0VIeGhkc0ZIRlpQQzBTaXM4cnVhbmg2XzE0XzJSQWRMdlJTaGZn?oc=5" target="_blank">South Korea Denies North's Drone Infiltration Claims</a>&nbsp;&nbsp;<font color="#6f6f6f">조선일보</font></li></ol>
