@@ -1,0 +1,21 @@
+---
+title: "'Intended killings': Tanzania's election violence ensnared unsuspecting victims - Reuters"
+date: 2026-01-10
+description: "'Intended killings': Tanzania's election violence ensnared unsuspecting victims&nbsp;&nbsp;ReutersLawyers ask EACJ to nullify Tanzania election&nbsp;&nbsp;The EastAfricanIn the wake of election violence, Tanzania forms committee to explore reconciliation and constitutional change&nbsp;&nbsp;ConstitutionNetTanzania's Night of Terror: Behind the Mwanza Cafe Shooting&nbsp;&nbsp;Devdiscourse“They Were Not Protesting”: Inside Tanzania’s Election Violence&nbsp;&nbsp;Modern Diplomacy"
+summary: "'Intended killings': Tanzania's election violence ensnared unsuspecting victims&nbsp;&nbsp;ReutersLawyers ask EACJ to nullify Tanzania election&nbsp;&nbsp;The EastAfricanIn the wake of election violence, Tanzania forms committee to explore reconciliation and constitutional change&nbsp;&nbsp;ConstitutionNetTanzania's Night of Terror: Behind the Mwanza Cafe Shooting&nbsp;&nbsp;Devdiscourse“They Were Not Protesting”: Inside Tanzania’s Election Violence&nbsp;&nbsp;Modern Diplomacy"
+slug: "intended-killings-tanzania-s-election-violence-ensnared-unsuspecting-victims-reuters"
+image: ''
+link: 'https://news.google.com/rss/articles/CBMiwgFBVV95cUxNLUh3ZEpNbFJMd2VXRzg4ZTAwUWd2N0VFWmtGWXpsalQzSjFWOWFCU1I3N29sN0c1eUJ0S0ZUTm9XNWhxTmEwUWhYb3BCUExhcWhqR0QyRWlJT3JWckx4MjI5STU1dEhMT1gxa2VfYmFqdHdkUVdEOWtfbFVOMHdQU3d2cnNXMVlqV0xFeVFOS3hKYUxXNTh4eUliMUliNVBSTEJMdWxIdHdKX19IanVVdlZYamZCd3pxaDFLUm5RQjNVUQ?oc=5'
+source: 'https://news.google.com/rss/topics/CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx1YlY4U0FtVnVHZ0pWVXlnQVAB?hl=en-US&gl=US&ceid=US:en'
+categories:
+- 'news.google.com'
+tags:
+- 'unsuspecting'
+- 'intended'
+- 'killings'
+- 'tanzania'
+- 'election'
+
+draft: false
+---
+<ol><li><a href="https://news.google.com/rss/articles/CBMiwgFBVV95cUxNLUh3ZEpNbFJMd2VXRzg4ZTAwUWd2N0VFWmtGWXpsalQzSjFWOWFCU1I3N29sN0c1eUJ0S0ZUTm9XNWhxTmEwUWhYb3BCUExhcWhqR0QyRWlJT3JWckx4MjI5STU1dEhMT1gxa2VfYmFqdHdkUVdEOWtfbFVOMHdQU3d2cnNXMVlqV0xFeVFOS3hKYUxXNTh4eUliMUliNVBSTEJMdWxIdHdKX19IanVVdlZYamZCd3pxaDFLUm5RQjNVUQ?oc=5" target="_blank">'Intended killings': Tanzania's election violence ensnared unsuspecting victims</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font></li><li><a href="https://news.google.com/rss/articles/CBMiqwFBVV95cUxNN0ltalVQcGNjLV9iMlVGbzBfV3cwNGVwVXZuVW5mY3pyeHpJNVVnNkpuRHZCSWRPeF8xSkIwdGhHZHZ4TVVIbHFNVUJJb2g3cGhIWlBTc0NxSTJJcUYyQ0t6OUxLRGdYNTh2Umw3U1RuV2VrR0hCZ0wxbDNSbm81Z1ZBWk1LTmVnZzRDZWFwOENJTXotWW16UlFNQWpYZEpIcHVoRVJlUkgxQlk?oc=5" target="_blank">Lawyers ask EACJ to nullify Tanzania election</a>&nbsp;&nbsp;<font color="#6f6f6f">The EastAfrican</font></li><li><a href="https://news.google.com/rss/articles/CBMivwFBVV95cUxQa29JVjFRMXI3X1U0RjR2X29fVGFfR1lMQ1M1U0lYUWhERnlQN19tbUNUY1dVSWhyV2VvRzRTSFRCWHNPb1ZUVVViWmJJenUtN2dfVVZzUHZETEJYSWgzQV9SaXNtcGx5MU9JN0kyaDBGQkNqYUlyWGpDN0dib1VzSlF0M0o2bjV1OUFBSzJnOG1yTHJhTWlwcXlHQU9ndUVPVTQ4TjZxdm1ONTB5U3JwcW5sV1RScG40WldLaHh3cw?oc=5" target="_blank">In the wake of election violence, Tanzania forms committee to explore reconciliation and constitutional change</a>&nbsp;&nbsp;<font color="#6f6f6f">ConstitutionNet</font></li><li><a href="https://news.google.com/rss/articles/CBMisgFBVV95cUxOYUg4SmRybFF4UktReDdOSkU4aWExQmpnbjAxZTg3OG5Nbm10eUR4aUR2STZkTWktSzkxTlMtNnJ3bFYxZDBGalFSX0hGUnp6SWV3cXk1ckZqako0ZkJ2XzVFNFlqbmZEYWcyVWZhcVZiamlnVWN5VFQ0ckxNN055bnlXYkxDS3RLVHQ0OVRrbHZrdkw5S0lqZmVLRTVDNzRzSEtUUFk0aVU0TkJpZ1B6djVR0gG3AUFVX3lxTE1iQlcxTkh5c3BicDFOdU1lWkZod2EySy1lMVl5S0N1X2l3VlJpN2taSUpqd3RkLW9wNlM3Y0NzTWxORUEwOW0wVXVZM0loQ0dKSDVDdzVFU0tFckx1bF9YN0NFdFJGWUQ4MEs5VWp4MnlZaUxabXdiVUk2WGp5RVZLU25LbXVwam9MTlV5aGY0d0dEZjFybF9zWjhRUjlGQ29vbEdoWGFpcHRJcU5Yc3BNUDR6YW5MVQ?oc=5" target="_blank">Tanzania's Night of Terror: Behind the Mwanza Cafe Shooting</a>&nbsp;&nbsp;<font color="#6f6f6f">Devdiscourse</font></li><li><a href="https://news.google.com/rss/articles/CBMinwFBVV95cUxQdWtYRzZELWh1Y1JDRWVQSElnbzFSWjZsYTRQXzBscXJBV3NOQW02dDVSSXJkWW80UzFEdGdlQXM2NE9fUWJjM2pVc1hDdzk3QnZRSHdWel9INXJ0ZUpNTWszWGRsTmNscUk2QjFzT2NwWHNjZkJfUERnZkR1TGFSQnhKajZWa3lHeWlZcDE2eTdkaVpqZGU5dTlpWjI2MjQ?oc=5" target="_blank">“They Were Not Protesting”: Inside Tanzania’s Election Violence</a>&nbsp;&nbsp;<font color="#6f6f6f">Modern Diplomacy</font></li></ol>
