@@ -1,0 +1,21 @@
+---
+title: "UK lawmaker cites reports on Russian flights to Iran, gold airlift | Iran International - ایران اینترنشنال"
+date: 2026-01-10
+description: "UK lawmaker cites reports on Russian flights to Iran, gold airlift | Iran International&nbsp;&nbsp;ایران اینترنشنالIran’s Gold Allegedly Flown to Russia as Supreme Leader Braces for Collapse&nbsp;&nbsp;UNITED24 MediaHeavy airlift flights in operation between Russia and Iran&nbsp;&nbsp;Air Cargo Week‘Preparing for life after fall’: British MP on how Khamenei regime is planning exit; 45 protesters dead&nbsp;&nbsp;Times of IndiaSecret Russian airlift to besieged Iranian regime:..."
+summary: "UK lawmaker cites reports on Russian flights to Iran, gold airlift | Iran International&nbsp;&nbsp;ایران اینترنشنالIran’s Gold Allegedly Flown to Russia as Supreme Leader Braces for Collapse&nbsp;&nbsp;UNITED24 MediaHeavy airlift flights in operation between Russia and Iran&nbsp;&nbsp;Air Cargo Week‘Preparing for life after fall’: British MP on how Khamenei regime is planning exit; 45 protesters dead&nbsp;&nbsp;Times of IndiaSecret Russian airlift to besieged Iranian regime:..."
+slug: "uk-lawmaker-cites-reports-on-russian-flights-to-iran-gold-airlift-iran-international"
+image: ''
+link: 'https://news.google.com/rss/articles/CBMiUkFVX3lxTE1WbnhJckpydkJLM25DcXlrRlJVYmNqOXJhVldLQVVpV01rNDRUa2lhVXl6YW1aY25pbHJaUm83c053dXBSLWRjazQtaXhHNFhPLVE?oc=5'
+source: 'https://news.google.com/rss/topics/CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx1YlY4U0FtVnVHZ0pWVXlnQVAB?hl=en-US&gl=US&ceid=US:en'
+categories:
+- 'news.google.com'
+tags:
+- 'international'
+- 'lawmaker'
+- 'reports'
+- 'russian'
+- 'flights'
+
+draft: false
+---
+<ol><li><a href="https://news.google.com/rss/articles/CBMiUkFVX3lxTE1WbnhJckpydkJLM25DcXlrRlJVYmNqOXJhVldLQVVpV01rNDRUa2lhVXl6YW1aY25pbHJaUm83c053dXBSLWRjazQtaXhHNFhPLVE?oc=5" target="_blank">UK lawmaker cites reports on Russian flights to Iran, gold airlift | Iran International</a>&nbsp;&nbsp;<font color="#6f6f6f">ایران اینترنشنال</font></li><li><a href="https://news.google.com/rss/articles/CBMiugFBVV95cUxPTFpGYlc0eGRvM0k0VjRIYTU4cjg3d2VOTmltUVNoYzVWaElqRUNHQ0s2aGdSTnFDZ2tCbXB2cE03dTIwZi1KWHl3QXdBVEsyNkRMNEZxY0tYX2xWMkJVMXdJN1BlaDVjV3BjSGhWbVFnajRxYXZad2ktYmF2NUhBckcyWDhUWG9wWk9QSFVFbW9qNjZKYllXb19MSzNnSU4wQ3l5bDRKT3BIc3Z5VUhCcE1FbEFYdm13Nmc?oc=5" target="_blank">Iran’s Gold Allegedly Flown to Russia as Supreme Leader Braces for Collapse</a>&nbsp;&nbsp;<font color="#6f6f6f">UNITED24 Media</font></li><li><a href="https://news.google.com/rss/articles/CBMijAFBVV95cUxQcktCRHRlSXNPcE1LQzVoTGFiVk16OFR4dEVNbEZKamJyUDVLT1lxcUtvbUtzWXVFbW83VVkwRnZCQlN6LUhyYmlqQ0JRVG9KNTNjR01NWGs3N05RVkgwTTFDNi1UTmJSMUczVm9UWXg2ajFSVDMzUmlPbDF0VWN3NVJyR1ZTajhuTU9jeA?oc=5" target="_blank">Heavy airlift flights in operation between Russia and Iran</a>&nbsp;&nbsp;<font color="#6f6f6f">Air Cargo Week</font></li><li><a href="https://news.google.com/rss/articles/CBMijAJBVV95cUxNbVR6SGRrRU9rWGR0MGpuQlVGZW1SNUVNTkQyc1RxTGZ4VHhBNUZ1MXNQUGFVMDZqNmlWNGl5azg0VlMtaFQxRXRsQ1U3aVBETWYxRzgyRlpTZGdzVE4wZ2pESmdoNnk3bXh3M2VzYXpiMzM0Z2hocWJGUHdmcGltUjM5Q1VydUNoR2tFRldIMXFQRlVNTTl1V1N5YVBLWUl4LURmbHJPbGp6aDJJM2F2SzQ0RFNJYk9RSk94d3BPZHhGb1NWZF9ac09mSVhSMk1kclptTndNRkZsRGpkUXVUSlprZGFCeXN3X0ZsMllIYzNQU0prX19VNkluWGx2c1RaMERkcVlmdTlpWXdm?oc=5" target="_blank">‘Preparing for life after fall’: British MP on how Khamenei regime is planning exit; 45 protesters dead</a>&nbsp;&nbsp;<font color="#6f6f6f">Times of India</font></li><li><a href="https://news.google.com/rss/articles/CBMiygFBVV95cUxQRUQ3bjRSeE5fb1djdEE3dEc5bTFMTm9TaGtBVHp1bXFOd2pjOE1LYlhiQlZoWFVHVGdlbHc2eDlsSXVBckpJQUc1SkRTTkRTb3ZiWlgwNFczaTcxMHZrbmhKMmR3N2QwZlVJMDVEUldnMzdoRkdVbkhIdUNtSHM5UFdhM2R6d29iRm16X3h2YXRCdDZKWDFIOXJtN2xDRDY4Wm9CWkJtWGh5UktrWmh6TU40MEt5dTh5NFZTLXJBUHk1N0d3N1BpRVdR0gHPAUFVX3lxTE1oWFdKeEIzQU9UOGVqb3JOdm9kOVpqZm9pZkl0QUFVNHdMUGZfRVFnNlQwRTRZdk5ZaXl3eldHMWZpa0k2QlUyOTRkR0MyT2k3QktFOE14cnF2Um83OE9JYWZ0SEJMOHBsTndNV2FITkMyMXl4UnBZZ3VOZHBZU0NVV1ZNNDZobzFQemMyX001d3QxMm8yWXlncVpLajgtaXh4RGMzenh5Z3U1dFB5SjRGcEtPNEx3MVRaTzM1Nk52RUlGbjNsZTFSd2FZaXlVUQ?oc=5" target="_blank">Secret Russian airlift to besieged Iranian regime: ‘Gold or Iskander missile?</a>&nbsp;&nbsp;<font color="#6f6f6f">theweek.in</font></li></ol>
