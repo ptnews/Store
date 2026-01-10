@@ -1,6 +1,6 @@
 ---
 title: "Germany’s dying forests are losing their ability to absorb CO2. Can a new way of planting save them? - The Guardian"
-date: 2026-01-09
+date: 2026-01-10
 description: "Germany’s dying forests are losing their ability to absorb CO2. Can a new way of planting save them?&nbsp;&nbsp;The GuardianView Full Coverage on Google News"
 summary: "Germany’s dying forests are losing their ability to absorb CO2. Can a new way of planting save them?&nbsp;&nbsp;The GuardianView Full Coverage on Google News"
 slug: "germany-s-dying-forests-are-losing-their-ability-to-absorb-co2-can-a-new-way-of-planting-save-them-the-guardian"

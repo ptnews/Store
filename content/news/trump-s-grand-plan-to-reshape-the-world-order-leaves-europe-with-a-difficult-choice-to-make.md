@@ -1,6 +1,6 @@
 ---
 title: "Trump's grand plan to reshape the world order leaves Europe with a difficult choice to make"
-date: 2026-01-09
+date: 2026-01-10
 description: "The turbocharged events of the last week - and the new US National Security Strategy - raise pressing questions about the new world order, and what it means for Europe"
 summary: "The turbocharged events of the last week - and the new US National Security Strategy - raise pressing questions about the new world order, and what it means for Europe"
 slug: "trump-s-grand-plan-to-reshape-the-world-order-leaves-europe-with-a-difficult-choice-to-make"

@@ -1,6 +1,6 @@
 ---
 title: "Trump says US needs to 'own' Greenland to prevent Russia and China from taking it"
-date: 2026-01-09
+date: 2026-01-10
 description: "We will do it \"the easy way\" or \"the hard way\", he said, but Denmark says the territory is not for sale."
 summary: "We will do it \"the easy way\" or \"the hard way\", he said, but Denmark says the territory is not for sale."
 slug: "trump-says-us-needs-to-own-greenland-to-prevent-russia-and-china-from-taking-it"

@@ -1,6 +1,6 @@
 ---
 title: "Somalia's Siad Barre: Kenyan pilot tells BBC of his secret mission to fly his body from Nigeria - BBC"
-date: 2026-01-09
+date: 2026-01-10
 description: "Somalia's Siad Barre: Kenyan pilot tells BBC of his secret mission to fly his body from Nigeria&nbsp;&nbsp;BBC"
 summary: "Somalia's Siad Barre: Kenyan pilot tells BBC of his secret mission to fly his body from Nigeria&nbsp;&nbsp;BBC"
 slug: "somalia-s-siad-barre-kenyan-pilot-tells-bbc-of-his-secret-mission-to-fly-his-body-from-nigeria-bbc"

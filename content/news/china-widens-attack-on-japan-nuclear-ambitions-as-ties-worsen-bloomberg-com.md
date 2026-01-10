@@ -1,6 +1,6 @@
 ---
 title: "China Widens Attack on Japan ‘Nuclear Ambitions’ as Ties Worsen - Bloomberg.com"
-date: 2026-01-09
+date: 2026-01-10
 description: "China Widens Attack on Japan ‘Nuclear Ambitions’ as Ties Worsen&nbsp;&nbsp;Bloomberg.comChina cites Biden’s message to Xi that Japan could build nukes ‘overnight’&nbsp;&nbsp;South China Morning PostColumn: Maintaining high vigilance against resurgence of Japanese militarism&nbsp;&nbsp;XinhuaForeign Ministry Spokesperson Mao Ning’s Regular Press Conference on January 8, 2026&nbsp;&nbsp;fmprc.gov.cnWhat exactly does ‘off the record’ mean in Japan?&nbsp;&nbsp;キヤノングロー�..."
 summary: "China Widens Attack on Japan ‘Nuclear Ambitions’ as Ties Worsen&nbsp;&nbsp;Bloomberg.comChina cites Biden’s message to Xi that Japan could build nukes ‘overnight’&nbsp;&nbsp;South China Morning PostColumn: Maintaining high vigilance against resurgence of Japanese militarism&nbsp;&nbsp;XinhuaForeign Ministry Spokesperson Mao Ning’s Regular Press Conference on January 8, 2026&nbsp;&nbsp;fmprc.gov.cnWhat exactly does ‘off the record’ mean in Japan?&nbsp;&nbsp;キヤノングロー�..."
 slug: "china-widens-attack-on-japan-nuclear-ambitions-as-ties-worsen-bloomberg-com"

@@ -1,6 +1,6 @@
 ---
 title: "US film stars Meagan Good and Jonathan Majors to become Guinea citizens after DNA tests"
-date: 2026-01-09
+date: 2026-01-10
 description: "The pair join other US celebrities reconnecting with their African heritage and taking up citizenship."
 summary: "The pair join other US celebrities reconnecting with their African heritage and taking up citizenship."
 slug: "us-film-stars-meagan-good-and-jonathan-majors-to-become-guinea-citizens-after-dna-tests"

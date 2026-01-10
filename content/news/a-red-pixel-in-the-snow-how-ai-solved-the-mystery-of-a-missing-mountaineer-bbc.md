@@ -1,6 +1,6 @@
 ---
 title: "A red pixel in the snow: How AI solved the mystery of a missing mountaineer - BBC"
-date: 2026-01-09
+date: 2026-01-10
 description: "A red pixel in the snow: How AI solved the mystery of a missing mountaineer&nbsp;&nbsp;BBC"
 summary: "A red pixel in the snow: How AI solved the mystery of a missing mountaineer&nbsp;&nbsp;BBC"
 slug: "a-red-pixel-in-the-snow-how-ai-solved-the-mystery-of-a-missing-mountaineer-bbc"

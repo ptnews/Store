@@ -1,6 +1,6 @@
 ---
 title: "Inside Myanmar’s Gilded Capital, Empty Streets and Moldy Corners - The New York Times"
-date: 2026-01-09
+date: 2026-01-10
 description: "Inside Myanmar’s Gilded Capital, Empty Streets and Moldy Corners&nbsp;&nbsp;The New York Times"
 summary: "Inside Myanmar’s Gilded Capital, Empty Streets and Moldy Corners&nbsp;&nbsp;The New York Times"
 slug: "inside-myanmar-s-gilded-capital-empty-streets-and-moldy-corners-the-new-york-times"

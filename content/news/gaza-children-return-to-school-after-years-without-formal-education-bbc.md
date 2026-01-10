@@ -1,6 +1,6 @@
 ---
 title: "Gaza children return to school after years without formal education - BBC"
-date: 2026-01-09
+date: 2026-01-10
 description: "Gaza children return to school after years without formal education&nbsp;&nbsp;BBCGaza children risk snipers to attend tent schools&nbsp;&nbsp;Al JazeeraWith Their Breadwinners Killed, Gaza’s Children Turn to Begging to Survive&nbsp;&nbsp;TruthoutGoing back to Gaza’s broken universities&nbsp;&nbsp;The Electronic Intifada\"UNRWA\": Children in Gaza still living in tragic conditions&nbsp;&nbsp;وكالة سبأ"
 summary: "Gaza children return to school after years without formal education&nbsp;&nbsp;BBCGaza children risk snipers to attend tent schools&nbsp;&nbsp;Al JazeeraWith Their Breadwinners Killed, Gaza’s Children Turn to Begging to Survive&nbsp;&nbsp;TruthoutGoing back to Gaza’s broken universities&nbsp;&nbsp;The Electronic Intifada\"UNRWA\": Children in Gaza still living in tragic conditions&nbsp;&nbsp;وكالة سبأ"
 slug: "gaza-children-return-to-school-after-years-without-formal-education-bbc"

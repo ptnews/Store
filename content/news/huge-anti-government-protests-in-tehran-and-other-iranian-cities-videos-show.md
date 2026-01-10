@@ -1,6 +1,6 @@
 ---
 title: "Huge anti-government protests in Tehran and other Iranian cities, videos show"
-date: 2026-01-09
+date: 2026-01-10
 description: "Rallies on major roads in the capital and in Iran's second city were peaceful and not dispersed by security forces."
 summary: "Rallies on major roads in the capital and in Iran's second city were peaceful and not dispersed by security forces."
 slug: "huge-anti-government-protests-in-tehran-and-other-iranian-cities-videos-show"

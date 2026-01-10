@@ -1,6 +1,6 @@
 ---
 title: "The New Imperial Age - Foreign Affairs"
-date: 2026-01-09
+date: 2026-01-10
 description: "The New Imperial Age&nbsp;&nbsp;Foreign AffairsDoes Anyone Else Have 1898 Déjà Vu?&nbsp;&nbsp;The AtlanticImperialism Is Inevitable? Well So Is Resistance to It&nbsp;&nbsp;Zeteo | SubstackMaduro Is Gone – and the Age of American Empire Has Begun&nbsp;&nbsp;InvestorPlaceGive imperialism a chance?&nbsp;&nbsp;McKnight's Senior Living"
 summary: "The New Imperial Age&nbsp;&nbsp;Foreign AffairsDoes Anyone Else Have 1898 Déjà Vu?&nbsp;&nbsp;The AtlanticImperialism Is Inevitable? Well So Is Resistance to It&nbsp;&nbsp;Zeteo | SubstackMaduro Is Gone – and the Age of American Empire Has Begun&nbsp;&nbsp;InvestorPlaceGive imperialism a chance?&nbsp;&nbsp;McKnight's Senior Living"
 slug: "the-new-imperial-age-foreign-affairs"

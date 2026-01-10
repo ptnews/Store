@@ -1,6 +1,6 @@
 ---
 title: "Uganda elections 2026: Bobi Wine challenges President Yoweri Museveni for the second time - BBC"
-date: 2026-01-09
+date: 2026-01-10
 description: "Uganda elections 2026: Bobi Wine challenges President Yoweri Museveni for the second time&nbsp;&nbsp;BBCUganda election: Museveni’s expected win will deepen succession and Gen-Z challenges&nbsp;&nbsp;Chatham HouseCol Nakalema rallies Kasese youth on peace and securit&nbsp;&nbsp;NewVision.co.ugUGANDA: Bishop Muhiirwa Calls for Peaceful, Free, and Fair Elections in Uganda&nbsp;&nbsp;AMECEAThe Museveni era is nearing its end&nbsp;&nbsp;The Economist"
 summary: "Uganda elections 2026: Bobi Wine challenges President Yoweri Museveni for the second time&nbsp;&nbsp;BBCUganda election: Museveni’s expected win will deepen succession and Gen-Z challenges&nbsp;&nbsp;Chatham HouseCol Nakalema rallies Kasese youth on peace and securit&nbsp;&nbsp;NewVision.co.ugUGANDA: Bishop Muhiirwa Calls for Peaceful, Free, and Fair Elections in Uganda&nbsp;&nbsp;AMECEAThe Museveni era is nearing its end&nbsp;&nbsp;The Economist"
 slug: "uganda-elections-2026-bobi-wine-challenges-president-yoweri-museveni-for-the-second-time-bbc"

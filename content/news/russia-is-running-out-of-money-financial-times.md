@@ -1,6 +1,6 @@
 ---
 title: "Russia is running out of money - Financial Times"
-date: 2026-01-09
+date: 2026-01-10
 description: "Russia is running out of money&nbsp;&nbsp;Financial TimesRussian GDP in Question&nbsp;&nbsp;EconbrowserPutin’s financial crisis&nbsp;&nbsp;worldfinance.comRussia enters decade of economic stagnation – intelligence&nbsp;&nbsp;LIGA.netRussian official warns a banking crisis is possible amid nonpayments. 'I don’t want to think about a continuation of the war or an escalation'&nbsp;&nbsp;Fortune"
 summary: "Russia is running out of money&nbsp;&nbsp;Financial TimesRussian GDP in Question&nbsp;&nbsp;EconbrowserPutin’s financial crisis&nbsp;&nbsp;worldfinance.comRussia enters decade of economic stagnation – intelligence&nbsp;&nbsp;LIGA.netRussian official warns a banking crisis is possible amid nonpayments. 'I don’t want to think about a continuation of the war or an escalation'&nbsp;&nbsp;Fortune"
 slug: "russia-is-running-out-of-money-financial-times"

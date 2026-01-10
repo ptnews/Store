@@ -1,6 +1,6 @@
 ---
 title: "Prevalence of plastic waste as a household fuel in low-income communities of the Global South - Nature"
-date: 2026-01-09
+date: 2026-01-10
 description: "Prevalence of plastic waste as a household fuel in low-income communities of the Global South&nbsp;&nbsp;NatureBurning Plastic Waste for Household Fuel Endangers Millions&nbsp;&nbsp;Inside Climate NewsGlobal study reveals widespread burning of plastic for heating and cooking&nbsp;&nbsp;Phys.orgHousehold burning of plastic waste in developing world is hidden health threat, study shows&nbsp;&nbsp;The GuardianAussie travellers warned of toxic issue discovered in 26 countries&nbsp;&nbsp;Yahoo News A..."
 summary: "Prevalence of plastic waste as a household fuel in low-income communities of the Global South&nbsp;&nbsp;NatureBurning Plastic Waste for Household Fuel Endangers Millions&nbsp;&nbsp;Inside Climate NewsGlobal study reveals widespread burning of plastic for heating and cooking&nbsp;&nbsp;Phys.orgHousehold burning of plastic waste in developing world is hidden health threat, study shows&nbsp;&nbsp;The GuardianAussie travellers warned of toxic issue discovered in 26 countries&nbsp;&nbsp;Yahoo News A..."
 slug: "prevalence-of-plastic-waste-as-a-household-fuel-in-low-income-communities-of-the-global-south-nature"

@@ -1,6 +1,6 @@
 ---
 title: "Donald Trump’s Venezuela action raises threat for China’s oil supplies - Financial Times"
-date: 2026-01-09
+date: 2026-01-10
 description: "Donald Trump’s Venezuela action raises threat for China’s oil supplies&nbsp;&nbsp;Financial TimesTrump has a China problem in Venezuela: What to do with Beijing’s debt and oil stakes&nbsp;&nbsp;AP NewsChinese refiners expected to replace Venezuelan oil with Iranian crude, traders say&nbsp;&nbsp;ReutersTrump’s Venezuela Oil Grab Is Pushing Chinese Refiners to Canada&nbsp;&nbsp;Bloomberg.comVenezuelan oil and China: 4 things to know&nbsp;&nbsp;Nikkei Asia"
 summary: "Donald Trump’s Venezuela action raises threat for China’s oil supplies&nbsp;&nbsp;Financial TimesTrump has a China problem in Venezuela: What to do with Beijing’s debt and oil stakes&nbsp;&nbsp;AP NewsChinese refiners expected to replace Venezuelan oil with Iranian crude, traders say&nbsp;&nbsp;ReutersTrump’s Venezuela Oil Grab Is Pushing Chinese Refiners to Canada&nbsp;&nbsp;Bloomberg.comVenezuelan oil and China: 4 things to know&nbsp;&nbsp;Nikkei Asia"
 slug: "donald-trump-s-venezuela-action-raises-threat-for-china-s-oil-supplies-financial-times"

@@ -1,6 +1,6 @@
 ---
 title: "The white man’s burden, Trump edition - Financial Times"
-date: 2026-01-09
+date: 2026-01-10
 description: "The white man’s burden, Trump edition&nbsp;&nbsp;Financial Times"
 summary: "The white man’s burden, Trump edition&nbsp;&nbsp;Financial Times"
 slug: "the-white-man-s-burden-trump-edition-financial-times"

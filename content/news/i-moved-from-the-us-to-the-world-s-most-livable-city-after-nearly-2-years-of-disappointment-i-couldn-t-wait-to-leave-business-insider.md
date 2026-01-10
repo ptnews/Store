@@ -1,6 +1,6 @@
 ---
 title: "I moved from the US to the world's most livable city. After nearly 2 years of disappointment, I couldn't wait to leave. - Business Insider"
-date: 2026-01-09
+date: 2026-01-10
 description: "I moved from the US to the world's most livable city. After nearly 2 years of disappointment, I couldn't wait to leave.&nbsp;&nbsp;Business Insider"
 summary: "I moved from the US to the world's most livable city. After nearly 2 years of disappointment, I couldn't wait to leave.&nbsp;&nbsp;Business Insider"
 slug: "i-moved-from-the-us-to-the-world-s-most-livable-city-after-nearly-2-years-of-disappointment-i-couldn-t-wait-to-leave-business-insider"

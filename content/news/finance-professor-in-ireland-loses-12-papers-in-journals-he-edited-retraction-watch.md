@@ -1,6 +1,6 @@
 ---
 title: "Finance professor in Ireland loses 12 papers in journals he edited - Retraction Watch"
-date: 2026-01-09
+date: 2026-01-10
 description: "Finance professor in Ireland loses 12 papers in journals he edited&nbsp;&nbsp;Retraction Watch"
 summary: "Finance professor in Ireland loses 12 papers in journals he edited&nbsp;&nbsp;Retraction Watch"
 slug: "finance-professor-in-ireland-loses-12-papers-in-journals-he-edited-retraction-watch"

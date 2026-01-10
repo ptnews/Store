@@ -1,6 +1,6 @@
 ---
 title: "US seizes fifth oil tanker linked to Venezuela, officials say "
-date: 2026-01-09
+date: 2026-01-10
 description: "The tanker, the Olina, is on multiple countries' sanctions list and is \"suspected of carrying embargoed oil\", US officials say.
 "
 summary: "The tanker, the Olina, is on multiple countries' sanctions list and is \"suspected of carrying embargoed oil\", US officials say.

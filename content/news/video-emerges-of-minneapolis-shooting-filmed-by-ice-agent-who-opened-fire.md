@@ -1,6 +1,6 @@
 ---
 title: "Video emerges of Minneapolis shooting filmed by ICE agent who opened fire"
-date: 2026-01-09
+date: 2026-01-10
 description: "The clip shows the moments before gunfire rang out on a Minneapolis street."
 summary: "The clip shows the moments before gunfire rang out on a Minneapolis street."
 slug: "video-emerges-of-minneapolis-shooting-filmed-by-ice-agent-who-opened-fire"

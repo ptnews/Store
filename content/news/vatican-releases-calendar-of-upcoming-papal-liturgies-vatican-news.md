@@ -1,6 +1,6 @@
 ---
 title: "Vatican releases calendar of upcoming papal liturgies - Vatican News"
-date: 2026-01-09
+date: 2026-01-10
 description: "Vatican releases calendar of upcoming papal liturgies&nbsp;&nbsp;Vatican News"
 summary: "Vatican releases calendar of upcoming papal liturgies&nbsp;&nbsp;Vatican News"
 slug: "vatican-releases-calendar-of-upcoming-papal-liturgies-vatican-news"

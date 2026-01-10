@@ -1,6 +1,6 @@
 ---
 title: "Trump's warning looms over Iran protests response"
-date: 2026-01-09
+date: 2026-01-10
 description: "Iranian authorities appear to be unusually restrained in reacting to mass protests, a possible result of Donald Trump's threat to intervene."
 summary: "Iranian authorities appear to be unusually restrained in reacting to mass protests, a possible result of Donald Trump's threat to intervene."
 slug: "trump-s-warning-looms-over-iran-protests-response"

@@ -1,6 +1,6 @@
 ---
 title: "Farm inheritance tax protestors told no more changes to proposals - BBC"
-date: 2026-01-09
+date: 2026-01-10
 description: "Farm inheritance tax protestors told no more changes to proposals&nbsp;&nbsp;BBC‘They are going after everything rural’: inheritance tax U-turn does little to dampen farmers’ anger at Labour&nbsp;&nbsp;The Guardian‘Labour wants to destroy us’: The furious farmers fighting to preserve Britain&nbsp;&nbsp;The TelegraphFFA ‘fully supporting’ Oxford Farming Conference protests&nbsp;&nbsp;Agriland.co.ukCarmichael urges government to publish farm inheritance tax impact assessment&nbsp;&nb..."
 summary: "Farm inheritance tax protestors told no more changes to proposals&nbsp;&nbsp;BBC‘They are going after everything rural’: inheritance tax U-turn does little to dampen farmers’ anger at Labour&nbsp;&nbsp;The Guardian‘Labour wants to destroy us’: The furious farmers fighting to preserve Britain&nbsp;&nbsp;The TelegraphFFA ‘fully supporting’ Oxford Farming Conference protests&nbsp;&nbsp;Agriland.co.ukCarmichael urges government to publish farm inheritance tax impact assessment&nbsp;&nb..."
 slug: "farm-inheritance-tax-protestors-told-no-more-changes-to-proposals-bbc"

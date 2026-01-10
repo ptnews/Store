@@ -1,6 +1,6 @@
 ---
 title: "‘I don’t need international law’: Trump’s Wild West doctrine freezes European brains - politico.eu"
-date: 2026-01-09
+date: 2026-01-10
 description: "‘I don’t need international law’: Trump’s Wild West doctrine freezes European brains&nbsp;&nbsp;politico.euWhat Trump's vision of the new world order means for Europe&nbsp;&nbsp;BBCWhat’s Really Driving Trump’s Moves in Venezuela and Greenland&nbsp;&nbsp;PoliticoTrump’s ‘American Dominance’ May Leave Us With Nothing&nbsp;&nbsp;The AtlanticFrom Caracas to Minneapolis, the threat is the same – an American president ruling like a global emperor&nbsp;&nbsp;The Guardian"
 summary: "‘I don’t need international law’: Trump’s Wild West doctrine freezes European brains&nbsp;&nbsp;politico.euWhat Trump's vision of the new world order means for Europe&nbsp;&nbsp;BBCWhat’s Really Driving Trump’s Moves in Venezuela and Greenland&nbsp;&nbsp;PoliticoTrump’s ‘American Dominance’ May Leave Us With Nothing&nbsp;&nbsp;The AtlanticFrom Caracas to Minneapolis, the threat is the same – an American president ruling like a global emperor&nbsp;&nbsp;The Guardian"
 slug: "i-don-t-need-international-law-trump-s-wild-west-doctrine-freezes-european-brains-politico-eu"

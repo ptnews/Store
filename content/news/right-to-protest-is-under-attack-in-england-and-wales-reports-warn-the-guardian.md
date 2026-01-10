@@ -1,6 +1,6 @@
 ---
 title: "Right to protest is under attack in England and Wales, reports warn - The Guardian"
-date: 2026-01-09
+date: 2026-01-10
 description: "Right to protest is under attack in England and Wales, reports warn&nbsp;&nbsp;The GuardianView Full Coverage on Google News"
 summary: "Right to protest is under attack in England and Wales, reports warn&nbsp;&nbsp;The GuardianView Full Coverage on Google News"
 slug: "right-to-protest-is-under-attack-in-england-and-wales-reports-warn-the-guardian"

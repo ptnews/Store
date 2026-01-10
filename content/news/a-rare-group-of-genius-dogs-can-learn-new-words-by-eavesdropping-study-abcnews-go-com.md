@@ -1,6 +1,6 @@
 ---
 title: "A rare group of 'genius dogs' can learn new words by eavesdropping: Study - abcnews.go.com"
-date: 2026-01-09
+date: 2026-01-10
 description: "A rare group of 'genius dogs' can learn new words by eavesdropping: Study&nbsp;&nbsp;abcnews.go.comDogs Build Their Vocabularies Like Toddlers&nbsp;&nbsp;The New York TimesThese clever dogs rival toddlers when it comes to learning words&nbsp;&nbsp;The Washington PostUpper West Side Genius Dog Featured in The New York Times&nbsp;&nbsp;West Side RagThese dogs can learn new words just by eavesdropping&nbsp;&nbsp;NPR"
 summary: "A rare group of 'genius dogs' can learn new words by eavesdropping: Study&nbsp;&nbsp;abcnews.go.comDogs Build Their Vocabularies Like Toddlers&nbsp;&nbsp;The New York TimesThese clever dogs rival toddlers when it comes to learning words&nbsp;&nbsp;The Washington PostUpper West Side Genius Dog Featured in The New York Times&nbsp;&nbsp;West Side RagThese dogs can learn new words just by eavesdropping&nbsp;&nbsp;NPR"
 slug: "a-rare-group-of-genius-dogs-can-learn-new-words-by-eavesdropping-study-abcnews-go-com"

@@ -1,6 +1,6 @@
 ---
 title: "The musician and the strongman leader - what you need to know about Uganda's election"
-date: 2026-01-09
+date: 2026-01-10
 description: "Voters could propel a leader into a fifth decade in power or back a change candidate."
 summary: "Voters could propel a leader into a fifth decade in power or back a change candidate."
 slug: "the-musician-and-the-strongman-leader-what-you-need-to-know-about-uganda-s-election"

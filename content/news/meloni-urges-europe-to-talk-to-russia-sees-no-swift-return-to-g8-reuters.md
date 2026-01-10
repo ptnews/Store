@@ -1,6 +1,6 @@
 ---
 title: "Meloni urges Europe to talk to Russia, sees no swift return to G8 - Reuters"
-date: 2026-01-09
+date: 2026-01-10
 description: "Meloni urges Europe to talk to Russia, sees no swift return to G8&nbsp;&nbsp;ReutersMeloni joins Macron in urging European talks with Russia&nbsp;&nbsp;politico.euItalian PM Says EU Should Talk to Russia Over Ukraine&nbsp;&nbsp;The Moscow TimesItaly’s Meloni Calls on Europe to Reach Out to Russia Over Peace&nbsp;&nbsp;Bloomberg.comPM Meloni uses annual press conference to set Italy’s foreign policy posture&nbsp;&nbsp;Decode39"
 summary: "Meloni urges Europe to talk to Russia, sees no swift return to G8&nbsp;&nbsp;ReutersMeloni joins Macron in urging European talks with Russia&nbsp;&nbsp;politico.euItalian PM Says EU Should Talk to Russia Over Ukraine&nbsp;&nbsp;The Moscow TimesItaly’s Meloni Calls on Europe to Reach Out to Russia Over Peace&nbsp;&nbsp;Bloomberg.comPM Meloni uses annual press conference to set Italy’s foreign policy posture&nbsp;&nbsp;Decode39"
 slug: "meloni-urges-europe-to-talk-to-russia-sees-no-swift-return-to-g8-reuters"

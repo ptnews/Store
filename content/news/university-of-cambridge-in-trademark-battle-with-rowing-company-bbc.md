@@ -1,6 +1,6 @@
 ---
 title: "University of Cambridge in trademark battle with rowing company - BBC"
-date: 2026-01-09
+date: 2026-01-10
 description: "University of Cambridge in trademark battle with rowing company&nbsp;&nbsp;BBC"
 summary: "University of Cambridge in trademark battle with rowing company&nbsp;&nbsp;BBC"
 slug: "university-of-cambridge-in-trademark-battle-with-rowing-company-bbc"

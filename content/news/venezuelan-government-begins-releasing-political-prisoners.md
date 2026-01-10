@@ -1,6 +1,6 @@
 ---
 title: "Venezuelan government begins releasing political prisoners"
-date: 2026-01-09
+date: 2026-01-10
 description: "The US, which recently captured its President Nicolás Maduro, has long demanded the detainees be freed."
 summary: "The US, which recently captured its President Nicolás Maduro, has long demanded the detainees be freed."
 slug: "venezuelan-government-begins-releasing-political-prisoners"

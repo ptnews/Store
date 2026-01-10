@@ -1,6 +1,6 @@
 ---
 title: "“We’re Too Close to the Debris”: How SpaceX Rockets Put Passenger Planes at Risk - ProPublica"
-date: 2026-01-09
+date: 2026-01-10
 description: "“We’re Too Close to the Debris”: How SpaceX Rockets Put Passenger Planes at Risk&nbsp;&nbsp;ProPublica"
 summary: "“We’re Too Close to the Debris”: How SpaceX Rockets Put Passenger Planes at Risk&nbsp;&nbsp;ProPublica"
 slug: "we-re-too-close-to-the-debris-how-spacex-rockets-put-passenger-planes-at-risk-propublica"

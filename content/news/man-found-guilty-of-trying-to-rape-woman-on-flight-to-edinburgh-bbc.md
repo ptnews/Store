@@ -1,6 +1,6 @@
 ---
 title: "Man found guilty of trying to rape woman on flight to Edinburgh - BBC"
-date: 2026-01-09
+date: 2026-01-10
 description: "Man found guilty of trying to rape woman on flight to Edinburgh&nbsp;&nbsp;BBCAllegations at Altitude&nbsp;&nbsp;Il MattinoAberdeenshire woman left 'hysterical and crying' after alleged sexual assault on plane&nbsp;&nbsp;Aberdeen LiveSick beast jailed for trying to rape woman on Scotland-bound easyJet flight&nbsp;&nbsp;The Scottish SunPassenger accused of trying to rape woman on flight to Edinburgh&nbsp;&nbsp;STV News"
 summary: "Man found guilty of trying to rape woman on flight to Edinburgh&nbsp;&nbsp;BBCAllegations at Altitude&nbsp;&nbsp;Il MattinoAberdeenshire woman left 'hysterical and crying' after alleged sexual assault on plane&nbsp;&nbsp;Aberdeen LiveSick beast jailed for trying to rape woman on Scotland-bound easyJet flight&nbsp;&nbsp;The Scottish SunPassenger accused of trying to rape woman on flight to Edinburgh&nbsp;&nbsp;STV News"
 slug: "man-found-guilty-of-trying-to-rape-woman-on-flight-to-edinburgh-bbc"

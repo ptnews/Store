@@ -1,6 +1,6 @@
 ---
 title: "The tragic life and principled politics of Trần Đức Thảo - Aeon"
-date: 2026-01-09
+date: 2026-01-10
 description: "The tragic life and principled politics of Trần Đức Thảo&nbsp;&nbsp;Aeon"
 summary: "The tragic life and principled politics of Trần Đức Thảo&nbsp;&nbsp;Aeon"
 slug: "the-tragic-life-and-principled-politics-of-tr-n-c-th-o-aeon"

@@ -1,6 +1,6 @@
 ---
 title: "'I feel free': Australia's social media ban, one month on"
-date: 2026-01-09
+date: 2026-01-10
 description: "Some say they've lost interest in social media since the ban, while others say nothing has changed."
 summary: "Some say they've lost interest in social media since the ban, while others say nothing has changed."
 slug: "i-feel-free-australia-s-social-media-ban-one-month-on"

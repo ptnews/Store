@@ -1,6 +1,6 @@
 ---
 title: "Nicolai Tangen Manages Trillions of Dollars, but His Podcast Made Him Famous - The New York Times"
-date: 2026-01-09
+date: 2026-01-10
 description: "Nicolai Tangen Manages Trillions of Dollars, but His Podcast Made Him Famous&nbsp;&nbsp;The New York Times"
 summary: "Nicolai Tangen Manages Trillions of Dollars, but His Podcast Made Him Famous&nbsp;&nbsp;The New York Times"
 slug: "nicolai-tangen-manages-trillions-of-dollars-but-his-podcast-made-him-famous-the-new-york-times"

@@ -1,6 +1,6 @@
 ---
 title: "X could face UK ban over deepfakes, minister says"
-date: 2026-01-09
+date: 2026-01-10
 description: "It comes after government urged Ofcom to use all its powers – up to and including an effective ban – against X."
 summary: "It comes after government urged Ofcom to use all its powers – up to and including an effective ban – against X."
 slug: "x-could-face-uk-ban-over-deepfakes-minister-says"

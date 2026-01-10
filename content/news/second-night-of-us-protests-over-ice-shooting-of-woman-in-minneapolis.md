@@ -1,6 +1,6 @@
 ---
 title: "Second night of US protests over ICE shooting of woman in Minneapolis"
-date: 2026-01-09
+date: 2026-01-10
 description: "Protests over the killing of Renee Good took place in Houston, Cincinnati, Washington DC and Philadelphia."
 summary: "Protests over the killing of Renee Good took place in Houston, Cincinnati, Washington DC and Philadelphia."
 slug: "second-night-of-us-protests-over-ice-shooting-of-woman-in-minneapolis"

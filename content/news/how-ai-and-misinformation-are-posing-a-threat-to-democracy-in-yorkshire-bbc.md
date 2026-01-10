@@ -1,6 +1,6 @@
 ---
 title: "How AI and misinformation are posing a threat to democracy in Yorkshire - BBC"
-date: 2026-01-09
+date: 2026-01-10
 description: "How AI and misinformation are posing a threat to democracy in Yorkshire&nbsp;&nbsp;BBC"
 summary: "How AI and misinformation are posing a threat to democracy in Yorkshire&nbsp;&nbsp;BBC"
 slug: "how-ai-and-misinformation-are-posing-a-threat-to-democracy-in-yorkshire-bbc"

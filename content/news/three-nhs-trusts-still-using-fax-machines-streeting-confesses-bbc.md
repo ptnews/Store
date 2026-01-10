@@ -1,6 +1,6 @@
 ---
 title: "Three NHS trusts still using fax machines, Streeting confesses - BBC"
-date: 2026-01-09
+date: 2026-01-10
 description: "Three NHS trusts still using fax machines, Streeting confesses&nbsp;&nbsp;BBC"
 summary: "Three NHS trusts still using fax machines, Streeting confesses&nbsp;&nbsp;BBC"
 slug: "three-nhs-trusts-still-using-fax-machines-streeting-confesses-bbc"

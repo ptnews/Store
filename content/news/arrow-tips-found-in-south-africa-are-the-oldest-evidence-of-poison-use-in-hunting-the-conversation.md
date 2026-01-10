@@ -1,6 +1,6 @@
 ---
 title: "Arrow tips found in South Africa are the oldest evidence of poison use in hunting - The Conversation"
-date: 2026-01-09
+date: 2026-01-10
 description: "Arrow tips found in South Africa are the oldest evidence of poison use in hunting&nbsp;&nbsp;The ConversationScientists Discover Oldest Poison, on 60,000-Year-Old Arrows&nbsp;&nbsp;The New York TimesHumans Made Poisoned Arrowheads Thousands of Years Earlier Than Previously Thought&nbsp;&nbsp;Scientific American60,000-year-old poison arrowheads show early humans’ skillful hunting&nbsp;&nbsp;Science News60,000-year-old poison arrows from South Africa reveal the world’s earliest poisoned weapon..."
 summary: "Arrow tips found in South Africa are the oldest evidence of poison use in hunting&nbsp;&nbsp;The ConversationScientists Discover Oldest Poison, on 60,000-Year-Old Arrows&nbsp;&nbsp;The New York TimesHumans Made Poisoned Arrowheads Thousands of Years Earlier Than Previously Thought&nbsp;&nbsp;Scientific American60,000-year-old poison arrowheads show early humans’ skillful hunting&nbsp;&nbsp;Science News60,000-year-old poison arrows from South Africa reveal the world’s earliest poisoned weapon..."
 slug: "arrow-tips-found-in-south-africa-are-the-oldest-evidence-of-poison-use-in-hunting-the-conversation"

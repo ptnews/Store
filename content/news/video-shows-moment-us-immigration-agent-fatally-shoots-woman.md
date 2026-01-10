@@ -1,6 +1,6 @@
 ---
 title: "Video shows moment US immigration agent fatally shoots woman"
-date: 2026-01-09
+date: 2026-01-10
 description: "A woman in a car was shot and killed by a US immigration officer on a residential street in Minnesota."
 summary: "A woman in a car was shot and killed by a US immigration officer on a residential street in Minnesota."
 slug: "video-shows-moment-us-immigration-agent-fatally-shoots-woman"
