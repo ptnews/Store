@@ -1,8 +1,8 @@
 ---
 title: "Trump says US needs to 'own' Greenland to prevent Russia and China from taking it"
 date: 2026-01-10
-description: "We will do it \"the easy way\" or \"the hard way\", he said, but Denmark says the territory is not for sale."
-summary: "We will do it \"the easy way\" or \"the hard way\", he said, but Denmark says the territory is not for sale."
+description: "The US will do it \"the easy way\" or \"the hard way\", he says, but Denmark stresses the territory is not for sale."
+summary: "The US will do it \"the easy way\" or \"the hard way\", he says, but Denmark stresses the territory is not for sale."
 slug: "trump-says-us-needs-to-own-greenland-to-prevent-russia-and-china-from-taking-it"
 image: ''
 link: 'https://www.bbc.com/news/articles/c78vj5n7jg3o?at_medium=RSS&at_campaign=rss'
@@ -18,4 +18,4 @@ tags:
 
 draft: false
 ---
-We will do it "the easy way" or "the hard way", he said, but Denmark says the territory is not for sale.
+The US will do it "the easy way" or "the hard way", he says, but Denmark stresses the territory is not for sale.
