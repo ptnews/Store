@@ -1,16 +1,16 @@
 ---
-title: "Left-wing group backs tens of thousands of anti-ICE demonstrations nationwide"
+title: "Left-wing group backs tens of thousands of anti-ICE demonstrators nationwide"
 date: 2026-01-11
 description: "Renee Nicole Good&apos;s death sparked tens of thousands of anti-ICE protesters to demonstrate across major U.S. cities this weekend in an event organized by a left-wing group."
 summary: "Renee Nicole Good&apos;s death sparked tens of thousands of anti-ICE protesters to demonstrate across major U.S. cities this weekend in an event organized by a left-wing group."
-slug: "left-wing-group-backs-tens-of-thousands-of-anti-ice-demonstrations-nationwide"
+slug: "left-wing-group-backs-tens-of-thousands-of-anti-ice-demonstrators-nationwide"
 image: ''
 link: 'https://www.foxnews.com/politics/left-wing-group-backs-tens-thousands-anti-ice-demonstrations-nationwide'
 source: 'https://feeds.foxnews.com/foxnews/latest'
 categories:
 - 'feeds.foxnews.com'
 tags:
-- 'demonstrations'
+- 'demonstrators'
 - 'nationwide'
 - 'thousands'
 - 'group'
