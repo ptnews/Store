@@ -1,8 +1,8 @@
 ---
 title: "Nobel Institute shuts down talk of Venezuelan leader sharing Peace Prize with Trump"
 date: 2026-01-10
-description: "Nobel Institute rejects Venezuelan leader María Corina Machado&apos;s suggestion to transfer her Peace Prize to Trump, stating awards &apos;cannot be transferred.&apos;"
-summary: "Nobel Institute rejects Venezuelan leader María Corina Machado&apos;s suggestion to transfer her Peace Prize to Trump, stating awards &apos;cannot be transferred.&apos;"
+description: "Nobel Institute rejects suggestion from Venezuelan leader María Corina Machado to transfer her Peace Prize to Trump, stating awards &quot;cannot be transferred.&quot;"
+summary: "Nobel Institute rejects suggestion from Venezuelan leader María Corina Machado to transfer her Peace Prize to Trump, stating awards &quot;cannot be transferred.&quot;"
 slug: "nobel-institute-shuts-down-talk-of-venezuelan-leader-sharing-peace-prize-with-trump"
 image: ''
 link: 'https://www.foxnews.com/world/nobel-institute-shuts-down-talk-venezuelan-leader-sharing-peace-prize-trump'

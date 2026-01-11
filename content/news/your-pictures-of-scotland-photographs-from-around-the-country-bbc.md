@@ -1,8 +1,8 @@
 ---
 title: "Your pictures of Scotland: Photographs from around the country - BBC"
 date: 2026-01-11
-description: "Your pictures of Scotland: Photographs from around the country&nbsp;&nbsp;BBCView Full Coverage on Google News"
-summary: "Your pictures of Scotland: Photographs from around the country&nbsp;&nbsp;BBCView Full Coverage on Google News"
+description: "Your pictures of Scotland: Photographs from around the country&nbsp;&nbsp;BBC"
+summary: "Your pictures of Scotland: Photographs from around the country&nbsp;&nbsp;BBC"
 slug: "your-pictures-of-scotland-photographs-from-around-the-country-bbc"
 image: ''
 link: 'https://news.google.com/rss/articles/CBMiWkFVX3lxTE96YW0zTzdWaUF3bjhYYmtoaHJsbG5ybU5oR1FuU3VWTTZ4ME5Rc2lRZlNJMHE5VHdaellqc1ExdHI1Z0tKeDhtTk9BY29xTVJHajRLZ3AzZUFtZ9IBX0FVX3lxTE1kcjBkb2xQYk5xbU5DeHpiWmg2OVdaTHhEeXFNdVUzSnFLU0twbHRndm5FWkNRdXdLNjFteFdRelEwTXhOZ2VPd1JfZHlfXzdOVHVKaHpSaHltX3dMSnFr?oc=5'
@@ -18,4 +18,4 @@ tags:
 
 draft: false
 ---
-<a href="https://news.google.com/rss/articles/CBMiWkFVX3lxTE96YW0zTzdWaUF3bjhYYmtoaHJsbG5ybU5oR1FuU3VWTTZ4ME5Rc2lRZlNJMHE5VHdaellqc1ExdHI1Z0tKeDhtTk9BY29xTVJHajRLZ3AzZUFtZ9IBX0FVX3lxTE1kcjBkb2xQYk5xbU5DeHpiWmg2OVdaTHhEeXFNdVUzSnFLU0twbHRndm5FWkNRdXdLNjFteFdRelEwTXhOZ2VPd1JfZHlfXzdOVHVKaHpSaHltX3dMSnFr?oc=5" target="_blank">Your pictures of Scotland: Photographs from around the country</a>&nbsp;&nbsp;<font color="#6f6f6f">BBC</font><strong><a href="https://news.google.com/stories/CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2otel82aUVCRVdHa0NIMHJrU05DZ0FQAQ?hl=en-US&gl=US&ceid=US:en&oc=5" target="_blank">View Full Coverage on Google News</a></strong>
+<a href="https://news.google.com/rss/articles/CBMiWkFVX3lxTE96YW0zTzdWaUF3bjhYYmtoaHJsbG5ybU5oR1FuU3VWTTZ4ME5Rc2lRZlNJMHE5VHdaellqc1ExdHI1Z0tKeDhtTk9BY29xTVJHajRLZ3AzZUFtZ9IBX0FVX3lxTE1kcjBkb2xQYk5xbU5DeHpiWmg2OVdaTHhEeXFNdVUzSnFLU0twbHRndm5FWkNRdXdLNjFteFdRelEwTXhOZ2VPd1JfZHlfXzdOVHVKaHpSaHltX3dMSnFr?oc=5" target="_blank">Your pictures of Scotland: Photographs from around the country</a>&nbsp;&nbsp;<font color="#6f6f6f">BBC</font>
