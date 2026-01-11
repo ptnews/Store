@@ -1,0 +1,21 @@
+---
+title: "China, Russia, Iran start 'BRICS Plus' naval exercises in South African waters - Reuters"
+date: 2026-01-11
+description: "China, Russia, Iran start 'BRICS Plus' naval exercises in South African waters&nbsp;&nbsp;ReutersSouth Africa defends BRICS naval drills as ‘essential’ amid tensions&nbsp;&nbsp;Al JazeeraSouth Africa's strained ties with US face new test - war games with China, Iran and Russia&nbsp;&nbsp;BBCChina, Russia and Iran send ships to South Africa ahead of naval drills&nbsp;&nbsp;Financial TimesRussia, Iran and China join naval drill in South Africa, as tensions with US rise: 'A pawn in the power ga..."
+summary: "China, Russia, Iran start 'BRICS Plus' naval exercises in South African waters&nbsp;&nbsp;ReutersSouth Africa defends BRICS naval drills as ‘essential’ amid tensions&nbsp;&nbsp;Al JazeeraSouth Africa's strained ties with US face new test - war games with China, Iran and Russia&nbsp;&nbsp;BBCChina, Russia and Iran send ships to South Africa ahead of naval drills&nbsp;&nbsp;Financial TimesRussia, Iran and China join naval drill in South Africa, as tensions with US rise: 'A pawn in the power ga..."
+slug: "china-russia-iran-start-brics-plus-naval-exercises-in-south-african-waters-reuters"
+image: ''
+link: 'https://news.google.com/rss/articles/CBMiuwFBVV95cUxQNUxaYWR5dEt4M2EyVGUzSlVXZmM2aTBUazhQbnBtRHM0X3hUejhhWnlBcUpCTUdQdThTY1VsMHZpNFRNbkRsYllHeHBlRlgxZ044UHI5eHdadi1KMXVaSmF5Um1jQ1JvV0JRcW9UUlNrX1RtMF9peEVyZklybXpXM1V0UGN2WGJSSlpMcFFmcVB6a0RlbEtvSkdKTWZlYmNJRTI5a1RFSHpyUy1oNWZKelNvbkFGQ2hnTHVj?oc=5'
+source: 'https://news.google.com/rss/topics/CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx1YlY4U0FtVnVHZ0pWVXlnQVAB?hl=en-US&gl=US&ceid=US:en'
+categories:
+- 'news.google.com'
+tags:
+- 'exercises'
+- 'african'
+- 'reuters'
+- 'russia'
+- 'waters'
+
+draft: false
+---
+<ol><li><a href="https://news.google.com/rss/articles/CBMiuwFBVV95cUxQNUxaYWR5dEt4M2EyVGUzSlVXZmM2aTBUazhQbnBtRHM0X3hUejhhWnlBcUpCTUdQdThTY1VsMHZpNFRNbkRsYllHeHBlRlgxZ044UHI5eHdadi1KMXVaSmF5Um1jQ1JvV0JRcW9UUlNrX1RtMF9peEVyZklybXpXM1V0UGN2WGJSSlpMcFFmcVB6a0RlbEtvSkdKTWZlYmNJRTI5a1RFSHpyUy1oNWZKelNvbkFGQ2hnTHVj?oc=5" target="_blank">China, Russia, Iran start 'BRICS Plus' naval exercises in South African waters</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font></li><li><a href="https://news.google.com/rss/articles/CBMiqwFBVV95cUxNeGY0d1h4X0szRS05VUZxNFNndXpudkU1aHg3d0toY182TnpnYjNsVTNmNmlDQTh2ZV9hem42M0diM2tVcmQ1WWlRZ0YzMmUxV1J1czVrT1NnbWs0RjZmZVhRdTVoY1lDN2pQTy0yOWRlMnRtS3pDN214ZlcwQUlsYmZvT0hRRHZ2WkI0OHl3ejRoOFdlcWE1MnBGLTNTdGZ2YllLc2hIbXRpTTDSAbABQVVfeXFMTmlvN2dndXJ5cFo2V243VGFtUE9CUWEwM2ItNUdnLVF1WWtoWlA4a0UtZHlxRFAzTGMtSEpIYXhNWGUwbDJPUVZsVjdKMVFyb1lhVGVFRGRDRGV1Y2Zrd3BYZk5xS01yM2xCeW5ZcUZMVEhzNWFOSU5acnJvZnY2dDkxUUh6bUJMR2xjbnJtM3RnN2FOeE9BWk1wT0E0WEVIU28wYzkxZEEyZWxTYTZvVHA?oc=5" target="_blank">South Africa defends BRICS naval drills as ‘essential’ amid tensions</a>&nbsp;&nbsp;<font color="#6f6f6f">Al Jazeera</font></li><li><a href="https://news.google.com/rss/articles/CBMiWkFVX3lxTE5BSXdDbkJUMW1meFR4TFBkZGw3QS1xNGJDa2lhbWdSSU43aWl6dmhISE1Ybk9PTURGU0FSTExLRXg2SVIwRlJsOXR3NGhVcnYzb05KSTJlTzNtQQ?oc=5" target="_blank">South Africa's strained ties with US face new test - war games with China, Iran and Russia</a>&nbsp;&nbsp;<font color="#6f6f6f">BBC</font></li><li><a href="https://news.google.com/rss/articles/CBMicEFVX3lxTE9ha2pPcEhXN0tkSzBrdmt3bE9jTjA2clV0d3VsVHRqOTM2RXFibzRpRmRoU0pSSzJ4c2RmMFFrSlJVQmdsWG9yWGdBblNUd3JiWi1TcVpqVWdRN1Z0Q1hwZFZCMk5CR1VFclB4djFrd1I?oc=5" target="_blank">China, Russia and Iran send ships to South Africa ahead of naval drills</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font></li><li><a href="https://news.google.com/rss/articles/CBMi4AFBVV95cUxPMm55UURtUkVITlJqUFJRMF9BaUhrNnRTYml5SWRLenpsTU01YUp2NjlfclZJREZQRkFvWUh1dEFPcDlKWEtHOXpibWt3SWIxbUw4UnlRbENVWmFpeWpINGhib0h0NHY1MmRTbTZlajlRdjBfOHBlTlRNLWxvR0RHdU13bWJYS1JlekRNVHlVcmdlWUc3dy1JemNyUHRZSjZKaFUyb0ljUERzdngzM0Zkb29mQWdhRWFqWXdLNTRtVF9lNVk2Yk9nVzBUU29HR2FWSV8tZ0ptMktyR2ZpRHdlVw?oc=5" target="_blank">Russia, Iran and China join naval drill in South Africa, as tensions with US rise: 'A pawn in the power games'</a>&nbsp;&nbsp;<font color="#6f6f6f">New York Post</font></li></ol>
