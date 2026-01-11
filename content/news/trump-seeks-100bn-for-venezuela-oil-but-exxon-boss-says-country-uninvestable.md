@@ -1,6 +1,6 @@
 ---
 title: "Trump seeks $100bn for Venezuela oil, but Exxon boss says country 'uninvestable'"
-date: 2026-01-10
+date: 2026-01-11
 description: "Oil executives expressed caution, with one executive saying Venezuela had seized their assets twice.
 "
 summary: "Oil executives expressed caution, with one executive saying Venezuela had seized their assets twice.

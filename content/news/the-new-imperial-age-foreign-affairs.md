@@ -1,6 +1,6 @@
 ---
 title: "The New Imperial Age - Foreign Affairs"
-date: 2026-01-10
+date: 2026-01-11
 description: "The New Imperial Age&nbsp;&nbsp;Foreign AffairsDoes Anyone Else Have 1898 Déjà Vu?&nbsp;&nbsp;The AtlanticImperialism Is Inevitable? Well So Is Resistance to It&nbsp;&nbsp;Zeteo | SubstackAmerica’s imperial fights are not necessarily ours&nbsp;&nbsp;New StatesmanAmerica’s New Age of Empire&nbsp;&nbsp;Cambodianess"
 summary: "The New Imperial Age&nbsp;&nbsp;Foreign AffairsDoes Anyone Else Have 1898 Déjà Vu?&nbsp;&nbsp;The AtlanticImperialism Is Inevitable? Well So Is Resistance to It&nbsp;&nbsp;Zeteo | SubstackAmerica’s imperial fights are not necessarily ours&nbsp;&nbsp;New StatesmanAmerica’s New Age of Empire&nbsp;&nbsp;Cambodianess"
 slug: "the-new-imperial-age-foreign-affairs"

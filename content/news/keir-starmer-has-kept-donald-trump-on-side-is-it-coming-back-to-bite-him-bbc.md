@@ -1,6 +1,6 @@
 ---
 title: "Keir Starmer has kept Donald Trump on side - is it coming back to bite him? - BBC"
-date: 2026-01-10
+date: 2026-01-11
 description: "Keir Starmer has kept Donald Trump on side - is it coming back to bite him?&nbsp;&nbsp;BBCThe US and UK are joined at the hip. Neither government seems to realise that&nbsp;&nbsp;The TelegraphHelen Chandler-Wilde: Starmer’s Labour Walks the Line&nbsp;&nbsp;Bloomberg.comThe world’s rules have changed — Starmer must spell out Britain’s plan&nbsp;&nbsp;The TimesPecksniff: Starmer’s appeasement is no sanctuary in Trump’s terrifying new world&nbsp;&nbsp;East Anglia Bylines"
 summary: "Keir Starmer has kept Donald Trump on side - is it coming back to bite him?&nbsp;&nbsp;BBCThe US and UK are joined at the hip. Neither government seems to realise that&nbsp;&nbsp;The TelegraphHelen Chandler-Wilde: Starmer’s Labour Walks the Line&nbsp;&nbsp;Bloomberg.comThe world’s rules have changed — Starmer must spell out Britain’s plan&nbsp;&nbsp;The TimesPecksniff: Starmer’s appeasement is no sanctuary in Trump’s terrifying new world&nbsp;&nbsp;East Anglia Bylines"
 slug: "keir-starmer-has-kept-donald-trump-on-side-is-it-coming-back-to-bite-him-bbc"

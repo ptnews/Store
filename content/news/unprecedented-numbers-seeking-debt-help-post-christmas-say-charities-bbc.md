@@ -1,6 +1,6 @@
 ---
 title: "'Unprecedented' numbers seeking debt help post-Christmas, say charities - BBC"
-date: 2026-01-10
+date: 2026-01-11
 description: "'Unprecedented' numbers seeking debt help post-Christmas, say charities&nbsp;&nbsp;BBCAdvice NI issues urgent plea to people struggling with post-Christmas debt and bills&nbsp;&nbsp;Belfast LiveRecord numbers seeked debt advice over Christmas and New Year&nbsp;&nbsp;Credit ConnectThousands of UK households warned not to miss out on £24bn unclaimed support&nbsp;&nbsp;Birmingham LiveSix money tips to help people struggling with debt or repayments this month&nbsp;&nbsp;MSN"
 summary: "'Unprecedented' numbers seeking debt help post-Christmas, say charities&nbsp;&nbsp;BBCAdvice NI issues urgent plea to people struggling with post-Christmas debt and bills&nbsp;&nbsp;Belfast LiveRecord numbers seeked debt advice over Christmas and New Year&nbsp;&nbsp;Credit ConnectThousands of UK households warned not to miss out on £24bn unclaimed support&nbsp;&nbsp;Birmingham LiveSix money tips to help people struggling with debt or repayments this month&nbsp;&nbsp;MSN"
 slug: "unprecedented-numbers-seeking-debt-help-post-christmas-say-charities-bbc"

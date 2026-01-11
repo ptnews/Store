@@ -1,6 +1,6 @@
 ---
 title: "Colombia sees 'real threat' of US military action, president tells BBC"
-date: 2026-01-10
+date: 2026-01-11
 description: "Gustavo Petro tells the BBC's Ione Wells that the United States is treating other nations as part of a US \"empire\", after Trump threatened Colombia with military action."
 summary: "Gustavo Petro tells the BBC's Ione Wells that the United States is treating other nations as part of a US \"empire\", after Trump threatened Colombia with military action."
 slug: "colombia-sees-real-threat-of-us-military-action-president-tells-bbc"

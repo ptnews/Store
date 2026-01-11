@@ -1,6 +1,6 @@
 ---
 title: "Swiss search souls and question government after ski resort fire"
-date: 2026-01-10
+date: 2026-01-11
 description: "The New Year's Eve fire at a bar in Crans-Montana killed 40 people and injured 116. "
 summary: "The New Year's Eve fire at a bar in Crans-Montana killed 40 people and injured 116. "
 slug: "swiss-search-souls-and-question-government-after-ski-resort-fire"

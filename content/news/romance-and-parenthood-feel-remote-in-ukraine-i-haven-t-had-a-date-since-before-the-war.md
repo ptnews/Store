@@ -1,6 +1,6 @@
 ---
 title: "Romance and parenthood feel remote in Ukraine: 'I haven't had a date since before the war'"
-date: 2026-01-10
+date: 2026-01-11
 description: "Tumbling marriage and birth rates are shaping the future of a country whose population was already falling."
 summary: "Tumbling marriage and birth rates are shaping the future of a country whose population was already falling."
 slug: "romance-and-parenthood-feel-remote-in-ukraine-i-haven-t-had-a-date-since-before-the-war"

@@ -1,6 +1,6 @@
 ---
 title: "China tops Japanese public's security worries in latest government poll - Reuters"
-date: 2026-01-10
+date: 2026-01-11
 description: "China tops Japanese public's security worries in latest government poll&nbsp;&nbsp;ReutersRecord high poll interest in SDF in wake of disaster relief efforts&nbsp;&nbsp;朝日新聞Record 45 pct in Japan Want SDF Enhancement: Survey&nbsp;&nbsp;nippon.comJapan’s Defense Dilemma: Rising Concerns Over China’s Military Ambitions&nbsp;&nbsp;DevdiscourseChina tops Japanese public’s security worries in latest government poll&nbsp;&nbsp;The Straits Times"
 summary: "China tops Japanese public's security worries in latest government poll&nbsp;&nbsp;ReutersRecord high poll interest in SDF in wake of disaster relief efforts&nbsp;&nbsp;朝日新聞Record 45 pct in Japan Want SDF Enhancement: Survey&nbsp;&nbsp;nippon.comJapan’s Defense Dilemma: Rising Concerns Over China’s Military Ambitions&nbsp;&nbsp;DevdiscourseChina tops Japanese public’s security worries in latest government poll&nbsp;&nbsp;The Straits Times"
 slug: "china-tops-japanese-public-s-security-worries-in-latest-government-poll-reuters"

@@ -1,6 +1,6 @@
 ---
 title: "'Hermès of durian': The luxury fruit cashing in on China's billion-dollar appetite"
-date: 2026-01-10
+date: 2026-01-11
 description: "A former gold mining town in Malaysia has seen its riches turn a new shade of yellow, thanks to this pungent fruit."
 summary: "A former gold mining town in Malaysia has seen its riches turn a new shade of yellow, thanks to this pungent fruit."
 slug: "herm-s-of-durian-the-luxury-fruit-cashing-in-on-china-s-billion-dollar-appetite"

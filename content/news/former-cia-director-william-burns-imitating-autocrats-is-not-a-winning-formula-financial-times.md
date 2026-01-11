@@ -1,6 +1,6 @@
 ---
 title: "Former CIA director William Burns: ‘Imitating autocrats is not a winning formula’ - Financial Times"
-date: 2026-01-10
+date: 2026-01-11
 description: "Former CIA director William Burns: ‘Imitating autocrats is not a winning formula’&nbsp;&nbsp;Financial Times"
 summary: "Former CIA director William Burns: ‘Imitating autocrats is not a winning formula’&nbsp;&nbsp;Financial Times"
 slug: "former-cia-director-william-burns-imitating-autocrats-is-not-a-winning-formula-financial-times"

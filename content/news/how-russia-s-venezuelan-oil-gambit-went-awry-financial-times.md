@@ -1,6 +1,6 @@
 ---
 title: "How Russia’s Venezuelan oil gambit went awry - Financial Times"
-date: 2026-01-10
+date: 2026-01-11
 description: "How Russia’s Venezuelan oil gambit went awry&nbsp;&nbsp;Financial TimesWhy Putin Went Quiet When Challenged by Trump Over Venezuela&nbsp;&nbsp;The New York TimesWhy Russia has kept quiet over Maduro's ouster in Venezuela&nbsp;&nbsp;dw.comAnalysis: Trump’s gunboat diplomacy presents peril – and opportunity – for Putin&nbsp;&nbsp;CNNRussia and Venezuela—Toward a New Yalta?&nbsp;&nbsp;American Enterprise Institute - AEI"
 summary: "How Russia’s Venezuelan oil gambit went awry&nbsp;&nbsp;Financial TimesWhy Putin Went Quiet When Challenged by Trump Over Venezuela&nbsp;&nbsp;The New York TimesWhy Russia has kept quiet over Maduro's ouster in Venezuela&nbsp;&nbsp;dw.comAnalysis: Trump’s gunboat diplomacy presents peril – and opportunity – for Putin&nbsp;&nbsp;CNNRussia and Venezuela—Toward a New Yalta?&nbsp;&nbsp;American Enterprise Institute - AEI"
 slug: "how-russia-s-venezuelan-oil-gambit-went-awry-financial-times"

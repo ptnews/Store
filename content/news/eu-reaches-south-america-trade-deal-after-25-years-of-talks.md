@@ -1,6 +1,6 @@
 ---
 title: "EU reaches South America trade deal after 25 years of talks "
-date: 2026-01-10
+date: 2026-01-11
 description: "Some farmers in Europe opposed the deal, but the EU Commission said it had listened to their concerns."
 summary: "Some farmers in Europe opposed the deal, but the EU Commission said it had listened to their concerns."
 slug: "eu-reaches-south-america-trade-deal-after-25-years-of-talks"

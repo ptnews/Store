@@ -1,6 +1,6 @@
 ---
 title: "Russia hits Ukraine with Oreshnik hypersonic missile: Why it matters - Al Jazeera"
-date: 2026-01-10
+date: 2026-01-11
 description: "Russia hits Ukraine with Oreshnik hypersonic missile: Why it matters&nbsp;&nbsp;Al JazeeraWhat is Russia’s Oreshnik ballistic missile and what can it do?&nbsp;&nbsp;CNNRussian Offensive Campaign Assessment, January 9, 2026&nbsp;&nbsp;Institute for the Study of WarWith Missile Strike on Ukraine, Putin Delivers a Warning to Europe&nbsp;&nbsp;The New York TimesNews Wrap: Zelenskyy says Russia used hypersonic missile to send Europe a message&nbsp;&nbsp;PBS"
 summary: "Russia hits Ukraine with Oreshnik hypersonic missile: Why it matters&nbsp;&nbsp;Al JazeeraWhat is Russia’s Oreshnik ballistic missile and what can it do?&nbsp;&nbsp;CNNRussian Offensive Campaign Assessment, January 9, 2026&nbsp;&nbsp;Institute for the Study of WarWith Missile Strike on Ukraine, Putin Delivers a Warning to Europe&nbsp;&nbsp;The New York TimesNews Wrap: Zelenskyy says Russia used hypersonic missile to send Europe a message&nbsp;&nbsp;PBS"
 slug: "russia-hits-ukraine-with-oreshnik-hypersonic-missile-why-it-matters-al-jazeera"

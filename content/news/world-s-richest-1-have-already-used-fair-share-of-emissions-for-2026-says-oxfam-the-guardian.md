@@ -1,6 +1,6 @@
 ---
 title: "World’s richest 1% have already used fair share of emissions for 2026, says Oxfam - The Guardian"
-date: 2026-01-10
+date: 2026-01-11
 description: "World’s richest 1% have already used fair share of emissions for 2026, says Oxfam&nbsp;&nbsp;The GuardianTop 1% have blown their 2026 carbon budget. Do we need a wealth tax?&nbsp;&nbsp;Euronews.comNet Zero: Fantasy, Red Herring, or Reality?&nbsp;&nbsp;CounterPunch.orgNew study reveals alarming trend among wealthy people: 'We have seen a constant increase'&nbsp;&nbsp;The Cool Down‘Pollutocrats’ Burn Through Their Annual Carbon Budget in 10 Days, Oxfam Reports&nbsp;&nbsp;The Energy Mix"
 summary: "World’s richest 1% have already used fair share of emissions for 2026, says Oxfam&nbsp;&nbsp;The GuardianTop 1% have blown their 2026 carbon budget. Do we need a wealth tax?&nbsp;&nbsp;Euronews.comNet Zero: Fantasy, Red Herring, or Reality?&nbsp;&nbsp;CounterPunch.orgNew study reveals alarming trend among wealthy people: 'We have seen a constant increase'&nbsp;&nbsp;The Cool Down‘Pollutocrats’ Burn Through Their Annual Carbon Budget in 10 Days, Oxfam Reports&nbsp;&nbsp;The Energy Mix"
 slug: "world-s-richest-1-have-already-used-fair-share-of-emissions-for-2026-says-oxfam-the-guardian"

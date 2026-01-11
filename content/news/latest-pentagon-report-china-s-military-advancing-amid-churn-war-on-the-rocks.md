@@ -1,6 +1,6 @@
 ---
 title: "Latest Pentagon Report: China’s Military Advancing Amid Churn - War on the Rocks"
-date: 2026-01-10
+date: 2026-01-11
 description: "Latest Pentagon Report: China’s Military Advancing Amid Churn&nbsp;&nbsp;War on the RocksWashington’s China Reset Leaves India Exposed in a World of Spheres of Influence&nbsp;&nbsp;Deccan HeraldThe Pentagon’s (Slimmed Down) 2025 China Military Power Report&nbsp;&nbsp;Federation of American ScientistsHow Far Will China Project Its Military Power?&nbsp;&nbsp;Carnegie Endowment for International PeaceOverview of China’s Naval and Maritime Forces: Conference Summary&nbsp;&nbsp;Maritime Fairt..."
 summary: "Latest Pentagon Report: China’s Military Advancing Amid Churn&nbsp;&nbsp;War on the RocksWashington’s China Reset Leaves India Exposed in a World of Spheres of Influence&nbsp;&nbsp;Deccan HeraldThe Pentagon’s (Slimmed Down) 2025 China Military Power Report&nbsp;&nbsp;Federation of American ScientistsHow Far Will China Project Its Military Power?&nbsp;&nbsp;Carnegie Endowment for International PeaceOverview of China’s Naval and Maritime Forces: Conference Summary&nbsp;&nbsp;Maritime Fairt..."
 slug: "latest-pentagon-report-china-s-military-advancing-amid-churn-war-on-the-rocks"

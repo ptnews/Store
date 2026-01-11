@@ -1,6 +1,6 @@
 ---
 title: "From \"America First\" to \"Manifest Destiny\": MAGA eyes foreign expansion - Axios"
-date: 2026-01-10
+date: 2026-01-11
 description: "From \"America First\" to \"Manifest Destiny\": MAGA eyes foreign expansion&nbsp;&nbsp;AxiosOpinion | This is the real MAGA foreign policy&nbsp;&nbsp;The Washington PostThe myth of MAGA isolationism&nbsp;&nbsp;patrickruffini.comThe new GOP hawks&nbsp;&nbsp;The Christian CenturyPOOR: Will Trump revive the anti-war left?&nbsp;&nbsp;sandmountainreporter.com"
 summary: "From \"America First\" to \"Manifest Destiny\": MAGA eyes foreign expansion&nbsp;&nbsp;AxiosOpinion | This is the real MAGA foreign policy&nbsp;&nbsp;The Washington PostThe myth of MAGA isolationism&nbsp;&nbsp;patrickruffini.comThe new GOP hawks&nbsp;&nbsp;The Christian CenturyPOOR: Will Trump revive the anti-war left?&nbsp;&nbsp;sandmountainreporter.com"
 slug: "from-america-first-to-manifest-destiny-maga-eyes-foreign-expansion-axios"

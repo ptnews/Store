@@ -1,6 +1,6 @@
 ---
 title: "As Iran protests continue, viral rumours flood the web, here are the main ones - Euronews.com"
-date: 2026-01-10
+date: 2026-01-11
 description: "As Iran protests continue, viral rumours flood the web, here are the main ones&nbsp;&nbsp;Euronews.comIran’s Gold Allegedly Flown to Russia as Supreme Leader Braces for Collapse&nbsp;&nbsp;UNITED24 MediaUK lawmaker cites reports on Russian flights to Iran, gold airlift | Iran International&nbsp;&nbsp;ایران اینترنشنالHeavy airlift flights in operation between Russia and Iran&nbsp;&nbsp;Air Cargo Week‘Preparing for life after fall’: British MP on how Khamenei regime is plannin..."
 summary: "As Iran protests continue, viral rumours flood the web, here are the main ones&nbsp;&nbsp;Euronews.comIran’s Gold Allegedly Flown to Russia as Supreme Leader Braces for Collapse&nbsp;&nbsp;UNITED24 MediaUK lawmaker cites reports on Russian flights to Iran, gold airlift | Iran International&nbsp;&nbsp;ایران اینترنشنالHeavy airlift flights in operation between Russia and Iran&nbsp;&nbsp;Air Cargo Week‘Preparing for life after fall’: British MP on how Khamenei regime is plannin..."
 slug: "as-iran-protests-continue-viral-rumours-flood-the-web-here-are-the-main-ones-euronews-com"

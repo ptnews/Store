@@ -1,6 +1,6 @@
 ---
 title: "Families call for more recognition of gambling in inquests - BBC"
-date: 2026-01-10
+date: 2026-01-11
 description: "Families call for more recognition of gambling in inquests&nbsp;&nbsp;BBC"
 summary: "Families call for more recognition of gambling in inquests&nbsp;&nbsp;BBC"
 slug: "families-call-for-more-recognition-of-gambling-in-inquests-bbc"

@@ -1,6 +1,6 @@
 ---
 title: "Musk says X outcry is 'excuse for censorship'"
-date: 2026-01-10
+date: 2026-01-11
 description: "The government is urging Ofcom to use all its powers – up to and including an effective ban – against X."
 summary: "The government is urging Ofcom to use all its powers – up to and including an effective ban – against X."
 slug: "musk-says-x-outcry-is-excuse-for-censorship"

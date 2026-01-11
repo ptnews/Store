@@ -1,6 +1,6 @@
 ---
 title: "The rise of Bishop Sipuka - The Pillar"
-date: 2026-01-10
+date: 2026-01-11
 description: "The rise of Bishop Sipuka&nbsp;&nbsp;The PillarBishop Sithembele Anton Sipuka appointed Archbishop of Cape Town&nbsp;&nbsp;Vatican NewsPope Leo XIV Transfers Bishop of South Africa’s Mthatha Diocese to the Metropolitan See of Cape Town&nbsp;&nbsp;aciafrica.orgComments - The rise of Bishop Sipuka - by Luke Coppen&nbsp;&nbsp;The Pillar"
 summary: "The rise of Bishop Sipuka&nbsp;&nbsp;The PillarBishop Sithembele Anton Sipuka appointed Archbishop of Cape Town&nbsp;&nbsp;Vatican NewsPope Leo XIV Transfers Bishop of South Africa’s Mthatha Diocese to the Metropolitan See of Cape Town&nbsp;&nbsp;aciafrica.orgComments - The rise of Bishop Sipuka - by Luke Coppen&nbsp;&nbsp;The Pillar"
 slug: "the-rise-of-bishop-sipuka-the-pillar"

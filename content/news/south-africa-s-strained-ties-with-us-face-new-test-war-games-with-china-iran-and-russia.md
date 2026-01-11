@@ -1,6 +1,6 @@
 ---
 title: "South Africa's strained ties with US face new test - war games with China, Iran and Russia"
-date: 2026-01-10
+date: 2026-01-11
 description: "The naval exercises could inflame relations with Donald Trump - who is already at loggerheads with Pretoria."
 summary: "The naval exercises could inflame relations with Donald Trump - who is already at loggerheads with Pretoria."
 slug: "south-africa-s-strained-ties-with-us-face-new-test-war-games-with-china-iran-and-russia"

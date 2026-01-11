@@ -1,6 +1,6 @@
 ---
 title: "Night of Swiss ski bar fire 'apocalyptic', woman tells Crans-Montana memorial "
-date: 2026-01-10
+date: 2026-01-11
 description: "A woman named Marie who was in a bar opposite Le Constellation helped the injured as they ran from the flames."
 summary: "A woman named Marie who was in a bar opposite Le Constellation helped the injured as they ran from the flames."
 slug: "night-of-swiss-ski-bar-fire-apocalyptic-woman-tells-crans-montana-memorial"

@@ -1,6 +1,6 @@
 ---
 title: "Russia hits Ukraine with rarely used Oreshnik missile in fresh strikes"
-date: 2026-01-10
+date: 2026-01-11
 description: "It is only the second time Moscow has deployed the hypersonic ballistic missile, which was first used to hit Dnipro in November."
 summary: "It is only the second time Moscow has deployed the hypersonic ballistic missile, which was first used to hit Dnipro in November."
 slug: "russia-hits-ukraine-with-rarely-used-oreshnik-missile-in-fresh-strikes"

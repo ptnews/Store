@@ -1,6 +1,6 @@
 ---
 title: "Author Chimamanda Ngozi Adichie's family accuse hospital of negligence over son's death"
-date: 2026-01-10
+date: 2026-01-11
 description: "A hospital in Lagos denies medical negligence over the death of Chimamanda Ngozi Adichie's 21-month-old."
 summary: "A hospital in Lagos denies medical negligence over the death of Chimamanda Ngozi Adichie's 21-month-old."
 slug: "author-chimamanda-ngozi-adichie-s-family-accuse-hospital-of-negligence-over-son-s-death"

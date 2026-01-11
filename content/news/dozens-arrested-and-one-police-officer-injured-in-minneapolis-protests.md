@@ -1,6 +1,6 @@
 ---
 title: "Dozens arrested and one police officer injured in Minneapolis protests"
-date: 2026-01-10
+date: 2026-01-11
 description: "Days after the death of Renee Good, protests continue in Minneapolis and cities across the US. "
 summary: "Days after the death of Renee Good, protests continue in Minneapolis and cities across the US. "
 slug: "dozens-arrested-and-one-police-officer-injured-in-minneapolis-protests"

@@ -1,6 +1,6 @@
 ---
 title: "'Intended killings': Tanzania's election violence ensnared unsuspecting victims - Reuters"
-date: 2026-01-10
+date: 2026-01-11
 description: "'Intended killings': Tanzania's election violence ensnared unsuspecting victims&nbsp;&nbsp;ReutersLawyers ask EACJ to nullify Tanzania election&nbsp;&nbsp;The EastAfricanIn the wake of election violence, Tanzania forms committee to explore reconciliation and constitutional change&nbsp;&nbsp;ConstitutionNetTanzania's Night of Terror: Behind the Mwanza Cafe Shooting&nbsp;&nbsp;Devdiscourse“They Were Not Protesting”: Inside Tanzania’s Election Violence&nbsp;&nbsp;Modern Diplomacy"
 summary: "'Intended killings': Tanzania's election violence ensnared unsuspecting victims&nbsp;&nbsp;ReutersLawyers ask EACJ to nullify Tanzania election&nbsp;&nbsp;The EastAfricanIn the wake of election violence, Tanzania forms committee to explore reconciliation and constitutional change&nbsp;&nbsp;ConstitutionNetTanzania's Night of Terror: Behind the Mwanza Cafe Shooting&nbsp;&nbsp;Devdiscourse“They Were Not Protesting”: Inside Tanzania’s Election Violence&nbsp;&nbsp;Modern Diplomacy"
 slug: "intended-killings-tanzania-s-election-violence-ensnared-unsuspecting-victims-reuters"
