@@ -1,8 +1,8 @@
 ---
 title: "Lost 18th-century Spanish mission unearthed after decades of searching offers 'rare snapshot'"
 date: 2026-01-11
-description: "Archaeologists from Texas Tech University discovered the lost 18th-century Mission Nuestra Señora del Espíritu Santo, solved after decades of searching."
-summary: "Archaeologists from Texas Tech University discovered the lost 18th-century Mission Nuestra Señora del Espíritu Santo, solved after decades of searching."
+description: "Archaeologists from Texas Tech University discovered the lost 18th-century Mission Nuestra Señora del Espíritu Santo after decades of searching."
+summary: "Archaeologists from Texas Tech University discovered the lost 18th-century Mission Nuestra Señora del Espíritu Santo after decades of searching."
 slug: "lost-18th-century-spanish-mission-unearthed-after-decades-of-searching-offers-rare-snapshot"
 image: ''
 link: 'https://www.foxnews.com/travel/lost-18th-century-spanish-mission-unearthed-decades-searching-offers-rare-snapshot'
