@@ -1,0 +1,21 @@
+---
+title: "Critical clue led police to suspect Chicago doctor in deaths of Ohio dentist, wife"
+date: 2026-01-11
+description: "Chicago doctor arrested in Ohio double murder case after surveillance footage allegedly shows his car at victims&apos; home during the time of killings."
+summary: "Chicago doctor arrested in Ohio double murder case after surveillance footage allegedly shows his car at victims&apos; home during the time of killings."
+slug: "critical-clue-led-police-to-suspect-chicago-doctor-in-deaths-of-ohio-dentist-wife"
+image: ''
+link: 'https://www.foxnews.com/us/critical-clue-led-police-suspect-chicago-doctor-deaths-ohio-dentist-wife'
+source: 'https://feeds.foxnews.com/foxnews/latest'
+categories:
+- 'feeds.foxnews.com'
+tags:
+- 'critical'
+- 'suspect'
+- 'chicago'
+- 'dentist'
+- 'police'
+
+draft: false
+---
+<p>Investigators followed a critical clue that led to the arrest of the Chicago doctor suspected in the <a href="https://www.foxnews.com/category/us/crime/homicide" target="_blank" rel="noopener">killings</a> of his ex-wife and her dentist husband in Ohio.</p><p><a href="https://www.foxnews.com/us/police-arrest-ex-husband-ohio-woman-slain-alongside-dentist-husband-double-murder-records-show" target="_blank" rel="noopener">Michael David McKee</a>, 39, was arrested in connection with the double murder of Spencer Tepe, 37, and Monique Tepe, 39, who were found dead at their Weinland Park home around 10 a.m. Dec. 30, officials have said.</p><p>McKee was arrested in the Chicago area after detectives tracked his vehicle through neighborhood surveillance near the couple’s home, according to court documents.</p><p>McKee's car "arrived just prior to the homicides and left shortly after," detectives said in the court documents. Investigators were able to identify the vehicle and subsequently link it to McKee.</p><p><a href="https://www.foxnews.com/us/slain-ohio-dentists-brother-in-law-says-domestic-dispute-911-call-came-from-party-guest-not-wife" target="_blank" rel="noopener"><strong>SLAIN OHIO DENTIST'S BROTHER-IN-LAW SAYS 'DOMESTIC DISPUTE' 911 CALL CAME FROM PARTY GUEST, NOT WIFE</strong></a></p><p>Detectives said they located the car in <a href="https://www.foxnews.com/category/us/us-regions/midwest/illinois" target="_blank" rel="noopener">Rockford, Illinois</a>, noting that they found evidence that McKee had been in ownership of the vehicle throughout the incident, the documents stated.</p><p><strong>READ THE DOCUMENTS – APP USERS, </strong><a href="https://static.foxnews.com/foxnews.com/content/uploads/2026/01/2025cra-000517_redacted.pdf" target="_blank" rel="noopener"><strong>CLICK HERE:</strong></a></p><p>McKee was booked at the Winnebago County Sheriff's Office in Illinois just before noon Saturday, records show. He’s being charged with <a href="https://www.foxnews.com/category/us/us-regions/midwest/ohio" target="_blank" rel="noopener">two counts of murder in Ohio</a>.</p><p>McKee’s neighbor, Gera-Lind Kolarik, told WLS-TV after his arrest that "he did not seem like somebody who would do something like this."</p><p><a href="https://www.foxnews.com/us/chilling-surveillance-video-shows-person-interest-unsolved-ohio-dentist-murder-case" target="_blank" rel="noopener"><strong>EERIE SURVEILLANCE VIDEO SHOWS 'PERSON OF INTEREST' IN UNSOLVED OHIO DENTIST MURDER CASE</strong></a></p><p>"I sat down with this man and talked with him at the pool, barbecuing, about what a beautiful day it is — and then he turns out to be [charged as] a killer," she said. "It's kind of shocking."</p><p>Detectives in Columbus believe the murders took place between 2 a.m. and 5 a.m. Dec. 30. The bodies were discovered after one of the Tepe's friends went to the couple's house and <a href="https://www.foxnews.com/us/frantic-911-calls-detail-moments-before-columbus-dentist-wife-found-dead-theres-body" target="_blank" rel="noopener noreferrer nofollow">told a 911 operator</a> he could see a body inside.</p><p>Both of the couple's <a href="https://www.foxnews.com/us/ohio-police-hunt-killer-after-dentist-wife-found-shot-death-children-safe-inside-home-timeline" target="_blank" rel="noopener">children were found safe</a> inside the home when officers arrived. Police didn't find signs of forced entry, and a weapon was not recovered from the home, officials said.</p>
