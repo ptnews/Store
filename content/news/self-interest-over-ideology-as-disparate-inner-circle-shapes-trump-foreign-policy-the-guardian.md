@@ -1,8 +1,8 @@
 ---
 title: "Self-interest over ideology as disparate inner circle shapes Trump foreign policy - The Guardian"
 date: 2026-01-11
-description: "Self-interest over ideology as disparate inner circle shapes Trump foreign policy&nbsp;&nbsp;The Guardian"
-summary: "Self-interest over ideology as disparate inner circle shapes Trump foreign policy&nbsp;&nbsp;The Guardian"
+description: "Self-interest over ideology as disparate inner circle shapes Trump foreign policy&nbsp;&nbsp;The GuardianThe Problem With America’s Venezuela Policy&nbsp;&nbsp;persuasion.community"
+summary: "Self-interest over ideology as disparate inner circle shapes Trump foreign policy&nbsp;&nbsp;The GuardianThe Problem With America’s Venezuela Policy&nbsp;&nbsp;persuasion.community"
 slug: "self-interest-over-ideology-as-disparate-inner-circle-shapes-trump-foreign-policy-the-guardian"
 image: ''
 link: 'https://news.google.com/rss/articles/CBMilAFBVV95cUxPVWRQaGNaYVdvdlNoWWcyczlvbnZuM0pueWxiRVhKdnQ2aHRfUlAxblJfcXpQOE1sS0FYaUkxOXZQR1FsV2x3TDZycjlGY2xYVTFKbk5Ua1dNbWNuZmROckw1dmZ3N29TNHI2M3ZFc3pBcGxFc00tNGQ4NVdSNk14UG9vdzI2cEVrM2lwcHJLTXBJdk9S?oc=5'
@@ -18,4 +18,4 @@ tags:
 
 draft: false
 ---
-<a href="https://news.google.com/rss/articles/CBMilAFBVV95cUxPVWRQaGNaYVdvdlNoWWcyczlvbnZuM0pueWxiRVhKdnQ2aHRfUlAxblJfcXpQOE1sS0FYaUkxOXZQR1FsV2x3TDZycjlGY2xYVTFKbk5Ua1dNbWNuZmROckw1dmZ3N29TNHI2M3ZFc3pBcGxFc00tNGQ4NVdSNk14UG9vdzI2cEVrM2lwcHJLTXBJdk9S?oc=5" target="_blank">Self-interest over ideology as disparate inner circle shapes Trump foreign policy</a>&nbsp;&nbsp;<font color="#6f6f6f">The Guardian</font>
+<ol><li><a href="https://news.google.com/rss/articles/CBMilAFBVV95cUxPVWRQaGNaYVdvdlNoWWcyczlvbnZuM0pueWxiRVhKdnQ2aHRfUlAxblJfcXpQOE1sS0FYaUkxOXZQR1FsV2x3TDZycjlGY2xYVTFKbk5Ua1dNbWNuZmROckw1dmZ3N29TNHI2M3ZFc3pBcGxFc00tNGQ4NVdSNk14UG9vdzI2cEVrM2lwcHJLTXBJdk9S?oc=5" target="_blank">Self-interest over ideology as disparate inner circle shapes Trump foreign policy</a>&nbsp;&nbsp;<font color="#6f6f6f">The Guardian</font></li><li><a href="https://news.google.com/rss/articles/CBMiekFVX3lxTE5JUmJjLXAyZWRldHVGZHNmYlhfQkhZVVl2NTJPdjVnY3h1Y2I4ZWhYNVdpRU1zT0xnRm9FNG1pXzV5Q1N5bVpCUlVkM2VfUGtkNEd6RVIyOEZYclJXdkg3QVNYSk9WUGF2WWFsWmdDc204ZXdkS0VjX1hn?oc=5" target="_blank">The Problem With America’s Venezuela Policy</a>&nbsp;&nbsp;<font color="#6f6f6f">persuasion.community</font></li></ol>
