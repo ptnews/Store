@@ -1,0 +1,21 @@
+---
+title: "Trump is moving forward with his student-loan repayment overhaul — this time focused on unaffordable debt - Business Insider"
+date: 2026-01-11
+description: "Trump is moving forward with his student-loan repayment overhaul — this time focused on unaffordable debt&nbsp;&nbsp;Business InsiderStudent loan borrowers face major changes to repayment options, loan limits this year&nbsp;&nbsp;The HillEditorial: Student loan changes put college costs in crosshairs&nbsp;&nbsp;Boston HeraldWe heard from over 400 student-loan borrowers. Here's what's on their minds, from repayment to relief.&nbsp;&nbsp;Yahoo News CanadaHow to Prepare for the Return of Student ..."
+summary: "Trump is moving forward with his student-loan repayment overhaul — this time focused on unaffordable debt&nbsp;&nbsp;Business InsiderStudent loan borrowers face major changes to repayment options, loan limits this year&nbsp;&nbsp;The HillEditorial: Student loan changes put college costs in crosshairs&nbsp;&nbsp;Boston HeraldWe heard from over 400 student-loan borrowers. Here's what's on their minds, from repayment to relief.&nbsp;&nbsp;Yahoo News CanadaHow to Prepare for the Return of Student ..."
+slug: "trump-is-moving-forward-with-his-student-loan-repayment-overhaul-this-time-focused-on-unaffordable-debt-business-insider"
+image: ''
+link: 'https://news.google.com/rss/articles/CBMitgFBVV95cUxNOU11bGs3ZWxQVDhPakxEXzRMeGRYVXlVdDBJZnRTMHNyS2pyVDRBS1czOVMwU18wWWI5YXVGRWhfaERtd1BlU09PVVVOcG9zSTIzRWh2UmxBZ0tXTGZCLVJWTS1GMVFENGoxN0JmMjc4UVpSRURESXJsODctMDRqcGRFZFFlRVZHMWkwXzA5X3V4bjlWMDZES3lWYVRGdlpuM0NsSmdESjd6OXdqUGFlYzhOWkFmZw?oc=5'
+source: 'https://news.google.com/rss/topics/CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx1YlY4U0FtVnVHZ0pWVXlnQVAB?hl=en-US&gl=US&ceid=US:en'
+categories:
+- 'news.google.com'
+tags:
+- 'unaffordable'
+- 'repayment'
+- 'overhaul'
+- 'business'
+- 'forward'
+
+draft: false
+---
+<ol><li><a href="https://news.google.com/rss/articles/CBMitgFBVV95cUxNOU11bGs3ZWxQVDhPakxEXzRMeGRYVXlVdDBJZnRTMHNyS2pyVDRBS1czOVMwU18wWWI5YXVGRWhfaERtd1BlU09PVVVOcG9zSTIzRWh2UmxBZ0tXTGZCLVJWTS1GMVFENGoxN0JmMjc4UVpSRURESXJsODctMDRqcGRFZFFlRVZHMWkwXzA5X3V4bjlWMDZES3lWYVRGdlpuM0NsSmdESjd6OXdqUGFlYzhOWkFmZw?oc=5" target="_blank">Trump is moving forward with his student-loan repayment overhaul — this time focused on unaffordable debt</a>&nbsp;&nbsp;<font color="#6f6f6f">Business Insider</font></li><li><a href="https://news.google.com/rss/articles/CBMimgFBVV95cUxPVHIyNEhhaHRNNmMyV0dudEFHVUhMSHlWY1pUZmQzUVZfX1RZRGF2R3d3TXJVUWhNdU9aLW4wOHlJRVVzRGRkMEkyZzRYdU9BbXhCYjlkMnlXeUh1dUpJMGJjZ2JyUDJsd2N0Wml5ck9yOFVZeThsZjhLREZGNGlKcjNDUWI5TTQ5ZEJfNXlCczlWNnk3NTFXYWd30gGfAUFVX3lxTE1LZkYxZ1JnbDQ1OF9HbnM2Um1sb1g0cDU5VnJmUEdGZnFuOGZjN2tfOExTYnJQdGZfMUZMSXRkQ2NXRjVHVWduaE1pRmZQQkprajFSaDNRSElFZXpidzNVLTYxSVNXcGZkVjVycnpDVUg0bzBZY2x6eHotSXgxU21oOE9tNG43ZFdueDRTUXF6UHN5MHE5dkU2aE1vTkMydw?oc=5" target="_blank">Student loan borrowers face major changes to repayment options, loan limits this year</a>&nbsp;&nbsp;<font color="#6f6f6f">The Hill</font></li><li><a href="https://news.google.com/rss/articles/CBMipgFBVV95cUxNSXF0UTdyWGpSbFp2elBKOW5uX05DODc5Unl4c3BEN3NsM3pWX3d4NGo0bjNUem5rMXhuNERNQzBvVUtlbmpQb3pPaW1BMUxpUkVXLWxEYUp1LTJnUVB6b3dlNW4wQzloZV9jRVlGSjBYTUFnRDlOTEhRY2VwaHM1T2J1M0lSNkhRaVNKVFhSOHRnMGZTbllkUG5nMHdrcUZraWRZVmZR?oc=5" target="_blank">Editorial: Student loan changes put college costs in crosshairs</a>&nbsp;&nbsp;<font color="#6f6f6f">Boston Herald</font></li><li><a href="https://news.google.com/rss/articles/CBMid0FVX3lxTE5FVEVjbXB6SzRxWVFSc1U5QWJzT19pdGZlU0Q3UU1XRjlyTl9URXM3R1B3bUJvNkFLZ2xOckp1dG4xVlZsUTE5WHNLNTkxWVJ3MnpTbmZGbTNOS19Ua1l3TkV4ZVY2c204bmVSbjBLRXNsc0dNaGsw?oc=5" target="_blank">We heard from over 400 student-loan borrowers. Here's what's on their minds, from repayment to relief.</a>&nbsp;&nbsp;<font color="#6f6f6f">Yahoo News Canada</font></li><li><a href="https://news.google.com/rss/articles/CBMimwFBVV95cUxOYm9kYURHNm11SUh2LTVMQklzM2tmT0pQemJBMnB1NnBxeVo5SGU4dXdvRmtwdmtnQ1AxaTJLX19KVUtydm8wZndSSVpXYWZ5RFc3dDVPTl93WnRiR3BPU3hBUm14Nzl1TzdmXzFzTnBwQmtGSzVkdE9nOFBiV1diN2JDb1lvZmpQUEttR2UxY0gteXlHZVE2b1RjOA?oc=5" target="_blank">How to Prepare for the Return of Student Loan Payments with Laurel Road</a>&nbsp;&nbsp;<font color="#6f6f6f">American Medical Association</font></li></ol>
