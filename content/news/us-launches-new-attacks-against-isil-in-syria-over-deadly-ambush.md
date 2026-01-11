@@ -1,9 +1,9 @@
 ---
-title: "US launches ‘large-scale’ attacks against ISIL in Syria after deadly ambush"
+title: "US launches new attacks against ISIL in Syria over deadly ambush"
 date: 2026-01-10
 description: "US military says the strikes are in response to an ISIL ambush that killed three American personnel in Palmyra. "
 summary: "US military says the strikes are in response to an ISIL ambush that killed three American personnel in Palmyra. "
-slug: "us-launches-large-scale-attacks-against-isil-in-syria-after-deadly-ambush"
+slug: "us-launches-new-attacks-against-isil-in-syria-over-deadly-ambush"
 image: ''
 link: 'https://www.aljazeera.com/news/2026/1/10/us-launches-large-scale-attacks-against-isil-in-syria-after-deadly-ambush?traffic_source=rss'
 source: 'https://aljazeera.com/xml/rss/all.xml'

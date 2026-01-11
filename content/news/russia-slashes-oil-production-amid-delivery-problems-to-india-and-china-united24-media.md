@@ -1,0 +1,21 @@
+---
+title: "Russia Slashes Oil Production Amid Delivery Problems to India and China - UNITED24 Media"
+date: 2026-01-11
+description: "Russia Slashes Oil Production Amid Delivery Problems to India and China&nbsp;&nbsp;UNITED24 MediaRussia’s Crude Output in December Made Deep Plunge Amid US Sanctions&nbsp;&nbsp;Bloomberg.comRussia sharply reduces oil production as US sanctions impact export demand&nbsp;&nbsp;Новая газета ЕвропаRussian crude exports fall to lowest since early 2022, hitting Putin’s coffers&nbsp;&nbsp;Українська правдаDrone Attacks in Russia Spark Decline in Opec-Plus Output&nbs..."
+summary: "Russia Slashes Oil Production Amid Delivery Problems to India and China&nbsp;&nbsp;UNITED24 MediaRussia’s Crude Output in December Made Deep Plunge Amid US Sanctions&nbsp;&nbsp;Bloomberg.comRussia sharply reduces oil production as US sanctions impact export demand&nbsp;&nbsp;Новая газета ЕвропаRussian crude exports fall to lowest since early 2022, hitting Putin’s coffers&nbsp;&nbsp;Українська правдаDrone Attacks in Russia Spark Decline in Opec-Plus Output&nbs..."
+slug: "russia-slashes-oil-production-amid-delivery-problems-to-india-and-china-united24-media"
+image: ''
+link: 'https://news.google.com/rss/articles/CBMitgFBVV95cUxNY1cxWEp6QXRHdWJlcEFueWlEQlVDMHRCdFZ3TzBobzYzXzdoc0xJZ1dpcFRYbjJnMVJuYUJid01PdEVaZG13bGgxSVdKclFLdDBCTDQtTEEwTnJpYjRaVTFXeWN4bnpJMWsxS2hjUjJHdjVyelp1UVJLbUNMUnV5OUpCN0JBcEROUmw2ZW9nQlBGQzI0UjR0Wng3TWt0NGtGMzVvMkt4S2tIMnl1QzR0aHNTUGlqdw?oc=5'
+source: 'https://news.google.com/rss/topics/CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx1YlY4U0FtVnVHZ0pWVXlnQVAB?hl=en-US&gl=US&ceid=US:en'
+categories:
+- 'news.google.com'
+tags:
+- 'production'
+- 'delivery'
+- 'problems'
+- 'united24'
+- 'slashes'
+
+draft: false
+---
+<ol><li><a href="https://news.google.com/rss/articles/CBMitgFBVV95cUxNY1cxWEp6QXRHdWJlcEFueWlEQlVDMHRCdFZ3TzBobzYzXzdoc0xJZ1dpcFRYbjJnMVJuYUJid01PdEVaZG13bGgxSVdKclFLdDBCTDQtTEEwTnJpYjRaVTFXeWN4bnpJMWsxS2hjUjJHdjVyelp1UVJLbUNMUnV5OUpCN0JBcEROUmw2ZW9nQlBGQzI0UjR0Wng3TWt0NGtGMzVvMkt4S2tIMnl1QzR0aHNTUGlqdw?oc=5" target="_blank">Russia Slashes Oil Production Amid Delivery Problems to India and China</a>&nbsp;&nbsp;<font color="#6f6f6f">UNITED24 Media</font></li><li><a href="https://news.google.com/rss/articles/CBMiuwFBVV95cUxOSW4zbU9Rb0ZYNG8xX0lORjNRZ3ZaZ1F5a1pacGhUYTZzdm5qaUt2QmUwX3N4SEFJOVhtRDVkSGptcEJtWHIyemJfTW9DWncyYVJTMms2NXJlLVY5OXU3MlBmWV9uNEZ3WVhweEw1SVFMdURPaUt0bVV2MTNRbU5LV2RMOFhiUi1rQ3BzSE1hWDlPbV9YYnFlSGRHdjhTNV8zODVwRmZnZXQ5SHQzQjdpT3otSC01dWFSRVN3?oc=5" target="_blank">Russia’s Crude Output in December Made Deep Plunge Amid US Sanctions</a>&nbsp;&nbsp;<font color="#6f6f6f">Bloomberg.com</font></li><li><a href="https://news.google.com/rss/articles/CBMixAFBVV95cUxQN1BMMVBoOGtfOFAzaWFfdE0wUGd5MWhZbFdMdXFZZUFIU2U5ckhmMnQ2M3ZGb0ZKcjhnNGFielpxZWxCd0k4bjBxMTRLdktDV0hpY2RFYWtwM05NaEg1c3VYODJIM3dRVmc0NGV2SDI3QzhKcXByb09TYlZSVldIVWliWTFzdEo5Nkx5M1ZuVTktQWRLTXgyNEhrSVRWZVhNU0drRVBqbVNDYnpfd2VMZi1QcFZwemlrNE85VnlXd2F5OUZq0gHKAUFVX3lxTE14VmRxd2VJOHEwelpQWk9jNkd6UlBhdTJ6MGoybEtDMHRKN0djTmNtSzRDNmgyMnVDRWpvaGd2NXNWR0R3Rk82a3dkaC1RcHY1eDQ2NzRmczVncHNFT2JIcUdFaHZULVRiZ0ptSGlGaFBKSGgxODhOUndGZXdYZ1U2dWU5NzNNNHdVUlh4XzRyNThlWktmYjJaMkpIXzYyVzdmc1B1clpVMHBEQmlaR21CX2JpenRSUi1qVGJTQjN0X0E2S3dRR2JQOHc?oc=5" target="_blank">Russia sharply reduces oil production as US sanctions impact export demand</a>&nbsp;&nbsp;<font color="#6f6f6f">Новая газета Европа</font></li><li><a href="https://news.google.com/rss/articles/CBMiZEFVX3lxTE5qdmJMY2d3Ui10dGFJTW5zelcyODlya2dkTHNrMWlJTXVFaWZUQ0lhY0JOS29TX0FYNk5qQmdObUdPOG9rV2dHWUdnb29vMzZYYXVFQTlseEhFTzJLMnNzb2NBcUnSAXBBVV95cUxNOE0xYmVPQ2xDdGFZWlBNU0VZa2VfMGlUZEtDS000X0dxY0w1WURsRlVYbERIMlJnLU9KU29JcmhMWS1RX0JScXFHUXJQVVpFNElEOUc4bFFQNmpaajFpc1hWdGxxcDF3RjQ1dXlrMWh3?oc=5" target="_blank">Russian crude exports fall to lowest since early 2022, hitting Putin’s coffers</a>&nbsp;&nbsp;<font color="#6f6f6f">Українська правда</font></li><li><a href="https://news.google.com/rss/articles/CBMickFVX3lxTE1pLTR4SWR4cVJQZXpZc3NsT3NYOW1OYU1GbHpVRElBV1Z6aW9kUkctWGRrbV9QZTAwUXFkMFVtYTgwODdkcWdGdmdNNmpEdUdUblY1ZmV4ZHVjSmVLSUUtMHZnd1JxT0F1b0RaZFRjS25Bdw?oc=5" target="_blank">Drone Attacks in Russia Spark Decline in Opec-Plus Output</a>&nbsp;&nbsp;<font color="#6f6f6f">Energy Intelligence</font></li></ol>
