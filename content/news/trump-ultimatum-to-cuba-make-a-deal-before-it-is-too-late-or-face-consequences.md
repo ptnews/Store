@@ -1,8 +1,8 @@
 ---
 title: "Trump ultimatum to Cuba: 'Make a deal, before it is too late' or face consequences"
 date: 2026-01-11
-description: "Trump vows to cut all oil and financial support to Cuba, urging the island nation to &quot;make a deal&quot; as he reshapes regional energy flows and policies."
-summary: "Trump vows to cut all oil and financial support to Cuba, urging the island nation to &quot;make a deal&quot; as he reshapes regional energy flows and policies."
+description: "Trump vows to cut all oil and financial support to Cuba, urging the island nation to &apos;make a deal&apos; as he reshapes regional energy flows and policies."
+summary: "Trump vows to cut all oil and financial support to Cuba, urging the island nation to &apos;make a deal&apos; as he reshapes regional energy flows and policies."
 slug: "trump-ultimatum-to-cuba-make-a-deal-before-it-is-too-late-or-face-consequences"
 image: ''
 link: 'https://www.foxnews.com/politics/trump-ultimatum-cuba-make-deal-before-too-late-face-consequences'
