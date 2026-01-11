@@ -1,9 +1,9 @@
 ---
-title: "LIVE: Barcelona vs Real Madrid – El Clasico Supercopa final 2026"
+title: "LIVE: Barcelona vs Real Madrid 3-2 – El Clasico Supercopa final 2026"
 date: 2026-01-11
 description: "Follow our live build-up with team news coverage before our live text commentary stream of Spain&#039;s Super Cup final."
 summary: "Follow our live build-up with team news coverage before our live text commentary stream of Spain&#039;s Super Cup final."
-slug: "live-barcelona-vs-real-madrid-el-clasico-supercopa-final-2026"
+slug: "live-barcelona-vs-real-madrid-3-2-el-clasico-supercopa-final-2026"
 image: ''
 link: 'https://www.aljazeera.com/sports/liveblog/2026/1/11/live-barcelona-vs-real-madrid-supercopa-final?traffic_source=rss'
 source: 'https://aljazeera.com/xml/rss/all.xml'

@@ -1251,6 +1251,15 @@
     "title": "Watch: Trump says Maduro copied his dancing. Did he?"
   },
   {
+    "description": "Israel claims its latest attacks on Lebanon were targeting alleged Hezbollah infrastructure.",
+    "image": "",
+    "link": "https://www.aljazeera.com/news/2026/1/11/israeli-forces-kill-one-person-in-series-of-attacks-on-southern-lebanon?traffic_source=rss",
+    "pubDate": "2026-01-11",
+    "slug": "israeli-forces-kill-one-person-in-series-of-attacks-on-southern-lebanon",
+    "source": "https://aljazeera.com/xml/rss/all.xml",
+    "title": "Israeli forces kill one person in series of attacks on southern Lebanon"
+  },
+  {
     "description": "The country has been rocked by two weeks of widespread protests since the currency collapsed.",
     "image": "",
     "link": "https://www.aljazeera.com/video/inside-story/2026/1/11/how-volatile-is-the-situation-in-iran?traffic_source=rss",
@@ -1309,9 +1318,9 @@
     "image": "",
     "link": "https://www.aljazeera.com/sports/liveblog/2026/1/11/live-barcelona-vs-real-madrid-supercopa-final?traffic_source=rss",
     "pubDate": "2026-01-11",
-    "slug": "live-barcelona-vs-real-madrid-el-clasico-supercopa-final-2026",
+    "slug": "live-barcelona-vs-real-madrid-3-2-el-clasico-supercopa-final-2026",
     "source": "https://aljazeera.com/xml/rss/all.xml",
-    "title": "LIVE: Barcelona vs Real Madrid – El Clasico Supercopa final 2026"
+    "title": "LIVE: Barcelona vs Real Madrid 3-2 – El Clasico Supercopa final 2026"
   },
   {
     "description": "Medical estimates put survival without food at 45 to 61 days. Three UK activists are now pushing beyond that boundary. \n",
@@ -1465,14 +1474,5 @@
     "slug": "fourth-palestinian-baby-freezes-to-death-in-gaza-since-november",
     "source": "https://aljazeera.com/xml/rss/all.xml",
     "title": "Fourth Palestinian baby freezes to death in Gaza since November"
-  },
-  {
-    "description": "A global roundup of some of last week’s events.",
-    "image": "",
-    "link": "https://www.aljazeera.com/gallery/2026/1/11/week-in-pictures-from-israeli-strikes-in-gaza-city-to-fighting-in-syria?traffic_source=rss",
-    "pubDate": "2026-01-11",
-    "slug": "week-in-pictures-from-israeli-strikes-in-gaza-city-to-fighting-in-syria",
-    "source": "https://aljazeera.com/xml/rss/all.xml",
-    "title": "Week in pictures: From Israeli strikes in Gaza City to fighting in Syria"
   }
 ]
