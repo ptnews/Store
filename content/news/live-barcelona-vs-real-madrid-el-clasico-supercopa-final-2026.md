@@ -1,5 +1,5 @@
 ---
-title: "LIVE: Barcelona vs Real Madrid: El Clasico Supercopa final 2026"
+title: "LIVE: Barcelona vs Real Madrid – El Clasico Supercopa final 2026"
 date: 2026-01-11
 description: "Follow our live build-up with team news coverage before our live text commentary stream of Spain&#039;s Super Cup final."
 summary: "Follow our live build-up with team news coverage before our live text commentary stream of Spain&#039;s Super Cup final."
