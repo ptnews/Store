@@ -1,0 +1,21 @@
+---
+title: "Blake Shelton reveals truth surrounding Gwen Stefani divorce speculation"
+date: 2026-01-12
+description: "Blake Shelton admitted he doesn&apos;t believe anything online anymore after constant false reports about his relationship with No Doubt singer Gwen Stefani."
+summary: "Blake Shelton admitted he doesn&apos;t believe anything online anymore after constant false reports about his relationship with No Doubt singer Gwen Stefani."
+slug: "blake-shelton-reveals-truth-surrounding-gwen-stefani-divorce-speculation"
+image: ''
+link: 'https://www.foxnews.com/entertainment/blake-shelton-reveals-truth-surrounding-gwen-stefani-divorce-speculation'
+source: 'https://feeds.foxnews.com/foxnews/latest'
+categories:
+- 'feeds.foxnews.com'
+tags:
+- 'surrounding'
+- 'speculation'
+- 'shelton'
+- 'reveals'
+- 'stefani'
+
+draft: false
+---
+<p>Gwen Stefani and Blake Shelton have nothing but love for each other, despite internet hearsay.</p><p>During an appearance on the <a href="https://countrycountdownusa.com/" target="_blank" rel="nofollow noopener">"Country Countdown USA"</a> radio program, host Lon Helton told Shelton that the "Happy Anywhere" singer was difficult to Google and find the truth about because of his popularity.</p><p>"I’m telling you, Lon, it’s amazing," Shelton responded. "Starting in October, I think, or maybe November … I started noticing these articles popping up about, ‘Blake and Gwen — they’re split up. They’re not even seeing each other anymore, they’re going through a divorce.’"</p><p><a href="https://www.foxnews.com/entertainment/gwen-stefani-third-party-key-happy-marriage-blake-shelton" target="_blank" rel="noopener"><strong>GWEN STEFANI ADMITS HAVING ‘THIRD PARTY’ INVOLVED IS KEY IN HAPPY MARRIAGE TO BLAKE SHELTON</strong></a></p><p>"And then, a week later, a picture comes out of us walking out of the grocery store … ‘Oh, they’re back together again!’"</p><p>He continued, "And another week goes by, and we’re not seen at the grocery store … ‘They’re divorcing.’ I told her, ‘Man, I don’t know what is going on out there.’"</p><p>The <a href="https://www.foxnews.com/category/person/blake-shelton" target="_blank" rel="noopener">"God's Country" musician</a> confessed he's been thwarted by artificial intelligence, too. </p><p><a href="https://www.foxnews.com/entertainment/reba-mcentire-calls-out-ai-generated-fake-pregnancy-photos-dolly-parton-deathbed-images" target="_blank" rel="noopener"><strong>REBA MCENTIRE CALLS OUT AI-GENERATED FAKE PREGNANCY PHOTOS AND DOLLY PARTON 'DEATHBED' IMAGES</strong></a></p><p>"I see pictures of Gwen and I on social media that I really go, ‘That looks so real.’ But I know I don’t even own that shirt or, ‘Whose car is that?’"</p><p>Shelton said he’s far more careful with media sources now and doesn’t "believe anything anymore" that he sees online.</p><p>He added, "I mean nothing. I just don’t believe it."</p><p><a href="https://www.foxnews.com/newsletters?cmpid=fnfirstnl" target="_blank" rel="noopener"><strong><u>CLICK HERE TO SIGN UP FOR THE ENTERTAINMENT NEWSLETTER</u></strong></a></p><p>Stefani, 56, and Shelton, 49, first met in 2014 when she joined Season 7 of <a href="https://www.foxnews.com/category/entertainment/the-voice" target="_blank" rel="noopener">"The Voice"</a> as a coach.</p><p>At the time, Stefani was married to rocker Gavin Rossdale, and Shelton to country singer-songwriter Miranda Lambert. But by July 2015, both had finalized divorces from their spouses.</p><p>After the "Some Beach" singer won her over with a song, Shelton and Stefani began dating in 2015. They married in July 2021 in an <a href="https://www.foxnews.com/category/us/us-regions/southwest/oklahoma" target="_blank" rel="noopener">intimate ceremony on Shelton’s Oklahoma ranch</a>.</p><p><a href="https://www.foxnews.com/entertainment" target="_blank" rel="noopener"><strong><u>LIKE WHAT YOU’RE READING? CLICK HERE FOR MORE ENTERTAINMENT NEWS</u></strong></a></p><p>Stefani previously said that having a faithful "third party" in their marriage keeps them grounded.</p><p>During an appearance on "The Drew Barrymore Show," Stefani shared the best advice she’s ever received about love.</p><p>"Best advice would probably be, make sure you have a third party," said the mom of three, referring to God as she looked up and pointed one finger to the sky. </p>

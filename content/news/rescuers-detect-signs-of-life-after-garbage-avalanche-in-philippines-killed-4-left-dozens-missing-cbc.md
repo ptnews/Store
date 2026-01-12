@@ -1,0 +1,21 @@
+---
+title: "Rescuers detect 'signs of life' after garbage avalanche in Philippines killed 4, left dozens missing - CBC"
+date: 2026-01-12
+description: "Rescuers detect 'signs of life' after garbage avalanche in Philippines killed 4, left dozens missing&nbsp;&nbsp;CBCMound of garbage collapses at Philippine landfill, burying and trapping 38 people and killing 1&nbsp;&nbsp;NBC NewsFilipino rescuers detect 'signs of life' in garbage avalanche that killed 4 and left dozens missing&nbsp;&nbsp;ABC NewsOne dead, dozens trapped after giant landfill collapses in Philippines&nbsp;&nbsp;BBCDeath toll in Philippines landfill collapse rises to 4&nbsp;&nbsp;..."
+summary: "Rescuers detect 'signs of life' after garbage avalanche in Philippines killed 4, left dozens missing&nbsp;&nbsp;CBCMound of garbage collapses at Philippine landfill, burying and trapping 38 people and killing 1&nbsp;&nbsp;NBC NewsFilipino rescuers detect 'signs of life' in garbage avalanche that killed 4 and left dozens missing&nbsp;&nbsp;ABC NewsOne dead, dozens trapped after giant landfill collapses in Philippines&nbsp;&nbsp;BBCDeath toll in Philippines landfill collapse rises to 4&nbsp;&nbsp;..."
+slug: "rescuers-detect-signs-of-life-after-garbage-avalanche-in-philippines-killed-4-left-dozens-missing-cbc"
+image: ''
+link: 'https://news.google.com/rss/articles/CBMieEFVX3lxTE9hdGdpeG1sY19iVUZhbzEyc2ZyZmdFenJoQi15d2xzTHRxczdYNWRRUFdxUUF1UjNocHZFNzBUMmhfaG8wSHZrWlVwVDNPdTRTMFZIY0VUOWEtY1BVaUZTSXNKZGFkYzUxbGxGd2lUTllaVXRLcy1qUQ?oc=5'
+source: 'https://news.google.com/rss/topics/CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx1YlY4U0FtVnVHZ0pWVXlnQVAB?hl=en-US&gl=US&ceid=US:en'
+categories:
+- 'news.google.com'
+tags:
+- 'philippines'
+- 'avalanche'
+- 'rescuers'
+- 'garbage'
+- 'missing'
+
+draft: false
+---
+<ol><li><a href="https://news.google.com/rss/articles/CBMieEFVX3lxTE9hdGdpeG1sY19iVUZhbzEyc2ZyZmdFenJoQi15d2xzTHRxczdYNWRRUFdxUUF1UjNocHZFNzBUMmhfaG8wSHZrWlVwVDNPdTRTMFZIY0VUOWEtY1BVaUZTSXNKZGFkYzUxbGxGd2lUTllaVXRLcy1qUQ?oc=5" target="_blank">Rescuers detect 'signs of life' after garbage avalanche in Philippines killed 4, left dozens missing</a>&nbsp;&nbsp;<font color="#6f6f6f">CBC</font></li><li><a href="https://news.google.com/rss/articles/CBMitwFBVV95cUxNbS1JeWduRDdiWEVCbkt6dzYyVmpMVnFtTGxidnBRNDRFYjllWXMtY0JGYlpuUHNLQjRDaEVZcDFzNkhBMWJ0VnlmSXF3SEc2MURvR2NIWG5xaE03Q0txclRLTTB0M3Z1ZVlPb0hrckJYX3pZbnZ1Um92RGhkem80MHB3S24xLWo3M0NLeUZyQjFOenJaVGQ1WnFDSm11VGZrc2xtWFR5VTAyT3d6dHVTTnJRMVB1SWvSAVZBVV95cUxPa3hFc2R6V2ZDWVFVNmlweG9SY0tNdW1aeDYzbXZIcjF2VVBjRW1GUHBHV1lMMUpPTXdHQkVDOFA0Z3ZJT3U4Yk9NUDZKU21Lb1ozeWE5UQ?oc=5" target="_blank">Mound of garbage collapses at Philippine landfill, burying and trapping 38 people and killing 1</a>&nbsp;&nbsp;<font color="#6f6f6f">NBC News</font></li><li><a href="https://news.google.com/rss/articles/CBMiuAFBVV95cUxNZHVXRDRwNXNuYy0xZGNsMnRrRjNXRERTR1NDN0NYTzdMQ2FOT0ZuOTBtMW5XWl93dGtVWkctZ1JNNEpsZ1J0czBfWnpKQ3c4T3R5N2Nsc2h6WnphdDd6Ym9fTHZ2RU9MZ2xTeUo0bGdIeGFoVkhlYlZPYzFxRHk1d0ZZWExTLTVMeHZtdFpiRVR6Y2M4NWhKQkExNzVrS21PMGZ3Y1lkVlpfVnI4Yy1ZY0Rna01QektU0gG-AUFVX3lxTE9teUEwMGZSNmlPMlBzdzRmODBNZGhueHVZOGdNSXByR2ZZV0tPdzFOTHEtM01jZ09UNFRXNWh1QnRidjU4bVRYdy01WWMtVnZYS05YUnpfczg5b3BVN0ZqaUdmNFhkT3Z3Zlo3Nk9JWVlpZ1hPZlFJd1NYSGhYUXJ6WTFHcF9xempsLTZjdTV5aDQwZ3ExM2tHeU9BTnNjZjNUNjFhZlJCUTNPZmNiSTQ1MG9GSlFlY1IySVRNa2c?oc=5" target="_blank">Filipino rescuers detect 'signs of life' in garbage avalanche that killed 4 and left dozens missing</a>&nbsp;&nbsp;<font color="#6f6f6f">ABC News</font></li><li><a href="https://news.google.com/rss/articles/CBMiWkFVX3lxTFAwZV9ka3o2UFlvMjgtcncyUURWVV9XVEdSN1JMNVlrekZTR19vd2V3d1lWaS04RFo1N0tBTi1fd0ZveW1ZVkxNN2tDU1Z4eFotUDE3eXhoUDI3QQ?oc=5" target="_blank">One dead, dozens trapped after giant landfill collapses in Philippines</a>&nbsp;&nbsp;<font color="#6f6f6f">BBC</font></li><li><a href="https://news.google.com/rss/articles/CBMipgFBVV95cUxPdFdtZ2ZiNWh3Q1NiN2lRSDdMb2JXUElmajlXcHVobHQwVlFJbDVITjZxQlRqWk9QNnNoQkk2V0puM0tJUWFzSWc2ZmdzQ3FCY0pPMFJyRnZjc0NXV0w1UUlfR19sb1JFcUdhNDFLVURVcDVNQlozZms5UXR3ZGY0czI4ajY4Z2JBNEFwb05QMjhzNUMyZWdrTUN2bmdDSUFKM0ZoM2x3?oc=5" target="_blank">Death toll in Philippines landfill collapse rises to 4</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font></li></ol>
