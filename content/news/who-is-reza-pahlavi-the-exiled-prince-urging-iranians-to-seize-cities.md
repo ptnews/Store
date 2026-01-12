@@ -1,5 +1,5 @@
 ---
-title: "Who is Reza Pahlavi? The exiled prince urging Iranians to ‘seize cities’"
+title: "Who is Reza Pahlavi? The exiled ‘prince’ urging Iranians to ‘seize cities’"
 date: 2026-01-12
 description: "The exiled prince calls on Iranians to &#039;seize city centres&#039; as Tehran accuses him of leading &#039;terrorist&#039; war."
 summary: "The exiled prince calls on Iranians to &#039;seize city centres&#039; as Tehran accuses him of leading &#039;terrorist&#039; war."
