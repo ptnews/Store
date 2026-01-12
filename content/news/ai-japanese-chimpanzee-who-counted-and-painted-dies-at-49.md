@@ -1,5 +1,5 @@
 ---
-title: "Ai, Japanese chimpanzee who counted and painted dies at 49"
+title: "Ai, Japanese chimpanzee who counted and painted, dies at 49"
 date: 2026-01-12
 description: "Ai's cognitive abilities had been studied extensively since she was brought to a Japanese institute in 1977."
 summary: "Ai's cognitive abilities had been studied extensively since she was brought to a Japanese institute in 1977."
