@@ -1,0 +1,21 @@
+---
+title: "Five decapitated heads displayed on Ecuador beach - BBC"
+date: 2026-01-12
+description: "Five decapitated heads displayed on Ecuador beach&nbsp;&nbsp;BBCFive severed heads found hanging on Ecuador beach amid escalating gang clashes&nbsp;&nbsp;Fox NewsHuman heads displayed at Ecuador tourist beach in warning to gangs&nbsp;&nbsp;CBS News5 Severed Heads — and a Chilling Warning — Discovered at Tropical Resort Beachfront&nbsp;&nbsp;People.comFive severed human heads found hanging from ropes on busy tourist beach in latest grim display of drug gang violence&nbsp;&nbsp;The US Sun"
+summary: "Five decapitated heads displayed on Ecuador beach&nbsp;&nbsp;BBCFive severed heads found hanging on Ecuador beach amid escalating gang clashes&nbsp;&nbsp;Fox NewsHuman heads displayed at Ecuador tourist beach in warning to gangs&nbsp;&nbsp;CBS News5 Severed Heads — and a Chilling Warning — Discovered at Tropical Resort Beachfront&nbsp;&nbsp;People.comFive severed human heads found hanging from ropes on busy tourist beach in latest grim display of drug gang violence&nbsp;&nbsp;The US Sun"
+slug: "five-decapitated-heads-displayed-on-ecuador-beach-bbc"
+image: ''
+link: 'https://news.google.com/rss/articles/CBMiWkFVX3lxTFByMjV5VXR2a1NMV0dlOG43MGlKak9ZT3pxTWMwUWJXbkIxNmJLRHBBcDdtbWQtYnBGWXpTS1ZnbmdRZ2lraVB6RGQ3bExIVF9BRkJxSGxhZGU4Z9IBX0FVX3lxTE53MmJiRWtvSzZQZDV1SHpoZmFiWlhTV1J0a01YZGQ5bmJIdXhVaXRiaE1DaXlnNDgwaV9BRXdFazhSLVZVYTNvSkVGQzF3UUdtUDRneUJxcFR5a0FFdDVB?oc=5'
+source: 'https://news.google.com/rss/topics/CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx1YlY4U0FtVnVHZ0pWVXlnQVAB?hl=en-US&gl=US&ceid=US:en'
+categories:
+- 'news.google.com'
+tags:
+- 'decapitated'
+- 'displayed'
+- 'ecuador'
+- 'heads'
+- 'beach'
+
+draft: false
+---
+<ol><li><a href="https://news.google.com/rss/articles/CBMiWkFVX3lxTFByMjV5VXR2a1NMV0dlOG43MGlKak9ZT3pxTWMwUWJXbkIxNmJLRHBBcDdtbWQtYnBGWXpTS1ZnbmdRZ2lraVB6RGQ3bExIVF9BRkJxSGxhZGU4Z9IBX0FVX3lxTE53MmJiRWtvSzZQZDV1SHpoZmFiWlhTV1J0a01YZGQ5bmJIdXhVaXRiaE1DaXlnNDgwaV9BRXdFazhSLVZVYTNvSkVGQzF3UUdtUDRneUJxcFR5a0FFdDVB?oc=5" target="_blank">Five decapitated heads displayed on Ecuador beach</a>&nbsp;&nbsp;<font color="#6f6f6f">BBC</font></li><li><a href="https://news.google.com/rss/articles/CBMiwAFBVV95cUxQUGp3bTV2aFJsdUxVRzExYjdPcnBRX2VwWTN4amgxbjl6UEJhWjRCdUk0azRqQ3hlTjh3amhPNW5jUzZWN2tPT3hFWGZndWQxZG5zVVJkVnVHNE53dm5iMmZqa25RV2hvODA0WmY2Mmdnc2o3UkdQYmtjMTA0bnZ4djA3bXBkOGIwNkhpYndDZ05pdHNjNUs2NDdoQi1UVWNUY21zWkk3TDVrQ3EzaVBjVTE2THhoQmFJRjNXd19xdUrSAcYBQVVfeXFMTUt6aVNzdlpFakV0eG9NMHRjRFRVaEpmUnpWbVVkZGQ3LXFoRFhERk00dVA4dWxfSUt3enpoU1Y4X0U0aW9zTVRWNkxhdGVVMVg4RDNvZWM5M1JHVmFEU3RwU1Myc0pyTmZmSmQzQlF5MnI5MXJycHlia2hFZUtITTY3MXl1Y0tkRHNOaGlQUnBtN3FRVURmczFrdk05anFkRjZvLWxJMm5oZWprRjVvTlpydnZLUnNhN2tmS2FTTk5QNnlReUd3?oc=5" target="_blank">Five severed heads found hanging on Ecuador beach amid escalating gang clashes</a>&nbsp;&nbsp;<font color="#6f6f6f">Fox News</font></li><li><a href="https://news.google.com/rss/articles/CBMieEFVX3lxTE1WUlZ3aXFiRUxqbFA1VFdLODJaZExQVmFpQlR3Q29acUxWZXE2am1GRXFhbDJFcklvZEhBVnBPUzVvSnZ6cVFmTTRsYklidXBQQnVESGxaNVZZcm56WGcyTENUVjZRLW12S1dVZkQ5WXd5UFRwalp2YdIBfkFVX3lxTE1QWjVwVDBqclcxQVB0MTdoQVNTa1hhRDczR3JHcXRORFExZGE5N2NHXy1xRW1CenRVcHhmSjBmSVFLbmJUV3ktaU5pUDlBT0tmeERSWGVzNEloeUdVWmJ1WkxhZUVOUU9hWHJUQWtEOEtHVV9GeF80ZE5DMnNCUQ?oc=5" target="_blank">Human heads displayed at Ecuador tourist beach in warning to gangs</a>&nbsp;&nbsp;<font color="#6f6f6f">CBS News</font></li><li><a href="https://news.google.com/rss/articles/CBMie0FVX3lxTE55N05qQWRMUlpJeXU1OVFxQi12NjA0X3p4bHFfU3dVbnNJbWdEd05YMV9BcTZkZEg3SmdnNXlucjc5QVRPSlk0akdOUGhQb0lBSjMxd1pIOHIwMUhVaS1GUE5FUEIzUEhiTXdadVd3OGFHdXdGVHdhVjRXWQ?oc=5" target="_blank">5 Severed Heads — and a Chilling Warning — Discovered at Tropical Resort Beachfront</a>&nbsp;&nbsp;<font color="#6f6f6f">People.com</font></li><li><a href="https://news.google.com/rss/articles/CBMijgFBVV95cUxNYU1KaS1qV3EwTEVyLUU1UWxkTlRBQjRpWjlSVm9VaU5zRk4xZTM5Mmc3dDBHZVBTR3FpcFdyTkRfaUF5VldVQUxFQXhJWTV0ZjNaaVMxREdKNy1TU1M4c0hLWEhqUTlTY2ItejBEY1pTYlR3NHRlWWxnTnhZNDFZY1JNYVJuX3N2OWdpRF9B?oc=5" target="_blank">Five severed human heads found hanging from ropes on busy tourist beach in latest grim display of drug gang violence</a>&nbsp;&nbsp;<font color="#6f6f6f">The US Sun</font></li></ol>
