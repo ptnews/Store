@@ -1,0 +1,21 @@
+---
+title: "ESPN's Pat McAfee lambasts sports media for negativity over remarks at Jaguars coach's press conference"
+date: 2026-01-12
+description: "ESPN broadcaster Pat McAfee came to the defense of a Jacksonville editor who had glowing remarks for Jaguars coach Liam Coen after the team&apos;s playoff loss."
+summary: "ESPN broadcaster Pat McAfee came to the defense of a Jacksonville editor who had glowing remarks for Jaguars coach Liam Coen after the team&apos;s playoff loss."
+slug: "espn-s-pat-mcafee-lambasts-sports-media-for-negativity-over-remarks-at-jaguars-coach-s-press-conference"
+image: ''
+link: 'https://www.foxnews.com/sports/espns-pat-mcafee-lambasts-sports-media-negativity-over-remarks-jaguars-coachs-press-conference'
+source: 'https://feeds.foxnews.com/foxnews/latest'
+categories:
+- 'feeds.foxnews.com'
+tags:
+- 'negativity'
+- 'conference'
+- 'lambasts'
+- 'remarks'
+- 'jaguars'
+
+draft: false
+---
+<p>Pat McAfee, an ESPN broadcaster who formerly punted for the Indianapolis Colts, lambasted sports journalists for their outrage over a reporter’s remarks toward <a href="https://www.foxnews.com/category/sports/nfl/jacksonville-jaguars" target="_blank" rel="noopener">Jacksonville Jaguars</a> head coach Liam Coen.</p><p>Jacksonville Free Press associate editor Lynn Jones-Turpin made the comments that <a href="https://www.foxnews.com/sports/nfl-journalists-remarks-jaguars-coach-after-playoff-loss-sparks-debate-social-media" target="_blank" rel="noopener">sparked a sports media debate</a> online. She told Coen, "I’m going to tell you, congratulations on your success, young man. You hold your head up. You guys have had a most magnificent season. You did a great job out there today. You just hold your head up, OK? Ladies and gentlemen, Duval. You keep it going. We got another season."</p><p><a href="https://www.foxnews.com/sports" target="_blank" rel="noopener"><strong>CLICK HERE FOR MORE SPORTS COVERAGE ON FOXNEWS.COM</strong></a></p><p>Jones-Turpin’s words sparked consternation among journalists who cover the NFL, and generally sports, for a living. NFL fans brushed it off as sports reporters taking themselves too seriously.</p><p>McAfee took the side of the fan in a lengthy rant posted to X.</p><p>"Love seeing these sports ‘journalists’ getting ABSOLUTELY BURIED for being curmudgeon bums.." he wrote. "OBVIOUSLY NOT ALL OF THEM but a LARGE % of these things hate sports.. they hate what sports are for people (happiness).. They hate what sports are for society (unifier).. they’re political journalists by nature who’ve preyed on sports because they saw it as an easier path to ‘make it.’</p><p><a href="https://www.foxnews.com/sports/ex-nfl-star-tony-romo-takes-heat-during-his-call-bills-jaguars-playoff-game" target="_blank" rel="noopener"><strong>EX-NFL STAR TONY ROMO TAKES HEAT DURING HIS CALL OF BILLS-JAGUARS PLAYOFF GAME</strong></a></p><p>"Their days are numbered.. my show being broadcasted on ESPN 10 hours a week with ZERO creative say from any ‘journalism school’ puppets is living proof of that.. that’s why they attack me as much as possible.. I’m happy the world is starting to see what they truly are. Now… We as a society have to stop taking these particular humans seriously. Their opinions and thoughts are coming from a place of wanting to destroy sports."</p><p><a href="https://www.foxnews.com/sports/pat-mcafee-defends-having-trump-show-says-he-extended-invite-obama-its-the-president" target="_blank" rel="noopener">McAfee suggested</a> the negativity about Jones-Turpin’s remarks meant that journalists will "never get" that "sports are the greatest thing on Earth."</p><p>"Also.. Thank you Lynn Jones for setting up a situation for me and all of us on how Liam Coen, a man who might be a (GOAT) when he’s done, handles compliments during one of his most miserable moments. He handled it with class and humility.. feels like some journalism was actually done there," he added.</p><p><i><strong>Follow Fox News Digital’s</strong></i><a href="https://twitter.com/FoxNewsSports_" target="_blank" rel="noopener"><i><strong> <u>sports coverage on X</u></strong></i></a><i><strong> and subscribe to</strong></i><a href="https://www.foxnews.com/newsletters" target="_blank" rel="noopener"><i><strong><u> the Fox News Sports Huddle newsletter</u></strong></i></a><i><strong>.</strong></i></p>
