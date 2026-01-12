@@ -1,0 +1,20 @@
+---
+title: "EU may need 100,000-strong army, says defense commissioner - politico.eu"
+date: 2026-01-12
+description: "EU may need 100,000-strong army, says defense commissioner&nbsp;&nbsp;politico.eu‘European Security Council Now!’ – EU Defense Chief Renews Calls for Common Army&nbsp;&nbsp;Kyiv PostEU should consider forming combined military force, bloc’s defense chief says&nbsp;&nbsp;The Times of IsraelWinter 2026 Issue: New Ideas for Europe&nbsp;&nbsp;Internationale Politik QuarterlyEU commissioner calls for creation of European Security Council&nbsp;&nbsp;Anadolu Ajansı"
+summary: "EU may need 100,000-strong army, says defense commissioner&nbsp;&nbsp;politico.eu‘European Security Council Now!’ – EU Defense Chief Renews Calls for Common Army&nbsp;&nbsp;Kyiv PostEU should consider forming combined military force, bloc’s defense chief says&nbsp;&nbsp;The Times of IsraelWinter 2026 Issue: New Ideas for Europe&nbsp;&nbsp;Internationale Politik QuarterlyEU commissioner calls for creation of European Security Council&nbsp;&nbsp;Anadolu Ajansı"
+slug: "eu-may-need-100-000-strong-army-says-defense-commissioner-politico-eu"
+image: ''
+link: 'https://news.google.com/rss/articles/CBMitwFBVV95cUxPM2pGWE9WcXV1R1QwWTRrYk1wS2VpWVhoUlA2Y2NPaURqQlhGeFhRRi05YzQxNlVnS1Z6UkdMX2pNTzNQbEo4N1RBdGVlZEMtSVFtTFg0cld3UGk4WUMtZkFVWTdwNzBkd2JYcUpBcnl4alJyQ1RDTVlBMmJSN3BkNXVJSGtwQWpHWjhSbjlMTDNfZVRmMjVSNEVHbnNRRnEtaXBxczEyUnJtUUpBWk9NQkhSTlZFekk?oc=5'
+source: 'https://news.google.com/rss/topics/CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx1YlY4U0FtVnVHZ0pWVXlnQVAB?hl=en-US&gl=US&ceid=US:en'
+categories:
+- 'news.google.com'
+tags:
+- 'commissioner'
+- 'politico'
+- 'defense'
+- 'strong'
+
+draft: false
+---
+<ol><li><a href="https://news.google.com/rss/articles/CBMitwFBVV95cUxPM2pGWE9WcXV1R1QwWTRrYk1wS2VpWVhoUlA2Y2NPaURqQlhGeFhRRi05YzQxNlVnS1Z6UkdMX2pNTzNQbEo4N1RBdGVlZEMtSVFtTFg0cld3UGk4WUMtZkFVWTdwNzBkd2JYcUpBcnl4alJyQ1RDTVlBMmJSN3BkNXVJSGtwQWpHWjhSbjlMTDNfZVRmMjVSNEVHbnNRRnEtaXBxczEyUnJtUUpBWk9NQkhSTlZFekk?oc=5" target="_blank">EU may need 100,000-strong army, says defense commissioner</a>&nbsp;&nbsp;<font color="#6f6f6f">politico.eu</font></li><li><a href="https://news.google.com/rss/articles/CBMiS0FVX3lxTE5YakFXZFNVQUItQ1JsbFZJNEFnX2htM3VzR2VKTl94d0lycnI0MS1lTmFQaXp3OUw5UmhEQ3B2aWtQRDR0RmlIWjVXWQ?oc=5" target="_blank">‘European Security Council Now!’ – EU Defense Chief Renews Calls for Common Army</a>&nbsp;&nbsp;<font color="#6f6f6f">Kyiv Post</font></li><li><a href="https://news.google.com/rss/articles/CBMi8AFBVV95cUxQa3Y2NEQ0MFpOMy1wT1Q4b3JDRmJFRURXVG1WeUdsNXFCTG5LbnNvcWw1TEExZ3I1bU9MNW82X1QtN0tqZWQzNzh0ZXZlUk1sOXVMajhXNmFCUjVKYWlPOGMwZ0ZtVG9xQktIQlhXNFBPYVdKaWFBSGM1R2QwMW52dnBIalhtZ2hTV1FfYTNYa0RUVE4xR0F5cVRhUE1saEoteTFIZWt2a0JnRDlpNGZJWGkzaHZMUzNTeEZvenI1ZnNiZ1dGWjRRRXRjVmNEQTBXYWRSSUZTVEM3cDVnUHJiSHoydTR3VThlMWpXTWlDQkvSAa8BQVVfeXFMT1l0SndtUUNIZlZrVktEVDdJWHpmZ2JkUEZGc0tCbEFVUnpqTEVqVXY0QS1WQU1udW9naExwR0dPMjVoeUpKcmEtaG1nb0Q4TEdXanp6OHo2VzlFT0MwRFBudWRvOVFocUZFZVhUZVlUSkE4VDRMNjhiblR6ZUgxTHJHWDdIS29Tc05wMzBfQVdxWGc3NDNmUk9pR1ZGR2xrOVVkQTFoRXhxU0FVZkpEdw?oc=5" target="_blank">EU should consider forming combined military force, bloc’s defense chief says</a>&nbsp;&nbsp;<font color="#6f6f6f">The Times of Israel</font></li><li><a href="https://news.google.com/rss/articles/CBMib0FVX3lxTE54eDgzR1FtTDFVMC1wNDB0MllBVmVoOVNaSkJYcWg4QWZMT1hVMlVSNjNyMXFwcGk5YjZmb09wdTA2VmJ6Q3JxTHJYZm9CQjJXaWdDelJBQm15X1dES0hYZG9JN2tIbTRGSThzdUt5MA?oc=5" target="_blank">Winter 2026 Issue: New Ideas for Europe</a>&nbsp;&nbsp;<font color="#6f6f6f">Internationale Politik Quarterly</font></li><li><a href="https://news.google.com/rss/articles/CBMipgFBVV95cUxPZVlMa2YzejVlQzMxVDdpQ3MtSlZhRklaX0huOEx5YmZnTUVPT3ZLcjFreFFsVG5Cbmg4MXB1Q1VKTmtOaE1JcDdoUGxjTklycWx5bm1YNGRUa3VodkZRMUxQaTRDSW9ySjlJdFhnRzRsSEZ2QzBMT2VZdVQteTJEUnlvckMtN1NCSjB6M0VEZ3lzRUUwMVdBeWpMNk9MMFVpT3A2YmhB?oc=5" target="_blank">EU commissioner calls for creation of European Security Council</a>&nbsp;&nbsp;<font color="#6f6f6f">Anadolu Ajansı</font></li></ol>
