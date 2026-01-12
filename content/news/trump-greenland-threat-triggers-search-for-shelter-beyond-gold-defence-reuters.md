@@ -1,0 +1,21 @@
+---
+title: "Trump Greenland threat triggers search for shelter beyond gold, defence - Reuters"
+date: 2026-01-12
+description: "Trump Greenland threat triggers search for shelter beyond gold, defence&nbsp;&nbsp;ReutersHow Greenland Falls&nbsp;&nbsp;Foreign AffairsThe US must take Greenland, whatever the cost&nbsp;&nbsp;The HillChina says US shouldn't use other countries as 'pretext' to pursue its interests in Greenland&nbsp;&nbsp;ABC NewsDenmark’s Prime Minister Says Country Faces a “Fateful Moment” as Trump Threatens to Take Over Greenland&nbsp;&nbsp;Democracy Now!"
+summary: "Trump Greenland threat triggers search for shelter beyond gold, defence&nbsp;&nbsp;ReutersHow Greenland Falls&nbsp;&nbsp;Foreign AffairsThe US must take Greenland, whatever the cost&nbsp;&nbsp;The HillChina says US shouldn't use other countries as 'pretext' to pursue its interests in Greenland&nbsp;&nbsp;ABC NewsDenmark’s Prime Minister Says Country Faces a “Fateful Moment” as Trump Threatens to Take Over Greenland&nbsp;&nbsp;Democracy Now!"
+slug: "trump-greenland-threat-triggers-search-for-shelter-beyond-gold-defence-reuters"
+image: ''
+link: 'https://news.google.com/rss/articles/CBMiyAFBVV95cUxONnhaVlhtLUJqaXJNVHFpU25oSTJwMmRHNWJMQnY0Z1N6UlZORWI5UGMwaXdkbkF0aUVxS1I4UHFORDVXc2tlYk9VamhRWjIwSXZkY09HbVVVYng0OGYzRE80NllYVElFNnZub3pxMTh0SGZCenNMbVJmR1VkMk9nbGlsbFBTMVdsS0ItYzlMX3hiRk0zR0xONXpXU3MyeUM4X0ktSW1vMFRpeXphQzZaM0pLdHZPeUVQX3N4VWF2SWhVbVV5SG9hbw?oc=5'
+source: 'https://news.google.com/rss/topics/CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx1YlY4U0FtVnVHZ0pWVXlnQVAB?hl=en-US&gl=US&ceid=US:en'
+categories:
+- 'news.google.com'
+tags:
+- 'greenland'
+- 'triggers'
+- 'shelter'
+- 'defence'
+- 'reuters'
+
+draft: false
+---
+<ol><li><a href="https://news.google.com/rss/articles/CBMiyAFBVV95cUxONnhaVlhtLUJqaXJNVHFpU25oSTJwMmRHNWJMQnY0Z1N6UlZORWI5UGMwaXdkbkF0aUVxS1I4UHFORDVXc2tlYk9VamhRWjIwSXZkY09HbVVVYng0OGYzRE80NllYVElFNnZub3pxMTh0SGZCenNMbVJmR1VkMk9nbGlsbFBTMVdsS0ItYzlMX3hiRk0zR0xONXpXU3MyeUM4X0ktSW1vMFRpeXphQzZaM0pLdHZPeUVQX3N4VWF2SWhVbVV5SG9hbw?oc=5" target="_blank">Trump Greenland threat triggers search for shelter beyond gold, defence</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font></li><li><a href="https://news.google.com/rss/articles/CBMickFVX3lxTE8yaHNveS11aFpNdEVTTURMcGgxTUpjYnhSS1VEbmg5d2xUMWNFOGNRc3JET1doUEVCWW5ESTktV0VyRWE0aUU2dW9Hc0xUYS0xNVVfeHJ0cEdORlJhcG91QVRXMEo2MUhzUkUtYVIzSjRZdw?oc=5" target="_blank">How Greenland Falls</a>&nbsp;&nbsp;<font color="#6f6f6f">Foreign Affairs</font></li><li><a href="https://news.google.com/rss/articles/CBMiiwFBVV95cUxNVGtkTWlHVXM0NlFldk52QS1VQnYxbW5aSXA1VFBlS0dTOC01ZDNWd3laem84NjVRbXBIY0txQkplb1ZvQUl1ZUtaRVVVUnU3N01mMjBybU9TWHFEUldIT1Y4dF8tNUx5Z2gwOWh2dzVHSlcyV05SMi16dDJ5dGtHaW9hY1NoTVdaaEhz0gGQAUFVX3lxTFBLaVdPWHVEUk9DRV9vWnA3X1N6bnN0c0V6d3Y5Mi1PejNTckZMTWJZcHY5VXFJUXpONWs2MFpKWGNyamVDam1LRUo1a2RQSE1maGU0clJsMlpES3hnU3pELXR4cjd0cnRyOHhBdEZxSHV1NHJKa0NNelBpSnJZbm9CcDdRTmxlR3lsWDRrV2ZjOQ?oc=5" target="_blank">The US must take Greenland, whatever the cost</a>&nbsp;&nbsp;<font color="#6f6f6f">The Hill</font></li><li><a href="https://news.google.com/rss/articles/CBMirwFBVV95cUxQU0dvYXJTLXhYYnVabUd6YlVwNTVrZGVWeUdwYklid2U4Ukt4bFY1dVVpRmdMdnV2NktiREhKOW1XOXFjcGswZ0cwMEFVZGFJNGR5cGluR01DSGFsQkQ5RUJRRUFRSFVuVUVBUU1Sc2hiMWRUai1oMG1CeUF0Nlk4YWxhMC1hclVGZlB4OFdha3R3cGZleFhRNmJ1VVdEWThUbnpuOXBrbXhSc0lxbXlj0gG0AUFVX3lxTFBfVzVXU1ctdlpLa1J4Q1N0alJxSFRySldsMHJLYjNocDhwWVhTeUxJbEZNQXFUU2FHc1IwTktwbTFSQVBGTDNiS1ZxNTlWZE91QXRhSUszX2VNTVkwc2FTU3lRWmlTNDMwQ0FRc2t6a3dhTWQ3dnZ0QlJwajBxSVdwQzI2dmZLbXFtWEVUdnUwYTNLS1o4eVl0ekxYd1l2SzJYd2JXa0dWdnZrb0hTX3htSEhWaA?oc=5" target="_blank">China says US shouldn't use other countries as 'pretext' to pursue its interests in Greenland</a>&nbsp;&nbsp;<font color="#6f6f6f">ABC News</font></li><li><a href="https://news.google.com/rss/articles/CBMi5AFBVV95cUxPSGlTbjdRMEI2MHc5SVpfQjgtV2lTeW0zN1FUNE5kQ0ZWWHF1SUJWMlJubGJCVVVVTHhhTUdjV3U2U1YyOHQ4RU00T1FJMnJFblFzTkpHSHFrZ3l6ZWNLdW5CelVJYXkzUVNMZFlsdXNpY0t0MzVNRGFtcUlrV0tINHk2eXBhbVZONEpPcml1bU83em1pTEcyQ2RvRmhlQUhRQXc2Y1dld2hmWUZ0TVRGUldqTzdZUlpySFJKcy1oWnBTM1FPQUZqVHdHYmRKTlhWOVMwdXpiclVPM2dlU1VXcXdFREo?oc=5" target="_blank">Denmark’s Prime Minister Says Country Faces a “Fateful Moment” as Trump Threatens to Take Over Greenland</a>&nbsp;&nbsp;<font color="#6f6f6f">Democracy Now!</font></li></ol>

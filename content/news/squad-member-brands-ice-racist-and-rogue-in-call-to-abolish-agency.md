@@ -1,5 +1,5 @@
 ---
-title: "Squad member brands ICE 'racist' and 'rogue' in call to abolish agency"
+title: "'Squad' member brands ICE 'racist' and 'rogue' in call to abolish agency"
 date: 2026-01-12
 description: "Progressive lawmaker Rep. Ayanna Pressley, D-Mass., demanded ICE be abolished on Sunday, calling the immigration agency &quot;racist&quot; and &quot;rogue&quot; after the Minneapolis shooting."
 summary: "Progressive lawmaker Rep. Ayanna Pressley, D-Mass., demanded ICE be abolished on Sunday, calling the immigration agency &quot;racist&quot; and &quot;rogue&quot; after the Minneapolis shooting."
