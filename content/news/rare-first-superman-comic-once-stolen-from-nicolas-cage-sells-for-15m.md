@@ -1,6 +1,6 @@
 ---
 title: "Rare first Superman comic once stolen from Nicolas Cage sells for $15m"
-date: 2026-01-11
+date: 2026-01-12
 description: "Fewer than 100 copies of Action Comics No 1, which introduced the world to Superman, are thought to exist."
 summary: "Fewer than 100 copies of Action Comics No 1, which introduced the world to Superman, are thought to exist."
 slug: "rare-first-superman-comic-once-stolen-from-nicolas-cage-sells-for-15m"

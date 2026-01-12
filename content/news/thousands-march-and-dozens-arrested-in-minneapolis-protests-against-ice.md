@@ -1,6 +1,6 @@
 ---
 title: "Thousands march and dozens arrested in Minneapolis protests against ICE "
-date: 2026-01-11
+date: 2026-01-12
 description: "Days after the death of Renee Good, protests continue in Minneapolis and cities across the US. "
 summary: "Days after the death of Renee Good, protests continue in Minneapolis and cities across the US. "
 slug: "thousands-march-and-dozens-arrested-in-minneapolis-protests-against-ice"

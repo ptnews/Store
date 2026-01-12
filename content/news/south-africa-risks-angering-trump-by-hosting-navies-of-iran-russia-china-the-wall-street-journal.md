@@ -1,6 +1,6 @@
 ---
 title: "South Africa Risks Angering Trump by Hosting Navies of Iran, Russia, China - The Wall Street Journal"
-date: 2026-01-11
+date: 2026-01-12
 description: "South Africa Risks Angering Trump by Hosting Navies of Iran, Russia, China&nbsp;&nbsp;The Wall Street JournalBRICS wargames: Why they matter, why India opted out&nbsp;&nbsp;Al JazeeraSouth Africa's strained ties with US face new test - war games with China, Iran and Russia&nbsp;&nbsp;BBCChina, Russia, Iran start 'BRICS Plus' naval exercises in South African waters&nbsp;&nbsp;ReutersChina Leads Warships From Russia and Iran in Show of Force Near South Africa’s Key Trade Route&nbsp;&nbsp;UNITED2..."
 summary: "South Africa Risks Angering Trump by Hosting Navies of Iran, Russia, China&nbsp;&nbsp;The Wall Street JournalBRICS wargames: Why they matter, why India opted out&nbsp;&nbsp;Al JazeeraSouth Africa's strained ties with US face new test - war games with China, Iran and Russia&nbsp;&nbsp;BBCChina, Russia, Iran start 'BRICS Plus' naval exercises in South African waters&nbsp;&nbsp;ReutersChina Leads Warships From Russia and Iran in Show of Force Near South Africa’s Key Trade Route&nbsp;&nbsp;UNITED2..."
 slug: "south-africa-risks-angering-trump-by-hosting-navies-of-iran-russia-china-the-wall-street-journal"

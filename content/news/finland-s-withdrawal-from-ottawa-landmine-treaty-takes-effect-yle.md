@@ -1,6 +1,6 @@
 ---
 title: "Finland's withdrawal from Ottawa landmine treaty takes effect - Yle"
-date: 2026-01-11
+date: 2026-01-12
 description: "Finland's withdrawal from Ottawa landmine treaty takes effect&nbsp;&nbsp;YleWhy states should remain in the Anti-Personnel Mine Ban Convention: humanitarian and security imperatives&nbsp;&nbsp;European Leadership NetworkFinland officially withdraws from Ottawa landmine treaty&nbsp;&nbsp;UkrinformTHE NORDIC-BALTIC SECESSION FROM THE OTTAWA CONVENTION AND THE GEOPOLITICAL RECALIBRATION OF EASTERN FLANK TERRITORIAL DEFENSE&nbsp;&nbsp;https://debuglies.comFinland officially withdrew from the Ottawa ..."
 summary: "Finland's withdrawal from Ottawa landmine treaty takes effect&nbsp;&nbsp;YleWhy states should remain in the Anti-Personnel Mine Ban Convention: humanitarian and security imperatives&nbsp;&nbsp;European Leadership NetworkFinland officially withdraws from Ottawa landmine treaty&nbsp;&nbsp;UkrinformTHE NORDIC-BALTIC SECESSION FROM THE OTTAWA CONVENTION AND THE GEOPOLITICAL RECALIBRATION OF EASTERN FLANK TERRITORIAL DEFENSE&nbsp;&nbsp;https://debuglies.comFinland officially withdrew from the Ottawa ..."
 slug: "finland-s-withdrawal-from-ottawa-landmine-treaty-takes-effect-yle"

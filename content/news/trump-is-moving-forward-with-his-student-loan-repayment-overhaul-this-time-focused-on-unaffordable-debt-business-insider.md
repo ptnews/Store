@@ -1,6 +1,6 @@
 ---
 title: "Trump is moving forward with his student-loan repayment overhaul — this time focused on unaffordable debt - Business Insider"
-date: 2026-01-11
+date: 2026-01-12
 description: "Trump is moving forward with his student-loan repayment overhaul — this time focused on unaffordable debt&nbsp;&nbsp;Business InsiderStudent loan borrowers face major changes to repayment options, loan limits this year&nbsp;&nbsp;The HillEditorial: Student loan changes put college costs in crosshairs&nbsp;&nbsp;Boston HeraldWe heard from over 400 student-loan borrowers. Here's what's on their minds, from repayment to relief.&nbsp;&nbsp;Yahoo News CanadaFederal student loan repayment rules are ..."
 summary: "Trump is moving forward with his student-loan repayment overhaul — this time focused on unaffordable debt&nbsp;&nbsp;Business InsiderStudent loan borrowers face major changes to repayment options, loan limits this year&nbsp;&nbsp;The HillEditorial: Student loan changes put college costs in crosshairs&nbsp;&nbsp;Boston HeraldWe heard from over 400 student-loan borrowers. Here's what's on their minds, from repayment to relief.&nbsp;&nbsp;Yahoo News CanadaFederal student loan repayment rules are ..."
 slug: "trump-is-moving-forward-with-his-student-loan-repayment-overhaul-this-time-focused-on-unaffordable-debt-business-insider"

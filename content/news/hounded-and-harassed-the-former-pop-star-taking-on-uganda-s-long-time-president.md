@@ -1,6 +1,6 @@
 ---
 title: "'Hounded and harassed': The former pop star taking on Uganda's long-time president"
-date: 2026-01-11
+date: 2026-01-12
 description: "Bobi Wine - a former musician - has been arrested numerous times as he challenges President Yoweri Museveni."
 summary: "Bobi Wine - a former musician - has been arrested numerous times as he challenges President Yoweri Museveni."
 slug: "hounded-and-harassed-the-former-pop-star-taking-on-uganda-s-long-time-president"

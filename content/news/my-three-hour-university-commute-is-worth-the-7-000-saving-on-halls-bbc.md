@@ -1,6 +1,6 @@
 ---
 title: "My three-hour university commute is worth the £7,000 saving on halls - BBC"
-date: 2026-01-11
+date: 2026-01-12
 description: "My three-hour university commute is worth the £7,000 saving on halls&nbsp;&nbsp;BBC"
 summary: "My three-hour university commute is worth the £7,000 saving on halls&nbsp;&nbsp;BBC"
 slug: "my-three-hour-university-commute-is-worth-the-7-000-saving-on-halls-bbc"

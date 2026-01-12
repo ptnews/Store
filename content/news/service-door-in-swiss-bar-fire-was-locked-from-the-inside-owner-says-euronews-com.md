@@ -1,6 +1,6 @@
 ---
 title: "Service door in Swiss bar fire was locked from the inside, owner says - Euronews.com"
-date: 2026-01-11
+date: 2026-01-12
 description: "Service door in Swiss bar fire was locked from the inside, owner says&nbsp;&nbsp;Euronews.comService door of Crans-Montana bar where 40 died in fire was locked from inside, owner says&nbsp;&nbsp;The GuardianSwiss canton leader voices anger over lack of checks at bar that caught fire&nbsp;&nbsp;ReutersChurch to join day of mourning for Switzerland fire victims&nbsp;&nbsp;Church NewsAnger at Swiss ski bar resort at failure to protect people&nbsp;&nbsp;BBC"
 summary: "Service door in Swiss bar fire was locked from the inside, owner says&nbsp;&nbsp;Euronews.comService door of Crans-Montana bar where 40 died in fire was locked from inside, owner says&nbsp;&nbsp;The GuardianSwiss canton leader voices anger over lack of checks at bar that caught fire&nbsp;&nbsp;ReutersChurch to join day of mourning for Switzerland fire victims&nbsp;&nbsp;Church NewsAnger at Swiss ski bar resort at failure to protect people&nbsp;&nbsp;BBC"
 slug: "service-door-in-swiss-bar-fire-was-locked-from-the-inside-owner-says-euronews-com"

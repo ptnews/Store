@@ -1,6 +1,6 @@
 ---
 title: "Pope Leo: Failure to welcome abuse victims is a scandal - Vatican News"
-date: 2026-01-11
+date: 2026-01-12
 description: "Pope Leo: Failure to welcome abuse victims is a scandal&nbsp;&nbsp;Vatican NewsView Full Coverage on Google News"
 summary: "Pope Leo: Failure to welcome abuse victims is a scandal&nbsp;&nbsp;Vatican NewsView Full Coverage on Google News"
 slug: "pope-leo-failure-to-welcome-abuse-victims-is-a-scandal-vatican-news"

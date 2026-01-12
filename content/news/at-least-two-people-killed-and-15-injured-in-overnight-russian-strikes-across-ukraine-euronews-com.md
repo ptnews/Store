@@ -1,6 +1,6 @@
 ---
 title: "At least two people killed and 15 injured in overnight Russian strikes across Ukraine - Euronews.com"
-date: 2026-01-11
+date: 2026-01-12
 description: "At least two people killed and 15 injured in overnight Russian strikes across Ukraine&nbsp;&nbsp;Euronews.comOvernight Attacks Continue Across Much of Ukraine, at Least 11 Killed, Dozens Injured&nbsp;&nbsp;Kyiv PostUkraine targets Moscow daily with drones this year, Russia says, in apparent escalation&nbsp;&nbsp;ReutersUkraine war briefing: Kyiv escalating drone attacks on Russia, Moscow claims&nbsp;&nbsp;The GuardianRussia downs 130 drones overnight&nbsp;&nbsp;breakingthenews.net"
 summary: "At least two people killed and 15 injured in overnight Russian strikes across Ukraine&nbsp;&nbsp;Euronews.comOvernight Attacks Continue Across Much of Ukraine, at Least 11 Killed, Dozens Injured&nbsp;&nbsp;Kyiv PostUkraine targets Moscow daily with drones this year, Russia says, in apparent escalation&nbsp;&nbsp;ReutersUkraine war briefing: Kyiv escalating drone attacks on Russia, Moscow claims&nbsp;&nbsp;The GuardianRussia downs 130 drones overnight&nbsp;&nbsp;breakingthenews.net"
 slug: "at-least-two-people-killed-and-15-injured-in-overnight-russian-strikes-across-ukraine-euronews-com"

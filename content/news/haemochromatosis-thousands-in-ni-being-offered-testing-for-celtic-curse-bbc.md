@@ -1,6 +1,6 @@
 ---
 title: "Haemochromatosis: Thousands in NI being offered testing for Celtic curse - BBC"
-date: 2026-01-11
+date: 2026-01-12
 description: "Haemochromatosis: Thousands in NI being offered testing for Celtic curse&nbsp;&nbsp;BBC"
 summary: "Haemochromatosis: Thousands in NI being offered testing for Celtic curse&nbsp;&nbsp;BBC"
 slug: "haemochromatosis-thousands-in-ni-being-offered-testing-for-celtic-curse-bbc"

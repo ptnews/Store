@@ -1,0 +1,21 @@
+---
+title: "Golden Globes host Nikki Glaser mocks CBS News as 'best place to see BS news'"
+date: 2026-01-11
+description: "Golden Globes host and comedian Nikki Glaser roasted CBS News during her opening monologue at the ceremony, which aired on CBS and Paramount+ Sunday night."
+summary: "Golden Globes host and comedian Nikki Glaser roasted CBS News during her opening monologue at the ceremony, which aired on CBS and Paramount+ Sunday night."
+slug: "golden-globes-host-nikki-glaser-mocks-cbs-news-as-best-place-to-see-bs-news"
+image: ''
+link: 'https://www.foxnews.com/media/golden-globes-host-nikki-glaser-mocks-cbs-news-best-place-see-bs-news'
+source: 'https://feeds.foxnews.com/foxnews/latest'
+categories:
+- 'feeds.foxnews.com'
+tags:
+- 'golden'
+- 'globes'
+- 'glaser'
+- 'nikki'
+- 'mocks'
+
+draft: false
+---
+<p>Comedian Nikki Glaser mocked CBS News as the place for "BS news" in her monologue for the 83rd <a href="https://www.foxnews.com/category/entertainment/events/golden-globes" target="_blank" rel="noopener">Golden Globe Awards</a> ceremony Sunday night.</p><p>"And the award for 'Most Editing' goes to CBS News. Yes, CBS News, America's newest place to see BS news," Glaser said.</p><p>Over the past year, CBS has experienced several controversies and new ownership that led to new leadership, which have some critics accusing the network of losing its credibility. </p><p>Homeland Security Secretary Kristi Noem accused CBS of <a href="https://www.foxnews.com/media/cbs-overhauls-face-nation-interview-format-after-noem-editing-controversy-sparks-backlash" target="_blank" rel="noopener">editing her "Face the Nation" interview</a> in September. CBS News later announced that "Face the Nation" interviews would only be broadcast live or live-to-tape in response.</p><p><a href="https://www.foxnews.com/entertainment/golden-globes-host-nikki-glaser-names-one-hollywood-star-you-cannot-make-fun-of" target="_blank" rel="noopener"><strong>GOLDEN GLOBES HOST NIKKI GLASER NAMES THE ONE HOLLYWOOD STAR 'YOU CANNOT MAKE FUN OF'</strong></a></p><p>However, CBS News was previously accused by President Donald Trump of <a href="https://www.foxnews.com/media/former-60-minutes-producer-says-he-pressured-apologize-over-harris-interview" target="_blank" rel="noopener">editing an interview with</a> then-Vice President Kamala Harris to provide a better image of the Democratic candidate in the months leading up to the 2024 presidential election. Trump sued the network after accusing them of "election interference" in favor of Harris.</p><p>CBS' parent company later agreed to <a href="https://www.foxnews.com/media/paramount-global-settles-trumps-lawsuit-against-cbs-news-over-60-minutes-interview" target="_blank" rel="noopener">a $16 million settlement</a> with President Donald Trump ahead of its merger with Skydance Media.</p><p><a href="https://www.foxnews.com/media/david-letterman-blasts-cbs-news-wreck-run-idiots-who-trampled-networks-integrity" target="_blank" rel="noopener"><strong>DAVID LETTERMAN BLASTS CBS NEWS AS 'WRECK' RUN BY 'IDIOTS' WHO TRAMPLED NETWORK'S INTEGRITY</strong></a></p><p>Although Glaser mocked CBS News, CBS and its parent company Paramount were the ones who aired the Golden Globe Awards Sunday night, with the ceremony also streaming on Paramount+.</p><p>CBS has faced backlash from liberal commentators since Paramount's settlement with Trump and has been accused of acquiescing to the Trump administration through Paramount's new CEO, David Ellison. Ellison has focused on revitalizing CBS News since becoming CEO, installing The Free Press founder <a href="https://www.foxnews.com/media/bari-weiss-being-named-top-cbs-news-editor-causes-liberal-media-meltdown" target="_blank" rel="noopener">Bari Weiss as editor-in-chief</a> in October.</p><p><a href="http://foxnews.com/media" target="_blank" rel="noopener"><strong>CLICK HERE FOR MORE COVERAGE OF MEDIA AND CULTURE</strong></a></p><p>Progressive commentators have also gone after Weiss for making significant decisions behind-the-scenes, such as <a href="https://www.foxnews.com/media/cbs-bari-weiss-facing-mounting-backlash-from-liberal-critics-over-yanking-60-minutes-segment" target="_blank" rel="noopener">pulling a "60 Minutes" segment</a> hours before it was scheduled to air.</p>

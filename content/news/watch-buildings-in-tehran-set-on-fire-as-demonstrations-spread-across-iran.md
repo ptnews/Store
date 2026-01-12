@@ -1,6 +1,6 @@
 ---
 title: "Watch: Buildings in Tehran set on fire as demonstrations spread across Iran"
-date: 2026-01-11
+date: 2026-01-12
 description: "In video verified by BBC Persian, protesters in Iran can be heard chanting anti-government slogans."
 summary: "In video verified by BBC Persian, protesters in Iran can be heard chanting anti-government slogans."
 slug: "watch-buildings-in-tehran-set-on-fire-as-demonstrations-spread-across-iran"

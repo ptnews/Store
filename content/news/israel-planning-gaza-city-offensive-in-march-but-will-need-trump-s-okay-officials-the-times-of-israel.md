@@ -1,6 +1,6 @@
 ---
 title: "Israel planning Gaza City offensive in March, but will need Trump’s okay — officials - The Times of Israel"
-date: 2026-01-11
+date: 2026-01-12
 description: "Israel planning Gaza City offensive in March, but will need Trump’s okay — officials&nbsp;&nbsp;The Times of IsraelIsrael and Hamas Get Ready to Go Back to War in Gaza - WSJ&nbsp;&nbsp;The Wall Street JournalWounded IDF reservists confront life after Gaza war&nbsp;&nbsp;The Jerusalem PostIsrael planning renewed Gaza offensive in March, report says&nbsp;&nbsp;Middle East EyeReports: Israel and Hamas preparing to resume war in Gaza&nbsp;&nbsp;Yahoo"
 summary: "Israel planning Gaza City offensive in March, but will need Trump’s okay — officials&nbsp;&nbsp;The Times of IsraelIsrael and Hamas Get Ready to Go Back to War in Gaza - WSJ&nbsp;&nbsp;The Wall Street JournalWounded IDF reservists confront life after Gaza war&nbsp;&nbsp;The Jerusalem PostIsrael planning renewed Gaza offensive in March, report says&nbsp;&nbsp;Middle East EyeReports: Israel and Hamas preparing to resume war in Gaza&nbsp;&nbsp;Yahoo"
 slug: "israel-planning-gaza-city-offensive-in-march-but-will-need-trump-s-okay-officials-the-times-of-israel"

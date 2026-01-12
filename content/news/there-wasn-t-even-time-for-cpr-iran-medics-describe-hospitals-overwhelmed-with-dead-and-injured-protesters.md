@@ -1,6 +1,6 @@
 ---
 title: "'There wasn't even time for CPR': Iran medics describe hospitals overwhelmed with dead and injured protesters"
-date: 2026-01-11
+date: 2026-01-12
 description: "Hundreds of people are believed to have been killed or injured by the security forces, with more than 70 bodies brought to one hospital."
 summary: "Hundreds of people are believed to have been killed or injured by the security forces, with more than 70 bodies brought to one hospital."
 slug: "there-wasn-t-even-time-for-cpr-iran-medics-describe-hospitals-overwhelmed-with-dead-and-injured-protesters"

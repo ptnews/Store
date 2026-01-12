@@ -1,6 +1,6 @@
 ---
 title: "Sudan's government returns to capital after nearly 3 years of war"
-date: 2026-01-11
+date: 2026-01-12
 description: "The military-backed government is back in Khartoum after being driven out by its paramilitary rival."
 summary: "The military-backed government is back in Khartoum after being driven out by its paramilitary rival."
 slug: "sudan-s-government-returns-to-capital-after-nearly-3-years-of-war"

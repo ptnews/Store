@@ -1,6 +1,6 @@
 ---
 title: "Five hundred people in Canada were diagnosed with mystery brain disease. What if it isn't real?"
-date: 2026-01-11
+date: 2026-01-12
 description: "A small Canadian province feared it had a mystery neurological illness on its hands. The search for answers set off a battle for the truth."
 summary: "A small Canadian province feared it had a mystery neurological illness on its hands. The search for answers set off a battle for the truth."
 slug: "five-hundred-people-in-canada-were-diagnosed-with-mystery-brain-disease-what-if-it-isn-t-real"

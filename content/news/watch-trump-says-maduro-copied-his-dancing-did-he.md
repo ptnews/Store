@@ -1,6 +1,6 @@
 ---
 title: "Watch: Trump says Maduro copied his dancing. Did he?"
-date: 2026-01-11
+date: 2026-01-12
 description: "The US president on Tuesday claimed the ousted Venezuelan leader imitated his moves. Here's a side-by-side look at both men's dancing."
 summary: "The US president on Tuesday claimed the ousted Venezuelan leader imitated his moves. Here's a side-by-side look at both men's dancing."
 slug: "watch-trump-says-maduro-copied-his-dancing-did-he"

@@ -1,6 +1,6 @@
 ---
 title: "US military strikes Islamic State group targets in Syria, officials say"
-date: 2026-01-11
+date: 2026-01-12
 description: "US President Donald Trump ordered the \"large-scale strikes\" on Saturday, US Central Command announced. "
 summary: "US President Donald Trump ordered the \"large-scale strikes\" on Saturday, US Central Command announced. "
 slug: "us-military-strikes-islamic-state-group-targets-in-syria-officials-say"

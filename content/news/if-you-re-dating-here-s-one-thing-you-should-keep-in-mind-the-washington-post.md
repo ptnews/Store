@@ -1,6 +1,6 @@
 ---
 title: "If you’re dating, here’s one thing you should keep in mind - The Washington Post"
-date: 2026-01-11
+date: 2026-01-12
 description: "If you’re dating, here’s one thing you should keep in mind&nbsp;&nbsp;The Washington Post"
 summary: "If you’re dating, here’s one thing you should keep in mind&nbsp;&nbsp;The Washington Post"
 slug: "if-you-re-dating-here-s-one-thing-you-should-keep-in-mind-the-washington-post"

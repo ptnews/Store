@@ -1,6 +1,6 @@
 ---
 title: "Winners and Sinners: What to expect from the Golden Globes"
-date: 2026-01-11
+date: 2026-01-12
 description: "Marty Supreme, Sinners and One Battle After Another are the films competing at this year's ceremony."
 summary: "Marty Supreme, Sinners and One Battle After Another are the films competing at this year's ceremony."
 slug: "winners-and-sinners-what-to-expect-from-the-golden-globes"

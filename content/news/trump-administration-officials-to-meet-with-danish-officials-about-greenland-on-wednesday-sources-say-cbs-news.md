@@ -1,0 +1,21 @@
+---
+title: "Trump administration officials to meet with Danish officials about Greenland on Wednesday, sources say - CBS News"
+date: 2026-01-12
+description: "Trump administration officials to meet with Danish officials about Greenland on Wednesday, sources say&nbsp;&nbsp;CBS NewsTrump says Greenland's defense is 'two dog sleds' as he pushes for US acquisition of territory&nbsp;&nbsp;Fox News‘Their defense is two dog sleds’: Trump pushes Greenland ‘takeover’; shares why US needs to 'acquire' it&nbsp;&nbsp;Times of IndiaOpinion | I’m in Denmark’s Parliament. Mr. President, We’re Already on Your Side.&nbsp;&nbsp;The New York TimesDenmark I..."
+summary: "Trump administration officials to meet with Danish officials about Greenland on Wednesday, sources say&nbsp;&nbsp;CBS NewsTrump says Greenland's defense is 'two dog sleds' as he pushes for US acquisition of territory&nbsp;&nbsp;Fox News‘Their defense is two dog sleds’: Trump pushes Greenland ‘takeover’; shares why US needs to 'acquire' it&nbsp;&nbsp;Times of IndiaOpinion | I’m in Denmark’s Parliament. Mr. President, We’re Already on Your Side.&nbsp;&nbsp;The New York TimesDenmark I..."
+slug: "trump-administration-officials-to-meet-with-danish-officials-about-greenland-on-wednesday-sources-say-cbs-news"
+image: ''
+link: 'https://news.google.com/rss/articles/CBMiekFVX3lxTE15MWV0ZmJIUWt0bmJwWHRDOUowWXJSWnJMVlZRM0F6WXBZOWhiV2FaYWptRXJTdjEtVmFUM0NiUm5tcFhVT0s4TE5NMU9lVWxNUzR0YTFQREN2d1I0eUE2Y0FWUjFpMVNLSVZzb0pYeHVJSTFKWmEzd1lB0gF_QVVfeXFMT1ctZTduWE42TlpzeFFTcXc1NUdTdy1rYjVfMW9XMTZMRkltNnBtMlBtRndkcmFDMHdwUnZ0S09IWmxsaThENzI4VmtLZ0l4cXhwNXE2SnV6cFJDMV95c3hrdlZrWkRXcTZPUS1uamk5Qm42WDJsV1FzMERmVkJVMA?oc=5'
+source: 'https://news.google.com/rss/topics/CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx1YlY4U0FtVnVHZ0pWVXlnQVAB?hl=en-US&gl=US&ceid=US:en'
+categories:
+- 'news.google.com'
+tags:
+- 'administration'
+- 'officials'
+- 'officials'
+- 'greenland'
+- 'wednesday'
+
+draft: false
+---
+<ol><li><a href="https://news.google.com/rss/articles/CBMiekFVX3lxTE15MWV0ZmJIUWt0bmJwWHRDOUowWXJSWnJMVlZRM0F6WXBZOWhiV2FaYWptRXJTdjEtVmFUM0NiUm5tcFhVT0s4TE5NMU9lVWxNUzR0YTFQREN2d1I0eUE2Y0FWUjFpMVNLSVZzb0pYeHVJSTFKWmEzd1lB0gF_QVVfeXFMT1ctZTduWE42TlpzeFFTcXc1NUdTdy1rYjVfMW9XMTZMRkltNnBtMlBtRndkcmFDMHdwUnZ0S09IWmxsaThENzI4VmtLZ0l4cXhwNXE2SnV6cFJDMV95c3hrdlZrWkRXcTZPUS1uamk5Qm42WDJsV1FzMERmVkJVMA?oc=5" target="_blank">Trump administration officials to meet with Danish officials about Greenland on Wednesday, sources say</a>&nbsp;&nbsp;<font color="#6f6f6f">CBS News</font></li><li><a href="https://news.google.com/rss/articles/CBMisAFBVV95cUxORzV0NE45X05uWTRLc0IxZjZlOTVkTVNKYXhaam5xTjBqY0VJTUVXcUxpQzBkVWdtZkhLYS15WHFnTkl4a0M4MU5PQWRpbm5EcEFHYkVrMnVDTUhHdkhaOTBta1QxZmUxUW43dTBtbjdnbElPcUNiYW85XzlGRTF4bmFxNmFNZ2l2bXRnYVV3T0NJUGJaazdzOTZOdDBjRkFraTA4dHpmcS1UQzh5cFRWTg?oc=5" target="_blank">Trump says Greenland's defense is 'two dog sleds' as he pushes for US acquisition of territory</a>&nbsp;&nbsp;<font color="#6f6f6f">Fox News</font></li><li><a href="https://news.google.com/rss/articles/CBMi-wFBVV95cUxQeGtkcTJqeGlEcDJ0WVVGbmNySGJhRWczZ1hISUVWSkpaaXZnd2dUTncyMGIwUTkwX2JodlgwMUpxMzY3U3VMWk1wUUVBTENvTDJsRUNlZUJyUEkxRFlwU3dnWGswV2Ria1dCM3RQRVBWVGwyby1iczVscngyeE15ZmQ5N05nV2ViUFJnbzRQeEtUR2NFa3dEOEVqTFNRcFJRVWhYSTZtWWItcU1GTk9RTXJXVWFGSlhvZWlGSW5pc1VKcnNKWHM5YVN6dXd4MVc3ZUlnWGtsWFhSTmt6Wl9PeXd4NEprZlV3SkxBbnBKbS1RcE8zRmZyMzlHRQ?oc=5" target="_blank">‘Their defense is two dog sleds’: Trump pushes Greenland ‘takeover’; shares why US needs to 'acquire' it</a>&nbsp;&nbsp;<font color="#6f6f6f">Times of India</font></li><li><a href="https://news.google.com/rss/articles/CBMiggFBVV95cUxQd2hNNkp4LV83S0FDNktNbXczNU91LS1URFNxaWlGVkY4RkM4TzdmYzh1RmFHUGxyZ1ptLU9EcnBsZ19QbU80aU5IUm1TRXM3cE1pclJnSEw0aEdRdkVuOXFPMHA4Z2JjZ1d4ZlRFb2xaazVHMFZoVmYzWl9Ybl9HT1RR?oc=5" target="_blank">Opinion | I’m in Denmark’s Parliament. Mr. President, We’re Already on Your Side.</a>&nbsp;&nbsp;<font color="#6f6f6f">The New York Times</font></li><li><a href="https://news.google.com/rss/articles/CBMikAFBVV95cUxNZ2F1dHBwY3hTQ19Dd3BNOXp0c2pSUEtNcW5iWHhhNThkWS1uVFQ5ZEhmdFdfWVF6ekFYdXdKRjFIQ1Z3aE1qc0NjRXZOSHd1WEI1dzNiTFVXMFV1MU1zZjNkOFhVSFEybGZFd3VsdF85c204Q014V3ozNEhhc3luM2VHUy1TTU9LNjJQZFczcjQ?oc=5" target="_blank">Denmark Is Sick of Being Bullied by Trump</a>&nbsp;&nbsp;<font color="#6f6f6f">The New Yorker</font></li></ol>

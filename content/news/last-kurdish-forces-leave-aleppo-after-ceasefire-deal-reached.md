@@ -1,6 +1,6 @@
 ---
 title: "Last Kurdish forces leave Aleppo after ceasefire deal reached"
-date: 2026-01-11
+date: 2026-01-12
 description: "The deal was announced in the early hours of Sunday morning after a week of violent clashes."
 summary: "The deal was announced in the early hours of Sunday morning after a week of violent clashes."
 slug: "last-kurdish-forces-leave-aleppo-after-ceasefire-deal-reached"

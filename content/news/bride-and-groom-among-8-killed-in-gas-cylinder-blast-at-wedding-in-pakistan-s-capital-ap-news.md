@@ -1,6 +1,6 @@
 ---
 title: "Bride and groom among 8 killed in gas cylinder blast at wedding in Pakistan’s capital - AP News"
-date: 2026-01-11
+date: 2026-01-12
 description: "Bride and groom among 8 killed in gas cylinder blast at wedding in Pakistan’s capital&nbsp;&nbsp;AP NewsView Full Coverage on Google News"
 summary: "Bride and groom among 8 killed in gas cylinder blast at wedding in Pakistan’s capital&nbsp;&nbsp;AP NewsView Full Coverage on Google News"
 slug: "bride-and-groom-among-8-killed-in-gas-cylinder-blast-at-wedding-in-pakistan-s-capital-ap-news"

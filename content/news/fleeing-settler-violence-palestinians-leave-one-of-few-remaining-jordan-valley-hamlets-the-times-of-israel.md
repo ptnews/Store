@@ -1,6 +1,6 @@
 ---
 title: "Fleeing settler violence, Palestinians leave one of few remaining Jordan Valley hamlets - The Times of Israel"
-date: 2026-01-11
+date: 2026-01-12
 description: "Fleeing settler violence, Palestinians leave one of few remaining Jordan Valley hamlets&nbsp;&nbsp;The Times of IsraelPalestinian villagers leave their West Bank homes over harassment by Israeli settlers&nbsp;&nbsp;HaaretzYanoun and the Irish rain umbrella&nbsp;&nbsp;Independent Catholic NewsIsraeli settlers use minors to harass Palestinian communities in West Bank: Report&nbsp;&nbsp;PressTVThis is how Israeli settlers, backed by the military, erased a Palestinian village from existence last wee..."
 summary: "Fleeing settler violence, Palestinians leave one of few remaining Jordan Valley hamlets&nbsp;&nbsp;The Times of IsraelPalestinian villagers leave their West Bank homes over harassment by Israeli settlers&nbsp;&nbsp;HaaretzYanoun and the Irish rain umbrella&nbsp;&nbsp;Independent Catholic NewsIsraeli settlers use minors to harass Palestinian communities in West Bank: Report&nbsp;&nbsp;PressTVThis is how Israeli settlers, backed by the military, erased a Palestinian village from existence last wee..."
 slug: "fleeing-settler-violence-palestinians-leave-one-of-few-remaining-jordan-valley-hamlets-the-times-of-israel"

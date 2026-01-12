@@ -1,6 +1,6 @@
 ---
 title: "Thousands of tourists stranded in Lapland as cold grounds flights"
-date: 2026-01-11
+date: 2026-01-12
 description: "All flights out of Kittila airport in northern Finland were cancelled on Sunday with temperatures falling as low as -38C."
 summary: "All flights out of Kittila airport in northern Finland were cancelled on Sunday with temperatures falling as low as -38C."
 slug: "thousands-of-tourists-stranded-in-lapland-as-cold-grounds-flights"

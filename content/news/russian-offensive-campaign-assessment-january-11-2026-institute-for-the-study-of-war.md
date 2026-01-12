@@ -1,0 +1,21 @@
+---
+title: "Russian Offensive Campaign Assessment, January 11, 2026 - Institute for the Study of War"
+date: 2026-01-12
+description: "Russian Offensive Campaign Assessment, January 11, 2026&nbsp;&nbsp;Institute for the Study of WarRussia deploys Geran-5 strike drone in attack for first time&nbsp;&nbsp;Українська правдаUkraine Reports First Deployment of Russia’s Jet-Launch Capable Geran-5 Drones&nbsp;&nbsp;UNITED24 MediaRussians attack Ukraine with Geran-5 combat drones for first time — intelligence&nbsp;&nbsp;UkrinformRussia Develops Geran-4 and Geran-5 for Airborne Launch&nbsp;&nbsp;TURDEF"
+summary: "Russian Offensive Campaign Assessment, January 11, 2026&nbsp;&nbsp;Institute for the Study of WarRussia deploys Geran-5 strike drone in attack for first time&nbsp;&nbsp;Українська правдаUkraine Reports First Deployment of Russia’s Jet-Launch Capable Geran-5 Drones&nbsp;&nbsp;UNITED24 MediaRussians attack Ukraine with Geran-5 combat drones for first time — intelligence&nbsp;&nbsp;UkrinformRussia Develops Geran-4 and Geran-5 for Airborne Launch&nbsp;&nbsp;TURDEF"
+slug: "russian-offensive-campaign-assessment-january-11-2026-institute-for-the-study-of-war"
+image: ''
+link: 'https://news.google.com/rss/articles/CBMiqwFBVV95cUxQbzNnZ05PM19oTHp5UWZ1UHp0ejdmNVBJaTJlYlRnOHdnM0N2d20xVmVYS1FheHZQd3VYakNKQnFPU1ZXQlpNUnpFckJPLXBKTjNRM19OdkZUeC1wblExTnE0Z2lGNFNoQWlVeE5MMlEtejBCQmRDc1VIYWtJbEJLSFBGZ0F4dnB2alNZSmhaY1RuSVk2NUFtMFUyeTM0c0owUmR4Vl94YmJTamM?oc=5'
+source: 'https://news.google.com/rss/topics/CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx1YlY4U0FtVnVHZ0pWVXlnQVAB?hl=en-US&gl=US&ceid=US:en'
+categories:
+- 'news.google.com'
+tags:
+- 'assessment'
+- 'offensive'
+- 'institute'
+- 'campaign'
+- 'russian'
+
+draft: false
+---
+<ol><li><a href="https://news.google.com/rss/articles/CBMiqwFBVV95cUxQbzNnZ05PM19oTHp5UWZ1UHp0ejdmNVBJaTJlYlRnOHdnM0N2d20xVmVYS1FheHZQd3VYakNKQnFPU1ZXQlpNUnpFckJPLXBKTjNRM19OdkZUeC1wblExTnE0Z2lGNFNoQWlVeE5MMlEtejBCQmRDc1VIYWtJbEJLSFBGZ0F4dnB2alNZSmhaY1RuSVk2NUFtMFUyeTM0c0owUmR4Vl94YmJTamM?oc=5" target="_blank">Russian Offensive Campaign Assessment, January 11, 2026</a>&nbsp;&nbsp;<font color="#6f6f6f">Institute for the Study of War</font></li><li><a href="https://news.google.com/rss/articles/CBMiZEFVX3lxTFBtVWQ0Tl9wTzR6dkdNWjRCRF9oV1daUzdrdDFaTFBucjlnaE5TRC1vUUtsZWtvV1dpeFEwNkx2UGRWaGtsLTJsSFRmMmRHV1ZxM0RTREc0a1B1emptMmJrOHB5akPSAXBBVV95cUxQc2N1VHpSOFFOLVR1VXB6QUoxZXhqeGdQZVlqZXZ3aXN2MEJMQkZPWWRmWFNKemhCLTZKQW9TZkhKdnhEdUVab2dVZnBfQUJidld5a1pfd0t0REtVN1hSSXVtSXBuUkpTODF1VDVrZmZD?oc=5" target="_blank">Russia deploys Geran-5 strike drone in attack for first time</a>&nbsp;&nbsp;<font color="#6f6f6f">Українська правда</font></li><li><a href="https://news.google.com/rss/articles/CBMivgFBVV95cUxQU2hZNkV6WjMycGk2djBKamxVRWk0SUM5eXZha0tFVjA4TE9ldmZMdm5iTVFjVzlrcEhoUUlWa0U0Z0lXLUNIWm81b1lEczdoV19GRThEMmF1U0pQMS12QnVoRi1pUkllaDBaMDZIZ1FGMkszQ3NMa0N0ZFB0eEg1UUFibVdpcVRkQVZUUUNNVUpRUFpkZ1IzaEU1aW9udXdDejV0azdRNVVWU1VBRnBZMU81TXFZLVRLcncwSldR?oc=5" target="_blank">Ukraine Reports First Deployment of Russia’s Jet-Launch Capable Geran-5 Drones</a>&nbsp;&nbsp;<font color="#6f6f6f">UNITED24 Media</font></li><li><a href="https://news.google.com/rss/articles/CBMixgFBVV95cUxPM3YwVWtWNXBoUFVpNGFNd09EZWI0eVpMZEMxejZBeTBRUC1tSmpneXBqalhGc3d3emFma3dscHNIRnJ5SjR0V0tGdjc0UVBGakFRUHVQMl8xRDViZE1ibVBtdmdPY29kMHdCSmdaNWE2XzZWMkFleFRHVVBpOG9BbU55ck04LXFBX0p0TEtlWWNXblJFS3RsOFpod2xfam9aOGRJN1BDc05zSks3eExHcDFaUjZrZ3NkRHJpVDlzYm1jOHFfZWfSAcsBQVVfeXFMTjJjbzRLM2QtQ1habms0MVNYWTEzOFUxTGRmR1h0SHZ1VGNXaUtNMUhFeG94WDBXMHBvZEgteGVlTHRXMFBtaUNWWGhGQUhoZFBzejVTZDFveXh5U0tuZHlIU0tRbHUwbnBtSm1HNDllRlM1eGV6Zkl3aE41V0xUdzlEemhfSi1rbkZ0Y0Y4NFg1YzdsT2xsOS1UY2t4anBRWnhUd01RcUZCVmYxRUVRYzFia1YwYU5QMG9VYVlMWG1VdUFGeDh2MjZwUW8?oc=5" target="_blank">Russians attack Ukraine with Geran-5 combat drones for first time — intelligence</a>&nbsp;&nbsp;<font color="#6f6f6f">Ukrinform</font></li><li><a href="https://news.google.com/rss/articles/CBMiigFBVV95cUxPRFgtc2FNYlM4alp6VTVsRjhTbjUzeWJSTUZvMk5XazdCVlNyTVh0MmNxUHpDem00VGdzRTVJN1lkRWQ3TC05TjhuQ05Id0NZYTVSU0ZkTklJR0V0OHpNd0haRzBGR05hUVE2V0oydWNid0p0bE51LW5CWXlzcUEtR000YlB6dmw1Smc?oc=5" target="_blank">Russia Develops Geran-4 and Geran-5 for Airborne Launch</a>&nbsp;&nbsp;<font color="#6f6f6f">TURDEF</font></li></ol>

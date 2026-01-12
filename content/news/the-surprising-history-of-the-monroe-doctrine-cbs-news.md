@@ -1,6 +1,6 @@
 ---
 title: "The surprising history of the Monroe Doctrine - CBS News"
-date: 2026-01-11
+date: 2026-01-12
 description: "The surprising history of the Monroe Doctrine&nbsp;&nbsp;CBS NewsWhat Is the Monroe Doctrine, and How Is Trump Reasserting It?&nbsp;&nbsp;Time MagazineCothrum: ‘Donroe Doctrine’ and the fog of history&nbsp;&nbsp;Dallas NewsOp-Ed: John Bachman: Before Operation Absolute Resolve, there was Urgent Fury&nbsp;&nbsp;Washington ReporterNostalgia Isn’t Strategy: Stop the Monroe Revisionism and Listen&nbsp;&nbsp;RealClearDefense"
 summary: "The surprising history of the Monroe Doctrine&nbsp;&nbsp;CBS NewsWhat Is the Monroe Doctrine, and How Is Trump Reasserting It?&nbsp;&nbsp;Time MagazineCothrum: ‘Donroe Doctrine’ and the fog of history&nbsp;&nbsp;Dallas NewsOp-Ed: John Bachman: Before Operation Absolute Resolve, there was Urgent Fury&nbsp;&nbsp;Washington ReporterNostalgia Isn’t Strategy: Stop the Monroe Revisionism and Listen&nbsp;&nbsp;RealClearDefense"
 slug: "the-surprising-history-of-the-monroe-doctrine-cbs-news"
