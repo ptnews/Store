@@ -1,0 +1,21 @@
+---
+title: "'Home Alone' star Daniel Stern charged with soliciting prostitution in California motel incident"
+date: 2026-01-13
+description: "Daniel Stern, beloved &quot;Home Alone&quot; villain Marv, was charged with prostitution solicitation, Fox News Digital confirmed. The actor will be arraigned Feb. 6."
+summary: "Daniel Stern, beloved &quot;Home Alone&quot; villain Marv, was charged with prostitution solicitation, Fox News Digital confirmed. The actor will be arraigned Feb. 6."
+slug: "home-alone-star-daniel-stern-charged-with-soliciting-prostitution-in-california-motel-incident"
+image: ''
+link: 'https://www.foxnews.com/entertainment/home-alone-star-daniel-stern-charged-soliciting-prostitution-california-motel-incident'
+source: 'https://feeds.foxnews.com/foxnews/latest'
+categories:
+- 'feeds.foxnews.com'
+tags:
+- 'prostitution'
+- 'soliciting'
+- 'california'
+- 'incident'
+- 'charged'
+
+draft: false
+---
+<p>Authorities charged <a href="https://www.foxnews.com/entertainment/macaulay-culkin-home-alone-hollywood-walk-of-fame" target="_blank" rel="noopener">"Home Alone" star</a> Daniel Stern with soliciting prostitution, Fox News Digital can confirm.</p><p>Stern allegedly made the solicitation on Dec. 10 at a motel in Camarillo, a spokesperson for the Ventura County District Attorney's Office told Fox News Digital.</p><p>The actor was charged Jan. 12. His arraignment, originally scheduled for Jan. 13, was pushed to Feb. 6.</p><p><a href="https://www.foxnews.com/entertainment/home-alone-star-daniel-stern-ditched-hollywood-quiet-life-farm" target="_blank" rel="noopener"><strong>‘HOME ALONE’ STAR DANIEL STERN DITCHED HOLLYWOOD FOR QUIET LIFE ON A FARM</strong></a></p><p>Stern is known for his role as "Wet Bandit" Marv in the '90s Christmas classic <a href="https://www.foxnews.com/entertainment/home-alone-director-finally-answers-what-mccallisters-did-living" target="_blank" rel="noopener">"Home Alone."</a> His character was one of the two criminals who broke into the Chicago home to rob the McCallisters.</p><p>Now 68, the actor left Hollywood behind to live a slower-paced life with his wife.</p><p>He moved to a farm in Ventura to tend cattle and grow produce, according to <a href="https://people.com/daniel-stern-home-alone-charged-alleged-misdemeanor-soliciting-prostitution-11884092" target="_blank" rel="nofollow noopener">People magazine</a>.</p><p><a href="https://www.foxnews.com/entertainment" target="_blank" rel="noopener"><strong>LIKE WHAT YOU’RE READING? CLICK HERE FOR MORE ENTERTAINMENT NEWS</strong></a></p><p>Stern also appeared in "Breaking Away," "City Slickers" and <a href="https://www.foxnews.com/category/entertainment/tv" target="_blank" rel="noopener">"The Wonder Years."</a></p><p>He claimed he made "enough money that I didn't have to work" during his success in the ‘80s and ’90s. According to Stern, he had "an obligation to take advantage of [his] good fortune." However, his success didn't come without a couple of near missteps.</p><p>"I almost blew it a couple times," he told <a href="https://www.latimes.com/entertainment-arts/books/story/2024-05-20/daniel-stern-home-alone-marv-new-book" target="_blank" rel="nofollow noopener"><u>the Los Angeles Times</u></a> of certain career moves.</p><p>In fact, Stern, who starred alongside Joe Pesci and Macaulay Culkin in "Home Alone" and "Home Alone 2: Lost in New York," said he almost lost out on playing Marv as a result of "the stupidest decisions in my show business life." </p><p>Stern said he initially backed out of the deal due to disagreements in the contract. The role was recast, but after a couple of days of rehearsals, the producers urged him to return.</p><p><a href="https://www.foxnews.com/newsletters?cmpid=fnfirstnl" target="_blank" rel="noopener"><strong>CLICK HERE TO SIGN UP FOR THE ENTERTAINMENT NEWSLETTER</strong></a></p><p>Stern gave fans a glimpse into what his life has been like since stepping away from the entertainment industry, showcasing his farm life on TikTok.</p><p>"Hello, as you will come to discover, I live on a farm, and we grow tangerines here," Stern showed fans in December 2024.</p><p>"I juice them up and then freeze them and give them away to my friends," he added before giving viewers a glimpse of his work station.</p><p><i>Fox News Digital's Christina Dugan Ramirez contributed to this report.</i></p>

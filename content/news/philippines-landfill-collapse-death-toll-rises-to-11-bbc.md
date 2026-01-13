@@ -1,0 +1,21 @@
+---
+title: "Philippines landfill collapse: Death toll rises to 11 - BBC"
+date: 2026-01-13
+description: "Philippines landfill collapse: Death toll rises to 11&nbsp;&nbsp;BBCAt least one killed, dozens missing in landfill collapse in central Philippines&nbsp;&nbsp;ReutersMountain of garbage collapses at Philippines landfill, killing 1, burying dozens&nbsp;&nbsp;CBS NewsAPTOPIX Philippines Landfill Collapse&nbsp;&nbsp;New Castle NewsFilipino rescuers detect 'signs of life' in garbage avalanche that killed 4 and left dozens missing&nbsp;&nbsp;Mid Florida Newspapers"
+summary: "Philippines landfill collapse: Death toll rises to 11&nbsp;&nbsp;BBCAt least one killed, dozens missing in landfill collapse in central Philippines&nbsp;&nbsp;ReutersMountain of garbage collapses at Philippines landfill, killing 1, burying dozens&nbsp;&nbsp;CBS NewsAPTOPIX Philippines Landfill Collapse&nbsp;&nbsp;New Castle NewsFilipino rescuers detect 'signs of life' in garbage avalanche that killed 4 and left dozens missing&nbsp;&nbsp;Mid Florida Newspapers"
+slug: "philippines-landfill-collapse-death-toll-rises-to-11-bbc"
+image: ''
+link: 'https://news.google.com/rss/articles/CBMiWkFVX3lxTE1PQzZ3TVcxWjkwc082eVplZko1U3YxbmEzOGJHY0lnTnJETVBjYngxXzF5dGhERWhTMm5DcDRyS2tic2VWZjBpSnVuR1BuOTlOaDV3eDVIVGRaUdIBX0FVX3lxTE5NU2k4X2RlRWt0RUozQlBKNUhocl8wZ3RYMXREc1B2QXVQX09mdVpMb1lFelduOXBSQVgyNFR0UjlaZ25YTXJpb09IZHNqdkNuaDNJQ2FsVDRzaVRrcEln?oc=5'
+source: 'https://news.google.com/rss/topics/CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx1YlY4U0FtVnVHZ0pWVXlnQVAB?hl=en-US&gl=US&ceid=US:en'
+categories:
+- 'news.google.com'
+tags:
+- 'philippines'
+- 'landfill'
+- 'collapse'
+- 'death'
+- 'rises'
+
+draft: false
+---
+<ol><li><a href="https://news.google.com/rss/articles/CBMiWkFVX3lxTE1PQzZ3TVcxWjkwc082eVplZko1U3YxbmEzOGJHY0lnTnJETVBjYngxXzF5dGhERWhTMm5DcDRyS2tic2VWZjBpSnVuR1BuOTlOaDV3eDVIVGRaUdIBX0FVX3lxTE5NU2k4X2RlRWt0RUozQlBKNUhocl8wZ3RYMXREc1B2QXVQX09mdVpMb1lFelduOXBSQVgyNFR0UjlaZ25YTXJpb09IZHNqdkNuaDNJQ2FsVDRzaVRrcEln?oc=5" target="_blank">Philippines landfill collapse: Death toll rises to 11</a>&nbsp;&nbsp;<font color="#6f6f6f">BBC</font></li><li><a href="https://news.google.com/rss/articles/CBMixAFBVV95cUxPbF9IemRQRUo4SXBWeV9pQ0lLMkdPTWIxZFNnbnNlbnVvc0Vxdm83bEE1cm93dDlkTEhQN3AtaUJSSVJyUGl4RFJrTE9LOHZuSUpPVHphdzVRclAyd1RKODFjeWxVMHFtOXJkdm1CRHZVdjBYSk1NMFA3Qmt4Rng0dkxjUVpXQllqZXJoVExvR2Q4ZVkzRDdHbFl4dTRXZTdVUlZ3VUowMmloQTVlUjJEdDlPR1QtM2d1eE9RWXR3Z05rNXVF?oc=5" target="_blank">At least one killed, dozens missing in landfill collapse in central Philippines</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font></li><li><a href="https://news.google.com/rss/articles/CBMiggFBVV95cUxNUjNZdTg2UjE0NTg5RG50RWhxWWhBOGlSQkR1SjNSRUZYV3RSc1pSZEQtTHM4akQtRzBSN3JiM1FlQUtnSTU4VVFfbEp3RHlwUlFsbkFZbk94R0wtZm0xc2VZQzdXVkVJQ2s1WDN6d1NrYk9TaFhEOHJtRnhBVkNVX29R0gGHAUFVX3lxTFBiMmpKVk52dXBsTUV3UWJfVzZNdDR3aG9mYzBxYTBQVXVDM05GV2c1Yi1xbGRwWERxMDVwdmtlQUFvSjg1WlZOdEdyaG5uSkxnaUJ6SkRWRHJtSWlVbUFqZ19hWmRMd2xicy1ONzZXejBKektBTmNtT2N3RXJrWHFSV0dxaFA0cw?oc=5" target="_blank">Mountain of garbage collapses at Philippines landfill, killing 1, burying dozens</a>&nbsp;&nbsp;<font color="#6f6f6f">CBS News</font></li><li><a href="https://news.google.com/rss/articles/CBMixwFBVV95cUxOZ19mRkNQR2paWGpBam93RWhWckVaaUptSU8tanNRaWhVNDB4dzUxbXF2YTZOamVXR05YMi1OM0pkSWlyeHZGaVZnVFJXRmxkaE5ZcEV1VVpCZ1lVb0pCdW81bmtUcUxYc2w0SWxLOGlkSnlkdElyNWI3aWZPU0pwaW01TmYxVVBOMzdkcUkza3hMbHJJOFdkVi1VdXpRWUxkbl9TaDVIU0VzUzhUb194RDAzQUpWZzN0VmM0bDl4cnFQM3ZSanRz?oc=5" target="_blank">APTOPIX Philippines Landfill Collapse</a>&nbsp;&nbsp;<font color="#6f6f6f">New Castle News</font></li><li><a href="https://news.google.com/rss/articles/CBMihwJBVV95cUxObHFqUHdGTzAtZ1ZDNEJKRWs1dTd5bGtMLWdpbG9JUkxqVUFZaUtjR05vWVhUYWxlTEZ2a1RjNXlJNC1xVVZEYzh0RGNKUE1CV1lUUWpCWEE3NXM5TzZRYTlqd29aSTMweEVmT0xrODlVbXNZWFBVam9rNTdfZ1Zqc2tjV3htU1JWZ0Q5WFU0S2NhNzdqTWRwaDluZGlHZ1VES29OcEI3Rm13X1ZkcUlsejdseEZRRy05WXdzU2N5Ty1SV3ZLRHdEUUQ4ajBYenNSRlY4TWhVSHRZT0VtS1g1d0VDcWh2Mzh0bVpvTmlUMTVkc2hObDd6SFFrYUFQNjJ2VTYyOGhxbw?oc=5" target="_blank">Filipino rescuers detect 'signs of life' in garbage avalanche that killed 4 and left dozens missing</a>&nbsp;&nbsp;<font color="#6f6f6f">Mid Florida Newspapers</font></li></ol>

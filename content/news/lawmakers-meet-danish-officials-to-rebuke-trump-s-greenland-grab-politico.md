@@ -1,0 +1,21 @@
+---
+title: "Lawmakers meet Danish officials to rebuke Trump’s Greenland grab - Politico"
+date: 2026-01-13
+description: "Lawmakers meet Danish officials to rebuke Trump’s Greenland grab&nbsp;&nbsp;PoliticoGreenland's PM has a blunt message for Trump: 'We choose Denmark' over the U.S.&nbsp;&nbsp;CNBCApprehension in Denmark ahead of talks about Greenland with Vance&nbsp;&nbsp;NPRBipartisan group of lawmakers introduces bill to prevent military action against NATO members&nbsp;&nbsp;PoliticoUS lawmakers to visit Denmark as Trump continues to threaten Greenland&nbsp;&nbsp;ABC News"
+summary: "Lawmakers meet Danish officials to rebuke Trump’s Greenland grab&nbsp;&nbsp;PoliticoGreenland's PM has a blunt message for Trump: 'We choose Denmark' over the U.S.&nbsp;&nbsp;CNBCApprehension in Denmark ahead of talks about Greenland with Vance&nbsp;&nbsp;NPRBipartisan group of lawmakers introduces bill to prevent military action against NATO members&nbsp;&nbsp;PoliticoUS lawmakers to visit Denmark as Trump continues to threaten Greenland&nbsp;&nbsp;ABC News"
+slug: "lawmakers-meet-danish-officials-to-rebuke-trump-s-greenland-grab-politico"
+image: ''
+link: 'https://news.google.com/rss/articles/CBMivgFBVV95cUxNSE9MZjVJVmxhdTlyOGh5X3U0Ungwbm9WaXA5UnNTUDNHUU9sd0RxTTdPR1BXN0VFSXFfdGRYaU5KaEhqMUxaYXRMREZRNHdFeFFtTlVOaUVUU29uTERYTlBLeGZYaWVXQTRsMHI4WUFlYUowVzdHb01jM2VUWGJqcW1GbEFNNlhGc2hCU0haM0hvd2hqNDQxanB1QXU3TVZrdGI0OTVuem9JZ3c5VWdudTQzZ1cxVmNoeXIxaV9B?oc=5'
+source: 'https://news.google.com/rss/topics/CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx1YlY4U0FtVnVHZ0pWVXlnQVAB?hl=en-US&gl=US&ceid=US:en'
+categories:
+- 'news.google.com'
+tags:
+- 'lawmakers'
+- 'officials'
+- 'greenland'
+- 'politico'
+- 'danish'
+
+draft: false
+---
+<ol><li><a href="https://news.google.com/rss/articles/CBMivgFBVV95cUxNSE9MZjVJVmxhdTlyOGh5X3U0Ungwbm9WaXA5UnNTUDNHUU9sd0RxTTdPR1BXN0VFSXFfdGRYaU5KaEhqMUxaYXRMREZRNHdFeFFtTlVOaUVUU29uTERYTlBLeGZYaWVXQTRsMHI4WUFlYUowVzdHb01jM2VUWGJqcW1GbEFNNlhGc2hCU0haM0hvd2hqNDQxanB1QXU3TVZrdGI0OTVuem9JZ3c5VWdudTQzZ1cxVmNoeXIxaV9B?oc=5" target="_blank">Lawmakers meet Danish officials to rebuke Trump’s Greenland grab</a>&nbsp;&nbsp;<font color="#6f6f6f">Politico</font></li><li><a href="https://news.google.com/rss/articles/CBMihwFBVV95cUxNS1RQRTJjMUZOTUl6cmtoWG5rX0VPR0piUEZQQU1DTGJuLTJDSXBWYzM4TFQzel90R0U1NG9PSzJ0aGFLRkVRWDNSb3lGZFFFcVZyTlBOOEJJdDFtcTRSdzdBY3lEeW5HQktTVndBZ3dxaVRBekxsSlp3NGotTF9oaWExeE5heXPSAYwBQVVfeXFMTkFhMDZJTS1PZGxCczd4c3hEN3Fub1NuXy1EVE8ySHU1WE5IeS1ZZ05FazBKenpGb3J4LU9MbGNFMGh5LUVUNWVaTGdTLUV2SU1CUkdOMUZnbUFKazhRNk5sYlpBSXJRY0xkVXdacy1qVjFxZ1FZaVdLSjNrb0lmWWNvMHF1eFVqdTU2Qmo?oc=5" target="_blank">Greenland's PM has a blunt message for Trump: 'We choose Denmark' over the U.S.</a>&nbsp;&nbsp;<font color="#6f6f6f">CNBC</font></li><li><a href="https://news.google.com/rss/articles/CBMirwFBVV95cUxQWTNoUjdwUXd0NURINE5xeDd6VVd2VWQ0OUZuRXlEWGoxRDRQWGdMNGV3Rld1blNIeWFtMllrQzJ6VUo4SmtpeFdoN0ZobWRSN3BaQzczRVBycGNsVFU3WDNWSHo1Q2pzeXJRSG1uYTdmckh2Z0dqcUVLbEhBQmRsSExyZVdYTXN2RmhWUjhFaWdQRUFCbHRHT1paZUdINWVzY29mTGNjcThNSnBWRUlV?oc=5" target="_blank">Apprehension in Denmark ahead of talks about Greenland with Vance</a>&nbsp;&nbsp;<font color="#6f6f6f">NPR</font></li><li><a href="https://news.google.com/rss/articles/CBMiswFBVV95cUxNZEJNZlFFdWdweHZBQWtSTEhNOVpvTVFWYWVxWFI0a3pRazhnNkRxQUlCbEliWjJuUVlFaGpMNm13UTZUYUZNM2lhY2VKYklMMk5makRRaExWaEx6ODJIM0Q3R2VPVGZKTUNNYkVkdXpGWFItWEpPeUx6YXNUNFFiUlV0TDFseGlUY0FHVjZyUEhLd3dtZ2ZkZGZHZjM5TXFfenlRdGJfU3laMmhUZHh4OTNTWQ?oc=5" target="_blank">Bipartisan group of lawmakers introduces bill to prevent military action against NATO members</a>&nbsp;&nbsp;<font color="#6f6f6f">Politico</font></li><li><a href="https://news.google.com/rss/articles/CBMirwFBVV95cUxQU0dvYXJTLXhYYnVabUd6YlVwNTVrZGVWeUdwYklid2U4Ukt4bFY1dVVpRmdMdnV2NktiREhKOW1XOXFjcGswZ0cwMEFVZGFJNGR5cGluR01DSGFsQkQ5RUJRRUFRSFVuVUVBUU1Sc2hiMWRUai1oMG1CeUF0Nlk4YWxhMC1hclVGZlB4OFdha3R3cGZleFhRNmJ1VVdEWThUbnpuOXBrbXhSc0lxbXlj0gG0AUFVX3lxTFBfVzVXU1ctdlpLa1J4Q1N0alJxSFRySldsMHJLYjNocDhwWVhTeUxJbEZNQXFUU2FHc1IwTktwbTFSQVBGTDNiS1ZxNTlWZE91QXRhSUszX2VNTVkwc2FTU3lRWmlTNDMwQ0FRc2t6a3dhTWQ3dnZ0QlJwajBxSVdwQzI2dmZLbXFtWEVUdnUwYTNLS1o4eVl0ekxYd1l2SzJYd2JXa0dWdnZrb0hTX3htSEhWaA?oc=5" target="_blank">US lawmakers to visit Denmark as Trump continues to threaten Greenland</a>&nbsp;&nbsp;<font color="#6f6f6f">ABC News</font></li></ol>
