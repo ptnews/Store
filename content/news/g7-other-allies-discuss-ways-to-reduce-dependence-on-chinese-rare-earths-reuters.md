@@ -1,0 +1,21 @@
+---
+title: "G7, other allies discuss ways to reduce dependence on Chinese rare earths - Reuters"
+date: 2026-01-13
+description: "G7, other allies discuss ways to reduce dependence on Chinese rare earths&nbsp;&nbsp;ReutersE&E News: G7 ministers head to DC to talk rare earths&nbsp;&nbsp;POLITICO ProIndia’s Ashwini Vaishnaw Joins U.S.-Led Talks on Strengthening Critical Minerals Supply Chains&nbsp;&nbsp;INDIA New England NewsGermany’s finance minister Klingbeil says Washington meeting addressed rare earth price floor&nbsp;&nbsp;104.1 WIKYFrance to put supply of critical minerals at top of G7 agenda&nbsp;&nbsp;MLex"
+summary: "G7, other allies discuss ways to reduce dependence on Chinese rare earths&nbsp;&nbsp;ReutersE&E News: G7 ministers head to DC to talk rare earths&nbsp;&nbsp;POLITICO ProIndia’s Ashwini Vaishnaw Joins U.S.-Led Talks on Strengthening Critical Minerals Supply Chains&nbsp;&nbsp;INDIA New England NewsGermany’s finance minister Klingbeil says Washington meeting addressed rare earth price floor&nbsp;&nbsp;104.1 WIKYFrance to put supply of critical minerals at top of G7 agenda&nbsp;&nbsp;MLex"
+slug: "g7-other-allies-discuss-ways-to-reduce-dependence-on-chinese-rare-earths-reuters"
+image: ''
+link: 'https://news.google.com/rss/articles/CBMiwAFBVV95cUxOU1NCU05FM1JyaE9Eb1lWWjYzcUxLV1FLaGYtMWxsNDVVSlhvTzR1ZFdSZnhHdG9ZZVN4TmItdDhJcEhfem1ldThqTkRjWm5zYkZaLTZRZUYwWTloNnRpYVVBNWthYWxfY3NYc2ZaYTlHUW1vT1VRTXdwWlRxQjFhMGF4QmxsMVJvYmpNNTE3QjE5bkRzN0VYM1UzMm9pZExLRmh3NDFXWEZwN1RzMnZCaDhMRGIweTZhUVAyXzFyaWw?oc=5'
+source: 'https://news.google.com/rss/topics/CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx1YlY4U0FtVnVHZ0pWVXlnQVAB?hl=en-US&gl=US&ceid=US:en'
+categories:
+- 'news.google.com'
+tags:
+- 'dependence'
+- 'discuss'
+- 'chinese'
+- 'reuters'
+- 'allies'
+
+draft: false
+---
+<ol><li><a href="https://news.google.com/rss/articles/CBMiwAFBVV95cUxOU1NCU05FM1JyaE9Eb1lWWjYzcUxLV1FLaGYtMWxsNDVVSlhvTzR1ZFdSZnhHdG9ZZVN4TmItdDhJcEhfem1ldThqTkRjWm5zYkZaLTZRZUYwWTloNnRpYVVBNWthYWxfY3NYc2ZaYTlHUW1vT1VRTXdwWlRxQjFhMGF4QmxsMVJvYmpNNTE3QjE5bkRzN0VYM1UzMm9pZExLRmh3NDFXWEZwN1RzMnZCaDhMRGIweTZhUVAyXzFyaWw?oc=5" target="_blank">G7, other allies discuss ways to reduce dependence on Chinese rare earths</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font></li><li><a href="https://news.google.com/rss/articles/CBMiswFBVV95cUxNb0htU0RWS0o0ZnJGd252Q3F5ZGZacEdzSkJhYnZFM2s5a3dUYkFxUFBVbjVoNjlITVlEWUx4VEZjOEREbmM1ZWFZeWs5d3RZQXdud1JnNzF6ZFNQbkVWczNRYTRiel91d2NrZWRMcFBGNWllLXJLSjBVUWR5eXlENnFfUGJWRDVCUWV2U2cwOTdyUnd6VlNjOUVKUUk2Uklrajd1NEdYOGpKQWlQSGlSUGw5aw?oc=5" target="_blank">E&E News: G7 ministers head to DC to talk rare earths</a>&nbsp;&nbsp;<font color="#6f6f6f">POLITICO Pro</font></li><li><a href="https://news.google.com/rss/articles/CBMivgFBVV95cUxPaWxVOE9FbGNGZ3U1T0V2UkNyalZFd3ZjTmpGVFByaDlkMnpMWndMbHJEbVdmcVJoSmt4M2RnV1RGMHo1Zk1XbThON285TDVvWnpqT1JJU3JGNzNXc3ZqSWg5Q0RCTWhtN25UUmdLOG5sV2s0WEJhRC1VY0JucV82V3ZZY0VLVW9Fb2xCVGNoNnM2cUtobVpFQ0lHaHFpSXUzek8xOWdkYUk2b096RWNtZmFFbV8tVlV5NHN5aU1R?oc=5" target="_blank">India’s Ashwini Vaishnaw Joins U.S.-Led Talks on Strengthening Critical Minerals Supply Chains</a>&nbsp;&nbsp;<font color="#6f6f6f">INDIA New England News</font></li><li><a href="https://news.google.com/rss/articles/CBMivgFBVV95cUxOdF9EWDAtbXdyS0JxX2M1bXJlZFM0bXFiYUhQdGhYZjBRMjIyNFd1aklYS00ycG1qNlpJaUItSTN1TVFKeEQyLXVtbHJkdHhLTE9lRkpvSmdTTEwydTJjdDdBMDlMd09OTFplLWZtOUo4cEFzbVFVR0NJZXp6d2NlZzRKcUFGVjVfMFRHNnpMbTlGcXEzSmlLQUpYcVNNUUlGSWpCUVJjcHEtOUpza0lETEg1dFZCY25ybE9KUjlR?oc=5" target="_blank">Germany’s finance minister Klingbeil says Washington meeting addressed rare earth price floor</a>&nbsp;&nbsp;<font color="#6f6f6f">104.1 WIKY</font></li><li><a href="https://news.google.com/rss/articles/CBMipwFBVV95cUxNZllUalVLYkRYemV6T0FUNzlZU3pyZURoanpNeFp1dk5RQ016aU52NFotaFd1ZjJ2OVdWWGhYSGVIcHNMdnFYdzdpeWxyb3hnTzF6UE9pdmdvdHY3NXFPQlhjVmdEclYyZVZ6NU1yc1JKTndwOVZ3RnJIX3Nkd0lIR0lPSWxHc0g5MldHVnBtRG9sNXNjU19xdWYtNW94QjdPR3ZuTHNpRdIBWkFVX3lxTFBKa1BCN3BPSDhVRG4zUkNQZGNDWTlNVEUtdEQ2R1Y1cFVTZ1F3d3BmaWtzRjM4WGJ0WlBDbjFJVmoyai1sc1FnVmwwQVpQMWJwV3ZyNXV5b2doZw?oc=5" target="_blank">France to put supply of critical minerals at top of G7 agenda</a>&nbsp;&nbsp;<font color="#6f6f6f">MLex</font></li></ol>

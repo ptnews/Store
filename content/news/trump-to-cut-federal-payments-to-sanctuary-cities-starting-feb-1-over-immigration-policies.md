@@ -1,0 +1,21 @@
+---
+title: "Trump to cut federal payments to sanctuary cities starting Feb. 1 over immigration policies"
+date: 2026-01-13
+description: "President Donald Trump will suspend payments to sanctuary cities starting February 1st. He also criticized Minnesota officials over alleged widespread fraud."
+summary: "President Donald Trump will suspend payments to sanctuary cities starting February 1st. He also criticized Minnesota officials over alleged widespread fraud."
+slug: "trump-to-cut-federal-payments-to-sanctuary-cities-starting-feb-1-over-immigration-policies"
+image: ''
+link: 'https://www.foxnews.com/us/trump-cut-federal-payments-sanctuary-cities-starting-feb-1-over-immigration-policies'
+source: 'https://feeds.foxnews.com/foxnews/latest'
+categories:
+- 'feeds.foxnews.com'
+tags:
+- 'immigration'
+- 'sanctuary'
+- 'payments'
+- 'starting'
+- 'policies'
+
+draft: false
+---
+<p>President <a href="https://www.foxnews.com/category/person/donald-trump" target="_blank" rel="noopener">Donald Trump</a> said his administration will cease federal payments to sanctuary cities and states with sanctuary policies starting Feb. 1, while citing jurisdictions that protect criminals and fuel fraud and crime.</p><p>Speaking at the Detroit Economic Club, Trump said the move was aimed at cities and states that refuse to cooperate with federal immigration enforcement.</p><p>"Starting Feb. 1, we’re not making any payments to sanctuary cities or states having sanctuary cities because they do everything possible to protect criminals at the expense of American citizens," Trump said.</p><p>"And it breeds fraud and crime and all of the other problems that come. So we’re not making any payment to anybody that supports sanctuary," he added.</p><p><a href="https://www.foxnews.com/politics/duffy-says-times-up-newsom-feds-withhold-160m-over-illegal-trucking-licenses" target="_blank" rel="noopener"><strong>DUFFY SAYS ‘TIME’S UP’ FOR NEWSOM AS FEDS WITHHOLD $160M OVER ILLEGAL TRUCKING LICENSES</strong></a></p><p>Trump also criticized Minnesota officials while discussing what he described as <a href="https://www.foxnews.com/category/politics/minnesota-fraud-exposed" target="_blank" rel="noopener">widespread fraud in the state</a>.</p><p>"We have also suspended payments tied to suspected scammers <a href="https://www.foxnews.com/category/us/us-regions/midwest/minnesota" target="_blank" rel="noopener">in Minnesota</a>, of which there are many," Trump said. "It’s a great state. It was a great state. Now it’s getting destroyed by that stupid governor."</p><p>Trump went on to accuse the governor of <a href="https://www.foxnews.com/category/corruption" target="_blank" rel="noopener">corruption</a> and said the level of fraud could not have gone unnoticed by state leadership.</p><p><a href="https://www.foxnews.com/politics/op-health-policy-expert-calls-minnesota-fraud-disgusting-warns-obamacare-issues-nationwide" target="_blank" rel="noopener"><strong>TOP HEALTH POLICY EXPERT CALLS MINNESOTA FRAUD ‘DISGUSTING,’ WARNS OBAMACARE ISSUES ARE NATIONWIDE</strong></a></p><p>The administration’s actions come as a <a href="https://www.foxnews.com/category/politics/judiciary/federal-courts" target="_blank" rel="noopener">federal judge</a> on Jan. 9 temporarily blocked the Trump administration from stopping subsidies tied to child care programs in five states, including Minnesota, amid allegations of fraud.</p><p><a href="https://www.foxnews.com/category/politics/federal-judges" target="_blank" rel="noopener">U.S. District Judge Arun Subramanian</a> did not rule on the legality of the funding freeze but said the states met the legal threshold to preserve the "status quo" on funding for at least two weeks while legal arguments continue.</p><p>The U.S. <a href="https://www.foxnews.com/category/health/health-care" target="_blank" rel="noopener">Department of Health and Human Services</a> also announced it would withhold funds for programs in five Democratic-led states, citing concerns over fraud and misuse of federal dollars.</p><p><i>This is a developing story. Please check back for updates.</i></p>
