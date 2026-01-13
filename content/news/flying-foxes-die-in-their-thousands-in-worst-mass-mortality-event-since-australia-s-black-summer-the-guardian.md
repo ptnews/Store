@@ -1,0 +1,21 @@
+---
+title: "Flying foxes die in their thousands in worst mass-mortality event since Australia’s black summer - The Guardian"
+date: 2026-01-13
+description: "Flying foxes die in their thousands in worst mass-mortality event since Australia’s black summer&nbsp;&nbsp;The GuardianCrew left in tears over disturbing find at Aussie park: 'They were everywhere'&nbsp;&nbsp;Yahoo News AustraliaScorching SA heatwave killing thousands of bats - News&nbsp;&nbsp;InDailyHundreds of dead bats removed after heatwave sweeps NSW&nbsp;&nbsp;Australian Broadcasting CorporationWildlife volunteers traumatised after nearly 650 Illawarra flying foxes die in heatwave&nbsp;..."
+summary: "Flying foxes die in their thousands in worst mass-mortality event since Australia’s black summer&nbsp;&nbsp;The GuardianCrew left in tears over disturbing find at Aussie park: 'They were everywhere'&nbsp;&nbsp;Yahoo News AustraliaScorching SA heatwave killing thousands of bats - News&nbsp;&nbsp;InDailyHundreds of dead bats removed after heatwave sweeps NSW&nbsp;&nbsp;Australian Broadcasting CorporationWildlife volunteers traumatised after nearly 650 Illawarra flying foxes die in heatwave&nbsp;..."
+slug: "flying-foxes-die-in-their-thousands-in-worst-mass-mortality-event-since-australia-s-black-summer-the-guardian"
+image: ''
+link: 'https://news.google.com/rss/articles/CBMi4AFBVV95cUxOWTZPY0R5SW1YOE9qOFRlVTVWVFpwT1NQU0llTkU5VWlCRkFlQWFmSXhPT0ZEanNUOU1Jb2pWRmR5Qk1HOUdTM0RHcjlEQU5KdVZYeVVNWkZhMG1lRnlMeHZmOG9uTi1pZWhETnllOTlRanVOdFJJSDZIWDRCWkFIQnVfQ3llVWo1X2w5M3k1UUVqMzNsLXdKaDRob3ljMVUwVDVJS284VDRHWWNya0UxN0tmWERMMk42Y2xjRDBETmVqaVNqNTZ3OFU5RkMtWFFlN18zQXhFWVJnTjR0Z0pBcw?oc=5'
+source: 'https://news.google.com/rss/topics/CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx1YlY4U0FtVnVHZ0pWVXlnQVAB?hl=en-US&gl=US&ceid=US:en'
+categories:
+- 'news.google.com'
+tags:
+- 'thousands'
+- 'mortality'
+- 'australia'
+- 'guardian'
+- 'flying'
+
+draft: false
+---
+<ol><li><a href="https://news.google.com/rss/articles/CBMi4AFBVV95cUxOWTZPY0R5SW1YOE9qOFRlVTVWVFpwT1NQU0llTkU5VWlCRkFlQWFmSXhPT0ZEanNUOU1Jb2pWRmR5Qk1HOUdTM0RHcjlEQU5KdVZYeVVNWkZhMG1lRnlMeHZmOG9uTi1pZWhETnllOTlRanVOdFJJSDZIWDRCWkFIQnVfQ3llVWo1X2w5M3k1UUVqMzNsLXdKaDRob3ljMVUwVDVJS284VDRHWWNya0UxN0tmWERMMk42Y2xjRDBETmVqaVNqNTZ3OFU5RkMtWFFlN18zQXhFWVJnTjR0Z0pBcw?oc=5" target="_blank">Flying foxes die in their thousands in worst mass-mortality event since Australia’s black summer</a>&nbsp;&nbsp;<font color="#6f6f6f">The Guardian</font></li><li><a href="https://news.google.com/rss/articles/CBMitwFBVV95cUxOSWdUUG5VVU05NTVWZTRGYjY1UHdFblVhU1g2TnpHNTRPbGdDdDZ1Q1FULVRxaENSaVZaWjZ3dXJXdnRnYktYMlBaVE4xSDQwNTA0anNZOS1zVFdEX3NXX2hNZTZucFVhejlRVEQtS1pDc3dUZzVTdkwwOHpsZTU2ekZ1cGhXRUY2LTBXUllucWE5VzhNWThDTUh5N21kbzU2eFNIUWRieGxDbjFTR2R0UWMydXBxYkU?oc=5" target="_blank">Crew left in tears over disturbing find at Aussie park: 'They were everywhere'</a>&nbsp;&nbsp;<font color="#6f6f6f">Yahoo News Australia</font></li><li><a href="https://news.google.com/rss/articles/CBMiogFBVV95cUxNSm1XNEhoMUwxVFJKc2FMUmtNaF9GdFNVZ2ZlY3E1LU1WdjN4WW9OX0tweThUQmoxUUpEd1dZTGVMc1lMS3dwTXAyYzFZYnp0UmVDa2wyYmUyTnRfRGswa0o1ZUNTbmxyV2wyMU8tRHlrVWdUTFVieWdQZVhQVjVMX3RuRHoybzhscDdpOUZ1ZTlCMjVGdHRQX2R3V0VMTDItZGc?oc=5" target="_blank">Scorching SA heatwave killing thousands of bats - News</a>&nbsp;&nbsp;<font color="#6f6f6f">InDaily</font></li><li><a href="https://news.google.com/rss/articles/CBMiogFBVV95cUxOSXkyNUZ0Y0lXaGZwR2xuc29kNUhEcnZnNW5XQjZxUFR1OTJIMEw5VnQyTGVHUHBlTjQtZDRIMm5PWWFYY2F4UUQtdko5VHFfYzJscV84dTQxSnlXTW5VMkNBMXVjazVPWTlDeHpVOFE2YnFYVnZuclpLS1JOXzZJQUdQQWtVOXl1RlFNaU5xVW9Ic2U4SW9MeHF1R0FoZ3Vmd0E?oc=5" target="_blank">Hundreds of dead bats removed after heatwave sweeps NSW</a>&nbsp;&nbsp;<font color="#6f6f6f">Australian Broadcasting Corporation</font></li><li><a href="https://news.google.com/rss/articles/CBMisAFBVV95cUxPcFV1cFFySU1JN2lITjdVRDJVRmctQ0l6c25CMlBudEdITTVTWG04TXhZU25GWldYMGcydVJHOWdpRFozYXMzZW5HQTZ4UUM3RWxTaHkxSWphSlhhdG55cE1aNWVOeExwS3NRSURnNmU1RTNKSWcwcG02MXJzbE4yXzljU3V5dmFFelhZU3h5YUE3LWlsd0hzejktOWc5b0h4NXY4VEVIalJDc1RPUVkxeg?oc=5" target="_blank">Wildlife volunteers traumatised after nearly 650 Illawarra flying foxes die in heatwave</a>&nbsp;&nbsp;<font color="#6f6f6f">Illawarra Mercury</font></li></ol>

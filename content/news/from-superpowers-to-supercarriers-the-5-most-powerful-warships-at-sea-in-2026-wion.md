@@ -1,0 +1,20 @@
+---
+title: "From superpowers to supercarriers: The 5 most powerful warships at sea in 2026 - WION"
+date: 2026-01-13
+description: "From superpowers to supercarriers: The 5 most powerful warships at sea in 2026&nbsp;&nbsp;WIONWorld’s top 5 Navies of 2026 revealed: Indian navy misses top 5, THIS country tops list, China at 2nd, Pakistan is...&nbsp;&nbsp;news24online.comWith Its 337 Meters and 100,000 Tons, the World’s Largest Aircraft Carrier Rules the Oceans&nbsp;&nbsp;vocal.media5 Of The Most Powerful Aircraft Carriers Sailing The Seas In 2026&nbsp;&nbsp;SlashGearTop 5 Navies on Planet Earth in 2026, Now Ranked&nbsp;&nb..."
+summary: "From superpowers to supercarriers: The 5 most powerful warships at sea in 2026&nbsp;&nbsp;WIONWorld’s top 5 Navies of 2026 revealed: Indian navy misses top 5, THIS country tops list, China at 2nd, Pakistan is...&nbsp;&nbsp;news24online.comWith Its 337 Meters and 100,000 Tons, the World’s Largest Aircraft Carrier Rules the Oceans&nbsp;&nbsp;vocal.media5 Of The Most Powerful Aircraft Carriers Sailing The Seas In 2026&nbsp;&nbsp;SlashGearTop 5 Navies on Planet Earth in 2026, Now Ranked&nbsp;&nb..."
+slug: "from-superpowers-to-supercarriers-the-5-most-powerful-warships-at-sea-in-2026-wion"
+image: ''
+link: 'https://news.google.com/rss/articles/CBMivwFBVV95cUxOVmc5d2J6X0I5SVI4ay04YzBHb1FEaGpBb3JnSzdrTkNHR0F1aTZIWUxiZUlTMWJVbnQyclR4VmF2c1NZQkRhT05ocFBuNFY2dFdReE1EeEFKNGl3RlZxbll4ODFENjNzLU9NQmJQbVk0ZDdYamhNaVh6V0xzS2NleU5pNEJSVWFUNnlQM1UwcS1fb0V2ZWhJcFBuaXVCNjB4WU5fQUFFZHVPRk13MFRGc3Y3SEZQWWE2c1JndVZuUQ?oc=5'
+source: 'https://news.google.com/rss/topics/CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx1YlY4U0FtVnVHZ0pWVXlnQVAB?hl=en-US&gl=US&ceid=US:en'
+categories:
+- 'news.google.com'
+tags:
+- 'supercarriers'
+- 'superpowers'
+- 'powerful'
+- 'warships'
+
+draft: false
+---
+<ol><li><a href="https://news.google.com/rss/articles/CBMivwFBVV95cUxOVmc5d2J6X0I5SVI4ay04YzBHb1FEaGpBb3JnSzdrTkNHR0F1aTZIWUxiZUlTMWJVbnQyclR4VmF2c1NZQkRhT05ocFBuNFY2dFdReE1EeEFKNGl3RlZxbll4ODFENjNzLU9NQmJQbVk0ZDdYamhNaVh6V0xzS2NleU5pNEJSVWFUNnlQM1UwcS1fb0V2ZWhJcFBuaXVCNjB4WU5fQUFFZHVPRk13MFRGc3Y3SEZQWWE2c1JndVZuUQ?oc=5" target="_blank">From superpowers to supercarriers: The 5 most powerful warships at sea in 2026</a>&nbsp;&nbsp;<font color="#6f6f6f">WION</font></li><li><a href="https://news.google.com/rss/articles/CBMi0gFBVV95cUxNWGEzOGNVTVVKSnBqeDd0LXlEU2dqM3BYVHk1Q3N5Y3MyaVFlZmdwTC1MNW4yODczNTA0dTJWOWx5MkxQTThqd1NYcDU5WDBZUlBxUkJpTWZxOXlIWWJHYVQ2d0VPWG5QN1p5cVhtamFGamhVSlhDejZUMmtKc0U4WWVjVTFTM3FZZjl0R3RNYy1oeW5ILURIV2VMc1BtODR0TWF6R3pCUE5PNVEyTFE5RTNBa2ZSaTQ0ZFBiUUVDVUU4RHlEOTl5VUg5WWdST2tCVlE?oc=5" target="_blank">World’s top 5 Navies of 2026 revealed: Indian navy misses top 5, THIS country tops list, China at 2nd, Pakistan is...</a>&nbsp;&nbsp;<font color="#6f6f6f">news24online.com</font></li><li><a href="https://news.google.com/rss/articles/CBMiyAFBVV95cUxQWjFoTUdEdC0wVVUtRmFPM1l4WDQ2b0pmUExPc3pYOGZTdHdRSmZZQmlPU3ZORUxLTXFVUThocl9wcE00a3l1S1VrenBNVnU3NFJFbE5ORVpoNGV6azIweFJKMDlkZTlIV28tbWdKRXJ0OXFFWG1iRU1VWWpEcTlLUDZGdlBOaTFlMGFMbXM1aERZTTBURnYwUDc3eVZQNHA2NnJnNVlSUjkzanJJaGh3NHRHbUZPODNIQjd0alNmeHhPZ2JaZ21OeQ?oc=5" target="_blank">With Its 337 Meters and 100,000 Tons, the World’s Largest Aircraft Carrier Rules the Oceans</a>&nbsp;&nbsp;<font color="#6f6f6f">vocal.media</font></li><li><a href="https://news.google.com/rss/articles/CBMif0FVX3lxTFA0TTRmUDZtMndsNmxRQmRXU2gzbjZyZ1RYbmN6TERlS0hzanF5bE1vbG1lT2VWN1ROVUttNF9FSVZaVDV5UkZoUGN6THprVEFveU9mOVRFM1ZxbWhnbTViYnhEaS0xT0ZvcVRFRl8yeDFNZHhRYVY2SFVGZHFPSUU?oc=5" target="_blank">5 Of The Most Powerful Aircraft Carriers Sailing The Seas In 2026</a>&nbsp;&nbsp;<font color="#6f6f6f">SlashGear</font></li><li><a href="https://news.google.com/rss/articles/CBMijAFBVV95cUxNSHIyYzUtalVPOVNnZWdtblQ4eElEVlpoa0dHSGpQSlBrWlFESW1PdFBielVHNmh0eHdMbFpoUXBQT2hDN2dUNC1JQUNQTElJUHZGeVgyX0JvRlg2b1lxM3JjZ05CajFRemR4cS1xY1RIYm1kNnNHVVRaRVVrZjQ3MTRLTjEwYXQtVnVTeA?oc=5" target="_blank">Top 5 Navies on Planet Earth in 2026, Now Ranked</a>&nbsp;&nbsp;<font color="#6f6f6f">19FortyFive</font></li></ol>

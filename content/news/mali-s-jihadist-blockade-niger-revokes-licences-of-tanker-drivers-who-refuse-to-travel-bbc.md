@@ -1,0 +1,21 @@
+---
+title: "Mali's jihadist blockade: Niger revokes licences of tanker drivers who refuse to travel - BBC"
+date: 2026-01-13
+description: "Mali's jihadist blockade: Niger revokes licences of tanker drivers who refuse to travel&nbsp;&nbsp;BBCHow Mali’s fuel blockade is forcing Niger to take tough action on transporters&nbsp;&nbsp;Business Insider AfricaNiger revokes licences of transporters refusing to deliver fuel to Mali&nbsp;&nbsp;Channel AfricaNiger Cancels Licences of Transporters Who Refused Fuel Deliveries to Mali&nbsp;&nbsp;tv360nigeria.com"
+summary: "Mali's jihadist blockade: Niger revokes licences of tanker drivers who refuse to travel&nbsp;&nbsp;BBCHow Mali’s fuel blockade is forcing Niger to take tough action on transporters&nbsp;&nbsp;Business Insider AfricaNiger revokes licences of transporters refusing to deliver fuel to Mali&nbsp;&nbsp;Channel AfricaNiger Cancels Licences of Transporters Who Refused Fuel Deliveries to Mali&nbsp;&nbsp;tv360nigeria.com"
+slug: "mali-s-jihadist-blockade-niger-revokes-licences-of-tanker-drivers-who-refuse-to-travel-bbc"
+image: ''
+link: 'https://news.google.com/rss/articles/CBMiWkFVX3lxTE9WbmI5cDItTjQ0SnB5UE1FYV9ramI5cDNvNVFPejM5RzI5YU9VZUlIb2g2NU8zSTN1bVVkd0JhbFlDY0ZvUER3SXZzNE9MLUZhNFJEalZnZHZ5Z9IBX0FVX3lxTE1oclJ1aWlKbTVIV1ZuVzdMTnJFZTBaMHNkdlIwMWlJMENhcEtfUk9DQTBnVDkycjF1ZXB4WTlNX1JTX0NQTnZSdmRXeWt2bTgtSTRFa2JabWZoSHlrUTZR?oc=5'
+source: 'https://news.google.com/rss/topics/CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx1YlY4U0FtVnVHZ0pWVXlnQVAB?hl=en-US&gl=US&ceid=US:en'
+categories:
+- 'news.google.com'
+tags:
+- 'jihadist'
+- 'blockade'
+- 'licences'
+- 'revokes'
+- 'drivers'
+
+draft: false
+---
+<ol><li><a href="https://news.google.com/rss/articles/CBMiWkFVX3lxTE9WbmI5cDItTjQ0SnB5UE1FYV9ramI5cDNvNVFPejM5RzI5YU9VZUlIb2g2NU8zSTN1bVVkd0JhbFlDY0ZvUER3SXZzNE9MLUZhNFJEalZnZHZ5Z9IBX0FVX3lxTE1oclJ1aWlKbTVIV1ZuVzdMTnJFZTBaMHNkdlIwMWlJMENhcEtfUk9DQTBnVDkycjF1ZXB4WTlNX1JTX0NQTnZSdmRXeWt2bTgtSTRFa2JabWZoSHlrUTZR?oc=5" target="_blank">Mali's jihadist blockade: Niger revokes licences of tanker drivers who refuse to travel</a>&nbsp;&nbsp;<font color="#6f6f6f">BBC</font></li><li><a href="https://news.google.com/rss/articles/CBMizwFBVV95cUxNOVM0LXdKOEVMZU91cE83eEpXOFZTamNsdWZsbkJjc0tBTnNCLTNKMTZSYy16SE1kTjRPcVBYeFdQbHNYbkpTS2w4SWRaZDhmbWZScl9ONDdtcFNjLXl2dEVLSGhQMGhnQmFROTRvd3hjYk9fUG5uaG5ZQmo3aUdNNFZCeFhXT01GT2dJZzRPeUdaQ0Z5OW91enJSTHNyLUx2MEQxUm8wQm9XTi0wcndlUE9maFRIN2x4eGQ5RTBjTUgyU3ZNR3oyWERpT1pfQjA?oc=5" target="_blank">How Mali’s fuel blockade is forcing Niger to take tough action on transporters</a>&nbsp;&nbsp;<font color="#6f6f6f">Business Insider Africa</font></li><li><a href="https://news.google.com/rss/articles/CBMiwAFBVV95cUxNLUhrOUJ1dEhicXpUQnUxSDkzcFdTSm5MaEhhN2N5dGNRZERHVFN4eHBHQWowSW9zNXUwQzktLTU3SG9IU3VBNVM1NEU2aVdVSXJadGdHUF9Lc3FWTjh3bDItYzQ1T2tsQzFPV2FBVWZBYUFVN05wNnJqWnEtdUlTckJHbW8xLW5JZGVBOGRGWTEtRlhzUkM5dGZDNU8zWGlFb3M4cGtCMjdUU2JSWTdTWkRyYnZjZVZETUNWOFBmcHg?oc=5" target="_blank">Niger revokes licences of transporters refusing to deliver fuel to Mali</a>&nbsp;&nbsp;<font color="#6f6f6f">Channel Africa</font></li><li><a href="https://news.google.com/rss/articles/CBMipwFBVV95cUxOUXRlT3BqS2hDalNuU09MQ1NXb25aTmliaHA4eGpLOS15d2pwc2tkRVZzVzZhM1VzUDd3VzQwem90TFdaakloeVN2OGZBdVRCMUZGa2h5eHBOM2pZOWYyQ0lNQWQ1YW01Ty0ybU5Rc1BPZVZBUnp3Umg3VktLRU1BN1pkcVp1NXpDQTFJSUtWQW5HT0lwLS10OTROU2dXcmQzUjZua1RfSQ?oc=5" target="_blank">Niger Cancels Licences of Transporters Who Refused Fuel Deliveries to Mali</a>&nbsp;&nbsp;<font color="#6f6f6f">tv360nigeria.com</font></li></ol>

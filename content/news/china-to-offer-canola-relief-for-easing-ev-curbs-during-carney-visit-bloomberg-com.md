@@ -1,0 +1,21 @@
+---
+title: "China to Offer Canola Relief for Easing EV Curbs During Carney Visit - Bloomberg.com"
+date: 2026-01-13
+description: "China to Offer Canola Relief for Easing EV Curbs During Carney Visit&nbsp;&nbsp;Bloomberg.comChina urges Canada to break from US influence as PM Carney visits Beijing&nbsp;&nbsp;ABC NewsCanadian prime minister visits China after nearly a decade of tense relations&nbsp;&nbsp;ReutersCarney heads to Beijing as Trump’s America First agenda forces Canada into trade rethink&nbsp;&nbsp;The GuardianCarney government in talks with China about EV tariffs&nbsp;&nbsp;Toronto Star"
+summary: "China to Offer Canola Relief for Easing EV Curbs During Carney Visit&nbsp;&nbsp;Bloomberg.comChina urges Canada to break from US influence as PM Carney visits Beijing&nbsp;&nbsp;ABC NewsCanadian prime minister visits China after nearly a decade of tense relations&nbsp;&nbsp;ReutersCarney heads to Beijing as Trump’s America First agenda forces Canada into trade rethink&nbsp;&nbsp;The GuardianCarney government in talks with China about EV tariffs&nbsp;&nbsp;Toronto Star"
+slug: "china-to-offer-canola-relief-for-easing-ev-curbs-during-carney-visit-bloomberg-com"
+image: ''
+link: 'https://news.google.com/rss/articles/CBMiuwFBVV95cUxPX0pEMEh6ZUFOaEpiV3RjTm5tLW9YSkVxdFdTUnQxS0xxbUxkaGlheDZXQl9wdG16TkpSdnRnc1FTV3B4dHI2SXA3QlJYaVB0VDJZUm5OQ0xTeW81a3Bvbk80Q0RpQ0JLVkZveURKV0MzTVJLWW9MMGRJVk5IY1h2YzZuOGdSOGxyZFlhMFVlN3JLVG9aUElkakEtMnYyd1E3YWJjOVJNM2NzQ1YwSDlGWmxWY1I3cUM1Qnc0?oc=5'
+source: 'https://news.google.com/rss/topics/CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx1YlY4U0FtVnVHZ0pWVXlnQVAB?hl=en-US&gl=US&ceid=US:en'
+categories:
+- 'news.google.com'
+tags:
+- 'bloomberg'
+- 'canola'
+- 'relief'
+- 'easing'
+- 'during'
+
+draft: false
+---
+<ol><li><a href="https://news.google.com/rss/articles/CBMiuwFBVV95cUxPX0pEMEh6ZUFOaEpiV3RjTm5tLW9YSkVxdFdTUnQxS0xxbUxkaGlheDZXQl9wdG16TkpSdnRnc1FTV3B4dHI2SXA3QlJYaVB0VDJZUm5OQ0xTeW81a3Bvbk80Q0RpQ0JLVkZveURKV0MzTVJLWW9MMGRJVk5IY1h2YzZuOGdSOGxyZFlhMFVlN3JLVG9aUElkakEtMnYyd1E3YWJjOVJNM2NzQ1YwSDlGWmxWY1I3cUM1Qnc0?oc=5" target="_blank">China to Offer Canola Relief for Easing EV Curbs During Carney Visit</a>&nbsp;&nbsp;<font color="#6f6f6f">Bloomberg.com</font></li><li><a href="https://news.google.com/rss/articles/CBMipwFBVV95cUxOVmRfaC12cFVoV3l5b1Q5Q0pMOElTMUhINWxfMGJMeFBKUTZFSUJCbVVjZUlUX2NtRnpIY0gtVEI4Uy1KMUYtZWNmTE5pbDYxRlpPSDROZUFqQTAwcVZjdmp4N2Q5YzBIYUdNRHVUMmFhS2M1Rk5Ta1k2X2ZIdEp6QkN4OTZoZzVHbHpQeEotV1FBQjlZUTVtNDFGWDQtSzNfdFcybU51SdIBrAFBVV95cUxPOE1lcnFhWmRDVXNtS2xEekFRNnh5aUh6VUFfekpGOV9lR2FyLWRENzVRZVhqbEM2aGpub2xtS1pYOFBKbnNkOE1FNWtyU0dQcVhsMVpoZ1FTZGxlaDlsZVdpX3FHUVNJR2Q1cFA4dlRYU1BjVUlDR2NlZFRiRkRRaFVhY25TMVprMURITWhjS3QzTVZXQ3VBTWZDLTR4LUhfZUhNMGFfeVFvSDdt?oc=5" target="_blank">China urges Canada to break from US influence as PM Carney visits Beijing</a>&nbsp;&nbsp;<font color="#6f6f6f">ABC News</font></li><li><a href="https://news.google.com/rss/articles/CBMivAFBVV95cUxNMExFUk9rRmdnVmRzVmdnVGQtbGM5WkNUMmcwTnJiOEVlNjRGa2ZwVXVhRnB6WlhpLTlMWFRTcGx6RzA0YlJhVXh4eHlfVVJ6R1ZVT3hPd3FBZVpQc0VqNHM0MzUwT0x2Rm12WWhGblpRZC1qSVdYQ0VGaV9IM1E5ak1FcjBKM01DMERmLUozbmEydWNqUlRBblNQTVRoUXhlWnJHcFpTVEwzUm9OYTVtOU9VdVFxZE02OW5YYg?oc=5" target="_blank">Canadian prime minister visits China after nearly a decade of tense relations</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font></li><li><a href="https://news.google.com/rss/articles/CBMizAFBVV95cUxQVE5EUV9yVm5FWndWcXBQel9BZFBRVDg1cmlYTjRWNEYzZ2dIdTlia1RsbllhSlQ2X0FVanFvTnRzVTV2MFdyYURfZjJHMkFFSDRvTWVKV0JWX2F0WEI5VkwxMnA1Tm4yanpqb2MyN05DdzNUYWpucm8yM2ZJd0hQakkyWVc1OTNnWGtNdW9QclZnNlJrSjZQU1VZSmozU25fMUYyaXFfYmJxTndMMC1LTmZjSlVDMWlaVlhiQzdEVmFiaHZuT1JyczZOLS0?oc=5" target="_blank">Carney heads to Beijing as Trump’s America First agenda forces Canada into trade rethink</a>&nbsp;&nbsp;<font color="#6f6f6f">The Guardian</font></li><li><a href="https://news.google.com/rss/articles/CBMi3gFBVV95cUxNN1hBVUxmUEdtWlJuV1lZV0ZidHF0MXBEY3RMS0hoMWFYNDlLaWJBbHl2eTQzZ0xZSEZ2MnlyNFlpTGhhVDBkQWdIdVYtZ3BzTGVYWnozaGhuMFhfYTFhcGY4eS1PQ2sxNzJWZFJrQ05YY1NpTW1pYWU4dnpfSHh0WjZ2ZHh1OC1zV2pNMTVFZ09BaU9NcFExTEZ6M2ZFWFNnSWZ6YzJqX0lRREo4dVlzQWZ2OURJQ0pPb1VjX3dodlB1bVlfLXNBNnBCNEV3WTJzS2YtR2FkSm1zclVKOGc?oc=5" target="_blank">Carney government in talks with China about EV tariffs</a>&nbsp;&nbsp;<font color="#6f6f6f">Toronto Star</font></li></ol>

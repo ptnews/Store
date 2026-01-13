@@ -1,0 +1,21 @@
+---
+title: "Hundreds of thousands of households in Kyiv are without power after Russian strikes, as temperatures drop well below freezing - CNN"
+date: 2026-01-13
+description: "Hundreds of thousands of households in Kyiv are without power after Russian strikes, as temperatures drop well below freezing&nbsp;&nbsp;CNNMajor Russian strike targets Ukraine's power grid in freezing temperatures&nbsp;&nbsp;PBS‘We hope they will give us heat:’ Bitter winter cold bites for Kyiv’s residents as Russia steps up attacks&nbsp;&nbsp;CNNRussia Strikes Power Plant, Kills 4 in Ukraine Barrage&nbsp;&nbsp;The Moscow Times'Russia is trying to disconnect Kyiv' — Supermarkets, public..."
+summary: "Hundreds of thousands of households in Kyiv are without power after Russian strikes, as temperatures drop well below freezing&nbsp;&nbsp;CNNMajor Russian strike targets Ukraine's power grid in freezing temperatures&nbsp;&nbsp;PBS‘We hope they will give us heat:’ Bitter winter cold bites for Kyiv’s residents as Russia steps up attacks&nbsp;&nbsp;CNNRussia Strikes Power Plant, Kills 4 in Ukraine Barrage&nbsp;&nbsp;The Moscow Times'Russia is trying to disconnect Kyiv' — Supermarkets, public..."
+slug: "hundreds-of-thousands-of-households-in-kyiv-are-without-power-after-russian-strikes-as-temperatures-drop-well-below-freezing-cnn"
+image: ''
+link: 'https://news.google.com/rss/articles/CBMilgFBVV95cUxQQmVsdXJfRWJiQUVGWU1xTTR5Qkh0Y2VHdVJzY0h0alZLUG5YTjNNdzVwTFRPOUczNVM1QlNUWXpIYjhoMFhvYW1WRG9xNFBnSHFnLTVkb1oxZXc3VG5fdUJkQ040TVZJTVdZYjVYNzlEcDFIUEJYSmg5NkxFTlZLbGFUY0hibEV3RkFCWDlmS0p6TkwzYkE?oc=5'
+source: 'https://news.google.com/rss/topics/CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx1YlY4U0FtVnVHZ0pWVXlnQVAB?hl=en-US&gl=US&ceid=US:en'
+categories:
+- 'news.google.com'
+tags:
+- 'temperatures'
+- 'households'
+- 'thousands'
+- 'hundreds'
+- 'freezing'
+
+draft: false
+---
+<ol><li><a href="https://news.google.com/rss/articles/CBMilgFBVV95cUxQQmVsdXJfRWJiQUVGWU1xTTR5Qkh0Y2VHdVJzY0h0alZLUG5YTjNNdzVwTFRPOUczNVM1QlNUWXpIYjhoMFhvYW1WRG9xNFBnSHFnLTVkb1oxZXc3VG5fdUJkQ040TVZJTVdZYjVYNzlEcDFIUEJYSmg5NkxFTlZLbGFUY0hibEV3RkFCWDlmS0p6TkwzYkE?oc=5" target="_blank">Hundreds of thousands of households in Kyiv are without power after Russian strikes, as temperatures drop well below freezing</a>&nbsp;&nbsp;<font color="#6f6f6f">CNN</font></li><li><a href="https://news.google.com/rss/articles/CBMirAFBVV95cUxNTmhpaXZtWjVWRUE3NEppcUNEOFdkMEJFY2NFRUdVaXJJdU9vWU9mWkp5V3FDdXNwTnJDYUJMVnZtY1c5NDdKWXZ0d2txSDJqWDV1OVpRbVlsczZCXzN4MzcyN053cXlxWVhRd0xFOHdZV21TLU5hMm5uX3dTTEtPNG9ud0dEakNDUjNPdG84RzJLbmxzTTFNMkZoMEs3TGVWbkljX0haLUNDTGR30gGyAUFVX3lxTFAtOWZ0bFNrdEMxSFV3ZjNrMV9va21PaVQ2cFQweExmN0ItN0pVMWVvSnd5cHcwQThWSjNubjJJeWFkQ0haanV1elZOczNXbmVvZUJSSkQtbW52MUF1dk9XV3VaT0ZjRF95SUVDODhIZWhyVEpqWDVoMmprWjcwVWJnVnFISDBSVnhUUDRKamlkR203LVZZUjdTWDBJZWpGQkNrVzNZeVRVSkg1dzJqZW1RMEE?oc=5" target="_blank">Major Russian strike targets Ukraine's power grid in freezing temperatures</a>&nbsp;&nbsp;<font color="#6f6f6f">PBS</font></li><li><a href="https://news.google.com/rss/articles/CBMihgFBVV95cUxPN1lsdkJFeVM4VkVQTDdvR3VlOWczRzNzb25sYXZDVUc0TzdqTDlZQTgzZ2dDZThmLVptWC1NUVdLam8yTkJqd1YxZTZydXowcE9PNk1jZlliaWhPT1ZpTFFrN0Jxa1p2akFqUXZteTExSWZWR2tvcGFhSUhHSDROeW1oMzI4dw?oc=5" target="_blank">‘We hope they will give us heat:’ Bitter winter cold bites for Kyiv’s residents as Russia steps up attacks</a>&nbsp;&nbsp;<font color="#6f6f6f">CNN</font></li><li><a href="https://news.google.com/rss/articles/CBMipAFBVV95cUxPUmU5RGlPeU5IUVpQYUN2TjJrblkyVEZOb3U2X0ZueVZvUzZhN3k1RmZMQk9Da1loM2lUYnVZNVptNW50WEdTeEJJTUlOalhwTHYzR1lrNk9RX0RqSlRpNzRORkVaVE85dmNNQmNoaHM1Y1ZFWkMyN2VvVVZxdVU4Nkl0Zi1RckZydXhaYU9yNVlud2d2Sl9lUjNkd19zaU1CamlWXw?oc=5" target="_blank">Russia Strikes Power Plant, Kills 4 in Ukraine Barrage</a>&nbsp;&nbsp;<font color="#6f6f6f">The Moscow Times</font></li><li><a href="https://news.google.com/rss/articles/CBMirgFBVV95cUxPaFMtakVjQUR3MHlCZ1JWQ3Vhdl8zekZEaFZacmpCVkM0dksyTHVTTHVuMWQtNmdnbnJyT08yc2FXNmpKUXhLOEkyeXVFeVpxMHdSOHU4cXcybFpvQ096cUt2bk9tNGg0c3RNZXo3XzNabm1Wenl5QkxqOWdYMDNIYzhWR2NtRnhBcUhzM2RYaGpVSjBDNkc2elNlay1KMHM4UkxWTU9vbDRIV0tGSVE?oc=5" target="_blank">'Russia is trying to disconnect Kyiv' — Supermarkets, public transport struggle after yet more strikes on energy infrastructure</a>&nbsp;&nbsp;<font color="#6f6f6f">The Kyiv Independent</font></li></ol>
