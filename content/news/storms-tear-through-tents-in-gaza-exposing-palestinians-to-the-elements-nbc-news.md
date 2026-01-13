@@ -1,0 +1,21 @@
+---
+title: "Storms tear through tents in Gaza, exposing Palestinians to the elements - NBC News"
+date: 2026-01-13
+description: "Storms tear through tents in Gaza, exposing Palestinians to the elements&nbsp;&nbsp;NBC NewsFourth Palestinian baby freezes to death in Gaza since November&nbsp;&nbsp;Al JazeeraAid continues despite winter hardship in Gaza and West Bank, UN says&nbsp;&nbsp;UN NewsChild, two women and elderly man killed as damaged buildings collapse in Gaza storm&nbsp;&nbsp;TRT WorldUN reports nearly 95,000 child malnutrition cases in Gaza Strip in 2025&nbsp;&nbsp;Anadolu Ajansı"
+summary: "Storms tear through tents in Gaza, exposing Palestinians to the elements&nbsp;&nbsp;NBC NewsFourth Palestinian baby freezes to death in Gaza since November&nbsp;&nbsp;Al JazeeraAid continues despite winter hardship in Gaza and West Bank, UN says&nbsp;&nbsp;UN NewsChild, two women and elderly man killed as damaged buildings collapse in Gaza storm&nbsp;&nbsp;TRT WorldUN reports nearly 95,000 child malnutrition cases in Gaza Strip in 2025&nbsp;&nbsp;Anadolu Ajansı"
+slug: "storms-tear-through-tents-in-gaza-exposing-palestinians-to-the-elements-nbc-news"
+image: ''
+link: 'https://news.google.com/rss/articles/CBMiqgFBVV95cUxNdlV3RFN2QkxEcEM3QTVOVHNweWtvZzg5ZUxUQ3hEWHE3bTFwSXZidUJKZzhlU0QyVkUzMkxjelc0WVhvMzEzYnYxQjVqNWsxM1didGdUeTYxYzkyT0tEZ19WN2RxOTZUUmFLTGtUZzl5X29uOGFDOE9PMy1ZQVVST05TVWgwR29IZnR6WWhlT05CQ3FYcFNSTlpvR3ltelhreHd6Z3lScWp1Z9IBVkFVX3lxTFAyT0VxRGcxNkIzTnlBcEVWRk5mdjYtNERzQVN5TzRPaU1LZ0lQN1JHWmxXQk1YOS1uVlpJNlVXeVY4Wm5IbHVZZkU4R01EYXZVRDhxNzh3?oc=5'
+source: 'https://news.google.com/rss/topics/CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx1YlY4U0FtVnVHZ0pWVXlnQVAB?hl=en-US&gl=US&ceid=US:en'
+categories:
+- 'news.google.com'
+tags:
+- 'palestinians'
+- 'exposing'
+- 'elements'
+- 'through'
+- 'storms'
+
+draft: false
+---
+<ol><li><a href="https://news.google.com/rss/articles/CBMiqgFBVV95cUxNdlV3RFN2QkxEcEM3QTVOVHNweWtvZzg5ZUxUQ3hEWHE3bTFwSXZidUJKZzhlU0QyVkUzMkxjelc0WVhvMzEzYnYxQjVqNWsxM1didGdUeTYxYzkyT0tEZ19WN2RxOTZUUmFLTGtUZzl5X29uOGFDOE9PMy1ZQVVST05TVWgwR29IZnR6WWhlT05CQ3FYcFNSTlpvR3ltelhreHd6Z3lScWp1Z9IBVkFVX3lxTFAyT0VxRGcxNkIzTnlBcEVWRk5mdjYtNERzQVN5TzRPaU1LZ0lQN1JHWmxXQk1YOS1uVlpJNlVXeVY4Wm5IbHVZZkU4R01EYXZVRDhxNzh3?oc=5" target="_blank">Storms tear through tents in Gaza, exposing Palestinians to the elements</a>&nbsp;&nbsp;<font color="#6f6f6f">NBC News</font></li><li><a href="https://news.google.com/rss/articles/CBMipwFBVV95cUxQMVoxdHYwQWFYMFNHMThTMjRpVVlIa0lMaGJRY1FkbHpyTlM4TkFsVHI0RHl3Sk1vY0RuOVBWRTJBOS1xTW1mbEVMZ1d4THF1YVZkNEdaNXIxZ2gyZzZhY3FmVTMwRDRIZTREdUh0ajZkSzZCc09PRFVsSF9nQVdoTk5pN1ZpR0FYUWw3anduTVAwTGZqVHBKTkdCYXdKNXBGU191TXh1VdIBrAFBVV95cUxNbUFkZDlpZk5LNUZNVTM5QW9NeTkzS0pSc052SW1iOW1oVTQ4QWY3WXVPTjd2NmhBcUtwSEVYVkdnQWl4UVU1NUhGVWcza2Ftd3luN21SSXV4Rkp2LVZEckROOEpab0ZBSEE0V2xhRXowdlg0My0yUzNtTjBqcFQ1NVRyTlc5bGowWmdRLUFzazFScE5Xb1N2eHB6MTVSNFJUQ1V3TUdyY1FMcGs0?oc=5" target="_blank">Fourth Palestinian baby freezes to death in Gaza since November</a>&nbsp;&nbsp;<font color="#6f6f6f">Al Jazeera</font></li><li><a href="https://news.google.com/rss/articles/CBMiV0FVX3lxTE13M2E1bTltTHRVYnZ5YzFCejlVTXAzeFg2OGlsZ1d5RzJLMkNzVWY1ZUZRNGlEMnJhSFA2bWpWeUE3MzliWGpxY0wxc1lRSGFVbGpNcS1ySQ?oc=5" target="_blank">Aid continues despite winter hardship in Gaza and West Bank, UN says</a>&nbsp;&nbsp;<font color="#6f6f6f">UN News</font></li><li><a href="https://news.google.com/rss/articles/CBMiWEFVX3lxTE5WNGpGY0RoRWRmdkRMOXlEN2RCU3NTTS1wTDlSNVZsYXRGMm1HX3lrem14TGdGR2hXWVZJZ3pfVEVORHRxQ0RGU1g1dnQ5bXNHUjVYa0lMTWfSAV5BVV95cUxQRWZXYW02dEpUeXowRzlOYWhPY2llVk1TSmM3Uk1nWEZYdk9naUZ2OGRSTHFVN2pkZlNtT1d6Q3lNV3lLR2lwYkZFcW9YWEt6cTJPcmQzMDF0UkFPcnlR?oc=5" target="_blank">Child, two women and elderly man killed as damaged buildings collapse in Gaza storm</a>&nbsp;&nbsp;<font color="#6f6f6f">TRT World</font></li><li><a href="https://news.google.com/rss/articles/CBMitwFBVV95cUxQTDY2Q1VDU2tFX1UxazZZVU5Rd3VQTHJJRGdaaUYyQ1VBdERHUXhHNTRBM1g2TklIVTJUbXA2OWlrMWdYN1FWc01WVV9lZzNwQlBLbHVWVmIxbXBJX0daT0xXYW40d3h0M3dmRVNsVVFOLXhzX0xMNnZJMkVqS3k3TEJTNjV2Q1dJSmNwdVZmWlVZQnprVHFaTy1nWEdhZUhIVVNBM18wVzlad3Nmd0pkM2RfbktUams?oc=5" target="_blank">UN reports nearly 95,000 child malnutrition cases in Gaza Strip in 2025</a>&nbsp;&nbsp;<font color="#6f6f6f">Anadolu Ajansı</font></li></ol>
