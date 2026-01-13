@@ -1,0 +1,21 @@
+---
+title: "US lawmakers to visit Denmark as Trump continues to threaten Greenland - AP News"
+date: 2026-01-13
+description: "US lawmakers to visit Denmark as Trump continues to threaten Greenland&nbsp;&nbsp;AP NewsOpinion | I’m in Denmark’s Parliament. Mr. President, We’re Already on Your Side.&nbsp;&nbsp;The New York TimesMass. Rep. to introduce bill opposing Trump threats to seize Greenland&nbsp;&nbsp;WCVBInternational law applies to everyone, including US, says German finance minister&nbsp;&nbsp;ReutersChina says US shouldn't use other countries as 'pretext' to pursue its interests in Greenland&nbsp;&nbsp;ABC..."
+summary: "US lawmakers to visit Denmark as Trump continues to threaten Greenland&nbsp;&nbsp;AP NewsOpinion | I’m in Denmark’s Parliament. Mr. President, We’re Already on Your Side.&nbsp;&nbsp;The New York TimesMass. Rep. to introduce bill opposing Trump threats to seize Greenland&nbsp;&nbsp;WCVBInternational law applies to everyone, including US, says German finance minister&nbsp;&nbsp;ReutersChina says US shouldn't use other countries as 'pretext' to pursue its interests in Greenland&nbsp;&nbsp;ABC..."
+slug: "us-lawmakers-to-visit-denmark-as-trump-continues-to-threaten-greenland-ap-news"
+image: ''
+link: 'https://news.google.com/rss/articles/CBMiqAFBVV95cUxPM3NKTTV3SERMX2gxRDNrVVM5N0lVcnl1QkIxSFM0eDB6elhFbDhGaTRBWDkxRWk5N2ExcTNveTRraGdQTUFiZFVtYl9NSFdkTzkzektHWmxqTXRWRk85TERmQjg1Y19vckFXalcwQWpQU1hOYUE0Z1hocVp4SFNBN0JLd3RRRXpWN3owQ3VzU2hILWhZcWpUWHZXa08wSWRMMVNiZjJaOEU?oc=5'
+source: 'https://news.google.com/rss/topics/CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx1YlY4U0FtVnVHZ0pWVXlnQVAB?hl=en-US&gl=US&ceid=US:en'
+categories:
+- 'news.google.com'
+tags:
+- 'lawmakers'
+- 'continues'
+- 'greenland'
+- 'threaten'
+- 'denmark'
+
+draft: false
+---
+<ol><li><a href="https://news.google.com/rss/articles/CBMiqAFBVV95cUxPM3NKTTV3SERMX2gxRDNrVVM5N0lVcnl1QkIxSFM0eDB6elhFbDhGaTRBWDkxRWk5N2ExcTNveTRraGdQTUFiZFVtYl9NSFdkTzkzektHWmxqTXRWRk85TERmQjg1Y19vckFXalcwQWpQU1hOYUE0Z1hocVp4SFNBN0JLd3RRRXpWN3owQ3VzU2hILWhZcWpUWHZXa08wSWRMMVNiZjJaOEU?oc=5" target="_blank">US lawmakers to visit Denmark as Trump continues to threaten Greenland</a>&nbsp;&nbsp;<font color="#6f6f6f">AP News</font></li><li><a href="https://news.google.com/rss/articles/CBMiggFBVV95cUxQd2hNNkp4LV83S0FDNktNbXczNU91LS1URFNxaWlGVkY4RkM4TzdmYzh1RmFHUGxyZ1ptLU9EcnBsZ19QbU80aU5IUm1TRXM3cE1pclJnSEw0aEdRdkVuOXFPMHA4Z2JjZ1d4ZlRFb2xaazVHMFZoVmYzWl9Ybl9HT1RR?oc=5" target="_blank">Opinion | I’m in Denmark’s Parliament. Mr. President, We’re Already on Your Side.</a>&nbsp;&nbsp;<font color="#6f6f6f">The New York Times</font></li><li><a href="https://news.google.com/rss/articles/CBMirAFBVV95cUxNbXp6cEJoMUVyY3p6ZzdFSkhsYlI5M2hxVHNPWUk0OUg4eWEtcGV1QW10bUlkR1hwbGVHcG5tRl9lMkNrbkNfYXJhM3RUWERHX3JDYnE0bVQxY1UtNzI2cWU0QUhaYjVqczBNRnFuVUo2U3FBakJEX25TN3E4UEVPa1YtZ25UdkJfaVZiZmV1RTR3YW5rUU4zSFcyVEZjZk1BRS0tdU1yemo3OWxy?oc=5" target="_blank">Mass. Rep. to introduce bill opposing Trump threats to seize Greenland</a>&nbsp;&nbsp;<font color="#6f6f6f">WCVB</font></li><li><a href="https://news.google.com/rss/articles/CBMiwgFBVV95cUxOdUo2d08tbkp4MlgxQ0UzY1VCVk9OUmg2T0czVDlwVGw2em1VM1RSczhrcEd4LU5YRXFqcHBGNTFhcjlESW1ITDlYOGpMa0xua2JxVkxNX0paLTVUU3JxQXJqSVJTc0x5ckRVc2tyTjhjTDhOTG9QWU9lbGhXU2x2MzF6WFNuODdpc2FfZVpIOTV6S2N3bGI4cnFwV2M3LWwtaUd5RVQyX2FBM0ZGajRDeUJDeVlLZHVWM3d1YnJpY20tdw?oc=5" target="_blank">International law applies to everyone, including US, says German finance minister</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font></li><li><a href="https://news.google.com/rss/articles/CBMirwFBVV95cUxQU0dvYXJTLXhYYnVabUd6YlVwNTVrZGVWeUdwYklid2U4Ukt4bFY1dVVpRmdMdnV2NktiREhKOW1XOXFjcGswZ0cwMEFVZGFJNGR5cGluR01DSGFsQkQ5RUJRRUFRSFVuVUVBUU1Sc2hiMWRUai1oMG1CeUF0Nlk4YWxhMC1hclVGZlB4OFdha3R3cGZleFhRNmJ1VVdEWThUbnpuOXBrbXhSc0lxbXlj0gG0AUFVX3lxTFBfVzVXU1ctdlpLa1J4Q1N0alJxSFRySldsMHJLYjNocDhwWVhTeUxJbEZNQXFUU2FHc1IwTktwbTFSQVBGTDNiS1ZxNTlWZE91QXRhSUszX2VNTVkwc2FTU3lRWmlTNDMwQ0FRc2t6a3dhTWQ3dnZ0QlJwajBxSVdwQzI2dmZLbXFtWEVUdnUwYTNLS1o4eVl0ekxYd1l2SzJYd2JXa0dWdnZrb0hTX3htSEhWaA?oc=5" target="_blank">China says US shouldn't use other countries as 'pretext' to pursue its interests in Greenland</a>&nbsp;&nbsp;<font color="#6f6f6f">ABC News</font></li></ol>
