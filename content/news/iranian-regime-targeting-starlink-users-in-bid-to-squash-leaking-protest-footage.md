@@ -1,0 +1,21 @@
+---
+title: "Iranian regime targeting Starlink users in bid to squash leaking protest footage"
+date: 2026-01-13
+description: "Iran&apos;s internet blockade fails to stop protest footage leaks via Starlink as authorities reportedly kill at least 646 demonstrators in ongoing crackdown."
+summary: "Iran&apos;s internet blockade fails to stop protest footage leaks via Starlink as authorities reportedly kill at least 646 demonstrators in ongoing crackdown."
+slug: "iranian-regime-targeting-starlink-users-in-bid-to-squash-leaking-protest-footage"
+image: ''
+link: 'https://www.foxnews.com/world/iranian-regime-targeting-starlink-users-bid-squash-leaking-protest-footage'
+source: 'https://feeds.foxnews.com/foxnews/world'
+categories:
+- 'feeds.foxnews.com'
+tags:
+- 'targeting'
+- 'starlink'
+- 'iranian'
+- 'leaking'
+- 'protest'
+
+draft: false
+---
+<p><a href="https://www.foxnews.com/category/world/conflicts/iran" target="_blank" rel="noopener">Iranian authorities</a> are targeting Starlink users in an effort to shut down leaks of protest footage amid the regime's ongoing blockade against internet access, human rights groups say.</p><p>Iran cut off public internet access as anti-regime protests ramped up last week, leaving Starlink as one of the few ways Iranians can share images about the regime's deadly crackdown.</p><p>Starlink remains illegal in Iran, but rights groups say they have smuggled thousands of Starlink terminals into the country. The government's efforts to shut down internet access has slowed the service's connectivity, but users are still able to send footage to trusted third-parties who can then share it to social media, The Wall Street Journal reported Monday.</p><p>SpaceX, the company behind Starlink, did not immediately respond to a request for comment from Fox News Digital.</p><p><a href="https://www.foxnews.com/world/iranian-military-leader-threatens-preemptive-attack-after-trump-comments" target="_blank" rel="noopener"><strong>IRANIAN MILITARY LEADER THREATENS PREEMPTIVE ATTACK AFTER TRUMP COMMENTS</strong></a></p><p>President Donald Trump confirmed on Sunday that he planned to speak with SpaceX founder and CEO <a href="https://www.foxnews.com/category/person/elon-musk" target="_blank" rel="noopener">Elon Musk</a> about boosting Starlink's connectivity in Iran.</p><p>"He's very good at that kind of thing, he's got a very good company," Trump told reporters.</p><p>SpaceX previously worked with former President <a href="https://www.foxnews.com/category/person/joe-biden" target="_blank" rel="noopener">Joe Biden</a>'s administration to support Starlink access in Iran in 2022 amid protests against the death of Mahsa Amini. Amini, a 22-year-old woman, was hospitalized and later died after being detained by Iran's morality police for a dress code infringement.</p><p><a href="https://www.foxnews.com/politics/trump-says-iran-starting-to-cross-us-red-lines-protesters-die-government-crackdown" target="_blank" rel="noopener"><strong>TRUMP SAYS IRAN 'STARTING TO' CROSS US RED LINES AS PROTESTERS DIE IN GOVERNMENT CRACKDOWN</strong></a></p><p>Iran's current protests arose for economic reasons, with Iranians outraged at high prices and <a href="https://www.foxnews.com/world/iran-protests-spark-regime-survival-question-exiled-dissident-says-feels-like-revolution" target="_blank" rel="noopener">demanding an end</a> to Ayatollah Ali Khamenei's regime.</p><p>Since the unrest broke out, Iranian authorities have killed at least 646 protesters, with thousands more deaths expected to be confirmed. Reuters reported the death toll at 2,000, citing an unnamed Iranian official.</p><p>The White House confirmed on Monday that Trump was weighing whether to bomb Iran in reaction to the crackdown.</p><p>White House press secretary <a href="https://www.foxnews.com/category/person/karoline-leavitt" target="_blank" rel="noopener">Karoline Leavitt</a> told reporters that diplomacy remains Trump’s first option, but that the president "has shown he’s unafraid to use military options if and when he deems necessary."</p><p>"He certainly doesn’t want to see people being killed in the streets of Tehran. And unfortunately that’s something we are seeing right now," she added.</p><p><i>Fox News' Landon Mion contributed to this report.</i></p>
