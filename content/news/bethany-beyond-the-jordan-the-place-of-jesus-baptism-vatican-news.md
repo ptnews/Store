@@ -1,6 +1,6 @@
 ---
 title: "Bethany Beyond the Jordan, the Place of Jesus’ Baptism - Vatican News"
-date: 2026-01-12
+date: 2026-01-13
 description: "Bethany Beyond the Jordan, the Place of Jesus’ Baptism&nbsp;&nbsp;Vatican NewsCatholic leaders urge pilgrimage to site of Jesus’ baptism in Jordan&nbsp;&nbsp;OSV NewsLatin Patriarchal Vicar of Jordan: Focusing on differences won't bring peace&nbsp;&nbsp;Herald Malaysia OnlineJordan Between Spirituality and Diplomacy: The Catholic Pilgrimage at Al-Maghtas&nbsp;&nbsp;Jordan NewsThousands of Christian pilgrims mark annual Catholic pilgrimage at Al-Maghtas site in Jordan&nbsp;&nbsp;SyriacPress"
 summary: "Bethany Beyond the Jordan, the Place of Jesus’ Baptism&nbsp;&nbsp;Vatican NewsCatholic leaders urge pilgrimage to site of Jesus’ baptism in Jordan&nbsp;&nbsp;OSV NewsLatin Patriarchal Vicar of Jordan: Focusing on differences won't bring peace&nbsp;&nbsp;Herald Malaysia OnlineJordan Between Spirituality and Diplomacy: The Catholic Pilgrimage at Al-Maghtas&nbsp;&nbsp;Jordan NewsThousands of Christian pilgrims mark annual Catholic pilgrimage at Al-Maghtas site in Jordan&nbsp;&nbsp;SyriacPress"
 slug: "bethany-beyond-the-jordan-the-place-of-jesus-baptism-vatican-news"

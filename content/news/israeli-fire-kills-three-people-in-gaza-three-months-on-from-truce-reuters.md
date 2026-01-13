@@ -1,6 +1,6 @@
 ---
 title: "Israeli fire kills three people in Gaza, three months on from truce - Reuters"
-date: 2026-01-12
+date: 2026-01-13
 description: "Israeli fire kills three people in Gaza, three months on from truce&nbsp;&nbsp;ReutersAt least three Palestinians killed in overnight Israeli attacks on Gaza&nbsp;&nbsp;Al JazeeraEight people killed by Israeli air strikes, Gaza civil defence agency says&nbsp;&nbsp;BBCIDF strikes in Gaza, kills at least six Hamas terrorists&nbsp;&nbsp;JNS.orgIsraeli strikes kill at least 13 across Gaza, as Trump is expected to announce Board of Peace&nbsp;&nbsp;AP News"
 summary: "Israeli fire kills three people in Gaza, three months on from truce&nbsp;&nbsp;ReutersAt least three Palestinians killed in overnight Israeli attacks on Gaza&nbsp;&nbsp;Al JazeeraEight people killed by Israeli air strikes, Gaza civil defence agency says&nbsp;&nbsp;BBCIDF strikes in Gaza, kills at least six Hamas terrorists&nbsp;&nbsp;JNS.orgIsraeli strikes kill at least 13 across Gaza, as Trump is expected to announce Board of Peace&nbsp;&nbsp;AP News"
 slug: "israeli-fire-kills-three-people-in-gaza-three-months-on-from-truce-reuters"

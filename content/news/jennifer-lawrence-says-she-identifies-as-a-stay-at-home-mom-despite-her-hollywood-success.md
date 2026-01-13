@@ -1,0 +1,21 @@
+---
+title: "Jennifer Lawrence says she 'identifies as a stay-at-home mom' despite her Hollywood success"
+date: 2026-01-12
+description: "Jennifer Lawrence reveals she identifies as a &quot;stay-at-home mom&quot; who prioritizes family time over late-night events out."
+summary: "Jennifer Lawrence reveals she identifies as a &quot;stay-at-home mom&quot; who prioritizes family time over late-night events out."
+slug: "jennifer-lawrence-says-she-identifies-as-a-stay-at-home-mom-despite-her-hollywood-success"
+image: ''
+link: 'https://www.foxnews.com/entertainment/jennifer-lawrence-says-she-identifies-stay-at-home-mom-despite-her-hollywood-success'
+source: 'https://feeds.foxnews.com/foxnews/latest'
+categories:
+- 'feeds.foxnews.com'
+tags:
+- 'identifies'
+- 'hollywood'
+- 'jennifer'
+- 'lawrence'
+- 'despite'
+
+draft: false
+---
+<p><a href="https://www.foxnews.com/category/person/jennifer-lawrence" target="_blank" rel="noopener">Jennifer Lawrence</a> identifies as a "stay-at-home" mom who loves to do nothing.</p><p>On Monday's episode of the <a href="https://podcasts.apple.com/nz/podcast/jennifer-lawrence/id1521578868?i=1000742483332" target="_blank" rel="nofollow noopener">"Smartless" podcast,</a> which is hosted by Jason Bateman and Will Arnett, Lawrence said that she isn't used to being so busy and normally only dedicates a few months out of the year to film a movie.</p><p>"That's me. I identify as a stay-at-home mom," the actress said. "But I am obviously working."</p><p>Lawrence recently wrapped up a press tour for her film, "Die My Love," where she starred alongside Robert Pattinson.</p><p><a href="https://www.foxnews.com/entertainment/golden-globe-awards-2026-jennifer-lopez-selena-gomez-jennifer-lawrence-dazzle-red-carpet" target="_blank" rel="noopener"><strong>GOLDEN GLOBE AWARDS 2026: JENNIFER LOPEZ, SELENA GOMEZ, AND JENNIFER LAWRENCE DAZZLE ON RED CARPET</strong></a></p><p>"I'm not used to being busy like this. I normally have a busy like three months while I'm filming, but even in that sense, it's calm because there is nothing else to do," Lawrence said. "I just go to work, I do that, I come home, I sleep, and then I do it again. And then, like, two weeks while you promote – it is hectic."</p><p>Bateman said he "loves not doing anything," to which Lawrence replied with a simple, "Yeah."</p><p>The "Hunger Games" star explained that going on podcasts isn't the problem, but having Q&amp;As scheduled at 9 p.m. is where she draws the line.</p><p>"Oh. I'm in bed. Kindle is lit until like 9:15. And then I don't even have, like, Kindle light on normally by 9:15," Lawrence said, explaining that she falls asleep reading her Amazon Kindle fairly early every night.</p><p><a href="https://www.foxnews.com/newsletters?cmpid=fnfirstnl" target="_blank" rel="noopener"><strong>CLICK HERE TO SIGN UP FOR THE ENTERTAINMENT NEWSLETTER</strong></a></p><p>The star said that during the holidays, she was invited to <a href="https://www.foxnews.com/category/entertainment" target="_blank" rel="noopener">a party</a> that began at 9 p.m. and immediately turned it down.</p><p>"You can't be hungover with a <a href="https://www.foxnews.com/category/lifestyle/parenting" target="_blank" rel="noopener">nine-month-old.</a> Even a three-year-old is just not an option," Lawrence said.</p><p><a href="https://www.foxnews.com/entertainment" target="_blank" rel="noopener"><strong>LIKE WHAT YOU’RE READING? CLICK HERE FOR MORE ENTERTAINMENT NEWS</strong></a></p><p>Lawrence has two sons with her husband of seven years, Cooke Maroney. The couple share Cy, 3, and Louie, nearly 1.</p><p>The "Don't Look Up" star's podcast appearance was released a day after she dazzled on the <a href="https://www.foxnews.com/category/entertainment/events/golden-globes" target="_blank" rel="noopener">Golden Globes red carpet</a> on Sunday night.</p><p>Lawrence turned heads in a sheer, pink and green floral-embroidered gown by Givenchy with a plunging neckline and cutouts at the waist. She completed her look with diamond jewelry, along with a gold clutch. </p><p>Lawrence, who is a two-time Golden Globe winner, was nominated for best actress in a motion picture – drama for her performance in "Die My Love."</p>

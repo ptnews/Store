@@ -1,6 +1,6 @@
 ---
 title: "A catastrophe that might offer a glimpse of hope for Indonesia (commentary) - Mongabay"
-date: 2026-01-12
+date: 2026-01-13
 description: "A catastrophe that might offer a glimpse of hope for Indonesia (commentary)&nbsp;&nbsp;MongabayWatershed Degradation Triggers Disasters, UGM Expert Urges Vegetative Rehabilitation and Agroforestry&nbsp;&nbsp;Universitas Gadjah MadaOverlapping Plantation and Mining Permit Policies Prompt UGM Academic to Urge Forest Governance Reform&nbsp;&nbsp;Universitas Gadjah MadaAs Aceh reels from severe floods, Singapore's NTU-led study in 2024 traces roots to forest loss&nbsp;&nbsp;The StarPhoto Essay: Clim..."
 summary: "A catastrophe that might offer a glimpse of hope for Indonesia (commentary)&nbsp;&nbsp;MongabayWatershed Degradation Triggers Disasters, UGM Expert Urges Vegetative Rehabilitation and Agroforestry&nbsp;&nbsp;Universitas Gadjah MadaOverlapping Plantation and Mining Permit Policies Prompt UGM Academic to Urge Forest Governance Reform&nbsp;&nbsp;Universitas Gadjah MadaAs Aceh reels from severe floods, Singapore's NTU-led study in 2024 traces roots to forest loss&nbsp;&nbsp;The StarPhoto Essay: Clim..."
 slug: "a-catastrophe-that-might-offer-a-glimpse-of-hope-for-indonesia-commentary-mongabay"

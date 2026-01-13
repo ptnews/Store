@@ -1,6 +1,6 @@
 ---
 title: "Hearings on whether Myanmar committed genocide against the Rohingya opens at top UN court - ABC News"
-date: 2026-01-12
+date: 2026-01-13
 description: "Hearings on whether Myanmar committed genocide against the Rohingya opens at top UN court&nbsp;&nbsp;ABC NewsMyanmar made Rohingya lives a nightmare, Gambia tells genocide case&nbsp;&nbsp;ReutersUN’s top court opens landmark Myanmar Rohingya genocide case&nbsp;&nbsp;Al JazeeraElements of Genocide: Intent to Kill&nbsp;&nbsp;Just SecurityLandmark Myanmar Rohingya genocide case to open at U.N.'s top court&nbsp;&nbsp;NBC News"
 summary: "Hearings on whether Myanmar committed genocide against the Rohingya opens at top UN court&nbsp;&nbsp;ABC NewsMyanmar made Rohingya lives a nightmare, Gambia tells genocide case&nbsp;&nbsp;ReutersUN’s top court opens landmark Myanmar Rohingya genocide case&nbsp;&nbsp;Al JazeeraElements of Genocide: Intent to Kill&nbsp;&nbsp;Just SecurityLandmark Myanmar Rohingya genocide case to open at U.N.'s top court&nbsp;&nbsp;NBC News"
 slug: "hearings-on-whether-myanmar-committed-genocide-against-the-rohingya-opens-at-top-un-court-abc-news"

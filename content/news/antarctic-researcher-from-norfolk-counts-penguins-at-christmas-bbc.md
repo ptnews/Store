@@ -1,6 +1,6 @@
 ---
 title: "Antarctic researcher from Norfolk counts penguins at Christmas - BBC"
-date: 2026-01-12
+date: 2026-01-13
 description: "Antarctic researcher from Norfolk counts penguins at Christmas&nbsp;&nbsp;BBC"
 summary: "Antarctic researcher from Norfolk counts penguins at Christmas&nbsp;&nbsp;BBC"
 slug: "antarctic-researcher-from-norfolk-counts-penguins-at-christmas-bbc"

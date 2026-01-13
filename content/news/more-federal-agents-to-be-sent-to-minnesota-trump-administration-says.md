@@ -1,6 +1,6 @@
 ---
 title: "More federal agents to be sent to Minnesota, Trump administration says"
-date: 2026-01-12
+date: 2026-01-13
 description: "The move comes after protests against immigration enforcement have been held across the US after a woman was shot by an ICE agent."
 summary: "The move comes after protests against immigration enforcement have been held across the US after a woman was shot by an ICE agent."
 slug: "more-federal-agents-to-be-sent-to-minnesota-trump-administration-says"

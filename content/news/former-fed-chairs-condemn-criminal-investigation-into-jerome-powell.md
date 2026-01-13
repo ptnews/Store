@@ -1,6 +1,6 @@
 ---
 title: "Former Fed chairs condemn criminal investigation into Jerome Powell"
-date: 2026-01-12
+date: 2026-01-13
 description: "Three former heads of the central bank say the probe seeks to undermine the Fed's independence and \"has no place\" in the US."
 summary: "Three former heads of the central bank say the probe seeks to undermine the Fed's independence and \"has no place\" in the US."
 slug: "former-fed-chairs-condemn-criminal-investigation-into-jerome-powell"

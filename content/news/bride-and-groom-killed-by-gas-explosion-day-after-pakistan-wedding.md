@@ -1,6 +1,6 @@
 ---
 title: "Bride and groom killed by gas explosion day after Pakistan wedding"
-date: 2026-01-12
+date: 2026-01-13
 description: "Eight people were killed after a gas cylinder exploded at a house the morning after the wedding celebration."
 summary: "Eight people were killed after a gas cylinder exploded at a house the morning after the wedding celebration."
 slug: "bride-and-groom-killed-by-gas-explosion-day-after-pakistan-wedding"

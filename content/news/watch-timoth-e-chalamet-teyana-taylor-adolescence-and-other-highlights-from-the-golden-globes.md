@@ -1,6 +1,6 @@
 ---
 title: "Watch: Timothée Chalamet, Teyana Taylor, Adolescence and other highlights from the Golden Globes"
-date: 2026-01-12
+date: 2026-01-13
 description: "One Battle After Another and Adolescence swept the Golden Globes as Hollywood's awards season kicks off. "
 summary: "One Battle After Another and Adolescence swept the Golden Globes as Hollywood's awards season kicks off. "
 slug: "watch-timoth-e-chalamet-teyana-taylor-adolescence-and-other-highlights-from-the-golden-globes"

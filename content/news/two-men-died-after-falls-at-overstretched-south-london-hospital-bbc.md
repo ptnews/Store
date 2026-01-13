@@ -1,6 +1,6 @@
 ---
 title: "Two men died after falls at overstretched South London hospital - BBC"
-date: 2026-01-12
+date: 2026-01-13
 description: "Two men died after falls at overstretched South London hospital&nbsp;&nbsp;BBCPatient deaths in the ED: coroner criticises nurse staffing levels&nbsp;&nbsp;RCNiTwo Men Died After Falls at an Overstretched A&E&nbsp;&nbsp;vocal.mediaTwo men died after falls at overstretched A&E&nbsp;&nbsp;AOL.comHospital crisis as two men die after being left without nursing care in south London&nbsp;&nbsp;London Evening Standard"
 summary: "Two men died after falls at overstretched South London hospital&nbsp;&nbsp;BBCPatient deaths in the ED: coroner criticises nurse staffing levels&nbsp;&nbsp;RCNiTwo Men Died After Falls at an Overstretched A&E&nbsp;&nbsp;vocal.mediaTwo men died after falls at overstretched A&E&nbsp;&nbsp;AOL.comHospital crisis as two men die after being left without nursing care in south London&nbsp;&nbsp;London Evening Standard"
 slug: "two-men-died-after-falls-at-overstretched-south-london-hospital-bbc"

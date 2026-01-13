@@ -1,6 +1,6 @@
 ---
 title: "US Stole a Chinese Scam King’s $15B Bitcoin? Here’s “How” - Yahoo Finance"
-date: 2026-01-12
+date: 2026-01-13
 description: "US Stole a Chinese Scam King’s $15B Bitcoin? Here’s “How”&nbsp;&nbsp;Yahoo FinanceAlleged scam kingpin Chen Zhi arrives in China after extradition from Cambodia&nbsp;&nbsp;The GuardianThe Rise and Fall Of Accused Cambodian Scam Kingpin Chen Zhi&nbsp;&nbsp;Bloomberg.comAlleged cybercrime kingpin arrested and extradited from Cambodia to China&nbsp;&nbsp;CNNWhy Southeast Asia's online scam industry is so hard to shut down&nbsp;&nbsp;PBS"
 summary: "US Stole a Chinese Scam King’s $15B Bitcoin? Here’s “How”&nbsp;&nbsp;Yahoo FinanceAlleged scam kingpin Chen Zhi arrives in China after extradition from Cambodia&nbsp;&nbsp;The GuardianThe Rise and Fall Of Accused Cambodian Scam Kingpin Chen Zhi&nbsp;&nbsp;Bloomberg.comAlleged cybercrime kingpin arrested and extradited from Cambodia to China&nbsp;&nbsp;CNNWhy Southeast Asia's online scam industry is so hard to shut down&nbsp;&nbsp;PBS"
 slug: "us-stole-a-chinese-scam-king-s-15b-bitcoin-here-s-how-yahoo-finance"

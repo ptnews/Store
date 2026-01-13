@@ -1,6 +1,6 @@
 ---
 title: "'Miracle baby' born in a tree above Mozambique floodwaters dies aged 25"
-date: 2026-01-12
+date: 2026-01-13
 description: "Rosita Salvador Mabuiango's mother was sheltering for days before giving birth perched above the water."
 summary: "Rosita Salvador Mabuiango's mother was sheltering for days before giving birth perched above the water."
 slug: "miracle-baby-born-in-a-tree-above-mozambique-floodwaters-dies-aged-25"

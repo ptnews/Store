@@ -1,6 +1,6 @@
 ---
 title: "Inside a Gaza medical clinic at risk of shutting down after an Israeli ban - NPR"
-date: 2026-01-12
+date: 2026-01-13
 description: "Inside a Gaza medical clinic at risk of shutting down after an Israeli ban&nbsp;&nbsp;NPRIsrael Tells Doctors Without Borders to End Its Work in Gaza&nbsp;&nbsp;The New York TimesUNRWA Situation Report #203 on the Humanitarian Crisis in the Gaza Strip and the occupied West Bank, including East Jerusalem&nbsp;&nbsp;UNRWAIsrael’s ban on NGOs operating in Gaza will be devastating&nbsp;&nbsp;Al JazeeraWar in Gaza Is Paused but the Battle Over Aid Rages On&nbsp;&nbsp;The Wall Street Journal"
 summary: "Inside a Gaza medical clinic at risk of shutting down after an Israeli ban&nbsp;&nbsp;NPRIsrael Tells Doctors Without Borders to End Its Work in Gaza&nbsp;&nbsp;The New York TimesUNRWA Situation Report #203 on the Humanitarian Crisis in the Gaza Strip and the occupied West Bank, including East Jerusalem&nbsp;&nbsp;UNRWAIsrael’s ban on NGOs operating in Gaza will be devastating&nbsp;&nbsp;Al JazeeraWar in Gaza Is Paused but the Battle Over Aid Rages On&nbsp;&nbsp;The Wall Street Journal"
 slug: "inside-a-gaza-medical-clinic-at-risk-of-shutting-down-after-an-israeli-ban-npr"

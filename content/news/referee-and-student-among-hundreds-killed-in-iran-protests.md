@@ -1,6 +1,6 @@
 ---
 title: "Referee and student among hundreds killed in Iran protests"
-date: 2026-01-12
+date: 2026-01-13
 description: "More than 500 people have been killed during anti-government protests, a US-based human rights group says."
 summary: "More than 500 people have been killed during anti-government protests, a US-based human rights group says."
 slug: "referee-and-student-among-hundreds-killed-in-iran-protests"

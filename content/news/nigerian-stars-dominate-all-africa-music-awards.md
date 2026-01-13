@@ -1,6 +1,6 @@
 ---
 title: "Nigerian stars dominate All Africa Music Awards"
-date: 2026-01-12
+date: 2026-01-13
 description: "Global superstar Burna Boy claimed the prestigious Album of the Year award for his latest work No Sign of Weakness."
 summary: "Global superstar Burna Boy claimed the prestigious Album of the Year award for his latest work No Sign of Weakness."
 slug: "nigerian-stars-dominate-all-africa-music-awards"

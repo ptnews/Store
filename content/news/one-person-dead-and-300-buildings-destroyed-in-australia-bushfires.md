@@ -1,6 +1,6 @@
 ---
 title: "One person dead and 300 buildings destroyed in Australia bushfires"
-date: 2026-01-12
+date: 2026-01-13
 description: "A state of emergency has been declared in Victoria as thousands of firefighters battle the blaze."
 summary: "A state of emergency has been declared in Victoria as thousands of firefighters battle the blaze."
 slug: "one-person-dead-and-300-buildings-destroyed-in-australia-bushfires"

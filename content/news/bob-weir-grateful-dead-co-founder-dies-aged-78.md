@@ -1,6 +1,6 @@
 ---
 title: "Bob Weir, Grateful Dead co-founder, dies aged 78"
-date: 2026-01-12
+date: 2026-01-13
 description: "Weir was a fixture in the psychedelic rock group and its various spin-offs over 60 years. "
 summary: "Weir was a fixture in the psychedelic rock group and its various spin-offs over 60 years. "
 slug: "bob-weir-grateful-dead-co-founder-dies-aged-78"

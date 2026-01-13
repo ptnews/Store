@@ -1,6 +1,6 @@
 ---
 title: "What we know about Iran's protests and the crackdown"
-date: 2026-01-12
+date: 2026-01-13
 description: "The BBC's diplomatic correspondent, Caroline Hawley, looks into the latest events unfolding in Iran.
 "
 summary: "The BBC's diplomatic correspondent, Caroline Hawley, looks into the latest events unfolding in Iran.

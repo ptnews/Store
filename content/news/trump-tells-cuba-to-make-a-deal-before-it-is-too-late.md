@@ -1,6 +1,6 @@
 ---
 title: "Trump tells Cuba to 'make a deal, before it is too late'"
-date: 2026-01-12
+date: 2026-01-13
 description: "Trump has been turning his attention to Cuba since US forces seized Venezuelan leader Nicolás Maduro."
 summary: "Trump has been turning his attention to Cuba since US forces seized Venezuelan leader Nicolás Maduro."
 slug: "trump-tells-cuba-to-make-a-deal-before-it-is-too-late"

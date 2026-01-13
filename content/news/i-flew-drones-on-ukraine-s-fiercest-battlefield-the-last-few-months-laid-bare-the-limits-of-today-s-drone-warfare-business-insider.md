@@ -1,6 +1,6 @@
 ---
 title: "I flew drones on Ukraine's fiercest battlefield. The last few months laid bare the limits of today's drone warfare. - Business Insider"
-date: 2026-01-12
+date: 2026-01-13
 description: "I flew drones on Ukraine's fiercest battlefield. The last few months laid bare the limits of today's drone warfare.&nbsp;&nbsp;Business InsiderReaching Alabuga and Grozny: how Ukraine extends drone strikes beyond 1,000km&nbsp;&nbsp;Українська правдаUkraine Is Now Deploying 1,500 Anti-Shahed Drones a Day—and It’s Changing the Air War&nbsp;&nbsp;UNITED24 MediaUkraine’s USF hit over 350 targets inside Russia in seven months&nbsp;&nbsp;uatv.uaDecember became the first Month in ..."
 summary: "I flew drones on Ukraine's fiercest battlefield. The last few months laid bare the limits of today's drone warfare.&nbsp;&nbsp;Business InsiderReaching Alabuga and Grozny: how Ukraine extends drone strikes beyond 1,000km&nbsp;&nbsp;Українська правдаUkraine Is Now Deploying 1,500 Anti-Shahed Drones a Day—and It’s Changing the Air War&nbsp;&nbsp;UNITED24 MediaUkraine’s USF hit over 350 targets inside Russia in seven months&nbsp;&nbsp;uatv.uaDecember became the first Month in ..."
 slug: "i-flew-drones-on-ukraine-s-fiercest-battlefield-the-last-few-months-laid-bare-the-limits-of-today-s-drone-warfare-business-insider"

@@ -1,6 +1,6 @@
 ---
 title: "PA President Mahmoud Abbas undergoes 'routine medical tests' in Ramallah hospital - The Jerusalem Post"
-date: 2026-01-12
+date: 2026-01-13
 description: "PA President Mahmoud Abbas undergoes 'routine medical tests' in Ramallah hospital&nbsp;&nbsp;The Jerusalem PostThe President Undergoes Routine Medical Examinations Today at the Consultation Hospital&nbsp;&nbsp;وكالة صدى نيوزAbbas undergoes check-ups at Ramallah hospital&nbsp;&nbsp;JNS.orgPA says Mahmoud Abbas, 90, underwent routine medical check-up, results are ‘reassuring’&nbsp;&nbsp;The Times of IsraelPalestinian president leaves hospital in Ramallah - WAFA&nbsp;&nbsp;Arab News..."
 summary: "PA President Mahmoud Abbas undergoes 'routine medical tests' in Ramallah hospital&nbsp;&nbsp;The Jerusalem PostThe President Undergoes Routine Medical Examinations Today at the Consultation Hospital&nbsp;&nbsp;وكالة صدى نيوزAbbas undergoes check-ups at Ramallah hospital&nbsp;&nbsp;JNS.orgPA says Mahmoud Abbas, 90, underwent routine medical check-up, results are ‘reassuring’&nbsp;&nbsp;The Times of IsraelPalestinian president leaves hospital in Ramallah - WAFA&nbsp;&nbsp;Arab News..."
 slug: "pa-president-mahmoud-abbas-undergoes-routine-medical-tests-in-ramallah-hospital-the-jerusalem-post"

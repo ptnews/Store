@@ -1,6 +1,6 @@
 ---
 title: "Why the NHS wastes billions on patients who shouldn't be in hospital - BBC"
-date: 2026-01-12
+date: 2026-01-13
 description: "Why the NHS wastes billions on patients who shouldn't be in hospital&nbsp;&nbsp;BBC"
 summary: "Why the NHS wastes billions on patients who shouldn't be in hospital&nbsp;&nbsp;BBC"
 slug: "why-the-nhs-wastes-billions-on-patients-who-shouldn-t-be-in-hospital-bbc"

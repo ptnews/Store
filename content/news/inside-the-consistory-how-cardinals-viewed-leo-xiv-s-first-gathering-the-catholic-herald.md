@@ -1,6 +1,6 @@
 ---
 title: "Inside the consistory: how cardinals viewed Leo XIV’s first gathering - The Catholic Herald"
-date: 2026-01-12
+date: 2026-01-13
 description: "Inside the consistory: how cardinals viewed Leo XIV’s first gathering&nbsp;&nbsp;The Catholic HeraldPope Leo: Failure to welcome abuse victims is a scandal&nbsp;&nbsp;Vatican NewsPope Leo insists Vatican II remains the church's road map&nbsp;&nbsp;National Catholic ReporterCardinals leave consistory with a clear vision from pontiff: ‘A Church that cares’&nbsp;&nbsp;OSV NewsLiturgy sidestepped at Pope Leo XIV’s first consistory&nbsp;&nbsp;EWTN Vatican"
 summary: "Inside the consistory: how cardinals viewed Leo XIV’s first gathering&nbsp;&nbsp;The Catholic HeraldPope Leo: Failure to welcome abuse victims is a scandal&nbsp;&nbsp;Vatican NewsPope Leo insists Vatican II remains the church's road map&nbsp;&nbsp;National Catholic ReporterCardinals leave consistory with a clear vision from pontiff: ‘A Church that cares’&nbsp;&nbsp;OSV NewsLiturgy sidestepped at Pope Leo XIV’s first consistory&nbsp;&nbsp;EWTN Vatican"
 slug: "inside-the-consistory-how-cardinals-viewed-leo-xiv-s-first-gathering-the-catholic-herald"

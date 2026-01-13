@@ -1,6 +1,6 @@
 ---
 title: "Custody extended for owner of Swiss ski bar after deadly fire"
-date: 2026-01-12
+date: 2026-01-13
 description: " Jacques Moretti is being held as a potential flight risk, Swiss media reports say."
 summary: " Jacques Moretti is being held as a potential flight risk, Swiss media reports say."
 slug: "custody-extended-for-owner-of-swiss-ski-bar-after-deadly-fire"

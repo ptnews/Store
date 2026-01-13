@@ -1,6 +1,6 @@
 ---
 title: "Sweden to invest $1.6 billion in air defence systems - Reuters"
-date: 2026-01-12
+date: 2026-01-13
 description: "Sweden to invest $1.6 billion in air defence systems&nbsp;&nbsp;ReutersSweden allocates $1.6B to build territorial air defense capability, $140M for space&nbsp;&nbsp;Breaking DefenseSweden to Create Mobile AA Fire Teams Based on Ukraine’s Example&nbsp;&nbsp;МілітарнийSwedish military to pump forces, money into mobile drone-defense units&nbsp;&nbsp;Defense NewsSweden Lifts Defense Spend as Outlook Darkens ‘in East and West’&nbsp;&nbsp;Bloomberg.com"
 summary: "Sweden to invest $1.6 billion in air defence systems&nbsp;&nbsp;ReutersSweden allocates $1.6B to build territorial air defense capability, $140M for space&nbsp;&nbsp;Breaking DefenseSweden to Create Mobile AA Fire Teams Based on Ukraine’s Example&nbsp;&nbsp;МілітарнийSwedish military to pump forces, money into mobile drone-defense units&nbsp;&nbsp;Defense NewsSweden Lifts Defense Spend as Outlook Darkens ‘in East and West’&nbsp;&nbsp;Bloomberg.com"
 slug: "sweden-to-invest-1-6-billion-in-air-defence-systems-reuters"

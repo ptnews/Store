@@ -1,6 +1,6 @@
 ---
 title: "Russia Adopts New Tank Tactics In Unlikely Push To Break Stalemate - Forbes"
-date: 2026-01-12
+date: 2026-01-13
 description: "Russia Adopts New Tank Tactics In Unlikely Push To Break Stalemate&nbsp;&nbsp;ForbesRussia’s ‘dandelion’ tank armour might just work&nbsp;&nbsp;The TelegraphRussian Tanks Change Battlefield Tactics as Drone Attacks Dominate Fighting in Ukraine&nbsp;&nbsp;Army RecognitionUkraine Analysts Warn of Russian Tank Offensive in 2026&nbsp;&nbsp;Военное делоRussia Debuts 'Dandelion Tank' to Counter Drone Threats&nbsp;&nbsp;조선일보"
 summary: "Russia Adopts New Tank Tactics In Unlikely Push To Break Stalemate&nbsp;&nbsp;ForbesRussia’s ‘dandelion’ tank armour might just work&nbsp;&nbsp;The TelegraphRussian Tanks Change Battlefield Tactics as Drone Attacks Dominate Fighting in Ukraine&nbsp;&nbsp;Army RecognitionUkraine Analysts Warn of Russian Tank Offensive in 2026&nbsp;&nbsp;Военное делоRussia Debuts 'Dandelion Tank' to Counter Drone Threats&nbsp;&nbsp;조선일보"
 slug: "russia-adopts-new-tank-tactics-in-unlikely-push-to-break-stalemate-forbes"

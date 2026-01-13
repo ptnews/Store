@@ -1,6 +1,6 @@
 ---
 title: "Meet the springtails: little-known fantastic beasts that live everywhere on Earth - The Conversation"
-date: 2026-01-12
+date: 2026-01-13
 description: "Meet the springtails: little-known fantastic beasts that live everywhere on Earth&nbsp;&nbsp;The Conversation"
 summary: "Meet the springtails: little-known fantastic beasts that live everywhere on Earth&nbsp;&nbsp;The Conversation"
 slug: "meet-the-springtails-little-known-fantastic-beasts-that-live-everywhere-on-earth-the-conversation"

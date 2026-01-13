@@ -1,6 +1,6 @@
 ---
 title: "3 Steps to Fix Your Attention Span - The New York Times"
-date: 2026-01-12
+date: 2026-01-13
 description: "3 Steps to Fix Your Attention Span&nbsp;&nbsp;The New York TimesWhat is the toll on our mental health?&nbsp;&nbsp;Psychology TodayBengaluru: Two generations, one problem; constant scrolling takes a cognitive toll&nbsp;&nbsp;Times of IndiaYour phone isn’t the problem. Your habits are. Ankur Warikoo shares 14 ways to beat distraction&nbsp;&nbsp;The Economic TimesThis is why so many of us are feeling like our brains are badly overloaded&nbsp;&nbsp;Daily Express"
 summary: "3 Steps to Fix Your Attention Span&nbsp;&nbsp;The New York TimesWhat is the toll on our mental health?&nbsp;&nbsp;Psychology TodayBengaluru: Two generations, one problem; constant scrolling takes a cognitive toll&nbsp;&nbsp;Times of IndiaYour phone isn’t the problem. Your habits are. Ankur Warikoo shares 14 ways to beat distraction&nbsp;&nbsp;The Economic TimesThis is why so many of us are feeling like our brains are badly overloaded&nbsp;&nbsp;Daily Express"
 slug: "3-steps-to-fix-your-attention-span-the-new-york-times"

@@ -1,6 +1,6 @@
 ---
 title: "The US is taking control of Venezuela and targeting Greenland. The Dow could still hit 50,000 - Yahoo Finance"
-date: 2026-01-12
+date: 2026-01-13
 description: "The US is taking control of Venezuela and targeting Greenland. The Dow could still hit 50,000&nbsp;&nbsp;Yahoo FinanceView Full Coverage on Google News"
 summary: "The US is taking control of Venezuela and targeting Greenland. The Dow could still hit 50,000&nbsp;&nbsp;Yahoo FinanceView Full Coverage on Google News"
 slug: "the-us-is-taking-control-of-venezuela-and-targeting-greenland-the-dow-could-still-hit-50-000-yahoo-finance"

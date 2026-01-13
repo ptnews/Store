@@ -1,6 +1,6 @@
 ---
 title: "Jailed Venezuelan politician's son says Trump shouldn't be 'fooled' by pledge of prisoner releases"
-date: 2026-01-12
+date: 2026-01-13
 description: "Ramón Guanipa's father was accused of treason for challenging the disputed 2024 presidential election result."
 summary: "Ramón Guanipa's father was accused of treason for challenging the disputed 2024 presidential election result."
 slug: "jailed-venezuelan-politician-s-son-says-trump-shouldn-t-be-fooled-by-pledge-of-prisoner-releases"
