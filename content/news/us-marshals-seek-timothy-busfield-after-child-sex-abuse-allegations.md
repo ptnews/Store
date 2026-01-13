@@ -1,0 +1,21 @@
+---
+title: "US Marshals seek Timothy Busfield after child sex abuse allegations"
+date: 2026-01-13
+description: "U.S. Marshals are now hunting &quot;Thirtysomething&quot; and &quot;The West Wing&quot; actor Timothy Busfield after an arrest warrant was issued for alleged child sex abuse charges in New Mexico case."
+summary: "U.S. Marshals are now hunting &quot;Thirtysomething&quot; and &quot;The West Wing&quot; actor Timothy Busfield after an arrest warrant was issued for alleged child sex abuse charges in New Mexico case."
+slug: "us-marshals-seek-timothy-busfield-after-child-sex-abuse-allegations"
+image: ''
+link: 'https://www.foxnews.com/entertainment/us-marshals-seek-timothy-busfield-after-child-sex-abuse-allegations'
+source: 'https://feeds.foxnews.com/foxnews/latest'
+categories:
+- 'feeds.foxnews.com'
+tags:
+- 'allegations'
+- 'marshals'
+- 'busfield'
+- 'timothy'
+- 'child'
+
+draft: false
+---
+<p>Days after authorities in New Mexico issued an <a href="https://www.foxnews.com/category/entertainment/events/arrest" target="_blank" rel="noopener">arrest warrant</a> for "Thirtysomething" alum Timothy Busfield on child sex abuse charges, the U.S. Marshals stepped in, taking over efforts to locate and apprehend the actor. </p><p>"Albuquerque Police Department is working with the U.S. Marshal Service to get Mr. Busfield into custody," APD spokesperson Gilbert Gallegos told <a href="https://deadline.com/2026/01/timothy-busfield-arrest-warrant-child-sexual-abuse-1236681301/" target="_blank" rel="nofollow noopener">Deadline</a> on Monday of the DOJ’s primary agency for fugitive investigations. "I do not have a timeline."</p><p>On Jan. 9, an arrest warrant for the director and Emmy Award-winning actor was issued, according to the Associated Press.</p><p><a href="https://www.foxnews.com/entertainment/little-house-prairie-star-melissa-gilbert-being-raggedy-dirty-landed-her-iconic-role" target="_blank" rel="noopener"><strong>'LITTLE HOUSE ON THE PRAIRIE' STAR MELISSA GILBERT SAYS BEING 'RAGGEDY AND DIRTY' LANDED HER ICONIC ROLE</strong></a></p><p>An investigator with the Albuquerque Police Department filed a criminal complaint in support of the charge, which says a child reported that Busfield touched him inappropriately.</p><p><a href="https://www.foxnews.com/entertainment" target="_blank" rel="noopener"><strong>LIKE WHAT YOU’RE READING? CLICK HERE FOR MORE ENTERTAINMENT NEWS</strong></a></p><p>The alleged acts — which allegedly happened when the child was 7 years old — occurred on the set of "The Cleaning Lady," a TV series Busfield directed and acted in. Busfield allegedly touched the child three or four times, and again, another five or six times when the child was 8.</p><p>"The health and safety of our cast and crew is always our top priority, especially the safety of minors on our productions," a representative from Warner Bros. Television told Fox News Digital in a statement. "We take all allegations of misconduct very seriously and have systems in place to promptly and thoroughly investigate, and when needed, take appropriate action. We are aware of the <a href="https://www.foxnews.com/category/crime" target="_blank" rel="noopener">current charges</a> against Mr. Busfield and have been and will continue to cooperate with law enforcement."</p><p><a href="https://www.foxnews.com/newsletters?cmpid=fnfirstnl" target="_blank" rel="noopener"><strong>CLICK HERE TO SIGN UP FOR THE ENTERTAINMENT NEWSLETTER</strong></a></p><p>The police investigation into the allegations against Busfield began on Nov. 1, 2024, according to <a href="https://people.com/melissa-gilbert-on-speakerphone-during-husband-timothy-busfield-interview-with-detective-before-arrest-warrant-11883035" target="_blank" rel="nofollow noopener">People</a>, after a doctor at the University of New Mexico Hospital alerted officers about a case of alleged sexual abuse.</p><p>Busfield's wife, "Little House on the Prairie" actress <a href="https://www.foxnews.com/entertainment/little-house-prairie-star-melissa-gilbert-birth-father-knew-her-identity-after-watching-show" target="_blank" rel="noopener">Melissa Gilbert</a>, reportedly deleted her Instagram account after the arrest warrant was issued. </p><p>Gilbert and Busfield married in 2013. </p>

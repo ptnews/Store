@@ -1,0 +1,21 @@
+---
+title: "As Canada tries to reduce its dependence on the US, its leader will visit China to rebuild ties - AP News"
+date: 2026-01-13
+description: "As Canada tries to reduce its dependence on the US, its leader will visit China to rebuild ties&nbsp;&nbsp;AP NewsChina urges Canada to break from US influence as PM Carney visits Beijing&nbsp;&nbsp;ABC NewsCanadian prime minister visits China after nearly a decade of tense relations&nbsp;&nbsp;ReutersCarney heads to Beijing as Trump’s America First agenda forces Canada into trade rethink&nbsp;&nbsp;The GuardianWhat canola and pea farmers are hoping for when Carney goes to China&nbsp;&nbsp;CTV..."
+summary: "As Canada tries to reduce its dependence on the US, its leader will visit China to rebuild ties&nbsp;&nbsp;AP NewsChina urges Canada to break from US influence as PM Carney visits Beijing&nbsp;&nbsp;ABC NewsCanadian prime minister visits China after nearly a decade of tense relations&nbsp;&nbsp;ReutersCarney heads to Beijing as Trump’s America First agenda forces Canada into trade rethink&nbsp;&nbsp;The GuardianWhat canola and pea farmers are hoping for when Carney goes to China&nbsp;&nbsp;CTV..."
+slug: "as-canada-tries-to-reduce-its-dependence-on-the-us-its-leader-will-visit-china-to-rebuild-ties-ap-news"
+image: ''
+link: 'https://news.google.com/rss/articles/CBMipwFBVV95cUxOLVJLTmNrbW4tSW51Z3Njc2ozM3pFeU5IM1lpbmlITlRtdnhZWG1Xd1ltYjdwbV9OLWtCZDhkMXc1LTNHbVZReTlEdFNUaENPeVh6dVNEZkxmbkFiUUE0ODRZRlRtbXI5elY3RzVCQVJ3a0wzNjBaVjV4WERNdUxDQ2htRkVZT1Zuc2w5VnFfQmJYeFo3MmlaS1Z5T2hGbDJFc2NRLVpHdw?oc=5'
+source: 'https://news.google.com/rss/topics/CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx1YlY4U0FtVnVHZ0pWVXlnQVAB?hl=en-US&gl=US&ceid=US:en'
+categories:
+- 'news.google.com'
+tags:
+- 'dependence'
+- 'rebuild'
+- 'canada'
+- 'reduce'
+- 'leader'
+
+draft: false
+---
+<ol><li><a href="https://news.google.com/rss/articles/CBMipwFBVV95cUxOLVJLTmNrbW4tSW51Z3Njc2ozM3pFeU5IM1lpbmlITlRtdnhZWG1Xd1ltYjdwbV9OLWtCZDhkMXc1LTNHbVZReTlEdFNUaENPeVh6dVNEZkxmbkFiUUE0ODRZRlRtbXI5elY3RzVCQVJ3a0wzNjBaVjV4WERNdUxDQ2htRkVZT1Zuc2w5VnFfQmJYeFo3MmlaS1Z5T2hGbDJFc2NRLVpHdw?oc=5" target="_blank">As Canada tries to reduce its dependence on the US, its leader will visit China to rebuild ties</a>&nbsp;&nbsp;<font color="#6f6f6f">AP News</font></li><li><a href="https://news.google.com/rss/articles/CBMipwFBVV95cUxOVmRfaC12cFVoV3l5b1Q5Q0pMOElTMUhINWxfMGJMeFBKUTZFSUJCbVVjZUlUX2NtRnpIY0gtVEI4Uy1KMUYtZWNmTE5pbDYxRlpPSDROZUFqQTAwcVZjdmp4N2Q5YzBIYUdNRHVUMmFhS2M1Rk5Ta1k2X2ZIdEp6QkN4OTZoZzVHbHpQeEotV1FBQjlZUTVtNDFGWDQtSzNfdFcybU51SdIBrAFBVV95cUxPOE1lcnFhWmRDVXNtS2xEekFRNnh5aUh6VUFfekpGOV9lR2FyLWRENzVRZVhqbEM2aGpub2xtS1pYOFBKbnNkOE1FNWtyU0dQcVhsMVpoZ1FTZGxlaDlsZVdpX3FHUVNJR2Q1cFA4dlRYU1BjVUlDR2NlZFRiRkRRaFVhY25TMVprMURITWhjS3QzTVZXQ3VBTWZDLTR4LUhfZUhNMGFfeVFvSDdt?oc=5" target="_blank">China urges Canada to break from US influence as PM Carney visits Beijing</a>&nbsp;&nbsp;<font color="#6f6f6f">ABC News</font></li><li><a href="https://news.google.com/rss/articles/CBMivAFBVV95cUxNMExFUk9rRmdnVmRzVmdnVGQtbGM5WkNUMmcwTnJiOEVlNjRGa2ZwVXVhRnB6WlhpLTlMWFRTcGx6RzA0YlJhVXh4eHlfVVJ6R1ZVT3hPd3FBZVpQc0VqNHM0MzUwT0x2Rm12WWhGblpRZC1qSVdYQ0VGaV9IM1E5ak1FcjBKM01DMERmLUozbmEydWNqUlRBblNQTVRoUXhlWnJHcFpTVEwzUm9OYTVtOU9VdVFxZE02OW5YYg?oc=5" target="_blank">Canadian prime minister visits China after nearly a decade of tense relations</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font></li><li><a href="https://news.google.com/rss/articles/CBMizAFBVV95cUxQVE5EUV9yVm5FWndWcXBQel9BZFBRVDg1cmlYTjRWNEYzZ2dIdTlia1RsbllhSlQ2X0FVanFvTnRzVTV2MFdyYURfZjJHMkFFSDRvTWVKV0JWX2F0WEI5VkwxMnA1Tm4yanpqb2MyN05DdzNUYWpucm8yM2ZJd0hQakkyWVc1OTNnWGtNdW9QclZnNlJrSjZQU1VZSmozU25fMUYyaXFfYmJxTndMMC1LTmZjSlVDMWlaVlhiQzdEVmFiaHZuT1JyczZOLS0?oc=5" target="_blank">Carney heads to Beijing as Trump’s America First agenda forces Canada into trade rethink</a>&nbsp;&nbsp;<font color="#6f6f6f">The Guardian</font></li><li><a href="https://news.google.com/rss/articles/CBMiqgFBVV95cUxQYkFOUm1vYXN1V19hRndBd0tENVJnYWpTWmNMSlJidWxsS3JUbWU5WkdXd1pxNU5mOVRwa2liUnZOaWVlcm5NcWc2cWoyd0VsRHF1YVh6VWhyVFpFWGhqWC0xbWNyTTJTRC0wVDJ4WmhGeFMzUGM2aDk2S3RTcXB2eGtFUXE1bm9VVlVjMDFaTEhTaHNSTmpRcGw5aDJvSE42QUpfeUNYd2Vidw?oc=5" target="_blank">What canola and pea farmers are hoping for when Carney goes to China</a>&nbsp;&nbsp;<font color="#6f6f6f">CTV News</font></li></ol>

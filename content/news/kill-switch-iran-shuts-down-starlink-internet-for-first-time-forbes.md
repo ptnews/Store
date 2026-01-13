@@ -1,0 +1,21 @@
+---
+title: "‘Kill Switch’—Iran Shuts Down Starlink Internet For First Time - Forbes"
+date: 2026-01-13
+description: "‘Kill Switch’—Iran Shuts Down Starlink Internet For First Time&nbsp;&nbsp;ForbesIran blocked Starlink, protesters’ lifeline. Trump, Musk say that won’t stand.&nbsp;&nbsp;The Washington PostTrump imposes tariffs as Iranians make first calls to outside world since violent crackdown&nbsp;&nbsp;NBC NewsAn ecosystem of smuggled tech holds Iran’s last link to the outside world&nbsp;&nbsp;The GuardianIranian regime targeting Starlink users in bid to squash leaking protest footage&nbsp;&nbsp..."
+summary: "‘Kill Switch’—Iran Shuts Down Starlink Internet For First Time&nbsp;&nbsp;ForbesIran blocked Starlink, protesters’ lifeline. Trump, Musk say that won’t stand.&nbsp;&nbsp;The Washington PostTrump imposes tariffs as Iranians make first calls to outside world since violent crackdown&nbsp;&nbsp;NBC NewsAn ecosystem of smuggled tech holds Iran’s last link to the outside world&nbsp;&nbsp;The GuardianIranian regime targeting Starlink users in bid to squash leaking protest footage&nbsp;&nbsp..."
+slug: "kill-switch-iran-shuts-down-starlink-internet-for-first-time-forbes"
+image: ''
+link: 'https://news.google.com/rss/articles/CBMisgFBVV95cUxNeXRlby1XeXVFbkJBTGtzT0NDeXdwNGtZakRNcFBKVlZndDFON0hnMFNaTWRrQkdLN3hmdTJJWkhTSkZmanNBYXVjNVhoRmhJeE1LUHJORlRqWDdvVGh0YXNXR0g4aEE4bVJhUjJ4MnNhbVBYX3pYWUtYMUI3MmFTRS0tRDg2UkQyb0J3Qk1kUkdZRjZMcVBwcjNQLWRsdGRTak9sd1N5NGlTRUVUUkNCT2dB?oc=5'
+source: 'https://news.google.com/rss/topics/CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx1YlY4U0FtVnVHZ0pWVXlnQVAB?hl=en-US&gl=US&ceid=US:en'
+categories:
+- 'news.google.com'
+tags:
+- 'starlink'
+- 'internet'
+- 'switch'
+- 'forbes'
+- 'shuts'
+
+draft: false
+---
+<ol><li><a href="https://news.google.com/rss/articles/CBMisgFBVV95cUxNeXRlby1XeXVFbkJBTGtzT0NDeXdwNGtZakRNcFBKVlZndDFON0hnMFNaTWRrQkdLN3hmdTJJWkhTSkZmanNBYXVjNVhoRmhJeE1LUHJORlRqWDdvVGh0YXNXR0g4aEE4bVJhUjJ4MnNhbVBYX3pYWUtYMUI3MmFTRS0tRDg2UkQyb0J3Qk1kUkdZRjZMcVBwcjNQLWRsdGRTak9sd1N5NGlTRUVUUkNCT2dB?oc=5" target="_blank">‘Kill Switch’—Iran Shuts Down Starlink Internet For First Time</a>&nbsp;&nbsp;<font color="#6f6f6f">Forbes</font></li><li><a href="https://news.google.com/rss/articles/CBMijwFBVV95cUxNWGlRNWhBa0Y5WGQ3UU1maHRlbDBWQXFjdXRHVHJtQTE2ZDJlek5QWXB4djlCN0ZyVGdORzdOVm9tb2ExWGVXd2tPLWlhTjBUV0FMUEZLZzE5WUxvZ1VUNVo2TUozZVNuRGRUY0ttanlEajk1em4xWGxKOEJuRllhTi13Z2ZQTzI0MDF2WXJYYw?oc=5" target="_blank">Iran blocked Starlink, protesters’ lifeline. Trump, Musk say that won’t stand.</a>&nbsp;&nbsp;<font color="#6f6f6f">The Washington Post</font></li><li><a href="https://news.google.com/rss/articles/CBMilAFBVV95cUxPZUoyQlBYelRGMU8zZVl0T1FjdmF3MzRudUhjWlZQeW5GN3luaEdxSUhiWTdBY2s2RmFjMlAwSlduN0dxdS1hV2FjUjBEbXRqd1oxUnU3XzhfTUViZEt2QUdIQ1dvRzd0NmIxZHpadE9wRjVUdVViLXZWUjdBNlU3cGZFZFVWYkF5NXZ3amxEdG9qblRj0gFWQVVfeXFMTWFXRnhLNVBFZkhIQ1hKdk1TLXVwTjFXZUIyX2RqRzRpZ3dtc2stbXJtMERWbmRucmsxR2F4emRXNkRHd3dlOFVFZ1REVnNTcGREWU5zMEE?oc=5" target="_blank">Trump imposes tariffs as Iranians make first calls to outside world since violent crackdown</a>&nbsp;&nbsp;<font color="#6f6f6f">NBC News</font></li><li><a href="https://news.google.com/rss/articles/CBMiqwFBVV95cUxNNGFmNlptNFNQMkRGNWo0TkkwNC1kRFhFbFdSU0VqWHI1NE9yT3liR0lTUFE2Nnd5TEg4dmxMS1RVQklzdlhpY25teDRfUUJvdEtHSFdrYzFoZl9yN0tReDEzdVFyejlmWEJzUm1aYUdyN1lkUTJ2a00yUE5BZ05oVFBYWk5mdDhGRVZrYnhudHZCZWNqczlZRURfS05MNUpsd3JrT00wejg3dUU?oc=5" target="_blank">An ecosystem of smuggled tech holds Iran’s last link to the outside world</a>&nbsp;&nbsp;<font color="#6f6f6f">The Guardian</font></li><li><a href="https://news.google.com/rss/articles/CBMipwFBVV95cUxNclNZVm1Wa2FBd0xUQXNseTNwbDdfVlNJeEI0ODE5Zmt4enFyTmlOdmswUWVsY2M3aGJZVTgzbkVNS05RNGlPZkhyN3ZCU0toX19pcTBHNl84T2dmWVVOODRVUmtSMXl4S3otbUE4WmtDbWxIVUROU01wQXYzSUs1TlhvV0YtZHNFNHVRdUFxRDdGSXJfV2FxekQzRk5UYVdJR1BMQU9CY9IBrAFBVV95cUxQNDRkZXhTbW84VG51WUNCSVExaGFqUTF4eFJPLVF2cGxiUzZnRmZiT2J2YmsyQy1fWlZWcktTTGx1Vi0xR0hSbllQVlRKSC1fLVAxMmJmdHhhcGxfdmVQdWRlOUxWZ0c4WG4wSUhIV0Z4Qm90RG1aOFlSYWt1UHliTEF6M1prRm4xazlzRFJsUVJ3Wm44VjRNLTdscFFuMVMzMHVmWmxycTk1Q25u?oc=5" target="_blank">Iranian regime targeting Starlink users in bid to squash leaking protest footage</a>&nbsp;&nbsp;<font color="#6f6f6f">Fox News</font></li></ol>
