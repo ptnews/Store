@@ -1,0 +1,21 @@
+---
+title: "Hundreds of tractors rumble through Paris in protest over EU-Mercosur deal - Euronews.com"
+date: 2026-01-13
+description: "Hundreds of tractors rumble through Paris in protest over EU-Mercosur deal&nbsp;&nbsp;Euronews.comFrench farmers stage new Paris protest in effort to halt Mercosur deal&nbsp;&nbsp;ReutersFrench farmers drive 350 tractors to Parliament to protest low incomes and EU trade deal&nbsp;&nbsp;ABC NewsSome 350 tractors converge on Paris in latest farmers’ protest&nbsp;&nbsp;France 24Farmers roll hundreds of tractors into Paris in fresh protests&nbsp;&nbsp;Le Monde.fr"
+summary: "Hundreds of tractors rumble through Paris in protest over EU-Mercosur deal&nbsp;&nbsp;Euronews.comFrench farmers stage new Paris protest in effort to halt Mercosur deal&nbsp;&nbsp;ReutersFrench farmers drive 350 tractors to Parliament to protest low incomes and EU trade deal&nbsp;&nbsp;ABC NewsSome 350 tractors converge on Paris in latest farmers’ protest&nbsp;&nbsp;France 24Farmers roll hundreds of tractors into Paris in fresh protests&nbsp;&nbsp;Le Monde.fr"
+slug: "hundreds-of-tractors-rumble-through-paris-in-protest-over-eu-mercosur-deal-euronews-com"
+image: ''
+link: 'https://news.google.com/rss/articles/CBMirwFBVV95cUxQZDNXWmRYQkozQkFlUnduQ3JLejVvQWctUlZwMzIxVFRzMnVMTVNtQUJaS28zdkJSdG0wcWRPRTc5emdoYW9oODQ5bXVkcTdzMFpoQkx2bk5aS21SdlhHX0pFZHZaMkI4RUphTklMaVJEREZUanRHUEtxcHZRSjg3NW5vYTdBT1VtV3VQY1p5ZGdRNGZKOUcwRk5PNW9oQ2gwNjF3YUs5NFFEM2RycG1Z?oc=5'
+source: 'https://news.google.com/rss/topics/CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx1YlY4U0FtVnVHZ0pWVXlnQVAB?hl=en-US&gl=US&ceid=US:en'
+categories:
+- 'news.google.com'
+tags:
+- 'hundreds'
+- 'tractors'
+- 'mercosur'
+- 'euronews'
+- 'through'
+
+draft: false
+---
+<ol><li><a href="https://news.google.com/rss/articles/CBMirwFBVV95cUxQZDNXWmRYQkozQkFlUnduQ3JLejVvQWctUlZwMzIxVFRzMnVMTVNtQUJaS28zdkJSdG0wcWRPRTc5emdoYW9oODQ5bXVkcTdzMFpoQkx2bk5aS21SdlhHX0pFZHZaMkI4RUphTklMaVJEREZUanRHUEtxcHZRSjg3NW5vYTdBT1VtV3VQY1p5ZGdRNGZKOUcwRk5PNW9oQ2gwNjF3YUs5NFFEM2RycG1Z?oc=5" target="_blank">Hundreds of tractors rumble through Paris in protest over EU-Mercosur deal</a>&nbsp;&nbsp;<font color="#6f6f6f">Euronews.com</font></li><li><a href="https://news.google.com/rss/articles/CBMiqgFBVV95cUxNSUVpWjg4eHJleHlfNGFNWklEblVfcHNEajk2Y0Z6MlV6bmVuc2wzbG9OQkc2MzYzY2pld0VHeF9uNXFQNmszTVhQYzNkaXRHTzNTM1Z4bEs3LTYxQ0x0Y3l2MWZhSHhoVEFHdUxLR28xSlBGdU5CN2N4TUozZWJsekpJcEY1eTEwNXc1aFgzQTB5bzFhTkpiSXZHWkVmWEhKU3dBQkxTUFlVdw?oc=5" target="_blank">French farmers stage new Paris protest in effort to halt Mercosur deal</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font></li><li><a href="https://news.google.com/rss/articles/CBMiswFBVV95cUxNelpReXdONUs0dF9POXN1allwcHRlM3RCWWYyVk5pVURaRHdLM3BSNm5RYmdfT1laM2lZQ0JNUTFjcWF6V3VVb0FTZ0RRSHpRZjNYbTN1NmRDdkZybWhEN2ZoeGxwak10ZU5WUFc5ZVRNVWpZV3ppZkpiZGh2cjlVUmZucmMzYjJIeUxMZGp2eDg0SHozZUpfbHdoWkk0UXo4MGRMOU1fSVhWS3QydGtPalNoRdIBuAFBVV95cUxQRHU3LWEzWG41OUpWWlFTNDRvdHhmRXFXbGpvLXcweXY4aExhR19yWHc2cjlxZTd5ZHhScTZZZHh6TUxib1ZOVmVrMk5TVWlUdHRGM1JfTnRIZG9pd2g0dTZtVEV5c0lISlVob0N2Umh4dWVfeWF3RHNvdmdma19yR0N3Ujd3TkZQaHFpOXlRNWJuN1A4WjF6ckRVbDl6RHV4RllqOGFmWUZ1dDVVT1VKcnZ2TlpfZ1FB?oc=5" target="_blank">French farmers drive 350 tractors to Parliament to protest low incomes and EU trade deal</a>&nbsp;&nbsp;<font color="#6f6f6f">ABC News</font></li><li><a href="https://news.google.com/rss/articles/CBMiugFBVV95cUxOQ19fMUVHX1RKajVWOUJreHJlVlJZdHA4RlVaR0pkRUpoWlFKTW9uT2poSi15YjU3NXlkRmRWSFZQaW1jbk51VUJoLTdoZG5qUU9RZ2FRcmtvcXlqNV93cTBqb3ZSMEpKUFM3WTBUcGdwelQ0X2xPZ3B6QndQUWFMV2EyODVZY0hJbE5ZWWZERTVZUkRkcTVzdk15STFNQlZBcGk2TGgzVGdVTWUybTVLOXRJNlgzbUpjQnc?oc=5" target="_blank">Some 350 tractors converge on Paris in latest farmers’ protest</a>&nbsp;&nbsp;<font color="#6f6f6f">France 24</font></li><li><a href="https://news.google.com/rss/articles/CBMiywFBVV95cUxON1hPcVNMMUJOMHBGUGlVaWlvZDZKdW5FckFoZWJ3bDZiRGNXNklSRHhYaXhMZ2wxcUFRaUtNSUNmcnlTcTVPY2J6cFZoSFVUQ0p2MFZBUS1ITm5KMzBUbUtJV0dJZnhuenFwSE5pSVRlSDQxbi1xN2JKVG1KMXhiMUxiUXNtbXBIVUtUQnAzaHhiaFVTLXpzRVpqcVZnbFJRdldpeGNUc00wQW9UclFlMm5fS3JlQ2lJOXpWR2pBZnd4cEdRY2kyQzR1aw?oc=5" target="_blank">Farmers roll hundreds of tractors into Paris in fresh protests</a>&nbsp;&nbsp;<font color="#6f6f6f">Le Monde.fr</font></li></ol>
