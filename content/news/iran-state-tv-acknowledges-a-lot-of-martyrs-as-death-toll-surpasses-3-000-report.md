@@ -1,0 +1,21 @@
+---
+title: "Iran state TV acknowledges 'a lot of martyrs' as death toll surpasses 3,000: report"
+date: 2026-01-13
+description: "Iran state TV reportedly acknowledges &apos;martyrs&apos; as death toll from ongoing anti-government protests reaches over 2,000, according to activist groups."
+summary: "Iran state TV reportedly acknowledges &apos;martyrs&apos; as death toll from ongoing anti-government protests reaches over 2,000, according to activist groups."
+slug: "iran-state-tv-acknowledges-a-lot-of-martyrs-as-death-toll-surpasses-3-000-report"
+image: ''
+link: 'https://www.foxnews.com/world/iran-state-tv-acknowledges-a-lot-martyrs-death-toll-surpasses-3000-report'
+source: 'https://feeds.foxnews.com/foxnews/world'
+categories:
+- 'feeds.foxnews.com'
+tags:
+- 'acknowledges'
+- 'surpasses'
+- 'martyrs'
+- 'report'
+- 'state'
+
+draft: false
+---
+<p><a href="https://www.foxnews.com/category/world/conflicts/iran" target="_blank" rel="noopener">Iranian state television</a> acknowledged Tuesday that the Islamic Republic has lost "a lot of martyrs" in ongoing anti-government protests sweeping the country, a report said. </p><p>The development comes as at least 2,000 people have been killed in the demonstrations, according to an activist group. The U.S.-based Human Rights Activists News Agency announced that 1,847 of the dead were protesters and 135 were members of Iran’s security forces. Other reports say the death toll is over 3,000, with the real number likely to be even higher. </p><p>A news anchor on Iranian state TV read a statement claiming "armed and terrorist groups" led the country "to present a lot of martyrs to God," The Associated Press reported. Iranian state TV said officials will hold a funeral Wednesday for the "martyrs and security defenders" who have died in the protests.</p><p>Iran’s regime has been trying to crack down on the protests, which began in late December with shopkeepers and bazaar merchants demonstrating against accelerating inflation and the collapse of the rial. The unrest soon spread to universities and provincial cities, with young men clashing with security forces.</p><p><a href="https://www.foxnews.com/world/us-opens-new-air-defense-operations-cell-qatar-base-iran-targeted-retaliatory-attack" target="_blank" rel="noopener"><strong>US OPENS NEW AIR DEFENSE OPERATIONS CELL AT QATAR BASE THAT IRAN TARGETED IN RETALIATORY ATTACK</strong></a></p><p>"The killing of peaceful demonstrators must stop, and the labelling of protesters as ‘terrorists’ to justify violence against them is unacceptable," <a href="https://www.foxnews.com/category/world/united-nations" target="_blank" rel="noopener">U.N. High Commissioner for Human Rights</a> Volker Türk said in a statement Tuesday. </p><p>The U.S. Virtual Embassy Iran issued a warning earlier today telling American citizens who are still in the country to leave immediately.   </p><p>President <a href="https://www.foxnews.com/category/person/donald-trump" target="_blank" rel="noopener">Donald Trump</a> later urged the people of Iran to "take over" the country's institutions, saying he has <a href="https://www.foxnews.com/politics/trump-cancels-all-meetings-iran-calls-protesters-take-over-country" target="_blank" rel="noopener">canceled all meetings</a> with the Iranian regime until its crackdown on unrest ends.</p><p><a href="https://www.foxnews.com/world/irans-distinctive-drone-deployment-sees-death-toll-soar-amid-violent-protests" target="_blank" rel="noopener"><strong>IRAN’S ‘DISTINCTIVE’ DRONE DEPLOYMENT SEES DEATH TOLL SOAR AMID VIOLENT PROTESTS</strong></a></p><p>Trump made the announcement on social media, vowing that those responsible for killing anti-regime demonstrators will "pay a big price." Iran had previously claimed it was in contact with U.S. officials amid the protests. </p><p>"Iranian Patriots, KEEP PROTESTING - TAKE OVER YOUR INSTITUTIONS!" Trump wrote on Truth Social. "Save the names of the killers and abusers. They will pay a big price."</p><p>"I have canceled all meetings with Iranian Officials until the senseless <a href="https://www.foxnews.com/category/world/world-protests" target="_blank" rel="noopener">killing of protesters</a> STOPS. HELP IS ON ITS WAY," he added. </p><p><i>Fox News’ Anders Hagstrom, Efrat Lachter and The Associated Press contributed to this report.</i> </p>

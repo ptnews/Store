@@ -1,0 +1,21 @@
+---
+title: "Trump administration prepares to unveil new Gaza leadership - Financial Times"
+date: 2026-01-13
+description: "Trump administration prepares to unveil new Gaza leadership&nbsp;&nbsp;Financial TimesStarmer considers joining Trump's Gaza peace board&nbsp;&nbsp;BBCDaily Briefing Jan. 8: Day 825 – US works to fill seats on Board of Peace for Gaza&nbsp;&nbsp;The Times of Israel'A New UN': Trump Eyes Unprecedented Global Powers for His Proposed Board of Peace&nbsp;&nbsp;HaaretzIsrael says Bulgarian diplomat Nickolay Mladenov to direct Trump's Board of Peace for Gaza&nbsp;&nbsp;The Lufkin Daily News"
+summary: "Trump administration prepares to unveil new Gaza leadership&nbsp;&nbsp;Financial TimesStarmer considers joining Trump's Gaza peace board&nbsp;&nbsp;BBCDaily Briefing Jan. 8: Day 825 – US works to fill seats on Board of Peace for Gaza&nbsp;&nbsp;The Times of Israel'A New UN': Trump Eyes Unprecedented Global Powers for His Proposed Board of Peace&nbsp;&nbsp;HaaretzIsrael says Bulgarian diplomat Nickolay Mladenov to direct Trump's Board of Peace for Gaza&nbsp;&nbsp;The Lufkin Daily News"
+slug: "trump-administration-prepares-to-unveil-new-gaza-leadership-financial-times"
+image: ''
+link: 'https://news.google.com/rss/articles/CBMicEFVX3lxTE1SVWx0bGZMVUtBNEhQM2RiVUI0YzZQMXhnQTJ5SmJuc0tfdlRuTE5ISXpBb0Y5bnhKV1kybmc5eERsWUxiRGl5ZURCMEhPeWtjRHBWTXpIVktLVHNyWjM3c3locTZJei1telNtdVZWS2U?oc=5'
+source: 'https://news.google.com/rss/topics/CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx1YlY4U0FtVnVHZ0pWVXlnQVAB?hl=en-US&gl=US&ceid=US:en'
+categories:
+- 'news.google.com'
+tags:
+- 'administration'
+- 'leadership'
+- 'financial'
+- 'prepares'
+- 'unveil'
+
+draft: false
+---
+<ol><li><a href="https://news.google.com/rss/articles/CBMicEFVX3lxTE1SVWx0bGZMVUtBNEhQM2RiVUI0YzZQMXhnQTJ5SmJuc0tfdlRuTE5ISXpBb0Y5bnhKV1kybmc5eERsWUxiRGl5ZURCMEhPeWtjRHBWTXpIVktLVHNyWjM3c3locTZJei1telNtdVZWS2U?oc=5" target="_blank">Trump administration prepares to unveil new Gaza leadership</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font></li><li><a href="https://news.google.com/rss/articles/CBMiWkFVX3lxTE00MHlLQzI4Q3QwcDEtelBDNVZDeGd0QmM2cjRkb0Nzc3pGQnUyQWQwWm01TUhJSXRXSnFlWUJoc0VqUVktUV9lUHVZcDFOejVsQUs4OVJkMHRKZw?oc=5" target="_blank">Starmer considers joining Trump's Gaza peace board</a>&nbsp;&nbsp;<font color="#6f6f6f">BBC</font></li><li><a href="https://news.google.com/rss/articles/CBMirgFBVV95cUxPYkZfck00V0tqWS1xOWsxdjczdWJuWWc3bkRldFRuMWl4amJKcFJNVmhLbU11c3haMU5FVV9XUXhETnNHQWY3cTBOWE5qNGplUmN4ODZzMGFxODBZMnFfQTZxa1JKeFV3MkxaQXUxWTFkTWFtM1RWQ1dSRjZfN0c3dklmVE10OTRnZXhlVEcwRGhSNm43SzBZMjJ2VFB3cUxaSHNqODlxbVRxVnduR0HSAbMBQVVfeXFMTXVtaC1MX1d2RVdWSnNzNno4dUhpbG9aMXlqY2RCcnNZX3ZsczFKNmdoOEt4cTJ4a1hrbmVjakpNTHFCdkgzdmNnVlBoZTRPWV9ub05mWW13RDNpa1IzY1ZPUWZtLVAybDlVQUJVOU9RNXd2WVk3cE5SNWMxVVM1T0hJbUE0QmpZVDlFcG9TSWxBeVEyeGlUVm1ZRkx3MkVPdUs3b0tuaXNYYloyTHJEQWhHQ3c?oc=5" target="_blank">Daily Briefing Jan. 8: Day 825 – US works to fill seats on Board of Peace for Gaza</a>&nbsp;&nbsp;<font color="#6f6f6f">The Times of Israel</font></li><li><a href="https://news.google.com/rss/articles/CBMikAJBVV95cUxQWWllNE5yTWU0N29IcjNiUURVZEYwNmhRYVZ3aU9PS1o5eElyNDR4TFUwTWdtMndPSVFVNlA1ZDZDVUIxeFc2d2xjNW5pWmwzbUM0Y21JYlp6QVh4aWxTc1JqbGNkVW81YmZ6NmpzREhXMVVUZTJUcDdLeHlzckZuRU12dGg5eG91VGZGU0xfSWZkR0d0UW5TSUdCWWZ6VTZpT180VjFQZEUwdmpQMldCZkZBYjE4OEFmV00tY19KSml5LWc4d1pTTUpPaG9adWtfT0djaTZLSE8zN1Z6ZFptVzBuREs4MFY0djFoQVpQYVdfS2tPcXRLUWo4ZHlCd3Y4NElqNnBna3FiR1h1TlhuMQ?oc=5" target="_blank">'A New UN': Trump Eyes Unprecedented Global Powers for His Proposed Board of Peace</a>&nbsp;&nbsp;<font color="#6f6f6f">Haaretz</font></li><li><a href="https://news.google.com/rss/articles/CBMilAJBVV95cUxNYXpOOXJfV2RfS2lxN1NlYklBUTYwQlBjcHRsUEw1RVg0bVBnX1paTXBRSHE1UzQwR29jMG5VS3M0UlpSTGdqcVVZbEpTWlhQS3Azem1WeFZrXzB4MmIxTWdZU2dLaW82TWt2SjRtbHVOTXZiYzAtUTVoaWdfVW8zRS1yOWZVdFR0ZE50YlQ5R05wUUpZTU4yVnZ1bDZvdnRvSjgwWVpEaURNdVFQOUhMb2MzVW1USXd3S1hSMzRuS0pIclZtbHJKdU9ETE1VdHVRTUF5dkNfRktwZ1NzWU9iWnRVSWdXdkJVSThaYjg0WUtwTEJRM3EyQmRKa2NIeklUbUlkOTNVQ3BVN0NtZzYyYlBodjI?oc=5" target="_blank">Israel says Bulgarian diplomat Nickolay Mladenov to direct Trump's Board of Peace for Gaza</a>&nbsp;&nbsp;<font color="#6f6f6f">The Lufkin Daily News</font></li></ol>
