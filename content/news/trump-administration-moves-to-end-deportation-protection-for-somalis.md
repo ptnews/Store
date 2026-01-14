@@ -1,6 +1,6 @@
 ---
 title: "Trump administration moves to end deportation protection for Somalis"
-date: 2026-01-13
+date: 2026-01-14
 description: "As the US cracks down on illegal immigration in Minneapolis, home to a large Somali community, it will end protections for many in the country legally."
 summary: "As the US cracks down on illegal immigration in Minneapolis, home to a large Somali community, it will end protections for many in the country legally."
 slug: "trump-administration-moves-to-end-deportation-protection-for-somalis"

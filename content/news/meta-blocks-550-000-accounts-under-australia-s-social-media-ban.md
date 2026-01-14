@@ -1,6 +1,6 @@
 ---
 title: "Meta blocks 550,000 accounts under Australia's social media ban"
-date: 2026-01-13
+date: 2026-01-14
 description: "The new law, which came into effect in December, is aimed at protecting children from online harm."
 summary: "The new law, which came into effect in December, is aimed at protecting children from online harm."
 slug: "meta-blocks-550-000-accounts-under-australia-s-social-media-ban"

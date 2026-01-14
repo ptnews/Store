@@ -1,6 +1,6 @@
 ---
 title: "Le Pen blames European Parliament in appeal that could decide political fate"
-date: 2026-01-13
+date: 2026-01-14
 description: "\"We had no sense of having committed an offence,\" France's far-right leader tells an appeal to overturn a ban from contesting the next election."
 summary: "\"We had no sense of having committed an offence,\" France's far-right leader tells an appeal to overturn a ban from contesting the next election."
 slug: "le-pen-blames-european-parliament-in-appeal-that-could-decide-political-fate"

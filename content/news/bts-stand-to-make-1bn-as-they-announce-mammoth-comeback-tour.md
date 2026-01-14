@@ -1,6 +1,6 @@
 ---
 title: "BTS stand to make $1bn as they announce mammoth comeback tour"
-date: 2026-01-13
+date: 2026-01-14
 description: "It's the K-pop band's first tour since completing compulsory military service in South Korea."
 summary: "It's the K-pop band's first tour since completing compulsory military service in South Korea."
 slug: "bts-stand-to-make-1bn-as-they-announce-mammoth-comeback-tour"

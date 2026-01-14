@@ -1,6 +1,6 @@
 ---
 title: "Will voters in one of the world's youngest countries give an 81-year-old another term?"
-date: 2026-01-13
+date: 2026-01-14
 description: "Thursday's election highlights a demographic issue common to many African countries."
 summary: "Thursday's election highlights a demographic issue common to many African countries."
 slug: "will-voters-in-one-of-the-world-s-youngest-countries-give-an-81-year-old-another-term"

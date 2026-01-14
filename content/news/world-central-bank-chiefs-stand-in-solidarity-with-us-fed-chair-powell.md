@@ -1,6 +1,6 @@
 ---
 title: "World central bank chiefs 'stand in solidarity' with US Fed chair Powell"
-date: 2026-01-13
+date: 2026-01-14
 description: "Eleven central banks have backed Jerome Powell after the US launched a criminal investigation into the US Fed."
 summary: "Eleven central banks have backed Jerome Powell after the US launched a criminal investigation into the US Fed."
 slug: "world-central-bank-chiefs-stand-in-solidarity-with-us-fed-chair-powell"

@@ -1,6 +1,6 @@
 ---
 title: "'We were tricked': How one woman lures foreign men to fight on Russia's front line"
-date: 2026-01-13
+date: 2026-01-14
 description: "Recruits tell the BBC an ex-teacher who operates on Telegram misled them, saying they could avoid combat."
 summary: "Recruits tell the BBC an ex-teacher who operates on Telegram misled them, saying they could avoid combat."
 slug: "we-were-tricked-how-one-woman-lures-foreign-men-to-fight-on-russia-s-front-line"

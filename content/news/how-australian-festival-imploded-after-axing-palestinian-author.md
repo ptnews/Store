@@ -1,6 +1,6 @@
 ---
 title: "How Australian festival imploded after axing Palestinian author"
-date: 2026-01-13
+date: 2026-01-14
 description: "Some 180 writers, including former New Zealand Prime Minister Jacinda Ardern, have withdrawn from the event."
 summary: "Some 180 writers, including former New Zealand Prime Minister Jacinda Ardern, have withdrawn from the event."
 slug: "how-australian-festival-imploded-after-axing-palestinian-author"

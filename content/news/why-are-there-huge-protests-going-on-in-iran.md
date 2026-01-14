@@ -1,6 +1,6 @@
 ---
 title: "Why are there huge protests going on in Iran?"
-date: 2026-01-13
+date: 2026-01-14
 description: "Anti-government protests in Iran have continued for the 13th consecutive day."
 summary: "Anti-government protests in Iran have continued for the 13th consecutive day."
 slug: "why-are-there-huge-protests-going-on-in-iran"

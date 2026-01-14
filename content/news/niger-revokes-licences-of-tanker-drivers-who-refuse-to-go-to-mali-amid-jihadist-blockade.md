@@ -1,6 +1,6 @@
 ---
 title: "Niger revokes licences of tanker drivers who refuse to go to Mali amid jihadist blockade"
-date: 2026-01-13
+date: 2026-01-14
 description: "Jihadists have been targeting tankers entering Mali, worsening the country’s fuel shortage."
 summary: "Jihadists have been targeting tankers entering Mali, worsening the country’s fuel shortage."
 slug: "niger-revokes-licences-of-tanker-drivers-who-refuse-to-go-to-mali-amid-jihadist-blockade"

@@ -1,0 +1,21 @@
+---
+title: "Imprisoned hunger striker linked to Palestine Action tells friend: ‘I’m dying’ - The Guardian"
+date: 2026-01-14
+description: "Imprisoned hunger striker linked to Palestine Action tells friend: ‘I’m dying’&nbsp;&nbsp;The GuardianUK hunger striker Heba Muraisi: ‘I think about how or when I could die’&nbsp;&nbsp;Al JazeeraPalestine Action hunger strikers are still the state’s responsibility | Letters&nbsp;&nbsp;The GuardianAcademics and intellectuals sign letter in support of Palestine Action prisoners&nbsp;&nbsp;Middle East EyeJailed UK Pro-Palestine Hunger Strikers Are at Imminent Risk of Death&nbsp;&nbsp;Tr..."
+summary: "Imprisoned hunger striker linked to Palestine Action tells friend: ‘I’m dying’&nbsp;&nbsp;The GuardianUK hunger striker Heba Muraisi: ‘I think about how or when I could die’&nbsp;&nbsp;Al JazeeraPalestine Action hunger strikers are still the state’s responsibility | Letters&nbsp;&nbsp;The GuardianAcademics and intellectuals sign letter in support of Palestine Action prisoners&nbsp;&nbsp;Middle East EyeJailed UK Pro-Palestine Hunger Strikers Are at Imminent Risk of Death&nbsp;&nbsp;Tr..."
+slug: "imprisoned-hunger-striker-linked-to-palestine-action-tells-friend-i-m-dying-the-guardian"
+image: ''
+link: 'https://news.google.com/rss/articles/CBMioAFBVV95cUxOOVBIaTllYU90cVFiamhvOVpaaHJQY05fMEp2Uzc5Y0tFQlpzel9sZ1hpRTRVRncyM1BkT2NRSGFqTnkzcDNXY01PYm9FVmV1Znp0QWMwSlFoRkdaMDhMeFpTcnF4Q3N2SlBkdFZEMGlzeFRwb2RtQ2I2T0FGb1RVbnozMm1zRXBmcm0tb1c4bUEwQ3ZTLXNzUFBoTjJuc1dw?oc=5'
+source: 'https://news.google.com/rss/topics/CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx1YlY4U0FtVnVHZ0pWVXlnQVAB?hl=en-US&gl=US&ceid=US:en'
+categories:
+- 'news.google.com'
+tags:
+- 'imprisoned'
+- 'palestine'
+- 'guardian'
+- 'striker'
+- 'hunger'
+
+draft: false
+---
+<ol><li><a href="https://news.google.com/rss/articles/CBMioAFBVV95cUxOOVBIaTllYU90cVFiamhvOVpaaHJQY05fMEp2Uzc5Y0tFQlpzel9sZ1hpRTRVRncyM1BkT2NRSGFqTnkzcDNXY01PYm9FVmV1Znp0QWMwSlFoRkdaMDhMeFpTcnF4Q3N2SlBkdFZEMGlzeFRwb2RtQ2I2T0FGb1RVbnozMm1zRXBmcm0tb1c4bUEwQ3ZTLXNzUFBoTjJuc1dw?oc=5" target="_blank">Imprisoned hunger striker linked to Palestine Action tells friend: ‘I’m dying’</a>&nbsp;&nbsp;<font color="#6f6f6f">The Guardian</font></li><li><a href="https://news.google.com/rss/articles/CBMirgFBVV95cUxQaE54Z2c1WmtGRWdzc3ZZYmFRVjVlT0J1VzhVS2FYYUVsZlVIbFVUYVFKZGhhOGdjcnZQeTR5bDdvcHBMWHM2VjAzZkk2Ym16RjFpbFYybTdIcDd1VjdKVkh2aU1MbGxCanFFUURfVmtNSHhELXVQS0FQR0pVNnhYZ2Fmc2ZyQVpRWEdpZWhDQlVjX3NndEtId3NJTUdyZnpvaGprUTV3VzNBRVRoRmfSAbMBQVVfeXFMTlJpODNYM3lzRzZTd19lOHBzWmQzWkRCZW5LcFpjY1J2djN1MDNYVU1lQU5NaG5oSmg0Y0xaQXdUWU0zcXVKWVRHSGpOZVc5d2U1TGx0VkMwckx5Qm5QTXVIU1Y2ODNHMFYzVjlfYW1UUURBQXdEaVlkU1J1dWtvT1BwRVF6dnB1MTcxWVowelc0TmdvQWxQQ1UwOWUxTlh6RjlUWi02M2Q2dUtmTUQzUWthTk0?oc=5" target="_blank">UK hunger striker Heba Muraisi: ‘I think about how or when I could die’</a>&nbsp;&nbsp;<font color="#6f6f6f">Al Jazeera</font></li><li><a href="https://news.google.com/rss/articles/CBMitwFBVV95cUxQYUNPbXlIbkdac2d0RHVhaDlWZ0taZUItSmVKWjNjcFdQd2ZtdjlVTmQ1c1o2dHdHVWRUM2gza1BrTjFkRTQ1eU8yal9BTThjdld1ZWktNEo5eWlFck5ySVZFOUJCLUFYRDZCZWpTdlNsTW16OTRaQk9LSUhVM1B2cWdIZllqSkxoY29tal9uTWNObVg1YjZ5SzNyWXFvOVJub09LcGxnOEo0OFBDUjA0RU03blU4U2M?oc=5" target="_blank">Palestine Action hunger strikers are still the state’s responsibility | Letters</a>&nbsp;&nbsp;<font color="#6f6f6f">The Guardian</font></li><li><a href="https://news.google.com/rss/articles/CBMirgFBVV95cUxPZXRBVFpXNUtaeGVScVllR0hTTGcycTJ1UTYzTWdwN215RlJWb2VadGhDRTNOdGtlRjZ2b2Iyc2hQWHprSFAxVTZmdGh4YWlKMlZ0cF9SbjAtbTBVTjN2R2JfZGJUUklvTDlxX1A3LVBiT0VibnN2TlZieVNvSE9pd29zVkxnYjcxTVhVN2J0d3FPdEdFVjVEVmVDNHFnYlhfaVY1Mnh4cnZxWFU0MXc?oc=5" target="_blank">Academics and intellectuals sign letter in support of Palestine Action prisoners</a>&nbsp;&nbsp;<font color="#6f6f6f">Middle East Eye</font></li><li><a href="https://news.google.com/rss/articles/CBMiogFBVV95cUxNTWJzak1wbkdiX011Y3VPTmtwcFFpQldXVk04dktlZjh3b0J0X0stcFJiUjlEcVh6SmRQcktzd085UGZZbFliWWctZ0lqRl9RSGlHYUZ1WmZ5MnJUWXhXQnJmQjJrTVdiVldPUjBTNUt4ZmhlREpzbjhqQ1M2ZDZ5el9vdDQxSEl1djZJcUZDeTRqakRlaE9IcVhuVDBIc3dleHc?oc=5" target="_blank">Jailed UK Pro-Palestine Hunger Strikers Are at Imminent Risk of Death</a>&nbsp;&nbsp;<font color="#6f6f6f">Truthout</font></li></ol>

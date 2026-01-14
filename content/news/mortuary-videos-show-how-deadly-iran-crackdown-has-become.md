@@ -1,6 +1,6 @@
 ---
 title: "Mortuary videos show how deadly Iran crackdown has become"
-date: 2026-01-13
+date: 2026-01-14
 description: "BBC Verify has been examining disturbing footage from a mortuary in Tehran, showing scores of bodies. These images could hold clues about what’s happening inside Iran.
 "
 summary: "BBC Verify has been examining disturbing footage from a mortuary in Tehran, showing scores of bodies. These images could hold clues about what’s happening inside Iran.

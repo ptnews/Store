@@ -1,6 +1,6 @@
 ---
 title: "We choose Denmark over US, Greenland's PM says"
-date: 2026-01-13
+date: 2026-01-14
 description: "It is the strongest statement by a leader of the Danish territory since US President Donald Trump renewed plans to annex it."
 summary: "It is the strongest statement by a leader of the Danish territory since US President Donald Trump renewed plans to annex it."
 slug: "we-choose-denmark-over-us-greenland-s-pm-says"

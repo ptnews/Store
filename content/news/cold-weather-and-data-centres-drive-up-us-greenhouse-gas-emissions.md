@@ -1,6 +1,6 @@
 ---
 title: "Cold weather and data centres drive up US greenhouse gas emissions"
-date: 2026-01-13
+date: 2026-01-14
 description: "US emissions of planet-warming gases rise for the first time in three years."
 summary: "US emissions of planet-warming gases rise for the first time in three years."
 slug: "cold-weather-and-data-centres-drive-up-us-greenhouse-gas-emissions"

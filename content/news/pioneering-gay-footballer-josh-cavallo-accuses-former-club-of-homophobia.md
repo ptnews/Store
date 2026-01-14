@@ -1,6 +1,6 @@
 ---
 title: "Pioneering gay footballer Josh Cavallo accuses former club of homophobia"
-date: 2026-01-13
+date: 2026-01-14
 description: "Adelaide United says it \"categorically rejects\" Cavallo's claims he was sidelined because of his sexuality."
 summary: "Adelaide United says it \"categorically rejects\" Cavallo's claims he was sidelined because of his sexuality."
 slug: "pioneering-gay-footballer-josh-cavallo-accuses-former-club-of-homophobia"

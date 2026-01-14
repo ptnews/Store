@@ -1,6 +1,6 @@
 ---
 title: "Le Pen blames European Parliament in appeal that could decide political fate - BBC"
-date: 2026-01-13
+date: 2026-01-14
 description: "Le Pen blames European Parliament in appeal that could decide political fate&nbsp;&nbsp;BBCMarine Le Pen Is Appealing a Decision to Bar Her From Office.&nbsp;&nbsp;The New York TimesFrench far-right leader Le Pen faces appeal trial that could decide her 2027 presidential run&nbsp;&nbsp;NBC NewsMarine Le Pen's appeal trial opens in Paris, with far-right leader's 2027 presidential bid at stake&nbsp;&nbsp;AP NewsMarine Le Pen tells appeal trial she had no sense of doing anything wrong&nbsp;&nbsp;Re..."
 summary: "Le Pen blames European Parliament in appeal that could decide political fate&nbsp;&nbsp;BBCMarine Le Pen Is Appealing a Decision to Bar Her From Office.&nbsp;&nbsp;The New York TimesFrench far-right leader Le Pen faces appeal trial that could decide her 2027 presidential run&nbsp;&nbsp;NBC NewsMarine Le Pen's appeal trial opens in Paris, with far-right leader's 2027 presidential bid at stake&nbsp;&nbsp;AP NewsMarine Le Pen tells appeal trial she had no sense of doing anything wrong&nbsp;&nbsp;Re..."
 slug: "le-pen-blames-european-parliament-in-appeal-that-could-decide-political-fate-bbc"

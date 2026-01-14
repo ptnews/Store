@@ -1,6 +1,6 @@
 ---
 title: "Lyse Doucet: Iran's rulers face biggest challenge since 1979 revolution"
-date: 2026-01-13
+date: 2026-01-14
 description: "The authorities are responding to protests with a ferocious security crackdown and near total internet shutdown. "
 summary: "The authorities are responding to protests with a ferocious security crackdown and near total internet shutdown. "
 slug: "lyse-doucet-iran-s-rulers-face-biggest-challenge-since-1979-revolution"

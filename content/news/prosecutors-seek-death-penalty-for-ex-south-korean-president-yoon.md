@@ -1,6 +1,6 @@
 ---
 title: "Prosecutors seek death penalty for ex-South Korean president Yoon "
-date: 2026-01-13
+date: 2026-01-14
 description: "Yoon is accused of leading an insurrection when he tried to impose martial law in 2024."
 summary: "Yoon is accused of leading an insurrection when he tried to impose martial law in 2024."
 slug: "prosecutors-seek-death-penalty-for-ex-south-korean-president-yoon"

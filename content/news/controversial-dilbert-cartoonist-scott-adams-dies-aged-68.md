@@ -1,6 +1,6 @@
 ---
 title: "Controversial Dilbert cartoonist Scott Adams dies aged 68"
-date: 2026-01-13
+date: 2026-01-14
 description: "His ex-wife announced his death on Tuesday during a live stream of his podcast."
 summary: "His ex-wife announced his death on Tuesday during a live stream of his podcast."
 slug: "controversial-dilbert-cartoonist-scott-adams-dies-aged-68"

@@ -1,6 +1,6 @@
 ---
 title: "Watch: Backlash against Musk's Grok AI explained"
-date: 2026-01-13
+date: 2026-01-14
 description: "Technology editor Zoe Kleinman explains the row over changes made by X to it's Grok AI image edits, after the UK government called it \"insulting\"."
 summary: "Technology editor Zoe Kleinman explains the row over changes made by X to it's Grok AI image edits, after the UK government called it \"insulting\"."
 slug: "watch-backlash-against-musk-s-grok-ai-explained"

@@ -1,6 +1,6 @@
 ---
 title: "Hungary grants asylum to Polish ex-justice minister"
-date: 2026-01-13
+date: 2026-01-14
 description: "Granting asylum to a citizen of a fellow EU member goes against the spirit of EU standards."
 summary: "Granting asylum to a citizen of a fellow EU member goes against the spirit of EU standards."
 slug: "hungary-grants-asylum-to-polish-ex-justice-minister"

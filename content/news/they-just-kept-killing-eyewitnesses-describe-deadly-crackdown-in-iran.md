@@ -1,6 +1,6 @@
 ---
 title: "'They just kept killing': Eyewitnesses describe deadly crackdown in Iran"
-date: 2026-01-13
+date: 2026-01-14
 description: "The BBC has received eyewitness accounts of security forces attacking anti-government protesters across the country."
 summary: "The BBC has received eyewitness accounts of security forces attacking anti-government protesters across the country."
 slug: "they-just-kept-killing-eyewitnesses-describe-deadly-crackdown-in-iran"

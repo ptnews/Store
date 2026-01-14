@@ -1,6 +1,6 @@
 ---
 title: "From partners to rivals: What the Saudi-UAE rupture means for Europeans - European Council on Foreign Relations"
-date: 2026-01-13
+date: 2026-01-14
 description: "From partners to rivals: What the Saudi-UAE rupture means for Europeans&nbsp;&nbsp;European Council on Foreign RelationsHow the UAE’s Decade-Long Project in Yemen Ended in 48 Hours&nbsp;&nbsp;Drop Site NewsThousands rally in support of Yemen's main separatist group&nbsp;&nbsp;ReutersYemen’s Southern Transitional Council to dismantle, a day after its leader fled to the UAE&nbsp;&nbsp;ABC NewsSaudi Official Accuses U.A.E. of Helping Yemeni Separatist to Escape&nbsp;&nbsp;The New York Times"
 summary: "From partners to rivals: What the Saudi-UAE rupture means for Europeans&nbsp;&nbsp;European Council on Foreign RelationsHow the UAE’s Decade-Long Project in Yemen Ended in 48 Hours&nbsp;&nbsp;Drop Site NewsThousands rally in support of Yemen's main separatist group&nbsp;&nbsp;ReutersYemen’s Southern Transitional Council to dismantle, a day after its leader fled to the UAE&nbsp;&nbsp;ABC NewsSaudi Official Accuses U.A.E. of Helping Yemeni Separatist to Escape&nbsp;&nbsp;The New York Times"
 slug: "from-partners-to-rivals-what-the-saudi-uae-rupture-means-for-europeans-european-council-on-foreign-relations"

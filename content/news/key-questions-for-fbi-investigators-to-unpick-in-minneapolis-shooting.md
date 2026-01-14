@@ -1,6 +1,6 @@
 ---
 title: "Key questions for FBI investigators to unpick in Minneapolis shooting"
-date: 2026-01-13
+date: 2026-01-14
 description: "Officials will examine video footage and policy guidelines as part of the investigation, experts told the BBC."
 summary: "Officials will examine video footage and policy guidelines as part of the investigation, experts told the BBC."
 slug: "key-questions-for-fbi-investigators-to-unpick-in-minneapolis-shooting"

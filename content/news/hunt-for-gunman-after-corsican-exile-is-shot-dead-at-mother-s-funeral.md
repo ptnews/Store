@@ -1,6 +1,6 @@
 ---
 title: "Hunt for gunman after Corsican exile is shot dead at mother's funeral"
-date: 2026-01-13
+date: 2026-01-14
 description: "Alain Orsoni, 71, was a well-known separatist figure in Corsica who had been living in exile for years in Nicaragua."
 summary: "Alain Orsoni, 71, was a well-known separatist figure in Corsica who had been living in exile for years in Nicaragua."
 slug: "hunt-for-gunman-after-corsican-exile-is-shot-dead-at-mother-s-funeral"

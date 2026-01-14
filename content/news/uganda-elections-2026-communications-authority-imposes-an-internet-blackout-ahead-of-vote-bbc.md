@@ -1,6 +1,6 @@
 ---
 title: "Uganda elections 2026: Communications authority imposes an internet blackout ahead of vote - BBC"
-date: 2026-01-13
+date: 2026-01-14
 description: "Uganda elections 2026: Communications authority imposes an internet blackout ahead of vote&nbsp;&nbsp;BBCView Full Coverage on Google News"
 summary: "Uganda elections 2026: Communications authority imposes an internet blackout ahead of vote&nbsp;&nbsp;BBCView Full Coverage on Google News"
 slug: "uganda-elections-2026-communications-authority-imposes-an-internet-blackout-ahead-of-vote-bbc"

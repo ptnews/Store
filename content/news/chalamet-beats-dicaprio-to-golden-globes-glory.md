@@ -1,6 +1,6 @@
 ---
 title: "Chalamet beats DiCaprio to Golden Globes glory"
-date: 2026-01-13
+date: 2026-01-14
 description: "The Marty Supreme star is among the big winners at the Globes and gets a boost in his quest for an Oscar."
 summary: "The Marty Supreme star is among the big winners at the Globes and gets a boost in his quest for an Oscar."
 slug: "chalamet-beats-dicaprio-to-golden-globes-glory"

@@ -1,6 +1,6 @@
 ---
 title: "Senator Mark Kelly sues Defence Secretary Pete Hegseth over attempted demotion"
-date: 2026-01-13
+date: 2026-01-14
 description: "The US senator and former Navy captain is contesting a move to review his retirement grade after he criticised the Trump administration."
 summary: "The US senator and former Navy captain is contesting a move to review his retirement grade after he criticised the Trump administration."
 slug: "senator-mark-kelly-sues-defence-secretary-pete-hegseth-over-attempted-demotion"
