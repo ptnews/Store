@@ -1,0 +1,21 @@
+---
+title: "US accuses Russia of 'dangerous and inexplicable escalation' of war in Ukraine as Trump seeks peace - AP News"
+date: 2026-01-14
+description: "US accuses Russia of 'dangerous and inexplicable escalation' of war in Ukraine as Trump seeks peace&nbsp;&nbsp;AP NewsPutin Delivers a Warning to Europe at Mach 10&nbsp;&nbsp;The New York TimesRussian Offensive Campaign Assessment, January 10, 2026&nbsp;&nbsp;Institute for the Study of WarRussian strikes on Ukraine kill four, knock out heat and power&nbsp;&nbsp;ReutersUS slams Russia’s ‘dangerous escalation’ in Ukraine amid new deadly strikes&nbsp;&nbsp;Al Jazeera"
+summary: "US accuses Russia of 'dangerous and inexplicable escalation' of war in Ukraine as Trump seeks peace&nbsp;&nbsp;AP NewsPutin Delivers a Warning to Europe at Mach 10&nbsp;&nbsp;The New York TimesRussian Offensive Campaign Assessment, January 10, 2026&nbsp;&nbsp;Institute for the Study of WarRussian strikes on Ukraine kill four, knock out heat and power&nbsp;&nbsp;ReutersUS slams Russia’s ‘dangerous escalation’ in Ukraine amid new deadly strikes&nbsp;&nbsp;Al Jazeera"
+slug: "us-accuses-russia-of-dangerous-and-inexplicable-escalation-of-war-in-ukraine-as-trump-seeks-peace-ap-news"
+image: ''
+link: 'https://news.google.com/rss/articles/CBMinwFBVV95cUxPRUlrTWs2RGtUNk5hQWNUeUVSN0I2UWFWYzgybDZZc0hRNXluLW5iMkdlYURFeldxR2gtWEVBQ0lyd1Nwc1ZCNHVRdDRQTDdtblJSREpWMm01a1RBazlMTGxlOU9PeEJiU21QWjQwY20wMXJmUjBySU9YRUJKcXZTTW5qUGYwTVJNdWxOT0QzVjEzbVdyc2dVcFYzbjBLckE?oc=5'
+source: 'https://news.google.com/rss/topics/CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx1YlY4U0FtVnVHZ0pWVXlnQVAB?hl=en-US&gl=US&ceid=US:en'
+categories:
+- 'news.google.com'
+tags:
+- 'inexplicable'
+- 'escalation'
+- 'dangerous'
+- 'accuses'
+- 'ukraine'
+
+draft: false
+---
+<ol><li><a href="https://news.google.com/rss/articles/CBMinwFBVV95cUxPRUlrTWs2RGtUNk5hQWNUeUVSN0I2UWFWYzgybDZZc0hRNXluLW5iMkdlYURFeldxR2gtWEVBQ0lyd1Nwc1ZCNHVRdDRQTDdtblJSREpWMm01a1RBazlMTGxlOU9PeEJiU21QWjQwY20wMXJmUjBySU9YRUJKcXZTTW5qUGYwTVJNdWxOT0QzVjEzbVdyc2dVcFYzbjBLckE?oc=5" target="_blank">US accuses Russia of 'dangerous and inexplicable escalation' of war in Ukraine as Trump seeks peace</a>&nbsp;&nbsp;<font color="#6f6f6f">AP News</font></li><li><a href="https://news.google.com/rss/articles/CBMikwFBVV95cUxQT280NVRiZ0p4aEJHaHg5U2NCSFRyOUFONGl2SnNQU2tXdUk5ZWlvdGpyWnNtZHB0YWlMQmJ3cTdGZ29NY3JjaHh1NEhKc3BxRUJwVkUzMlhFRFBiRVpmcW4tZ3FBcW8xZExValFKNWViSElYcDR6eFdlRm9JMzZlR2F3NS0tRjUxYjBaYkdqMWlva1U?oc=5" target="_blank">Putin Delivers a Warning to Europe at Mach 10</a>&nbsp;&nbsp;<font color="#6f6f6f">The New York Times</font></li><li><a href="https://news.google.com/rss/articles/CBMiqwFBVV95cUxQTXIySXU4TW11Q3Rhc24tNmFUalNfb0lQc2J5bFpTbVR5VklZMDdRQmd4TENrS0dQNkp6Z2Nnc2p2elh0WnJxQmwtU29iYWJaVE9uenVfV0cwRFQyV2hVSnVRV2gxNWhHVHcwa2NiV0FZOUJLNmNXSUVlOTVlY2E1bU9fUkQ0Mk14VnBBNmt5Z2NEMVNIdE12d0hvZ0h1T1EyLXkwamJ1V0J1Wkk?oc=5" target="_blank">Russian Offensive Campaign Assessment, January 10, 2026</a>&nbsp;&nbsp;<font color="#6f6f6f">Institute for the Study of War</font></li><li><a href="https://news.google.com/rss/articles/CBMizAFBVV95cUxPMHlhdElmcXBoTGhETThHRXVyQ1JBZkFra2puN05EcWprU214UUxWdU92a2hXN1NEZGZDTUo0V3FocTBjQ2wwR3IxdlZBV3R0ZVg1ZnhEUi1tUzZOUldBQkhnTlJzcWgzZW9HYnJqMnNiMWtQSE9hUml0U3FGbWhnVTJrenlFY2xabE03OTlJMU45WTVlZjNjOWw0eTVUay1ucE80TDlYMXRUY3NucnJoZndfUDktMnBQX1lvZlpwNlVBMWpodEVSYnJ4S2s?oc=5" target="_blank">Russian strikes on Ukraine kill four, knock out heat and power</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font></li><li><a href="https://news.google.com/rss/articles/CBMiswFBVV95cUxQOGFLem9iMWV5MnBiV3pBaXMta1hKY0VEM0RseW1UMmx0WmJlMTlDU0c4S1lvVGFlNk52OTNaSkgzT3NQbzNwNm8tM3pHaFdtai1mbV9XVVBOdGRXeFF2dFc4bE5Ya1lRNUpwWXktNmgxVU9fakJ6NUJiRFlXcEtTTWVxQU1COTJTdFhFVmpHYVg5aE9oajk3Z1RRVDlSdTlkWjJNX1FhbGl5X0N5YkwxZGFOSdIBuAFBVV95cUxNZEpyTnB3YzF0X3llMzJ2WGRDOG5teXJVVDRFRW5lOTZfT2FUN0R0YWJuZnhxRFpSVU1DTGxfM1lvbFZmb2xRS2JGZE05VkRQYUlsWExzNkFjWkg5cUZxWVYtN2l0d0cwbzBpaTRlZnJ3TWdCR0QyZFp5UFRJYUxjT2NGcjh2YTZhME1yOTZBU1FtaXpwYkxpR2xxUFp3ajRORURjeFRhNzJIcnhKbkJGbldPQWdlbFNV?oc=5" target="_blank">US slams Russia’s ‘dangerous escalation’ in Ukraine amid new deadly strikes</a>&nbsp;&nbsp;<font color="#6f6f6f">Al Jazeera</font></li></ol>
