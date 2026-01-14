@@ -1,5 +1,5 @@
 ---
-title: "Oprah accepted being subject of jokes about her weight due to self-blame, says 'I felt they were right'"
+title: "Oprah accepted being subject of jokes about her weight due to self-blame, says, 'I felt they were right'"
 date: 2026-01-14
 description: "Oprah Winfrey revealed she accepted jokes about her weight because she felt she deserved them, sharing her journey of shame and self-blame in a candid interview on &quot;The View.&quot;"
 summary: "Oprah Winfrey revealed she accepted jokes about her weight because she felt she deserved them, sharing her journey of shame and self-blame in a candid interview on &quot;The View.&quot;"
