@@ -1,8 +1,8 @@
 ---
 title: "Iran protests live: Tehran says President Trump’s goal is regime change"
 date: 2026-01-14
-description: "Iran says US seeking to &#039;manufacture a pretext for military intervention&#039; as President Trump warns of &#039;strong action&#039;. "
-summary: "Iran says US seeking to &#039;manufacture a pretext for military intervention&#039; as President Trump warns of &#039;strong action&#039;. "
+description: "Tehran says US seeking to &#039;manufacture pretext for military intervention&#039; as President Trump warns of &#039;strong action&#039;. "
+summary: "Tehran says US seeking to &#039;manufacture pretext for military intervention&#039; as President Trump warns of &#039;strong action&#039;. "
 slug: "iran-protests-live-tehran-says-president-trump-s-goal-is-regime-change"
 image: ''
 link: 'https://www.aljazeera.com/news/liveblog/2026/1/14/iran-protests-live-tehran-says-trump-encouraging-political-destabilisation?traffic_source=rss'
@@ -18,4 +18,4 @@ tags:
 
 draft: false
 ---
-Iran says US seeking to &#039;manufacture a pretext for military intervention&#039; as President Trump warns of &#039;strong action&#039;. 
+Tehran says US seeking to &#039;manufacture pretext for military intervention&#039; as President Trump warns of &#039;strong action&#039;. 

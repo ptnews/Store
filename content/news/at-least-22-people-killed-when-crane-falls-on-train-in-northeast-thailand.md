@@ -1,8 +1,8 @@
 ---
 title: "At least 22 people killed when crane falls on train in northeast Thailand"
 date: 2026-01-14
-description: "The train was travelling from Bangkok to northeast Thailand when it derailed after a construction crane fell on it."
-summary: "The train was travelling from Bangkok to northeast Thailand when it derailed after a construction crane fell on it."
+description: "The train, travelling from Bangkok to northeast Thailand, derails when a construction crane falls on it."
+summary: "The train, travelling from Bangkok to northeast Thailand, derails when a construction crane falls on it."
 slug: "at-least-22-people-killed-when-crane-falls-on-train-in-northeast-thailand"
 image: ''
 link: 'https://www.aljazeera.com/news/2026/1/14/at-least-22-people-killed-after-crane-falls-on-train-in-northeast-thailand?traffic_source=rss'
@@ -18,4 +18,4 @@ tags:
 
 draft: false
 ---
-The train was travelling from Bangkok to northeast Thailand when it derailed after a construction crane fell on it.
+The train, travelling from Bangkok to northeast Thailand, derails when a construction crane falls on it.
