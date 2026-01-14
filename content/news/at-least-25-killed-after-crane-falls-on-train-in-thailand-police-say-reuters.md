@@ -1,0 +1,21 @@
+---
+title: "At least 25 killed after crane falls on train in Thailand, police say - Reuters"
+date: 2026-01-14
+description: "At least 25 killed after crane falls on train in Thailand, police say&nbsp;&nbsp;ReutersThailand: At least 28 dead after construction crane falls on train&nbsp;&nbsp;BBCAt least 22 killed as crane collapses on train in Thailand&nbsp;&nbsp;The GuardianConstruction crane collapses on passenger train in Thailand, killing at least 12, officials say&nbsp;&nbsp;ABC NewsMultiple people killed after construction crane falls, derails train in Thailand&nbsp;&nbsp;Fox News"
+summary: "At least 25 killed after crane falls on train in Thailand, police say&nbsp;&nbsp;ReutersThailand: At least 28 dead after construction crane falls on train&nbsp;&nbsp;BBCAt least 22 killed as crane collapses on train in Thailand&nbsp;&nbsp;The GuardianConstruction crane collapses on passenger train in Thailand, killing at least 12, officials say&nbsp;&nbsp;ABC NewsMultiple people killed after construction crane falls, derails train in Thailand&nbsp;&nbsp;Fox News"
+slug: "at-least-25-killed-after-crane-falls-on-train-in-thailand-police-say-reuters"
+image: ''
+link: 'https://news.google.com/rss/articles/CBMitwFBVV95cUxPSmVHOEs5dEd0YjZFNzB4NmxFeU9BZm9uWGNyaVNHaHdpeHNJLWhCbjRUcWVaa3dfVHlvQWpidnFfQlpUUEpoQU1mZng1UW1nVDZ2MjkyOTI5cUhtY1RkVmhQTmhlQ1g0Y1FuMThFUDZRWEJ2SjZUZlhFOFJ5T0NKRnhpdC1jUEhBUmJraEc2cGNXVDczNjJKSDlkYV9wOEZnYVBWMlgyUDJtWjY3QnRualFaUkdQaEE?oc=5'
+source: 'https://news.google.com/rss/topics/CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx1YlY4U0FtVnVHZ0pWVXlnQVAB?hl=en-US&gl=US&ceid=US:en'
+categories:
+- 'news.google.com'
+tags:
+- 'thailand'
+- 'reuters'
+- 'killed'
+- 'police'
+- 'least'
+
+draft: false
+---
+<ol><li><a href="https://news.google.com/rss/articles/CBMitwFBVV95cUxPSmVHOEs5dEd0YjZFNzB4NmxFeU9BZm9uWGNyaVNHaHdpeHNJLWhCbjRUcWVaa3dfVHlvQWpidnFfQlpUUEpoQU1mZng1UW1nVDZ2MjkyOTI5cUhtY1RkVmhQTmhlQ1g0Y1FuMThFUDZRWEJ2SjZUZlhFOFJ5T0NKRnhpdC1jUEhBUmJraEc2cGNXVDczNjJKSDlkYV9wOEZnYVBWMlgyUDJtWjY3QnRualFaUkdQaEE?oc=5" target="_blank">At least 25 killed after crane falls on train in Thailand, police say</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font></li><li><a href="https://news.google.com/rss/articles/CBMiWkFVX3lxTE5hQzBZVWJRVFFzUWVWRXJFN2RVb0MwMnlsTGV2czc1VEhna2RwOHNrZGRzcVh6a0ItcnpBeGp2T1NoMXlqb2ZkUlhKMHpUTFR4MFFyT1Nmc2c4UQ?oc=5" target="_blank">Thailand: At least 28 dead after construction crane falls on train</a>&nbsp;&nbsp;<font color="#6f6f6f">BBC</font></li><li><a href="https://news.google.com/rss/articles/CBMiigFBVV95cUxPRDV6bkZGM0l1RDVwbElLYnpCSlQ4ZjFNdWVaSFNZNGxEZjJHeXc0ZlNRdF9VY0Ric1dZdWsyTHlzTldiUzM5SGtSTExEVmtSQTBhU1RrSWFoeDFkb3IyanRqdU5URkJtdzFIT1NDdkNqZS1Va1I5UU82OUhDbzhCVGk2bkxmNXJiZmc?oc=5" target="_blank">At least 22 killed as crane collapses on train in Thailand</a>&nbsp;&nbsp;<font color="#6f6f6f">The Guardian</font></li><li><a href="https://news.google.com/rss/articles/CBMiwgFBVV95cUxQV2FkdDRfWG8xODdMSnVKdjNpSDFOcVpBZHpxMGRfSUg0ajFtUzZ0SnZSaDIyaTk5LVZzT2ptTnlHUFNvZm44emxKRHhmS3V5cENSR3hlY0MzZElCakQ2c0JsTG1tUFU2dWkwbjdGdC1xVnZERGRCaUlmU2Njck1QVHNUZE1XNnFBbEM5ajZKM3NzUWQxLWZpRnYtWjY4OUppMTYxWmpUWUJ4aE42dXlZTFhvMWFQckpRZWpfTEtBOEYyQdIBxwFBVV95cUxNbnIwN0pOSkhZeFhkdFN3WmtqYWMwSll3VnhOaGZ4M3Vua19DMHZERERUQ1NnTE90TWhyZTdZamE0N2FzY2dXSXVoSHBSRFVLTmE3NE5RTWdLTnFCbHZyRGZnU05TNjQwSjg2TWtadlNKWUxmcU0wdUU4bkxRdVJyRHE1QmVJeHRRc2hrNmtQalZUTzlMYWpUdDFJanBjUUVwWUw2UlFETFpBQkUtY2plUXRRYjRBODF0OUJCSGpNLUtndXRlcVJr?oc=5" target="_blank">Construction crane collapses on passenger train in Thailand, killing at least 12, officials say</a>&nbsp;&nbsp;<font color="#6f6f6f">ABC News</font></li><li><a href="https://news.google.com/rss/articles/CBMiqgFBVV95cUxOdzlreGROYkd2ak95el9raG9uUnFoaDNkQmMtN2VMT1RDV0wtODNyWklBdi1FQk1ZOEZXbWt5RTBTOHdYbk1teTB4NVIzcjJXU0duSnBZZWhhUTJiZ0JPZUdrUlZoMEJmQ3k1NnpHenk4RjFJMjd1aHdXWVNmZ1ZHMnlwaDRzaDBpYVR2dHVGWGlPYXE4SDVoYWlXRU9vTEFIYmJFeFN5UE14QdIBrwFBVV95cUxQSkVabmptRU53T0xnRzRvWWRUUmJGdDViMm1BNXo1UkhuTDdRY3NXRi1MNTQ2d1VIc1A1QTRJZ3BCR25MUk1TODEzMS01bkk0akQ4SzdSOWU3NFhEOERydTcxaFpKZ3IycUkzRllMTGV5RVEydnZkb3Z1ZU8zbkNoY3pYWU1NZHFFUkRBMjZCRGJ1aTlLbU84LUFHUXNVUGtmcUVjMlkzM3dLdGEzRGVV?oc=5" target="_blank">Multiple people killed after construction crane falls, derails train in Thailand</a>&nbsp;&nbsp;<font color="#6f6f6f">Fox News</font></li></ol>
