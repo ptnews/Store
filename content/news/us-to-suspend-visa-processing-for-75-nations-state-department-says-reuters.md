@@ -1,0 +1,21 @@
+---
+title: "US to suspend visa processing for 75 nations, State Department says - Reuters"
+date: 2026-01-14
+description: "US to suspend visa processing for 75 nations, State Department says&nbsp;&nbsp;ReutersUS freezes all visa processing for 75 countries, including Somalia, Russia, Iran&nbsp;&nbsp;Fox NewsTrump Freezes Visas For 75 Countries—Challenging World Cup Turnout&nbsp;&nbsp;ForbesUS freezes visas for 75 countries: Iran, Russia, Thailand among affected nations - key details&nbsp;&nbsp;Times of IndiaUS Set to Suspend Visa Processing for Dozens of Countries&nbsp;&nbsp;Bloomberg.com"
+summary: "US to suspend visa processing for 75 nations, State Department says&nbsp;&nbsp;ReutersUS freezes all visa processing for 75 countries, including Somalia, Russia, Iran&nbsp;&nbsp;Fox NewsTrump Freezes Visas For 75 Countries—Challenging World Cup Turnout&nbsp;&nbsp;ForbesUS freezes visas for 75 countries: Iran, Russia, Thailand among affected nations - key details&nbsp;&nbsp;Times of IndiaUS Set to Suspend Visa Processing for Dozens of Countries&nbsp;&nbsp;Bloomberg.com"
+slug: "us-to-suspend-visa-processing-for-75-nations-state-department-says-reuters"
+image: ''
+link: 'https://news.google.com/rss/articles/CBMirgFBVV95cUxNUGhqclJaQS1HOW5DMUFwcmRsVEJPdEFjdkZXRWlkd0xFUE9SMElwRTZwU1dTdjNxVlIyaHpBVGdJclBlRTNXaU1uRnFVYkNvTXhrWUVZOC12MDhPeUVzR3REX0VDOFk2X19zZHRXSHIybWhudHNtS1pPNUFiQ0U3dHlKODloSXgyN0Nod1dCLVZUOFJaandMb0Q3MGRJSlJyR2hXV0pUejAxMW1ncUE?oc=5'
+source: 'https://news.google.com/rss/topics/CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx1YlY4U0FtVnVHZ0pWVXlnQVAB?hl=en-US&gl=US&ceid=US:en'
+categories:
+- 'news.google.com'
+tags:
+- 'processing'
+- 'department'
+- 'suspend'
+- 'nations'
+- 'reuters'
+
+draft: false
+---
+<ol><li><a href="https://news.google.com/rss/articles/CBMirgFBVV95cUxNUGhqclJaQS1HOW5DMUFwcmRsVEJPdEFjdkZXRWlkd0xFUE9SMElwRTZwU1dTdjNxVlIyaHpBVGdJclBlRTNXaU1uRnFVYkNvTXhrWUVZOC12MDhPeUVzR3REX0VDOFk2X19zZHRXSHIybWhudHNtS1pPNUFiQ0U3dHlKODloSXgyN0Nod1dCLVZUOFJaandMb0Q3MGRJSlJyR2hXV0pUejAxMW1ncUE?oc=5" target="_blank">US to suspend visa processing for 75 nations, State Department says</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font></li><li><a href="https://news.google.com/rss/articles/CBMiqgFBVV95cUxPb3JMdkxuTVAta2VIaERGbTFHOHM3Tl83aFQyYjNvamYxMkkxRWZIdzQ3akMycno1MGh0Unh0WVBITm53dEFBYXdkQ1Q1aVF6YTVodzhoME5sM0xqeXkzLTJENDVDNjdBOU1yNk9LYTdkc05XbWpNVktNbWpvM3ZBZ3gxVDR5TlpEVW9vNkhrQmNaaTFrdGRfYTR4RmhIamczbW9EcDZXVHlkUdIBrwFBVV95cUxQUndTclNiSllPbFlhZmE5ZHBrUHZmVnQ3bW1UN0x6cV81NnhGVGFUUVVYY3ZENVFCMmlRZmVkRF9vMU5kS1FJblNTWTVKTFFDLVlMS0xmUEtNRHRZRFp2T3FLWEdfMU1OUHM3WHhCZGhoR2l3RUM4SlpqZk0wX2V1Y1lsdWhYNlJiRjBUeV9Xd0tLUGgyZmt6eVZ4QXZNWDBaNUF1Qkh5YmdxcldXNjlr?oc=5" target="_blank">US freezes all visa processing for 75 countries, including Somalia, Russia, Iran</a>&nbsp;&nbsp;<font color="#6f6f6f">Fox News</font></li><li><a href="https://news.google.com/rss/articles/CBMimwFBVV95cUxOSjNQTEF6LUwtVzdweGtwbGVRYlhkaGlrQkNnQVQ5a182RU9aM3d3NDRpOXZzNUVORDVJSmlfRFlzUnIwVjl0ZXJ5Y1lCUXV5WWp5QnZTQmJrWFlBQS12dHVSd1RGMjFQemY2NEVmeHVLUXdVVmFlRzFxQ05adnFJNXdWZEx5bFVBcTUyVEhSYWYxODZpMHJ1Ul9jWQ?oc=5" target="_blank">Trump Freezes Visas For 75 Countries—Challenging World Cup Turnout</a>&nbsp;&nbsp;<font color="#6f6f6f">Forbes</font></li><li><a href="https://news.google.com/rss/articles/CBMikAJBVV95cUxPZF95SDZvOGlOeHNZbTR0Vm9ycjU5Um5IRXRzSlFGNWgybzYwX2tsT3Z2ZkRtTGl5dW1BdjhCd251MC1BYk1aY3ZQM0VkMTRDclg5VDViUHcxeHVNTzRMQ01CX09oN21ueUV6NW15SkdkWmJrc292NDR3UTcteVJlellaLTkxNTZOM2ZLYnBOVUxKNE1uQjFnZ3NWTFlrOUJlS0J5RFdsWGFWOGVHenRPck5kQnNhMldWU1lZMUJvQXJRNmlkcnVoaDdWdXQtUUlQMWkta2pTNV92NFRNdGdjbWtuQms2b0ZnRHQ2VkpWcmd5ZnhIY1lVS3A3UVNtREl4MWlSUlAxQjVBZnFKaGlRSw?oc=5" target="_blank">US freezes visas for 75 countries: Iran, Russia, Thailand among affected nations - key details</a>&nbsp;&nbsp;<font color="#6f6f6f">Times of India</font></li><li><a href="https://news.google.com/rss/articles/CBMiswFBVV95cUxOaVVQX25kTWhkcnZtRWxwemoyZHlMTG5HXzRIbkZpTG9FT1NsT2hNMUhyeUhxM1BETnAyWVBRXzU4c0pKa1VvY1l5TzZ2MWtneHRwUUdXMDlEdS1USm1zTTY3UkJCcmRlNXczeXYtZDQzeDhJYm95VmVPMmkyNVBmbzdtYl9BdXgyZG9rYWZ0emlYR25ucVpWSW1tMms3QUxmSkFMTTlvVnB2djNacFR2MHlMUQ?oc=5" target="_blank">US Set to Suspend Visa Processing for Dozens of Countries</a>&nbsp;&nbsp;<font color="#6f6f6f">Bloomberg.com</font></li></ol>
