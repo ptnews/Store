@@ -1,0 +1,21 @@
+---
+title: "Russian Offensive Campaign Assessment, January 12, 2026 - Institute for the Study of War"
+date: 2026-01-14
+description: "Russian Offensive Campaign Assessment, January 12, 2026&nbsp;&nbsp;Institute for the Study of WarWhy Russia’s economy is unlikely to collapse even if oil prices fall&nbsp;&nbsp;The GuardianThe Russian economy was considered hopeless&nbsp;&nbsp;Ореанда-НовостиMoscow’s boom, the provinces’ bust: Russia’s war economy turns predatory (MAP)&nbsp;&nbsp;Euromaidan PressISW: Russians increasingly feel the consequences of the Kremlin's bet on the defense industry due to the war in U..."
+summary: "Russian Offensive Campaign Assessment, January 12, 2026&nbsp;&nbsp;Institute for the Study of WarWhy Russia’s economy is unlikely to collapse even if oil prices fall&nbsp;&nbsp;The GuardianThe Russian economy was considered hopeless&nbsp;&nbsp;Ореанда-НовостиMoscow’s boom, the provinces’ bust: Russia’s war economy turns predatory (MAP)&nbsp;&nbsp;Euromaidan PressISW: Russians increasingly feel the consequences of the Kremlin's bet on the defense industry due to the war in U..."
+slug: "russian-offensive-campaign-assessment-january-12-2026-institute-for-the-study-of-war"
+image: ''
+link: 'https://news.google.com/rss/articles/CBMiqwFBVV95cUxOUUwxbTBiZTJTYjlzSDZjTGpZN3BzUVNVOUNaa0VqVTVEQjR0bmFaQ095b1ZvWVIwQURJSGphWWxDazAwTGlIUFJCWkN1NUhFdl9PMWJleXd6T3FhVmowVWJrVGxhLXYxUzE3blJFeGdlbERBdGpkbjA2NHhKRGJxWDR1Qlc0dGxqZWVBemF0cnhodGJiSnV5dWxsSkRFdGFXb2U2UzA5ZG5pa2c?oc=5'
+source: 'https://news.google.com/rss/topics/CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx1YlY4U0FtVnVHZ0pWVXlnQVAB?hl=en-US&gl=US&ceid=US:en'
+categories:
+- 'news.google.com'
+tags:
+- 'assessment'
+- 'offensive'
+- 'institute'
+- 'campaign'
+- 'russian'
+
+draft: false
+---
+<ol><li><a href="https://news.google.com/rss/articles/CBMiqwFBVV95cUxOUUwxbTBiZTJTYjlzSDZjTGpZN3BzUVNVOUNaa0VqVTVEQjR0bmFaQ095b1ZvWVIwQURJSGphWWxDazAwTGlIUFJCWkN1NUhFdl9PMWJleXd6T3FhVmowVWJrVGxhLXYxUzE3blJFeGdlbERBdGpkbjA2NHhKRGJxWDR1Qlc0dGxqZWVBemF0cnhodGJiSnV5dWxsSkRFdGFXb2U2UzA5ZG5pa2c?oc=5" target="_blank">Russian Offensive Campaign Assessment, January 12, 2026</a>&nbsp;&nbsp;<font color="#6f6f6f">Institute for the Study of War</font></li><li><a href="https://news.google.com/rss/articles/CBMilwFBVV95cUxQVzh1bFJaOXFCTEJtMTFlNDNrM0FRaDIybGZTZ3dyRGtydFZaZHZya205aGMtbHZJVzBWeVBhcjNQakpialZFckZjSGVTVS1CNHNHN2FzY3V6ZWNFRU9TMzhKZlBWWFhwQmI2eURmUi1RYy05OVh2TUdwaHV0VWZkWjhpZ2tiUHd5NUNxeDVmbXVtTDdUUHA0?oc=5" target="_blank">Why Russia’s economy is unlikely to collapse even if oil prices fall</a>&nbsp;&nbsp;<font color="#6f6f6f">The Guardian</font></li><li><a href="https://news.google.com/rss/articles/CBMipgFBVV95cUxQM0RWdVFSUVVoWDhMQUNsS3JLcXdRbXdaa0Njbm1rQnBranBLQzZETWd5b0ZwSmxObHRjWDdpcUgzeWpRMVZJTE9GSlhVdlpncWlqNHNvWXdEVTJYNlNoVkw1TERwLWkwa0pESDB6TG9pcGlNcTZOTmt1YXBLVzhQSDdMSTdWUV9WaXNLblhBTUlvMnNXYkQzMkd4SS1Jd3hnZWhuS3Nn?oc=5" target="_blank">The Russian economy was considered hopeless</a>&nbsp;&nbsp;<font color="#6f6f6f">Ореанда-Новости</font></li><li><a href="https://news.google.com/rss/articles/CBMigwFBVV95cUxPOGRIdE41SUM0M09CdmcxeEZnLUtnWTBkTEJZSFltajdTRzlzUktoWDY2dHdEcTQzaldjVU5Gb2YxRnUwOWItV0pSOHl5S3RUZFZjOGRNdTkyVWJVcFNHVU85cnVjcHB0eVJZdlN1UWNvTmtXNnctMWw4dmVpTUpKX0p6aw?oc=5" target="_blank">Moscow’s boom, the provinces’ bust: Russia’s war economy turns predatory (MAP)</a>&nbsp;&nbsp;<font color="#6f6f6f">Euromaidan Press</font></li><li><a href="https://news.google.com/rss/articles/CBMi1wFBVV95cUxNVXFid1ZydVc1T01wcTJHZUdXWmtOSXFONFpROWQ1cDd2RVc3OGFMOTRFd0RyeXAtNlE2WG8xR0ltUHVOR29UZTVUeDYzUmhtWDI3YkcwMnVkeXJ6akxyWkFZUm1aaE5XeFROblcwdUpiaEVfSkNmM1hhRGJvdU9XQl9hNmhlNUNfR29uaGlqRDkzOG9YaEJXN2U0QzY0TGV1ZEd4V2Y4NUpGdVRTY2hSY0M2NXdRNlZUckVDdmE5ZDlQUlNnZVJvSDRCZkFEZmdXamJERktJNNIB1gFBVV95cUxNa25QRVEtcTZNc2JKTXVsWUtYRkEySktsUm9XYjkxN2ZSTGZWQTN5cGpxRXhNZnNkcUM2ZUwxeXlsTjhRbWNZWWlFU2lmbG9WZG15bG9OZFlaaHRSdlBHVmkxTDNuZTNoR3B4YW04QzNQRVl3WDlwaGN4aXh0R0xHOTNuQUlhVlZ6Y2ltZWExM0E5bGpPVUF0eV9zQmNOZFpHbS11V1FVTDIzRjhEYXdwc2ZUbkdJejQ4b2E1c1Q4ZGFabkZTdUNmaW4xdDZ5ejFmWnhXaldn?oc=5" target="_blank">ISW: Russians increasingly feel the consequences of the Kremlin's bet on the defense industry due to the war in Ukraine</a>&nbsp;&nbsp;<font color="#6f6f6f">Українські Національні Новини</font></li></ol>
