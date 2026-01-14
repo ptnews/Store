@@ -1,0 +1,21 @@
+---
+title: "Tensions Are High as Vance and Rubio Prepare to Meet Danish and Greenlandic Officials - The New York Times"
+date: 2026-01-14
+description: "Tensions Are High as Vance and Rubio Prepare to Meet Danish and Greenlandic Officials&nbsp;&nbsp;The New York TimesBuying Greenland could cost as much as $700 billion&nbsp;&nbsp;NBC NewsUS talks pose 'conundrum' for Greenland, Denmark: Analysts&nbsp;&nbsp;ABC NewsGreenland and Denmark prepare for a White House showdown&nbsp;&nbsp;CNBCVance to meet Danish and Greenlandic officials in Washington on Wednesday&nbsp;&nbsp;NPR"
+summary: "Tensions Are High as Vance and Rubio Prepare to Meet Danish and Greenlandic Officials&nbsp;&nbsp;The New York TimesBuying Greenland could cost as much as $700 billion&nbsp;&nbsp;NBC NewsUS talks pose 'conundrum' for Greenland, Denmark: Analysts&nbsp;&nbsp;ABC NewsGreenland and Denmark prepare for a White House showdown&nbsp;&nbsp;CNBCVance to meet Danish and Greenlandic officials in Washington on Wednesday&nbsp;&nbsp;NPR"
+slug: "tensions-are-high-as-vance-and-rubio-prepare-to-meet-danish-and-greenlandic-officials-the-new-york-times"
+image: ''
+link: 'https://news.google.com/rss/articles/CBMilwFBVV95cUxNRUs1UDNYQm1KRHBGOV9BalB4S3lhcTF3eXlGXzY3aXNYY2tHVW9ialZwSE9XZDJLTzEwdFg1STVXYldLMU5DTTlYWmluMjdtUjZYeUVKOFRoeVByd0VjMFBndHNFX0YzS2c2UkRUYklDUzB5SllaMjBucnNObzBuQVBJVU00RFVVcFFrLWNFWU1GVkN3SnFV?oc=5'
+source: 'https://news.google.com/rss/topics/CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx1YlY4U0FtVnVHZ0pWVXlnQVAB?hl=en-US&gl=US&ceid=US:en'
+categories:
+- 'news.google.com'
+tags:
+- 'greenlandic'
+- 'officials'
+- 'tensions'
+- 'prepare'
+- 'danish'
+
+draft: false
+---
+<ol><li><a href="https://news.google.com/rss/articles/CBMilwFBVV95cUxNRUs1UDNYQm1KRHBGOV9BalB4S3lhcTF3eXlGXzY3aXNYY2tHVW9ialZwSE9XZDJLTzEwdFg1STVXYldLMU5DTTlYWmluMjdtUjZYeUVKOFRoeVByd0VjMFBndHNFX0YzS2c2UkRUYklDUzB5SllaMjBucnNObzBuQVBJVU00RFVVcFFrLWNFWU1GVkN3SnFV?oc=5" target="_blank">Tensions Are High as Vance and Rubio Prepare to Meet Danish and Greenlandic Officials</a>&nbsp;&nbsp;<font color="#6f6f6f">The New York Times</font></li><li><a href="https://news.google.com/rss/articles/CBMimgFBVV95cUxQbGtYMGJPRjk3N1JPOS1rVEdyQkpUaFE0WFVoNFU2OGhuUExSclBGQXNVVEdhS2JhV3E4dFAzUjAxSXVFR19vcUVHVGhoQUtyWjBicU50RTF5MXdha3ZSXy1YTFVjUzJJSzM1b0NSWlpFTUhkU0oxdDZ6ZVRYTm15Y1VERDNOVjR1eEd5N1paWXhlejhwTlJLdVNn0gFWQVVfeXFMTkRiRzhDcmhJVEJ4bk9uQTU3bEJiblFDcEFpNUlKZzBERjZHNVNEdVNZSnNHTndKLTJsdDF6QkdZNGxJOU1oME5UVHdSVlBkSC1wVUpLaWc?oc=5" target="_blank">Buying Greenland could cost as much as $700 billion</a>&nbsp;&nbsp;<font color="#6f6f6f">NBC News</font></li><li><a href="https://news.google.com/rss/articles/CBMiqgFBVV95cUxNQXg4NlRiNm01SDFlZ2pGMjdQUlB1R0luS0xBY1RESXlZWFg1WGFibTluTE5Xam1KN3hBNUIzRi1BOExvV01Zdm5kTlNwTWotelNpd2lvMGtpem9fTlNGSzlpWFBTSEJrNDNSaVBHMzVUNEYzbUlFbEFHeWl4UV9uR19ILTVkNGpjQk5TN2ozaDdyQ2hsMkVDV1htc3MyazBMZm81RVBYUHZ6d9IBrwFBVV95cUxOUVFNZkZtY0xLV2t1NmZFQm5DQzkxOFE5a1poYV9EVHg5MmJmdXdfaFZrWmdkWDE1clZvNmJIY3JQZjdiX1lUV0w5a3ZfUnRmME8tX2QtbUFlTlBQZGpzbk9Lak9HbWZlTnBwaXVXdmxxT3dBeFI1c3ptN1dIX3YyZ3JiNmMyQ2pkcmtwY2RLYXAyMEZMTjA2VHJud1ZpYVFIN09xNkExQ0Q4UEZ5VEFR?oc=5" target="_blank">US talks pose 'conundrum' for Greenland, Denmark: Analysts</a>&nbsp;&nbsp;<font color="#6f6f6f">ABC News</font></li><li><a href="https://news.google.com/rss/articles/CBMihwFBVV95cUxOT3JNcllkaE5xb2NhNEVfWjJmZEc3WFZOUG1YWnN3QmFvclBhSS1DS3A2V0E3dHM4MmxIT0x4VDNTT2NjVFhPTTVJT3hSYkhEb2dTQU9Oa25rN1JjeXNCN2ZsYnlxLXVuYXRZcmNodWFDbllFYkVmV3VZcDduOW5rVm91cnV0UDjSAYwBQVVfeXFMT01jWklyeDFiWnV4ZTJwLXh0eUg3d0ZKalZXMDZVaTB1YTRvRzEtY0dIQUozTHp1Y042QWdjUWUyYndQdmQteEVvQ2tadF9LNHhhM1VrYldHdUx2bXVHanVFNnBlWU9wVmFRSWVkdjN6VHc5OURhQUlSVHlpaFllVThUSWszdHU2RDVvWnI?oc=5" target="_blank">Greenland and Denmark prepare for a White House showdown</a>&nbsp;&nbsp;<font color="#6f6f6f">CNBC</font></li><li><a href="https://news.google.com/rss/articles/CBMiiwFBVV95cUxPUi1iclVHVEFuOU52UFpJbC0wYWtybFNUWlItaVNvbTdIcWRJaE1jZ3cwR0NPcldzNW81SnFGemUzU01WbjNBX1ZXUG44UnNoamxTSUlMUzVuOG80ZXFPMUk2ZVB1SXZlQWlldUVJMmtIWTIwQnhVRlMxbGk5ckhlRGxTeDJhYWhDQUhJ?oc=5" target="_blank">Vance to meet Danish and Greenlandic officials in Washington on Wednesday</a>&nbsp;&nbsp;<font color="#6f6f6f">NPR</font></li></ol>
