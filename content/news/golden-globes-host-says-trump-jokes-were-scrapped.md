@@ -1,8 +1,8 @@
 ---
 title: "Golden Globes host says Trump jokes were scrapped"
 date: 2026-01-14
-description: "Comedian Nikki Glaser says she cut Trump jokes from her Golden Globes monologue, telling Howard Stern political humor wasn’t &apos;funny&apos; in the current climate."
-summary: "Comedian Nikki Glaser says she cut Trump jokes from her Golden Globes monologue, telling Howard Stern political humor wasn’t &apos;funny&apos; in the current climate."
+description: "Comedian Nikki Glaser says she cut Trump jokes from her Golden Globes monologue, telling Howard Stern political humor wasn’t &quot;funny&quot; in the current climate."
+summary: "Comedian Nikki Glaser says she cut Trump jokes from her Golden Globes monologue, telling Howard Stern political humor wasn’t &quot;funny&quot; in the current climate."
 slug: "golden-globes-host-says-trump-jokes-were-scrapped"
 image: ''
 link: 'https://www.foxnews.com/media/golden-globes-host-says-trump-jokes-were-scrapped'

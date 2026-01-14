@@ -1,0 +1,21 @@
+---
+title: "Trump chides Tony Dokoupil during CBS interview, says anchor 'wouldn't have this job' if he lost 2024 election"
+date: 2026-01-14
+description: "During an interview on &quot;CBS Evening News,&quot; President Donald Trump teased anchor Tony Dokoupil that he &quot;wouldn&apos;t have this job&quot; if he didn&apos;t win the 2024 election."
+summary: "During an interview on &quot;CBS Evening News,&quot; President Donald Trump teased anchor Tony Dokoupil that he &quot;wouldn&apos;t have this job&quot; if he didn&apos;t win the 2024 election."
+slug: "trump-chides-tony-dokoupil-during-cbs-interview-says-anchor-wouldn-t-have-this-job-if-he-lost-2024-election"
+image: ''
+link: 'https://www.foxnews.com/media/trump-chides-tony-dokoupil-during-cbs-interview-says-anchor-wouldnt-have-job-he-lost-2024-election'
+source: 'https://feeds.foxnews.com/foxnews/latest'
+categories:
+- 'feeds.foxnews.com'
+tags:
+- 'interview'
+- 'dokoupil'
+- 'election'
+- 'chides'
+- 'during'
+
+draft: false
+---
+<p>President <a href="https://www.foxnews.com/category/person/donald-trump" target="_blank" rel="noopener">Donald Trump</a> had some fun at the expense of CBS News anchor Tony Dokoupil, insisting he wouldn't be in the "CBS Evening News" chair if it weren't for him.</p><p>During an interview that aired on Tuesday's broadcast of "CBS Evening News," Dokoupil told Trump that "everyday Americans" he spoke with don't feel the benefits of the economy under his administration.</p><p>Trump pushed back, stressing that he has only been in office for 11 months and that he "inherited a mess."</p><p>"Tony, we now have the hottest country in the world. And a year-and-a-half ago, our country was dead. We had a dead country," Trump told Dokoupil. "You wouldn't have a job right now. If [<a href="https://www.foxnews.com/category/person/kamala-harris" target="_blank" rel="noopener">Kamala Harris</a>] got in, you probably wouldn't have a job right now."</p><p><a href="https://www.foxnews.com/media/trump-says-u-s-take-very-strong-action-against-iran-regime-starts-hanging-protesters" target="_blank" rel="noopener"><strong><u>TRUMP SAYS THE U.S. WILL TAKE ‘VERY STRONG ACTION’ AGAINST IRAN IF THE REGIME STARTS HANGING PROTESTERS</u></strong></a></p><p>"Your boss, who's an amazing guy, might be bust, OK?" Trump said. "Let me just tell you — you wouldn't have this job. You wouldn't have this job — certainly whatever the hell they're paying you. Our country is rocketing right now. We have the hottest country in the world. If they got in, we'd be Venezuela on steroids."</p><p>Trump was referring to David Ellison, the new owner of CBS parent company Paramount and the son of billionaire Trump ally Larry Ellison.</p><p><a href="https://www.foxnews.com/media/2025-review-tumultuous-year-paramount-cbs-news" target="_blank" rel="noopener"><strong>2025 IN REVIEW: A TUMULTUOUS YEAR FOR PARAMOUNT AND CBS NEWS</strong></a></p><p>Moments later, as he began wrapping up the interview, Dokoupil offered a gentle rebuke.</p><p>"For the record, I do think I'd have this job even if the other guys won," Dokoupil told Trump.</p><p>"Yeah — but at a lesser salary," Trump jokingly fired back before the two shook hands.</p><p><a href="https://www.foxnews.com/media" target="_blank" rel="noopener"><strong>CLICK HERE FOR THE LATEST MEDIA AND CULTURE NEWS</strong></a></p><p>While Trump's comments were primarily focused on the economy, he was certainly a key figure in the current overhauling of CBS News. His lawsuit against the network and Paramount over its handling of the "60 Minutes" interview with then-Vice President Kamala Harris loomed over Paramount's $8 billion planned merger with Ellison's Skydance Media. It was only after Paramount settled Trump's lawsuit that the FCC approved the corporate transaction.</p><p>After Ellison took over the company, he <a href="https://www.foxnews.com/media/bari-weiss-joins-cbs-news-editor-in-chief-paramount-buys-free-press-150-million" target="_blank" rel="noopener">appointed Bari Weiss</a> to be the new editor-in-chief of CBS News and acquired her outlet The Free Press for $150 million. Last month, Weiss tapped Dokoupil to be the new face of "CBS Evening News," hoping they could revive the perennial third-place evening newscast.</p>

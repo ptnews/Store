@@ -1,0 +1,21 @@
+---
+title: "Waitress ‘who accidentally started Swiss bar fire’ was killed in blaze - Yahoo"
+date: 2026-01-14
+description: "Waitress ‘who accidentally started Swiss bar fire’ was killed in blaze&nbsp;&nbsp;YahooService Door Inside Bar Where 40 Died in Fire Was Locked from Inside, Owner Claims&nbsp;&nbsp;People.com'It was apocalyptic', woman tells Crans-Montana memorial service, as bar owner detained&nbsp;&nbsp;BBCSwiss fire victims' lawyer seeks expansion of criminal probe&nbsp;&nbsp;ReutersOwner of Swiss Bar Where 40 Died Is Ordered to Jail as a Flight Risk&nbsp;&nbsp;The New York Times"
+summary: "Waitress ‘who accidentally started Swiss bar fire’ was killed in blaze&nbsp;&nbsp;YahooService Door Inside Bar Where 40 Died in Fire Was Locked from Inside, Owner Claims&nbsp;&nbsp;People.com'It was apocalyptic', woman tells Crans-Montana memorial service, as bar owner detained&nbsp;&nbsp;BBCSwiss fire victims' lawyer seeks expansion of criminal probe&nbsp;&nbsp;ReutersOwner of Swiss Bar Where 40 Died Is Ordered to Jail as a Flight Risk&nbsp;&nbsp;The New York Times"
+slug: "waitress-who-accidentally-started-swiss-bar-fire-was-killed-in-blaze-yahoo"
+image: ''
+link: 'https://news.google.com/rss/articles/CBMiigFBVV95cUxNV2JuNXZmak1NXy1vZk81SE84OTZPcFJQV3I1aERlOC1mdVFxdjV5N3pDU1JDd2lRZzFyVDNocGNKMk53aHdpc21ZaDVxeDVscjRZQms5T1B1U1R2c25kYTRlb2xFeVJqVjQ5Yy1vSVIxbkFqUjBGenA0N2xVZm5QNGNFcmw3Ny1JbXc?oc=5'
+source: 'https://news.google.com/rss/topics/CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx1YlY4U0FtVnVHZ0pWVXlnQVAB?hl=en-US&gl=US&ceid=US:en'
+categories:
+- 'news.google.com'
+tags:
+- 'accidentally'
+- 'waitress'
+- 'started'
+- 'killed'
+- 'swiss'
+
+draft: false
+---
+<ol><li><a href="https://news.google.com/rss/articles/CBMiigFBVV95cUxNV2JuNXZmak1NXy1vZk81SE84OTZPcFJQV3I1aERlOC1mdVFxdjV5N3pDU1JDd2lRZzFyVDNocGNKMk53aHdpc21ZaDVxeDVscjRZQms5T1B1U1R2c25kYTRlb2xFeVJqVjQ5Yy1vSVIxbkFqUjBGenA0N2xVZm5QNGNFcmw3Ny1JbXc?oc=5" target="_blank">Waitress ‘who accidentally started Swiss bar fire’ was killed in blaze</a>&nbsp;&nbsp;<font color="#6f6f6f">Yahoo</font></li><li><a href="https://news.google.com/rss/articles/CBMipAFBVV95cUxOdjZ3WXFVZE1LMnJYQWFMQ3N6dzRjdi1feGpOakxNTDUwOWNHbHhIbExHV0xHTU92U3l1Y0VleHFuWkphZkN2TkNEbEg1bm9KZlZQellmdGxzdTMzMFBzQzRtTTIzRXAxNTZxQnlkazRSSnBSNl9NU2ZKQmM1VWFUSDktQmU1OFZtQ2pIXzItOHNkdzY1QUlIWWRrVVFqbkVvSmFvZw?oc=5" target="_blank">Service Door Inside Bar Where 40 Died in Fire Was Locked from Inside, Owner Claims</a>&nbsp;&nbsp;<font color="#6f6f6f">People.com</font></li><li><a href="https://news.google.com/rss/articles/CBMiWkFVX3lxTE8xWnFUWkFIczVvSmZwLUJYa3JLbmExOWpvenZZWWktZTFVaHNYREc2QUNkeTd5WGJoUjVkZXZEMFJfRmdiLTlJR2tnY0d1Y1hfMEVRc1VqQWU0QQ?oc=5" target="_blank">'It was apocalyptic', woman tells Crans-Montana memorial service, as bar owner detained</a>&nbsp;&nbsp;<font color="#6f6f6f">BBC</font></li><li><a href="https://news.google.com/rss/articles/CBMinwFBVV95cUxOYVBFLU1KWVFBTFZtU1pLOTFWVzQ3YkYzWU8za0R1Y0UtXzd2dmlYbVRjSkUwQmNFaG1ZMVRKcVJFV0N0SXN1a01xOGJqVWpOcmxlSzJwZE5VSVd5ZkcyRXlNdDlIMjZsSTE2cHhUb1oyTHB6QUlKZGtCN1dOSHhuRDBUNDlvVGpoNTV2ckpKUW1LNXN5UTZNSlJfU2lXQTA?oc=5" target="_blank">Swiss fire victims' lawyer seeks expansion of criminal probe</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font></li><li><a href="https://news.google.com/rss/articles/CBMikwFBVV95cUxNZnlXcFJMdktJaHNld1BWeE1LYU5MVEM1dmlOWDBFaUw3U1RSaE43ZG44NWJzTW1odDQ4bjFTdWxzNUlXcmFyNWlXai14elExcTVndlpTOWw3UzhjNW1TbEpJTUl1WGFlS3g2SXNFbEt1a1BUNk5DalhWRWNTY01MNllBcHBOVDhERlVrVTliLWpJMTA?oc=5" target="_blank">Owner of Swiss Bar Where 40 Died Is Ordered to Jail as a Flight Risk</a>&nbsp;&nbsp;<font color="#6f6f6f">The New York Times</font></li></ol>
