@@ -1,0 +1,21 @@
+---
+title: "Russia detains top doctors at Siberian hospital after nine babies die - Reuters"
+date: 2026-01-14
+description: "Russia detains top doctors at Siberian hospital after nine babies die&nbsp;&nbsp;ReutersTop doctors arrested after 9 newborns die at hospital in Russia: \"A crime against the country\"&nbsp;&nbsp;CBS NewsRussia opens criminal investigation into death of nine babies at Siberian hospital&nbsp;&nbsp;NBC NewsArrests after nine newborn babies die at the same hospital in Russia in early January&nbsp;&nbsp;Sky NewsSevere Intrauterine Infections Cause Newborn Deaths in Russia&nbsp;&nbsp;Caspian Post"
+summary: "Russia detains top doctors at Siberian hospital after nine babies die&nbsp;&nbsp;ReutersTop doctors arrested after 9 newborns die at hospital in Russia: \"A crime against the country\"&nbsp;&nbsp;CBS NewsRussia opens criminal investigation into death of nine babies at Siberian hospital&nbsp;&nbsp;NBC NewsArrests after nine newborn babies die at the same hospital in Russia in early January&nbsp;&nbsp;Sky NewsSevere Intrauterine Infections Cause Newborn Deaths in Russia&nbsp;&nbsp;Caspian Post"
+slug: "russia-detains-top-doctors-at-siberian-hospital-after-nine-babies-die-reuters"
+image: ''
+link: 'https://news.google.com/rss/articles/CBMirAFBVV95cUxOWU1BRnd6Wndvd3RjTjV4RmlEMXFlcXJSa3VMRDFPOWxsVmlQU3kzbS1aa2I5eWlSeEswREhYa3U4bHBHX0ZUdVVtTElLdjRoQV9idnpKR1JjQ05hSDd5azNjRWRDYS1sUkN5N21PamI5ZVJCdFlSbDVJcFpPdjRfWTR6ZzZmSVlXM3dlWmphTUZrRS1nZHVUd043M09zWk9fQ1hTeEJVMC1CSHBl?oc=5'
+source: 'https://news.google.com/rss/topics/CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx1YlY4U0FtVnVHZ0pWVXlnQVAB?hl=en-US&gl=US&ceid=US:en'
+categories:
+- 'news.google.com'
+tags:
+- 'siberian'
+- 'hospital'
+- 'detains'
+- 'doctors'
+- 'reuters'
+
+draft: false
+---
+<ol><li><a href="https://news.google.com/rss/articles/CBMirAFBVV95cUxOWU1BRnd6Wndvd3RjTjV4RmlEMXFlcXJSa3VMRDFPOWxsVmlQU3kzbS1aa2I5eWlSeEswREhYa3U4bHBHX0ZUdVVtTElLdjRoQV9idnpKR1JjQ05hSDd5azNjRWRDYS1sUkN5N21PamI5ZVJCdFlSbDVJcFpPdjRfWTR6ZzZmSVlXM3dlWmphTUZrRS1nZHVUd043M09zWk9fQ1hTeEJVMC1CSHBl?oc=5" target="_blank">Russia detains top doctors at Siberian hospital after nine babies die</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font></li><li><a href="https://news.google.com/rss/articles/CBMigAFBVV95cUxNWUx2Y0p0SXg0enNWdWRMY2xuWHFhZ0p1VnU5TmVjcU9IWnZOb0UySFBsRWYxWEpaRXA4cVJ0TVZtSnRNRjA0bFQzbXd0Y25KeU95SGVqNjBtVTF4NDdvR1A4Y1hKR1N5TjBRa0ZxMGhCWXNwT1pIRHpSSzNMYzlFR9IBhgFBVV95cUxPRnd6SFFoSFdITWR2OHpVMzRqODFrNkpyLTVBOHdha0h5OFVJaWo5Vm1UMVNQRXhramx5ZUYzT2huYWFEMENTOHFLT2drdHpJWGJ0eTRVcjg4SVIyQUJ3dzhBNnZKVjl6NFhXWVNGYzFzeTNZbThvWDY0TUZOQUY0ZXF2M0Fudw?oc=5" target="_blank">Top doctors arrested after 9 newborns die at hospital in Russia: "A crime against the country"</a>&nbsp;&nbsp;<font color="#6f6f6f">CBS News</font></li><li><a href="https://news.google.com/rss/articles/CBMiugFBVV95cUxNMlZwZ29Eakl1RzhuVElBMEJMYkVUaTU5aUZSSnpXTmljOHNkNDk3WlpRSl9abEpSSWRSV3BLSTdocGFrVE5kdzNPZjYtTFk0OWZDZkNaZmlrUFBlbmlxWUhjV1F0bmxQTmY3U041VERXbElwVFhiNkJBa1RDM1R2SkxwTjl5VWJhOUNzYUE5XzZvZTRHUi0zbHRJT083RFJOd1FEc3VUVmhXdFNoRHdYVEpSZlg1UmxHSkHSAVZBVV95cUxORTdCLWpVVXRaN1oxQi02WmJwaDJpMVFvd2JGd0hWcVlDMTBua2N6OGlnNkozZVVaUVF6bXNsQ2R4WnRwemVleXBqY1lOTjV4ZlpDSjJ0QQ?oc=5" target="_blank">Russia opens criminal investigation into death of nine babies at Siberian hospital</a>&nbsp;&nbsp;<font color="#6f6f6f">NBC News</font></li><li><a href="https://news.google.com/rss/articles/CBMiwwFBVV95cUxORXhaSHVqcVhsOWtRM2twd1pHa3NkX0FUZlBDMjA3X1lBdDlfTVdHM3JFMVBlMk9YazJ5VnhvU0lIR3FITXNjbXhJa0RMZ0p6NUQ4VUdZN19mR3REWGJtQXZqalNvZjB3RXM4c29qT21WbDFLZTBkOFg2eU44Qk5LVG5fbW5abVVQTnp2RUxZMHZjM181cGlOcDlyN3dfSk55NklOVkpPNUFON3A1cnkyczdZV3JTSk9Qb1BISTZWejZjTmc?oc=5" target="_blank">Arrests after nine newborn babies die at the same hospital in Russia in early January</a>&nbsp;&nbsp;<font color="#6f6f6f">Sky News</font></li><li><a href="https://news.google.com/rss/articles/CBMimAFBVV95cUxPUkhEdFJtaHJnbkZhNF9DcFlqdk5tbE4waFYwV3Vvc21scjFMUzhVeUtLaUZVYzRnMFhmREhGV2U2bEstTW1hTVpsUzIwUzRWUko1bUR1MlBvb3JzcFFRWGpVSS1aODU0T0pxdl9qeGg5eXJhc0lNZW9IQ0VXRVhuVlp0ZnQtTkRRbk9XNjMxd1BvNXU2cWNCbg?oc=5" target="_blank">Severe Intrauterine Infections Cause Newborn Deaths in Russia</a>&nbsp;&nbsp;<font color="#6f6f6f">Caspian Post</font></li></ol>
