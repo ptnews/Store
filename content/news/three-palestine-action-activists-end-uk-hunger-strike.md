@@ -1,8 +1,8 @@
 ---
 title: "Three Palestine Action activists end UK hunger strike"
 date: 2026-01-14
-description: "This is a breaking news story."
-summary: "This is a breaking news story."
+description: "Prisoners for Palestine says move comes after subsidiary of Israeli arms manufacturer failed to win UK gov&#039;t contract."
+summary: "Prisoners for Palestine says move comes after subsidiary of Israeli arms manufacturer failed to win UK gov&#039;t contract."
 slug: "three-palestine-action-activists-end-uk-hunger-strike"
 image: ''
 link: 'https://www.aljazeera.com/news/2026/1/14/three-palestine-action-activists-end-uk-hunger-strike?traffic_source=rss'
@@ -18,4 +18,4 @@ tags:
 
 draft: false
 ---
-This is a breaking news story.
+Prisoners for Palestine says move comes after subsidiary of Israeli arms manufacturer failed to win UK gov&#039;t contract.
