@@ -1323,6 +1323,15 @@
     "title": "'He's crazy': BBC speaks to Greenlanders about Trump's threats"
   },
   {
+    "description": "The announcement contradicts claims from local rights groups that no more than 70 prisoners have been freed.",
+    "image": "",
+    "link": "https://www.aljazeera.com/news/2026/1/14/venezuelas-top-lawmaker-says-more-than-400-prisoners-have-been-released?traffic_source=rss",
+    "pubDate": "2026-01-14",
+    "slug": "venezuela-s-top-lawmaker-says-more-than-400-prisoners-have-been-released",
+    "source": "https://aljazeera.com/xml/rss/all.xml",
+    "title": "Venezuela’s top lawmaker says more than 400 prisoners have been released"
+  },
+  {
     "description": "The bipartisan bill would bar funding for any move to occupy or annex the territory of a NATO member state.",
     "image": "",
     "link": "https://www.aljazeera.com/news/2026/1/14/us-senators-introduce-bill-to-stop-trump-seizing-greenland?traffic_source=rss",
@@ -1537,14 +1546,5 @@
     "slug": "last-straw-somalia-cuts-uae-ties-after-yemen-separatist-s-illegal-entry",
     "source": "https://aljazeera.com/xml/rss/all.xml",
     "title": "‘Last straw’: Somalia cuts UAE ties after Yemen separatist’s illegal entry"
-  },
-  {
-    "description": "US president threatens a 25 percent tariff on countries that do business with Iran as he piles pressure on Tehran.",
-    "image": "",
-    "link": "https://www.aljazeera.com/news/2026/1/13/trump-announces-new-25-tariff-how-will-it-impact-irans-trading-partners?traffic_source=rss",
-    "pubDate": "2026-01-13",
-    "slug": "trump-announces-new-25-tariff-how-will-it-impact-iran-s-trading-partners",
-    "source": "https://aljazeera.com/xml/rss/all.xml",
-    "title": "Trump announces new 25% tariff: How will it impact Iran’s trading partners?"
   }
 ]
