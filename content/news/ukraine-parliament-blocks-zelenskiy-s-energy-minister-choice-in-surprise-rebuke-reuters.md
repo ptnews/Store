@@ -1,0 +1,21 @@
+---
+title: "Ukraine parliament blocks Zelenskiy's energy minister choice in surprise rebuke - Reuters"
+date: 2026-01-14
+description: "Ukraine parliament blocks Zelenskiy's energy minister choice in surprise rebuke&nbsp;&nbsp;ReutersParliament Appoints Digital Guru Fedorov as Ukraine's Defence Minister&nbsp;&nbsp;U.S. News & World ReportUkraine Parliament Approves Dismissals for Major Wartime Reshuffle&nbsp;&nbsp;Kyiv PostUkrainian parliament dismisses Mykhailo Fedorov as digital transformation minister&nbsp;&nbsp;Українська правдаThe Rada prepares for appointments: faction leaders will hold a conciliatory meeti..."
+summary: "Ukraine parliament blocks Zelenskiy's energy minister choice in surprise rebuke&nbsp;&nbsp;ReutersParliament Appoints Digital Guru Fedorov as Ukraine's Defence Minister&nbsp;&nbsp;U.S. News & World ReportUkraine Parliament Approves Dismissals for Major Wartime Reshuffle&nbsp;&nbsp;Kyiv PostUkrainian parliament dismisses Mykhailo Fedorov as digital transformation minister&nbsp;&nbsp;Українська правдаThe Rada prepares for appointments: faction leaders will hold a conciliatory meeti..."
+slug: "ukraine-parliament-blocks-zelenskiy-s-energy-minister-choice-in-surprise-rebuke-reuters"
+image: ''
+link: 'https://news.google.com/rss/articles/CBMitwFBVV95cUxNSlktRnRib2FLWnQ3eG9xa1lVTkxrQktZc2FzZEJSNEJ3NVg5ckZKMHB1Rmlac2xsUno2Q21fVHJQZ1pzUUhwLXh5dXEtUU1mZ2ZRSkNYSWtvUFk5cjRfTG1HSFRPS1lGV3N1eWNOdEN0bHdKTVNYTGxUXzFJX0c0ejJDTlYyWlBZWVh2VFAybjZwT0NlandHRlJucm82UVN4LXRCRDFkeGpGUFZXUjZROGt1WkJrQ0k?oc=5'
+source: 'https://news.google.com/rss/topics/CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx1YlY4U0FtVnVHZ0pWVXlnQVAB?hl=en-US&gl=US&ceid=US:en'
+categories:
+- 'news.google.com'
+tags:
+- 'parliament'
+- 'zelenskiy'
+- 'minister'
+- 'surprise'
+- 'ukraine'
+
+draft: false
+---
+<ol><li><a href="https://news.google.com/rss/articles/CBMitwFBVV95cUxNSlktRnRib2FLWnQ3eG9xa1lVTkxrQktZc2FzZEJSNEJ3NVg5ckZKMHB1Rmlac2xsUno2Q21fVHJQZ1pzUUhwLXh5dXEtUU1mZ2ZRSkNYSWtvUFk5cjRfTG1HSFRPS1lGV3N1eWNOdEN0bHdKTVNYTGxUXzFJX0c0ejJDTlYyWlBZWVh2VFAybjZwT0NlandHRlJucm82UVN4LXRCRDFkeGpGUFZXUjZROGt1WkJrQ0k?oc=5" target="_blank">Ukraine parliament blocks Zelenskiy's energy minister choice in surprise rebuke</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font></li><li><a href="https://news.google.com/rss/articles/CBMiwAFBVV95cUxNSEFUQ0F1SjdsRGJxcWc2NXBNUlQ4X2FGdzJ6TXFBNXpNMW4tX0ZYVGtvbkxSaXRpZ0dDRW5VOHBCWFhKdW5zQmVJdGVSTmFTbTJTekN4R3E5VUNJN0poUmhQYkF2SEdab2NZTHFVUWtrOXViOTlZZ0t4TkRZaGRsZzk2cEpXX3hSREpOTWhqTDd4bkZ2TlNGb0Zma0gzZGJ1RG1KLXFFOENmNHNzaG50S25PczdTLUM0LTdjM3ZJQ1c?oc=5" target="_blank">Parliament Appoints Digital Guru Fedorov as Ukraine's Defence Minister</a>&nbsp;&nbsp;<font color="#6f6f6f">U.S. News & World Report</font></li><li><a href="https://news.google.com/rss/articles/CBMiS0FVX3lxTE9sUHZGOFY2aFF5X25vTzJkTHo4bE15cnZlZHdyUklESGZUR3ZlYm52OUFad3pLNXVRZGpkM2ZQN1VHMC1ZbVBzWk9TUQ?oc=5" target="_blank">Ukraine Parliament Approves Dismissals for Major Wartime Reshuffle</a>&nbsp;&nbsp;<font color="#6f6f6f">Kyiv Post</font></li><li><a href="https://news.google.com/rss/articles/CBMiZEFVX3lxTFBSMWY2dmt5amxyaVFMbzZDNEFoVWVrMW9FUDNMdVRDb3pUMzdiNUxBcEdZSE1CNjZYcVFBZmF2YjhWT1JXdlRDakx4WTlDdEtlUUUxdmFocS1MaVZxZTk2a29pbVfSAXBBVV95cUxOdDZLNkpSaEVSd2oxVGNPam5STlJTSjVTZWVfWERiTVJfNlk2QlZ2aTRRa1ZvdTZqZVE3cE96R1hFWHlCQXgxd1MtWTlXXzl4YlpwZVRqeDdSVGx6TGZNUlBBQjFIRjRUVk1neF91Q2VG?oc=5" target="_blank">Ukrainian parliament dismisses Mykhailo Fedorov as digital transformation minister</a>&nbsp;&nbsp;<font color="#6f6f6f">Українська правда</font></li><li><a href="https://news.google.com/rss/articles/CBMivwFBVV95cUxQdU5kYVRkWXNhcm1zcHNhUTBJSnpLb19xcjkxZ1ZJVTg1TkFiUjI3a1liRFFyQkptMUw3WTJtTFVpdTN4OU14THJ2SEo4b0Y5VU1aaGFRaW9uUFo5NkJWU1ZsZXR3THp1SnhPeE5sWk9fYTh5c2N6bEEwZXlqWl9JdkQ5bEdxMXNzb0xkdEJGYkxSNEpYbDdQQ3FPZFFNcDFlNlR5cVMwbGFzVjVlRGcyYkM2VWY1M09OYmhsQkR6TdIBvgFBVV95cUxOOS1jN1I0RGhNeExNV0tORExEREJmT3o2VTZNUXg2ZmQyMXZlVFRrUllINEl2MHVOZzFLX0czV1JUOFc5azBTMnR5OWpFLVJjVE1tUGFLZktodEo0R1pmMUZ3REpjcXhxT2NBRkthLWx5NlZpS2lPeGpQT2lzOS12VnhBQ2xzUUdkdC15Y0Q0RlNWdjgtc1JEOXhzdllMQmRYZmZzVXMxU0t6RF9DNUNHRkdyM3FDM0w2TVpWdkNn?oc=5" target="_blank">The Rada prepares for appointments: faction leaders will hold a conciliatory meeting with Stefanchuk</a>&nbsp;&nbsp;<font color="#6f6f6f">Українські Національні Новини</font></li></ol>
