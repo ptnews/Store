@@ -1,0 +1,21 @@
+---
+title: "From partners to rivals: What the Saudi-UAE rupture means for Europeans - European Council on Foreign Relations"
+date: 2026-01-14
+description: "From partners to rivals: What the Saudi-UAE rupture means for Europeans&nbsp;&nbsp;European Council on Foreign RelationsThe Saudi Arabia-UAE Dispute Is About More Than Just Yemen&nbsp;&nbsp;Foreign PolicyThousands rally in support of Yemen's main separatist group&nbsp;&nbsp;ReutersIs the Saudi-UAE rivalry heading for more violence?&nbsp;&nbsp;Responsible StatecraftSaudi-UAE bust-up over Yemen was only a matter of time − and reflects wider rift over vision for the region&nbsp;&nbsp;The Conversa..."
+summary: "From partners to rivals: What the Saudi-UAE rupture means for Europeans&nbsp;&nbsp;European Council on Foreign RelationsThe Saudi Arabia-UAE Dispute Is About More Than Just Yemen&nbsp;&nbsp;Foreign PolicyThousands rally in support of Yemen's main separatist group&nbsp;&nbsp;ReutersIs the Saudi-UAE rivalry heading for more violence?&nbsp;&nbsp;Responsible StatecraftSaudi-UAE bust-up over Yemen was only a matter of time − and reflects wider rift over vision for the region&nbsp;&nbsp;The Conversa..."
+slug: "from-partners-to-rivals-what-the-saudi-uae-rupture-means-for-europeans-european-council-on-foreign-relations"
+image: ''
+link: 'https://news.google.com/rss/articles/CBMimwFBVV95cUxONWVDdXpjdHRhaVR3ODBuUXlCUlI5V3JZaDdTdnRvOTFDamEyb1RtVG5sci14R0RhU3dZcjRSamRhYkgxdndJT2FfaThwRnFZMXM3Tlp1Z2g2R0VvYXhBMzZmN09IS1JsZ3FwMjg4eDRuLXZudnBhcjJzbmNqOFAtTWlNQ1ZXVmJjQU9PZEJRdllyZWI3bkNOaksyb9IBoAFBVV95cUxOTlZXaEJ3SnQwTmNkNGhrb2tKUzg5NVZhR1V0UC00bHFaNkNyVTFZZFpkOHZhbGF4eS1BcEJXRWkyRTFBZVI1b1VWVnFKaG5ZMGlKeGxQSHpFV1FNUmVmMkpZQmo5TUxXS0hXQTdtak1BdVhlN3R2THUwYVZ3d3NsMVU3OEZoaC1yV1Q0akUxbFI0dmVCS3RSUGtDOU96ZEJG?oc=5'
+source: 'https://news.google.com/rss/topics/CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx1YlY4U0FtVnVHZ0pWVXlnQVAB?hl=en-US&gl=US&ceid=US:en'
+categories:
+- 'news.google.com'
+tags:
+- 'europeans'
+- 'relations'
+- 'partners'
+- 'european'
+- 'rupture'
+
+draft: false
+---
+<ol><li><a href="https://news.google.com/rss/articles/CBMimwFBVV95cUxONWVDdXpjdHRhaVR3ODBuUXlCUlI5V3JZaDdTdnRvOTFDamEyb1RtVG5sci14R0RhU3dZcjRSamRhYkgxdndJT2FfaThwRnFZMXM3Tlp1Z2g2R0VvYXhBMzZmN09IS1JsZ3FwMjg4eDRuLXZudnBhcjJzbmNqOFAtTWlNQ1ZXVmJjQU9PZEJRdllyZWI3bkNOaksyb9IBoAFBVV95cUxOTlZXaEJ3SnQwTmNkNGhrb2tKUzg5NVZhR1V0UC00bHFaNkNyVTFZZFpkOHZhbGF4eS1BcEJXRWkyRTFBZVI1b1VWVnFKaG5ZMGlKeGxQSHpFV1FNUmVmMkpZQmo5TUxXS0hXQTdtak1BdVhlN3R2THUwYVZ3d3NsMVU3OEZoaC1yV1Q0akUxbFI0dmVCS3RSUGtDOU96ZEJG?oc=5" target="_blank">From partners to rivals: What the Saudi-UAE rupture means for Europeans</a>&nbsp;&nbsp;<font color="#6f6f6f">European Council on Foreign Relations</font></li><li><a href="https://news.google.com/rss/articles/CBMif0FVX3lxTE9IbXE4Wl9aN3V5VjQxWWFDZzV1OTZMZi0xWWItTGlKNXk5MmdoaUtRYW1UWUhST2NxTlRlemxJWTA3dWw2YVNEVmtBQjN2SG1hUDRDbWVKWjFvdWVmQjFjOUJ0WWtnS1dGNjd4Z1hMQjZCZFdjWENJODJwMkdhN3M?oc=5" target="_blank">The Saudi Arabia-UAE Dispute Is About More Than Just Yemen</a>&nbsp;&nbsp;<font color="#6f6f6f">Foreign Policy</font></li><li><a href="https://news.google.com/rss/articles/CBMiogFBVV95cUxNRzlBZlpMdGw1ZWJLNjh2SHljbWR5MThjV1dWUnIwMEhyZkVzSGZWcGh6WVZ6TzdpMzlTMzRVNTQtRy16X01iYlFuNnc1Rm04c0pUc3FZSjVjVVNya0s4eDZ3czB1SVBJTkl6OW9NNlhlekpNU3Zkdnd6QTZ2SHFNVnNobkZ4Smt3TDFOTzY1ZVVmOFRyVER5LWRGQ1BGaERVR2c?oc=5" target="_blank">Thousands rally in support of Yemen's main separatist group</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font></li><li><a href="https://news.google.com/rss/articles/CBMiYEFVX3lxTE9wLTZnU3VfbWlXS1pNX0dqeWJFWFVLOC1wdkIxZF83YnY0dl93aUQtTGppR1hSOW41QVM3ZGtvSklqVEttWFplbkljb2dtSkRMSk1OaEI2ZmMzT2VrRTNYNg?oc=5" target="_blank">Is the Saudi-UAE rivalry heading for more violence?</a>&nbsp;&nbsp;<font color="#6f6f6f">Responsible Statecraft</font></li><li><a href="https://news.google.com/rss/articles/CBMi1wFBVV95cUxQSmJxTHRELVBqTjZwUDZBT2dkR0xFWjJNMGVNZ1JRM18zZjNRTk5leHdBTmx1ZEliTTFBMWs3Sy12bWV4dmYtaDBvcFlzWVNiTUNZbjJNT0lZcXhLRUsxdVk4NmoxTTBwcnZuczlESmxhY25WQjJaTHNKTFF4aEVibnROVmh3ZWMzYVBsUGtKeHNtU2I0MWF0WTlXS2lIWEUwMHI5YWlYZ3RLR2FXa3RXd0ZXOXpfM0JObWZNRk9obGpTRzVTS1prT1dnRXd5V3JJZGw1TkhsRQ?oc=5" target="_blank">Saudi-UAE bust-up over Yemen was only a matter of time − and reflects wider rift over vision for the region</a>&nbsp;&nbsp;<font color="#6f6f6f">The Conversation</font></li></ol>
