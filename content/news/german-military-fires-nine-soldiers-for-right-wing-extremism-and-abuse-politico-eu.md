@@ -1,0 +1,21 @@
+---
+title: "German military fires nine soldiers for right-wing extremism and abuse - politico.eu"
+date: 2026-01-15
+description: "German military fires nine soldiers for right-wing extremism and abuse&nbsp;&nbsp;politico.euGerman general 'shaken' by abuse cases in elite paratroop unit&nbsp;&nbsp;ReutersElite German army unit accused of sexual harassment, drug use and making Nazi salutes&nbsp;&nbsp;Financial TimesBundeswehr dismissed nine paratroopers after drug and sexual harassment scandal&nbsp;&nbsp;Українські Національні НовиниGerman military rocked by abuse reports as recruitment drive starts..."
+summary: "German military fires nine soldiers for right-wing extremism and abuse&nbsp;&nbsp;politico.euGerman general 'shaken' by abuse cases in elite paratroop unit&nbsp;&nbsp;ReutersElite German army unit accused of sexual harassment, drug use and making Nazi salutes&nbsp;&nbsp;Financial TimesBundeswehr dismissed nine paratroopers after drug and sexual harassment scandal&nbsp;&nbsp;Українські Національні НовиниGerman military rocked by abuse reports as recruitment drive starts..."
+slug: "german-military-fires-nine-soldiers-for-right-wing-extremism-and-abuse-politico-eu"
+image: ''
+link: 'https://news.google.com/rss/articles/CBMipgFBVV95cUxQbTVHZUJfeUVRQkN3QUlrYjg3LXpDazFMQnczcmdRQWNzdHdCTlpwMl9hNk9qN3dqV2dON01VTkU5OUVoeV9odDBiWXRJcjhNZGt3NE9IU2RBYXF4RTF3c3M4SzB1TVpwS25YMEpqUy1tSjlKcThtU1FGbUZRYnY3c0hkWXNJZDBMNi1hVG5vMHNJcTFiZDVVSHB0RzlkSVlsYWN2d3R3?oc=5'
+source: 'https://news.google.com/rss/topics/CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx1YlY4U0FtVnVHZ0pWVXlnQVAB?hl=en-US&gl=US&ceid=US:en'
+categories:
+- 'news.google.com'
+tags:
+- 'extremism'
+- 'military'
+- 'soldiers'
+- 'politico'
+- 'german'
+
+draft: false
+---
+<ol><li><a href="https://news.google.com/rss/articles/CBMipgFBVV95cUxQbTVHZUJfeUVRQkN3QUlrYjg3LXpDazFMQnczcmdRQWNzdHdCTlpwMl9hNk9qN3dqV2dON01VTkU5OUVoeV9odDBiWXRJcjhNZGt3NE9IU2RBYXF4RTF3c3M4SzB1TVpwS25YMEpqUy1tSjlKcThtU1FGbUZRYnY3c0hkWXNJZDBMNi1hVG5vMHNJcTFiZDVVSHB0RzlkSVlsYWN2d3R3?oc=5" target="_blank">German military fires nine soldiers for right-wing extremism and abuse</a>&nbsp;&nbsp;<font color="#6f6f6f">politico.eu</font></li><li><a href="https://news.google.com/rss/articles/CBMioAFBVV95cUxPZFltVV9mb2xZams1RUpOSWk2b3NJT3RHdlM2N0dpNTlHaTdWeGxZdkxJbUhsc3FnUWxjXzdvUmdUTktkM3p1anNQYkFsNEEyeWZpUFdBek5jcEhIRmdtNTZEQVhwVUZZZndvTzBMc3BZbW5ic2drNGRBT0trY01zZThsRUdLbnB2UTBMNlVjSHZaUktFY2FjN1p3TXlKRnFI?oc=5" target="_blank">German general 'shaken' by abuse cases in elite paratroop unit</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font></li><li><a href="https://news.google.com/rss/articles/CBMicEFVX3lxTE4xcFdxUGJtSURITzQwQWNUelBmUEVIemJSc2l6SjNSZnVLdkd6QUgtbHkxWmlNTW5KVFFTTUVTbGZpQXdlbUpSLTBuT0x1TGNPT01wNWRmdndtTGYtQm51VUdReFFTM094RWtXcFN5WGk?oc=5" target="_blank">Elite German army unit accused of sexual harassment, drug use and making Nazi salutes</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font></li><li><a href="https://news.google.com/rss/articles/CBMipAFBVV95cUxNWG1ic25acWZrUUZiTmJGTmlqMXgxZmJiZTFxd3lIZ2RGNnkwemQ5V2Z3QzVoMXlXVjNwQ1RVWFBQWFBjRzh1OFFjNTMtMDFqWk1DV0RVNl9yTXdKeVpIdjRvTlVMOG9MdTBaSGxlcTdUb3NHWVJOdFJ5d0RNVl9iVlloeUE1c0UwX0RpcEJxRGRhQmVOa1gyU1V4ZTNJUWJRQzNNd9IBowFBVV95cUxPQ3ozZDZhYThRckV3QnR5YW96UUpvSWNKWnRoVGgwSkdqM1AyZTZ3VzFTc1JMNTE4a0VLeVo4bnNhZE5rYzRBM3Zrb0RrbWlsdzR5Uy1wb1RjYXpxNGJuNG9PZm5JeGh5a29TUWdkeVBFbXBYUVZpdHdmaEt2RnlucWZMNldZZERoSGNjMzFOdU9CNUxzRzRNdGlRUUt5ZDRRaGVv?oc=5" target="_blank">Bundeswehr dismissed nine paratroopers after drug and sexual harassment scandal</a>&nbsp;&nbsp;<font color="#6f6f6f">Українські Національні Новини</font></li><li><a href="https://news.google.com/rss/articles/CBMipAFBVV95cUxQMkdKYmkyYmU1UnN4b1J4UlFaWWxPbjVGWFhCZm5KREw4OUJvV3JQNV9SczNOSEVaVEliNXVlZ3lQS1R0T2c3a0hJYkJ2aWJRdTRBRmowRExfRUNlV2NKaFRCMzRCcl92MlpvR3dKT3EwRUZMMm1GcUVDdFo3U2xfX1NuZTR1V0t5N2lVQzFzaHdZS0hlOXAtdHhCeVVpeU5zaVFUNNIBqgFBVV95cUxQajJFWFdIR2toWjdpcnVnMURpOHp0ZDJCbi1CcXN2N0pvb3BHakZOUERpMGNwclZSTVFIWG9YbzBBX2wxbFJBdUpKak9tcHRCVUg5SG9abkJZUy0ydUNKSXp5cWV6cUxhTVpNaExVclFyWVZ2Qkd3M0JTNFg3RWUyZFdMdkk2ZjNsY0FEWVR1dmhxSGFYMXBwUFp5QmZiZVRpQTVEZEVHMnVPQQ?oc=5" target="_blank">German military rocked by abuse reports as recruitment drive starts</a>&nbsp;&nbsp;<font color="#6f6f6f">ThePrint</font></li></ol>

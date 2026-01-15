@@ -1,0 +1,21 @@
+---
+title: "U.S. thinks Hamas is ready to demilitarize as Gaza deal moves to \"phase two\" - Axios"
+date: 2026-01-15
+description: "U.S. thinks Hamas is ready to demilitarize as Gaza deal moves to \"phase two\"&nbsp;&nbsp;AxiosWho is Nickolay Mladenov, the diplomat tasked with ‘disarming Gaza’?&nbsp;&nbsp;Al JazeeraNetanyahu says the announced start of Gaza ceasefire’s next phase is a ‘declarative move’&nbsp;&nbsp;AP NewsHamas says group is ready to hand over Gaza governance to Palestinian technocrat committee&nbsp;&nbsp;HaaretzUS announces start of second phase of Gaza ceasefire&nbsp;&nbsp;The Guardian"
+summary: "U.S. thinks Hamas is ready to demilitarize as Gaza deal moves to \"phase two\"&nbsp;&nbsp;AxiosWho is Nickolay Mladenov, the diplomat tasked with ‘disarming Gaza’?&nbsp;&nbsp;Al JazeeraNetanyahu says the announced start of Gaza ceasefire’s next phase is a ‘declarative move’&nbsp;&nbsp;AP NewsHamas says group is ready to hand over Gaza governance to Palestinian technocrat committee&nbsp;&nbsp;HaaretzUS announces start of second phase of Gaza ceasefire&nbsp;&nbsp;The Guardian"
+slug: "u-s-thinks-hamas-is-ready-to-demilitarize-as-gaza-deal-moves-to-phase-two-axios"
+image: ''
+link: 'https://news.google.com/rss/articles/CBMie0FVX3lxTE9oUXVFcndiTVVPdzJpb1VzV1Jqc1ZuY1hpbUpzbF8tWEpaeVFYalFybEFOcGh5ZUktS2RUMTNrXzc0d3BWWmUwZlZzamkyWkdtZlhyZDQ4UjNwM2xMd3Vfa21zZUttTDd4cDh2M2NGWjhIdUgwcmRoS0dDQQ?oc=5'
+source: 'https://news.google.com/rss/topics/CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx1YlY4U0FtVnVHZ0pWVXlnQVAB?hl=en-US&gl=US&ceid=US:en'
+categories:
+- 'news.google.com'
+tags:
+- 'demilitarize'
+- 'thinks'
+- 'hamas'
+- 'ready'
+- 'moves'
+
+draft: false
+---
+<ol><li><a href="https://news.google.com/rss/articles/CBMie0FVX3lxTE9oUXVFcndiTVVPdzJpb1VzV1Jqc1ZuY1hpbUpzbF8tWEpaeVFYalFybEFOcGh5ZUktS2RUMTNrXzc0d3BWWmUwZlZzamkyWkdtZlhyZDQ4UjNwM2xMd3Vfa21zZUttTDd4cDh2M2NGWjhIdUgwcmRoS0dDQQ?oc=5" target="_blank">U.S. thinks Hamas is ready to demilitarize as Gaza deal moves to "phase two"</a>&nbsp;&nbsp;<font color="#6f6f6f">Axios</font></li><li><a href="https://news.google.com/rss/articles/CBMirgFBVV95cUxNZDNFbHd6bHNpWVJvbzhtVWZVR0ZaTVNxekQ1Y25BN3o3VFZfYkJjMHpxOHM5SzlVTXJpbVBkTEloRHFZa25tN2RHSG45Z093S2dvWDdlMGkyTndOU2F2czNYWW5pRHFvaHBmdnlQZVMxWkt3bkEwdlJDclhaT0pyR1NXVGJDRTRWeHRBOHNPX3R1ZFVpYmNNdXRGaldMQmtFam1PY0thQkpLZk0tVnfSAbMBQVVfeXFMTUhSUWVMbEdUc1ljMlZYbjVZbWFQQ21xWXpiYUdrTkRxVjRQTHdKNFdGcHFBU0Z1QWgtcVYzem9rbkx1RlhmQXNkYTVSdEMwcVUwNkM0R2pvUWFreHRaNlhmWkxxSUVsblFEVHRBYkxzbHc5R1RNTHVubFVTdzZ4T1BqMGRIZWlWSnBldEFOd0ptS2NWOW5MRFY1WjdUNllaeFFzX1VPZUV6Njg2SlYweGlEdkE?oc=5" target="_blank">Who is Nickolay Mladenov, the diplomat tasked with ‘disarming Gaza’?</a>&nbsp;&nbsp;<font color="#6f6f6f">Al Jazeera</font></li><li><a href="https://news.google.com/rss/articles/CBMirwFBVV95cUxQQlZJb2VIUjVYelRSOUUyMFhUMGluT1FRbmhVWmgxd3N5SDl4aUxFNWJHSFd0STNJbmN5Z2Z6QXVGWnZyMU9fVFVIY3BxR3BPbkx6N3JYZHBlUXUwMnFrLTcwcjgtTTBSdWZsYmtNaHV6RExmOXo5REhuNERScEIyV200ZTMzNFR4Tmptck52QV9NY0lJSHQ3SGZOYk11TC1mNVB2TVNhSVItdzNvTGw4?oc=5" target="_blank">Netanyahu says the announced start of Gaza ceasefire’s next phase is a ‘declarative move’</a>&nbsp;&nbsp;<font color="#6f6f6f">AP News</font></li><li><a href="https://news.google.com/rss/articles/CBMimAJBVV95cUxQS2lPVWJmb3pESndjelVYUFBzanhfOWxyZElJR1VXSHlrdlhzTUx6bF9ueHlZVU9CT1lNLTUyRzFpZ2pSd2ZiQlc4M2xTUWFmLTJ5T3RJSVlEdUlMenAyalM3VzBqS2dobWpQd2poVWJrQ0Y5ckV4ZGJVempfNVZNcWdkMVZNZV9yNzZOT2k0amFCbUJWSEFlYlZpMGpGQ1h4TXB2R3Q1azBYMG5DaXhuczBVMnBIbGtKLWxzQVJXSTdQVGFtY2ZUMzZ4OE1sZ0dfVjVnTEhUbHdrbFFHc2dyVkRybUJoOHlBQV9PSG15NDdIdXl5Y3NlY3Y1a0t6TlFXdmt1ZTgxSXBfYzVscEdLbEJKenEzaXUx?oc=5" target="_blank">Hamas says group is ready to hand over Gaza governance to Palestinian technocrat committee</a>&nbsp;&nbsp;<font color="#6f6f6f">Haaretz</font></li><li><a href="https://news.google.com/rss/articles/CBMipgFBVV95cUxNd0tRMkhMVlJraW9tTC0zWXhVMDN2U0ZXWjV6RkwtTGJXQkJlVUR1T3VWbXN6YlpIR19ZY2syVTIxUGdsQlJzbDlwMVlGaUs3REhaSjVITk9TQ1FnbVZzY3RKRmFMNlY3WnNJMWJDUEJrbkZ3T3lKVUFjMkEwZkFXNFNkVHYzQ1VBbGNqNUkya1FBNXA1Zkh2eDBGVkRzWG9yZUdCdk5B?oc=5" target="_blank">US announces start of second phase of Gaza ceasefire</a>&nbsp;&nbsp;<font color="#6f6f6f">The Guardian</font></li></ol>
