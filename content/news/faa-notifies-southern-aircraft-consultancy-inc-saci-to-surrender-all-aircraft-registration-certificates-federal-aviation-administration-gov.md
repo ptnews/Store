@@ -1,0 +1,21 @@
+---
+title: "FAA Notifies Southern Aircraft Consultancy Inc. (SACI) to Surrender All Aircraft Registration Certificates - Federal Aviation Administration (.gov)"
+date: 2026-01-15
+description: "FAA Notifies Southern Aircraft Consultancy Inc. (SACI) to Surrender All Aircraft Registration Certificates&nbsp;&nbsp;Federal Aviation Administration (.gov)FAA Grounds 800 Aircraft Due to Invalid Registrations under Trustee SACI&nbsp;&nbsp;Aviation International NewsFAA Orders UK Company To Surrender Certificates&nbsp;&nbsp;Aviation Week NetworkAir Search grounded due to registration issue&nbsp;&nbsp;Bailiwick ExpressWhy has the FAA ordered SACI to surrender aircraft registration certificates?&n..."
+summary: "FAA Notifies Southern Aircraft Consultancy Inc. (SACI) to Surrender All Aircraft Registration Certificates&nbsp;&nbsp;Federal Aviation Administration (.gov)FAA Grounds 800 Aircraft Due to Invalid Registrations under Trustee SACI&nbsp;&nbsp;Aviation International NewsFAA Orders UK Company To Surrender Certificates&nbsp;&nbsp;Aviation Week NetworkAir Search grounded due to registration issue&nbsp;&nbsp;Bailiwick ExpressWhy has the FAA ordered SACI to surrender aircraft registration certificates?&n..."
+slug: "faa-notifies-southern-aircraft-consultancy-inc-saci-to-surrender-all-aircraft-registration-certificates-federal-aviation-administration-gov"
+image: ''
+link: 'https://news.google.com/rss/articles/CBMitwFBVV95cUxOQUl1TnkySnE1UUZmQV93cjdPLUFvSEcwenNCbVplS3pST2RxTmxKYWk4dnVuZHdQZko0SDczWWMtTThEakg1eTlEOEhWU2N6d29vb0pXWjRjN2pmVjZFd0ExSnF6M0Q5ZTd5bnppZ1N0WldwelFnckU3ZEY4SXBJZ2lHQklHU3NGc0RidHo1NXlYa3BxbGpvb2k0RWQ1VFRuSnRobDFzcWp6c1BsLVR2SWpaSXFlNFU?oc=5'
+source: 'https://news.google.com/rss/topics/CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx1YlY4U0FtVnVHZ0pWVXlnQVAB?hl=en-US&gl=US&ceid=US:en'
+categories:
+- 'news.google.com'
+tags:
+- 'administration'
+- 'registration'
+- 'certificates'
+- 'consultancy'
+- 'surrender'
+
+draft: false
+---
+<ol><li><a href="https://news.google.com/rss/articles/CBMitwFBVV95cUxOQUl1TnkySnE1UUZmQV93cjdPLUFvSEcwenNCbVplS3pST2RxTmxKYWk4dnVuZHdQZko0SDczWWMtTThEakg1eTlEOEhWU2N6d29vb0pXWjRjN2pmVjZFd0ExSnF6M0Q5ZTd5bnppZ1N0WldwelFnckU3ZEY4SXBJZ2lHQklHU3NGc0RidHo1NXlYa3BxbGpvb2k0RWQ1VFRuSnRobDFzcWp6c1BsLVR2SWpaSXFlNFU?oc=5" target="_blank">FAA Notifies Southern Aircraft Consultancy Inc. (SACI) to Surrender All Aircraft Registration Certificates</a>&nbsp;&nbsp;<font color="#6f6f6f">Federal Aviation Administration (.gov)</font></li><li><a href="https://news.google.com/rss/articles/CBMivwFBVV95cUxPSm5JUHZ1dnVvYlloZTZQT0dHbUVTVEYzV2ZBR053QVRVSXQ1WkItN0ViLXdYSjlTTVAtZWdQZWJVZmxXdFFKci1UbkEtUm9MeHljbGU1dUdZTmhKUjlvbjZrUGpPTlBBSVNXZW1uakxxTm1lT1Y1enNFTTlWOU5qZF9EWnk0aVhpMlFCcUowU3ltam9ubVFXOXU5N1F1SHN4ZlhuYk9TRE9kbm0wTEVuZjcyazkwUmhlWlBQT0h1bw?oc=5" target="_blank">FAA Grounds 800 Aircraft Due to Invalid Registrations under Trustee SACI</a>&nbsp;&nbsp;<font color="#6f6f6f">Aviation International News</font></li><li><a href="https://news.google.com/rss/articles/CBMirgFBVV95cUxQcHFtdDAzdWFuU3lGX3FCMTNqNUY1d2JieWF4VXZ4azN2aTF2NFRDaHNYdEFUSjJLWWxTNlFTUEwweW9iVHZUSHlOOW85WFZoRzVhTHJzREdjS2V2N1oxYmhBTmFnSWFJamt2YThZdGY2QzdTYUpsS3dud29lNEJxNWRlWkNqaWVGSnhLTmZGTjFTRVUzSU5WOGJac1NZOW4yR1NhR2MteFU0dmMzcEE?oc=5" target="_blank">FAA Orders UK Company To Surrender Certificates</a>&nbsp;&nbsp;<font color="#6f6f6f">Aviation Week Network</font></li><li><a href="https://news.google.com/rss/articles/CBMikAFBVV95cUxPNWZpZEItbEZfdXRLZ2FVZkVvOEtPbUcyWmMzZzFpMFhaMkNTZWZpaUZkV0NmZU5LTmlFdzk0SDJZM2dlSGE5blJpNzcxM051bXBJX0JfTkIySnh3Ynk4cE5RaFhPUWVLM3BKLVoyVGNSWl9Bb1NxSU5pTFR4NFVHa3g0aW8wMU9QNEp0SlFzeXA?oc=5" target="_blank">Air Search grounded due to registration issue</a>&nbsp;&nbsp;<font color="#6f6f6f">Bailiwick Express</font></li><li><a href="https://news.google.com/rss/articles/CBMitAFBVV95cUxPbFh2S19TZU9FSFNHd200cFY4dHpCY2xBOExzYlVsby1uQ0RTUUY5QmFlSU9aZVM0bWJyT2JzbkFkeENGbnFOUGhpR0xpUmtoaldPR2F2cnNYbGdlQ3hWNUxodzdvRm0yUmVjLUE5Tm9xbVBzdW9lQlhXVmtLTzllcDFuNnE4eGs0dWxOR2t3dkt5bXhwSHBqR0xPcG5qcjVWTTROTnV5UlZZM3VZVi1QcExzWW0?oc=5" target="_blank">Why has the FAA ordered SACI to surrender aircraft registration certificates?</a>&nbsp;&nbsp;<font color="#6f6f6f">Aerospace Global News</font></li></ol>

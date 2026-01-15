@@ -1,0 +1,21 @@
+---
+title: "Trump suspends immigrant visas for 75 countries: Who’s affected? - Al Jazeera"
+date: 2026-01-15
+description: "Trump suspends immigrant visas for 75 countries: Who’s affected?&nbsp;&nbsp;Al JazeeraUS suspending immigrant visa processing for 75 countries&nbsp;&nbsp;CNNU.S. freezes new immigrant visas for 75 countries: See the full list&nbsp;&nbsp;CNBCTrump administration to suspend immigrant visa processing for 75 nations&nbsp;&nbsp;ReutersA Guide to the Countries on Trump’s Travel Ban List&nbsp;&nbsp;Council on Foreign Relations"
+summary: "Trump suspends immigrant visas for 75 countries: Who’s affected?&nbsp;&nbsp;Al JazeeraUS suspending immigrant visa processing for 75 countries&nbsp;&nbsp;CNNU.S. freezes new immigrant visas for 75 countries: See the full list&nbsp;&nbsp;CNBCTrump administration to suspend immigrant visa processing for 75 nations&nbsp;&nbsp;ReutersA Guide to the Countries on Trump’s Travel Ban List&nbsp;&nbsp;Council on Foreign Relations"
+slug: "trump-suspends-immigrant-visas-for-75-countries-who-s-affected-al-jazeera"
+image: ''
+link: 'https://news.google.com/rss/articles/CBMipAFBVV95cUxPTjVzTnptLUJrX3dSU2tlVUVfRnJqdFRJaFNuN1VkMjB3bl9Wb25VZGFJYXFOb0RRTGdvXzVQTFpza3pkY3BpX1FPNmF3ZUdXbnlLUndsZ2lmS1ExV1RjZzAxcklaazBRbzU2bUNSODB5S3VIQjF2eHZ3aGtoR1Y1Y0dvWUlCS0V2aTdKbGVMLU9VeFpNZC1hM2VkaFkxZUZzeTFfWdIBqgFBVV95cUxPRjM2TzlGS2dycGVwNHRFdnVvNEdZMEI1VlplOGlid1FveUxfeFZRMGlXZmhORlBvM2VUNUNWWHYyUmROaDFfVlRUbEJaNl9MWlZhbG1fYS1rOC10ekl5N0tRcnJndG1fXzJ4c3JuT2NnY2VzTmt4cVZWejhOMm5QbmpZOC1FWV9Gbm5yN2JpN2N1eF9vLXlHeUFFUUFNYzhzbTBFLWpkaEU4QQ?oc=5'
+source: 'https://news.google.com/rss/topics/CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx1YlY4U0FtVnVHZ0pWVXlnQVAB?hl=en-US&gl=US&ceid=US:en'
+categories:
+- 'news.google.com'
+tags:
+- 'immigrant'
+- 'countries'
+- 'suspends'
+- 'affected'
+- 'jazeera'
+
+draft: false
+---
+<ol><li><a href="https://news.google.com/rss/articles/CBMipAFBVV95cUxPTjVzTnptLUJrX3dSU2tlVUVfRnJqdFRJaFNuN1VkMjB3bl9Wb25VZGFJYXFOb0RRTGdvXzVQTFpza3pkY3BpX1FPNmF3ZUdXbnlLUndsZ2lmS1ExV1RjZzAxcklaazBRbzU2bUNSODB5S3VIQjF2eHZ3aGtoR1Y1Y0dvWUlCS0V2aTdKbGVMLU9VeFpNZC1hM2VkaFkxZUZzeTFfWdIBqgFBVV95cUxPRjM2TzlGS2dycGVwNHRFdnVvNEdZMEI1VlplOGlid1FveUxfeFZRMGlXZmhORlBvM2VUNUNWWHYyUmROaDFfVlRUbEJaNl9MWlZhbG1fYS1rOC10ekl5N0tRcnJndG1fXzJ4c3JuT2NnY2VzTmt4cVZWejhOMm5QbmpZOC1FWV9Gbm5yN2JpN2N1eF9vLXlHeUFFUUFNYzhzbTBFLWpkaEU4QQ?oc=5" target="_blank">Trump suspends immigrant visas for 75 countries: Who’s affected?</a>&nbsp;&nbsp;<font color="#6f6f6f">Al Jazeera</font></li><li><a href="https://news.google.com/rss/articles/CBMilwFBVV95cUxNZU10QzJSV0g5TVgtRzhaSjR3Qno0Q0RtcExMeU1WbjlSOEhKRFpma3N2VmZvOVoyRnMtQ1lzSWlVeVAzcEZyZVlIUXFCV19fNk90akt0X3RhTUJEZ1pKOFd2ZXpjV1JSNGhKS2h3bEhnQ3pWRHIxZ3FCS3VUWmdYS3dNVzlnSGRFOElNTzEzbGZPa2QxYWZz?oc=5" target="_blank">US suspending immigrant visa processing for 75 countries</a>&nbsp;&nbsp;<font color="#6f6f6f">CNN</font></li><li><a href="https://news.google.com/rss/articles/CBMinAFBVV95cUxPTHFPYmRaTGxXMEJ0NXhxbXF1SjhKWEI0VFRGQXFjdWVHWEUtY3JpeFBlaEw4Q1RxV0VPMUQxNW1CRHBZX2FRcC1oTWVGNWRianJQRzlzWF9BMzRObjB1Q0ptbXI2MkZ6YURwcElnVmF5U3RVNkF5bXY5d09VM0N2UkdQRHpld2lzdWF2RlZsbk5sMi1DeVBReVY5OVrSAaIBQVVfeXFMTVloOHZMckpxUkd6M2lFVVNQVGJxT0V1NXczZlZ0d0NDYW9jRkVxUkw2b0daTlBPdGVLTmc5XzZqcWVKb2g5dmtLSFp5Mll0ZHNDR2ZRTUxaNFdaaGRLZjRJZkwxcGEyRU9IbExpSE8xN3NEQWNjeDFvRjh1UkRrWEFsSGFkVzgzbEVZVGJBbVQ0bGlNbVJ6WXdwWDRhVUYwNzhn?oc=5" target="_blank">U.S. freezes new immigrant visas for 75 countries: See the full list</a>&nbsp;&nbsp;<font color="#6f6f6f">CNBC</font></li><li><a href="https://news.google.com/rss/articles/CBMirgFBVV95cUxNUGhqclJaQS1HOW5DMUFwcmRsVEJPdEFjdkZXRWlkd0xFUE9SMElwRTZwU1dTdjNxVlIyaHpBVGdJclBlRTNXaU1uRnFVYkNvTXhrWUVZOC12MDhPeUVzR3REX0VDOFk2X19zZHRXSHIybWhudHNtS1pPNUFiQ0U3dHlKODloSXgyN0Nod1dCLVZUOFJaandMb0Q3MGRJSlJyR2hXV0pUejAxMW1ncUE?oc=5" target="_blank">Trump administration to suspend immigrant visa processing for 75 nations</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font></li><li><a href="https://news.google.com/rss/articles/CBMidEFVX3lxTE1ZbXBsRkpFRWFmOU9EVXZwWlJZcENqQUxwdS1wOEp5aUJ0dXdEVXNhSkR6UXFEUFFkMVVVdC1jTUVIOTZuRm9la0d0aXBHM2FGRnZ5VmJUUm1Wel90SGR0QU5yYmpUSC1mSTBybnhCRmFrcUpv?oc=5" target="_blank">A Guide to the Countries on Trump’s Travel Ban List</a>&nbsp;&nbsp;<font color="#6f6f6f">Council on Foreign Relations</font></li></ol>

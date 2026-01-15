@@ -1,0 +1,21 @@
+---
+title: "At least 28 people killed as crane falls on train in northeast Thailand - Al Jazeera"
+date: 2026-01-15
+description: "At least 28 people killed as crane falls on train in northeast Thailand&nbsp;&nbsp;Al Jazeera'It was terrifying': Residents describe carnage after Thai train crash&nbsp;&nbsp;BBCMultiple fatalities as construction crane collapses onto moving train in Thailand&nbsp;&nbsp;CNNAt Least 31 Dead, Dozens More Injured After Construction Crane Collapses onto Moving Passenger Train&nbsp;&nbsp;People.comThailand Has 2nd Deadly Incident Involving a Crane in 2 Days&nbsp;&nbsp;The New York Times"
+summary: "At least 28 people killed as crane falls on train in northeast Thailand&nbsp;&nbsp;Al Jazeera'It was terrifying': Residents describe carnage after Thai train crash&nbsp;&nbsp;BBCMultiple fatalities as construction crane collapses onto moving train in Thailand&nbsp;&nbsp;CNNAt Least 31 Dead, Dozens More Injured After Construction Crane Collapses onto Moving Passenger Train&nbsp;&nbsp;People.comThailand Has 2nd Deadly Incident Involving a Crane in 2 Days&nbsp;&nbsp;The New York Times"
+slug: "at-least-28-people-killed-as-crane-falls-on-train-in-northeast-thailand-al-jazeera"
+image: ''
+link: 'https://news.google.com/rss/articles/CBMitgFBVV95cUxQNG5NNmJWWENXOGhhelA4QUctRXFjVkdLeDN4TjFGWHFSQUFKS19RMEtpQUl4NWd5dmtVb19HeDlLTjcwN2lEaG1LSEtyeXEyN3lzcnRiSHhCREx2MEVYMFh0Q2F2RENObkdXVXZGdm9ROGlObnZ0RHU5NlNUVkdjR3hMYWN1cnhFLW15OExlSllpYzQxRlpZREpEeHpYY0xPajVsQS1BUHBULTI3VUNpYUhxNkxnQdIBuwFBVV95cUxNQ0U2M2xqa3A5aTh6WG9VbXkybVkyTlhyLXdDTXQzRzRfZ3lXR0pRN0piNnZZdzhsemRMUkwtbXJYdURqVVhEbURTOFk0LVE3MW1fM01sc0V4OXY4S2pXU3BVRS1uWVp0VHJCbkNWZ3NGWHh3Mno3UW9SdHBTRnFNT0NUY1l2U1FpUVdxY0xEZ0ttMWNYbkVkQ3ZJbDlrd3ZwNTNZcHYwRFliYUs0WWxyRHBNRkhqaFVEOXV3?oc=5'
+source: 'https://news.google.com/rss/topics/CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx1YlY4U0FtVnVHZ0pWVXlnQVAB?hl=en-US&gl=US&ceid=US:en'
+categories:
+- 'news.google.com'
+tags:
+- 'northeast'
+- 'thailand'
+- 'jazeera'
+- 'people'
+- 'killed'
+
+draft: false
+---
+<ol><li><a href="https://news.google.com/rss/articles/CBMitgFBVV95cUxQNG5NNmJWWENXOGhhelA4QUctRXFjVkdLeDN4TjFGWHFSQUFKS19RMEtpQUl4NWd5dmtVb19HeDlLTjcwN2lEaG1LSEtyeXEyN3lzcnRiSHhCREx2MEVYMFh0Q2F2RENObkdXVXZGdm9ROGlObnZ0RHU5NlNUVkdjR3hMYWN1cnhFLW15OExlSllpYzQxRlpZREpEeHpYY0xPajVsQS1BUHBULTI3VUNpYUhxNkxnQdIBuwFBVV95cUxNQ0U2M2xqa3A5aTh6WG9VbXkybVkyTlhyLXdDTXQzRzRfZ3lXR0pRN0piNnZZdzhsemRMUkwtbXJYdURqVVhEbURTOFk0LVE3MW1fM01sc0V4OXY4S2pXU3BVRS1uWVp0VHJCbkNWZ3NGWHh3Mno3UW9SdHBTRnFNT0NUY1l2U1FpUVdxY0xEZ0ttMWNYbkVkQ3ZJbDlrd3ZwNTNZcHYwRFliYUs0WWxyRHBNRkhqaFVEOXV3?oc=5" target="_blank">At least 28 people killed as crane falls on train in northeast Thailand</a>&nbsp;&nbsp;<font color="#6f6f6f">Al Jazeera</font></li><li><a href="https://news.google.com/rss/articles/CBMiWkFVX3lxTE13eHlZQ1dCcWZEUUMyTDJyNFJncTJNa0NHVVExNE9UNlpUSGFrYUY1OWdHclhTWHR3bEtuQ1JkZ0VzOEpIZUs5WXNTLWdXV2FGRlhqZWNyWGlWdw?oc=5" target="_blank">'It was terrifying': Residents describe carnage after Thai train crash</a>&nbsp;&nbsp;<font color="#6f6f6f">BBC</font></li><li><a href="https://news.google.com/rss/articles/CBMidEFVX3lxTE5VMlVUd2ZkQ3hzNmlfSXdEdUNyNjlycDNsaGRJb2l1NmVwSnlieWUzTmpXWFdDMl9kUHNfRE5HWVd1VlJlWDVUR1JDazBXbGpRNmllUDFmOUNNSHE2dnJjeVdVRzVJWFVrb3E4OUgyRUVNN0Rj?oc=5" target="_blank">Multiple fatalities as construction crane collapses onto moving train in Thailand</a>&nbsp;&nbsp;<font color="#6f6f6f">CNN</font></li><li><a href="https://news.google.com/rss/articles/CBMisAFBVV95cUxPYWJjNE1UUERyY1g2aFVieDR4S0xjZzJqeTM2a25Kamh1NVQwRG1Ma2V4clVvSXBLN2FqMFdSUVpKYnFlbTh2bWlVd0ZHeTJyWWFTSHNneUVxSk5lNFJoU2J4d1VjRlRxZG56d2xSaXBkd2FCanFHWFNtNkQ2V0hfazJTbTM5VWwyUTJJV2V1MVR6VnlHdjZiQlZCdDJuWkI0ZHBLTDdHRENWSU1mV2xkcA?oc=5" target="_blank">At Least 31 Dead, Dozens More Injured After Construction Crane Collapses onto Moving Passenger Train</a>&nbsp;&nbsp;<font color="#6f6f6f">People.com</font></li><li><a href="https://news.google.com/rss/articles/CBMiigFBVV95cUxPbnpNQUhBQXVVbVAtOWJ6RHhRRnVSWTJsQzU2cHVlYnZsLWpCbTc1ZVB0VHNYN043UFNWaHRoaG9RVlBEUEpTLXFYUlA2QTJXZkl1VnZ4OXhnTlhZT2RzMmhhbVNCOWltX2ExeFBILUhaMzV4SDVONnplbjF1a0k3TEVrYUNPVHZQSXc?oc=5" target="_blank">Thailand Has 2nd Deadly Incident Involving a Crane in 2 Days</a>&nbsp;&nbsp;<font color="#6f6f6f">The New York Times</font></li></ol>

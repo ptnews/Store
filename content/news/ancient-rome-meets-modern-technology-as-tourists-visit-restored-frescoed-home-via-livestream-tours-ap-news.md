@@ -1,0 +1,21 @@
+---
+title: "Ancient Rome meets modern technology as tourists visit restored, frescoed home via livestream tours - AP News"
+date: 2026-01-15
+description: "Ancient Rome meets modern technology as tourists visit restored, frescoed home via livestream tours&nbsp;&nbsp;AP NewsLong-Buried Roman House Opens After Major Restoration—With a High-Tech Twist&nbsp;&nbsp;Artnet NewsAncient Roman home opens to the public - with remote guided tours&nbsp;&nbsp;ReutersAncient Rome meets modern technology as tourists visit an ancient home via livestream tours&nbsp;&nbsp;ABC NewsItaly Palatine Hill&nbsp;&nbsp;The Herald Journal"
+summary: "Ancient Rome meets modern technology as tourists visit restored, frescoed home via livestream tours&nbsp;&nbsp;AP NewsLong-Buried Roman House Opens After Major Restoration—With a High-Tech Twist&nbsp;&nbsp;Artnet NewsAncient Roman home opens to the public - with remote guided tours&nbsp;&nbsp;ReutersAncient Rome meets modern technology as tourists visit an ancient home via livestream tours&nbsp;&nbsp;ABC NewsItaly Palatine Hill&nbsp;&nbsp;The Herald Journal"
+slug: "ancient-rome-meets-modern-technology-as-tourists-visit-restored-frescoed-home-via-livestream-tours-ap-news"
+image: ''
+link: 'https://news.google.com/rss/articles/CBMiswFBVV95cUxPNy1yVFV4ZXVkM0xUYkdwcnprTU9abFJCQ0lqSzJFV1c4WUhod0xKa1BWaXQ5TnY0WFBSZWd3YWt0cG8xemJsUFdsdDdNZ3paSWZ5d3QxY0F3bi1BQnZIdzZhNVIxSnlvNHd4M19ZRVBVUzFjeFlXVHB0MGNrMlFUbkFHcEk1WWdUVHRsNUllNTRwZHB5alBEU0lTVEs1X2FULXFrV3FvVXJJVjVJSlRaUDlIQQ?oc=5'
+source: 'https://news.google.com/rss/topics/CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx1YlY4U0FtVnVHZ0pWVXlnQVAB?hl=en-US&gl=US&ceid=US:en'
+categories:
+- 'news.google.com'
+tags:
+- 'technology'
+- 'livestream'
+- 'tourists'
+- 'restored'
+- 'frescoed'
+
+draft: false
+---
+<ol><li><a href="https://news.google.com/rss/articles/CBMiswFBVV95cUxPNy1yVFV4ZXVkM0xUYkdwcnprTU9abFJCQ0lqSzJFV1c4WUhod0xKa1BWaXQ5TnY0WFBSZWd3YWt0cG8xemJsUFdsdDdNZ3paSWZ5d3QxY0F3bi1BQnZIdzZhNVIxSnlvNHd4M19ZRVBVUzFjeFlXVHB0MGNrMlFUbkFHcEk1WWdUVHRsNUllNTRwZHB5alBEU0lTVEs1X2FULXFrV3FvVXJJVjVJSlRaUDlIQQ?oc=5" target="_blank">Ancient Rome meets modern technology as tourists visit restored, frescoed home via livestream tours</a>&nbsp;&nbsp;<font color="#6f6f6f">AP News</font></li><li><a href="https://news.google.com/rss/articles/CBMijAFBVV95cUxOdkxGeF93NXFNTGIxck93N3ZwY0ZVWmlGTlJMcmZIeTBlVFhBMWw2MW85WFNWZFZ1c3BxYm5jU2ZSdnhmbllKSHdEeFVBZFJMWUE5Z3RHNFZaV3N4SVE2UHR0cXBGcjdhNmRFNk02UkFlYndwdnBIaHB3WWFUeENlVFc4ckRJaEJnQWFmdtIBlAFBVV95cUxNaVNWcEVGNWwtN09DWW9XMEZoaXUzOTdnLVprWXBUZU9QalgzU2FUOE5mdGpQR28wSUlFWEl3ajJ6SDFzNzZMM1AxQnM4S25lUFhNTXRLOFhTb3FCWmFkQ3FvT0JLOXpJWkFpZkVkd25sM0NrWkFPVEh6NWVNMEY2LTA2N3FMMllzZ1dKVVdobmFBUUZm?oc=5" target="_blank">Long-Buried Roman House Opens After Major Restoration—With a High-Tech Twist</a>&nbsp;&nbsp;<font color="#6f6f6f">Artnet News</font></li><li><a href="https://news.google.com/rss/articles/CBMipAFBVV95cUxQVUNUa3dLTDdwaXZLb3lJNHRYSG1WbExvQVVRTThiN2s2SUk0RjNzUFhNSUs5V18taU1MWlZ1ZThRUnlnTnZoZmVtRWp3bUY1dFJlV3JZSkdfZGN3c2dmTzV5NEZmRkFpMUllWnVfWGNpVUY5akhSZlN2UzVFck82dk9RSnd6dm8zNG0yMHo4TGJRck85S0stcjJBdGVmcDVaVUJ5eg?oc=5" target="_blank">Ancient Roman home opens to the public - with remote guided tours</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font></li><li><a href="https://news.google.com/rss/articles/CBMirgFBVV95cUxOaU53ZFMtbnpvcGhWT2lBejduc2w1WHRkbWF4M25lUVpWWDJqZVhqOHVzbk1OX3Nyb0hRckd3VXNTMy1IODZFTXFfQjBuOTFVUjMxZ01jN1BoRUhfTjBhX05uWmpxTV9qMVFiRk5iR21jemtFSlR2cHR3NzU1YksydFEyTVFXTjV0NE1XMGpXM01FSHdRTTlWb19ndHVDR0lTbTEyYmtWWTR2SDh6R0HSAbMBQVVfeXFMTU1qZ1NCLTBtdEZ1UXJlb09RdXVoMGUtNnZrWUNIVjNjYlAydTEyNW8yNGw2R05lNWE2UVFBODB4ZGNJRHZLX1B3djhVdmgxcWUzclg2bVh0dkFPSHNqbHNiM0ZyV2wxekJfZ1k3UXV4UTdXakZKSXZqSnRFZ0pGdW81ZXNlUEZaZUZWTEVENkpKQkRYb2F1U1NmSklwWjlPeHhKakdLT0drLVhxRFdiNi1Kc28?oc=5" target="_blank">Ancient Rome meets modern technology as tourists visit an ancient home via livestream tours</a>&nbsp;&nbsp;<font color="#6f6f6f">ABC News</font></li><li><a href="https://news.google.com/rss/articles/CBMinAFBVV95cUxNaUhtNDM4Rm16NFZTd2U0S0w1Uk1LVEtDNlFPVEZSUlM1eFZzSlo2Qk50VDM4bzl6TzRDbFY0WU5DNFRZMDF4c1BzVXN5REp6OTJ3SjBXajZkb2NhV0QyeGstS19GZlJLN1pVQzVLVkdNcWk4ZkdJMXRKaGxYazU2S0F5WElmZkZCZ29NZHRrWDR5R2hfSlZLZFE1dnk?oc=5" target="_blank">Italy Palatine Hill</a>&nbsp;&nbsp;<font color="#6f6f6f">The Herald Journal</font></li></ol>
