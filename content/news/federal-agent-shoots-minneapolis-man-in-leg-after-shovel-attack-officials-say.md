@@ -1,8 +1,8 @@
 ---
 title: "Federal agent shoots Minneapolis man in leg after shovel attack, officials say"
 date: 2026-01-15
-description: "The agent was acting in self-defence after being attacked with a shovel, said the Department of Homeland Security. "
-summary: "The agent was acting in self-defence after being attacked with a shovel, said the Department of Homeland Security. "
+description: "The incident comes as President Donald Trump threatens to use the Insurrection Act on protesters. "
+summary: "The incident comes as President Donald Trump threatens to use the Insurrection Act on protesters. "
 slug: "federal-agent-shoots-minneapolis-man-in-leg-after-shovel-attack-officials-say"
 image: ''
 link: 'https://www.bbc.com/news/articles/c205677pxvxo?at_medium=RSS&at_campaign=rss'
@@ -18,4 +18,4 @@ tags:
 
 draft: false
 ---
-The agent was acting in self-defence after being attacked with a shovel, said the Department of Homeland Security. 
+The incident comes as President Donald Trump threatens to use the Insurrection Act on protesters. 

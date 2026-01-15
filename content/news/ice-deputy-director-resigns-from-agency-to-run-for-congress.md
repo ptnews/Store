@@ -1,0 +1,21 @@
+---
+title: "ICE deputy director resigns from agency to run for Congress"
+date: 2026-01-15
+description: "Madison Sheahan, the deputy director of U.S. Immigration and Customs Enforcement, has resigned to run for Congress in Ohio&apos;s 9th Congressional District."
+summary: "Madison Sheahan, the deputy director of U.S. Immigration and Customs Enforcement, has resigned to run for Congress in Ohio&apos;s 9th Congressional District."
+slug: "ice-deputy-director-resigns-from-agency-to-run-for-congress"
+image: ''
+link: 'https://www.foxnews.com/us/ice-deputy-director-resigns-agency-run-congress'
+source: 'https://feeds.foxnews.com/foxnews/latest'
+categories:
+- 'feeds.foxnews.com'
+tags:
+- 'director'
+- 'congress'
+- 'resigns'
+- 'deputy'
+- 'agency'
+
+draft: false
+---
+<p>Madison Sheahan, the deputy director of <a href="https://www.foxnews.com/category/us/immigration/enforcement" target="_blank" rel="noopener">U.S. Immigration and Customs Enforcement (ICE)</a>, is resigning from her role to run for Congress in Ohio, multiple federal law enforcement sources told Fox News.</p><p>The announcement was made internally this morning, the sources added. Sheahan is running for <a href="https://www.foxnews.com/category/us/us-regions/midwest/ohio" target="_blank" rel="noopener">Ohio's 9th Congressional District,</a> currently represented by Democrat Rep. Marcy Kaptur, who assumed office in 1983 and is the longest serving woman in Congress. Kaptur was re-elected in November 2024, despite many of the counties in the district voting in favor of President Donald Trump that year.</p><p>"No Excuses. Let's Get It Done," read a message on Sheahan's campaign website. "Former ICE Deputy Director Madison Sheahan is fighting to protect American jobs, American paychecks, and American values in Ohio's 9th Congressional District."</p><p><a href="https://www.foxnews.com/category/person/kristi-noem" target="_blank" rel="noopener">Homeland Security Secretary Kristi Noem</a> said in a statement Thursday, "I’ve known her for years, she loves her family, Ohio and her country. She will be a great defender of freedom when she goes to Congress." </p><p>"Madison Sheahan is a work horse, strong executor, and terrific leader who led the men and women of ICE to achieve the American people’s mandate to target, arrest, and deport criminal illegal aliens. We wish her all the best," Noem added.</p><p><a href="https://www.foxnews.com/politics/trump-threatens-invoke-insurrection-act-minnesota-agitators-keep-attacking-federal-officers" target="_blank" rel="noopener"><strong>TRUMP THREATENS TO INVOKE INSURRECTION ACT IN MINNESOTA IF AGITATORS KEEP ATTACKING FEDERAL OFFICERS</strong></a></p><p>The campaign website describes Sheahan as, "a senior government executive and national leader in public administration, law enforcement, and political operations, most recently serving as Deputy Director of U.S. Immigration and Customs Enforcement. </p><p>"In this role, she led one of the nation’s largest federal law enforcement agencies, overseeing strategy and execution in support of border security, interior enforcement, and the rule of law," the website said. "Under the leadership of President Donald J. Trump, Sheahan was entrusted with helping guide ICE through a period of historic transformation."</p><p><a href="https://www.foxnews.com/video/6386980754112" target="_blank" rel="noopener"><strong>DEPUTY ICE DIRECTOR WARNS OF ‘HISTORIC NUMBER' OF THREATS AGAINST AGENTS</strong></a></p><p>"During her tenure, the agency expanded from roughly 20,000 employees and a $10 billion budget into an $85 billion organization of more than 30,000 professionals. Most notably, Sheahan managed the hiring of 12,000 new law enforcement officers within 180 days," it also said.</p><p>A biography of Sheahan on ICE's website said, "Prior to serving as ICE’s deputy director, Ms. Sheahan served as the Secretary of the Louisiana Department of Wildlife and Fisheries, overseeing a $280 million budget and leading a team of over 800 employees across the wildlife, fisheries, and enforcement divisions."</p><p>"Prior to serving the State of Louisiana alongside Governor Landry, Ms. Sheahan worked for former South Dakota Governor Kristi Noem in various leadership positions," it added.</p>
