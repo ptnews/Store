@@ -1,17 +1,17 @@
 ---
-title: "Oprah Winfrey reveals 'shame' of weight-loss drugs and what happened when she quit"
+title: "Oprah reveals struggle with 'shame' of weight-loss drugs and what happened when she quit"
 date: 2026-01-15
 description: "Oprah Winfrey discusses GLP-1 weight-loss medications and obesity as a disease, challenging long-held misconceptions about willpower and food addiction."
 summary: "Oprah Winfrey discusses GLP-1 weight-loss medications and obesity as a disease, challenging long-held misconceptions about willpower and food addiction."
-slug: "oprah-winfrey-reveals-shame-of-weight-loss-drugs-and-what-happened-when-she-quit"
+slug: "oprah-reveals-struggle-with-shame-of-weight-loss-drugs-and-what-happened-when-she-quit"
 image: ''
-link: 'https://www.foxnews.com/health/oprah-winfrey-reveals-shame-weight-loss-drugs-what-happened-when-she-quit'
+link: 'https://www.foxnews.com/health/oprah-reveals-struggle-shame-weight-loss-drugs-what-happened-when-she-quit'
 source: 'https://feeds.foxnews.com/foxnews/latest'
 categories:
 - 'feeds.foxnews.com'
 tags:
+- 'struggle'
 - 'happened'
-- 'winfrey'
 - 'reveals'
 - 'weight'
 - 'oprah'
