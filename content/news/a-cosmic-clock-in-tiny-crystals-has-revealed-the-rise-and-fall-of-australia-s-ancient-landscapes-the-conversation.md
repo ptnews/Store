@@ -1,0 +1,21 @@
+---
+title: "A ‘cosmic clock’ in tiny crystals has revealed the rise and fall of Australia’s ancient landscapes - The Conversation"
+date: 2026-01-15
+description: "A ‘cosmic clock’ in tiny crystals has revealed the rise and fall of Australia’s ancient landscapes&nbsp;&nbsp;The ConversationCosmogenic krypton enables reconstruction of landscapes millions of years old&nbsp;&nbsp;EurekAlert!‘Cosmic clock’ reveals Australian landscapes’ history and potential future&nbsp;&nbsp;Curtin UniversityCosmic Clocks: Scientists unlocked a new way to read Earth’s history&nbsp;&nbsp;Moneycontrol3.7-billion-year-old rocks reveal how Earth and the Moon were bor..."
+summary: "A ‘cosmic clock’ in tiny crystals has revealed the rise and fall of Australia’s ancient landscapes&nbsp;&nbsp;The ConversationCosmogenic krypton enables reconstruction of landscapes millions of years old&nbsp;&nbsp;EurekAlert!‘Cosmic clock’ reveals Australian landscapes’ history and potential future&nbsp;&nbsp;Curtin UniversityCosmic Clocks: Scientists unlocked a new way to read Earth’s history&nbsp;&nbsp;Moneycontrol3.7-billion-year-old rocks reveal how Earth and the Moon were bor..."
+slug: "a-cosmic-clock-in-tiny-crystals-has-revealed-the-rise-and-fall-of-australia-s-ancient-landscapes-the-conversation"
+image: ''
+link: 'https://news.google.com/rss/articles/CBMiygFBVV95cUxNMGZyclZCaWVQSjJjVUxXaS1hQ3VwY0NhaVVSdUt5MDFzaTZYSVNSejl5TTlpQVlTaVYxWmM0cGJrWElta281RDdiejJwV3FrTUliNWE4SHFpYmxPdlE4SFdoYzFMOHZKVUt4RVFrQjBDYkJtSXJkVUZ4WnFNYV9UUmQ5di1WRlZaQ2RqVDFqVDN2N09FazdxeHkxQzlfVkFTTHJOS0lXX2tSekp4S1dsdm1YOEt3ZEtsYWp1QlczMm1yd0lOU2p3X0Rn?oc=5'
+source: 'https://news.google.com/rss/topics/CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx1YlY4U0FtVnVHZ0pWVXlnQVAB?hl=en-US&gl=US&ceid=US:en'
+categories:
+- 'news.google.com'
+tags:
+- 'conversation'
+- 'landscapes'
+- 'australia'
+- 'crystals'
+- 'revealed'
+
+draft: false
+---
+<ol><li><a href="https://news.google.com/rss/articles/CBMiygFBVV95cUxNMGZyclZCaWVQSjJjVUxXaS1hQ3VwY0NhaVVSdUt5MDFzaTZYSVNSejl5TTlpQVlTaVYxWmM0cGJrWElta281RDdiejJwV3FrTUliNWE4SHFpYmxPdlE4SFdoYzFMOHZKVUt4RVFrQjBDYkJtSXJkVUZ4WnFNYV9UUmQ5di1WRlZaQ2RqVDFqVDN2N09FazdxeHkxQzlfVkFTTHJOS0lXX2tSekp4S1dsdm1YOEt3ZEtsYWp1QlczMm1yd0lOU2p3X0Rn?oc=5" target="_blank">A ‘cosmic clock’ in tiny crystals has revealed the rise and fall of Australia’s ancient landscapes</a>&nbsp;&nbsp;<font color="#6f6f6f">The Conversation</font></li><li><a href="https://news.google.com/rss/articles/CBMiXEFVX3lxTE5NNUVRamF1UWhPdjUxVWlvTS1hdU90eFVuYVdIbVVMT19PUk9nQTgtS2tCWlJMUkJ2RlJfYWpDTGVTRV9nY25WZFZpQWQtSFppMmIzR1h6SnNDdXpL?oc=5" target="_blank">Cosmogenic krypton enables reconstruction of landscapes millions of years old</a>&nbsp;&nbsp;<font color="#6f6f6f">EurekAlert!</font></li><li><a href="https://news.google.com/rss/articles/CBMiuAFBVV95cUxOWloxMHdDU3EyVzNLcXExRVBaNUJkV0lUUk9GcnZFTl9tM1VnWTRSNFRVZW9mX0tTNXIzY3dESVJFd3RCcWZRb3RVNFcwNzRlNFUtNEFMUmhFTFB5MWhPU1E1RXllX3FiMGc1WXVPLW5xSmhVdk9oSmhIUkxXTDJncW5QY1FRUnR0VGRGaXpfVE1pSEx6OFVOUGVfZmY3WWJydmpBTlBNRDlYWGtkcndrRVM2RWdxTjZz?oc=5" target="_blank">‘Cosmic clock’ reveals Australian landscapes’ history and potential future</a>&nbsp;&nbsp;<font color="#6f6f6f">Curtin University</font></li><li><a href="https://news.google.com/rss/articles/CBMixAFBVV95cUxNU29xMzd3WXlXLUdQbWhMeGVzQkMwTUFFbi1iUndFdXU5dHU1Yk5aOU9MR1lxVnVCeDhVNVVaNGJ0M1dVNmFyVFVJX1d4LTRzakhvWmRhalRjZzNmSUFWNWE1UG1VN2xfX3BwUmxzaHBZbW05QmhzeFEzeUZZZXZiYjVfV1Fyem5mMTNxM3d6QkxPMGVjSFZ1LWRNVDVzRTVjNk0yZUU3TnFWVHVDcWxjWDl6M2xIZ2VaTjFFOUQxTzJTNTFq0gHKAUFVX3lxTFBPcTlSZGFiSHc1TWxPRGYxbUJMNGdtdnZoZ20yUnRYaFprLTNSelppMG55S1pBN0NmMVA3X3dpNGdoWElLdFNUMFdLN1hDM01NQ0NXS2VUMG1vaF9scTZXVVh2TG95TUlscWtZNnVyQXhOc2dEWnNleV9leWpteFNHY0gwanhlM0NrVzFsbC0tRU5hZi1GRUZTZzVndHNOWXFDcG94VmdPOE40YU5PaXBaSUdOcFByNmtOczM3Ynh4T3VQU2RFd1dYblE?oc=5" target="_blank">Cosmic Clocks: Scientists unlocked a new way to read Earth’s history</a>&nbsp;&nbsp;<font color="#6f6f6f">Moneycontrol</font></li><li><a href="https://news.google.com/rss/articles/CBMib0FVX3lxTFBNanFtUUk1UWpfRTlYZFpWQXJfLUo4dktIUTlDZGhBb2JELWt5TFk0RzAzUFVZVTJhSDBEb3ZCQjY4bWtJbjZPQlVBak9LWnhUaVVvRkNLaXRHLTlIODFnQTh5OVFwMVhqaWY3M0ZLMA?oc=5" target="_blank">3.7-billion-year-old rocks reveal how Earth and the Moon were born</a>&nbsp;&nbsp;<font color="#6f6f6f">ScienceDaily</font></li></ol>
