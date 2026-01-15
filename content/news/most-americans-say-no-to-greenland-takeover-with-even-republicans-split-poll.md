@@ -1,0 +1,21 @@
+---
+title: "Most Americans say 'no' to Greenland takeover, with even Republicans split: poll"
+date: 2026-01-15
+description: "New polls show 86% of Americans oppose military action to take Greenland as Trump intensifies push for U.S. control of the strategic Arctic territory."
+summary: "New polls show 86% of Americans oppose military action to take Greenland as Trump intensifies push for U.S. control of the strategic Arctic territory."
+slug: "most-americans-say-no-to-greenland-takeover-with-even-republicans-split-poll"
+image: ''
+link: 'https://www.foxnews.com/politics/most-americans-say-no-greenland-takeover-even-republicans-split-poll'
+source: 'https://feeds.foxnews.com/foxnews/latest'
+categories:
+- 'feeds.foxnews.com'
+tags:
+- 'republicans'
+- 'americans'
+- 'greenland'
+- 'takeover'
+- 'split'
+
+draft: false
+---
+<p>As President <a href="https://www.foxnews.com/category/person/donald-trump" target="_blank" rel="noopener">Donald Trump</a> turns up the volume on his efforts to acquire Greenland from Denmark, two new national polls put a spotlight on the fact that most Americans oppose taking over the massive and crucially strategic island that lies between the Arctic and Atlantic oceans.</p><p>Eighty-six percent of voters nationwide questioned in a Quinnipiac University poll said they would oppose military action to <a href="https://www.foxnews.com/category/world/world-regions/greenland" target="_blank" rel="noopener">take over Greenland</a>.</p><p>That includes 95% of Democrats, 94% of Independents, and even more than two-thirds (68%) of Republicans surveyed by Quinnipiac late last week through Monday.</p><p><a href="https://www.foxnews.com/world/troops-from-europe-deploy-greenland-rapid-2-day-mission-trump-eyes-us-takeover" target="_blank" rel="noopener"><strong>WHY TROOPS FROM EUROPE ARE DEPLOYING TO GREENLAND</strong></a></p><p>Three-quarters of Americans questioned in a <a href="https://www.cnn.com/2026/01/15/politics/greenland-cnn-poll" target="_blank" rel="nofollow noopener">CNN poll</a> conducted at the same time said they opposed a U.S. takeover of Greenland. Ninety-four percent of Democrats and eight in 10 Independents said they would oppose such a move, with Republicans split 50%-50%.</p><p>Meanwhile, by a 55%-37% margin, voters questioned in the <a href="https://poll.qu.edu/poll-release?releaseid=3945" target="_blank" rel="nofollow noopener">Quinnipiac survey</a> said they opposed any U.S. effort to try and buy Greenland.</p><p><a href="https://www.foxnews.com/world/denmark-trumps-crosshairs-us-makes-ambitious-appeal-greenland" target="_blank" rel="noopener"><strong><u>DENMARK IN TRUMP'S CROSSHAIRS AS US MAKES AMBITIOUS APPEAL TO GREENLAND</u></strong></a></p><p>But there's a stark political divide on this question, with the vast majority of Democrats and nearly six in 10 Independents opposed to buying Greenland, and more than two-thirds of Republicans supporting such efforts.</p><p>"The United States needs Greenland for the purpose of national security," the president argued in a social media post Wednesday.</p><p><a href="https://www.foxnews.com/world/european-allies-working-plan-us-acts-acquiring-greenland-report" target="_blank" rel="noopener"><strong>EUROPEAN ALLIES WORKING ON PLAN IF US ACTS ON ACQUIRING GREENLAND: REPORT</strong></a></p><p>And the president emphasized that "anything less" than U.S. control of Greenland is "unacceptable."</p><p>Trump's push for the U.S. to acquire Greenland is causing tension with Denmark and other <a href="https://www.foxnews.com/category/world/nato" target="_blank" rel="noopener">NATO allies</a> who insist that the semiautonomous Danish territory should determine its own future. </p><p>Trump officials are openly considering all options, including military force, to take Greenland, spurring bipartisan opposition from some in Congress.</p><p>Troops from several European countries deployed to Greenland this week for a brief two-day mission to bolster the territory’s defenses. </p><p>France, Germany, Sweden and Norway are participating in the exercise, Fox News has learned. Leaders say the mission is meant to demonstrate they can deploy military assets "quickly." </p><p><i>Fox News' Gillian Turner and Greg Norman-Diamond contributed to this report.</i></p>
