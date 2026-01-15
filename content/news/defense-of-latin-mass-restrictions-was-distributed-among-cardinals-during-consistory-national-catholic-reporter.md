@@ -1,0 +1,21 @@
+---
+title: "Defense of Latin Mass restrictions was distributed among cardinals during consistory - National Catholic Reporter"
+date: 2026-01-15
+description: "Defense of Latin Mass restrictions was distributed among cardinals during consistory&nbsp;&nbsp;National Catholic ReporterCardinal Roche’s consistory document on the Traditional Latin Mass revealed&nbsp;&nbsp;The Catholic HeraldBishops against Bishops on the TLM: Where Will Leo Land?&nbsp;&nbsp;OnePeterFiveCardinal Roche Doubles Down on ‘Traditionis Custodes’&nbsp;&nbsp;National Catholic RegisterReport: Dicastery prefect defends Pope Francis’ document restricting Latin Mass at Vatican me..."
+summary: "Defense of Latin Mass restrictions was distributed among cardinals during consistory&nbsp;&nbsp;National Catholic ReporterCardinal Roche’s consistory document on the Traditional Latin Mass revealed&nbsp;&nbsp;The Catholic HeraldBishops against Bishops on the TLM: Where Will Leo Land?&nbsp;&nbsp;OnePeterFiveCardinal Roche Doubles Down on ‘Traditionis Custodes’&nbsp;&nbsp;National Catholic RegisterReport: Dicastery prefect defends Pope Francis’ document restricting Latin Mass at Vatican me..."
+slug: "defense-of-latin-mass-restrictions-was-distributed-among-cardinals-during-consistory-national-catholic-reporter"
+image: ''
+link: 'https://news.google.com/rss/articles/CBMitgFBVV95cUxPYm5mcFgzYWtWNEh3Qk9HMDRTcWg2UTBmajdYSEFDM3E3alZBTng0UWlScFdvU0tzQmlSTDNMS1FxNVhyZnpxampGQm5xa0pkYWg4aEcwOWFSbmpjbzEyeGRrM0lGLUpBMHg3aG1maWNYMUJzR2czRldLQUlJZW1QNDZoTmR6NVhhOS1TMHA3RUNtc1ZLR181ZjNMNjZheGJxY2lxUkdwc2V2UkVQemV0d3RKZHlyZw?oc=5'
+source: 'https://news.google.com/rss/topics/CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx1YlY4U0FtVnVHZ0pWVXlnQVAB?hl=en-US&gl=US&ceid=US:en'
+categories:
+- 'news.google.com'
+tags:
+- 'restrictions'
+- 'distributed'
+- 'consistory'
+- 'cardinals'
+- 'national'
+
+draft: false
+---
+<ol><li><a href="https://news.google.com/rss/articles/CBMitgFBVV95cUxPYm5mcFgzYWtWNEh3Qk9HMDRTcWg2UTBmajdYSEFDM3E3alZBTng0UWlScFdvU0tzQmlSTDNMS1FxNVhyZnpxampGQm5xa0pkYWg4aEcwOWFSbmpjbzEyeGRrM0lGLUpBMHg3aG1maWNYMUJzR2czRldLQUlJZW1QNDZoTmR6NVhhOS1TMHA3RUNtc1ZLR181ZjNMNjZheGJxY2lxUkdwc2V2UkVQemV0d3RKZHlyZw?oc=5" target="_blank">Defense of Latin Mass restrictions was distributed among cardinals during consistory</a>&nbsp;&nbsp;<font color="#6f6f6f">National Catholic Reporter</font></li><li><a href="https://news.google.com/rss/articles/CBMisgFBVV95cUxQMV9RMlRTSFEyQmdWdzhGYlU2NldDVG5ZNmNvUFBKOWlQdFZtMGR3WVNGYmJQaklEczhESG9VZzRhQV9FSG15NXR4QmlMSWRqeHJrUDJNYVNfbUxwRDMtY2NnRE9ybFhkMUtLT056YkpuOWtCeEluZUlFbGY4am9OMEREemplTFJEU1BMZW5QWklla1NiaHV3THFLSEhMaFBtZW14R1E0QWtIUTBROFItYkJR?oc=5" target="_blank">Cardinal Roche’s consistory document on the Traditional Latin Mass revealed</a>&nbsp;&nbsp;<font color="#6f6f6f">The Catholic Herald</font></li><li><a href="https://news.google.com/rss/articles/CBMihwFBVV95cUxQRXIwUTRBU1RhVWkxa09Vb3lRLUNXNVl5cFE2T1VFYmtUOFZ5SFJfeDZlcTEwRXo4OTZTQUpOT053bFQ2SGlyRm9jUTVVLUdQNzVIaDFBNUpQM3ZZUXpKVzB1d2w5LW9la092TWxmelVrTExMZjVUV3N6Y2pkZTgzM0R5cEhoNTA?oc=5" target="_blank">Bishops against Bishops on the TLM: Where Will Leo Land?</a>&nbsp;&nbsp;<font color="#6f6f6f">OnePeterFive</font></li><li><a href="https://news.google.com/rss/articles/CBMiiwFBVV95cUxQRTN3OFZxZThnM2NhNWpqMm9SUGUteUIxYjBadE9qNWZSYkQxNFRwTlhyWHJ0alRKWTh2clhpNzg0Z2ZwVEEzUy1YNkpJMDhSdkRjVVZ4d1BVSEN5dlFoX1Z1N0RMOVhER3pQbVRGTmw2NjlIc2Vwc2E3U1huTFdKaHFoSy1PUE1pdi040gGQAUFVX3lxTE5XbUt3ZjZCLWNnRmowQ3U2bWtHZmlUUzdpbTdIQjlVa2FuQU9XaDZ5VkJYb0tGN1MyeU9aOGVzejJ0Q3dVTXlGM1FHV0JoTlZoWi00VWU1QmdDNGo5R29vQ01XS0dtWHpobWE4V1VQRXVPYUtjaTNYSUVsdzN3Ri1oZlY3ZlJ3dV9NdHlMQjRtZA?oc=5" target="_blank">Cardinal Roche Doubles Down on ‘Traditionis Custodes’</a>&nbsp;&nbsp;<font color="#6f6f6f">National Catholic Register</font></li><li><a href="https://news.google.com/rss/articles/CBMi0wFBVV95cUxOaFBraWFxUWhSQ1hVZXhhcTZaNlNXT0plc3Z0UDN2TFg0QVgwVjhvQ1JtMWV1Zk9FTlJEUGFuQk5WbTAyVGtqSkdUU1JBZl9NWG5ZaEdheU9fdzFUd2xKQ2tGWkZiTnZEY1ZoX3lJcjFZYlk3OWR3Z2ZZNlFnUGRVc0dpcWFYa0NwT0RJWF80QUQ1Z1lXbmpjRkoydl9DaG91XzhyUTU0dGpCOU5DQmg1Y05LY1N5Sl9rU0FheF8yQm1SZkJ4NVAtZkkzVDN3TUY3NThB?oc=5" target="_blank">Report: Dicastery prefect defends Pope Francis’ document restricting Latin Mass at Vatican meeting with cardinals</a>&nbsp;&nbsp;<font color="#6f6f6f">CatholicVote org</font></li></ol>
