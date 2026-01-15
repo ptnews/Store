@@ -1,6 +1,6 @@
 ---
 title: "Russia turning occupied Donbas into ‘huge military base to frighten Europe’ - Al Jazeera"
-date: 2026-01-14
+date: 2026-01-15
 description: "Russia turning occupied Donbas into ‘huge military base to frighten Europe’&nbsp;&nbsp;Al JazeeraView Full Coverage on Google News"
 summary: "Russia turning occupied Donbas into ‘huge military base to frighten Europe’&nbsp;&nbsp;Al JazeeraView Full Coverage on Google News"
 slug: "russia-turning-occupied-donbas-into-huge-military-base-to-frighten-europe-al-jazeera"

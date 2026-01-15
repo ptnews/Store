@@ -1,6 +1,6 @@
 ---
 title: "'Grim scene': BBC on site after crane collapses on train in Thailand"
-date: 2026-01-14
+date: 2026-01-15
 description: "Correspondent Jonathan Head says the 'devastating' accident is an enormous setback for Thailand's efforts to modernise its infrastructure."
 summary: "Correspondent Jonathan Head says the 'devastating' accident is an enormous setback for Thailand's efforts to modernise its infrastructure."
 slug: "grim-scene-bbc-on-site-after-crane-collapses-on-train-in-thailand"

@@ -1,6 +1,6 @@
 ---
 title: "K-pop drum duet between Japan and South Korea's leaders caps off summit talks"
-date: 2026-01-14
+date: 2026-01-15
 description: "Leaders of the two East Asian nations played drums to hits from BTS and KPop Demon Hunters."
 summary: "Leaders of the two East Asian nations played drums to hits from BTS and KPop Demon Hunters."
 slug: "k-pop-drum-duet-between-japan-and-south-korea-s-leaders-caps-off-summit-talks"

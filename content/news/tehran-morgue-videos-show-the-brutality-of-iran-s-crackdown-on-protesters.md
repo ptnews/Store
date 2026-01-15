@@ -1,6 +1,6 @@
 ---
 title: "Tehran morgue videos show the brutality of Iran's crackdown on protesters"
-date: 2026-01-14
+date: 2026-01-15
 description: "Distressing footage reveals nearly 200 bodies with one victim identified as young as 16. "
 summary: "Distressing footage reveals nearly 200 bodies with one victim identified as young as 16. "
 slug: "tehran-morgue-videos-show-the-brutality-of-iran-s-crackdown-on-protesters"

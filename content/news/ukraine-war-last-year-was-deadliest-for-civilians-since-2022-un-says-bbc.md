@@ -1,6 +1,6 @@
 ---
 title: "Ukraine war: Last year was deadliest for civilians since 2022, UN says - BBC"
-date: 2026-01-14
+date: 2026-01-15
 description: "Ukraine war: Last year was deadliest for civilians since 2022, UN says&nbsp;&nbsp;BBCRussian Offensive Campaign Assessment, January 13, 2026&nbsp;&nbsp;Institute for the Study of War2025 was the deadliest since start of the war for Ukraine’s civilians&nbsp;&nbsp;CNN2025 was deadliest year for Ukrainian civilians since start of Russia's all-out war, UN says&nbsp;&nbsp;Euronews.com2025 deadliest year for civilians in Ukraine since 2022, UN human rights monitors find&nbsp;&nbsp;UN Human Rights Mo..."
 summary: "Ukraine war: Last year was deadliest for civilians since 2022, UN says&nbsp;&nbsp;BBCRussian Offensive Campaign Assessment, January 13, 2026&nbsp;&nbsp;Institute for the Study of War2025 was the deadliest since start of the war for Ukraine’s civilians&nbsp;&nbsp;CNN2025 was deadliest year for Ukrainian civilians since start of Russia's all-out war, UN says&nbsp;&nbsp;Euronews.com2025 deadliest year for civilians in Ukraine since 2022, UN human rights monitors find&nbsp;&nbsp;UN Human Rights Mo..."
 slug: "ukraine-war-last-year-was-deadliest-for-civilians-since-2022-un-says-bbc"

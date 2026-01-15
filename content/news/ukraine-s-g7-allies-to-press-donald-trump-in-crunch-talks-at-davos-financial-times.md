@@ -1,6 +1,6 @@
 ---
 title: "Ukraine’s G7 allies to press Donald Trump in crunch talks at Davos - Financial Times"
-date: 2026-01-14
+date: 2026-01-15
 description: "Ukraine’s G7 allies to press Donald Trump in crunch talks at Davos&nbsp;&nbsp;Financial TimesKyiv and EU allies want Trump to firm up his Ukraine commitments in Davos&nbsp;&nbsp;politico.euDutch PM: We must intensify pressure on Russia&nbsp;&nbsp;Caliber.AzG7 Leaders Demand US Security Guarantees for Ukraine at Davos Forum&nbsp;&nbsp;БуквиSwitzerland/Ukraine • Hopes high for security guarantees breakthrough in Davos&nbsp;&nbsp;Intelligence Online"
 summary: "Ukraine’s G7 allies to press Donald Trump in crunch talks at Davos&nbsp;&nbsp;Financial TimesKyiv and EU allies want Trump to firm up his Ukraine commitments in Davos&nbsp;&nbsp;politico.euDutch PM: We must intensify pressure on Russia&nbsp;&nbsp;Caliber.AzG7 Leaders Demand US Security Guarantees for Ukraine at Davos Forum&nbsp;&nbsp;БуквиSwitzerland/Ukraine • Hopes high for security guarantees breakthrough in Davos&nbsp;&nbsp;Intelligence Online"
 slug: "ukraine-s-g7-allies-to-press-donald-trump-in-crunch-talks-at-davos-financial-times"

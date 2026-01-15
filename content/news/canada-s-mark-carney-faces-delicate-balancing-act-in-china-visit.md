@@ -1,6 +1,6 @@
 ---
 title: "Canada's Mark Carney faces delicate balancing act in China visit"
-date: 2026-01-14
+date: 2026-01-15
 description: "The PM is seeking to deepen trade and repair ties with China after years of tense relations - without compromising national security or provoking the US."
 summary: "The PM is seeking to deepen trade and repair ties with China after years of tense relations - without compromising national security or provoking the US."
 slug: "canada-s-mark-carney-faces-delicate-balancing-act-in-china-visit"

@@ -1,6 +1,6 @@
 ---
 title: "Starlink reportedly made free in Iran - but protesters are taking huge risks by using it"
-date: 2026-01-14
+date: 2026-01-15
 description: "The satellite technology has become a vital communications lifeline after the government shut down the internet last week. "
 summary: "The satellite technology has become a vital communications lifeline after the government shut down the internet last week. "
 slug: "starlink-reportedly-made-free-in-iran-but-protesters-are-taking-huge-risks-by-using-it"

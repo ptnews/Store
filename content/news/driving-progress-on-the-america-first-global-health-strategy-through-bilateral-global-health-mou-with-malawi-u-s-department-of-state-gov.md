@@ -1,6 +1,6 @@
 ---
 title: "Driving Progress on the America First Global Health Strategy Through Bilateral Global Health MOU with Malawi - U.S. Department of State (.gov)"
-date: 2026-01-14
+date: 2026-01-15
 description: "Driving Progress on the America First Global Health Strategy Through Bilateral Global Health MOU with Malawi&nbsp;&nbsp;U.S. Department of State (.gov)Inside Trump's $11 billion health plan to replace \"neo-colonial\" USAID&nbsp;&nbsp;AxiosCopper for HIV drugs: Inside Trump’s new aid trade&nbsp;&nbsp;The TelegraphAmerica First Global Health Strategy Investing in Kenyan Health&nbsp;&nbsp;The Borgen ProjectUS strips moral framing from foreign aid in ‘America first’ pivot&nbsp;&nbsp;South China..."
 summary: "Driving Progress on the America First Global Health Strategy Through Bilateral Global Health MOU with Malawi&nbsp;&nbsp;U.S. Department of State (.gov)Inside Trump's $11 billion health plan to replace \"neo-colonial\" USAID&nbsp;&nbsp;AxiosCopper for HIV drugs: Inside Trump’s new aid trade&nbsp;&nbsp;The TelegraphAmerica First Global Health Strategy Investing in Kenyan Health&nbsp;&nbsp;The Borgen ProjectUS strips moral framing from foreign aid in ‘America first’ pivot&nbsp;&nbsp;South China..."
 slug: "driving-progress-on-the-america-first-global-health-strategy-through-bilateral-global-health-mou-with-malawi-u-s-department-of-state-gov"

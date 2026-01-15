@@ -1,6 +1,6 @@
 ---
 title: "What message do Greenlanders have for Trump?"
-date: 2026-01-14
+date: 2026-01-15
 description: "The BBC's Europe editor Katya Adler hears from Greenlanders, whose island is embroiled in a geopolitical storm."
 summary: "The BBC's Europe editor Katya Adler hears from Greenlanders, whose island is embroiled in a geopolitical storm."
 slug: "what-message-do-greenlanders-have-for-trump"

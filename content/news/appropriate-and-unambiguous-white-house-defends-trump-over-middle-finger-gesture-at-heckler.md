@@ -1,6 +1,6 @@
 ---
 title: "'Appropriate and unambiguous': White House defends Trump over middle-finger gesture at heckler"
-date: 2026-01-14
+date: 2026-01-15
 description: "Thousands of people have sent donations totalling nearly $700,000 (£521,000) to the heckler, who was suspended from his job at Ford."
 summary: "Thousands of people have sent donations totalling nearly $700,000 (£521,000) to the heckler, who was suspended from his job at Ford."
 slug: "appropriate-and-unambiguous-white-house-defends-trump-over-middle-finger-gesture-at-heckler"

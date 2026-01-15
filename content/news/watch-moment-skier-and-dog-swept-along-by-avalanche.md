@@ -1,6 +1,6 @@
 ---
 title: "Watch: Moment skier and dog swept along by avalanche"
-date: 2026-01-14
+date: 2026-01-15
 description: "Footage recorded by Spanish skier Ares Masip shows the incident on Pic de l'Hortell, a mountain in Andorra."
 summary: "Footage recorded by Spanish skier Ares Masip shows the incident on Pic de l'Hortell, a mountain in Andorra."
 slug: "watch-moment-skier-and-dog-swept-along-by-avalanche"

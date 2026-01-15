@@ -1,6 +1,6 @@
 ---
 title: "Russian doctors arrested after 9 babies die in maternity hospital"
-date: 2026-01-14
+date: 2026-01-15
 description: "The newborns died during the long New Year holiday in a Siberian hospital."
 summary: "The newborns died during the long New Year holiday in a Siberian hospital."
 slug: "russian-doctors-arrested-after-9-babies-die-in-maternity-hospital"

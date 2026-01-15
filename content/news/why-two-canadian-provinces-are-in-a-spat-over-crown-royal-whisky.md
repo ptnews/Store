@@ -1,6 +1,6 @@
 ---
 title: "Why two Canadian provinces are in a spat over Crown Royal whisky"
-date: 2026-01-14
+date: 2026-01-15
 description: "The UK-owned, Canadian-made whisky is testing a united \"Team Canada\" approach in the face of US tariffs."
 summary: "The UK-owned, Canadian-made whisky is testing a united \"Team Canada\" approach in the face of US tariffs."
 slug: "why-two-canadian-provinces-are-in-a-spat-over-crown-royal-whisky"

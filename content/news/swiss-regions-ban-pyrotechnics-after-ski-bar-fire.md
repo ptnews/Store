@@ -1,6 +1,6 @@
 ---
 title: "Swiss regions ban pyrotechnics after ski bar fire"
-date: 2026-01-14
+date: 2026-01-15
 description: "The blaze is believed to have started when sparklers attached to champagne bottles set foam padding on the ceiling alight."
 summary: "The blaze is believed to have started when sparklers attached to champagne bottles set foam padding on the ceiling alight."
 slug: "swiss-regions-ban-pyrotechnics-after-ski-bar-fire"

@@ -1,6 +1,6 @@
 ---
 title: "At least 32 killed after crane collapses on train in Thailand"
-date: 2026-01-14
+date: 2026-01-15
 description: "Sixty-four people were left injured, including a one-year-old and an 85-year-old."
 summary: "Sixty-four people were left injured, including a one-year-old and an 85-year-old."
 slug: "at-least-32-killed-after-crane-collapses-on-train-in-thailand"

@@ -1,0 +1,21 @@
+---
+title: "Ravens owner talks possibly hiring former Steelers coach Mike Tomlin: 'Wouldn't that be interesting'"
+date: 2026-01-14
+description: "Baltimore Ravens owner Steve Bisciotti joked about hiring former Pittsburgh Steelers coach Mike Tomlin, saying, &quot;Only if John (Harbaugh) takes the Pittsburgh job.&quot;"
+summary: "Baltimore Ravens owner Steve Bisciotti joked about hiring former Pittsburgh Steelers coach Mike Tomlin, saying, &quot;Only if John (Harbaugh) takes the Pittsburgh job.&quot;"
+slug: "ravens-owner-talks-possibly-hiring-former-steelers-coach-mike-tomlin-wouldn-t-that-be-interesting"
+image: ''
+link: 'https://www.foxnews.com/sports/ravens-owner-talks-possibly-hiring-former-steelers-coach-mike-tomlin-wouldnt-interesting'
+source: 'https://feeds.foxnews.com/foxnews/latest'
+categories:
+- 'feeds.foxnews.com'
+tags:
+- 'interesting'
+- 'possibly'
+- 'steelers'
+- 'ravens'
+- 'hiring'
+
+draft: false
+---
+<p><a href="https://www.foxnews.com/category/sports/nfl/baltimore-ravens" target="_blank" rel="noopener">Baltimore Ravens</a> owner Steve Bisciotti found out during his news conference Tuesday that Pittsburgh Steelers head coach Mike Tomlin had stepped down.</p><p>Bisciotti was stunned upon hearing the news, saying, "Holy s---," while talking with reporters. </p><p>The owner was then asked if Tomlin would be considered as a head coaching candidate for the Ravens, replacing John Harbaugh after being on the opposite end of a bitter rivalry for 19 seasons.</p><p>"Holy s---, Mike, wouldn’t that be awesome? Only if John takes the <a href="https://www.foxnews.com/category/sports/nfl/pittsburgh-steelers" target="_blank" rel="noopener">Pittsburgh job,"</a> Bisciotti joked.</p><p><a href="https://www.foxnews.com/sports" target="_blank" rel="noopener"><strong>CLICK HERE FOR MORE SPORTS COVERAGE ON FOXNEWS.COM</strong></a></p><p>"Wow, wouldn’t that be interesting? I don’t know," Bisciotti said. "That thing last week (Bisciotti imitated Tomlin pounding his chest after beating the Ravens in Week 18) maybe disqualified him from my opening after our kicker missed a kick to let them advance. Good for Mike. </p><p>"Yeah, I don’t know. Talk to (general manager Eric DeCosta) I love Mike. I mean, I’ve admired Mike for 18 years, and that’s really shocking that he did it that way. That’s kind of crazy."</p><p>As of two weeks ago, Tomlin and Harbaugh were the two longest-tenured coaches with their respective teams. Tomlin spent 19 seasons with the Steelers while Harbaugh spent 18 with the Ravens.</p><p><a href="https://www.foxnews.com/sports/jason-kelce-says-eagles-players-share-blame-fired-coordinator-kevin-patullo-offensive-struggles" target="_blank" rel="noopener"><strong>JASON KELCE SAYS EAGLES PLAYERS SHARE BLAME WITH FIRED COORDINATOR KEVIN PATULLO FOR OFFENSIVE STRUGGLES</strong></a></p><p>Harbaugh, who was fired last week, immediately became the top head coaching candidate in this year’s cycle and is reportedly the favorite to land the <a href="https://www.foxnews.com/category/sports/nfl/new-york-giants" target="_blank" rel="noopener">New York Giants</a> job.</p><p>It is unclear if Tomlin wants to coach next season or if he wants to take a season off. The 53-year-old is coveted by a litany of TV networks who have shown interest in hiring him as an analyst, according to <a href="https://www.nytimes.com/athletic/6966049/2026/01/13/mike-tomlin-tv-fox-cbs-espn/" target="_blank" rel="nofollow noopener">The Athletic.</a></p><p>The Ravens underperformed this season, going 8-9 and missing the playoffs in heartbreaking fashion, prompting Bisciotti to make a change. In 18 seasons under Harbaugh, 63, the team went 180-113 and won six AFC North titles, appeared in four AFC championship games and won a Super Bowl.</p><p>In 19 seasons, Tomlin went 193-114-2 and won the AFC North eight times, making the Super Bowl twice and winning once.</p><p><i><strong>Follow Fox News Digital’s </strong></i><a href="https://twitter.com/FoxNewsSports_" target="_blank" rel="noopener"><i><strong>sports coverage on X</strong></i></a><i><strong>, and subscribe to </strong></i><a href="https://www.foxnews.com/newsletters" target="_blank" rel="noopener"><i><strong>the Fox News Sports Huddle newsletter</strong></i></a><i><strong>.</strong></i></p>

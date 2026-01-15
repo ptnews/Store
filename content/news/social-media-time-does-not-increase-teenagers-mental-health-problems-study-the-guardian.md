@@ -1,6 +1,6 @@
 ---
 title: "Social media time does not increase teenagers’ mental health problems – study - The Guardian"
-date: 2026-01-14
+date: 2026-01-15
 description: "Social media time does not increase teenagers’ mental health problems – study&nbsp;&nbsp;The GuardianNew study suggests there may be beneficial 'Goldilocks' window for kids to use social media&nbsp;&nbsp;ABC NewsAccused Grave Robber Allegedly Admits Selling Human Remains Online&nbsp;&nbsp;The Daily BeastEvidence for link between digital technology use and teenage mental health problems is weak, our large study suggests&nbsp;&nbsp;The ConversationWhat We Know About France’s Social Media Ban..."
 summary: "Social media time does not increase teenagers’ mental health problems – study&nbsp;&nbsp;The GuardianNew study suggests there may be beneficial 'Goldilocks' window for kids to use social media&nbsp;&nbsp;ABC NewsAccused Grave Robber Allegedly Admits Selling Human Remains Online&nbsp;&nbsp;The Daily BeastEvidence for link between digital technology use and teenage mental health problems is weak, our large study suggests&nbsp;&nbsp;The ConversationWhat We Know About France’s Social Media Ban..."
 slug: "social-media-time-does-not-increase-teenagers-mental-health-problems-study-the-guardian"

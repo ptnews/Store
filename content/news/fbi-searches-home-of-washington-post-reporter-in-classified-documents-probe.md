@@ -1,6 +1,6 @@
 ---
 title: "FBI searches home of Washington Post reporter in classified documents probe"
-date: 2026-01-14
+date: 2026-01-15
 description: "Attorney General Bondi accused the journalist of reporting classified information allegedly leaked by a federal contractor, who she said has been arrested."
 summary: "Attorney General Bondi accused the journalist of reporting classified information allegedly leaked by a federal contractor, who she said has been arrested."
 slug: "fbi-searches-home-of-washington-post-reporter-in-classified-documents-probe"

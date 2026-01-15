@@ -1,6 +1,6 @@
 ---
 title: "'Now there's the threat of executions' in Iran"
-date: 2026-01-14
+date: 2026-01-15
 description: "An Iranian security official says 2,000 people have been killed so far after a crackdown on weeks of anti-government protests."
 summary: "An Iranian security official says 2,000 people have been killed so far after a crackdown on weeks of anti-government protests."
 slug: "now-there-s-the-threat-of-executions-in-iran"

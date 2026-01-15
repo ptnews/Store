@@ -1,6 +1,6 @@
 ---
 title: "As hate spirals in India, Hindu extremists turn to Christian targets - Al Jazeera"
-date: 2026-01-14
+date: 2026-01-15
 description: "As hate spirals in India, Hindu extremists turn to Christian targets&nbsp;&nbsp;Al JazeeraAnti-minority hate speech in India rose by 13% in 2025, US research group says&nbsp;&nbsp;ReutersIndia Records 1300+ Hate Speech Incidents Against Muslims and Christians in 2025&nbsp;&nbsp;Catholic ConnectThe Call of 2026: No Impunity for Perpetrators of Hate and Injustice&nbsp;&nbsp;cpiml.orgRituals of Fear, Politics of Hate: How AHP’s national network rewrote the boundaries of democracy and citizenship&..."
 summary: "As hate spirals in India, Hindu extremists turn to Christian targets&nbsp;&nbsp;Al JazeeraAnti-minority hate speech in India rose by 13% in 2025, US research group says&nbsp;&nbsp;ReutersIndia Records 1300+ Hate Speech Incidents Against Muslims and Christians in 2025&nbsp;&nbsp;Catholic ConnectThe Call of 2026: No Impunity for Perpetrators of Hate and Injustice&nbsp;&nbsp;cpiml.orgRituals of Fear, Politics of Hate: How AHP’s national network rewrote the boundaries of democracy and citizenship&..."
 slug: "as-hate-spirals-in-india-hindu-extremists-turn-to-christian-targets-al-jazeera"

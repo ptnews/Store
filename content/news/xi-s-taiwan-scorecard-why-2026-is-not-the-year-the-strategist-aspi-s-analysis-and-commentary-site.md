@@ -1,6 +1,6 @@
 ---
 title: "Xi’s Taiwan scorecard: why 2026 is not the year - The Strategist | ASPI's analysis and commentary site"
-date: 2026-01-14
+date: 2026-01-15
 description: "Xi’s Taiwan scorecard: why 2026 is not the year&nbsp;&nbsp;The Strategist | ASPI's analysis and commentary siteA Taiwan Conflict Would Cost China. That Won’t Stop Xi&nbsp;&nbsp;Bloomberg.comTaiwan greatest geopolitical risk to markets – UBP outlook&nbsp;&nbsp;Funds EuropeLegislation addresses potential hostilities between China, Taiwan&nbsp;&nbsp;Financial Regulation News -Is China preparing to invade Taiwan?&nbsp;&nbsp;Dalal Street Investment Journal"
 summary: "Xi’s Taiwan scorecard: why 2026 is not the year&nbsp;&nbsp;The Strategist | ASPI's analysis and commentary siteA Taiwan Conflict Would Cost China. That Won’t Stop Xi&nbsp;&nbsp;Bloomberg.comTaiwan greatest geopolitical risk to markets – UBP outlook&nbsp;&nbsp;Funds EuropeLegislation addresses potential hostilities between China, Taiwan&nbsp;&nbsp;Financial Regulation News -Is China preparing to invade Taiwan?&nbsp;&nbsp;Dalal Street Investment Journal"
 slug: "xi-s-taiwan-scorecard-why-2026-is-not-the-year-the-strategist-aspi-s-analysis-and-commentary-site"

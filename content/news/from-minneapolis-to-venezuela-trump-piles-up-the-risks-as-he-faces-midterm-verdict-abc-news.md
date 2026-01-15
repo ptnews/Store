@@ -1,6 +1,6 @@
 ---
 title: "From Minneapolis to Venezuela, Trump piles up the risks as he faces midterm verdict - ABC News"
-date: 2026-01-14
+date: 2026-01-15
 description: "From Minneapolis to Venezuela, Trump piles up the risks as he faces midterm verdict&nbsp;&nbsp;ABC NewsA Breathtaking Week of Pure Trump Id&nbsp;&nbsp;The Atlantic2026 is already pure chaos. Is that Trump’s electoral strategy? | Moustafa Bayoumi&nbsp;&nbsp;The GuardianAnalysis | Trump’s most defiant second-term moves were some of his most mocked first-term proposals&nbsp;&nbsp;The Washington PostWill Trump push the US and the world to breaking point?&nbsp;&nbsp;CNN"
 summary: "From Minneapolis to Venezuela, Trump piles up the risks as he faces midterm verdict&nbsp;&nbsp;ABC NewsA Breathtaking Week of Pure Trump Id&nbsp;&nbsp;The Atlantic2026 is already pure chaos. Is that Trump’s electoral strategy? | Moustafa Bayoumi&nbsp;&nbsp;The GuardianAnalysis | Trump’s most defiant second-term moves were some of his most mocked first-term proposals&nbsp;&nbsp;The Washington PostWill Trump push the US and the world to breaking point?&nbsp;&nbsp;CNN"
 slug: "from-minneapolis-to-venezuela-trump-piles-up-the-risks-as-he-faces-midterm-verdict-abc-news"

@@ -1,6 +1,6 @@
 ---
 title: "A ‘cosmic clock’ in tiny crystals has revealed the rise and fall of Australia’s ancient landscapes - The Conversation"
-date: 2026-01-14
+date: 2026-01-15
 description: "A ‘cosmic clock’ in tiny crystals has revealed the rise and fall of Australia’s ancient landscapes&nbsp;&nbsp;The ConversationCosmogenic krypton enables reconstruction of landscapes millions of years old&nbsp;&nbsp;EurekAlert!‘Cosmic clock’ reveals Australian landscapes’ history and potential future&nbsp;&nbsp;Curtin UniversityCosmic Clocks: Scientists unlocked a new way to read Earth’s history&nbsp;&nbsp;Moneycontrol3.7-billion-year-old rocks reveal how Earth and the Moon were bor..."
 summary: "A ‘cosmic clock’ in tiny crystals has revealed the rise and fall of Australia’s ancient landscapes&nbsp;&nbsp;The ConversationCosmogenic krypton enables reconstruction of landscapes millions of years old&nbsp;&nbsp;EurekAlert!‘Cosmic clock’ reveals Australian landscapes’ history and potential future&nbsp;&nbsp;Curtin UniversityCosmic Clocks: Scientists unlocked a new way to read Earth’s history&nbsp;&nbsp;Moneycontrol3.7-billion-year-old rocks reveal how Earth and the Moon were bor..."
 slug: "a-cosmic-clock-in-tiny-crystals-has-revealed-the-rise-and-fall-of-australia-s-ancient-landscapes-the-conversation"

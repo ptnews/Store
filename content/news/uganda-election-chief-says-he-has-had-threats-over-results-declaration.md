@@ -1,6 +1,6 @@
 ---
 title: "Uganda election chief says he has had threats over results declaration"
-date: 2026-01-14
+date: 2026-01-15
 description: "This follows comments by a presidential assistant that Bobi Wine would not be declared president, even if he wins. "
 summary: "This follows comments by a presidential assistant that Bobi Wine would not be declared president, even if he wins. "
 slug: "uganda-election-chief-says-he-has-had-threats-over-results-declaration"

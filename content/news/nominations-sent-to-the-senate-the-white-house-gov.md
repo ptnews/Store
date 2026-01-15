@@ -1,6 +1,6 @@
 ---
 title: "Nominations Sent to the Senate - The White House (.gov)"
-date: 2026-01-14
+date: 2026-01-15
 description: "Nominations Sent to the Senate&nbsp;&nbsp;The White House (.gov)"
 summary: "Nominations Sent to the Senate&nbsp;&nbsp;The White House (.gov)"
 slug: "nominations-sent-to-the-senate-the-white-house-gov"

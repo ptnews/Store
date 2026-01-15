@@ -1,6 +1,6 @@
 ---
 title: "Italian influencer Chiara Ferragni cleared of cake fraud"
-date: 2026-01-14
+date: 2026-01-15
 description: "Chiara Ferragni had been accused of misleading consumers in her promotion of Christmas cakes and Easter eggs."
 summary: "Chiara Ferragni had been accused of misleading consumers in her promotion of Christmas cakes and Easter eggs."
 slug: "italian-influencer-chiara-ferragni-cleared-of-cake-fraud"

@@ -1,6 +1,6 @@
 ---
 title: "Korean Peninsula Update, January 13, 2026 - Institute for the Study of War"
-date: 2026-01-14
+date: 2026-01-15
 description: "Korean Peninsula Update, January 13, 2026&nbsp;&nbsp;Institute for the Study of War"
 summary: "Korean Peninsula Update, January 13, 2026&nbsp;&nbsp;Institute for the Study of War"
 slug: "korean-peninsula-update-january-13-2026-institute-for-the-study-of-war"

@@ -1,6 +1,6 @@
 ---
 title: "Greetings from Acre, Israel, where an old fortress recalls the time of the Crusades - NPR"
-date: 2026-01-14
+date: 2026-01-15
 description: "Greetings from Acre, Israel, where an old fortress recalls the time of the Crusades&nbsp;&nbsp;NPR"
 summary: "Greetings from Acre, Israel, where an old fortress recalls the time of the Crusades&nbsp;&nbsp;NPR"
 slug: "greetings-from-acre-israel-where-an-old-fortress-recalls-the-time-of-the-crusades-npr"

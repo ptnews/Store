@@ -1,6 +1,6 @@
 ---
 title: "Denmark warns of 'fundamental disagreement' after White House talks on Greenland"
-date: 2026-01-14
+date: 2026-01-15
 description: "There was no major breakthrough during the meeting, and President Trump reiterated his interest in acquiring the island shortly afterwards."
 summary: "There was no major breakthrough during the meeting, and President Trump reiterated his interest in acquiring the island shortly afterwards."
 slug: "denmark-warns-of-fundamental-disagreement-after-white-house-talks-on-greenland"

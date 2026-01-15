@@ -1,6 +1,6 @@
 ---
 title: "LA opens ticket draw for 2028 Olympics - with seats starting at $28"
-date: 2026-01-14
+date: 2026-01-15
 description: "If chosen via the draw, fans will be notified via email and will be given a time slot to purchase tickets in April. "
 summary: "If chosen via the draw, fans will be notified via email and will be given a time slot to purchase tickets in April. "
 slug: "la-opens-ticket-draw-for-2028-olympics-with-seats-starting-at-28"
