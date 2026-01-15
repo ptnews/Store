@@ -1,0 +1,21 @@
+---
+title: "Zelensky declares state of emergency in Ukraine's energy sector - BBC"
+date: 2026-01-15
+description: "Zelensky declares state of emergency in Ukraine's energy sector&nbsp;&nbsp;BBCUkraine war briefing: Zelenskyy declares energy emergency as cities shiver&nbsp;&nbsp;The GuardianPhotos show Ukrainians enduring a frigid winter after Russian strikes knocked out power&nbsp;&nbsp;AP NewsRussian attacks cause energy emergency in freezing Ukraine, says Zelenskyy&nbsp;&nbsp;Al JazeeraHundreds of thousands of households in Kyiv are without power after Russian strikes, as temperatures drop well below freez..."
+summary: "Zelensky declares state of emergency in Ukraine's energy sector&nbsp;&nbsp;BBCUkraine war briefing: Zelenskyy declares energy emergency as cities shiver&nbsp;&nbsp;The GuardianPhotos show Ukrainians enduring a frigid winter after Russian strikes knocked out power&nbsp;&nbsp;AP NewsRussian attacks cause energy emergency in freezing Ukraine, says Zelenskyy&nbsp;&nbsp;Al JazeeraHundreds of thousands of households in Kyiv are without power after Russian strikes, as temperatures drop well below freez..."
+slug: "zelensky-declares-state-of-emergency-in-ukraine-s-energy-sector-bbc"
+image: ''
+link: 'https://news.google.com/rss/articles/CBMiWkFVX3lxTE9rTDZOWm1hOVp5cXNUbHIzSTFicC1udHRzWmhxUUs5ZGdBd1NJSk92WkRYeWRIN25rTzZTMG54U0l4TEFMVkhOZ2tsZE9vZ1VSTkhnQ2lLUXpSQdIBX0FVX3lxTFBJejZtTmEwSVh0QUI3NFczS0RjY2Zmb0xMY3A4TW9zc1h1R1hiZTRpLXd3Y2RTWEZNLWtpV0dnaXNtWkM5NldObUZaUlFMTEJuZjZwQ2lVQ0tJUUQ0cWV3?oc=5'
+source: 'https://news.google.com/rss/topics/CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx1YlY4U0FtVnVHZ0pWVXlnQVAB?hl=en-US&gl=US&ceid=US:en'
+categories:
+- 'news.google.com'
+tags:
+- 'emergency'
+- 'zelensky'
+- 'declares'
+- 'ukraine'
+- 'energy'
+
+draft: false
+---
+<ol><li><a href="https://news.google.com/rss/articles/CBMiWkFVX3lxTE9rTDZOWm1hOVp5cXNUbHIzSTFicC1udHRzWmhxUUs5ZGdBd1NJSk92WkRYeWRIN25rTzZTMG54U0l4TEFMVkhOZ2tsZE9vZ1VSTkhnQ2lLUXpSQdIBX0FVX3lxTFBJejZtTmEwSVh0QUI3NFczS0RjY2Zmb0xMY3A4TW9zc1h1R1hiZTRpLXd3Y2RTWEZNLWtpV0dnaXNtWkM5NldObUZaUlFMTEJuZjZwQ2lVQ0tJUUQ0cWV3?oc=5" target="_blank">Zelensky declares state of emergency in Ukraine's energy sector</a>&nbsp;&nbsp;<font color="#6f6f6f">BBC</font></li><li><a href="https://news.google.com/rss/articles/CBMi2AFBVV95cUxNQjhaRWdpWjVDWGc1aHdOSXQ0UjE4elY4bEVXWDN3MjlkYnR4LTl6TzZqYVdFMFZRLVMwbnVoWnJ6VUpDT1pieVNMS19uU2VyUFpzU3N5dDNxODNiMjRqY1RsMXRzdHVkX3FnRFlrVnFDUFNGLTEzc2VTVGdPTDNtUzZteV9iVjdKNTlyVEhtQ21DVlVKMGFDSmhOZUljZ3Y0eldlNmF5S0JUejBGNng4cjZHdnRySkRQMGNyTzh0aUNsSHRnMTJ2dVgtLTd4a2dTWkRnbzYyVmY?oc=5" target="_blank">Ukraine war briefing: Zelenskyy declares energy emergency as cities shiver</a>&nbsp;&nbsp;<font color="#6f6f6f">The Guardian</font></li><li><a href="https://news.google.com/rss/articles/CBMiqwFBVV95cUxQV0FseVBuVktIMWNEY3FYeU0ySXVMaWUxTU5uZjlmZUJfYWdIaV8ySTNHcERqRWlJU19BQUNzZ25XZ0U4aThJU2ZBSVpacEdYX09OMmVaV0J3eHhwdWdJSzhHSEdhZWV0MXZESjNnck9PQkxBTTJtXzdoM0tJTVlRcUNsRVFLUl9KaWVQcDhVQTFDMGhFODM5Um0zdm5BcWk5TkcyYnNqX1FnMms?oc=5" target="_blank">Photos show Ukrainians enduring a frigid winter after Russian strikes knocked out power</a>&nbsp;&nbsp;<font color="#6f6f6f">AP News</font></li><li><a href="https://news.google.com/rss/articles/CBMitAFBVV95cUxNaWl2dXp4UjNxM2dkeUJRdHRRclEzZkl4Y3lWb2tZTGpPa3RIejltcXA1NTRLSFhSVnRwMF8tLUM4X1R6eS1oYTRPMmtNeGozVGlFc2NBc1ZyRDhfS091S3dTRmRIeTVjalg3eVBNWGF6UVFTeldaaEpHTm9uRkFVcGpVLTFfbzJmVGY1OFR3YmdIOGdMcld4a1c2SURxWVhWVEY5cUNUaTdNbzRJbmtjTHllOGnSAboBQVVfeXFMT25USl9rVTNkaDhZZ0YteXVXLUdIOEF5OVB0QW9TTmlTbEQ3ZTIzc0N0TFdRVzBZTDlWOGxCRF9Sa0pRSFN3NENSMmk3b25IR3NJRVBYeWZjSGRfMVRUWVMzTldLWlE5YXljam1Mb0VKV29sSUdHcUFLV1FISXNOczdPcTEyS3dBaXNVVXdFTHk1bDdWQk9nVV9GbVYzWEdpVHptV3JIZ05MYlZoMVg1U1BCQWY3cXh5cHJn?oc=5" target="_blank">Russian attacks cause energy emergency in freezing Ukraine, says Zelenskyy</a>&nbsp;&nbsp;<font color="#6f6f6f">Al Jazeera</font></li><li><a href="https://news.google.com/rss/articles/CBMilgFBVV95cUxQQmVsdXJfRWJiQUVGWU1xTTR5Qkh0Y2VHdVJzY0h0alZLUG5YTjNNdzVwTFRPOUczNVM1QlNUWXpIYjhoMFhvYW1WRG9xNFBnSHFnLTVkb1oxZXc3VG5fdUJkQ040TVZJTVdZYjVYNzlEcDFIUEJYSmg5NkxFTlZLbGFUY0hibEV3RkFCWDlmS0p6TkwzYkE?oc=5" target="_blank">Hundreds of thousands of households in Kyiv are without power after Russian strikes, as temperatures drop well below freezing</a>&nbsp;&nbsp;<font color="#6f6f6f">CNN</font></li></ol>
