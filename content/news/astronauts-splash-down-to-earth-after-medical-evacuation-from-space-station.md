@@ -1,6 +1,6 @@
 ---
 title: "Astronauts splash down to Earth after medical evacuation from space station"
-date: 2026-01-15
+date: 2026-01-16
 description: "The four members of Crew-11 beamed as they stepped out of their spacecraft after a safe landing."
 summary: "The four members of Crew-11 beamed as they stepped out of their spacecraft after a safe landing."
 slug: "astronauts-splash-down-to-earth-after-medical-evacuation-from-space-station"

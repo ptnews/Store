@@ -1,6 +1,6 @@
 ---
 title: "Zelensky declares energy emergency as biting cold persists"
-date: 2026-01-15
+date: 2026-01-16
 description: "The move comes as US President Donald Trump said Ukraine is \"less ready\" than the Russian president to make a peace deal."
 summary: "The move comes as US President Donald Trump said Ukraine is \"less ready\" than the Russian president to make a peace deal."
 slug: "zelensky-declares-energy-emergency-as-biting-cold-persists"

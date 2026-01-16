@@ -1,6 +1,6 @@
 ---
 title: "From behind bars, Aung San Suu Kyi casts a long shadow over Myanmar"
-date: 2026-01-15
+date: 2026-01-16
 description: "The democracy campaigner has spent 20 years in total in detention, five of them since being overthrown by a coup."
 summary: "The democracy campaigner has spent 20 years in total in detention, five of them since being overthrown by a coup."
 slug: "from-behind-bars-aung-san-suu-kyi-casts-a-long-shadow-over-myanmar"

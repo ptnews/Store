@@ -1,6 +1,6 @@
 ---
 title: "Watch: Astronauts return to Earth after medical evacuation"
-date: 2026-01-15
+date: 2026-01-16
 description: "Four astronauts who left the International Space Station (ISS) a month early due to one of the crew members falling ill have returned to Earth on Thursday."
 summary: "Four astronauts who left the International Space Station (ISS) a month early due to one of the crew members falling ill have returned to Earth on Thursday."
 slug: "watch-astronauts-return-to-earth-after-medical-evacuation"

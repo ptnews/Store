@@ -1,6 +1,6 @@
 ---
 title: "Ethiopia says seized ammunition sent by Eritrea to rebels as tensions rise"
-date: 2026-01-15
+date: 2026-01-16
 description: "Eritrea denies the claim and accuses Ethiopia of seeking a pretext to attack, amid fears of renewed conflict."
 summary: "Eritrea denies the claim and accuses Ethiopia of seeking a pretext to attack, amid fears of renewed conflict."
 slug: "ethiopia-says-seized-ammunition-sent-by-eritrea-to-rebels-as-tensions-rise"

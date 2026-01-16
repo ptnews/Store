@@ -1,0 +1,21 @@
+---
+title: "Florida teens buried alive in deadly sand tunnel collapse"
+date: 2026-01-15
+description: "Two 14-year-old best friends died when a sandpit collapsed on them at a Florida beach near Tampa. The boys were reportedly digging for fun."
+summary: "Two 14-year-old best friends died when a sandpit collapsed on them at a Florida beach near Tampa. The boys were reportedly digging for fun."
+slug: "florida-teens-buried-alive-in-deadly-sand-tunnel-collapse"
+image: ''
+link: 'https://www.foxnews.com/us/florida-teens-buried-alive-deadly-sand-tunnel-collapse'
+source: 'https://feeds.foxnews.com/foxnews/latest'
+categories:
+- 'feeds.foxnews.com'
+tags:
+- 'collapse'
+- 'florida'
+- 'buried'
+- 'deadly'
+- 'tunnel'
+
+draft: false
+---
+<p>A <a href="https://www.foxnews.com/category/us/us-regions/southeast/florida" target="_blank" rel="noopener">Florida community</a> is reeling from the deaths of two teenage best friends who lost their lives while enjoying a day in the sand.</p><p>George Watts, 14, and Derrick Hubbard, 14, were digging a hole and tunnel in a sandpit near Sportsman’s Park in Inverness, roughly 70 miles north of Tampa, Jan. 11, according to <a href="https://www.fox13news.com/news/citrus-county-family-teen-who-died-after-tunnel-collapse-donates-organs" target="_blank" rel="noopener">FOX 13.</a> </p><p>"They were just kids," Corey Edwards, their coach and mentor in the 352 Legends program, told the outlet. "They were just kids doing what we try to tell kids to do, ‘Get outside and play.’"</p><p>When the <a href="https://www.foxnews.com/us/texas-girl-rescued-after-sand-hole-she-digging-collapses-burying-her" target="_blank" rel="noopener">hole was roughly 5</a> feet deep, it reportedly collapsed on the two teens. </p><p><a href="https://www.foxnews.com/media/officers-look-back-how-revived-baby-trapped-under-car-the-lords-not-done-her" target="_blank" rel="noopener"><strong><u>OFFICERS LOOK BACK ON HOW THEY REVIVED BABY TRAPPED UNDER CAR: 'THE LORD'S NOT DONE WITH HER'</u></strong></a></p><p>According to a Citrus County Sheriff’s Office report obtained by FOX 13, their parents became worried when neither Watts nor Hubbard answered their cellphones during lunchtime, and they went to the area to search for them. </p><p>Their parents reportedly located the boys’ bicycles and shoes by the sandpit and immediately called for help as they began digging. </p><p>When first responders found Hubbard, he did not have a pulse and was transported to a hospital, where he was pronounced dead. </p><p><a href="https://www.foxnews.com/us/texas-girl-rescued-after-sand-hole-she-digging-collapses-burying-her" target="_blank" rel="noopener"><strong>TEXAS GIRL RESCUED AFTER SAND HOLE SHE WAS DIGGING COLLAPSES, BURYING HER</strong></a></p><p>Watts was located with a pulse but was unconscious and not breathing when he was pulled from the sand. He was transported to a hospital and later flown to UF Health Shands in Gainesville in critical condition, FOX 13 reported. </p><p>He was pronounced dead two days later at 4:25 a.m. Tuesday, according to the outlet.</p><p>Details regarding the length of time in which the boys were trapped remain unclear. </p><p><a href="https://www.foxnews.com/us/nypd-officer-leaps-freezing-river-save-teenage-girl-from-drowning" target="_blank" rel="noopener"><strong><u>NYPD OFFICER LEAPS INTO FREEZING RIVER TO SAVE TEENAGE GIRL FROM DROWNING</u></strong></a></p><p>"They were digging a hole," Edwards reportedly said. "They were having fun, being adventurous, using their imagination. They're doing things that we preach to kids that we want them to do and, unfortunately, this just turned into a tragedy."</p><p>The two boys reportedly grew up together and were like brothers. They had recently celebrated winning the <a href="https://www.foxnews.com/category/sports/nfl" target="_blank" rel="noopener">Citrus NFL Flag Football league championship</a> and are being remembered by loved ones as always being kind, funny and adventurous. </p><p>"It really killed a part of all of us, losing them," Lina Bilodeau told FOX 13. "This is a pain that will never subside. Born together and passed together. A true friendship most of us as adults never even get to experience."  </p>

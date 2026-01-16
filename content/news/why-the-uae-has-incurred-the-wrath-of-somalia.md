@@ -1,6 +1,6 @@
 ---
 title: "Why the UAE has incurred the wrath of Somalia  "
-date: 2026-01-15
+date: 2026-01-16
 description: "The government in Mogadishu has accused the UAE of undermining its sovereignty."
 summary: "The government in Mogadishu has accused the UAE of undermining its sovereignty."
 slug: "why-the-uae-has-incurred-the-wrath-of-somalia"

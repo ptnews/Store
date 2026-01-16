@@ -1,6 +1,6 @@
 ---
 title: "Iran authorities demanding large sums for return of protesters' bodies, BBC told"
-date: 2026-01-15
+date: 2026-01-16
 description: "Multiple sources have told BBC Persian that security forces will not release bodies unless relatives hand over money. "
 summary: "Multiple sources have told BBC Persian that security forces will not release bodies unless relatives hand over money. "
 slug: "iran-authorities-demanding-large-sums-for-return-of-protesters-bodies-bbc-told"

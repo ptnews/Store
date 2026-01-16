@@ -1,6 +1,6 @@
 ---
 title: "Drug ring's \"monkey\" technique used young swimmers to stash cocaine on ships at sea, Spanish police say - CBS News"
-date: 2026-01-15
+date: 2026-01-16
 description: "Drug ring's \"monkey\" technique used young swimmers to stash cocaine on ships at sea, Spanish police say&nbsp;&nbsp;CBS NewsSpanish police break up gang that used swimmers to hide cocaine on ships&nbsp;&nbsp;The GuardianSpain seizes 10 tonnes of cocaine in largest-ever maritime bust&nbsp;&nbsp;Euronews.comSpanish police seize record 10 tons of cocaine hidden in cargo of salt&nbsp;&nbsp;ReutersJoint police operation hauls 10 tons of cocaine off Canary Islands&nbsp;&nbsp;Yahoo"
 summary: "Drug ring's \"monkey\" technique used young swimmers to stash cocaine on ships at sea, Spanish police say&nbsp;&nbsp;CBS NewsSpanish police break up gang that used swimmers to hide cocaine on ships&nbsp;&nbsp;The GuardianSpain seizes 10 tonnes of cocaine in largest-ever maritime bust&nbsp;&nbsp;Euronews.comSpanish police seize record 10 tons of cocaine hidden in cargo of salt&nbsp;&nbsp;ReutersJoint police operation hauls 10 tons of cocaine off Canary Islands&nbsp;&nbsp;Yahoo"
 slug: "drug-ring-s-monkey-technique-used-young-swimmers-to-stash-cocaine-on-ships-at-sea-spanish-police-say-cbs-news"

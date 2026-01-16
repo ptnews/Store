@@ -1,6 +1,6 @@
 ---
 title: "Explosion and fire in Dutch city of Utrecht caused by gas leak, officials say"
-date: 2026-01-15
+date: 2026-01-16
 description: "At least four people are injured and several buildings collapsed as a result. "
 summary: "At least four people are injured and several buildings collapsed as a result. "
 slug: "explosion-and-fire-in-dutch-city-of-utrecht-caused-by-gas-leak-officials-say"

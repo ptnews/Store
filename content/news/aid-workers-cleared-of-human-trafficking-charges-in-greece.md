@@ -1,6 +1,6 @@
 ---
 title: "Aid workers cleared of human trafficking charges in Greece"
-date: 2026-01-15
+date: 2026-01-16
 description: "The former volunteers, who were facing lengthy jail terms, worked for an NGO that rescued asylum-seekers. "
 summary: "The former volunteers, who were facing lengthy jail terms, worked for an NGO that rescued asylum-seekers. "
 slug: "aid-workers-cleared-of-human-trafficking-charges-in-greece"

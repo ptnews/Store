@@ -1,6 +1,6 @@
 ---
 title: "Rift at top of the Taliban: BBC reveals clash of wills behind internet shutdown"
-date: 2026-01-15
+date: 2026-01-16
 description: "The Taliban leader once warned of a split: A BBC investigation reveals how attitudes to women, the internet and religion are dividing the group at the very top."
 summary: "The Taliban leader once warned of a split: A BBC investigation reveals how attitudes to women, the internet and religion are dividing the group at the very top."
 slug: "rift-at-top-of-the-taliban-bbc-reveals-clash-of-wills-behind-internet-shutdown"

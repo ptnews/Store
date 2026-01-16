@@ -1,6 +1,6 @@
 ---
 title: "Votes being counted in Uganda election as opposition alleges rigging"
-date: 2026-01-15
+date: 2026-01-16
 description: "The election is a rematch between Bobi Wine and Yoweri Museveni, who has been president for 40 years."
 summary: "The election is a rematch between Bobi Wine and Yoweri Museveni, who has been president for 40 years."
 slug: "votes-being-counted-in-uganda-election-as-opposition-alleges-rigging"

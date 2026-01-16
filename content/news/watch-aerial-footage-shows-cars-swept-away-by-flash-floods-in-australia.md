@@ -1,6 +1,6 @@
 ---
 title: "Watch: Aerial footage shows cars swept away by flash floods in Australia"
-date: 2026-01-15
+date: 2026-01-16
 description: "Australia's Great Ocean Road closed on Thursday after flash floods hit the state of Victoria. "
 summary: "Australia's Great Ocean Road closed on Thursday after flash floods hit the state of Victoria. "
 slug: "watch-aerial-footage-shows-cars-swept-away-by-flash-floods-in-australia"

@@ -1,6 +1,6 @@
 ---
 title: "She's offered to share her Nobel with Trump. But what might Machado ask for in return?"
-date: 2026-01-15
+date: 2026-01-16
 description: "Venezuela's opposition leader will meet with US President Donald Trump at the White House on Thursday."
 summary: "Venezuela's opposition leader will meet with US President Donald Trump at the White House on Thursday."
 slug: "she-s-offered-to-share-her-nobel-with-trump-but-what-might-machado-ask-for-in-return"

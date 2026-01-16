@@ -1,6 +1,6 @@
 ---
 title: "Trump vows 'very strong action' if Iran executes protesters"
-date: 2026-01-15
+date: 2026-01-16
 description: "Relatives of 26-year-old Erfan Soltani, who was detained last week, have told BBC Persian he is due to be executed on Wednesday."
 summary: "Relatives of 26-year-old Erfan Soltani, who was detained last week, have told BBC Persian he is due to be executed on Wednesday."
 slug: "trump-vows-very-strong-action-if-iran-executes-protesters"

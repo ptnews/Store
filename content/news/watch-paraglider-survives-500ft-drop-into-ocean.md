@@ -1,6 +1,6 @@
 ---
 title: "Watch: Paraglider survives 500ft drop into ocean"
-date: 2026-01-15
+date: 2026-01-16
 description: "The man's powered paraglider malfunctioned causing him to crash into the water off the coast of Palm Beach County, Florida."
 summary: "The man's powered paraglider malfunctioned causing him to crash into the water off the coast of Palm Beach County, Florida."
 slug: "watch-paraglider-survives-500ft-drop-into-ocean"

@@ -1,6 +1,6 @@
 ---
 title: "Boeing knew of flaw in part linked to UPS plane crash, US safety board report says"
-date: 2026-01-15
+date: 2026-01-16
 description: "An aircraft that crashed in November had a structural flaw that had been identified by Boeing 15 years ago, investigators say."
 summary: "An aircraft that crashed in November had a structural flaw that had been identified by Boeing 15 years ago, investigators say."
 slug: "boeing-knew-of-flaw-in-part-linked-to-ups-plane-crash-us-safety-board-report-says"

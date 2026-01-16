@@ -1,6 +1,6 @@
 ---
 title: "'I carried my wife's body for an hour and a half' - BBC hears stories of protesters killed in Iran"
-date: 2026-01-15
+date: 2026-01-16
 description: "BBC Persian has received dozens of accounts from inside Iran, with witnesses saying they want to ensure the world knew of the violence against protesters."
 summary: "BBC Persian has received dozens of accounts from inside Iran, with witnesses saying they want to ensure the world knew of the violence against protesters."
 slug: "i-carried-my-wife-s-body-for-an-hour-and-a-half-bbc-hears-stories-of-protesters-killed-in-iran"
