@@ -1,8 +1,8 @@
 ---
 title: "Israel moves Yellow Line deeper into Gaza, satellite images show"
 date: 2026-01-16
-description: "Israel placed and later moved control markers in three areas, with placed deeper inside Gaza than maps suggested. "
-summary: "Israel placed and later moved control markers in three areas, with placed deeper inside Gaza than maps suggested. "
+description: "Israel placed and later moved control markers in three areas, with some placed deeper inside Gaza than maps suggested. "
+summary: "Israel placed and later moved control markers in three areas, with some placed deeper inside Gaza than maps suggested. "
 slug: "israel-moves-yellow-line-deeper-into-gaza-satellite-images-show"
 image: ''
 link: 'https://www.bbc.com/news/articles/ckgxl6zkenqo?at_medium=RSS&at_campaign=rss'
@@ -18,4 +18,4 @@ tags:
 
 draft: false
 ---
-Israel placed and later moved control markers in three areas, with placed deeper inside Gaza than maps suggested. 
+Israel placed and later moved control markers in three areas, with some placed deeper inside Gaza than maps suggested. 
