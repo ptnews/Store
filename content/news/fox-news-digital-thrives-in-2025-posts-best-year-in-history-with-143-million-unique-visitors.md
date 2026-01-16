@@ -1,20 +1,20 @@
 ---
-title: "Fox News Digital thrives in 2025, posts best year in history among key measurable"
+title: "Fox News Digital thrives in 2025, posts best year in history with 143 million unique visitors"
 date: 2026-01-16
 description: "Fox News Digital dominated all other news brands among key measurables in 2025 as Americans relied on the growing platform for information and analysis."
 summary: "Fox News Digital dominated all other news brands among key measurables in 2025 as Americans relied on the growing platform for information and analysis."
-slug: "fox-news-digital-thrives-in-2025-posts-best-year-in-history-among-key-measurable"
+slug: "fox-news-digital-thrives-in-2025-posts-best-year-in-history-with-143-million-unique-visitors"
 image: ''
 link: 'https://www.foxnews.com/media/fox-news-digital-thrives-2025-posts-best-year-history-among-key-measurable'
 source: 'https://feeds.foxnews.com/foxnews/latest'
 categories:
 - 'feeds.foxnews.com'
 tags:
-- 'measurable'
+- 'visitors'
 - 'digital'
 - 'thrives'
 - 'history'
-- 'posts'
+- 'million'
 
 draft: false
 ---
