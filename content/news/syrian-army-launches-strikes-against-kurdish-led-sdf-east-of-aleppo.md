@@ -1,8 +1,8 @@
 ---
 title: "Syrian army launches strikes against Kurdish-led SDF east of Aleppo"
 date: 2026-01-16
-description: "This is a breaking news story. More to follow ..."
-summary: "This is a breaking news story. More to follow ..."
+description: "SDF&#039;s Mazloum Abdi says he will withdraw forces east of Euphrates, as President al-Sharaa issues Kurdish rights decree."
+summary: "SDF&#039;s Mazloum Abdi says he will withdraw forces east of Euphrates, as President al-Sharaa issues Kurdish rights decree."
 slug: "syrian-army-launches-strikes-against-kurdish-led-sdf-east-of-aleppo"
 image: ''
 link: 'https://www.aljazeera.com/news/2026/1/16/syrian-army-warns-of-strikes-against-kurdish-led-sdf-east-of-aleppo?traffic_source=rss'
@@ -18,4 +18,4 @@ tags:
 
 draft: false
 ---
-This is a breaking news story. More to follow ...
+SDF&#039;s Mazloum Abdi says he will withdraw forces east of Euphrates, as President al-Sharaa issues Kurdish rights decree.
