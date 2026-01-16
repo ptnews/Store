@@ -1,8 +1,8 @@
 ---
 title: "Famed safari park shuts as deadly floods strike South Africa"
 date: 2026-01-16
-description: "At least 19 people are now believed to have died in recent weeks in northern South Africa during floods."
-summary: "At least 19 people are now believed to have died in recent weeks in northern South Africa during floods."
+description: "Severe flooding believed to be worsened by climate change has killed at least 19 people in South Africa in recent weeks."
+summary: "Severe flooding believed to be worsened by climate change has killed at least 19 people in South Africa in recent weeks."
 slug: "famed-safari-park-shuts-as-deadly-floods-strike-south-africa"
 image: ''
 link: 'https://www.bbc.com/news/articles/cgl8n3jjnd1o?at_medium=RSS&at_campaign=rss'
@@ -18,4 +18,4 @@ tags:
 
 draft: false
 ---
-At least 19 people are now believed to have died in recent weeks in northern South Africa during floods.
+Severe flooding believed to be worsened by climate change has killed at least 19 people in South Africa in recent weeks.
