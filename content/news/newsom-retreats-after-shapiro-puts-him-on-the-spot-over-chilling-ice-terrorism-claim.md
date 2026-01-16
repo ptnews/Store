@@ -1,8 +1,8 @@
 ---
 title: "Newsom retreats after Shapiro puts him on the spot over chilling ICE terrorism claim"
 date: 2026-01-16
-description: "Newsom moderates his stance on ICE after his office called shooting &apos;state-sponsored terrorism,&apos; signaling potential 2028 presidential strategy shift."
-summary: "Newsom moderates his stance on ICE after his office called shooting &apos;state-sponsored terrorism,&apos; signaling potential 2028 presidential strategy shift."
+description: "Newsom moderates his stance on ICE after his office called shooting &quot;state-sponsored terrorism,&quot; signaling potential 2028 presidential strategy shift."
+summary: "Newsom moderates his stance on ICE after his office called shooting &quot;state-sponsored terrorism,&quot; signaling potential 2028 presidential strategy shift."
 slug: "newsom-retreats-after-shapiro-puts-him-on-the-spot-over-chilling-ice-terrorism-claim"
 image: ''
 link: 'https://www.foxnews.com/media/newsom-retreats-after-shapiro-puts-him-spot-over-chilling-ice-terrorism-claim'
