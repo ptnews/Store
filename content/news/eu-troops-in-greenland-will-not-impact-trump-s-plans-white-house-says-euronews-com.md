@@ -1,0 +1,21 @@
+---
+title: "EU troops in Greenland will not impact Trump's plans, White House says - Euronews.com"
+date: 2026-01-16
+description: "EU troops in Greenland will not impact Trump's plans, White House says&nbsp;&nbsp;Euronews.comEuropean troops arrive in Greenland as Trump throws another curveball&nbsp;&nbsp;NBC NewsDenmark's Arctic commander says focus is on Russia, not U.S., amid security concerns&nbsp;&nbsp;ReutersTroops and vessels from European Nato allies arrive in Greenland&nbsp;&nbsp;BBCTroops from Europe deploy to Greenland in rapid 2-day mission as Trump eyes US takeover&nbsp;&nbsp;Fox News"
+summary: "EU troops in Greenland will not impact Trump's plans, White House says&nbsp;&nbsp;Euronews.comEuropean troops arrive in Greenland as Trump throws another curveball&nbsp;&nbsp;NBC NewsDenmark's Arctic commander says focus is on Russia, not U.S., amid security concerns&nbsp;&nbsp;ReutersTroops and vessels from European Nato allies arrive in Greenland&nbsp;&nbsp;BBCTroops from Europe deploy to Greenland in rapid 2-day mission as Trump eyes US takeover&nbsp;&nbsp;Fox News"
+slug: "eu-troops-in-greenland-will-not-impact-trump-s-plans-white-house-says-euronews-com"
+image: ''
+link: 'https://news.google.com/rss/articles/CBMiuwFBVV95cUxNeU9WQV96ZmNFNjg3ZExQR0k3YWc2NkQwWkljN1J2OUo5NXVjYXZkNjhUR0M0Z1dzU053S0tER0RiME1kcmlxbzlqdWRreS1YWnFNZVhWcWUzaXhuTTJFdVRibmdIV3dvRHhVcWg3TzlkbVRiMnFHdV9sYzU3U2ZMVzItelFxV1hVdUhOSHNBQ25uTXE1S0EwS2p1ZHV1M2t3Rjh3alBnQnFTRVpZLXo1czBOeFRyck1QaUlv?oc=5'
+source: 'https://news.google.com/rss/topics/CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx1YlY4U0FtVnVHZ0pWVXlnQVAB?hl=en-US&gl=US&ceid=US:en'
+categories:
+- 'news.google.com'
+tags:
+- 'greenland'
+- 'euronews'
+- 'troops'
+- 'impact'
+- 'trump'
+
+draft: false
+---
+<ol><li><a href="https://news.google.com/rss/articles/CBMiuwFBVV95cUxNeU9WQV96ZmNFNjg3ZExQR0k3YWc2NkQwWkljN1J2OUo5NXVjYXZkNjhUR0M0Z1dzU053S0tER0RiME1kcmlxbzlqdWRreS1YWnFNZVhWcWUzaXhuTTJFdVRibmdIV3dvRHhVcWg3TzlkbVRiMnFHdV9sYzU3U2ZMVzItelFxV1hVdUhOSHNBQ25uTXE1S0EwS2p1ZHV1M2t3Rjh3alBnQnFTRVpZLXo1czBOeFRyck1QaUlv?oc=5" target="_blank">EU troops in Greenland will not impact Trump's plans, White House says</a>&nbsp;&nbsp;<font color="#6f6f6f">Euronews.com</font></li><li><a href="https://news.google.com/rss/articles/CBMiqgFBVV95cUxQdDdDZTJXOERzTU9hYnBXemMyeXlDWXl2MXVuSG05ejRxRFVvN3lZVDNkT3lraVBxdFBGMUUwa2VSYlFCZEVxMWpJanp4ZTlYUXZLeUVpNVc3RnVfcDVPbVpHUXNjZGJTODVuUUY3cEZVQTNXVUp4dnpCaTZ5Z244WWVxR0F5TXNTXzJOaDA1QVhURHM4ZjFxTmZLNFVrYm9rc0JYMnVjb3N3Z9IBVkFVX3lxTE5MZVQzQ1k3VF8xNnI2bDdsazZlN0EwS0Y1RFVCdWQ3NVo3Y0xubGpCenBzTlE5VkZ1M0NXdXl0anJFS0xBZzFxYXNiODNxeVNyQ3dGRXln?oc=5" target="_blank">European troops arrive in Greenland as Trump throws another curveball</a>&nbsp;&nbsp;<font color="#6f6f6f">NBC News</font></li><li><a href="https://news.google.com/rss/articles/CBMivAFBVV95cUxObHI5YnMtVzEyTFhyMWRWbVMyVHAzalNpeGVSRFF4V2JibExJWkpiUzFSSG1EYUVmcUwyWWNJa2gzOFUzdlN4bFhKQk95TWx5WlRqZlA4SGVROFRvdTAtLWlxVk01WVFKZzNRc2VzT3FqYzloc1dNSDdVeHdKQlNNWFFCcnBDUG0zY2h2RUhrQjhONko0UlVSSHhxNzZKbklBRG9MN0ZHel9udHNjUS16NGRvRE02S2xQMzBiOA?oc=5" target="_blank">Denmark's Arctic commander says focus is on Russia, not U.S., amid security concerns</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font></li><li><a href="https://news.google.com/rss/articles/CBMiV0FVX3lxTE9QZmNfUGVFRkl1WFp5RjFyU1NyMmlfTURNSVJYMmRNNzNWSzJjOGNxQnJiUlh2RklUTUZHdHdTa1VnRGJBM0JWN0VPazJoX21XYnU2X0x4MA?oc=5" target="_blank">Troops and vessels from European Nato allies arrive in Greenland</a>&nbsp;&nbsp;<font color="#6f6f6f">BBC</font></li><li><a href="https://news.google.com/rss/articles/CBMirAFBVV95cUxQS2hteEdaOVdtSXRUaFY5NGxDLUZNSW4yX3pVVUtMMFd1b1otdmhWbUFNQXl5MG5GRm02MUstYnVieVpOTTVDdFpzY28yREtnSjliTXUwaWNlX3NFQk1WZnJfQXFYb2liYVJpRV9RUlJTN2R0UnNCWWpPQUVQSmpDazBwaHcyVHpCLVFHSUVfM0dHR016SXFzbURpb2c5QnRZZncxT1E0YkZFNGZv0gGyAUFVX3lxTFBtbXdfYzBVdU1ySm1Pa2MtZGZHX2dobUN4Z2ZlbVJFZ0dzSmoyMG5Vand5Tk9ZaWhXOFV2cmVTcUpiUWRGRkEteHhjNERxbmFmOTdRU0l2cUtNekVoZE9YRzVEZ2FMRjhVSWowNXg4TFJzV09IbUdJSEdYV2duNmNIUDc5QTV6RExQVDRzVFh6b0R2bFIySlFJSXpHcVoyaXR6Z2E3V2EzNXFEOUdXQjVFZlE?oc=5" target="_blank">Troops from Europe deploy to Greenland in rapid 2-day mission as Trump eyes US takeover</a>&nbsp;&nbsp;<font color="#6f6f6f">Fox News</font></li></ol>

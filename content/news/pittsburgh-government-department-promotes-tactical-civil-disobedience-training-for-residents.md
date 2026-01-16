@@ -1,0 +1,21 @@
+---
+title: "Pittsburgh government department promotes 'tactical' civil disobedience training for residents"
+date: 2026-01-16
+description: "A Pittsburgh government department showcased a &quot;tactical&quot; civil disobedience training session, sparking concerns about organized resistance to federal law enforcement."
+summary: "A Pittsburgh government department showcased a &quot;tactical&quot; civil disobedience training session, sparking concerns about organized resistance to federal law enforcement."
+slug: "pittsburgh-government-department-promotes-tactical-civil-disobedience-training-for-residents"
+image: ''
+link: 'https://www.foxnews.com/media/pittsburgh-government-department-promotes-tactical-civil-disobedience-training-residents'
+source: 'https://feeds.foxnews.com/foxnews/latest'
+categories:
+- 'feeds.foxnews.com'
+tags:
+- 'disobedience'
+- 'pittsburgh'
+- 'government'
+- 'department'
+- 'residents'
+
+draft: false
+---
+<p>A Pittsburgh government agency recently promoted what it called a "tactical" civil disobedience training, sparking backlash from critics who said the event encouraged organized resistance against federal <a href="https://www.foxnews.com/category/us/crime/police-and-law-enforcement" target="_blank" rel="noopener">law enforcement</a>.</p><p>A flyer posted on X by the Pittsburgh Commission on Human Relations advertised the event — titled "Rebirthing Civil Disobedience, Part II" — scheduled for Tuesday, Jan. 13, in Wilkinsburg, Pennsylvania. </p><p>The flyer featured images of law enforcement officers <a href="https://www.foxnews.com/category/us/us-protests" target="_blank" rel="noopener">confronting protesters</a> and promoted the event as "tactical training in the art of civil disobedience."</p><p><a href="https://www.foxnews.com/media/minneapolis-police-chief-says-rhetoric-keeps-escalating-we-headed-towards-yet-another-tragedy" target="_blank" rel="noopener"><strong>MINNEAPOLIS POLICE CHIEF SAYS IF RHETORIC KEEPS ESCALATING 'WE ARE HEADED TOWARDS YET ANOTHER TRAGEDY'</strong></a></p><p>The flyer encouraged participants to "build your CD muscle," adding that "no experience [was] necessary." It also promoted a featured speaker described as a "practitioner and trainer with extensive experience and legal adviser and human rights attorney."</p><p>The promotional material included the logos of <a href="https://www.foxnews.com/category/politics/socialism" target="_blank" rel="noopener">Pittsburgh Democratic Socialists of America</a> and <a href="https://www.50501pgh.com/" target="_blank" rel="nofollow noopener">50501 Pittsburgh</a>, the latter describing itself as "a growing network of concerned citizens and volunteers" that pushes back against "the rise of fascist movements, book bans, voter suppression, political violence, and power grabs disguised as patriotism."</p><p><a href="https://www.foxnews.com/media/ice-chief-todd-lyons-fires-back-after-aoc-alleges-renee-nicole-good-assassinated-street" target="_blank" rel="noopener"><strong>ICE CHIEF TODD LYONS FIRES BACK AFTER AOC ALLEGES RENEE NICOLE GOOD WAS 'ASSASSINATED IN THE STREET'</strong></a></p><p>ICE has faced heightened criticism since the shooting of <a href="https://www.foxnews.com/us/renee-nicole-good-part-ice-watch-group-dhs-sources-say" target="_blank" rel="noopener"><u>Renee Nicole Good</u></a> in Minneapolis.</p><p>Good was a Minneapolis-based <a href="https://www.foxnews.com/category/us/immigration/immigrant-rights" target="_blank" rel="noopener">immigration activist</a> serving as a member of "ICE Watch."</p><p><a href="https://x.com/Kheniwyze/status/2010693770459705472" target="_blank" rel="nofollow noopener"><u>One X user</u></a> replied to the post from the Pittsburgh Commission on Human Relations and wrote, "This is the kind of training that Renee had and it cost her her life. It is pathetic and embarrassing that an official city account would promote this nonsense. You're all miserable and the only satisfaction you get is dragging others down with you."</p><p><a href="http://www.foxnews.com/media" target="_blank" rel="noopener"><strong>CLICK HERE FOR MORE COVERAGE OF MEDIA AND CULTURE</strong></a></p><p>ICE, the Pittsburgh Commission on Human Relations, Pittsburgh Democratic Socialists of America, and 50501 Pittsburgh did not immediately respond to Fox News Digital's requests for comment. </p>
