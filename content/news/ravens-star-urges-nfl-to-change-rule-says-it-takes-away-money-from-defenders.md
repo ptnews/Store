@@ -1,0 +1,21 @@
+---
+title: "Ravens star urges NFL to change rule, says it takes away money from defenders"
+date: 2026-01-16
+description: "Baltimore Ravens star Kyle Van Noy called on the NFL to change the intentional grounding rule, so that players who force the penalty are awarded a sack."
+summary: "Baltimore Ravens star Kyle Van Noy called on the NFL to change the intentional grounding rule, so that players who force the penalty are awarded a sack."
+slug: "ravens-star-urges-nfl-to-change-rule-says-it-takes-away-money-from-defenders"
+image: ''
+link: 'https://www.foxnews.com/sports/ravens-star-urges-nfl-change-rule-says-takes-away-money-from-defenders'
+source: 'https://feeds.foxnews.com/foxnews/latest'
+categories:
+- 'feeds.foxnews.com'
+tags:
+- 'defenders'
+- 'ravens'
+- 'change'
+- 'urges'
+- 'takes'
+
+draft: false
+---
+<p><a href="https://www.foxnews.com/category/sports/nfl/baltimore-ravens" target="_blank" rel="noopener">Baltimore Ravens</a> star edge rusher Kyle Van Noy wants to see the NFL make a change to the intentional grounding rule.</p><p><a href="https://www.foxnews.com/category/person/kyle-van-noy" target="_blank" rel="noopener">Van Noy,</a> 34, wants intentional grounding calls to count as a sack for the defender who forces the quarterback to throw the ball away, saying that it takes money out of the defender’s pocket.</p><p>"One thing the @NFL needs to change back is intentional grounding from a QB should be a sack again! You work so hard as a defender and a QB can just get to throw it away to avoid the sack, taking away money from a defender! Change my mind…." Van Noy posted <a href="https://x.com/KVN_03/status/2011822994784756189?s=20" target="_blank" rel="noopener nofollow">on X.</a></p><p><a href="https://www.foxnews.com/sports" target="_blank" rel="noopener"><strong>CLICK HERE FOR MORE SPORTS COVERAGE ON FOXNEWS.COM</strong></a></p><p>As currently written, intentional grounding is when a quarterback is under duress within the tackle box, facing an imminent loss of yardage, and throws a forward pass that is not in the direction and vicinity of an on originally eligible receiver. The pass does not have to be incomplete for intentional grounding to apply.</p><p>The penalty for intentional grounding is a loss of down and 10 yards from the previous spot. If the spot of the pass is further than 10 yards from the previous spot of the ball, the ball will be placed there with the loss of down.</p><p>If intentional grounding occurs in the end zone, it is a safety.</p><p><a href="https://www.foxnews.com/sports/fox-super-6-contest-chris-the-bear-fallicas-nfl-divisional-round-predictions" target="_blank" rel="noopener"><strong><u>FOX SUPER 6 CONTEST: CHRIS 'THE BEAR' FALLICA'S NFL DIVISIONAL ROUND PREDICTIONS</u></strong></a></p><p>Van Noy wants the edge rushers to receive credit for a sack on an intentional grounding, as plenty of edge rushers in the NFL have incentive bonuses for sacks recorded, and they are the ones who cause the penalty.</p><p>Six-time Pro Bowler Eric Weddle responded to Van Noy’s post, agreeing with him. Van Noy was asked how the <a href="https://www.foxnews.com/category/sports/nfl" target="_blank" rel="noopener">NFL</a> should award the sack if there are multiple defenders that cause the intentional grounding.</p><p>"Great question Mike…. 3 guys should be a team sack if it’s hard to tell but most of the time you can establish half sacks and full sacks. If not … guys can turn the call in so they can take a deeper let look at it. If 2 guys are hitting him should get a half. 1 guy should get full. I also think they take out half sacks and give full sacks for both but that’s just me, that might be a little greedy," Van Noy posted on X.</p><p>Van Noy concluded the 12th season of his career, and his second with the Ravens. In 15 games, he had two sacks, 20 tackles and one interception. Last season, Van Noy recorded 12.5 sacks and made the Pro Bowl. He will be a free agent this offseason.</p><p><i><strong>Follow Fox News Digital’s</strong></i><a href="https://twitter.com/FoxNewsSports_" target="_blank" rel="noopener"><i><strong> sports coverage on X</strong></i></a><i><strong>, and subscribe to</strong></i><a href="https://www.foxnews.com/newsletters" target="_blank" rel="noopener"><i><strong> the Fox News Sports Huddle newsletter</strong></i></a><i><strong>.</strong></i></p>
