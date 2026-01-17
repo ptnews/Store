@@ -1,0 +1,21 @@
+---
+title: "Trump vows extra tariffs for UK, Denmark and other European countries until Greenland deal struck - BBC"
+date: 2026-01-17
+description: "Trump vows extra tariffs for UK, Denmark and other European countries until Greenland deal struck&nbsp;&nbsp;BBCTrump Announces 10 Percent Tariff on European Countries in Standoff Over Greenland&nbsp;&nbsp;The New York TimesPhotos show Greenlanders brave near-freezing temperatures to march against Trump’s takeover threats&nbsp;&nbsp;The IndependentIn Denmark, U.S. lawmakers contradict Trump on need to own Greenland&nbsp;&nbsp;The Washington PostTrump considering new tariffs on countries that o..."
+summary: "Trump vows extra tariffs for UK, Denmark and other European countries until Greenland deal struck&nbsp;&nbsp;BBCTrump Announces 10 Percent Tariff on European Countries in Standoff Over Greenland&nbsp;&nbsp;The New York TimesPhotos show Greenlanders brave near-freezing temperatures to march against Trump’s takeover threats&nbsp;&nbsp;The IndependentIn Denmark, U.S. lawmakers contradict Trump on need to own Greenland&nbsp;&nbsp;The Washington PostTrump considering new tariffs on countries that o..."
+slug: "trump-vows-extra-tariffs-for-uk-denmark-and-other-european-countries-until-greenland-deal-struck-bbc"
+image: ''
+link: 'https://news.google.com/rss/articles/CBMiVEFVX3lxTE92VnZyZ3lpM1dWc2xtME0zaTlLSkRPekQ1cVVobjJVR2wxb1ZvYnFUWG9RZ0RLdUxwaWRBWXoyMHJwX0hOTmxTYjlqdWEwd0lZdllfUg?oc=5'
+source: 'https://news.google.com/rss/topics/CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx1YlY4U0FtVnVHZ0pWVXlnQVAB?hl=en-US&gl=US&ceid=US:en'
+categories:
+- 'news.google.com'
+tags:
+- 'countries'
+- 'greenland'
+- 'european'
+- 'tariffs'
+- 'denmark'
+
+draft: false
+---
+<ol><li><a href="https://news.google.com/rss/articles/CBMiVEFVX3lxTE92VnZyZ3lpM1dWc2xtME0zaTlLSkRPekQ1cVVobjJVR2wxb1ZvYnFUWG9RZ0RLdUxwaWRBWXoyMHJwX0hOTmxTYjlqdWEwd0lZdllfUg?oc=5" target="_blank">Trump vows extra tariffs for UK, Denmark and other European countries until Greenland deal struck</a>&nbsp;&nbsp;<font color="#6f6f6f">BBC</font></li><li><a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxQSVNnZTdqNnltdlM0VTA0Y0FTMHhhNHoxcVd4eWR6VVpiOXRCUEdzejB4eG9tbklfV0VQZEwtR2xncWtIZ004T1V4R2RwVGFNT0JVaG1yaHhBaGRISWVSVTFvamg1VVJtMGRXN1YtV0NaR09sWXEwNFM5aWdoa2ZHTFg2QzU?oc=5" target="_blank">Trump Announces 10 Percent Tariff on European Countries in Standoff Over Greenland</a>&nbsp;&nbsp;<font color="#6f6f6f">The New York Times</font></li><li><a href="https://news.google.com/rss/articles/CBMidEFVX3lxTFBXMkxiNUY3R2VXci1YQVROeHdCdjY4ejZzRE5UZlVaOXJOYm5EUVpnUFpWUTZYUGRsZjRTMm1FZnp4VTA3b0ZDZFZDZXY1cjl5YUNPVHo0eFpXU0VrMzY1cVZBbFhwSV85UzhsckNaZGhONjli?oc=5" target="_blank">Photos show Greenlanders brave near-freezing temperatures to march against Trump’s takeover threats</a>&nbsp;&nbsp;<font color="#6f6f6f">The Independent</font></li><li><a href="https://news.google.com/rss/articles/CBMingFBVV95cUxPdm1OM2VWY3libkN2RVB5eWJhZzdFR1dxRFBPeFlVTzZWS3dDdG1ySHJlR1BISjZNXzFhNnZQRmxDb0MwU09iNVNveHZDVjJ4ZTNkQUY5UDNIaWNEcUFSTkNycWpDdkJBV0h0Nm1QMTNFSDJGZ3lsTDJXalJNQkNTUl9YWXdjUWF4c0ZNRHNIZ2w0UlJqWHRWVnpfV2poUQ?oc=5" target="_blank">In Denmark, U.S. lawmakers contradict Trump on need to own Greenland</a>&nbsp;&nbsp;<font color="#6f6f6f">The Washington Post</font></li><li><a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxNYUdTZld1Q1VaMDZvMWpZX0JmTC1uby1TNkZvR3czMm9QNF9RazdEMmowU0FaeURoUnk5T1NTb1ZMTkNLSksyb0FDTG1GOTZkZmRXUWN0Q2hCSE10TVhSZ0xwZkRycGhoQWFTRl9vb1dQOVJMNmU1cjhPWFBoZHpxanlCclI?oc=5" target="_blank">Trump considering new tariffs on countries that oppose his annexation plans for Greenland</a>&nbsp;&nbsp;<font color="#6f6f6f">CNN</font></li></ol>
