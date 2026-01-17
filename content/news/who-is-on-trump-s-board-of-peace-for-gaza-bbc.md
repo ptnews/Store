@@ -1,0 +1,19 @@
+---
+title: "Who is on Trump's 'Board of Peace' for Gaza? - BBC"
+date: 2026-01-17
+description: "Who is on Trump's 'Board of Peace' for Gaza?&nbsp;&nbsp;BBCTrump Announces Members for Gaza ‘Board of Peace,’ Including Rubio and Kushner&nbsp;&nbsp;The New York TimesFormer UK leader Blair joins Carney and Rubio on Trump’s ‘Board of Peace’ for Gaza&nbsp;&nbsp;CNNTrump news at a glance: president creates Gaza ‘board of peace’&nbsp;&nbsp;The GuardianLIVE: Gaza death toll rises by Israeli raids, Trump names ‘Board of Peace’&nbsp;&nbsp;Al Jazeera"
+summary: "Who is on Trump's 'Board of Peace' for Gaza?&nbsp;&nbsp;BBCTrump Announces Members for Gaza ‘Board of Peace,’ Including Rubio and Kushner&nbsp;&nbsp;The New York TimesFormer UK leader Blair joins Carney and Rubio on Trump’s ‘Board of Peace’ for Gaza&nbsp;&nbsp;CNNTrump news at a glance: president creates Gaza ‘board of peace’&nbsp;&nbsp;The GuardianLIVE: Gaza death toll rises by Israeli raids, Trump names ‘Board of Peace’&nbsp;&nbsp;Al Jazeera"
+slug: "who-is-on-trump-s-board-of-peace-for-gaza-bbc"
+image: ''
+link: 'https://news.google.com/rss/articles/CBMiWkFVX3lxTFByX2E1ZjRvUWJ0SnVRUDhURjQzQnRZNlVUbjJON2xVMHM5TVBHVVlENVhvUExZdDR1MGszTkVXWWxIa21KVjcxMl9fcU90dE85cTNnRFFwNEZDUdIBX0FVX3lxTE1UOXNPWkhEUmUxNVNWYnNFTG9RZC16TTNJUW1tU2x0QVdtWEkya28wbG40NVFoeGhUMWxRZHhJMGVuRS15c01vejY1UGN2azI3ekg3QmRpNnVSODNyUVBB?oc=5'
+source: 'https://news.google.com/rss/topics/CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx1YlY4U0FtVnVHZ0pWVXlnQVAB?hl=en-US&gl=US&ceid=US:en'
+categories:
+- 'news.google.com'
+tags:
+- 'trump'
+- 'board'
+- 'peace'
+
+draft: false
+---
+<ol><li><a href="https://news.google.com/rss/articles/CBMiWkFVX3lxTFByX2E1ZjRvUWJ0SnVRUDhURjQzQnRZNlVUbjJON2xVMHM5TVBHVVlENVhvUExZdDR1MGszTkVXWWxIa21KVjcxMl9fcU90dE85cTNnRFFwNEZDUdIBX0FVX3lxTE1UOXNPWkhEUmUxNVNWYnNFTG9RZC16TTNJUW1tU2x0QVdtWEkya28wbG40NVFoeGhUMWxRZHhJMGVuRS15c01vejY1UGN2azI3ekg3QmRpNnVSODNyUVBB?oc=5" target="_blank">Who is on Trump's 'Board of Peace' for Gaza?</a>&nbsp;&nbsp;<font color="#6f6f6f">BBC</font></li><li><a href="https://news.google.com/rss/articles/CBMiigFBVV95cUxQR2lWSkxJbHA4SFJPZ2dqa1ZXc3Z5eTlJazBRdmc2RS04ZFVNVmpVOHFyQzRZUG1RdmZmQTFSNG9DcEdiQXE1eDN5cVgwbTFwYWZfNUxhejhSQnVUNnB0bkQ3ajdXaVNFSlNHQm5xY0M3Yk5KcGI1WHBqaUs4Si1YOElNdFhsclpTZ3c?oc=5" target="_blank">Trump Announces Members for Gaza ‘Board of Peace,’ Including Rubio and Kushner</a>&nbsp;&nbsp;<font color="#6f6f6f">The New York Times</font></li><li><a href="https://news.google.com/rss/articles/CBMie0FVX3lxTE5yQXpqSVNRbjNhMUZIQkpCQTdRdnJLYkdOSlh3bG9iT2VDcGNseXVCang2MkgwTGx0T2htZmkwQVNpMmlWc1V6cjllX2Zwd0xVdzFMdFB2OU5DLWpHY05Xbmd3VFVwSFJQWS1MeUlkY1hqLTNVYU1JbEhNSQ?oc=5" target="_blank">Former UK leader Blair joins Carney and Rubio on Trump’s ‘Board of Peace’ for Gaza</a>&nbsp;&nbsp;<font color="#6f6f6f">CNN</font></li><li><a href="https://news.google.com/rss/articles/CBMiiAFBVV95cUxPUmJJWlI2NENabE1EMG5fQUdzdXpxby1vOW9FSWxuRHVfb1doWjlwR0NxSUdIN0NXbFhRREJoSllTUk5ZUmNWWUNlb0E4NjBZdmJ6VmpJekx0S0NGVzB3THpERjlDZW85cFpSdm1iYXlTQWwxQlp0ZDhYLUswSVdLd3p6OUdreVZp?oc=5" target="_blank">Trump news at a glance: president creates Gaza ‘board of peace’</a>&nbsp;&nbsp;<font color="#6f6f6f">The Guardian</font></li><li><a href="https://news.google.com/rss/articles/CBMivAFBVV95cUxQV09sU011aXM1dE5VV0VxZE9aWTRiTnVUV0VaSEp3czlCaFZyd0Q2Q25RVHMyUVBNSlBIRDZJWl91ZTlBTmF5RXZFajNjcTNleE1PUGY1OUtHRDhIUjA1ZDVJSVFVSkJ3bWtGeFlldU1taWVrWkg3cWZjX0R5MjVsX184RmlNdk5JUXJ3VmJoNmNDM29PNjRrZ2FDMVNQMHZ4UHhFNlJQSWppTjRkS0p2WDRzOUc3ZXQ0UkVSRdIBwgFBVV95cUxNdWpzWWM4Q0VBcVBqaWd1UjBSMWZwY29SMU9PU3B5bDdTczd1XzhmWTBhY3lQbHpRcXROLTZXUTdEclIwbGUtQVJ0dURJUloxeFNlbTNET0NmSlFyMXZVLU5QM1Q4MHQzR2Z1RjBoY0hkWV9NaUZJX3BWeHNHbTN2SkNWU3dBRzc4NEpJSzRaX1MzV2RJVE1aOXRQUTdHQ08zdnpxQ2RPZ0Nkd1FSdzRTUGxZNWYxeUxyUi10VlVxcVBmQQ?oc=5" target="_blank">LIVE: Gaza death toll rises by Israeli raids, Trump names ‘Board of Peace’</a>&nbsp;&nbsp;<font color="#6f6f6f">Al Jazeera</font></li></ol>
