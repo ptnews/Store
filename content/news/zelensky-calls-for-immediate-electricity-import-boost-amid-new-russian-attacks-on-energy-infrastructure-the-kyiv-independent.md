@@ -1,0 +1,21 @@
+---
+title: "Zelensky calls for immediate electricity import boost amid new Russian attacks on energy infrastructure - The Kyiv Independent"
+date: 2026-01-17
+description: "Zelensky calls for immediate electricity import boost amid new Russian attacks on energy infrastructure&nbsp;&nbsp;The Kyiv IndependentBonfires, dancing, pets: How Ukrainians are staying warm during the toughest winter in years&nbsp;&nbsp;CNNZelenskyy demands faster energy imports as Ukraine reels from power outages&nbsp;&nbsp;Al JazeeraKyiv has only half of the electricity it needs, mayor says&nbsp;&nbsp;ReutersZelensky declares state of emergency in Ukraine's energy sector&nbsp;&nbsp;BBC"
+summary: "Zelensky calls for immediate electricity import boost amid new Russian attacks on energy infrastructure&nbsp;&nbsp;The Kyiv IndependentBonfires, dancing, pets: How Ukrainians are staying warm during the toughest winter in years&nbsp;&nbsp;CNNZelenskyy demands faster energy imports as Ukraine reels from power outages&nbsp;&nbsp;Al JazeeraKyiv has only half of the electricity it needs, mayor says&nbsp;&nbsp;ReutersZelensky declares state of emergency in Ukraine's energy sector&nbsp;&nbsp;BBC"
+slug: "zelensky-calls-for-immediate-electricity-import-boost-amid-new-russian-attacks-on-energy-infrastructure-the-kyiv-independent"
+image: ''
+link: 'https://news.google.com/rss/articles/CBMiwAFBVV95cUxOcG5TRkJrNmVtRUxlMnBNVFlSSmZxc3poNERvcm45R19PbC1yUk1MZWRkQTVnQ2xMUXVFNjJLOTNaVnZhWTZ5R2lwc2RMbm53NWlkemFmRmxSWEZCUTJCLWlVY29fV3l3X2F0UHYxUFUzWmVDcU9hQkg1Y3B3MXVfbnVLYThlVVk2S2hEemRiNEdHQVZOVXl4RXk1Tl9HVHA5N0FjMmQ0VWV0eWh5YVI4OXg0OEJMZ1R3NGNjbHpNVVM?oc=5'
+source: 'https://news.google.com/rss/topics/CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx1YlY4U0FtVnVHZ0pWVXlnQVAB?hl=en-US&gl=US&ceid=US:en'
+categories:
+- 'news.google.com'
+tags:
+- 'infrastructure'
+- 'electricity'
+- 'independent'
+- 'immediate'
+- 'zelensky'
+
+draft: false
+---
+<ol><li><a href="https://news.google.com/rss/articles/CBMiwAFBVV95cUxOcG5TRkJrNmVtRUxlMnBNVFlSSmZxc3poNERvcm45R19PbC1yUk1MZWRkQTVnQ2xMUXVFNjJLOTNaVnZhWTZ5R2lwc2RMbm53NWlkemFmRmxSWEZCUTJCLWlVY29fV3l3X2F0UHYxUFUzWmVDcU9hQkg1Y3B3MXVfbnVLYThlVVk2S2hEemRiNEdHQVZOVXl4RXk1Tl9HVHA5N0FjMmQ0VWV0eWh5YVI4OXg0OEJMZ1R3NGNjbHpNVVM?oc=5" target="_blank">Zelensky calls for immediate electricity import boost amid new Russian attacks on energy infrastructure</a>&nbsp;&nbsp;<font color="#6f6f6f">The Kyiv Independent</font></li><li><a href="https://news.google.com/rss/articles/CBMikwFBVV95cUxNTzdrVXVXcEo4WG5zTjZra1hUa3FRS0FfSGZJQjdzSnJrTWpFUkpqcU93WHVaa1FpUFBoNVdnQUg3V3BXVUJNYVR0cVowQzR1bVlCdTZqMXFxMk1VaUl0Z0hsX2pndWM2RjJlVS1saXJUN0o3WjBCMkg1c0VyMDZwQ2NrMVZrVl81aXU5U0dpaUoyZFU?oc=5" target="_blank">Bonfires, dancing, pets: How Ukrainians are staying warm during the toughest winter in years</a>&nbsp;&nbsp;<font color="#6f6f6f">CNN</font></li><li><a href="https://news.google.com/rss/articles/CBMitwFBVV95cUxQZTgxUUpscm11cHc0TlhYM3RkRTJFb1hlVVZiWEpGNVUwNzlkV2t5UjlhRlU0UjFYX3NKUDNoTW1jZ1BmQ05qYkx1NlZMc3RKS0R5NXRfU0EyWGN0UTRBdFBvbE9zdE5yVnRNTGItdThhUmJmZWU2WnY2Sk80OUJpTjB3SndTblJudjBoTGlXbzR4NmFzX1g0cjR0aE5yWTFMOGZWODFmNnhOcUFHbkUxRk1hb3JONkXSAbwBQVVfeXFMT2lmWjJwM3ZQdzlWNEkxTFNmS05ZYmJkYkRQRnMwYjJxTnVFVW9OWnlaUGMzcTE5Tm1aZE1aZWtXa2JtdlA2a1Zydm1KS1otTUVFelI2UkFob0Z3WVVVMzBTZDVDWHUtSUxqaWFmQk90RndneWZ6MUJPMHVBakxqQU1BX2stcDh6dm9fMmpoN21RSWJTSGhnbXFwNk5zUGVGZTQ2LXhwTnBIbmJWc01rdlB0andNSE11VVRKUWE?oc=5" target="_blank">Zelenskyy demands faster energy imports as Ukraine reels from power outages</a>&nbsp;&nbsp;<font color="#6f6f6f">Al Jazeera</font></li><li><a href="https://news.google.com/rss/articles/CBMioAFBVV95cUxOZk80TVdXZjkxRzBDQ0RDdVE2OTdGb0JNclBmU1JBYWJFdEVCSHp4aUgzdEFOUDg5c3hrRXA5M2Jjdno2NGcyRmdSUEl1NVptSW5Kb2FjU21NRWNLb3JmdDFnbm1fcmVXbWZDNHVGeThtbHcxbTAyalRMOTZscUI0TTNqSGJjcnNtaGhPSUhjdC0tN0lfSmtSU2NhTGRRT3Z4?oc=5" target="_blank">Kyiv has only half of the electricity it needs, mayor says</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font></li><li><a href="https://news.google.com/rss/articles/CBMiWkFVX3lxTE9rTDZOWm1hOVp5cXNUbHIzSTFicC1udHRzWmhxUUs5ZGdBd1NJSk92WkRYeWRIN25rTzZTMG54U0l4TEFMVkhOZ2tsZE9vZ1VSTkhnQ2lLUXpSQQ?oc=5" target="_blank">Zelensky declares state of emergency in Ukraine's energy sector</a>&nbsp;&nbsp;<font color="#6f6f6f">BBC</font></li></ol>

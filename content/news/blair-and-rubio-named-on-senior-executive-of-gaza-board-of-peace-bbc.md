@@ -1,0 +1,21 @@
+---
+title: "Blair and Rubio named on senior executive of Gaza 'Board of Peace' - BBC"
+date: 2026-01-17
+description: "Blair and Rubio named on senior executive of Gaza 'Board of Peace'&nbsp;&nbsp;BBCIsrael objects to White House’s pick of leaders for ‘board of peace’&nbsp;&nbsp;The GuardianUS official says PM deliberately not told of Qatari, Turkish inclusion on Gaza panel — report&nbsp;&nbsp;The Times of IsraelUpdates: Turkiye, Egypt say Erdogan, el-Sisi invited by Trump to Gaza board&nbsp;&nbsp;Al JazeeraFormer UK leader Blair joins Carney and Rubio on Trump’s ‘Board of Peace’ for Gaza&nbsp;&nbs..."
+summary: "Blair and Rubio named on senior executive of Gaza 'Board of Peace'&nbsp;&nbsp;BBCIsrael objects to White House’s pick of leaders for ‘board of peace’&nbsp;&nbsp;The GuardianUS official says PM deliberately not told of Qatari, Turkish inclusion on Gaza panel — report&nbsp;&nbsp;The Times of IsraelUpdates: Turkiye, Egypt say Erdogan, el-Sisi invited by Trump to Gaza board&nbsp;&nbsp;Al JazeeraFormer UK leader Blair joins Carney and Rubio on Trump’s ‘Board of Peace’ for Gaza&nbsp;&nbs..."
+slug: "blair-and-rubio-named-on-senior-executive-of-gaza-board-of-peace-bbc"
+image: ''
+link: 'https://news.google.com/rss/articles/CBMiWkFVX3lxTE41cXlrSjNPU3RMRHpwTUp0U3ZkRkNENHdVWWpxbFNpbmtwMVkwM2VyUFIxbWN0d05HYWFRV19qTXRVQzRiRjloVnU4QXJhUjRidWszRHBPU1JFUdIBX0FVX3lxTFBBWGpWSklINER3aDNUOHhyMk9FNzNVQzRGcU92cUR0RFgtVFc2STJWbGFfWjNpWlZWd0M3N1BBRkp0X21JN05JU2ZDMGlzYnh4RzREZlBXalQwV0dRQWhj?oc=5'
+source: 'https://news.google.com/rss/topics/CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx1YlY4U0FtVnVHZ0pWVXlnQVAB?hl=en-US&gl=US&ceid=US:en'
+categories:
+- 'news.google.com'
+tags:
+- 'executive'
+- 'senior'
+- 'blair'
+- 'rubio'
+- 'named'
+
+draft: false
+---
+<ol><li><a href="https://news.google.com/rss/articles/CBMiWkFVX3lxTE41cXlrSjNPU3RMRHpwTUp0U3ZkRkNENHdVWWpxbFNpbmtwMVkwM2VyUFIxbWN0d05HYWFRV19qTXRVQzRiRjloVnU4QXJhUjRidWszRHBPU1JFUdIBX0FVX3lxTFBBWGpWSklINER3aDNUOHhyMk9FNzNVQzRGcU92cUR0RFgtVFc2STJWbGFfWjNpWlZWd0M3N1BBRkp0X21JN05JU2ZDMGlzYnh4RzREZlBXalQwV0dRQWhj?oc=5" target="_blank">Blair and Rubio named on senior executive of Gaza 'Board of Peace'</a>&nbsp;&nbsp;<font color="#6f6f6f">BBC</font></li><li><a href="https://news.google.com/rss/articles/CBMisAFBVV95cUxPSDNYcFVKdUJYQ3NNSDZzMFZmYkFuUEhBbmhEaUp0NTdUY0tZNlNXMnA1bkpCNUVaQlBCd1RFVENjR055ZTNOY2R5bzRBc0N2WV9HZXVtaWpOdVJLUXJ6c3VFNXNvaDZpOVFCd0kzVUZTNnhhTkRPOFRaS21hcUdQcnlMLXoxNlpRZkNDYzlmeEloOTAxSmRmNWdVZmF0RWNSRC1KX2o3MWdsaW9WajNDbg?oc=5" target="_blank">Israel objects to White House’s pick of leaders for ‘board of peace’</a>&nbsp;&nbsp;<font color="#6f6f6f">The Guardian</font></li><li><a href="https://news.google.com/rss/articles/CBMi0gFBVV95cUxQQk8zRWVFS0xfMjRRSkRHRkZLd1pteDR0ZFRMOG45YmtmcjUyWmZfV3h6WWw1UzhmWC1jWW4zRmdVbENucFBYS2xCU1pWWWJwOGNzYi10SHVHbGNZQ3ZuTmNIUkh4OVFDQXk2QkplRG5LNGQ4cUJITWpTd0NLbDUtWlk2QlFnalh2RkgzQ1p2eVJ4b0Vjajd0SHVWN2paZTdHYXFoc0xrY0xRLWwzZ0pMSXRsLU01eHhSQ2FyV08xeGZHblFueVA3eHlfZ0JETW1vdHc?oc=5" target="_blank">US official says PM deliberately not told of Qatari, Turkish inclusion on Gaza panel — report</a>&nbsp;&nbsp;<font color="#6f6f6f">The Times of Israel</font></li><li><a href="https://news.google.com/rss/articles/CBMivAFBVV95cUxQV09sU011aXM1dE5VV0VxZE9aWTRiTnVUV0VaSEp3czlCaFZyd0Q2Q25RVHMyUVBNSlBIRDZJWl91ZTlBTmF5RXZFajNjcTNleE1PUGY1OUtHRDhIUjA1ZDVJSVFVSkJ3bWtGeFlldU1taWVrWkg3cWZjX0R5MjVsX184RmlNdk5JUXJ3VmJoNmNDM29PNjRrZ2FDMVNQMHZ4UHhFNlJQSWppTjRkS0p2WDRzOUc3ZXQ0UkVSRdIBwgFBVV95cUxNdWpzWWM4Q0VBcVBqaWd1UjBSMWZwY29SMU9PU3B5bDdTczd1XzhmWTBhY3lQbHpRcXROLTZXUTdEclIwbGUtQVJ0dURJUloxeFNlbTNET0NmSlFyMXZVLU5QM1Q4MHQzR2Z1RjBoY0hkWV9NaUZJX3BWeHNHbTN2SkNWU3dBRzc4NEpJSzRaX1MzV2RJVE1aOXRQUTdHQ08zdnpxQ2RPZ0Nkd1FSdzRTUGxZNWYxeUxyUi10VlVxcVBmQQ?oc=5" target="_blank">Updates: Turkiye, Egypt say Erdogan, el-Sisi invited by Trump to Gaza board</a>&nbsp;&nbsp;<font color="#6f6f6f">Al Jazeera</font></li><li><a href="https://news.google.com/rss/articles/CBMie0FVX3lxTE5yQXpqSVNRbjNhMUZIQkpCQTdRdnJLYkdOSlh3bG9iT2VDcGNseXVCang2MkgwTGx0T2htZmkwQVNpMmlWc1V6cjllX2Zwd0xVdzFMdFB2OU5DLWpHY05Xbmd3VFVwSFJQWS1MeUlkY1hqLTNVYU1JbEhNSQ?oc=5" target="_blank">Former UK leader Blair joins Carney and Rubio on Trump’s ‘Board of Peace’ for Gaza</a>&nbsp;&nbsp;<font color="#6f6f6f">CNN</font></li></ol>
