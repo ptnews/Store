@@ -1,6 +1,6 @@
 ---
 title: "'I was hit in the face by pellets': Iranians on border describe violence and more protests"
-date: 2026-01-16
+date: 2026-01-17
 description: "The BBC speaks to Iranians at the border with Iraq, as authorities continue to block the flow of information with an internet blackout."
 summary: "The BBC speaks to Iranians at the border with Iraq, as authorities continue to block the flow of information with an internet blackout."
 slug: "i-was-hit-in-the-face-by-pellets-iranians-on-border-describe-violence-and-more-protests"

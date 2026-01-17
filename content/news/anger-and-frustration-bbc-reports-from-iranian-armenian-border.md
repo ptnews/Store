@@ -1,6 +1,6 @@
 ---
 title: "'Anger and frustration': BBC reports from Iranian-Armenian border"
-date: 2026-01-16
+date: 2026-01-17
 description: "BBC Middle East correspondent Hugo Bachega reports from the Iranian-Armenian border as internet shutdown continues following deadly protests."
 summary: "BBC Middle East correspondent Hugo Bachega reports from the Iranian-Armenian border as internet shutdown continues following deadly protests."
 slug: "anger-and-frustration-bbc-reports-from-iranian-armenian-border"

@@ -1,6 +1,6 @@
 ---
 title: "Morocco celebrates Afcon win: 'Today is about couscous not jollof'"
-date: 2026-01-16
+date: 2026-01-17
 description: "Moroccan fans celebrated through the night as their beloved Atlas Lions beat Nigeria to make it to the Afcon final."
 summary: "Moroccan fans celebrated through the night as their beloved Atlas Lions beat Nigeria to make it to the Afcon final."
 slug: "morocco-celebrates-afcon-win-today-is-about-couscous-not-jollof"

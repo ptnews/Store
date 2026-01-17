@@ -1,6 +1,6 @@
 ---
 title: "S Korea's ex-president Yoon to be jailed for five years over martial law bid"
-date: 2026-01-16
+date: 2026-01-17
 description: "This is the first of the verdicts in the four trials linked to Yoon's shock decree in 2024."
 summary: "This is the first of the verdicts in the four trials linked to Yoon's shock decree in 2024."
 slug: "s-korea-s-ex-president-yoon-to-be-jailed-for-five-years-over-martial-law-bid"

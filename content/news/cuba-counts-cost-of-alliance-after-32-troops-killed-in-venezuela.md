@@ -1,6 +1,6 @@
 ---
 title: "Cuba counts cost of alliance after 32 troops killed in Venezuela"
-date: 2026-01-16
+date: 2026-01-17
 description: "The recent events in Venezuela have exposed the strategic risks of Cuba’s foreign entanglements. "
 summary: "The recent events in Venezuela have exposed the strategic risks of Cuba’s foreign entanglements. "
 slug: "cuba-counts-cost-of-alliance-after-32-troops-killed-in-venezuela"

@@ -1,6 +1,6 @@
 ---
 title: "EU ‘membership-lite’ plan for Ukraine spooks European capitals - Financial Times"
-date: 2026-01-16
+date: 2026-01-17
 description: "EU ‘membership-lite’ plan for Ukraine spooks European capitals&nbsp;&nbsp;Financial TimesEU executive weighs idea of quick, but limited membership for Ukraine&nbsp;&nbsp;ReutersCountries split over plans for two-tier EU&nbsp;&nbsp;politico.euThe Most EU Statement Ever on Prospect of Ukrainian Admission to Bloc&nbsp;&nbsp;National ReviewUkraine’s entry into EU a guarantee against future Russian attack, von der Leyen says&nbsp;&nbsp;The Irish Times"
 summary: "EU ‘membership-lite’ plan for Ukraine spooks European capitals&nbsp;&nbsp;Financial TimesEU executive weighs idea of quick, but limited membership for Ukraine&nbsp;&nbsp;ReutersCountries split over plans for two-tier EU&nbsp;&nbsp;politico.euThe Most EU Statement Ever on Prospect of Ukrainian Admission to Bloc&nbsp;&nbsp;National ReviewUkraine’s entry into EU a guarantee against future Russian attack, von der Leyen says&nbsp;&nbsp;The Irish Times"
 slug: "eu-membership-lite-plan-for-ukraine-spooks-european-capitals-financial-times"

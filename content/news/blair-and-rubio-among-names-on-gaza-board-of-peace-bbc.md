@@ -1,0 +1,21 @@
+---
+title: "Blair and Rubio among names on Gaza 'Board of Peace' - BBC"
+date: 2026-01-17
+description: "Blair and Rubio among names on Gaza 'Board of Peace'&nbsp;&nbsp;BBCTrump Announces Members for Gaza ‘Board of Peace,’ Including Rubio and Kushner&nbsp;&nbsp;The New York TimesUS unveils key Gaza panel with prominent roles given to Israel critics Qatar, Turkey&nbsp;&nbsp;The Times of IsraelWhite House names some leaders with roles in next steps in Gaza, while Palestinian committee meets&nbsp;&nbsp;NBC NewsNetanyahu says the announced start of Gaza ceasefire’s next phase is a ‘declarative ..."
+summary: "Blair and Rubio among names on Gaza 'Board of Peace'&nbsp;&nbsp;BBCTrump Announces Members for Gaza ‘Board of Peace,’ Including Rubio and Kushner&nbsp;&nbsp;The New York TimesUS unveils key Gaza panel with prominent roles given to Israel critics Qatar, Turkey&nbsp;&nbsp;The Times of IsraelWhite House names some leaders with roles in next steps in Gaza, while Palestinian committee meets&nbsp;&nbsp;NBC NewsNetanyahu says the announced start of Gaza ceasefire’s next phase is a ‘declarative ..."
+slug: "blair-and-rubio-among-names-on-gaza-board-of-peace-bbc"
+image: ''
+link: 'https://news.google.com/rss/articles/CBMiWkFVX3lxTE41cXlrSjNPU3RMRHpwTUp0U3ZkRkNENHdVWWpxbFNpbmtwMVkwM2VyUFIxbWN0d05HYWFRV19qTXRVQzRiRjloVnU4QXJhUjRidWszRHBPU1JFUdIBX0FVX3lxTFBBWGpWSklINER3aDNUOHhyMk9FNzNVQzRGcU92cUR0RFgtVFc2STJWbGFfWjNpWlZWd0M3N1BBRkp0X21JN05JU2ZDMGlzYnh4RzREZlBXalQwV0dRQWhj?oc=5'
+source: 'https://news.google.com/rss/topics/CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx1YlY4U0FtVnVHZ0pWVXlnQVAB?hl=en-US&gl=US&ceid=US:en'
+categories:
+- 'news.google.com'
+tags:
+- 'blair'
+- 'rubio'
+- 'among'
+- 'names'
+- 'board'
+
+draft: false
+---
+<ol><li><a href="https://news.google.com/rss/articles/CBMiWkFVX3lxTE41cXlrSjNPU3RMRHpwTUp0U3ZkRkNENHdVWWpxbFNpbmtwMVkwM2VyUFIxbWN0d05HYWFRV19qTXRVQzRiRjloVnU4QXJhUjRidWszRHBPU1JFUdIBX0FVX3lxTFBBWGpWSklINER3aDNUOHhyMk9FNzNVQzRGcU92cUR0RFgtVFc2STJWbGFfWjNpWlZWd0M3N1BBRkp0X21JN05JU2ZDMGlzYnh4RzREZlBXalQwV0dRQWhj?oc=5" target="_blank">Blair and Rubio among names on Gaza 'Board of Peace'</a>&nbsp;&nbsp;<font color="#6f6f6f">BBC</font></li><li><a href="https://news.google.com/rss/articles/CBMiigFBVV95cUxQR2lWSkxJbHA4SFJPZ2dqa1ZXc3Z5eTlJazBRdmc2RS04ZFVNVmpVOHFyQzRZUG1RdmZmQTFSNG9DcEdiQXE1eDN5cVgwbTFwYWZfNUxhejhSQnVUNnB0bkQ3ajdXaVNFSlNHQm5xY0M3Yk5KcGI1WHBqaUs4Si1YOElNdFhsclpTZ3c?oc=5" target="_blank">Trump Announces Members for Gaza ‘Board of Peace,’ Including Rubio and Kushner</a>&nbsp;&nbsp;<font color="#6f6f6f">The New York Times</font></li><li><a href="https://news.google.com/rss/articles/CBMitAFBVV95cUxNaVJMZjR4TzZNWVF0enBaOEpoM1ZYajdza013SjNVMHh2dnhxdFhRek1WX252eDBEMlh0YVFKUXlwckNxQjFOZ2JqSHpDY1NKLWFRMldjeXVmR0J6MHhrZXZseXRqSlM0amcwUVZBRzRSeFJoVVIxWjZNYTEySlA5V3pCSUxLbmpUaDhVejZzRmxjbHpLckU5X3NjTVZPTmtXVzJKcXFKU0JSbDRGYWtKNW1iVi3SAboBQVVfeXFMTUt1VmdDU0x3bGZJUXB4VFY5YUhFVG1lcVBCQ0R0S01OU0wyU0cwNWF1NzMtdWtsYTZfV1dRNnBpZ1VSbzVGaXRNTjllRnJNemhJNUhaYkN0MkxCLU5GWWhoeFotQXVucWlDX0Y5WXRWOHhiVmpSa3YybnlGZzNkTzhBaVAyelZtOU9fTVJCcE1NTkNvRUIzMG5JMnRGZ3h0cS1EX1BQUndXLURzN3FFdzhEZ0lyNTl5d0Jn?oc=5" target="_blank">US unveils key Gaza panel with prominent roles given to Israel critics Qatar, Turkey</a>&nbsp;&nbsp;<font color="#6f6f6f">The Times of Israel</font></li><li><a href="https://news.google.com/rss/articles/CBMitwFBVV95cUxOX205OG14eDlHSUxIbFBGQjRuNHZmTWpZdEI3RWlnVmg1d2llVlA1T1I2WEZfWlg0WWV1RHJlQUJITmpkN3ozS19jTVpSd2d2dmNIa2FkeDA3UWd5Y0huTThmc1QzMjRmVDZoNWhpdEZYa2dyc3NYdVpRVUhWVlpkMV9EMllodWEzamhuUTVsWGpCYUFsMGpfRFR1ZkZyQW5LQl9EZ3piSlhpSUlyOUx1WExRUTV1TUHSAVZBVV95cUxQNVBJeVQzSHpKbTlFU0RqYVhKNUI3Uzkwel90TU0yb0xidnRteFU0MWQ1MGQ5ZTNPVjM3MUZzcGhjZ0lNU0JpMlFVV0NXUEltYzBhZUpGUQ?oc=5" target="_blank">White House names some leaders with roles in next steps in Gaza, while Palestinian committee meets</a>&nbsp;&nbsp;<font color="#6f6f6f">NBC News</font></li><li><a href="https://news.google.com/rss/articles/CBMirwFBVV95cUxQQlZJb2VIUjVYelRSOUUyMFhUMGluT1FRbmhVWmgxd3N5SDl4aUxFNWJHSFd0STNJbmN5Z2Z6QXVGWnZyMU9fVFVIY3BxR3BPbkx6N3JYZHBlUXUwMnFrLTcwcjgtTTBSdWZsYmtNaHV6RExmOXo5REhuNERScEIyV200ZTMzNFR4Tmptck52QV9NY0lJSHQ3SGZOYk11TC1mNVB2TVNhSVItdzNvTGw4?oc=5" target="_blank">Netanyahu says the announced start of Gaza ceasefire’s next phase is a ‘declarative move’</a>&nbsp;&nbsp;<font color="#6f6f6f">AP News</font></li></ol>

@@ -1,6 +1,6 @@
 ---
 title: "Actor Timothy Busfield charged with sexually abusing boys on set of TV series"
-date: 2026-01-16
+date: 2026-01-17
 description: "The actor starred in the West Wing TV series and is also known for the baseball film Field of Dreams."
 summary: "The actor starred in the West Wing TV series and is also known for the baseball film Field of Dreams."
 slug: "actor-timothy-busfield-charged-with-sexually-abusing-boys-on-set-of-tv-series"

@@ -1,6 +1,6 @@
 ---
 title: "Confronted with thorny problems, Trump turns to the military - Politico"
-date: 2026-01-16
+date: 2026-01-17
 description: "Confronted with thorny problems, Trump turns to the military&nbsp;&nbsp;PoliticoOpinion: From ‘America First’ to imperial overreach&nbsp;&nbsp;Anchorage Daily NewsTrump's foreign policy called imperialist by experts&nbsp;&nbsp;ReutersA Guide to Trump’s Second-Term Military Strikes and Actions&nbsp;&nbsp;Council on Foreign RelationsThe twists and turns of Trump's military strategy&nbsp;&nbsp;Le Monde.fr"
 summary: "Confronted with thorny problems, Trump turns to the military&nbsp;&nbsp;PoliticoOpinion: From ‘America First’ to imperial overreach&nbsp;&nbsp;Anchorage Daily NewsTrump's foreign policy called imperialist by experts&nbsp;&nbsp;ReutersA Guide to Trump’s Second-Term Military Strikes and Actions&nbsp;&nbsp;Council on Foreign RelationsThe twists and turns of Trump's military strategy&nbsp;&nbsp;Le Monde.fr"
 slug: "confronted-with-thorny-problems-trump-turns-to-the-military-politico"

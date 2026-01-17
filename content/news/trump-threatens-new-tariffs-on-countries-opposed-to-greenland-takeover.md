@@ -1,6 +1,6 @@
 ---
 title: "Trump threatens new tariffs on countries opposed to Greenland takeover "
-date: 2026-01-16
+date: 2026-01-17
 description: "The president made the threat while a bipartisan group of US lawmakers were visiting Denmark in the hope of easing tensions over the territory. "
 summary: "The president made the threat while a bipartisan group of US lawmakers were visiting Denmark in the hope of easing tensions over the territory. "
 slug: "trump-threatens-new-tariffs-on-countries-opposed-to-greenland-takeover"

@@ -1,6 +1,6 @@
 ---
 title: "Nearly 5 Million Accounts Removed Under Australia’s New Social Media Ban - The New York Times"
-date: 2026-01-16
+date: 2026-01-17
 description: "Nearly 5 Million Accounts Removed Under Australia’s New Social Media Ban&nbsp;&nbsp;The New York TimesAustralia social media ban hits 4.7 million teen accounts in first month&nbsp;&nbsp;NBC NewsSocial media platforms removed 4.7 million accounts after Australia banned them for children&nbsp;&nbsp;ABC NewsAustralia removes 4.7M kids from social media platforms in first month of historic ban&nbsp;&nbsp;Fox NewsAustralia banned social media for under 16s a month ago — here's how it's going&nbsp..."
 summary: "Nearly 5 Million Accounts Removed Under Australia’s New Social Media Ban&nbsp;&nbsp;The New York TimesAustralia social media ban hits 4.7 million teen accounts in first month&nbsp;&nbsp;NBC NewsSocial media platforms removed 4.7 million accounts after Australia banned them for children&nbsp;&nbsp;ABC NewsAustralia removes 4.7M kids from social media platforms in first month of historic ban&nbsp;&nbsp;Fox NewsAustralia banned social media for under 16s a month ago — here's how it's going&nbsp..."
 slug: "nearly-5-million-accounts-removed-under-australia-s-new-social-media-ban-the-new-york-times"

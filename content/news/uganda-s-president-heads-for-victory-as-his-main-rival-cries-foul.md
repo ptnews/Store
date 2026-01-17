@@ -1,6 +1,6 @@
 ---
 title: "Uganda's president heads for victory as his main rival cries foul"
-date: 2026-01-16
+date: 2026-01-17
 description: "President Museveni has about 75% of the vote with results in from more than half of all polling stations."
 summary: "President Museveni has about 75% of the vote with results in from more than half of all polling stations."
 slug: "uganda-s-president-heads-for-victory-as-his-main-rival-cries-foul"

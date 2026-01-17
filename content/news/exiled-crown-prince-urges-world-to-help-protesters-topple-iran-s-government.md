@@ -1,6 +1,6 @@
 ---
 title: "Exiled crown prince urges world to help protesters topple Iran's government"
-date: 2026-01-16
+date: 2026-01-17
 description: "Reza Pahlavi, a US-based opposition figure, called on the world to target Iran's Revolutionary Guards leadership."
 summary: "Reza Pahlavi, a US-based opposition figure, called on the world to target Iran's Revolutionary Guards leadership."
 slug: "exiled-crown-prince-urges-world-to-help-protesters-topple-iran-s-government"

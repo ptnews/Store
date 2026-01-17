@@ -1,6 +1,6 @@
 ---
 title: "South Korea's impeached president found guilty in first of four trials: What you need to know"
-date: 2026-01-16
+date: 2026-01-17
 description: "Yoon Suk Yeol is set to receive the first verdict on charges linked to his 2024 martial law attempt."
 summary: "Yoon Suk Yeol is set to receive the first verdict on charges linked to his 2024 martial law attempt."
 slug: "south-korea-s-impeached-president-found-guilty-in-first-of-four-trials-what-you-need-to-know"

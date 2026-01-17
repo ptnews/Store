@@ -1,6 +1,6 @@
 ---
 title: "Trump's Fed fight looks like something from another country"
-date: 2026-01-16
+date: 2026-01-17
 description: "Donald Trump's stand-off with the US central bank has recalled episodes in other countries - which ended badly for the economy. "
 summary: "Donald Trump's stand-off with the US central bank has recalled episodes in other countries - which ended badly for the economy. "
 slug: "trump-s-fed-fight-looks-like-something-from-another-country"

@@ -1,6 +1,6 @@
 ---
 title: "What happens in space during a medical emergency?"
-date: 2026-01-16
+date: 2026-01-17
 description: "BBC science correspondent Pallab Ghosh explains what happens if an astronaut gets ill in space."
 summary: "BBC science correspondent Pallab Ghosh explains what happens if an astronaut gets ill in space."
 slug: "what-happens-in-space-during-a-medical-emergency"

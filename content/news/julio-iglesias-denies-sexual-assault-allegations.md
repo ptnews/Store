@@ -1,6 +1,6 @@
 ---
 title: "Julio Iglesias denies sexual assault allegations"
-date: 2026-01-16
+date: 2026-01-17
 description: "In a statement, the Spanish singer says the allegations are \"absolutely false and deeply sadden me\"."
 summary: "In a statement, the Spanish singer says the allegations are \"absolutely false and deeply sadden me\"."
 slug: "julio-iglesias-denies-sexual-assault-allegations"

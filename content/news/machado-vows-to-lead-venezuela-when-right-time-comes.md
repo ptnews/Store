@@ -1,6 +1,6 @@
 ---
 title: "Machado vows to lead Venezuela 'when right time comes'"
-date: 2026-01-16
+date: 2026-01-17
 description: "The opposition leader says she has a mandate to lead the country after the US seized its president."
 summary: "The opposition leader says she has a mandate to lead the country after the US seized its president."
 slug: "machado-vows-to-lead-venezuela-when-right-time-comes"

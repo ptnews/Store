@@ -1,6 +1,6 @@
 ---
 title: "Myanmar begins defence in landmark genocide case at UN court"
-date: 2026-01-16
+date: 2026-01-17
 description: "Myanmar says The Gambia has failed to provide enough evidence of genocide against the Muslim-minority people."
 summary: "Myanmar says The Gambia has failed to provide enough evidence of genocide against the Muslim-minority people."
 slug: "myanmar-begins-defence-in-landmark-genocide-case-at-un-court"
