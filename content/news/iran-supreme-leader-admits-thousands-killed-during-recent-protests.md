@@ -1,8 +1,8 @@
 ---
 title: "Iran supreme leader admits thousands killed during recent protests"
 date: 2026-01-17
-description: "Ayatollah Ali Khamenei alleges the US instigated recent unrest which began in late December."
-summary: "Ayatollah Ali Khamenei alleges the US instigated recent unrest which began in late December."
+description: "Ayatollah Ali Khamenei says some deaths were “inhuman” and “savage” but blames the US. "
+summary: "Ayatollah Ali Khamenei says some deaths were “inhuman” and “savage” but blames the US. "
 slug: "iran-supreme-leader-admits-thousands-killed-during-recent-protests"
 image: ''
 link: 'https://www.bbc.com/news/articles/ckglee733wno?at_medium=RSS&at_campaign=rss'
@@ -18,4 +18,4 @@ tags:
 
 draft: false
 ---
-Ayatollah Ali Khamenei alleges the US instigated recent unrest which began in late December.
+Ayatollah Ali Khamenei says some deaths were “inhuman” and “savage” but blames the US. 
