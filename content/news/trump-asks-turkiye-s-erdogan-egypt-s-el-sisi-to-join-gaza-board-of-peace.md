@@ -1,5 +1,5 @@
 ---
-title: "Trump asks Turkiye’s Erdogan, Egypt’s el-Sisi to join Gaza ‘Board of Peace’"
+title: "Trump asks Turkiye’s Erdogan, Egypt’s el-Sisi to join Gaza ‘board of peace’"
 date: 2026-01-17
 description: "The board will supervise the temporary governance of Gaza, which has been under a fragile ceasefire since October."
 summary: "The board will supervise the temporary governance of Gaza, which has been under a fragile ceasefire since October."
