@@ -1,0 +1,21 @@
+---
+title: "Thousands rally in Denmark against Trump’s threats to take over Greenland - CNN"
+date: 2026-01-17
+description: "Thousands rally in Denmark against Trump’s threats to take over Greenland&nbsp;&nbsp;CNNTrump floats new tariffs in push to acquire Greenland&nbsp;&nbsp;CNBCIn their words: Greenlanders talk about Trump’s desire to own their Arctic island&nbsp;&nbsp;AP NewsCongressional delegation in Denmark says Greenland should be seen as U.S. ally, \"not as an asset\"&nbsp;&nbsp;CBS NewsThe weak business case for Trump acquiring Greenland: a $1 trillion price tag and few returns for two decades&nbsp;&nbsp;F..."
+summary: "Thousands rally in Denmark against Trump’s threats to take over Greenland&nbsp;&nbsp;CNNTrump floats new tariffs in push to acquire Greenland&nbsp;&nbsp;CNBCIn their words: Greenlanders talk about Trump’s desire to own their Arctic island&nbsp;&nbsp;AP NewsCongressional delegation in Denmark says Greenland should be seen as U.S. ally, \"not as an asset\"&nbsp;&nbsp;CBS NewsThe weak business case for Trump acquiring Greenland: a $1 trillion price tag and few returns for two decades&nbsp;&nbsp;F..."
+slug: "thousands-rally-in-denmark-against-trump-s-threats-to-take-over-greenland-cnn"
+image: ''
+link: 'https://news.google.com/rss/articles/CBMigwFBVV95cUxQT0RSYmVkSVllNmNabFpRVjlCUy1fTUdDNlhHQVpCR29uWklwbW5penNRck95STlVTHhmVFlta0hsNEZwbDRaNF92ZzFOSzRMaHhmVTN2QkpqWjgxXy1CX3JNellEa2d0UUU3V3paaldncHZnWk14QTlGc3RoT3BxNnNGZw?oc=5'
+source: 'https://news.google.com/rss/topics/CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx1YlY4U0FtVnVHZ0pWVXlnQVAB?hl=en-US&gl=US&ceid=US:en'
+categories:
+- 'news.google.com'
+tags:
+- 'thousands'
+- 'greenland'
+- 'denmark'
+- 'against'
+- 'threats'
+
+draft: false
+---
+<ol><li><a href="https://news.google.com/rss/articles/CBMigwFBVV95cUxQT0RSYmVkSVllNmNabFpRVjlCUy1fTUdDNlhHQVpCR29uWklwbW5penNRck95STlVTHhmVFlta0hsNEZwbDRaNF92ZzFOSzRMaHhmVTN2QkpqWjgxXy1CX3JNellEa2d0UUU3V3paaldncHZnWk14QTlGc3RoT3BxNnNGZw?oc=5" target="_blank">Thousands rally in Denmark against Trump’s threats to take over Greenland</a>&nbsp;&nbsp;<font color="#6f6f6f">CNN</font></li><li><a href="https://news.google.com/rss/articles/CBMibEFVX3lxTE9GUE9vcnBqcXFudmk0RWhvd29zMVFuWDBITHhKS1hVNDdiQ3FabWxQME5tT0w5dlZWUFVfOTllWjJrRUZQZmpmUVIxMlVkV05VNld1YjNkazJUQi1rNEdPZWVudWtMUC1vZUtFN9IBckFVX3lxTE4zMEYySmI4WmFNV2cybmxLdmlqVnJNblpTcTBSZVNnSWRlLWpUdVpNZXREa0hFYVB6SFlKdEhVSXNLRDJIWUs1aFpTVnRXYTE2M2J4ODFqYVVhRC1YTDZKLXp5cVpIX0NQQ3ljQlYxbjc2QQ?oc=5" target="_blank">Trump floats new tariffs in push to acquire Greenland</a>&nbsp;&nbsp;<font color="#6f6f6f">CNBC</font></li><li><a href="https://news.google.com/rss/articles/CBMinwFBVV95cUxPVWljZmlYQWNXSE5DckJDXzBoZWlSSlpCMmdKUk53NlBiWkgzSEgybmo0clFIclhnSE5qZC1pQ21jdUUyTmZZVGVPck9aanJXQzhDeGJ5LVVtMXh5cDJPdm5tT0xJQ19kd290d1VQVC1DRExmTmY1TVdvWEpmSE12VXVNY2Y2ckxkaGJmQTN2SnBicE55WWZ3akpKSGpqaU0?oc=5" target="_blank">In their words: Greenlanders talk about Trump’s desire to own their Arctic island</a>&nbsp;&nbsp;<font color="#6f6f6f">AP News</font></li><li><a href="https://news.google.com/rss/articles/CBMisAFBVV95cUxQdjRwNTdmbTZ4clJUMDhfaFhCR3A1UlBTVTMySGpRNzlDeEhaUUtlTXNfSzA3ZkdzS2dQS3A5S2g5OTZLeUotMXUtZWlhcnlBUTdNanFpS21TY0lEYkVNM3RBeTZ3dFpqUl9jdVhNcnlaLXlHTVExakFPdmVmZ1ZfRnRxSDZvU0Y0dmVBTW9pTXpuOFlZMDBXYzNlVTRBTDlhZnNmVDZhX0FHSWRKUFlQMNIBtgFBVV95cUxNeG95Yk01X2FPemJBSjlPNkRpb1ZrbGNMc3VaVG53bjA5eE4wYUJnTVljM3l4SkZBOGhiU24xaVp0SjJ2WktVb2g3cmhaUDhuMVYzOHc3VHJnTDlfUjFnSFFoWE5WRTVxRDBTcnRMdFVvYldhMU1UVU1JbFZGaTIzdkdvQWQ0dldLbndUcnlQNTNZQWNXUEMwUktiVGN4bWl1N2pDbHVsZnJaUTNSVi1qTGpwbi1VUQ?oc=5" target="_blank">Congressional delegation in Denmark says Greenland should be seen as U.S. ally, "not as an asset"</a>&nbsp;&nbsp;<font color="#6f6f6f">CBS News</font></li><li><a href="https://news.google.com/rss/articles/CBMiswFBVV95cUxPdTF5Vy1QXzNXWWNrSGZmSDB0ejhMTTNyMzdtamtTLTdBdDd0ZHRfaXNTMjMtbF81QUU0MXF0SkUtQll2Sk13NTBxUU1hamJIQURBWnJkRjk0MURfcWZOVnlCcTNVZUR3QmVsX29tMWVwUlBoaV9RR3ZTNDhZbHZvdmlQbVpoWndTdnZFbHRPc2pCdFpZSkZEbGF1bVNFRk1nb1g4SFV3eThjb0NoR0FWeTJzMA?oc=5" target="_blank">The weak business case for Trump acquiring Greenland: a $1 trillion price tag and few returns for two decades</a>&nbsp;&nbsp;<font color="#6f6f6f">Fortune</font></li></ol>
