@@ -1,8 +1,8 @@
 ---
 title: "Trump pledges to slap tariffs on European allies over Greenland"
 date: 2026-01-17
-description: "US president says eight countries to face tariffs over opposition to US control of semi-autonomous Danish territory."
-summary: "US president says eight countries to face tariffs over opposition to US control of semi-autonomous Danish territory."
+description: "US president says eight countries to face tariffs over opposition to US control of the self-governing Danish territory."
+summary: "US president says eight countries to face tariffs over opposition to US control of the self-governing Danish territory."
 slug: "trump-pledges-to-slap-tariffs-on-european-allies-over-greenland"
 image: ''
 link: 'https://www.aljazeera.com/news/2026/1/17/trump-pledges-to-slap-tariffs-on-european-allies-over-greenland?traffic_source=rss'
@@ -18,4 +18,4 @@ tags:
 
 draft: false
 ---
-US president says eight countries to face tariffs over opposition to US control of semi-autonomous Danish territory.
+US president says eight countries to face tariffs over opposition to US control of the self-governing Danish territory.
