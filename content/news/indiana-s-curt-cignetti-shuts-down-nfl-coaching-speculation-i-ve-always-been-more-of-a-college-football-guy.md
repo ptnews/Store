@@ -1,0 +1,21 @@
+---
+title: "Indiana's Curt Cignetti shuts down NFL coaching speculation: 'I've always been more of a college football guy'"
+date: 2026-01-17
+description: "Indiana coach Curt Cignetti shut down NFL speculation ahead of the College Football Playoff championship, saying he&apos;s &quot;more of a college football guy.&quot;"
+summary: "Indiana coach Curt Cignetti shut down NFL speculation ahead of the College Football Playoff championship, saying he&apos;s &quot;more of a college football guy.&quot;"
+slug: "indiana-s-curt-cignetti-shuts-down-nfl-coaching-speculation-i-ve-always-been-more-of-a-college-football-guy"
+image: ''
+link: 'https://www.foxnews.com/sports/indianas-curt-cignetti-shuts-down-nfl-coaching-speculation-ive-always-been-more-college-football-guy'
+source: 'https://feeds.foxnews.com/foxnews/latest'
+categories:
+- 'feeds.foxnews.com'
+tags:
+- 'speculation'
+- 'cignetti'
+- 'coaching'
+- 'football'
+- 'indiana'
+
+draft: false
+---
+<p>Nine NFL teams entered the offseason looking to fill their head coaching vacancies, and while some believe <a href="https://www.foxnews.com/category/sports/ncaa/indiana-hoosiers" target="_blank" rel="noopener">Indiana coach Curt Cignetti</a> would be a strong fit for several of those openings, he sees it differently. </p><p>Speaking to the media on Saturday ahead of the <a href="https://www.foxnews.com/category/sports/ncaa-fb" target="_blank" rel="noopener">College Football Playoff national championship</a> game in Miami, Cignetti shut down speculation of having any interest in making a leap to the NFL. </p><p>"I made that decision a long time ago now," Cignetti said, via <a href="https://www.cbssports.com/college-football/news/curt-cignetti-indiana-coach-nfl-raiders/" target="_blank" rel="noopener noreferrer nofollow"><u>CBS Sports' Brandon Marcello.</u></a> "Chuck Amato, NC State, in 2000. I had a chance to go with the [Green Bay] Packers. Tommy Rossley, Mike Sherman, [Brett] Favre was in his heyday. I declined the opportunity. I almost took it. That's when I made the final decision."</p><p><a href="https://www.foxnews.com/sports" target="_blank" rel="noopener"><strong>CLICK HERE FOR MORE SPORTS COVERAGE ON FOXNEWS.COM</strong></a></p><p>"I've always been more of a college football guy."</p><p>Cignetti has had several coaching stints in college football but has never crossed into the <a href="https://www.foxnews.com/category/sports/nfl" target="_blank" rel="noopener">NFL.</a> His most notable – prior to his success at Indiana – was during his five seasons at James Madison, where he led the Dukes to three conference titles and an FCS national championship appearance. He left for Indiana with a 52-9 record. </p><p>Cignetti’s remarks come amid speculation that Las Vegas could be a potential fit, as Indiana quarterback and Heisman Trophy winner <a href="https://www.foxnews.com/sports/indianas-fernando-mendoza-wins-2025-heisman-trophy" target="_blank" rel="noopener">Fernando Mendoza</a> will likely be taken by the Raiders with the first overall pick in April’s draft. </p><p><a href="https://www.foxnews.com/sports/governors-braun-desantis-place-friendly-wager-national-championship-between-miami-indiana" target="_blank" rel="noopener"><strong><u>GOVERNORS BRAUN, DESANTIS PLACE 'FRIENDLY WAGER' FOR NATIONAL CHAMPIONSHIP BETWEEN MIAMI AND INDIANA</u></strong></a></p><p>With those rumors settled, Cignetti’s and Mendoza’s focus can return to Monday’s title game against Miami. </p><p>The Hoosiers have gone 26-2 over the last two seasons under Cignetti and <a href="https://www.foxnews.com/category/sports/ncaa/miami-hurricanes" target="_blank" rel="noopener">only Miami</a> stands between them and the program’s first national championship.</p><p>The CFP national championship game will take place at Hard Rock Stadium in Miami Gardens, Florida on Monday at 7:30 p.m. ET. </p><p><i><strong>Follow Fox News Digital’s</strong></i><a href="https://twitter.com/FoxNewsSports_" target="_blank" rel="noopener"><i><strong><u> sports coverage on X</u></strong></i></a><i><strong>, and subscribe to</strong></i><a href="https://www.foxnews.com/newsletters" target="_blank" rel="noopener"><i><strong><u> the Fox News Sports Huddle newsletter</u></strong></i></a><i><strong>.</strong></i></p>
