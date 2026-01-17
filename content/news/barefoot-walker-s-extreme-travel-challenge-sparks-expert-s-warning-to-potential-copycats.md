@@ -1,8 +1,8 @@
 ---
 title: "Barefoot walker's extreme travel challenge sparks expert's warning to potential copycats"
 date: 2026-01-17
-description: "In a world record attempt, an Irish man is walking barefoot on a 3,400-mile trek from Istanbul to Ireland as a fitness expert shares a health advisory for others."
-summary: "In a world record attempt, an Irish man is walking barefoot on a 3,400-mile trek from Istanbul to Ireland as a fitness expert shares a health advisory for others."
+description: "In a world record attempt, an Irish man is walking barefoot on a 3,400-mile trek from Istanbul to Ireland, and a fitness expert shares a health advisory for others."
+summary: "In a world record attempt, an Irish man is walking barefoot on a 3,400-mile trek from Istanbul to Ireland, and a fitness expert shares a health advisory for others."
 slug: "barefoot-walker-s-extreme-travel-challenge-sparks-expert-s-warning-to-potential-copycats"
 image: ''
 link: 'https://www.foxnews.com/travel/barefoot-walkers-extreme-challenge-sparks-experts-warning-potential-copycats'
