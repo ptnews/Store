@@ -1,0 +1,21 @@
+---
+title: "Washington warns Tehran 'all options are on the table' at UNSC session - Euronews.com"
+date: 2026-01-17
+description: "Washington warns Tehran 'all options are on the table' at UNSC session&nbsp;&nbsp;Euronews.comUS ambassador warns Iran at emergency UN meeting that Trump is 'man of action,' 'all options are on the table'&nbsp;&nbsp;Fox NewsMany Fiery Remarks, Little Clarity on What’s Next at Security Council Meeting on Iran&nbsp;&nbsp;The New York Times5 countries call for UN Human Rights Council to hold session on ‘alarming’ Iran violence&nbsp;&nbsp;The Times of IsraelSecurity Council LIVE: UN raises ala..."
+summary: "Washington warns Tehran 'all options are on the table' at UNSC session&nbsp;&nbsp;Euronews.comUS ambassador warns Iran at emergency UN meeting that Trump is 'man of action,' 'all options are on the table'&nbsp;&nbsp;Fox NewsMany Fiery Remarks, Little Clarity on What’s Next at Security Council Meeting on Iran&nbsp;&nbsp;The New York Times5 countries call for UN Human Rights Council to hold session on ‘alarming’ Iran violence&nbsp;&nbsp;The Times of IsraelSecurity Council LIVE: UN raises ala..."
+slug: "washington-warns-tehran-all-options-are-on-the-table-at-unsc-session-euronews-com"
+image: ''
+link: 'https://news.google.com/rss/articles/CBMixAFBVV95cUxOUmpDWHhUUTJhUklDSXBhZmFtcDh2SmZ6RnExeWttd2cwXzRUcnhpQmVUWUJmeG9PSDczaHpBVUtNRTcxdVpEWVRKeHcyOXFQVE9rWDZscUU2aC03d1dXUmtJSml3NUFlcTJrX3lQN0tUdkxWNVl4Nko1TkJybzd4WWpPaGZWSTF6UlRJbEM1anBRTTluREF1bkgzd3NDclltVVF4dVlLUTA3QU1MS3pWYXFKV3hiMm10QUF5dGpsWjRnUktJ?oc=5'
+source: 'https://news.google.com/rss/topics/CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx1YlY4U0FtVnVHZ0pWVXlnQVAB?hl=en-US&gl=US&ceid=US:en'
+categories:
+- 'news.google.com'
+tags:
+- 'washington'
+- 'euronews'
+- 'options'
+- 'session'
+- 'tehran'
+
+draft: false
+---
+<ol><li><a href="https://news.google.com/rss/articles/CBMixAFBVV95cUxOUmpDWHhUUTJhUklDSXBhZmFtcDh2SmZ6RnExeWttd2cwXzRUcnhpQmVUWUJmeG9PSDczaHpBVUtNRTcxdVpEWVRKeHcyOXFQVE9rWDZscUU2aC03d1dXUmtJSml3NUFlcTJrX3lQN0tUdkxWNVl4Nko1TkJybzd4WWpPaGZWSTF6UlRJbEM1anBRTTluREF1bkgzd3NDclltVVF4dVlLUTA3QU1MS3pWYXFKV3hiMm10QUF5dGpsWjRnUktJ?oc=5" target="_blank">Washington warns Tehran 'all options are on the table' at UNSC session</a>&nbsp;&nbsp;<font color="#6f6f6f">Euronews.com</font></li><li><a href="https://news.google.com/rss/articles/CBMitwFBVV95cUxQWUdhT29wX3ZRMHFfVU14WUJCNEZyaEd5aVdITkVrakRFbnNVb2NXWV9pdlJOaWNaVG1tMEJGYlU5b0ZadWttbWdTMVpVdi1VcHJ2bkhjR3hTSTBOT0pXWU15MDE1aU04Ykw5M1J0TkZoazBzcExZdXgwb1FnTVdISXdPM1NwaXl1dlNMNE16cElXNmpGckEyUndKdzN0WElzUFFvSTNlOHZOV2NzV1lQTEhtX0FVZm_SAbwBQVVfeXFMTVhiQ01zNVppX2l0elV6NERsT05yTFBEQTRFTzQybWp2RnVkTnZpYk0zaVpMYlhWbm5XNnNCU3RrcDZEVTMybG5LZU5ybG9JNnZSUUlnelpiYmJNRDBiSzh3Ql9rQ3ZvZ0pQM0xKS3FKUXRCY1ZuNHlabUpPME1VSUVWcjh4RG14R0xlYmlkbUhWRzF2bDFSeWJvUl9CV0VHNEsyNXdvSXU1elVwWjlkSmFMTW1zeWJDdUpMbVY?oc=5" target="_blank">US ambassador warns Iran at emergency UN meeting that Trump is 'man of action,' 'all options are on the table'</a>&nbsp;&nbsp;<font color="#6f6f6f">Fox News</font></li><li><a href="https://news.google.com/rss/articles/CBMikAFBVV95cUxPSk91Wm5CaXplVDdUckxIWndWWHpoUGlpZWhJWS1rMHVWb1NsZk5EbndtNUc3Mjg5ZThVSVZuN0xKXzVTckRJSEZzcjNQcGJuQkhrbWxPSlBFRE83azVFSXN3RnZlWnZubS1XMlhIcnBCWF82aGZiS2RUZlJqRGVRdmZXUXV0S0RqVEpVMklNTFI?oc=5" target="_blank">Many Fiery Remarks, Little Clarity on What’s Next at Security Council Meeting on Iran</a>&nbsp;&nbsp;<font color="#6f6f6f">The New York Times</font></li><li><a href="https://news.google.com/rss/articles/CBMizAFBVV95cUxPUThBeWF3R1ZLdkgtYWd0REphU3dkZ2tVbVRpUUZDdjNUVjJRMzRqcWRtZl8tY1RFdFRRNkozV0kzNjBhU2VydFQ5eWlhczNDdWNpU2ZIeE9CVVAzQmlzRGFYTVlUQlJsWVNaRlFUdTJHYVh5Y3ZaMUEzS3prYm1VOXVoVE1DN3M2UEZyZ1ZLS3dqQVBZc3VXY2dkUjF5a29IVk9DaFE5OENKRkV5MzA0aVR4d0FzNjUwTFQtV1p2LWpFN2RRRzNwU1JmY3c?oc=5" target="_blank">5 countries call for UN Human Rights Council to hold session on ‘alarming’ Iran violence</a>&nbsp;&nbsp;<font color="#6f6f6f">The Times of Israel</font></li><li><a href="https://news.google.com/rss/articles/CBMiV0FVX3lxTE9RTGhYMEt4ZW1pcmRibnN6SWhLX3NLaURtQUhjS0QtMnItdTNOM2pBYkI3TS1TLXlkREtGTjM3QnROejZOeGhudU84d2ptQXZua0E5Ukl0QQ?oc=5" target="_blank">Security Council LIVE: UN raises alarm over deadly Iran protests and ‘possible military strikes’</a>&nbsp;&nbsp;<font color="#6f6f6f">UN News</font></li></ol>
