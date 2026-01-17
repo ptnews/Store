@@ -1,0 +1,21 @@
+---
+title: "Many Fiery Remarks, Little Clarity on What’s Next at Security Council Meeting on Iran - The New York Times"
+date: 2026-01-17
+description: "Many Fiery Remarks, Little Clarity on What’s Next at Security Council Meeting on Iran&nbsp;&nbsp;The New York TimesUS ambassador warns Iran at emergency UN meeting that Trump is 'man of action,' 'all options are on the table'&nbsp;&nbsp;Fox NewsUS warns Iran that ‘all options are on the table’ in emergency UN meeting&nbsp;&nbsp;AP NewsTrump thanks Iran’s leaders for not hanging protesters&nbsp;&nbsp;France 245 countries call for UN Human Rights Council to hold session on ‘alarming’ I..."
+summary: "Many Fiery Remarks, Little Clarity on What’s Next at Security Council Meeting on Iran&nbsp;&nbsp;The New York TimesUS ambassador warns Iran at emergency UN meeting that Trump is 'man of action,' 'all options are on the table'&nbsp;&nbsp;Fox NewsUS warns Iran that ‘all options are on the table’ in emergency UN meeting&nbsp;&nbsp;AP NewsTrump thanks Iran’s leaders for not hanging protesters&nbsp;&nbsp;France 245 countries call for UN Human Rights Council to hold session on ‘alarming’ I..."
+slug: "many-fiery-remarks-little-clarity-on-what-s-next-at-security-council-meeting-on-iran-the-new-york-times"
+image: ''
+link: 'https://news.google.com/rss/articles/CBMikAFBVV95cUxPSk91Wm5CaXplVDdUckxIWndWWHpoUGlpZWhJWS1rMHVWb1NsZk5EbndtNUc3Mjg5ZThVSVZuN0xKXzVTckRJSEZzcjNQcGJuQkhrbWxPSlBFRE83azVFSXN3RnZlWnZubS1XMlhIcnBCWF82aGZiS2RUZlJqRGVRdmZXUXV0S0RqVEpVMklNTFI?oc=5'
+source: 'https://news.google.com/rss/topics/CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx1YlY4U0FtVnVHZ0pWVXlnQVAB?hl=en-US&gl=US&ceid=US:en'
+categories:
+- 'news.google.com'
+tags:
+- 'security'
+- 'remarks'
+- 'clarity'
+- 'council'
+- 'meeting'
+
+draft: false
+---
+<ol><li><a href="https://news.google.com/rss/articles/CBMikAFBVV95cUxPSk91Wm5CaXplVDdUckxIWndWWHpoUGlpZWhJWS1rMHVWb1NsZk5EbndtNUc3Mjg5ZThVSVZuN0xKXzVTckRJSEZzcjNQcGJuQkhrbWxPSlBFRE83azVFSXN3RnZlWnZubS1XMlhIcnBCWF82aGZiS2RUZlJqRGVRdmZXUXV0S0RqVEpVMklNTFI?oc=5" target="_blank">Many Fiery Remarks, Little Clarity on What’s Next at Security Council Meeting on Iran</a>&nbsp;&nbsp;<font color="#6f6f6f">The New York Times</font></li><li><a href="https://news.google.com/rss/articles/CBMitwFBVV95cUxQWUdhT29wX3ZRMHFfVU14WUJCNEZyaEd5aVdITkVrakRFbnNVb2NXWV9pdlJOaWNaVG1tMEJGYlU5b0ZadWttbWdTMVpVdi1VcHJ2bkhjR3hTSTBOT0pXWU15MDE1aU04Ykw5M1J0TkZoazBzcExZdXgwb1FnTVdISXdPM1NwaXl1dlNMNE16cElXNmpGckEyUndKdzN0WElzUFFvSTNlOHZOV2NzV1lQTEhtX0FVZm_SAbwBQVVfeXFMTVhiQ01zNVppX2l0elV6NERsT05yTFBEQTRFTzQybWp2RnVkTnZpYk0zaVpMYlhWbm5XNnNCU3RrcDZEVTMybG5LZU5ybG9JNnZSUUlnelpiYmJNRDBiSzh3Ql9rQ3ZvZ0pQM0xKS3FKUXRCY1ZuNHlabUpPME1VSUVWcjh4RG14R0xlYmlkbUhWRzF2bDFSeWJvUl9CV0VHNEsyNXdvSXU1elVwWjlkSmFMTW1zeWJDdUpMbVY?oc=5" target="_blank">US ambassador warns Iran at emergency UN meeting that Trump is 'man of action,' 'all options are on the table'</a>&nbsp;&nbsp;<font color="#6f6f6f">Fox News</font></li><li><a href="https://news.google.com/rss/articles/CBMirgFBVV95cUxNSGUweklkcWUwV0NobFdSR0RVdjl2eDdxZkF3eTZRUFpXSDE0c3BiRHZYVFBTMHNreTlkamNYV1RnTXdBYVRwVjUyMUxpdzExX1BSeVJQNHhmMnVabmdSOUljc2RaRFBxdmVkUWV4MjlEVWNEQ3lhc2hKN2hXWTJwQzFkSEw4WGctY003UmtQUjBVY0p6MWdlWXQ2b09walJOd0IzTHc2WDlPV25WLWc?oc=5" target="_blank">US warns Iran that ‘all options are on the table’ in emergency UN meeting</a>&nbsp;&nbsp;<font color="#6f6f6f">AP News</font></li><li><a href="https://news.google.com/rss/articles/CBMirgFBVV95cUxOYlFfUjZTUlZrTFoxVWVla2xiS3JIUlR5bDlmSFBlMjdUOTFvZjI3UTZqNmdiaUNNTlhVTm10ZW5XZGZOVFFXczFpT204UVlWZzNmYlFwWWxpcHYwaGtqTmFVVmZ6S3dnSFFGRVFZT04zamZvZm9NeEJWSHN6Tm96Wm5kaDJDZ3d0TnUxR3JkdjR0Ri1mdF9OUGVfRjFfQWpZdXN6RXNpMGdmTjRUTnc?oc=5" target="_blank">Trump thanks Iran’s leaders for not hanging protesters</a>&nbsp;&nbsp;<font color="#6f6f6f">France 24</font></li><li><a href="https://news.google.com/rss/articles/CBMizAFBVV95cUxPUThBeWF3R1ZLdkgtYWd0REphU3dkZ2tVbVRpUUZDdjNUVjJRMzRqcWRtZl8tY1RFdFRRNkozV0kzNjBhU2VydFQ5eWlhczNDdWNpU2ZIeE9CVVAzQmlzRGFYTVlUQlJsWVNaRlFUdTJHYVh5Y3ZaMUEzS3prYm1VOXVoVE1DN3M2UEZyZ1ZLS3dqQVBZc3VXY2dkUjF5a29IVk9DaFE5OENKRkV5MzA0aVR4d0FzNjUwTFQtV1p2LWpFN2RRRzNwU1JmY3c?oc=5" target="_blank">5 countries call for UN Human Rights Council to hold session on ‘alarming’ Iran violence</a>&nbsp;&nbsp;<font color="#6f6f6f">The Times of Israel</font></li></ol>

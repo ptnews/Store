@@ -1,0 +1,21 @@
+---
+title: "Billionaire Forced To Change The Name Of His Boat After People Realize What It Spells Backwards - Bored Panda"
+date: 2026-01-17
+description: "Billionaire Forced To Change The Name Of His Boat After People Realize What It Spells Backwards&nbsp;&nbsp;Bored PandaBillionaire Larry Ellison scrambled to rename yacht after coming to horrifying realization about its name&nbsp;&nbsp;New York PostLarry Ellison once renamed a superyacht because its name spelled backwards was 'I'm a Nazi'&nbsp;&nbsp;Jewish Telegraphic AgencyOne of the world's richest techie 'forced' to rename yacht after told the name's 'embarrassing meaning'&nbsp;&nbsp;Times of ..."
+summary: "Billionaire Forced To Change The Name Of His Boat After People Realize What It Spells Backwards&nbsp;&nbsp;Bored PandaBillionaire Larry Ellison scrambled to rename yacht after coming to horrifying realization about its name&nbsp;&nbsp;New York PostLarry Ellison once renamed a superyacht because its name spelled backwards was 'I'm a Nazi'&nbsp;&nbsp;Jewish Telegraphic AgencyOne of the world's richest techie 'forced' to rename yacht after told the name's 'embarrassing meaning'&nbsp;&nbsp;Times of ..."
+slug: "billionaire-forced-to-change-the-name-of-his-boat-after-people-realize-what-it-spells-backwards-bored-panda"
+image: ''
+link: 'https://news.google.com/rss/articles/CBMiowFBVV95cUxNY3U2TXUxR2o0QXQzeDY2dWtqaExKZm9YVmNmcW1LUmFXY2FtTXdUNlVMclpFRU9GR19ERHU4NGF6M3hheGxnQ0pTQzNXSm82bmtxR1p3MDRhbEVHbjhqYlVsS1lXRHBFYnpTam5zOVR5OTF5WlQ0VWlDREZXRnZIb3NXNEh3VkdOd01neV9YMllMS2ltTW4wY0h5U2RtUS1aY3Fj?oc=5'
+source: 'https://news.google.com/rss/topics/CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx1YlY4U0FtVnVHZ0pWVXlnQVAB?hl=en-US&gl=US&ceid=US:en'
+categories:
+- 'news.google.com'
+tags:
+- 'billionaire'
+- 'backwards'
+- 'realize'
+- 'forced'
+- 'change'
+
+draft: false
+---
+<ol><li><a href="https://news.google.com/rss/articles/CBMiowFBVV95cUxNY3U2TXUxR2o0QXQzeDY2dWtqaExKZm9YVmNmcW1LUmFXY2FtTXdUNlVMclpFRU9GR19ERHU4NGF6M3hheGxnQ0pTQzNXSm82bmtxR1p3MDRhbEVHbjhqYlVsS1lXRHBFYnpTam5zOVR5OTF5WlQ0VWlDREZXRnZIb3NXNEh3VkdOd01neV9YMllMS2ltTW4wY0h5U2RtUS1aY3Fj?oc=5" target="_blank">Billionaire Forced To Change The Name Of His Boat After People Realize What It Spells Backwards</a>&nbsp;&nbsp;<font color="#6f6f6f">Bored Panda</font></li><li><a href="https://news.google.com/rss/articles/CBMizAFBVV95cUxQWXdPUjMtTnFnczZHS0VRWXdhb0pjYUV2QUQwdkNNWHNPY0ZERF9XSXVqZXpoVl9wNUZRTGRiZzRFbXRpY0pIYVZSR0I1NDFvUU4yVHFNeDdPd2ZHN2pQaWFEcEctZ2ppYmNGb3BzVmVTQWdnbE8wX3lOcnVRTGlfMkZJNGNiTFMwZDdzdXBWRDBlMktyOU1EbHlxX0dVbTB0d1hFQ19QbkxZT0xFSEk1cExfb3FwdVNCMlZ3U3dscFJvTnZWZG9DOVdNUFY?oc=5" target="_blank">Billionaire Larry Ellison scrambled to rename yacht after coming to horrifying realization about its name</a>&nbsp;&nbsp;<font color="#6f6f6f">New York Post</font></li><li><a href="https://news.google.com/rss/articles/CBMixgFBVV95cUxQdVVlbzRMNk5EanUxQ1lwNzNzbjdBTE5LQmI3MWVsYnNoMlhLRHNPaFc2NTZZblE2ZFZhRFNJZHNuYktwZUU0UlVSN2ktVDRNMmNHaFlqNjB3a3BGTVBLT2JlWmxJUFhPNjFWZ1I3R0lKQjVIdEQ2akpURXUyTDk5Zzlqa0RJa2tVY2xLNVhka08zYmpYbUdjZ3AwS0ZEMzJVX3liYUY3XzAtOUhwbUM1c29ubmFxYWI1bTZocjZZYkdQdWlkQUE?oc=5" target="_blank">Larry Ellison once renamed a superyacht because its name spelled backwards was 'I'm a Nazi'</a>&nbsp;&nbsp;<font color="#6f6f6f">Jewish Telegraphic Agency</font></li><li><a href="https://news.google.com/rss/articles/CBMijAJBVV95cUxObTJERHVEbkN2VGZVeXRyemw2ZEVQSTlqSkc1T3RFcW9nV2tOem1OcjJuMzd5c0pkU3MzbFkyYV9SdS1meV9YcGtYUlZkdUxkeXlRRU5HQ2p6OUVXMmFKUjdVQ0tzZ1YzUmtZRVNEbDRXU2tSYzA4NG04OFl4MTVwNGtWWEIzRGFDMVdCc19qX1BIcWh0MUNiZVk3REpBb3Q3TkIwWVNjcE5Ickl3ejctWE9XTE8zbmRHVkNDZnZCSEt4NDhqSWJSZzZ5elowaGpQSmNmWDF6MEJ4QnhjRHpJZzd3YmxSdlk4U0FxYk1OZ3lrOHpBNHp5STFYSjhyX044Qkc2aFlvVUZsb1V6?oc=5" target="_blank">One of the world's richest techie 'forced' to rename yacht after told the name's 'embarrassing meaning'</a>&nbsp;&nbsp;<font color="#6f6f6f">Times of India</font></li><li><a href="https://news.google.com/rss/articles/CBMif0FVX3lxTE82amN6UW1BVmRodlczNS1uLThWZmExSGo2LU9Yel9SZDVJVmtvNktmZG82Ry1NS001M2REWFZyeHNGMEJtZGJYZFZqRDJ6WUJXWFlVRXU2dXZfZXE5UV9COWlSWnQyLURlRTBueGJUWnBSSTFGaDAxai0tNldmeFk?oc=5" target="_blank">Larry Ellison Had To Change The Name Of One Of His Yachts After Finding Out It Spelled 'I'm A Nazi' Backward</a>&nbsp;&nbsp;<font color="#6f6f6f">Jalopnik</font></li></ol>
