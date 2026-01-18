@@ -1,8 +1,8 @@
 ---
 title: "John Mellencamp shares his unconventional advice to his children about work"
 date: 2026-01-17
-description: "Rock legend John Mellencamp opens up about family values, his parenting approach, and wanting his adult children nearby as his daughter battles cancer."
-summary: "Rock legend John Mellencamp opens up about family values, his parenting approach, and wanting his adult children nearby as his daughter battles cancer."
+description: "Rock legend John Mellencamp opens up about family values, his parenting approach and wanting his adult children nearby as his daughter battles cancer."
+summary: "Rock legend John Mellencamp opens up about family values, his parenting approach and wanting his adult children nearby as his daughter battles cancer."
 slug: "john-mellencamp-shares-his-unconventional-advice-to-his-children-about-work"
 image: ''
 link: 'https://www.foxnews.com/entertainment/john-mellencamp-unconventional-advice-children-work'

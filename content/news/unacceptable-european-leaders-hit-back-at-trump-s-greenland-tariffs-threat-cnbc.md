@@ -1,0 +1,21 @@
+---
+title: "'Unacceptable': European leaders hit back at Trump's Greenland tariffs threat - CNBC"
+date: 2026-01-18
+description: "'Unacceptable': European leaders hit back at Trump's Greenland tariffs threat&nbsp;&nbsp;CNBC‘Yankee, Go Home’: Greenlanders Protest Trump’s Takeover Plans&nbsp;&nbsp;The New York TimesUK stance on Greenland’s future is ‘non-negotiable’, says Lisa Nandy&nbsp;&nbsp;The GuardianEU Set to Halt US Trade Deal Over Trump’s New Tariff Threat&nbsp;&nbsp;Bloomberg.comTrump announces tariffs on European countries opposing Greenland takeover&nbsp;&nbsp;The Washington Post"
+summary: "'Unacceptable': European leaders hit back at Trump's Greenland tariffs threat&nbsp;&nbsp;CNBC‘Yankee, Go Home’: Greenlanders Protest Trump’s Takeover Plans&nbsp;&nbsp;The New York TimesUK stance on Greenland’s future is ‘non-negotiable’, says Lisa Nandy&nbsp;&nbsp;The GuardianEU Set to Halt US Trade Deal Over Trump’s New Tariff Threat&nbsp;&nbsp;Bloomberg.comTrump announces tariffs on European countries opposing Greenland takeover&nbsp;&nbsp;The Washington Post"
+slug: "unacceptable-european-leaders-hit-back-at-trump-s-greenland-tariffs-threat-cnbc"
+image: ''
+link: 'https://news.google.com/rss/articles/CBMimAFBVV95cUxORTVieEVoZGZYR0dndEF3LWFuVHh1Um5MaHlYQnhCSTFNa0JXeUF6S0E1bTczdlZ2UEJ4RFZGdXFXb2hMQmdZMDFoUmhRcHFVX2QyY1l0N18yNjhKRDdER3FZSE8tRnN6cVhzdDhEUVZEOVFIbGNuZDFyNWFKT3BsbHpiWVY3YTZNT0dkOGt0emtzeGJUakw4MdIBngFBVV95cUxQU0tRQWk1cHRuN3FqOXNXd2ZLNXhaSDBEcFUwUFZPbnF6RU1VNjE2X2hKQkh4Q3FrUzhiZC1GOFdRUTNhbWhJM25GYl92ZXcxRDZMakMxNlVwR3JkSkZyX2NvSzF2RFhSY0ZFQlEybDVVSkdvWmJBcFcydzlrV0RnVjd5aTNBSGE5V3cxelZPUEtCMmNxNmpLS2NHV1dCZw?oc=5'
+source: 'https://news.google.com/rss/topics/CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx1YlY4U0FtVnVHZ0pWVXlnQVAB?hl=en-US&gl=US&ceid=US:en'
+categories:
+- 'news.google.com'
+tags:
+- 'unacceptable'
+- 'greenland'
+- 'european'
+- 'leaders'
+- 'tariffs'
+
+draft: false
+---
+<ol><li><a href="https://news.google.com/rss/articles/CBMimAFBVV95cUxORTVieEVoZGZYR0dndEF3LWFuVHh1Um5MaHlYQnhCSTFNa0JXeUF6S0E1bTczdlZ2UEJ4RFZGdXFXb2hMQmdZMDFoUmhRcHFVX2QyY1l0N18yNjhKRDdER3FZSE8tRnN6cVhzdDhEUVZEOVFIbGNuZDFyNWFKT3BsbHpiWVY3YTZNT0dkOGt0emtzeGJUakw4MdIBngFBVV95cUxQU0tRQWk1cHRuN3FqOXNXd2ZLNXhaSDBEcFUwUFZPbnF6RU1VNjE2X2hKQkh4Q3FrUzhiZC1GOFdRUTNhbWhJM25GYl92ZXcxRDZMakMxNlVwR3JkSkZyX2NvSzF2RFhSY0ZFQlEybDVVSkdvWmJBcFcydzlrV0RnVjd5aTNBSGE5V3cxelZPUEtCMmNxNmpLS2NHV1dCZw?oc=5" target="_blank">'Unacceptable': European leaders hit back at Trump's Greenland tariffs threat</a>&nbsp;&nbsp;<font color="#6f6f6f">CNBC</font></li><li><a href="https://news.google.com/rss/articles/CBMimAFBVV95cUxQYnZVQ2xTMTV5a0lEdTNMczFTNHFvRWJwVUlRZWdDUjNRWDdJQTdlVVRIc1lWVE1hZUNlc0pmajJDb2w3Y2N2UGNYeXpMZVdXeF9fM1hlM0lOQVBYYXE4LVl6UkNCSkdEOFBTdmlfOXFlZXA0elM2cEJXSUc3YWFVemlFSFllb1dGeUpWN1ptZ2xqSkVTOWY5OA?oc=5" target="_blank">‘Yankee, Go Home’: Greenlanders Protest Trump’s Takeover Plans</a>&nbsp;&nbsp;<font color="#6f6f6f">The New York Times</font></li><li><a href="https://news.google.com/rss/articles/CBMipgFBVV95cUxPTzlaX1hHS3dXNk5Vb1htWUNqbWc2V243aU0wbDlPUEVTMmhueF9KaC04eV9oOWVIS2JDbGFiUVA1YVRJZTBJancwNEZlMjN0UnZRTUpMMHBqUXIxcUhaUmdZLTFoWnBGRzQ1Rm05ZXFJMkVGOEp4X1dINkd0T21OelVEZFV0RkZaN3lVTzY5NTU2ZGk3VXRXY0I4eUV1bEZMakR0UVFR?oc=5" target="_blank">UK stance on Greenland’s future is ‘non-negotiable’, says Lisa Nandy</a>&nbsp;&nbsp;<font color="#6f6f6f">The Guardian</font></li><li><a href="https://news.google.com/rss/articles/CBMiswFBVV95cUxNTzFhY2J0Rl92aURJQ0NJY1RnT2p2Nk5sU29TZnZTSlM1YkZTc0FISTZ4bEFjelUxNy00UU16UUlDZEpYSzNIVm55cXBrcHFGcjFfRUJ4c2ZLMGROVWs5RTZXR0ZFaXlPRlkyTFY2NzMyVzZCMmRUaS1Wa3hHY0d0Uno0RUU3Ql83cjAxdlJjdjhfTERrZTlwTE9PU3BEdGxWYVgwT2Vub2dIS2dmU3VtM21MWQ?oc=5" target="_blank">EU Set to Halt US Trade Deal Over Trump’s New Tariff Threat</a>&nbsp;&nbsp;<font color="#6f6f6f">Bloomberg.com</font></li><li><a href="https://news.google.com/rss/articles/CBMiigFBVV95cUxNeGVUaUZqYm83cnB0amJmVzRmUVJ5MHJ5Y3BGU2ZxU0FGM1EwSXNlQlJscGpJaU1INGxKSXBWalNoOFpDZm9yY3dDT2diVnA4UkRFbEFOZUFPVHAwNWk2QjVhalJuSUQxalhGaHVod2pPWDFTTlJXRk9iUEl1RXZQbGY5d0xxSzIxTnc?oc=5" target="_blank">Trump announces tariffs on European countries opposing Greenland takeover</a>&nbsp;&nbsp;<font color="#6f6f6f">The Washington Post</font></li></ol>
