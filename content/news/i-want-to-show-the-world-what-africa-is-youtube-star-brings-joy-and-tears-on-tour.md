@@ -1,5 +1,5 @@
 ---
-title: "I want to show the world what Africa is - YouTube star brings joy and tears on tour"
+title: "'I want to show the world what Africa is': YouTube star brings joy and tears on tour"
 date: 2026-01-18
 description: "\"I love the love in Africa. The energy here is crazy,\" he says on his maiden tour of the continent."
 summary: "\"I love the love in Africa. The energy here is crazy,\" he says on his maiden tour of the continent."
