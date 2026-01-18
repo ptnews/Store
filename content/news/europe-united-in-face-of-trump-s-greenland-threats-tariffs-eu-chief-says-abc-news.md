@@ -1,0 +1,21 @@
+---
+title: "Europe 'united' in face of Trump's Greenland threats, tariffs, EU chief says - ABC News"
+date: 2026-01-18
+description: "Europe 'united' in face of Trump's Greenland threats, tariffs, EU chief says&nbsp;&nbsp;ABC NewsA stunned Europe finally wakes up to Trump’s Greenland threat&nbsp;&nbsp;CNNEuropean leaders say they won’t be ‘blackmailed’ by Trump’s tariff threats&nbsp;&nbsp;The Washington PostAfter Trump Reignites a Trade War Over Greenland, Europe Weighs Going All-Out&nbsp;&nbsp;The New York Times'Be in no doubt' EU will retaliate to any new US tariffs, Ireland says&nbsp;&nbsp;Reuters"
+summary: "Europe 'united' in face of Trump's Greenland threats, tariffs, EU chief says&nbsp;&nbsp;ABC NewsA stunned Europe finally wakes up to Trump’s Greenland threat&nbsp;&nbsp;CNNEuropean leaders say they won’t be ‘blackmailed’ by Trump’s tariff threats&nbsp;&nbsp;The Washington PostAfter Trump Reignites a Trade War Over Greenland, Europe Weighs Going All-Out&nbsp;&nbsp;The New York Times'Be in no doubt' EU will retaliate to any new US tariffs, Ireland says&nbsp;&nbsp;Reuters"
+slug: "europe-united-in-face-of-trump-s-greenland-threats-tariffs-eu-chief-says-abc-news"
+image: ''
+link: 'https://news.google.com/rss/articles/CBMirwFBVV95cUxOMFJscjh4dTRvczVHQkRJal9aZ2k3dzgyaDBSZDZGcndndzB4cmF3OVJZU1dNYjlld203dFlHLUt0V3lVTkFYY3o0d1gzeWxSVTVJanBKQ2NoSVlCT2tLX0pOQTE4RUg3R3BiOGVJR1NlN2djUHN0by1SbzRvMEFxX1Q0d3paYzhmVWNPc1lRMkx5ODhydjZFa1htMTB1SGVuMHdRd1h5RGNvbG1fekdj0gG0AUFVX3lxTFBpOXhhLUNrREU3RkMzRnZmQW9CZjVWUi1PUlc0VXhJWmJVeXhzZ1NocTM0RE9RWWlwdy1nZEpBS3lsZnRMaERVQ1RDVHhXQVdaTGJUNkVZQy1oaFNvcE5GUHlxREtLSjhZY1hGbjkzSDF2OFdGTk80WUZQamFrU0ZRZGY5SHpFbWZwQ3pxd1BOelhWQ3VGcUx1bmRBNUJTM0c4ZW1UcmZ5RnMxVVZqWjlNZVZlYQ?oc=5'
+source: 'https://news.google.com/rss/topics/CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx1YlY4U0FtVnVHZ0pWVXlnQVAB?hl=en-US&gl=US&ceid=US:en'
+categories:
+- 'news.google.com'
+tags:
+- 'greenland'
+- 'threats'
+- 'tariffs'
+- 'europe'
+- 'united'
+
+draft: false
+---
+<ol><li><a href="https://news.google.com/rss/articles/CBMirwFBVV95cUxOMFJscjh4dTRvczVHQkRJal9aZ2k3dzgyaDBSZDZGcndndzB4cmF3OVJZU1dNYjlld203dFlHLUt0V3lVTkFYY3o0d1gzeWxSVTVJanBKQ2NoSVlCT2tLX0pOQTE4RUg3R3BiOGVJR1NlN2djUHN0by1SbzRvMEFxX1Q0d3paYzhmVWNPc1lRMkx5ODhydjZFa1htMTB1SGVuMHdRd1h5RGNvbG1fekdj0gG0AUFVX3lxTFBpOXhhLUNrREU3RkMzRnZmQW9CZjVWUi1PUlc0VXhJWmJVeXhzZ1NocTM0RE9RWWlwdy1nZEpBS3lsZnRMaERVQ1RDVHhXQVdaTGJUNkVZQy1oaFNvcE5GUHlxREtLSjhZY1hGbjkzSDF2OFdGTk80WUZQamFrU0ZRZGY5SHpFbWZwQ3pxd1BOelhWQ3VGcUx1bmRBNUJTM0c4ZW1UcmZ5RnMxVVZqWjlNZVZlYQ?oc=5" target="_blank">Europe 'united' in face of Trump's Greenland threats, tariffs, EU chief says</a>&nbsp;&nbsp;<font color="#6f6f6f">ABC News</font></li><li><a href="https://news.google.com/rss/articles/CBMiiwFBVV95cUxQZDQ4am8wM0l6VGFjMmxnV1h1bGlCSWZremluMDd2UThndml3akpLdVRFWXkzVUlLZ2Z2eUdsOFRzUWxmQTlqTWdpaVVwNzJZNThHSWVPTGxSdVRmSkJBMFctOUcyNS0xN1B2cnc1Rl9JcUpCeld4TnBDb3dXTXRmYkRyLXlUazY4Nzd3?oc=5" target="_blank">A stunned Europe finally wakes up to Trump’s Greenland threat</a>&nbsp;&nbsp;<font color="#6f6f6f">CNN</font></li><li><a href="https://news.google.com/rss/articles/CBMiigFBVV95cUxOejR0Unp0ZjZDZGpQd2FtS2YwTFpGTjdYSlh3SVpNbnU4VVk1QjFOYnhwOFJJelJsald4M1NVRGxNQjF2U1hzVEZnOWJETnNNTWh0ZW03WUwxdGVWNVE1TmkwWnJTRGdOUVVmeDdXT1NpYkRWSHdzT0s3SUxUUWhwOThBbVdWOE1nNXc?oc=5" target="_blank">European leaders say they won’t be ‘blackmailed’ by Trump’s tariff threats</a>&nbsp;&nbsp;<font color="#6f6f6f">The Washington Post</font></li><li><a href="https://news.google.com/rss/articles/CBMigAFBVV95cUxNWHRzcEMyQk53TTV4ZVU0V24wYUQySFFoejFDLWxIcV9neGQ0QlgyeUZmRnBqcDk2eGJESFBZLWF0UXh0RE9sRk1oeXM0NS0wRUN6ZkJFU1NVVG8zTjlzanlUUVYxODlFdTNJOVFYR01nd3U1SzZoWjAzdS1fQ3o2Tg?oc=5" target="_blank">After Trump Reignites a Trade War Over Greenland, Europe Weighs Going All-Out</a>&nbsp;&nbsp;<font color="#6f6f6f">The New York Times</font></li><li><a href="https://news.google.com/rss/articles/CBMirwFBVV95cUxQUm5veE9NaVJjZHhYTDNnTjZrdWtXR3hNTkdBWFZER21aZTZ3dTZBM3Q2WFUyT0g4TXFNMzItdHplYTExcGZ5SGdGUzhsVkRMN2JlYnRyYVMzMmY3cHg1NzdaTDJLY2phejE5Q09selhCRmN1ZDFMY1dWd3oxSGJ3ZWl3STViMTlrcGpOSE84TEFfTmpGcEt2cHFhd1ZFYjNicXNKMXZDQk45bVFJOVdZ?oc=5" target="_blank">'Be in no doubt' EU will retaliate to any new US tariffs, Ireland says</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font></li></ol>
