@@ -1,8 +1,8 @@
 ---
 title: "Why Trump zeroed in on Greenland and why it matters in 3 maps"
 date: 2026-01-18
-description: "Trump&apos;s interest in Greenland isn&apos;t random - the Arctic island holds military bases and rare earth minerals as ice melts open strategic opportunities."
-summary: "Trump&apos;s interest in Greenland isn&apos;t random - the Arctic island holds military bases and rare earth minerals as ice melts open strategic opportunities."
+description: "Trump&apos;s interest in Greenland isn&apos;t random – the Arctic island holds military bases and rare earth minerals as ice melts open strategic opportunities."
+summary: "Trump&apos;s interest in Greenland isn&apos;t random – the Arctic island holds military bases and rare earth minerals as ice melts open strategic opportunities."
 slug: "why-trump-zeroed-in-on-greenland-and-why-it-matters-in-3-maps"
 image: ''
 link: 'https://www.foxnews.com/politics/why-trump-zeroed-greenland-why-matters-3-maps'
