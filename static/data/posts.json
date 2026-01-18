@@ -864,6 +864,24 @@
     "title": "Who is Reza Pahlavi, the son of Iran's last shah?"
   },
   {
+    "description": "Authorities have deployed mobile intensive care units to the crash site near Adamuz, where 25 people are injured.",
+    "image": "",
+    "link": "https://www.aljazeera.com/news/2026/1/18/two-high-speed-trains-collide-in-spain-killing?traffic_source=rss",
+    "pubDate": "2026-01-18",
+    "slug": "two-high-speed-trains-collide-in-spain-killing-at-least-21",
+    "source": "https://aljazeera.com/xml/rss/all.xml",
+    "title": "Two high-speed trains collide in Spain, killing at least 21"
+  },
+  {
+    "description": "Pape Gueye scores in 1-0 win after extra-time after Senegal leave the field in protest at penalty decision.",
+    "image": "",
+    "link": "https://www.aljazeera.com/sports/2026/1/18/senegal-beat-hosts-morocco-to-win-afcon-2025-after-farcical-walk-off?traffic_source=rss",
+    "pubDate": "2026-01-18",
+    "slug": "senegal-beat-hosts-morocco-to-win-afcon-2025-after-farcical-walk-off",
+    "source": "https://aljazeera.com/xml/rss/all.xml",
+    "title": "Senegal beat hosts Morocco to win AFCON 2025 after farcical walk-off"
+  },
+  {
     "description": "The army has made significant territorial gains after intense battles with the SDF.",
     "image": "",
     "link": "https://www.aljazeera.com/video/inside-story/2026/1/18/will-the-syrian-army-end-up-controlling-kurdish-held-areas?traffic_source=rss",
@@ -936,13 +954,13 @@
     "title": "Syria announces ceasefire agreement with Kurd-led SDF after heavy fighting"
   },
   {
-    "description": "Follow our live build-up, with team news coverage, ahead of our text commentary stream of the 2025 AFCON final in Rabat.",
+    "description": "All the updates as Senegal win the AFCON 2025 final marred by ugly scenes following a controversial penalty.",
     "image": "",
     "link": "https://www.aljazeera.com/sports/liveblog/2026/1/18/live-senegal-vs-morocco-afcon-final?traffic_source=rss",
     "pubDate": "2026-01-18",
-    "slug": "live-senegal-vs-morocco-afcon-final",
+    "slug": "senegal-vs-morocco-1-0-after-extra-time-afcon-final-as-it-happened",
     "source": "https://aljazeera.com/xml/rss/all.xml",
-    "title": "LIVE: Senegal vs Morocco – AFCON final"
+    "title": "Senegal vs Morocco 1-0 (after extra-time): AFCON final – as it happened"
   },
   {
     "description": "United Nations rights chief Volker Turk visits Sudan and says people in country are going through \u0026#039;hell\u0026#039;.",
@@ -1069,23 +1087,5 @@
     "slug": "israeli-attacks-wound-civilians-across-gaza-in-latest-ceasefire-violations",
     "source": "https://aljazeera.com/xml/rss/all.xml",
     "title": "Israeli attacks wound civilians across Gaza in latest ceasefire violations"
-  },
-  {
-    "description": "The Syrian army captures Tabqa, intensifying their push against Kurdish-led forces east of the Euphrates River.",
-    "image": "",
-    "link": "https://www.aljazeera.com/gallery/2026/1/18/syrian-government-forces-seize-strategic-town-in-raqqa-as-sdf-retreats?traffic_source=rss",
-    "pubDate": "2026-01-18",
-    "slug": "syrian-government-forces-seize-strategic-town-in-raqqa-as-sdf-retreats",
-    "source": "https://aljazeera.com/xml/rss/all.xml",
-    "title": "Syrian government forces seize strategic town in Raqqa as SDF retreats"
-  },
-  {
-    "description": "Moscow is focused on winning in Ukraine; all else is a means to that end.",
-    "image": "",
-    "link": "https://www.aljazeera.com/opinions/2026/1/18/just-like-venezuela-iran-too-is-expendable-for-russia?traffic_source=rss",
-    "pubDate": "2026-01-18",
-    "slug": "just-like-venezuela-iran-too-is-expendable-for-russia",
-    "source": "https://aljazeera.com/xml/rss/all.xml",
-    "title": "Just like Venezuela, Iran, too, is expendable for Russia"
   }
 ]
