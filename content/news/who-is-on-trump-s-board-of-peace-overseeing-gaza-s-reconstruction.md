@@ -1,6 +1,6 @@
 ---
 title: "Who is on Trump's 'Board of Peace' overseeing Gaza's reconstruction?"
-date: 2026-01-17
+date: 2026-01-18
 description: "The first names of those who will oversee the next phase of the US president's peace plan are announced."
 summary: "The first names of those who will oversee the next phase of the US president's peace plan are announced."
 slug: "who-is-on-trump-s-board-of-peace-overseeing-gaza-s-reconstruction"

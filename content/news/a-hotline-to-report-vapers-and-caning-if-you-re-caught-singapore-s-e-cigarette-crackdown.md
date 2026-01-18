@@ -1,6 +1,6 @@
 ---
 title: "A hotline to report vapers and caning if you're caught: Singapore's e-cigarette crackdown"
-date: 2026-01-17
+date: 2026-01-18
 description: "The city-state wants to stamp out e-cigarettes with harsh penalties including caning and fines."
 summary: "The city-state wants to stamp out e-cigarettes with harsh penalties including caning and fines."
 slug: "a-hotline-to-report-vapers-and-caning-if-you-re-caught-singapore-s-e-cigarette-crackdown"

@@ -1,6 +1,6 @@
 ---
 title: "Under fire from the sea, families in Odesa try to escape Russian barrage"
-date: 2026-01-17
+date: 2026-01-18
 description: "Ukraine's third largest city has come under sustained attack on its ports in a Russian bid to sap morale."
 summary: "Ukraine's third largest city has come under sustained attack on its ports in a Russian bid to sap morale."
 slug: "under-fire-from-the-sea-families-in-odesa-try-to-escape-russian-barrage"

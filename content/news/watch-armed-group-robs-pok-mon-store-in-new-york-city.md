@@ -1,6 +1,6 @@
 ---
 title: "Watch: Armed group robs Pokémon store in New York City"
-date: 2026-01-17
+date: 2026-01-18
 description: "Multiple hooded and masked people ransacked Pokémon merchandise and smashed glass card displays at the Manhattan shop."
 summary: "Multiple hooded and masked people ransacked Pokémon merchandise and smashed glass card displays at the Manhattan shop."
 slug: "watch-armed-group-robs-pok-mon-store-in-new-york-city"

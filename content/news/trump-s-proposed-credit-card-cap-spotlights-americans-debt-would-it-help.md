@@ -1,6 +1,6 @@
 ---
 title: "Trump's proposed credit card cap spotlights Americans' debt. Would it help?"
-date: 2026-01-17
+date: 2026-01-18
 description: "President Trump's proposal to cap credit card interest rates at 10% - an idea with bipartisan support - received swift backlash from bank executives."
 summary: "President Trump's proposal to cap credit card interest rates at 10% - an idea with bipartisan support - received swift backlash from bank executives."
 slug: "trump-s-proposed-credit-card-cap-spotlights-americans-debt-would-it-help"

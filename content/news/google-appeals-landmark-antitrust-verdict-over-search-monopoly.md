@@ -1,6 +1,6 @@
 ---
 title: "Google appeals landmark antitrust verdict over search monopoly"
-date: 2026-01-17
+date: 2026-01-18
 description: "The tech giant is seeking a pause on court-ordered fixes aimed at limiting its monopoly power."
 summary: "The tech giant is seeking a pause on court-ordered fixes aimed at limiting its monopoly power."
 slug: "google-appeals-landmark-antitrust-verdict-over-search-monopoly"

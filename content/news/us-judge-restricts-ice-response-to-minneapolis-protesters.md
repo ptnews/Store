@@ -1,6 +1,6 @@
 ---
 title: "US judge restricts ICE response to Minneapolis protesters"
-date: 2026-01-17
+date: 2026-01-18
 description: "The legal order comes ahead of planned weekend protests and counter protests in the city amid ongoing immigration enforcement actions. "
 summary: "The legal order comes ahead of planned weekend protests and counter protests in the city amid ongoing immigration enforcement actions. "
 slug: "us-judge-restricts-ice-response-to-minneapolis-protesters"

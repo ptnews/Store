@@ -1,6 +1,6 @@
 ---
 title: "South African national park closed due to floods"
-date: 2026-01-17
+date: 2026-01-18
 description: "Ongoing floods in the north-eastern provinces of South Africa has led to the closure of the world-famous Kruger National Park."
 summary: "Ongoing floods in the north-eastern provinces of South Africa has led to the closure of the world-famous Kruger National Park."
 slug: "south-african-national-park-closed-due-to-floods"

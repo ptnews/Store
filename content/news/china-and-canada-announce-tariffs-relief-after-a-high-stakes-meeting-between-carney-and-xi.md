@@ -1,6 +1,6 @@
 ---
 title: "China and Canada announce tariffs relief after a high-stakes meeting between Carney and Xi"
-date: 2026-01-17
+date: 2026-01-18
 description: "Canola oil and electric cars are at the centre of the deal agreed by Mark Carney and Xi Jinping after years of strained ties."
 summary: "Canola oil and electric cars are at the centre of the deal agreed by Mark Carney and Xi Jinping after years of strained ties."
 slug: "china-and-canada-announce-tariffs-relief-after-a-high-stakes-meeting-between-carney-and-xi"

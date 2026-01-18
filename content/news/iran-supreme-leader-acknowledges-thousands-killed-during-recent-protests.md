@@ -1,6 +1,6 @@
 ---
 title: "Iran supreme leader acknowledges thousands killed during recent protests"
-date: 2026-01-17
+date: 2026-01-18
 description: "Ayatollah Ali Khamenei says some deaths were “inhuman” and “savage” but blames the US. "
 summary: "Ayatollah Ali Khamenei says some deaths were “inhuman” and “savage” but blames the US. "
 slug: "iran-supreme-leader-acknowledges-thousands-killed-during-recent-protests"

@@ -1,6 +1,6 @@
 ---
 title: "From camouflage to tracksuits - Guinea's junta leader becomes civilian president"
-date: 2026-01-17
+date: 2026-01-18
 description: "Junta chief Mamadi Doumbouya, set for a seven-year term, has to prove himself as a democratic leader."
 summary: "Junta chief Mamadi Doumbouya, set for a seven-year term, has to prove himself as a democratic leader."
 slug: "from-camouflage-to-tracksuits-guinea-s-junta-leader-becomes-civilian-president"
