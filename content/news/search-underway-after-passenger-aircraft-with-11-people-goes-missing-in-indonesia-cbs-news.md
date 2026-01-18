@@ -1,0 +1,21 @@
+---
+title: "Search underway after passenger aircraft with 11 people goes missing in Indonesia - CBS News"
+date: 2026-01-18
+description: "Search underway after passenger aircraft with 11 people goes missing in Indonesia&nbsp;&nbsp;CBS NewsPlane Carrying 11 People Vanished from Radar During 2-Hour Flight. Search for Wreckage and Survivors Continues&nbsp;&nbsp;People.comSuspected debris found of Indonesian plane believed to have crashed in Sulawesi with 11 on board&nbsp;&nbsp;YahooIndonesia finds wreckage of missing surveillance plane carrying 10, one body&nbsp;&nbsp;ReutersIndonesian rescuers find a body near wreckage of a plane th..."
+summary: "Search underway after passenger aircraft with 11 people goes missing in Indonesia&nbsp;&nbsp;CBS NewsPlane Carrying 11 People Vanished from Radar During 2-Hour Flight. Search for Wreckage and Survivors Continues&nbsp;&nbsp;People.comSuspected debris found of Indonesian plane believed to have crashed in Sulawesi with 11 on board&nbsp;&nbsp;YahooIndonesia finds wreckage of missing surveillance plane carrying 10, one body&nbsp;&nbsp;ReutersIndonesian rescuers find a body near wreckage of a plane th..."
+slug: "search-underway-after-passenger-aircraft-with-11-people-goes-missing-in-indonesia-cbs-news"
+image: ''
+link: 'https://news.google.com/rss/articles/CBMidkFVX3lxTE9YZjlobWswMjdQRkhVWmRhaHRCMEd0ai00MXlkdjhmdkh6c2RtdXJGOEN2a1FOYlpjVVlQTXBfMzEyZ3JHVF9HT3dkSFRLc0ZoTHBIaWhibnJKNXZSY3l4R2RPUm1XbkkzRmZJT3hLd21GbTIyc3fSAXtBVV95cUxNX0hnOVB0ejhmbHAxamc1NVVYZFllTDB4bEwxUm9SNkNHZXdfMmVCUEhEdVFpVkxobEpjX05zU2haclVZR1dud1BwVnVqeTlDb1g0S0VzV0FyaHJ0U0h2WWZSbGhvUC1pVGxxRDdpSTk5T3lQVGJLdE9HSEk?oc=5'
+source: 'https://news.google.com/rss/topics/CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx1YlY4U0FtVnVHZ0pWVXlnQVAB?hl=en-US&gl=US&ceid=US:en'
+categories:
+- 'news.google.com'
+tags:
+- 'passenger'
+- 'indonesia'
+- 'underway'
+- 'aircraft'
+- 'missing'
+
+draft: false
+---
+<ol><li><a href="https://news.google.com/rss/articles/CBMidkFVX3lxTE9YZjlobWswMjdQRkhVWmRhaHRCMEd0ai00MXlkdjhmdkh6c2RtdXJGOEN2a1FOYlpjVVlQTXBfMzEyZ3JHVF9HT3dkSFRLc0ZoTHBIaWhibnJKNXZSY3l4R2RPUm1XbkkzRmZJT3hLd21GbTIyc3fSAXtBVV95cUxNX0hnOVB0ejhmbHAxamc1NVVYZFllTDB4bEwxUm9SNkNHZXdfMmVCUEhEdVFpVkxobEpjX05zU2haclVZR1dud1BwVnVqeTlDb1g0S0VzV0FyaHJ0U0h2WWZSbGhvUC1pVGxxRDdpSTk5T3lQVGJLdE9HSEk?oc=5" target="_blank">Search underway after passenger aircraft with 11 people goes missing in Indonesia</a>&nbsp;&nbsp;<font color="#6f6f6f">CBS News</font></li><li><a href="https://news.google.com/rss/articles/CBMixgFBVV95cUxNUm83ZExDUGRyVW0wVTYzb2RJMEZxT1duQjZHajJxZjU0T0xDUnBxQ2xCRjhiMmkxRTdUUmpfUERzR0pUbWppNUt5MkJPamxVUEhiUGFsS1djSWZvenViXzhLRjg5LTZaY2FLNXhQLXVCVHprZVdGX3FpY0tkSXNwU3FuakhsZWdvbG1EUXVBOUJTM3pWMFp2ODFsX0tacjZKNFljbGlQRDBFRjVwNFhvLWxmY2Fib3FUMzgxakxWSERnVGJZQmc?oc=5" target="_blank">Plane Carrying 11 People Vanished from Radar During 2-Hour Flight. Search for Wreckage and Survivors Continues</a>&nbsp;&nbsp;<font color="#6f6f6f">People.com</font></li><li><a href="https://news.google.com/rss/articles/CBMikgFBVV95cUxNOWROWEZsUC1rRkx2UFZGRnFDUWlzZUx1S3FqZTFsNnQ0cWdRci1qamF1Ql9UbS1LUFJ4VzlEbnk0WmQyY2J1WWswREVhNktqVzFIaHlZaE5pcGNKQ0oyUkN2blFKQjFCdHYyMjM5QzZtX3lCS1RlLUdtNjRHeEJYMkRONVpfeDBKMHIxR21UM2lqQQ?oc=5" target="_blank">Suspected debris found of Indonesian plane believed to have crashed in Sulawesi with 11 on board</a>&nbsp;&nbsp;<font color="#6f6f6f">Yahoo</font></li><li><a href="https://news.google.com/rss/articles/CBMizAFBVV95cUxPd1dINi1rMGhnVnZhcnM3Q2E5clVsYXo1aTczVmFUVkZoWXNyWG1DcVk0M3BvWEJkcnFWb0JBWl9FN0QycGZmUmltVTJNOXF2VU9KdXN4UEp0OGc3VlBsNXRZWEZMMkV1cDdibEpNd1pqc0FmWTBLeURsUnktbkVteUxrOXd4dW8waVZrRkFQd2tTN1JKVkpWakpqOHJwc3NlLU45cmQ0dG1ZcWJBTVFkTWFoLWlkRldDelhMR2lXZUVpYXFJTDZNMmstbTY?oc=5" target="_blank">Indonesia finds wreckage of missing surveillance plane carrying 10, one body</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font></li><li><a href="https://news.google.com/rss/articles/CBMivAFBVV95cUxPVkhFOGYzX1dmVlk5Wi0wZzIwX0xsejcyS0RwZjI2Y2dqNVpJcEZWd3dpZXB3azBXenFUWjhEaXN4d2RHX0Rha0U4enh3S0xoRW5zSzlHSC1YbmRROHVWYXE4VDJ2RVVOY0hGU256c0tiTmdVVXZYMFpxNTdxU2FWV18xUXBjYnQySGxqNHB2bDYwUjdRaEZleVNZNFRINTFELVhyV1ZaMzVrbnJ3ZGhtNWNzY1NtVGVoZ2E1Tw?oc=5" target="_blank">Indonesian rescuers find a body near wreckage of a plane that crashed with 11 aboard</a>&nbsp;&nbsp;<font color="#6f6f6f">WRAL</font></li></ol>
