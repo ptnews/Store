@@ -1,8 +1,8 @@
 ---
 title: "Trump vows to protect Army-Navy game from 'Big TV Money' interference with executive order"
 date: 2026-01-18
-description: "President Donald Trump plans to sign an executive order protecting the Army-Navy football game&apos;s traditional December broadcast slot from College Football Playoff expansion."
-summary: "President Donald Trump plans to sign an executive order protecting the Army-Navy football game&apos;s traditional December broadcast slot from College Football Playoff expansion."
+description: "President Donald Trump plans to sign an executive order protecting the Army-Navy game&apos;s traditional December broadcast slot from College Football Playoff expansion."
+summary: "President Donald Trump plans to sign an executive order protecting the Army-Navy game&apos;s traditional December broadcast slot from College Football Playoff expansion."
 slug: "trump-vows-to-protect-army-navy-game-from-big-tv-money-interference-with-executive-order"
 image: ''
 link: 'https://www.foxnews.com/sports/trump-vows-protect-army-navy-game-from-big-tv-money-interference-executive-order'
