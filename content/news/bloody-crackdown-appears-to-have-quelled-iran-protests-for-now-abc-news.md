@@ -1,0 +1,21 @@
+---
+title: "Bloody crackdown appears to have quelled Iran protests for now - ABC News"
+date: 2026-01-18
+description: "Bloody crackdown appears to have quelled Iran protests for now&nbsp;&nbsp;ABC News‘Blood on the streets’: Iranian who fled Karaj tells of brutal crackdown on protesters&nbsp;&nbsp;CNNTehran after the protests: patrols, propaganda and despair&nbsp;&nbsp;Financial TimesHow Many People Were Killed in Iran’s Crackdown?&nbsp;&nbsp;The Wall Street JournalNo sign of new protests in Iran as a hard-line cleric calls for executions and threatens Trump&nbsp;&nbsp;AP News"
+summary: "Bloody crackdown appears to have quelled Iran protests for now&nbsp;&nbsp;ABC News‘Blood on the streets’: Iranian who fled Karaj tells of brutal crackdown on protesters&nbsp;&nbsp;CNNTehran after the protests: patrols, propaganda and despair&nbsp;&nbsp;Financial TimesHow Many People Were Killed in Iran’s Crackdown?&nbsp;&nbsp;The Wall Street JournalNo sign of new protests in Iran as a hard-line cleric calls for executions and threatens Trump&nbsp;&nbsp;AP News"
+slug: "bloody-crackdown-appears-to-have-quelled-iran-protests-for-now-abc-news"
+image: ''
+link: 'https://news.google.com/rss/articles/CBMiqgFBVV95cUxPa24tYkVta3Z0TjNnM3VoQlBjaFBoaDFvTjVDNUlQYmJ2LTZmUDlYX2FVX1h5NncyTUNLbjhkckNmRE5LX2VpZGRha196VGJtWkJZQnBHZFdMMXJ1aThnajF0aGw2ZjR1OGxXTGtpNVFHR20wZ1hMUEI2NHBpSFcyR3Bmbl9qRWtSeGJSbTFfWFVDaHFQcjFPcHVzU1g1MTA5VHFkdWdld0Vsd9IBrwFBVV95cUxNdzFFcFlkbkt2ZUQwM1ZPYmJyNGtZUW5jdmxHVy1LYkdNTFpjdEJjdWZJWmFod1E0bVF3UUdTWExqemEyNDdyY0J1bUU0aGw5YkhyQVBldzR4eVpSdC1jMFNjVnVpUnVkUVNQYU5XRy1UdUNNSEpsN3JuT3Y2QmhKalRBSkhRaFh2aWtUM0h5UmNsVUtnYlBGOGpuUV9GS0daWVdEMkdrWUtsTWt2c0Y4?oc=5'
+source: 'https://news.google.com/rss/topics/CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx1YlY4U0FtVnVHZ0pWVXlnQVAB?hl=en-US&gl=US&ceid=US:en'
+categories:
+- 'news.google.com'
+tags:
+- 'crackdown'
+- 'protests'
+- 'appears'
+- 'quelled'
+- 'bloody'
+
+draft: false
+---
+<ol><li><a href="https://news.google.com/rss/articles/CBMiqgFBVV95cUxPa24tYkVta3Z0TjNnM3VoQlBjaFBoaDFvTjVDNUlQYmJ2LTZmUDlYX2FVX1h5NncyTUNLbjhkckNmRE5LX2VpZGRha196VGJtWkJZQnBHZFdMMXJ1aThnajF0aGw2ZjR1OGxXTGtpNVFHR20wZ1hMUEI2NHBpSFcyR3Bmbl9qRWtSeGJSbTFfWFVDaHFQcjFPcHVzU1g1MTA5VHFkdWdld0Vsd9IBrwFBVV95cUxNdzFFcFlkbkt2ZUQwM1ZPYmJyNGtZUW5jdmxHVy1LYkdNTFpjdEJjdWZJWmFod1E0bVF3UUdTWExqemEyNDdyY0J1bUU0aGw5YkhyQVBldzR4eVpSdC1jMFNjVnVpUnVkUVNQYU5XRy1UdUNNSEpsN3JuT3Y2QmhKalRBSkhRaFh2aWtUM0h5UmNsVUtnYlBGOGpuUV9GS0daWVdEMkdrWUtsTWt2c0Y4?oc=5" target="_blank">Bloody crackdown appears to have quelled Iran protests for now</a>&nbsp;&nbsp;<font color="#6f6f6f">ABC News</font></li><li><a href="https://news.google.com/rss/articles/CBMilgFBVV95cUxPNVMtaGRsZEIzdFhPWGpjSE5pWW4zaktMX29QMzlJTHlvbEZNTHhObWU3bHNMX0hEbE9XTDVQX0p2a0pFakVYSGhVbVlSQ2d3OTNQUmlaWWdjXzVzcjFaMlpwZ25SRHlyVFdVd016XzFGekRZQVRIYUlyZ3lhejhHYUwyUHJuWnFhV0JEYUZaNWVJOVZPQWc?oc=5" target="_blank">‘Blood on the streets’: Iranian who fled Karaj tells of brutal crackdown on protesters</a>&nbsp;&nbsp;<font color="#6f6f6f">CNN</font></li><li><a href="https://news.google.com/rss/articles/CBMicEFVX3lxTFAyY2FQQ0VDLTVMT3U5WjZJaHJrWWowUmV0d3l3UjY4RjBWWk1CenYwcURwR2lJYlB2dnBjWmJjNUNPUm9sN01NT3drQkxCMVg0enVjbW1oRl9tcm5LdmdpWHJqUkpMRUVFYXhONUx1T0Q?oc=5" target="_blank">Tehran after the protests: patrols, propaganda and despair</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font></li><li><a href="https://news.google.com/rss/articles/CBMimAFBVV95cUxPVkJVeUdEYTlPV3Ftc014c0dWMzEzb183RTg1d2JqblducFY0ZEo1NDF1MnFoN1lQUThlS0xZbTB3T191NUlXb2tQWVBTbkpmZlEzMWFkWDJoYmM2Y1V1ZmZJNzViOVh2UTZFN3pJalBMVXNSQVBwQ0xMdzZkemdqNnBkdkJmNXotcUhYWWZVVDFJRVRfdnFfbA?oc=5" target="_blank">How Many People Were Killed in Iran’s Crackdown?</a>&nbsp;&nbsp;<font color="#6f6f6f">The Wall Street Journal</font></li><li><a href="https://news.google.com/rss/articles/CBMilAFBVV95cUxNc0dMRF8zNWdvbDhPbGludDZUVzhDa045MHpEcGtHVkFnUUNDdWJXZU9tS09SUG5DdVhYZW0yZ2xvRjBwaTBHa1RCQmVDcHZrYm1zZW80eS1DWmo2cUZ5SzFzSElkalRkRkZGTEFMUFVSamc3UVg3S01WczJaWWdYaDF2TGxOQ1FFdnB5VFlfNEJUc3ds?oc=5" target="_blank">No sign of new protests in Iran as a hard-line cleric calls for executions and threatens Trump</a>&nbsp;&nbsp;<font color="#6f6f6f">AP News</font></li></ol>
