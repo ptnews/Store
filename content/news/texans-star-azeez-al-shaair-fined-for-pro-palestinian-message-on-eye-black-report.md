@@ -1,9 +1,9 @@
 ---
-title: "Texas star Azeez al-Shaair fined for pro-Palestinian message on eye black: report"
+title: "Texans star Azeez al-Shaair fined for pro-Palestinian message on eye black: report"
 date: 2026-01-18
 description: "The NFL reportedly fined Houston Texans linebacker Azeez Al-Shaair for displaying a message on his eye black during a playoff win over the Pittsburgh Steelers."
 summary: "The NFL reportedly fined Houston Texans linebacker Azeez Al-Shaair for displaying a message on his eye black during a playoff win over the Pittsburgh Steelers."
-slug: "texas-star-azeez-al-shaair-fined-for-pro-palestinian-message-on-eye-black-report"
+slug: "texans-star-azeez-al-shaair-fined-for-pro-palestinian-message-on-eye-black-report"
 image: ''
 link: 'https://www.foxnews.com/sports/texas-star-azeez-al-shaair-fined-pro-palestine-message-eye-black-report'
 source: 'https://feeds.foxnews.com/foxnews/latest'
@@ -12,9 +12,9 @@ categories:
 tags:
 - 'palestinian'
 - 'message'
+- 'texans'
 - 'shaair'
 - 'report'
-- 'texas'
 
 draft: false
 ---
