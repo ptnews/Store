@@ -1,0 +1,21 @@
+---
+title: "Universal Orlando visitor dies after riding Revenge of the Mummy roller coaster, state report says"
+date: 2026-01-19
+description: "A 70-year-old woman died after riding Universal Orlando&apos;s Revenge of the Mummy roller coaster in November, according to a new state report."
+summary: "A 70-year-old woman died after riding Universal Orlando&apos;s Revenge of the Mummy roller coaster in November, according to a new state report."
+slug: "universal-orlando-visitor-dies-after-riding-revenge-of-the-mummy-roller-coaster-state-report-says"
+image: ''
+link: 'https://www.foxnews.com/us/universal-orlando-visitor-dies-after-riding-revenge-mummy-roller-coaster'
+source: 'https://feeds.foxnews.com/foxnews/latest'
+categories:
+- 'feeds.foxnews.com'
+tags:
+- 'universal'
+- 'orlando'
+- 'visitor'
+- 'revenge'
+- 'coaster'
+
+draft: false
+---
+<p>A 70-year-old woman visiting <a href="https://www.foxnews.com/category/travel/vacation-destinations/universal-orlando" target="_blank" rel="noopener">Universal Orlando</a> died in November after riding the Revenge of the Mummy roller coaster, according to a state report released Thursday.</p><p>The woman, who was not identified in the <a href="https://www.foxnews.com/category/us/us-regions/southeast/florida" target="_blank" rel="noopener">Florida Department of Agriculture and Consumer Services </a>(FDACS) report, became unresponsive while riding the indoor attraction on Nov. 25, 2025, and later died at a hospital. The report did not list a cause of death.</p><p>Revenge of the Mummy is an indoor roller coaster that can reach speeds of up to 45 mph. The ride is based off "The Mummy" and "The Mummy Returns" films.</p><p>Since the attraction opened in 2004, there have been 21 reported incidents on the ride that range from nausea and dizziness to a seizure and a vertebrae fracture, <a href="https://ktla.com/news/theme-parks/woman-dies-after-riding-revenge-of-the-mummy-attraction-at-universal-orlando-report-says/" target="_blank" rel="nofollow noopener">KTLA reported</a>.</p><p><a href="https://www.foxnews.com/us/disneyland-guest-dies-after-riding-haunted-mansion-attraction-police-say" target="_blank" rel="noopener"><strong>DISNEYLAND GUEST DIES AFTER RIDING HAUNTED MANSION ATTRACTION, POLICE SAY</strong></a></p><p>Fox News Digital reached out to Universal Orlando for comment but did not immediately hear back.</p><p>The FDACS report lists incidents that occur at <a href="https://www.foxnews.com/category/travel/general/theme-parks" target="_blank" rel="noopener">amusement parks</a> that employ their own full-time safety inspectors and must self-report incidents as they are exempt from state inspections. The incidents are broken down on a per quarter basis.</p><p>During the same October to December 2025 period, the report said six health-related incidents were reported at <a href="https://www.foxnews.com/category/travel/vacation-destinations/walt-disney-world-orlando" target="_blank" rel="noopener">Walt Disney World</a>. No incidents were recorded at other popular parks in Florida, including Sea World, Busch Gardens and Legoland.</p><p><a href="https://www.foxnews.com/us/woman-found-dead-disneys-pop-century-resort-fourth-tragic-incident-month" target="_blank" rel="noopener"><strong>WOMAN FOUND DEAD AT DISNEY’S POP CENTURY RESORT IN FOURTH TRAGIC INCIDENT IN A MONTH</strong></a></p><p>Another death happened at Universal Orlando just months earlier when 32-year-old <a href="https://www.foxbusiness.com/entertainment/attorneys-say-roller-coaster-had-pattern-safety-failures-prior-riders-death-not-isolated-incident" target="_blank" rel="noopener">Kevin Rodriguez Zavala</a> after becoming unresponsive on the Stardust Racers roller coaster at the amusement park’s Epic Universe on Sept. 17.</p><p>Zavala had suffered multiple blunt force injuries on the dual-launch ride and later died at a hospital, according to authorities.</p><p>Attorneys representing Zavala's family argue that Universal missed "multiple" warning signs before his death, claiming the incident was not "isolated," and several other victims have reported similar injuries after participating in the same ride.</p><p><i>Fox News Digital’s Alexandra Koch contributed to this report.</i></p>
