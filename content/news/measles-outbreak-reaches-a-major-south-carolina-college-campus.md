@@ -1,8 +1,8 @@
 ---
 title: "Measles outbreak reaches a major South Carolina college campus"
 date: 2026-01-19
-description: "The measles outbreak reaches Clemson University as South Carolina reports 558 confirmed cases. A student is isolated as health officials conduct contact tracing."
-summary: "The measles outbreak reaches Clemson University as South Carolina reports 558 confirmed cases. A student is isolated as health officials conduct contact tracing."
+description: "Measles outbreak reaches Clemson University as South Carolina reports 558 confirmed cases. Student isolated as health officials conduct contact tracing."
+summary: "Measles outbreak reaches Clemson University as South Carolina reports 558 confirmed cases. Student isolated as health officials conduct contact tracing."
 slug: "measles-outbreak-reaches-a-major-south-carolina-college-campus"
 image: ''
 link: 'https://www.foxnews.com/health/measles-outbreak-reaches-major-south-carolina-college-campus'
