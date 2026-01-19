@@ -1,0 +1,19 @@
+---
+title: "Bills fire head coach Sean McDermott"
+date: 2026-01-19
+description: "Sean McDermott is out as the Buffalo Bills&apos; head coach following their playoff loss, OutKick confirmed on Monday. He had been at the helm since the 2017 season."
+summary: "Sean McDermott is out as the Buffalo Bills&apos; head coach following their playoff loss, OutKick confirmed on Monday. He had been at the helm since the 2017 season."
+slug: "bills-fire-head-coach-sean-mcdermott"
+image: ''
+link: 'https://www.foxnews.com/sports/bills-fire-head-coach-sean-mcdermott'
+source: 'https://feeds.foxnews.com/foxnews/latest'
+categories:
+- 'feeds.foxnews.com'
+tags:
+- 'mcdermott'
+- 'bills'
+- 'coach'
+
+draft: false
+---
+<p>The <a href="https://www.foxnews.com/category/sports/nfl/buffalo-bills" target="_blank" rel="noopener">Buffalo Bills</a> fired head coach Sean McDermott on Monday after the team’s heartbreaking playoff loss to the Denver Broncos in the AFC Divisional Round.</p><p><a href="https://www.outkick.com/sports/sean-mcdermott-firing-makes-bills-job-best-market-while-coach-should-soon-get-interest" target="_blank" rel="nofollow noopener">OutKick confirmed</a> McDermott's departure.</p><p>The Bills failed to get back to the AFC Championship Game after losing to the Broncos in overtime, following a <a href="https://www.foxnews.com/sports/broncos-bills-referee-defends-controversial-officiating-end-thrilling-battle" target="_blank" rel="noopener">controversial interception call</a>. The defeat marked another crushing blow to McDermott’s tenure as the Bills’ head coach.</p><p><a href="https://www.foxnews.com/sports" target="_blank" rel="noopener"><strong>CLICK HERE FOR MORE SPORTS COVERAGE ON FOXNEWS.COM</strong></a></p><p>Buffalo posted a portion of McDermott’s press conference following the controversial call.</p><p>"I’m saying it because I’m standing up for Buffalo. I’m standing up for us. What went on is not how it should go down," he said.</p><p>McDermott took the job before the start of the 2017 season. Buffalo only finished under .500 once since then. He helped guide the Bills to the playoffs in eight of the nine seasons. The team made the conference title game twice but never got back to the Super Bowl.</p><p><a href="https://www.foxnews.com/sports/texans-azeez-al-shaair-talks-fine-pro-palestinian-message-eye-tape-its-bigger-than-me" target="_blank" rel="noopener"><strong>TEXANS' AZEEZ AL-SHAAIR TALKS FINE FOR PRO-PALESTINIAN MESSAGE ON EYE TAPE: 'IT'S BIGGER THAN ME'</strong></a></p><p>NFL fans had confidence that the Bills could have been Super Bowl contenders going into the 2025 season. The Bills’ odds got better when their nemesis, Kansas City Chiefs quarterback <a href="https://www.foxnews.com/category/person/patrick-mahomes" target="_blank" rel="noopener">Patrick Mahomes</a>, was lost for the season with a knee injury.</p><p>Buffalo fell short in winning the AFC East – falling to the <a href="https://www.foxnews.com/category/sports/nfl/new-england-patriots" target="_blank" rel="noopener">New England Patriots</a>. They made the playoffs via the wild card and defeated the Jacksonville Jaguars by three points. But the loss to the Broncos ultimately doomed McDermott’s tenure as head coach.</p><p>The next Bills head coach will take over the next few years of Josh Allen’s career. Allen won the MVP award last season and was in the running for most of this season. The team is in desperate need of a top wide receiver to couple with Allen and it is expected to be addressed going into the offseason.</p><p><i><strong>Follow Fox News Digital’s</strong></i><a href="https://twitter.com/FoxNewsSports_" target="_blank" rel="noopener"><i><strong> <u>sports coverage on X</u></strong></i></a><i><strong> and subscribe to</strong></i><a href="https://www.foxnews.com/newsletters" target="_blank" rel="noopener"><i><strong><u> the Fox News Sports Huddle newsletter</u></strong></i></a><i><strong>.</strong></i></p>
