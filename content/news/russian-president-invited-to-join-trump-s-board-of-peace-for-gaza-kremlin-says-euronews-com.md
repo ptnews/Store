@@ -1,0 +1,21 @@
+---
+title: "Russian president invited to join Trump's 'Board of Peace' for Gaza, Kremlin says - Euronews.com"
+date: 2026-01-19
+description: "Russian president invited to join Trump's 'Board of Peace' for Gaza, Kremlin says&nbsp;&nbsp;Euronews.comTrump wants nations to pay $1 billion for permanent Board of Peace seats&nbsp;&nbsp;CNBCTrump invites Putin, Lukashenko to join Gaza 'Board of Peace,' Russia and Belarus say&nbsp;&nbsp;Fox NewsKremlin says Trump invited Putin to join 'Board of Peace'&nbsp;&nbsp;ReutersMacron to Decline Trump’s Invitation to Join His ‘Peace Board’&nbsp;&nbsp;Bloomberg.com"
+summary: "Russian president invited to join Trump's 'Board of Peace' for Gaza, Kremlin says&nbsp;&nbsp;Euronews.comTrump wants nations to pay $1 billion for permanent Board of Peace seats&nbsp;&nbsp;CNBCTrump invites Putin, Lukashenko to join Gaza 'Board of Peace,' Russia and Belarus say&nbsp;&nbsp;Fox NewsKremlin says Trump invited Putin to join 'Board of Peace'&nbsp;&nbsp;ReutersMacron to Decline Trump’s Invitation to Join His ‘Peace Board’&nbsp;&nbsp;Bloomberg.com"
+slug: "russian-president-invited-to-join-trump-s-board-of-peace-for-gaza-kremlin-says-euronews-com"
+image: ''
+link: 'https://news.google.com/rss/articles/CBMiswFBVV95cUxNTzZHQ2lBbzQxRVJ0V21LT3NEYXlRazROa2JXZElZN25LZVZVRHY3Y3RYaGFOVm1jWFRfaGlmQTRvRjFMekNva0xpQ3BZQTNYelFsalRTRE43d3FZRHRONnRXZ3pYWTFFcl93Skt4Q3lMUXNKOU80VWF5YVVUR2JleEozaFc1RzJydFZ0b2tXUnBoMlgwSk1EMDBnZXdfQmZlZlc0SmxYdjFNaHpaTmRDTUVUTQ?oc=5'
+source: 'https://news.google.com/rss/topics/CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx1YlY4U0FtVnVHZ0pWVXlnQVAB?hl=en-US&gl=US&ceid=US:en'
+categories:
+- 'news.google.com'
+tags:
+- 'president'
+- 'euronews'
+- 'russian'
+- 'invited'
+- 'kremlin'
+
+draft: false
+---
+<ol><li><a href="https://news.google.com/rss/articles/CBMiswFBVV95cUxNTzZHQ2lBbzQxRVJ0V21LT3NEYXlRazROa2JXZElZN25LZVZVRHY3Y3RYaGFOVm1jWFRfaGlmQTRvRjFMekNva0xpQ3BZQTNYelFsalRTRE43d3FZRHRONnRXZ3pYWTFFcl93Skt4Q3lMUXNKOU80VWF5YVVUR2JleEozaFc1RzJydFZ0b2tXUnBoMlgwSk1EMDBnZXdfQmZlZlc0SmxYdjFNaHpaTmRDTUVUTQ?oc=5" target="_blank">Russian president invited to join Trump's 'Board of Peace' for Gaza, Kremlin says</a>&nbsp;&nbsp;<font color="#6f6f6f">Euronews.com</font></li><li><a href="https://news.google.com/rss/articles/CBMiaEFVX3lxTE8xVWNWRVZrRkxHX2xEc19FRmFFZllBdl9VWmdWM2tQV0NjTWdaUUl0V0NTZ1V1Xy14NFZtT1lDZlJIWFRzNEs5UGFfdW14T3B5WkRGQmFxcU5nSjVwVHhETkd2aTlfN2h20gFuQVVfeXFMTjdqV0tBNFg5VmV3T2xpWEk1eWp1b3hJUEZad2VJcVp1VEdZNnJIUGt0ZjVYQmlCYmc0U3MwR3dCRHJ5TW5lQzFVX0pUWmZEbThtbVNUY1U0ZHE1RTdxMVNXMFAtdU80YmNybXpKdVE?oc=5" target="_blank">Trump wants nations to pay $1 billion for permanent Board of Peace seats</a>&nbsp;&nbsp;<font color="#6f6f6f">CNBC</font></li><li><a href="https://news.google.com/rss/articles/CBMipwFBVV95cUxQTks2V1hrbDFpUVFMNVQtem9FR0NENFVSc0xiNE1kZWJ5WFJ1WlJDbnNPQ2hlLUpDU3pKVVcxeE5wc1ltQVhVRF9SdHhuMjA3TTRfWklSUDVnWGRjdlVkcG91ckpJWHBmZlJ0blZLMWdmTVEzWU9RU2tnS0Q2LVQwakhGd1U2OEo3T0pEREo0bGVpVFZ0cHN2T3J0elVRT2VFc0Z3TkVtMNIBrAFBVV95cUxNLW5iTzB5Smx0M1h1Y0h4aGdRcjNocUd6aFpaT3pqck5sNVh1eExPbGh0ZVJqNzB2aTlPLW5WU0JlNUNIMmw0ODdnR0Zrc3lxSTZuMUNlUWNrZ1BUM012RjE4MGNqYVVhbVRVd3daQi1FNUpDQ0pOYzh0Ny1hNGUxVUZMT1gyYzNVVmt1d3NRMzVlUFdzMmNiNmRnTzdmS2RUa3JLQ2FzRmZxSWZT?oc=5" target="_blank">Trump invites Putin, Lukashenko to join Gaza 'Board of Peace,' Russia and Belarus say</a>&nbsp;&nbsp;<font color="#6f6f6f">Fox News</font></li><li><a href="https://news.google.com/rss/articles/CBMingFBVV95cUxPTTZ6M2N6dDdaNzZRYVgweDlTdjd6WXkyVTFKMkh3WHRWX0U4UHJxMWhCbWlSM1lwUnNpV1VOLVB2aGMwOTkxb0dLNkFWaHFQa2JpWUVOSkFIeDV2S2dYRTlFcWxyRnRxcEIxN0lyOVYxQ2lZS19nM2w2OHpwOTZiem5Pa0xseWNmSGx2OGhUaDNuNkZRZW9WX1RmRE05QQ?oc=5" target="_blank">Kremlin says Trump invited Putin to join 'Board of Peace'</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font></li><li><a href="https://news.google.com/rss/articles/CBMisAFBVV95cUxNaThZS2FhNkpleVRHU3BkT2xOMHQyanNlVXgzVV96NUp6TVhwTVc1Z0JzcXptS2RMSmI2eFdyVm1FV0VsNEdQWHlkMS1sdEY3Tm1yNVZWSXY1SENDajExNlNVdDJFM0taOFdpOGNDeWFSYm5kbWRtUFBfRFJKQVJKUllqSk5SdzdlV2RvSGtjbVF3OHd0UmRpZm4yaGphN0QzVVRMX3oxeFM2NzZ5WHlSbg?oc=5" target="_blank">Macron to Decline Trump’s Invitation to Join His ‘Peace Board’</a>&nbsp;&nbsp;<font color="#6f6f6f">Bloomberg.com</font></li></ol>

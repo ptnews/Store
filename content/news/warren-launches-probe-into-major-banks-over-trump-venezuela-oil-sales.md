@@ -1,19 +1,19 @@
 ---
-title: "Warren targets major banks over Trump administration’s Venezuela oil sales"
+title: "Warren launches probe into major banks over Trump Venezuela oil sales"
 date: 2026-01-19
 description: "Sen. Elizabeth Warren, D-Mass., and Democratic senators investigate major U.S. banks&apos; role in Trump administration&apos;s Venezuelan oil sales after announced plans to sell 50 million barrels."
 summary: "Sen. Elizabeth Warren, D-Mass., and Democratic senators investigate major U.S. banks&apos; role in Trump administration&apos;s Venezuelan oil sales after announced plans to sell 50 million barrels."
-slug: "warren-targets-major-banks-over-trump-administration-s-venezuela-oil-sales"
+slug: "warren-launches-probe-into-major-banks-over-trump-venezuela-oil-sales"
 image: ''
-link: 'https://www.foxnews.com/politics/warren-targets-major-banks-over-trump-administrations-venezuela-oil-sales'
+link: 'https://www.foxnews.com/politics/warren-launches-probe-major-banks-over-trump-venezuela-oil-sales'
 source: 'https://feeds.foxnews.com/foxnews/latest'
 categories:
 - 'feeds.foxnews.com'
 tags:
-- 'administration'
 - 'venezuela'
-- 'targets'
+- 'launches'
 - 'warren'
+- 'probe'
 - 'major'
 
 draft: false
