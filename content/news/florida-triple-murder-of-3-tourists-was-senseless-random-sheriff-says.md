@@ -1,0 +1,21 @@
+---
+title: "Florida triple murder of 3 tourists was 'senseless,' random, sheriff says"
+date: 2026-01-19
+description: "Florida man accused of randomly shooting three stranded tourists at Kissimmee rental home. Ahmad Bojeh arrested and charged with premeditated murder."
+summary: "Florida man accused of randomly shooting three stranded tourists at Kissimmee rental home. Ahmad Bojeh arrested and charged with premeditated murder."
+slug: "florida-triple-murder-of-3-tourists-was-senseless-random-sheriff-says"
+image: ''
+link: 'https://www.foxnews.com/us/florida-triple-murder-3-tourists-senseless-random-sheriff-says'
+source: 'https://feeds.foxnews.com/foxnews/latest'
+categories:
+- 'feeds.foxnews.com'
+tags:
+- 'senseless'
+- 'tourists'
+- 'florida'
+- 'sheriff'
+- 'triple'
+
+draft: false
+---
+<p>A <a href="https://www.foxnews.com/category/us/us-regions/southeast/florida" target="_blank" rel="noopener">Florida man</a> is accused of shooting and killing three tourists stranded at a rental home on Saturday in what a sheriff described as a "horrific and senseless" act of violence.</p><p>Ahmad Jihad Bojeh, 29, was arrested in connection with the murders of three men who were staying at a property next door to his home in Kissimmee, <a href="https://www.foxnews.com/category/us/crime/police-and-law-enforcement" target="_blank" rel="noopener">Osceola County Sheriff</a> Christopher Blackmon told reporters Sunday.</p><p>"It was cold-blooded, it was premeditated, there was absolutely no issues," Blackmon said. "There was no conflict between these people. This was just random. And this happened to be the person who lived next door."</p><p>Deputies responded around 12:13 p.m. Saturday to a shooting at a subdivision near Kissimmee and discovered the bodies of three adult males in front of the rental home. All three men suffered apparent gunshot wounds.</p><p><a href="https://www.foxnews.com/us/mississippi-prosecutors-seek-death-penalty-against-man-accused-deadly-rampage-included-girl-pastor" target="_blank" rel="noopener"><strong>MISSISSIPPI PROSECUTORS TO SEEK DEATH PENALTY AGAINST MAN ACCUSED OF DEADLY RAMPAGE THAT INCLUDED GIRL, PASTOR</strong></a></p><p>Blackmon said the three victims were stuck at the rental home after having <a href="https://www.foxnews.com/auto" target="_blank" rel="noopener">vehicle trouble</a> and had extended their stay for one day to wait for service.</p><p>Two of the victims have been identified as Robert Luis Kraft, 69, of Holland, Michigan, and his brother Douglas Joseph Kraft, 68, of Columbus, Ohio, the sheriff said. The third victim was identified as James Puchan, 68, a friend from Ohio, <a href="https://www.fox35orlando.com/news/osceola-sheriff-kissimmee-triple-shooting-was-random-cold-blooded-premeditated" target="_blank" rel="noopener">FOX35 Orlando</a> reported.</p><p>Deputies found Bojeh inside his home next door about an hour later, the sheriff said. <a href="https://www.foxnews.com/category/crime" target="_blank" rel="noopener">Bojeh was arrested</a> on three counts of premeditated murder and one count of resisting arrest without violence, according to online jail records.</p><p><a href="https://www.foxnews.com/us/homeless-drifter-accused-killing-barnes-noble-christmas-shopper-blamed-fight-flight-outburst-report" target="_blank" rel="noopener"><strong>HOMELESS DRIFTER ACCUSED OF KILLING BARNES &amp; NOBLE CHRISTMAS SHOPPER BLAMED ‘FIGHT OR FLIGHT’ OUTBURST: REPORT</strong></a></p><p>Blackmon described Bojeh as a "frequent flier to the sheriff's office."</p><p>"I can tell you he was a threat to that neighborhood all the time," Blackmon said.</p><p>Bojeh was previously arrested in 2021 after being accused of shooting at a person and random cars in a Kissimmee gas station parking lot, though court records show he was later "acquitted by reason of insanity," according to court records obtained by <a href="https://www.clickorlando.com/news/local/2026/01/18/suspect-arrested-in-osceola-county-triple-murder-deputies-say/" target="_blank" rel="noopener nofollow">WKMG-TV</a>.</p><p>Bojeh was booked into the Osceola County Jail for the alleged <a href="https://www.foxnews.com/category/us/crime/homicide" target="_blank" rel="noopener">triple murder</a> and was held without bond.</p><p>The sheriff said the murder investigation is ongoing.</p>

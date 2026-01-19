@@ -1,0 +1,21 @@
+---
+title: "In one year, Trump has shaken up everything. With what effect? - The Christian Science Monitor"
+date: 2026-01-19
+description: "In one year, Trump has shaken up everything. With what effect?&nbsp;&nbsp;The Christian Science MonitorOpinion | One Year of Trump. The Time to Act Is Now, While We Still Can.&nbsp;&nbsp;The New York Times25 Things Donald Trump Did This Year You Might Have Missed&nbsp;&nbsp;PoliticoAmerican Battleground: Demolition Man – How Trump’s first year back is changing the nation’s capital&nbsp;&nbsp;CNNTrump's first year back: How Americans see the president's actions&nbsp;&nbsp;USA Today"
+summary: "In one year, Trump has shaken up everything. With what effect?&nbsp;&nbsp;The Christian Science MonitorOpinion | One Year of Trump. The Time to Act Is Now, While We Still Can.&nbsp;&nbsp;The New York Times25 Things Donald Trump Did This Year You Might Have Missed&nbsp;&nbsp;PoliticoAmerican Battleground: Demolition Man – How Trump’s first year back is changing the nation’s capital&nbsp;&nbsp;CNNTrump's first year back: How Americans see the president's actions&nbsp;&nbsp;USA Today"
+slug: "in-one-year-trump-has-shaken-up-everything-with-what-effect-the-christian-science-monitor"
+image: ''
+link: 'https://news.google.com/rss/articles/CBMilAFBVV95cUxPM0dTZC1UQV9adVBiaEJnUXBqVEJUa0gyY2F5Yk1Hajc2bUhBQmxjSVZkTS10VjJpYS1xMWJ2Y3RBU1Nya2VTaU1EbTlvYS1oeW9WYjdNMExWM3A5WEctUzFQQ0VYdVpRbjM2eUNycUR3enhoLWF4UWZZVFFvNlh3ZjhyUl9YTWE3bkNiMzlXaFRKQlZM0gGuAUFVX3lxTFBVTXkzRW5SbU1QZkdVYlc3TEVMZmVVcmZDV1MyWUx5aWxPTW02b3dlSFdGQllaa0FKcmJDendYVk1ySjZMRFFZaWM3ZFcya2owT0c4aWZWenpXLS1RTjRxV2RWZjhHaDhTLWI2UFRlM3A4SFdkOUU3YUlvR013OXliLWxIcXY5VVh2dTJxNjdBbWZob1dOcGRpVTAyOVJMbVFYVW90LUlYbUxiR2pNUQ?oc=5'
+source: 'https://news.google.com/rss/topics/CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx1YlY4U0FtVnVHZ0pWVXlnQVAB?hl=en-US&gl=US&ceid=US:en'
+categories:
+- 'news.google.com'
+tags:
+- 'everything'
+- 'christian'
+- 'science'
+- 'monitor'
+- 'shaken'
+
+draft: false
+---
+<ol><li><a href="https://news.google.com/rss/articles/CBMilAFBVV95cUxPM0dTZC1UQV9adVBiaEJnUXBqVEJUa0gyY2F5Yk1Hajc2bUhBQmxjSVZkTS10VjJpYS1xMWJ2Y3RBU1Nya2VTaU1EbTlvYS1oeW9WYjdNMExWM3A5WEctUzFQQ0VYdVpRbjM2eUNycUR3enhoLWF4UWZZVFFvNlh3ZjhyUl9YTWE3bkNiMzlXaFRKQlZM0gGuAUFVX3lxTFBVTXkzRW5SbU1QZkdVYlc3TEVMZmVVcmZDV1MyWUx5aWxPTW02b3dlSFdGQllaa0FKcmJDendYVk1ySjZMRFFZaWM3ZFcya2owT0c4aWZWenpXLS1RTjRxV2RWZjhHaDhTLWI2UFRlM3A4SFdkOUU3YUlvR013OXliLWxIcXY5VVh2dTJxNjdBbWZob1dOcGRpVTAyOVJMbVFYVW90LUlYbUxiR2pNUQ?oc=5" target="_blank">In one year, Trump has shaken up everything. With what effect?</a>&nbsp;&nbsp;<font color="#6f6f6f">The Christian Science Monitor</font></li><li><a href="https://news.google.com/rss/articles/CBMid0FVX3lxTFBpNkJady1ZR3d1MkN5WjVvUHR2UlNIdFR0Q1Y5TzVHcVhLRUN4amxPbGRtSTdSOHM2OUNxUlFqTUlsOHcwY2psRGJWeEdTakptWTJ5ZmVUbVBhSUN0eVIwMko3Rml3d0dHMElwX1dYVm1kdkstYnYw?oc=5" target="_blank">Opinion | One Year of Trump. The Time to Act Is Now, While We Still Can.</a>&nbsp;&nbsp;<font color="#6f6f6f">The New York Times</font></li><li><a href="https://news.google.com/rss/articles/CBMijgFBVV95cUxNMUVzN2NSUTVoYnFpbm5OeXpOei1uRjJIMThtdUEtQjNubXZrRjI1S1p0bjZPMmUtQk83dm1VNTlKSkZ3cldHdWU0UlV0b2JsRjB1M0ktUU5pc0pKeHJSYjhiQk1TQlJEbGJJRTYwZjZOT2Q0QUNkeUZob19INDR3X0Jhc2I3RlpZNzk3VUxB?oc=5" target="_blank">25 Things Donald Trump Did This Year You Might Have Missed</a>&nbsp;&nbsp;<font color="#6f6f6f">Politico</font></li><li><a href="https://news.google.com/rss/articles/CBMigAFBVV95cUxQSEFRS3lEZ0FGdnp6U0lQTmYzUFhBa2ZiQjB3cDBaNlJqVjdXLWd6bklxX1cwTl9nZ1NaOE83QUxyejJsUkR0c1kyMTRUTzUyeWhMeEhfeUNvSHdKTlc0Y1pyc2pGdC1oZURGQWYweWZENDFiNHdiNGYyVF9FM2tRTA?oc=5" target="_blank">American Battleground: Demolition Man – How Trump’s first year back is changing the nation’s capital</a>&nbsp;&nbsp;<font color="#6f6f6f">CNN</font></li><li><a href="https://news.google.com/rss/articles/CBMipwFBVV95cUxOODJDYmZQUFdpcDQyS0huWXdLNnFoMDAwLWVLWlU2UHhZY1l0TlN5dmNWVlBfckZxc1RkQTJtaWlfR2F2UEVkOGVEU0RyRmhlbV9kdkljd2NGTDdwMS1xRGM4NnVQZTVrQ3BIcU0tSjl1OFdlY21jbDB0Zy1rQWVVdEh5OHJWZXdPLUY2Q25BZS1iT3JfM1VVRkNFNE1Bc2Q3b1B3elh1bw?oc=5" target="_blank">Trump's first year back: How Americans see the president's actions</a>&nbsp;&nbsp;<font color="#6f6f6f">USA Today</font></li></ol>

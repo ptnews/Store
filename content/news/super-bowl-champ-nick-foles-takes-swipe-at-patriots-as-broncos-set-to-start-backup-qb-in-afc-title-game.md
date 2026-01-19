@@ -1,0 +1,21 @@
+---
+title: "Super Bowl champ Nick Foles takes swipe at Patriots as Broncos set to start backup QB in AFC title game"
+date: 2026-01-19
+description: "Former Philadelphia Eagles star Nick Foles took a jab at the New England Patriots ahead of the AFC Championship against the Denver Broncos."
+summary: "Former Philadelphia Eagles star Nick Foles took a jab at the New England Patriots ahead of the AFC Championship against the Denver Broncos."
+slug: "super-bowl-champ-nick-foles-takes-swipe-at-patriots-as-broncos-set-to-start-backup-qb-in-afc-title-game"
+image: ''
+link: 'https://www.foxnews.com/sports/super-bowl-champ-nick-foles-takes-swipe-patriots-broncos-set-start-backup-qb-afc-title-game'
+source: 'https://feeds.foxnews.com/foxnews/latest'
+categories:
+- 'feeds.foxnews.com'
+tags:
+- 'patriots'
+- 'broncos'
+- 'backup'
+- 'super'
+- 'champ'
+
+draft: false
+---
+<p>Former Philadelphia Eagles quarterback <a href="https://www.foxnews.com/category/person/nick-foles" target="_blank" rel="noopener">Nick Foles</a> had one more swipe for the New England Patriots as they prepare to take on the Denver Broncos and backup quarterback Jarrett Stidham in the AFC Championship Game next week.</p><p>Foles, who led the Eagles to their first Super Bowl title over <a href="https://www.foxnews.com/category/sports/nfl/new-england-patriots" target="_blank" rel="noopener">the Patriots</a> after being the backup for Carson Wentz in 2017, shared a positive message for Broncos fans as they reel from the season-ending injury that Bo Nix suffered on the second-to-last play of their win against the Buffalo Bills.</p><p><a href="https://www.foxnews.com/sports" target="_blank" rel="noopener"><strong>CLICK HERE FOR MORE SPORTS COVERAGE ON FOXNEWS.COM</strong></a></p><p>"Note for the Broncos and their fans: I know it has been an emotional 24 hours. I feel for Bo and the team, and I'm sending prayers for a strong recovery," Foles wrote on X.</p><p>"A positive note going into the game versus the Patriots is that they struggle against backup QBs in championship-type games."</p><p>Foles helped engineer one of the more improbable <a href="https://www.foxnews.com/category/super-bowl" target="_blank" rel="noopener">Super Bowl wins</a> in recent history. He was 28-of-43 with 373 passing yards and three touchdown passes in the 41-33 win.</p><p><a href="https://www.foxnews.com/sports/bears-national-anthem-singer-sends-nfl-fans-frenzy-performance-before-playoff-game" target="_blank" rel="noopener"><strong>BEARS' NATIONAL ANTHEM SINGER SENDS NFL FANS INTO FRENZY WITH PERFORMANCE BEFORE PLAYOFF GAME</strong></a></p><p>The Eagles managed to stymie the Patriots even as <a href="https://www.foxnews.com/category/person/tom-brady" target="_blank" rel="noopener">Tom Brady</a> had a record-setting 505 passing yards and three touchdown passes in the game.</p><p>Stidham will look to take a page out of Foles’ playbook against the Patriots next weekend. Stidham will be making his first start of the 2025 season in the playoffs.</p><p>Broncos head coach Sean Payton was supportive of Stidham going into the game.</p><p>"It started with our evaluation in New Orleans of him," Payton said when asked why he believed Stidham was ready for the challenge. "He was a target for us in the draft. That doesn’t really mean anything other than we liked this player coming out. I know how he was coached in New England. I know exactly how he was coached in New England. Then I know how [Patriots offensive coordinator Josh] McDaniels felt about him when he brought him from New England to Vegas. Then I know reports on how he played, and then we saw him play (in) real time.</p><p>"But ultimately, to answer your question, it’s our three years here. In our three years, watching him day-in and day-out that you guys don’t have access to. He will be ready to go and ready for the moment."</p><p><i><strong>Follow Fox News Digital’s</strong></i><a href="https://twitter.com/FoxNewsSports_" target="_blank" rel="noopener"><i><strong> <u>sports coverage on X</u></strong></i></a><i><strong> and subscribe to</strong></i><a href="https://www.foxnews.com/newsletters" target="_blank" rel="noopener"><i><strong><u> the Fox News Sports Huddle newsletter</u></strong></i></a><i><strong>.</strong></i></p>
