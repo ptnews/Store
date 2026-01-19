@@ -1,8 +1,8 @@
 ---
 title: "Trump ties Greenland demands to Nobel Prize in message to Norway leader"
 date: 2026-01-19
-description: "The US president says he no longer feels obliged to think only of peace, after not being awarded the annual prize."
-summary: "The US president says he no longer feels obliged to think only of peace, after not being awarded the annual prize."
+description: "The US president insists Norway controls who gets the coveted prize, which the Norwegian government says it has nothing to do with it."
+summary: "The US president insists Norway controls who gets the coveted prize, which the Norwegian government says it has nothing to do with it."
 slug: "trump-ties-greenland-demands-to-nobel-prize-in-message-to-norway-leader"
 image: ''
 link: 'https://www.bbc.com/news/articles/cy7mev35x2lo?at_medium=RSS&at_campaign=rss'
@@ -18,4 +18,4 @@ tags:
 
 draft: false
 ---
-The US president says he no longer feels obliged to think only of peace, after not being awarded the annual prize.
+The US president insists Norway controls who gets the coveted prize, which the Norwegian government says it has nothing to do with it.
