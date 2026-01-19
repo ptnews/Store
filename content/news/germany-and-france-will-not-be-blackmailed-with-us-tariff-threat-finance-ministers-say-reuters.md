@@ -1,0 +1,21 @@
+---
+title: "Germany and France 'will not be blackmailed' with US tariff threat, finance ministers say - Reuters"
+date: 2026-01-19
+description: "Germany and France 'will not be blackmailed' with US tariff threat, finance ministers say&nbsp;&nbsp;ReutersTrump Is Pushing the U.S.-Europe Alliance to the Brink Over Greenland&nbsp;&nbsp;The New York TimesAmerica’s ‘Achilles Heel’ of national debt is exposed by Trump’s Greenland tariff threat, warns Deutsche Bank&nbsp;&nbsp;FortuneEurope weighs using trade 'bazooka' against the U.S. as Greenland crisis deepens&nbsp;&nbsp;CNBC'A head-spinning day of crisis meetings all over Europe' as T..."
+summary: "Germany and France 'will not be blackmailed' with US tariff threat, finance ministers say&nbsp;&nbsp;ReutersTrump Is Pushing the U.S.-Europe Alliance to the Brink Over Greenland&nbsp;&nbsp;The New York TimesAmerica’s ‘Achilles Heel’ of national debt is exposed by Trump’s Greenland tariff threat, warns Deutsche Bank&nbsp;&nbsp;FortuneEurope weighs using trade 'bazooka' against the U.S. as Greenland crisis deepens&nbsp;&nbsp;CNBC'A head-spinning day of crisis meetings all over Europe' as T..."
+slug: "germany-and-france-will-not-be-blackmailed-with-us-tariff-threat-finance-ministers-say-reuters"
+image: ''
+link: 'https://news.google.com/rss/articles/CBMivwFBVV95cUxPaWlJWXphU3pZVWZXSUdwY2NrRVl1VTJvRnNJWFQteFBmLXRyTGFwZWlzcWNSVWpWUHNUZGYxeERaT0lNcWZnRkxkRlBiSHpnSTd5R2d4eW1TRXhBMERXX2NHbzV4OF9SUTRyOTRhRjh5d3hFTHJIZEp5WVoyalhGQWF4X0M1YnBPZVNPUFRvM2dMU1BzVUVQU1E1ZDRHZ1dELWg5Z0lYTlZIOVNKU1FWT1NUczE5MzBTSDdMQ2I1aw?oc=5'
+source: 'https://news.google.com/rss/topics/CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx1YlY4U0FtVnVHZ0pWVXlnQVAB?hl=en-US&gl=US&ceid=US:en'
+categories:
+- 'news.google.com'
+tags:
+- 'blackmailed'
+- 'ministers'
+- 'germany'
+- 'finance'
+- 'reuters'
+
+draft: false
+---
+<ol><li><a href="https://news.google.com/rss/articles/CBMivwFBVV95cUxPaWlJWXphU3pZVWZXSUdwY2NrRVl1VTJvRnNJWFQteFBmLXRyTGFwZWlzcWNSVWpWUHNUZGYxeERaT0lNcWZnRkxkRlBiSHpnSTd5R2d4eW1TRXhBMERXX2NHbzV4OF9SUTRyOTRhRjh5d3hFTHJIZEp5WVoyalhGQWF4X0M1YnBPZVNPUFRvM2dMU1BzVUVQU1E1ZDRHZ1dELWg5Z0lYTlZIOVNKU1FWT1NUczE5MzBTSDdMQ2I1aw?oc=5" target="_blank">Germany and France 'will not be blackmailed' with US tariff threat, finance ministers say</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font></li><li><a href="https://news.google.com/rss/articles/CBMikwFBVV95cUxPX3V1aDFTMlRMTUU3RU9Wc3lha0E0d3E0cERyZGRaYmJ1X1hCb2g2V2VLODlJQTUxeFlCSV9YblNuenFZa1VDZGZOcUFSYnVSZmJPSndEdV9fc1FaRXdHSEZwQUtRUTZqSTZyck1aR3Q5SHU2NVdCQ29zR2U2MWhjV3N6NnRwcjRPVC1pdmhOcnpWVEU?oc=5" target="_blank">Trump Is Pushing the U.S.-Europe Alliance to the Brink Over Greenland</a>&nbsp;&nbsp;<font color="#6f6f6f">The New York Times</font></li><li><a href="https://news.google.com/rss/articles/CBMikAFBVV95cUxNSTlvZTUzY282bmQ1MTZyeFAxRURpR2FZQkxYOFFTUGJydm94WUswZDFZemVhUzkyTzBuUnF2aEZOZGNPNHJ2ZFAwNkN3aHlobk5xZGlvcFo0RVcxNXkwZXB4dC1MMXJKZE5RaTU5eEJFaWpFOXVta0tibnFCa0V3QlAzZm1mT3RmcGFJTnNZV2M?oc=5" target="_blank">America’s ‘Achilles Heel’ of national debt is exposed by Trump’s Greenland tariff threat, warns Deutsche Bank</a>&nbsp;&nbsp;<font color="#6f6f6f">Fortune</font></li><li><a href="https://news.google.com/rss/articles/CBMimAFBVV95cUxNVE1sZEpXWTRmNFZLVjI3MXd1NWlmOWY3ZThqRHVNRGtPdWNXS0lBOUlseVE0d216MWFyMzNMS0o2VXRZbXdNSl9tMDlUemxrTFJNU2dYYjk3UUlrVGZfS0VQSmM2c1VJMDZtcWJtUlFtd25MV05icDh4MzJuUE1hSWNMRHplaFR4Z3M2SjJ2VTA5bzFjbktHWNIBngFBVV95cUxQc1VxeURqbjdpeWZUaXBxTXAybHZJbmFBSUR6MExBbWUtN1hOVF9aR2dBRmFPTF9OcFQzZzhWV3dsZUJMclJpODlmUnhZY1BlV0h6eFRFem92S1lDN3plSlRfTXVTZ2pjQTY0eERlUl9weUpGOUhRZDJxZDJCSmgwZjJieXdGbXM2NngwSGpKcGF0SUc2a2dMOWpMVDhydw?oc=5" target="_blank">Europe weighs using trade 'bazooka' against the U.S. as Greenland crisis deepens</a>&nbsp;&nbsp;<font color="#6f6f6f">CNBC</font></li><li><a href="https://news.google.com/rss/articles/CBMivgFBVV95cUxPNDNQLXpCYV9vWHVUS1RuUTlkTUpEdDVydmxwdEJ3cGJ5Q1RxQUtTQ2V0MnkxUGJ3Qzc1SG9KUUNTcm1jbTJXejZDN3B0bU80R1dKc0dadEpISWV6YnAxWEhvNVBGaVJwNVE4dnBodDFQaG1jZERjSnNONlpKdG5udDdoTlpRYzc5UW8yRTM4MGFYVGlJWk1uYUVnNnQ1QzBCZGRCNnM2TUE1aW8zR2tzQUZ2YW82dWNLRm80MEt3?oc=5" target="_blank">'A head-spinning day of crisis meetings all over Europe' as Trump reiterates push for Greenland</a>&nbsp;&nbsp;<font color="#6f6f6f">France 24</font></li></ol>
