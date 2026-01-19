@@ -1,8 +1,8 @@
 ---
 title: "Man seriously injured in Sydney's third shark attack in two days"
 date: 2026-01-19
-description: "A 12-year-old was jumping off a rock ledge in the Sydney Harbour when he was mauled by a shark."
-summary: "A 12-year-old was jumping off a rock ledge in the Sydney Harbour when he was mauled by a shark."
+description: "In three separate incidents, a 12-year-old was also injured and an 11-year-old received assistance after a near miss. "
+summary: "In three separate incidents, a 12-year-old was also injured and an 11-year-old received assistance after a near miss. "
 slug: "man-seriously-injured-in-sydney-s-third-shark-attack-in-two-days"
 image: ''
 link: 'https://www.bbc.com/news/articles/c8013p5v2yvo?at_medium=RSS&at_campaign=rss'
@@ -18,4 +18,4 @@ tags:
 
 draft: false
 ---
-A 12-year-old was jumping off a rock ledge in the Sydney Harbour when he was mauled by a shark.
+In three separate incidents, a 12-year-old was also injured and an 11-year-old received assistance after a near miss. 

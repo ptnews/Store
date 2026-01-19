@@ -1,8 +1,8 @@
 ---
 title: "Japan PM Takaichi calls snap election three months after taking office"
 date: 2026-01-19
-description: "Sanae Takaichi, who took office office last October, hopes the vote will give her a stronger mandate. "
-summary: "Sanae Takaichi, who took office office last October, hopes the vote will give her a stronger mandate. "
+description: "Sanae Takaichi, who took office last October, hopes the vote will give her a stronger mandate. "
+summary: "Sanae Takaichi, who took office last October, hopes the vote will give her a stronger mandate. "
 slug: "japan-pm-takaichi-calls-snap-election-three-months-after-taking-office"
 image: ''
 link: 'https://www.bbc.com/news/articles/c1dk0x0v6pdo?at_medium=RSS&at_campaign=rss'
@@ -18,4 +18,4 @@ tags:
 
 draft: false
 ---
-Sanae Takaichi, who took office office last October, hopes the vote will give her a stronger mandate. 
+Sanae Takaichi, who took office last October, hopes the vote will give her a stronger mandate. 
