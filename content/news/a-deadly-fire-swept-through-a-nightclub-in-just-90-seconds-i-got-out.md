@@ -1,6 +1,6 @@
 ---
 title: "A deadly fire swept through a nightclub in just 90 seconds. I got out"
-date: 2026-01-18
+date: 2026-01-19
 description: "Twenty-two years before the Swiss ski resort fire, Gina escaped a near-identical disaster. Would you know what to do if it happened to you?"
 summary: "Twenty-two years before the Swiss ski resort fire, Gina escaped a near-identical disaster. Would you know what to do if it happened to you?"
 slug: "a-deadly-fire-swept-through-a-nightclub-in-just-90-seconds-i-got-out"

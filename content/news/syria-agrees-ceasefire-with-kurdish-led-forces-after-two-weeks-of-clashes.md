@@ -1,6 +1,6 @@
 ---
 title: "Syria agrees ceasefire with Kurdish-led forces after two weeks of clashes"
-date: 2026-01-18
+date: 2026-01-19
 description: "President Ahmed al-Sharaa said the deal would allow the Syrian state to reassert control over most areas."
 summary: "President Ahmed al-Sharaa said the deal would allow the Syrian state to reassert control over most areas."
 slug: "syria-agrees-ceasefire-with-kurdish-led-forces-after-two-weeks-of-clashes"

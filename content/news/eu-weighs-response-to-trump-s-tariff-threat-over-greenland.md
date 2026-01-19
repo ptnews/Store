@@ -1,6 +1,6 @@
 ---
 title: "EU weighs response to Trump's tariff threat over Greenland"
-date: 2026-01-18
+date: 2026-01-19
 description: "Europe is split between hitting back at Trump's tariff threat or holding fire to avoid a damaging trade war."
 summary: "Europe is split between hitting back at Trump's tariff threat or holding fire to avoid a damaging trade war."
 slug: "eu-weighs-response-to-trump-s-tariff-threat-over-greenland"

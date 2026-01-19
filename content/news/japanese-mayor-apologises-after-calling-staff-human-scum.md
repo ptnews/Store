@@ -1,6 +1,6 @@
 ---
 title: "Japanese mayor apologises after calling staff 'human scum'"
-date: 2026-01-18
+date: 2026-01-19
 description: "Yokohama mayor Takeharu Yamanaka admits using the terms \"idiot\" and \"human scum\" to disparage staff. "
 summary: "Yokohama mayor Takeharu Yamanaka admits using the terms \"idiot\" and \"human scum\" to disparage staff. "
 slug: "japanese-mayor-apologises-after-calling-staff-human-scum"

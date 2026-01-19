@@ -1,6 +1,6 @@
 ---
 title: "Israel pushes back on Trump's picks for executives on Gaza 'Board of Peace'"
-date: 2026-01-18
+date: 2026-01-19
 description: "Israel says it is unhappy it was not consulted, and Palestinians have also been critical."
 summary: "Israel says it is unhappy it was not consulted, and Palestinians have also been critical."
 slug: "israel-pushes-back-on-trump-s-picks-for-executives-on-gaza-board-of-peace"

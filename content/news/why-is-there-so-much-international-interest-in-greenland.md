@@ -1,6 +1,6 @@
 ---
 title: "Why is there so much international interest in Greenland?"
-date: 2026-01-18
+date: 2026-01-19
 description: "The BBC's Europe Editor Katya Adler has been reporting from Greenland and dissects why the island has so much value in the eyes of President Trump.
 "
 summary: "The BBC's Europe Editor Katya Adler has been reporting from Greenland and dissects why the island has so much value in the eyes of President Trump.

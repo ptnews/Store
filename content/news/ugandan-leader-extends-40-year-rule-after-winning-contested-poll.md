@@ -1,6 +1,6 @@
 ---
 title: "Ugandan leader extends 40-year rule after winning contested poll"
-date: 2026-01-18
+date: 2026-01-19
 description: "President Yoweri Museveni wins a seventh term, as his main rival Bobi Wine decries \"fake results\"."
 summary: "President Yoweri Museveni wins a seventh term, as his main rival Bobi Wine decries \"fake results\"."
 slug: "ugandan-leader-extends-40-year-rule-after-winning-contested-poll"

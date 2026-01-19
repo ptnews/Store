@@ -1,6 +1,6 @@
 ---
 title: "What a seventh term for 81-year-old leader means for Uganda"
-date: 2026-01-18
+date: 2026-01-19
 description: "Yoweri Museveni has won a record seventh term in elections after promising that the fledgling oil sector will boost the economy."
 summary: "Yoweri Museveni has won a record seventh term in elections after promising that the fledgling oil sector will boost the economy."
 slug: "what-a-seventh-term-for-81-year-old-leader-means-for-uganda"

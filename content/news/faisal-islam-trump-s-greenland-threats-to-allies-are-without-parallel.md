@@ -1,6 +1,6 @@
 ---
 title: "Faisal Islam: Trump's Greenland threats to allies are without parallel"
-date: 2026-01-18
+date: 2026-01-19
 description: "The US president's latest threats will baffle the leaders of allied nations, writes the BBC's economics editor. "
 summary: "The US president's latest threats will baffle the leaders of allied nations, writes the BBC's economics editor. "
 slug: "faisal-islam-trump-s-greenland-threats-to-allies-are-without-parallel"

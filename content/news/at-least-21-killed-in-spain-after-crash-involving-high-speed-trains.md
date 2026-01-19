@@ -1,6 +1,6 @@
 ---
 title: "At least 21 killed in Spain after crash involving high-speed trains"
-date: 2026-01-18
+date: 2026-01-19
 description: "The incident happened near the town of Adamuz, close to the city of Cordoba. "
 summary: "The incident happened near the town of Adamuz, close to the city of Cordoba. "
 slug: "at-least-21-killed-in-spain-after-crash-involving-high-speed-trains"

@@ -1,6 +1,6 @@
 ---
 title: "Nasa's mega Moon rocket arrives at launch pad for Artemis II mission"
-date: 2026-01-18
+date: 2026-01-19
 description: "Final preparations now get underway for the first crewed mission to the Moon in more than 50 years."
 summary: "Final preparations now get underway for the first crewed mission to the Moon in more than 50 years."
 slug: "nasa-s-mega-moon-rocket-arrives-at-launch-pad-for-artemis-ii-mission"

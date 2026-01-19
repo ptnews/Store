@@ -1,6 +1,6 @@
 ---
 title: "Man swims in flooded Sydney golf course after heavy rain"
-date: 2026-01-18
+date: 2026-01-19
 description: "Heavy rain did not dampen a man's spirits as he decided to take a dive into a flooded Sydney golf course."
 summary: "Heavy rain did not dampen a man's spirits as he decided to take a dive into a flooded Sydney golf course."
 slug: "man-swims-in-flooded-sydney-golf-course-after-heavy-rain"

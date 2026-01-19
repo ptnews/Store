@@ -1,6 +1,6 @@
 ---
 title: "'Young 40s': Gen Z has found a new way to mock millennials for their style in South Korea"
-date: 2026-01-18
+date: 2026-01-19
 description: "Even the iPhone, long considered the preserve of the youth, has been recast as a tacky trademark of Young 40s."
 summary: "Even the iPhone, long considered the preserve of the youth, has been recast as a tacky trademark of Young 40s."
 slug: "young-40s-gen-z-has-found-a-new-way-to-mock-millennials-for-their-style-in-south-korea"

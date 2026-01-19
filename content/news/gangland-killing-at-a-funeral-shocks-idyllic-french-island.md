@@ -1,6 +1,6 @@
 ---
 title: "Gangland killing at a funeral shocks idyllic French island"
-date: 2026-01-18
+date: 2026-01-19
 description: "Corsica is shaken by the shooting, which brings into stark relief one of the highest murder rates in France."
 summary: "Corsica is shaken by the shooting, which brings into stark relief one of the highest murder rates in France."
 slug: "gangland-killing-at-a-funeral-shocks-idyllic-french-island"
