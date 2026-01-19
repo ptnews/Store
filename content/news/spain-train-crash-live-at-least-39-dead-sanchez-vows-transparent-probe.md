@@ -1,17 +1,17 @@
 ---
-title: "Spain train crash live: At least 39 killed in high-speed collision"
+title: "Spain train crash live: At least 39 dead, Sanchez vows ‘transparent’ probe"
 date: 2026-01-19
 description: "Dozens of people wounded in the crash in Cordoba province."
 summary: "Dozens of people wounded in the crash in Cordoba province."
-slug: "spain-train-crash-live-at-least-39-killed-in-high-speed-collision"
+slug: "spain-train-crash-live-at-least-39-dead-sanchez-vows-transparent-probe"
 image: ''
 link: 'https://www.aljazeera.com/news/liveblog/2026/1/19/spain-train-crash-live-at-least-39-killed-in-high-speed-collision?traffic_source=rss'
 source: 'https://aljazeera.com/xml/rss/all.xml'
 categories:
 - 'aljazeera.com'
 tags:
-- 'collision'
-- 'killed'
+- 'transparent'
+- 'sanchez'
 - 'spain'
 - 'train'
 - 'crash'
