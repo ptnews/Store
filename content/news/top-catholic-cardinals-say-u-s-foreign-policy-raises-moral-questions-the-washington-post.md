@@ -1,0 +1,21 @@
+---
+title: "Top Catholic cardinals say U.S. foreign policy raises moral questions - The Washington Post"
+date: 2026-01-19
+description: "Top Catholic cardinals say U.S. foreign policy raises moral questions&nbsp;&nbsp;The Washington PostProminent Catholic Clerics Denounce U.S. Foreign Policy&nbsp;&nbsp;The New York TimesChicago Cardinal Blase Cupich, other Catholic leaders issue rare moral warning as tensions rise over Greenland&nbsp;&nbsp;ABC7 ChicagoTop US Catholic cardinals question morality of American foreign policy&nbsp;&nbsp;ReutersNation’s Top Catholics Rip Into Trump’s ‘Moral Foundation’&nbsp;&nbsp;The Daily Beas..."
+summary: "Top Catholic cardinals say U.S. foreign policy raises moral questions&nbsp;&nbsp;The Washington PostProminent Catholic Clerics Denounce U.S. Foreign Policy&nbsp;&nbsp;The New York TimesChicago Cardinal Blase Cupich, other Catholic leaders issue rare moral warning as tensions rise over Greenland&nbsp;&nbsp;ABC7 ChicagoTop US Catholic cardinals question morality of American foreign policy&nbsp;&nbsp;ReutersNation’s Top Catholics Rip Into Trump’s ‘Moral Foundation’&nbsp;&nbsp;The Daily Beas..."
+slug: "top-catholic-cardinals-say-u-s-foreign-policy-raises-moral-questions-the-washington-post"
+image: ''
+link: 'https://news.google.com/rss/articles/CBMilgFBVV95cUxNdExOaWkwQ2FHSzU4ZnB0Yl9oekRObk80cHU4aHVScXdMalM0TE1RY0tVc0Q2RE0tbTR5ZGVHdlNCRlRJUklPZ0NnVHJWR0ZKU2ltRXBpU0lRRGJHRzJtUlN1eFZUdE9tSVQxN0FxSUxoUVdjbkxzUlFNWEJsME5lVEJTVXBTOThBNDdlZF9oSjVNdENnNEE?oc=5'
+source: 'https://news.google.com/rss/topics/CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx1YlY4U0FtVnVHZ0pWVXlnQVAB?hl=en-US&gl=US&ceid=US:en'
+categories:
+- 'news.google.com'
+tags:
+- 'washington'
+- 'cardinals'
+- 'questions'
+- 'catholic'
+- 'foreign'
+
+draft: false
+---
+<ol><li><a href="https://news.google.com/rss/articles/CBMilgFBVV95cUxNdExOaWkwQ2FHSzU4ZnB0Yl9oekRObk80cHU4aHVScXdMalM0TE1RY0tVc0Q2RE0tbTR5ZGVHdlNCRlRJUklPZ0NnVHJWR0ZKU2ltRXBpU0lRRGJHRzJtUlN1eFZUdE9tSVQxN0FxSUxoUVdjbkxzUlFNWEJsME5lVEJTVXBTOThBNDdlZF9oSjVNdENnNEE?oc=5" target="_blank">Top Catholic cardinals say U.S. foreign policy raises moral questions</a>&nbsp;&nbsp;<font color="#6f6f6f">The Washington Post</font></li><li><a href="https://news.google.com/rss/articles/CBMiekFVX3lxTE5WMGpBNkhZcGxCeWJjdWtTQWEyZG03NzVjVXpyT1pzWTF6UVVrbFdrVDB4dm5FN3VHQjdoaVhYeHV0UzFnZU5ZYXNoZll2V0RNbUtQSkZWY3BULTl2ZXdtNVZ5T1lyT1ZLLXFjSFVKTGtaOXBRdGdzcHB3?oc=5" target="_blank">Prominent Catholic Clerics Denounce U.S. Foreign Policy</a>&nbsp;&nbsp;<font color="#6f6f6f">The New York Times</font></li><li><a href="https://news.google.com/rss/articles/CBMi1wFBVV95cUxQVzl4blBqRkl4NDE3TEZvZ01wMUJmWmFBRzNlT1NMcTY5UFE5ZEJMRENJTmpRRWR4b29IckUtSFVrak5qMldBSE5aMmF4TkFwTjdoN3BvekNrWlJiOWM4WjdKOWNObk5YUlBLRS1DQzNGX29aT0pPQW92eFNyZ3hOa2xVTjVsd2k1T1cxeWRBWXVUaWN1dGR0NFZhdWQ4OHJqUlJwOG4yTXkxdXVQV21RVlY5YVBnZExJVC0zamRYUWI0NzhvSlpVeVpQT2VOVU9kMzMtSEFRTdIB3AFBVV95cUxNcmE5NkRiNTVwWWJPY3J3ZWRFNkttZDJ4bnhIS3ozT0xtQnFqZVpsemdkRmxPVDk5MEkwcjl0bDdsb0RSNFRTWjd2RFotcWlEN1hHOWdhNFZyb2ozWGVKaXhaWlJ4OUxUd3VJYksydWdfMlg1VURRekIza2NfblExbDl2ZHdld0t4MUZ3VXRLYW9PQ0N0Z19GLWxFeHFiaEliUjVlWm8zMjVTOUFiY3JwQmQwUENGUTZQRW5OanR2NFRIZEtxZVRzUmhCLWhtM2pGd0ZxRV80eFNJZ2tu?oc=5" target="_blank">Chicago Cardinal Blase Cupich, other Catholic leaders issue rare moral warning as tensions rise over Greenland</a>&nbsp;&nbsp;<font color="#6f6f6f">ABC7 Chicago</font></li><li><a href="https://news.google.com/rss/articles/CBMisgFBVV95cUxOc2VqRWpTUkgxdk9zMXlMVkhzUzFuY1JZakR0TFROUnVtTTZPb3VIUlZhV2JYa0lRT2ZYZmRpN2VTQm9EdXRNc0ZwTGNYZFB0MkJtbFJfb00tMy1VUDJBYXJ4NWFrZ09PZGIyN3MwcHlkOXhFUkctaEFhVDRvLWFNSVBjeHVoalRXbUg3WkNRWXpnQ0NhTTNDc2JMaTBJQXJkb3dKdWxObjlzR1hnclVhOFZR?oc=5" target="_blank">Top US Catholic cardinals question morality of American foreign policy</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font></li><li><a href="https://news.google.com/rss/articles/CBMizwFBVV95cUxOREF1SXlyZXFmXzhvMGpLcTlEbk1fRUZBM2V2ck11bGlqOHBydWF5VktJNkNkZjZ3SDJ6dWdsZ2NJQlIxVTFuSmZlQVdtZFBoMko4My1Qdm9UWG9BbWQ0b3hlY3FsVTVwOGpQOGJ2X3JMVDVEUWVUcGFIR3VYZ1JwNWRuRE0zVG5PNlRkWkNhVHBxWVcyQnVjTUItWER6ck9TZHZmdGxEUjZqdjNaT0F5ZHJqWDBfZEFwMXdHUUVXSVVVbFZ5NlRfdVZDNGxlUzg?oc=5" target="_blank">Nation’s Top Catholics Rip Into Trump’s ‘Moral Foundation’</a>&nbsp;&nbsp;<font color="#6f6f6f">The Daily Beast</font></li></ol>
