@@ -1,11 +1,11 @@
 ---
 title: "Israel bulldozes UNRWA buildings in occupied East Jerusalem"
 date: 2026-01-20
-description: "The destruction comes as Israel clamps down on NGOs providing humanitarian aid to Palestinians in Gaza."
-summary: "The destruction comes as Israel clamps down on NGOs providing humanitarian aid to Palestinians in Gaza."
+description: "Israeli bulldozers demolished UNRWA’s headquarters in occupied East Jerusalem."
+summary: "Israeli bulldozers demolished UNRWA’s headquarters in occupied East Jerusalem."
 slug: "israel-bulldozes-unrwa-buildings-in-occupied-east-jerusalem"
 image: ''
-link: 'https://www.aljazeera.com/news/2026/1/20/israel-bulldozes-unrwa-buildings-in-occupied-east-jerusalem?traffic_source=rss'
+link: 'https://www.aljazeera.com/video/newsfeed/2026/1/20/israel-bulldozes-unrwa-buildings-in-occupied-east-jerusalem-2?traffic_source=rss'
 source: 'https://aljazeera.com/xml/rss/all.xml'
 categories:
 - 'aljazeera.com'
@@ -18,4 +18,4 @@ tags:
 
 draft: false
 ---
-The destruction comes as Israel clamps down on NGOs providing humanitarian aid to Palestinians in Gaza.
+Israeli bulldozers demolished UNRWA’s headquarters in occupied East Jerusalem.
