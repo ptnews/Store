@@ -1,0 +1,21 @@
+---
+title: "Dow slides 870 points, S&P 500 drops 2% for worst day since October on Trump tariff threat over Greenland: Live updates - CNBC"
+date: 2026-01-20
+description: "Dow slides 870 points, S&P 500 drops 2% for worst day since October on Trump tariff threat over Greenland: Live updates&nbsp;&nbsp;CNBCDow tumbles more than 850 points and dollar slides over Greenland and tariff threats&nbsp;&nbsp;CNNTrump Doubts Greenland Threats Will Spoil Trade Deal With Europe&nbsp;&nbsp;Bloomberg.comStock Market Today: Dow Drops 800 Points on New Tariff Threats; Treasury Yields Jump — Live Updates&nbsp;&nbsp;The Wall Street JournalWorld Economic Forum highlights: NATO all..."
+summary: "Dow slides 870 points, S&P 500 drops 2% for worst day since October on Trump tariff threat over Greenland: Live updates&nbsp;&nbsp;CNBCDow tumbles more than 850 points and dollar slides over Greenland and tariff threats&nbsp;&nbsp;CNNTrump Doubts Greenland Threats Will Spoil Trade Deal With Europe&nbsp;&nbsp;Bloomberg.comStock Market Today: Dow Drops 800 Points on New Tariff Threats; Treasury Yields Jump — Live Updates&nbsp;&nbsp;The Wall Street JournalWorld Economic Forum highlights: NATO all..."
+slug: "dow-slides-870-points-s-p-500-drops-2-for-worst-day-since-october-on-trump-tariff-threat-over-greenland-live-updates-cnbc"
+image: ''
+link: 'https://news.google.com/rss/articles/CBMid0FVX3lxTFB6aFhReFdKU1ZXQVpTNlFRalk5VkduNFp6cXh2aFd2bGxzcTVyb2ZrZkEwbm1XeU50N1hIZFRoTDN5REhLQVI5Rk52VHlIMlQ1SkN1bXlUUWQ5N3dLbF9KRkNyeEJHTktXcHlUYUdDLVA0YkxrT1Vj0gF8QVVfeXFMUGpoZU5NM24zWG5MNmVVUUFHRmdQMTh1QjdKZnBmWEZZc0R4ZktxSUVHeWR6bDBULU9zQm1TTlNSc3J6SUp2Z0VweENMaml4TER5cTRVWTJvYk1oVlBwM1lHRHEtbm5PYVBhRGJHNlhSb2RoeE13cGxNQnJaOA?oc=5'
+source: 'https://news.google.com/rss/topics/CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx1YlY4U0FtVnVHZ0pWVXlnQVAB?hl=en-US&gl=US&ceid=US:en'
+categories:
+- 'news.google.com'
+tags:
+- 'greenland'
+- 'october'
+- 'updates'
+- 'slides'
+- 'points'
+
+draft: false
+---
+<ol><li><a href="https://news.google.com/rss/articles/CBMid0FVX3lxTFB6aFhReFdKU1ZXQVpTNlFRalk5VkduNFp6cXh2aFd2bGxzcTVyb2ZrZkEwbm1XeU50N1hIZFRoTDN5REhLQVI5Rk52VHlIMlQ1SkN1bXlUUWQ5N3dLbF9KRkNyeEJHTktXcHlUYUdDLVA0YkxrT1Vj0gF8QVVfeXFMUGpoZU5NM24zWG5MNmVVUUFHRmdQMTh1QjdKZnBmWEZZc0R4ZktxSUVHeWR6bDBULU9zQm1TTlNSc3J6SUp2Z0VweENMaml4TER5cTRVWTJvYk1oVlBwM1lHRHEtbm5PYVBhRGJHNlhSb2RoeE13cGxNQnJaOA?oc=5" target="_blank">Dow slides 870 points, S&P 500 drops 2% for worst day since October on Trump tariff threat over Greenland: Live updates</a>&nbsp;&nbsp;<font color="#6f6f6f">CNBC</font></li><li><a href="https://news.google.com/rss/articles/CBMiigFBVV95cUxOWDl6SEk2d0UtaHhia2VDdkwtRHdCX01uNTEtQ2lTYlh0S0FXQ0x2SXpRMGhWQlNlMjNhcXJHdzMzV2FDOU5vRHJYbTBmdjVCNlY0UTk1dEEyRWVidElpb25zVGZhVjllMUhKT3V0eEhZRzFkX2VlbGhxRFJHMk8tREZNTlFrY2N1Unc?oc=5" target="_blank">Dow tumbles more than 850 points and dollar slides over Greenland and tariff threats</a>&nbsp;&nbsp;<font color="#6f6f6f">CNN</font></li><li><a href="https://news.google.com/rss/articles/CBMitgFBVV95cUxQQU1rNWp1YjVvWUVzQk9hS1JpMGFoT0RHMkIwS2RPcllTenl3ZHgtODJHOU5XSXlOa1VJb2RabkhpUE03OFVuTF9oU29xcy1wQ1RGR2tfT0xHbndPMUUzN2luQ2tBQWhRbF9TQjVNM1NVLUJrQ19oYmk0N1RpWVlWa0Z3akU5UzFDT2xHQVpIT2dIRHkzU3dGMzUtRmRfaVR5THU5eTJHd0hXdklXc1VwaFk3RlFldw?oc=5" target="_blank">Trump Doubts Greenland Threats Will Spoil Trade Deal With Europe</a>&nbsp;&nbsp;<font color="#6f6f6f">Bloomberg.com</font></li><li><a href="https://news.google.com/rss/articles/CBMikgFBVV95cUxQdXVzdlYzMEpWcWRyaUdIMTBFSFhqUVByXzJiMElfT2UtQ0pvWXgwTnFmUXhCRURNRVZya1VEd0ZpQ0hNZUdmTGtmUnFCSzBrUnM1OWFkNkFfakFRblZOWXQ5b0NJOXVwQ2lqbmIwNC1QRFRWOGNvekJKaVZwZXFEOGNhekY3Y1N0czVBRXRaV3hRQQ?oc=5" target="_blank">Stock Market Today: Dow Drops 800 Points on New Tariff Threats; Treasury Yields Jump — Live Updates</a>&nbsp;&nbsp;<font color="#6f6f6f">The Wall Street Journal</font></li><li><a href="https://news.google.com/rss/articles/CBMid0FVX3lxTE1DNFVYaV9aeF9XWHBnVWRWYnFtRVYzYjFfak5DMUtwN2hZeUdKWldUbi11Y3BKTG9JUk9MMl9DX2cwcHdRSUxIWmNIMjRGWWlMc1dSai1TZEZzR1ppSW13QTBFXzBtd1ZsT3h1M2J1RW5IUV83amNR?oc=5" target="_blank">World Economic Forum highlights: NATO allies escalate warnings over Trump's Greenland aggressions</a>&nbsp;&nbsp;<font color="#6f6f6f">AP News</font></li></ol>
