@@ -1,0 +1,21 @@
+---
+title: "Israeli crews target UN facilities for Palestinian refugees in east Jerusalem - AP News"
+date: 2026-01-20
+description: "Israeli crews target UN facilities for Palestinian refugees in east Jerusalem&nbsp;&nbsp;AP NewsBBC visits UN compound Israel is demolishing in East Jerusalem&nbsp;&nbsp;BBCIsrael bulldozes UNRWA buildings in occupied East Jerusalem&nbsp;&nbsp;Al JazeeraIsrael demolishes buildings in UN Palestinian agency's East Jerusalem compound&nbsp;&nbsp;ReutersUNRWA Heads Tell Haaretz: 'We Don't Radicalize Palestinians – Their Lived Existence Does'&nbsp;&nbsp;Haaretz"
+summary: "Israeli crews target UN facilities for Palestinian refugees in east Jerusalem&nbsp;&nbsp;AP NewsBBC visits UN compound Israel is demolishing in East Jerusalem&nbsp;&nbsp;BBCIsrael bulldozes UNRWA buildings in occupied East Jerusalem&nbsp;&nbsp;Al JazeeraIsrael demolishes buildings in UN Palestinian agency's East Jerusalem compound&nbsp;&nbsp;ReutersUNRWA Heads Tell Haaretz: 'We Don't Radicalize Palestinians – Their Lived Existence Does'&nbsp;&nbsp;Haaretz"
+slug: "israeli-crews-target-un-facilities-for-palestinian-refugees-in-east-jerusalem-ap-news"
+image: ''
+link: 'https://news.google.com/rss/articles/CBMiqAFBVV95cUxNZ2gycWlabFNqaTdFR0pHcTRoX1AyOTMtRy1saVBMMmR4a2FINEhMOFZWdDBLdFNSb2pLOWdXQmhjUTlESTIyV3lkWTJCNVFrMlhVOC1ZaUhvU2QtRENWV1JBZlpHMkdCQ0RxaUdJVXd6MVFhUW9RWlkzQ3VYM2JQS2s4NlJyWk5uUjVyaDU0TGNDbnBNX21MdjBqMTEtSlQzdVZXWVZyWGE?oc=5'
+source: 'https://news.google.com/rss/topics/CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx1YlY4U0FtVnVHZ0pWVXlnQVAB?hl=en-US&gl=US&ceid=US:en'
+categories:
+- 'news.google.com'
+tags:
+- 'palestinian'
+- 'facilities'
+- 'jerusalem'
+- 'refugees'
+- 'israeli'
+
+draft: false
+---
+<ol><li><a href="https://news.google.com/rss/articles/CBMiqAFBVV95cUxNZ2gycWlabFNqaTdFR0pHcTRoX1AyOTMtRy1saVBMMmR4a2FINEhMOFZWdDBLdFNSb2pLOWdXQmhjUTlESTIyV3lkWTJCNVFrMlhVOC1ZaUhvU2QtRENWV1JBZlpHMkdCQ0RxaUdJVXd6MVFhUW9RWlkzQ3VYM2JQS2s4NlJyWk5uUjVyaDU0TGNDbnBNX21MdjBqMTEtSlQzdVZXWVZyWGE?oc=5" target="_blank">Israeli crews target UN facilities for Palestinian refugees in east Jerusalem</a>&nbsp;&nbsp;<font color="#6f6f6f">AP News</font></li><li><a href="https://news.google.com/rss/articles/CBMiV0FVX3lxTE1TVHhaOVV2MXB1VzFjZk4zMmtiNUZIS3k1ZVN6TFpGV0RTSkF2dFV5bTdGbjY1WDYxZzhTQ0VocmRrVjZPaFI0VDBWdzRfYzN0dFluRU1wcw?oc=5" target="_blank">BBC visits UN compound Israel is demolishing in East Jerusalem</a>&nbsp;&nbsp;<font color="#6f6f6f">BBC</font></li><li><a href="https://news.google.com/rss/articles/CBMiogFBVV95cUxNUVVLNkhLSGRGTnhaWmQtLTN2cHQ4UVBUNDU5RG9kTlpRQW80dVpLbDVVRTFQR2dmbl8teWxSa0ttV0RuSi1xMnoyY3NneDhKeUd5QjVrVHR0OG1jZUU4eV9BaTY0cE9GbkJiVzF0MDg5enBFNDJQS2swcGY3N29LX1ZwcmVlcG5sQkpJbzBKVmE1V1JVd2NSU1pUNFFsdUNJNFHSAacBQVVfeXFMUGJ5RWMya3BRUnJrZWdPN3NaLUN3OE82N2xoTEYzcUNUOEpndWVsZ2ZqblctVDgyVnI4MVJlZGt3eEZXME9UUUY1ZXBEeUVkWVZSbkhyaGdLbV9XSTRTdTNLXzZIcnBTSXl4THBEbjNwTUJmUGdCMG1CSzlMT3V4eU9zS0VVSVJLZzlZVnJuR1FHNXI4UmlDQ2otWWRvNlotc1pCWTJhYnM?oc=5" target="_blank">Israel bulldozes UNRWA buildings in occupied East Jerusalem</a>&nbsp;&nbsp;<font color="#6f6f6f">Al Jazeera</font></li><li><a href="https://news.google.com/rss/articles/CBMixwFBVV95cUxQSXhwTWUwSG9OdFcycVhmNTZrRnI4Nm1oaFFzY1BrNEZsMkJMWThlTGhJSG5UXy1aYV9abnR5U0tkbUxTU0thU2dzN1N6dlpTUk1MaFBqa3A1dUxiZlR4cTF4ZU5CRUU3bVRKNHNtR0ppMnB4bDJpN0xsWUNPZTh5ZE90Y3ZMS08tLTlFSUVxVkFDM2R4MlZfZzZ1VzBJSWpwMWlkOWtLUGVwc05zd1k1TnlXdGdQM2VXNVROeDFOZjNRS0hWd0Fz?oc=5" target="_blank">Israel demolishes buildings in UN Palestinian agency's East Jerusalem compound</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font></li><li><a href="https://news.google.com/rss/articles/CBMinwJBVV95cUxPWkpwaEpVVjhmWHpaek9qVThaWUdkN2J5ZUJITHNpbGFZLWRHamRZdk9iR1c5eThicTdJeTRfNl95Vk9GOVFpb3BnYTNvQWxRYmoxZ2hxRXViWXFLT1RSMTBvTTN3bnlkWW9SZTZwWmx1Vm1oWWpicGFtOWc0OHF4LXlNMUdlMTF2ellkRUFGTmxuR2t2X1lvakpWblp0b3g4RTAwNnk0ZHJHelBZOUM1ZXZKWkNycjBROE1Wdk01Z3ZPQU9mWndVUFBzRkVDT1Bmalk3VlMzUVlGWXVVMWZfZm1YU3ZBbWdUVGFxWjNIeDZPajdNVXVQcG1LeUtwSWREMnNOLW0wYVR6ZFRuWjVqRmxKbjVMcUhBa1VYbC1rTQ?oc=5" target="_blank">UNRWA Heads Tell Haaretz: 'We Don't Radicalize Palestinians – Their Lived Existence Does'</a>&nbsp;&nbsp;<font color="#6f6f6f">Haaretz</font></li></ol>
