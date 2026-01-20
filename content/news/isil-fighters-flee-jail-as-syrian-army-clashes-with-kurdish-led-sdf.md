@@ -1,8 +1,8 @@
 ---
-title: "ISIL fighters flee jail as Syrian army clashes with Kurdish-led SDF"
+title: "ISIL fighters flee jail as Syrian Army clashes with Kurdish-led SDF"
 date: 2026-01-19
-description: "Syrian President Ahmed al-Sharaa and US President Donald Trump spoke about Kurdish rights despite clashes with SDF. "
-summary: "Syrian President Ahmed al-Sharaa and US President Donald Trump spoke about Kurdish rights despite clashes with SDF. "
+description: "The Syrian army has announced a curfew after the fighters escaped from prison amid clashes."
+summary: "The Syrian army has announced a curfew after the fighters escaped from prison amid clashes."
 slug: "isil-fighters-flee-jail-as-syrian-army-clashes-with-kurdish-led-sdf"
 image: ''
 link: 'https://www.aljazeera.com/news/2026/1/19/isil-fighters-flee-jail-as-syrian-army-clashes-with-kurdish-led-sdf?traffic_source=rss'
@@ -17,4 +17,4 @@ tags:
 
 draft: false
 ---
-Syrian President Ahmed al-Sharaa and US President Donald Trump spoke about Kurdish rights despite clashes with SDF. 
+The Syrian army has announced a curfew after the fighters escaped from prison amid clashes.
