@@ -1,0 +1,21 @@
+---
+title: "Bessent says US-Europe relations have ‘never been closer’ despite Greenland crisis - AP News"
+date: 2026-01-20
+description: "Bessent says US-Europe relations have ‘never been closer’ despite Greenland crisis&nbsp;&nbsp;AP NewsTrump Is Pushing the U.S.-Europe Alliance to the Brink Over Greenland&nbsp;&nbsp;The New York TimesCNBC Daily Open: A trade 'bazooka' against Trump's Greenland tariffs is in the cards for the EU&nbsp;&nbsp;CNBCBessent: 'The national emergency is avoiding a national emergency'&nbsp;&nbsp;PoliticoTrump's Europe tariff threat over Greenland revives talk of 'Sell America' trade&nbsp;&nbsp;Reuters"
+summary: "Bessent says US-Europe relations have ‘never been closer’ despite Greenland crisis&nbsp;&nbsp;AP NewsTrump Is Pushing the U.S.-Europe Alliance to the Brink Over Greenland&nbsp;&nbsp;The New York TimesCNBC Daily Open: A trade 'bazooka' against Trump's Greenland tariffs is in the cards for the EU&nbsp;&nbsp;CNBCBessent: 'The national emergency is avoiding a national emergency'&nbsp;&nbsp;PoliticoTrump's Europe tariff threat over Greenland revives talk of 'Sell America' trade&nbsp;&nbsp;Reuters"
+slug: "bessent-says-us-europe-relations-have-never-been-closer-despite-greenland-crisis-ap-news"
+image: ''
+link: 'https://news.google.com/rss/articles/CBMingFBVV95cUxOUW5relZsdmFTOGpDY2ZjVTNKMFo1UndMUjlqSkl4dzhxWXBjclpvY2xvWEhRLUVURlZtT3l6WHFnMG44YVZicXF0dm56RmZYaWc3ZS1VbUFpWnNTVXZXY21jVWc1bV9FbGpNVDVaM2F2RzRXUl9lYzVvemVSZ0g0dmoyQUlnNWhSTENNeHV5Y3ZXd2hxRGhnb05iSnpkUQ?oc=5'
+source: 'https://news.google.com/rss/topics/CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx1YlY4U0FtVnVHZ0pWVXlnQVAB?hl=en-US&gl=US&ceid=US:en'
+categories:
+- 'news.google.com'
+tags:
+- 'relations'
+- 'greenland'
+- 'bessent'
+- 'despite'
+- 'europe'
+
+draft: false
+---
+<ol><li><a href="https://news.google.com/rss/articles/CBMingFBVV95cUxOUW5relZsdmFTOGpDY2ZjVTNKMFo1UndMUjlqSkl4dzhxWXBjclpvY2xvWEhRLUVURlZtT3l6WHFnMG44YVZicXF0dm56RmZYaWc3ZS1VbUFpWnNTVXZXY21jVWc1bV9FbGpNVDVaM2F2RzRXUl9lYzVvemVSZ0g0dmoyQUlnNWhSTENNeHV5Y3ZXd2hxRGhnb05iSnpkUQ?oc=5" target="_blank">Bessent says US-Europe relations have ‘never been closer’ despite Greenland crisis</a>&nbsp;&nbsp;<font color="#6f6f6f">AP News</font></li><li><a href="https://news.google.com/rss/articles/CBMikwFBVV95cUxPX3V1aDFTMlRMTUU3RU9Wc3lha0E0d3E0cERyZGRaYmJ1X1hCb2g2V2VLODlJQTUxeFlCSV9YblNuenFZa1VDZGZOcUFSYnVSZmJPSndEdV9fc1FaRXdHSEZwQUtRUTZqSTZyck1aR3Q5SHU2NVdCQ29zR2U2MWhjV3N6NnRwcjRPVC1pdmhOcnpWVEU?oc=5" target="_blank">Trump Is Pushing the U.S.-Europe Alliance to the Brink Over Greenland</a>&nbsp;&nbsp;<font color="#6f6f6f">The New York Times</font></li><li><a href="https://news.google.com/rss/articles/CBMixwFBVV95cUxQZWhLSC1lcTlUaDBkd0prQXlfTzlHdUdiMXc4djZnOWVXMkhEeGpNeGJ4SkNZNjNkSWJzMnhiQzk5dFlPakozSWJQNHp6NWNRaVJjTG11eFJEek4wcDhlMzN4TjFuZ1RTNWVnaEpjSlkybnlRU1c4eGpoUV9aU3hTSEpjemlrYU5xOEtJWEVObVM3eXFfT096QTR1UTlrQkJLbUJacVhmdmJ3b01uZHRqQjVKbVRyMUdicXZESjFXZDIwNmhuXzRn0gHMAUFVX3lxTE4wRHNWM05JOWNhMWc1ZkpnX3NNV1V0MnFwR240MVBZaHF6a21RSjJTOHRxN3lVeDVid202Yko2MmpaT1NIUE1GRnE1MVItOFMtMFhrQzNxZWJ6Ym5nMzRvVG96aGZGZnlNa1dkRHQwZVN6Tjd6UWpLaDJoQS1yQVJxZlhYTlFrRXF6cG5WVnN2Y2FoaTJHbUNfakV5bXlueHZJVDE1dlBJNWR6TXd3VUpvTTgzS0dBMEJyenhPVW96eS12SlFqbUREeFFxaA?oc=5" target="_blank">CNBC Daily Open: A trade 'bazooka' against Trump's Greenland tariffs is in the cards for the EU</a>&nbsp;&nbsp;<font color="#6f6f6f">CNBC</font></li><li><a href="https://news.google.com/rss/articles/CBMijgFBVV95cUxNYVRoYlRpRnRiQnRMQnZWcTNmbEVSRFdNUGdkVnRIdU5EdW0xbFV6NzBFUGFnTHBYRlVPTnFoa2VRZzYtSk0teFh5WVVTQVphTG9qZWRHUzlIMU8xMGFMWmtpODhSbnNRc1p4RWpoVFdRZDRxbW95VEYzWElrSGV4X19OZWd6ZXRZZktOVFVB?oc=5" target="_blank">Bessent: 'The national emergency is avoiding a national emergency'</a>&nbsp;&nbsp;<font color="#6f6f6f">Politico</font></li><li><a href="https://news.google.com/rss/articles/CBMiwAFBVV95cUxQLWpoamd3cnRvN3FLYXNsUmpBOFNtN2E5cmNMaXZQZVBhVFk3UW5VR1RrRUk1M2x2cFhjYm00MmljYUhkOXk0RTFXaHN6Qlh3ZEUzZ2lISm5GRnZxS2M3Tm5XU2dBNGl3azFRQjBidjRMbmFBZ0dzRjl3emp0eS1rV2c5Y1RPcUhQX01HZ1E1blBlRFpQTENWbDljNkhJSUdwdl8zZ3c5Y3Rab0JURVVfaWUxSTJWYmNzTDQxc1NzX20?oc=5" target="_blank">Trump's Europe tariff threat over Greenland revives talk of 'Sell America' trade</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font></li></ol>

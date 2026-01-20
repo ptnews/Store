@@ -1,0 +1,19 @@
+---
+title: "Gaza’s Board of Peace: What to Know - The New York Times"
+date: 2026-01-20
+description: "Gaza’s Board of Peace: What to Know&nbsp;&nbsp;The New York TimesPutin invited to join US-led Gaza 'Board of Peace', Trump says&nbsp;&nbsp;BBCTrump threatens 200% tariff on French wines as Macron reportedly snubs 'Board of Peace' seat&nbsp;&nbsp;CNBCTrump Wants His Peace Board Signed in Davos. Macron Declines&nbsp;&nbsp;Yahoo FinanceCanada's Carney outlines ‘precondition’ to joining Trump’s ‘Board of Peace’&nbsp;&nbsp;Politico"
+summary: "Gaza’s Board of Peace: What to Know&nbsp;&nbsp;The New York TimesPutin invited to join US-led Gaza 'Board of Peace', Trump says&nbsp;&nbsp;BBCTrump threatens 200% tariff on French wines as Macron reportedly snubs 'Board of Peace' seat&nbsp;&nbsp;CNBCTrump Wants His Peace Board Signed in Davos. Macron Declines&nbsp;&nbsp;Yahoo FinanceCanada's Carney outlines ‘precondition’ to joining Trump’s ‘Board of Peace’&nbsp;&nbsp;Politico"
+slug: "gaza-s-board-of-peace-what-to-know-the-new-york-times"
+image: ''
+link: 'https://news.google.com/rss/articles/CBMiigFBVV95cUxOSUhHVzM1UG84d1BtNklSOWRPUXlYa19weE95dDdEMllxaE9STDExaVFrVzhUV0pEbWs4ZzBaNHVyRjk5ektQRk81ZXFLSTNSM3ptbnNBLWJFNUUxMTVJVEh3X29DQmlQWVdDUkc2cllOOHFmZHluZUxaZl9VVERmQTF5UERxZ0k0SUE?oc=5'
+source: 'https://news.google.com/rss/topics/CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx1YlY4U0FtVnVHZ0pWVXlnQVAB?hl=en-US&gl=US&ceid=US:en'
+categories:
+- 'news.google.com'
+tags:
+- 'board'
+- 'peace'
+- 'times'
+
+draft: false
+---
+<ol><li><a href="https://news.google.com/rss/articles/CBMiigFBVV95cUxOSUhHVzM1UG84d1BtNklSOWRPUXlYa19weE95dDdEMllxaE9STDExaVFrVzhUV0pEbWs4ZzBaNHVyRjk5ektQRk81ZXFLSTNSM3ptbnNBLWJFNUUxMTVJVEh3X29DQmlQWVdDUkc2cllOOHFmZHluZUxaZl9VVERmQTF5UERxZ0k0SUE?oc=5" target="_blank">Gaza’s Board of Peace: What to Know</a>&nbsp;&nbsp;<font color="#6f6f6f">The New York Times</font></li><li><a href="https://news.google.com/rss/articles/CBMiWkFVX3lxTE4zeTZNdU5yU3Yxa1d3TjlUWEZEUVZ0dXNZVUp4dkJpWEI2bWdHeGNFc25MM2kxazdTZ285Ry0zWm1TM1JHMVZ1SWgtaUZzRmZmTnNNRkJDaHNidw?oc=5" target="_blank">Putin invited to join US-led Gaza 'Board of Peace', Trump says</a>&nbsp;&nbsp;<font color="#6f6f6f">BBC</font></li><li><a href="https://news.google.com/rss/articles/CBMipAFBVV95cUxQMW43SktUOUk4YzF6d1VfQ0VFRUVRczloWDg5R3Z2V0lMa2FoUVdIcGhWNWNRVmZwR2tWU01KWGx1cHFSUlRTRXAwVkVWTDF2LUtBTXpvWG1nZWZMQ3NIWE5CMndVMGRPZzJPVTF4TVZpb2xGQ1hNVEN0ZjNoaDZySkhaQ2k1NUFCdjMtMnJoUW5zUjFLbmlZeTdxZldES1VZcVdBRNIBqgFBVV95cUxQRkg5bnNmblhCZFBtYWVSdkl1cEU2aGhySDJFRlhaOWZSUzdTUUQ4YlFSOC1HdEFKcVJFNVZmdXVqdmxPNURxQ1ZkTy16TkZKWklBcWxVRGlZSm13N0l0dVA4eTliUEhOQl9lWjJLN044SGpOUEdSVUtYT1o0QVdtNk5DZDlCZkQ2MUttYzlWMzNXSV9ERnFnSlBjemZ2ZThXdEJQQi1EUzZ1UQ?oc=5" target="_blank">Trump threatens 200% tariff on French wines as Macron reportedly snubs 'Board of Peace' seat</a>&nbsp;&nbsp;<font color="#6f6f6f">CNBC</font></li><li><a href="https://news.google.com/rss/articles/CBMiggFBVV95cUxPTDBSZVFkU1RFZ2thdVp3bERhd2VKMVo1SG1kMXBUZHNfdlZtbkQ3aDBmVTlkM3FrSFVHYkp5ck9vSEZGSlY5QU9rRzNLTE1GRDNUbFN6TjA5Wnl3Zy1JN0VhNWVEWk1TMnRDYS1FZ0ZDcTl2Zi1DblZ4aV92RnRONFR3?oc=5" target="_blank">Trump Wants His Peace Board Signed in Davos. Macron Declines</a>&nbsp;&nbsp;<font color="#6f6f6f">Yahoo Finance</font></li><li><a href="https://news.google.com/rss/articles/CBMifEFVX3lxTE1MRlFGWWVEZWxqYURaZnNKYzI0X0t0bHNtcG5DTEw5SnpLMVo4cmxvZGNJSlFBWmlMLXNqSHM5MFV3NjFxblg4eDk3eXp4b19qYUdLRjFld0NfNFc3OEFYRHF2bGRyZXc1NDJGemszM2FWZmpPZWNQSjgyXzI?oc=5" target="_blank">Canada's Carney outlines ‘precondition’ to joining Trump’s ‘Board of Peace’</a>&nbsp;&nbsp;<font color="#6f6f6f">Politico</font></li></ol>
