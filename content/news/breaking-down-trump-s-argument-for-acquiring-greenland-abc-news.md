@@ -1,0 +1,21 @@
+---
+title: "Breaking down Trump's argument for acquiring Greenland - ABC News"
+date: 2026-01-20
+description: "Breaking down Trump's argument for acquiring Greenland&nbsp;&nbsp;ABC NewsTrump Has an Offramp on Greenland. He Doesn’t Seem to Want It.&nbsp;&nbsp;The New York TimesDenmark sends more troops to Greenland amid tensions with Trump&nbsp;&nbsp;Al JazeeraHow to Understand Trump’s Obsession With Greenland&nbsp;&nbsp;The AtlanticU.S. lawmakers wrap reassurance tour in Denmark as tensions around Greenland grow&nbsp;&nbsp;NPR"
+summary: "Breaking down Trump's argument for acquiring Greenland&nbsp;&nbsp;ABC NewsTrump Has an Offramp on Greenland. He Doesn’t Seem to Want It.&nbsp;&nbsp;The New York TimesDenmark sends more troops to Greenland amid tensions with Trump&nbsp;&nbsp;Al JazeeraHow to Understand Trump’s Obsession With Greenland&nbsp;&nbsp;The AtlanticU.S. lawmakers wrap reassurance tour in Denmark as tensions around Greenland grow&nbsp;&nbsp;NPR"
+slug: "breaking-down-trump-s-argument-for-acquiring-greenland-abc-news"
+image: ''
+link: 'https://news.google.com/rss/articles/CBMimwFBVV95cUxNLTZ2MG5wc1RoVE05ekp2MUxFajBGOVpYbnR6SWNjV25jWUtTT09fUWlpckI3ak1nS1o1enc5VnNNUWsxU0xuUmRtQWtXS3RtRW1faUoxSWlfX3EtWWc5aG55bGJCY2VIb3gyOS1DcWt4OTBscndpa0lhdHlyaUtVYkdCZnBWV2ZHWlJKUzJWNWgxUmFPQWlpNnZfY9IBoAFBVV95cUxNSTNrcDhrdHQ3UHVLeG8wcGNpQjNpSUpsVE9iU19mMnpQUlhRVUpsaGlUMWtYX1kxc0duTDRqRFhPcHY3UXdoMmp2bV9sTHF0SEQ1bW83UFdDNExlR0NvZHlOSXRGMkNwMkcyV3A2Y3lqS0hBMFhLck9yRWY3MlBXRjJGY1BvSGwxVGtRS1NWbnpSTjdCOF9XNHhmeFFQV0dk?oc=5'
+source: 'https://news.google.com/rss/topics/CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx1YlY4U0FtVnVHZ0pWVXlnQVAB?hl=en-US&gl=US&ceid=US:en'
+categories:
+- 'news.google.com'
+tags:
+- 'acquiring'
+- 'greenland'
+- 'breaking'
+- 'argument'
+- 'trump'
+
+draft: false
+---
+<ol><li><a href="https://news.google.com/rss/articles/CBMimwFBVV95cUxNLTZ2MG5wc1RoVE05ekp2MUxFajBGOVpYbnR6SWNjV25jWUtTT09fUWlpckI3ak1nS1o1enc5VnNNUWsxU0xuUmRtQWtXS3RtRW1faUoxSWlfX3EtWWc5aG55bGJCY2VIb3gyOS1DcWt4OTBscndpa0lhdHlyaUtVYkdCZnBWV2ZHWlJKUzJWNWgxUmFPQWlpNnZfY9IBoAFBVV95cUxNSTNrcDhrdHQ3UHVLeG8wcGNpQjNpSUpsVE9iU19mMnpQUlhRVUpsaGlUMWtYX1kxc0duTDRqRFhPcHY3UXdoMmp2bV9sTHF0SEQ1bW83UFdDNExlR0NvZHlOSXRGMkNwMkcyV3A2Y3lqS0hBMFhLck9yRWY3MlBXRjJGY1BvSGwxVGtRS1NWbnpSTjdCOF9XNHhmeFFQV0dk?oc=5" target="_blank">Breaking down Trump's argument for acquiring Greenland</a>&nbsp;&nbsp;<font color="#6f6f6f">ABC News</font></li><li><a href="https://news.google.com/rss/articles/CBMifEFVX3lxTE4wYVZLNWNOLTFHLWYtX3EzdXNYZmlFQ3B1bUhrdEg5bDdTUlhubDZLX0cwbnlVcE1icnlIWC10cllVWEwyWVJtYTdhd3c0UV9ncmlqbzR1bTE1dFpjUXZSOFpSek1YVjR4RlFUaG5WdGxCR2VVNkJNMW1LQzU?oc=5" target="_blank">Trump Has an Offramp on Greenland. He Doesn’t Seem to Want It.</a>&nbsp;&nbsp;<font color="#6f6f6f">The New York Times</font></li><li><a href="https://news.google.com/rss/articles/CBMipwFBVV95cUxNYlQ1c2lNQkJyZHpGS0xLQkNGU3VzQUZYdTcyaElQalo5STQ4MkctWGl5eEMyM2FwY1EtdVV1TVV3aFdFYnBIQ29pUGtidWpHRUFfRFZtYV9xUHlXbUhSXzlMWmFCc2R6cU9KN1Bld0VUeENtM09TcFNIeFQ2SzFrck5fVVlYRkdlSk00bENwX2tyRnVIM2JTOVpJSkR2V1N5bUxySmpkMNIBrAFBVV95cUxPdVREX0Z5NkNmYzFfRVJadFRHdVdNclF1MkJCQ19jd205T0l0MS1TRVEyWUVIZVRjNXRwNmhlRVMydlI2MHBxcF9SUU13TmJ6V3NGTnNOZnJKVzBkTENHR1JNMU4tNGZ1NWdMR3VieUtDVEo5ZXZscjUwR1p3TURmWlY0eHJPRjNlVDg2d3JqRUh6WUNxQ1MyQzBTS2Qxak1MVldIRzNTa3B3MzFS?oc=5" target="_blank">Denmark sends more troops to Greenland amid tensions with Trump</a>&nbsp;&nbsp;<font color="#6f6f6f">Al Jazeera</font></li><li><a href="https://news.google.com/rss/articles/CBMioAFBVV95cUxObFlRaGtOdWVoV2dsVS14U2kwWUhEeWlQLUhkNHNaY3dRdlFZcFo5eHQwc0xDakEzZnlOeHlndVVHdGVTNTdzQnNjVnE2LXBBTVVDZmVfQmxHemlWRTNwQnliUFBlM3lINy1ub1dFVkszV29TcnY1M25KbzdRcEFYdnRZOWtMUTNIYWJ4VlMzOVhvWnZkbTlPZkNRbFNfZTIx?oc=5" target="_blank">How to Understand Trump’s Obsession With Greenland</a>&nbsp;&nbsp;<font color="#6f6f6f">The Atlantic</font></li><li><a href="https://news.google.com/rss/articles/CBMihwFBVV95cUxQU1l2NF9rREFqU0x3Y2xyemJFWGdqblhfUnVZTjU4N01nbUJtTTEyY3pNZ2xCNER2b1hjekItNnhpUm5hYTZ1Z2tHU2V4MlpYdER4a215eWpPQ2lRUjNIcTdCUlJxb3RGbFpoR1JtSzdGaUtjMzVjSEJUWEdXUXFfNHBwX1VLeUU?oc=5" target="_blank">U.S. lawmakers wrap reassurance tour in Denmark as tensions around Greenland grow</a>&nbsp;&nbsp;<font color="#6f6f6f">NPR</font></li></ol>
