@@ -6,7 +6,7 @@ summary: "U.S. military forces apprehended Motor Vessel Sagitta in the Caribbean
 slug: "us-forces-apprehend-sanctioned-vessel-in-caribbean-maritime-operation-targeting-illicit-oil-transport"
 image: ''
 link: 'https://www.foxnews.com/world/us-forces-apprehend-sanctioned-vessel-caribbean-maritime-operation-targeting-illicit-oil-transport'
-source: 'https://feeds.foxnews.com/foxnews/latest'
+source: 'https://feeds.foxnews.com/foxnews/world'
 categories:
 - 'feeds.foxnews.com'
 tags:

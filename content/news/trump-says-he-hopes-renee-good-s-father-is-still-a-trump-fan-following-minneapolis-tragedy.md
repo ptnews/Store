@@ -1,5 +1,5 @@
 ---
-title: "Trump says he hopes Renee Good's father is still a 'Trump fan' following Minneapolis 'tragedy'"
+title: "Trump says he hopes Renee Good's father is still a 'Trump fan' following Minneapolis tragedy"
 date: 2026-01-20
 description: "President Donald Trump says he hopes Renee Good&apos;s father remains a supporter after the woman died in an ICE shooting in Minneapolis Jan. 7, calling the incident a tragedy."
 summary: "President Donald Trump says he hopes Renee Good&apos;s father remains a supporter after the woman died in an ICE shooting in Minneapolis Jan. 7, calling the incident a tragedy."
