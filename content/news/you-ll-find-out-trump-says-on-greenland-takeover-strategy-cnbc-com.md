@@ -1,0 +1,20 @@
+---
+title: "'You'll find out,' Trump says on Greenland takeover strategy - cnbc.com"
+date: 2026-01-20
+description: "'You'll find out,' Trump says on Greenland takeover strategy&nbsp;&nbsp;cnbc.comOn Greenland, Trump Says ‘You’ll Find Out’ How Far He’ll Go to Get It: Live Updates&nbsp;&nbsp;The New York TimesTrump tariffs live updates: Trump to hold Davos Greenland talks after 200% champagne tariff threat&nbsp;&nbsp;Yahoo FinanceTrump tells Nato: We’ll work something out in Davos&nbsp;&nbsp;The TimesTrump shares texts from leaders and vows 'no going back' on Greenland&nbsp;&nbsp;NBC News"
+summary: "'You'll find out,' Trump says on Greenland takeover strategy&nbsp;&nbsp;cnbc.comOn Greenland, Trump Says ‘You’ll Find Out’ How Far He’ll Go to Get It: Live Updates&nbsp;&nbsp;The New York TimesTrump tariffs live updates: Trump to hold Davos Greenland talks after 200% champagne tariff threat&nbsp;&nbsp;Yahoo FinanceTrump tells Nato: We’ll work something out in Davos&nbsp;&nbsp;The TimesTrump shares texts from leaders and vows 'no going back' on Greenland&nbsp;&nbsp;NBC News"
+slug: "you-ll-find-out-trump-says-on-greenland-takeover-strategy-cnbc-com"
+image: ''
+link: 'https://news.google.com/rss/articles/CBMiekFVX3lxTE95ak9jRklfQzZqOXJlX3UybFBZTEZ0UnFtc3FUaHpUNTBpR19sUThmWGl2U0xzU2Mwc09PSHZ1d2dlUGFVaGtQUFpTaFZPZURBUm5qbUNXaHhPTV9XWUszemdYSlZac3doMkVwQlZxWjFqVXVhTnJxTG5n0gF_QVVfeXFMTWhQRTJVU2xQam0xa2FBZThHWlFVaGN4bFBUOVQ5NVJyVGlYMzZoSWlyemhqeEhpdWtNLVhQWHBHbkhFbU5kLU9lQk1MRjFlenRTRnlrSzVUb3FCVUZyTGsySHlWTl81UlViOU8zRVNWVTdQWWE1SGo1ZUFiNXhTbw?oc=5'
+source: 'https://news.google.com/rss/topics/CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx1YlY4U0FtVnVHZ0pWVXlnQVAB?hl=en-US&gl=US&ceid=US:en'
+categories:
+- 'news.google.com'
+tags:
+- 'greenland'
+- 'takeover'
+- 'strategy'
+- 'trump'
+
+draft: false
+---
+<ol><li><a href="https://news.google.com/rss/articles/CBMiekFVX3lxTE95ak9jRklfQzZqOXJlX3UybFBZTEZ0UnFtc3FUaHpUNTBpR19sUThmWGl2U0xzU2Mwc09PSHZ1d2dlUGFVaGtQUFpTaFZPZURBUm5qbUNXaHhPTV9XWUszemdYSlZac3doMkVwQlZxWjFqVXVhTnJxTG5n0gF_QVVfeXFMTWhQRTJVU2xQam0xa2FBZThHWlFVaGN4bFBUOVQ5NVJyVGlYMzZoSWlyemhqeEhpdWtNLVhQWHBHbkhFbU5kLU9lQk1MRjFlenRTRnlrSzVUb3FCVUZyTGsySHlWTl81UlViOU8zRVNWVTdQWWE1SGo1ZUFiNXhTbw?oc=5" target="_blank">'You'll find out,' Trump says on Greenland takeover strategy</a>&nbsp;&nbsp;<font color="#6f6f6f">cnbc.com</font></li><li><a href="https://news.google.com/rss/articles/CBMiY0FVX3lxTE9OYnlUYmhTU0pVSGowaW53ZXg5TjVNc3puMFc1cThSUF9uQk4yaG1UcmtzaWNEa2MwbzY1aEtsTjNlOHNxV3lSVW9WeUFMTnllLTR3Z2R0MldpN0kyOF9pVEZRWQ?oc=5" target="_blank">On Greenland, Trump Says ‘You’ll Find Out’ How Far He’ll Go to Get It: Live Updates</a>&nbsp;&nbsp;<font color="#6f6f6f">The New York Times</font></li><li><a href="https://news.google.com/rss/articles/CBMi4AFBVV95cUxOQzJVTlRRUk8zOHZrNFd0c1lQTXpTczNhMFNiYVBYQjB1eXU2c1VkQWMyaW5WOHVsVDFXMDNuZlk0dlZyU2k1Y1ZnZ01ERmZOY3NheFNSMnRSaUkzNlhkUlN5c05pMFdnQXMyRDZxN3FlM3hLczNsTlNyOExIbEVuRVRFaHBPcWcxTHRSeS1BZDZZQ0dqT1FBRk9KNXNseUFYQkxxUzNTeDdscUlfLUNaMEdab01zYi1lNVhUSzVNQ2dYS05FSy1WTUp3X0ZmTk14dXpTaWlWRU1jTUstbFpTOQ?oc=5" target="_blank">Trump tariffs live updates: Trump to hold Davos Greenland talks after 200% champagne tariff threat</a>&nbsp;&nbsp;<font color="#6f6f6f">Yahoo Finance</font></li><li><a href="https://news.google.com/rss/articles/CBMie0FVX3lxTE1GUWx3MWFHMlY0T1E1bVVaRnBGa0l1RzFxeV9UUTNLUXA1d2d1Q3RZZlk2ZEdNZXBWUW42QjN2eWpxZExPM2Q3RWROUXR0dUFNQURPZ1k5Q0wxZlI3LTFINzItbXJ0S080QUJ5dXlHdnBVNU1selBWUEk0dw?oc=5" target="_blank">Trump tells Nato: We’ll work something out in Davos</a>&nbsp;&nbsp;<font color="#6f6f6f">The Times</font></li><li><a href="https://news.google.com/rss/articles/CBMirAFBVV95cUxNZXppay1iRnMxcjZNNzhQaFR6ZjZ0U2t4MWRVRk9qTTFac056Zk9vZFBsTXpUVE9uS195TG1WVl9rMFc2clhhUjJBNmtQU3FUUkE0S1pzeGc2YXRtQVNpWDZobEZRSnNWbHBSY2RDV3BBUlVzNUZWdERpV3ZNdUdBUklJSXBCNHRTWV9NX05oSnRYa0Nta1BjeG9zRk1WN19QRXFmMEt5V1NDNjRF?oc=5" target="_blank">Trump shares texts from leaders and vows 'no going back' on Greenland</a>&nbsp;&nbsp;<font color="#6f6f6f">NBC News</font></li></ol>
