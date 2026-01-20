@@ -1,0 +1,21 @@
+---
+title: "Stock futures signal big losses after Trump threatens new tariffs over Greenland; Dow set for 700-point drop: Live updates - CNBC"
+date: 2026-01-20
+description: "Stock futures signal big losses after Trump threatens new tariffs over Greenland; Dow set for 700-point drop: Live updates&nbsp;&nbsp;CNBCEU Tells Trump ‘a Deal Is a Deal’ as Greenland Threats Escalate&nbsp;&nbsp;Bloomberg.comTrump's Europe tariff threat over Greenland revives talk of 'Sell America' trade&nbsp;&nbsp;ReutersDonald Trump’s Greenland tariffs are no great blow to Europe&nbsp;&nbsp;The EconomistBerlin weighs digital tax in response to Trump tariff threats&nbsp;&nbsp;politico.eu"
+summary: "Stock futures signal big losses after Trump threatens new tariffs over Greenland; Dow set for 700-point drop: Live updates&nbsp;&nbsp;CNBCEU Tells Trump ‘a Deal Is a Deal’ as Greenland Threats Escalate&nbsp;&nbsp;Bloomberg.comTrump's Europe tariff threat over Greenland revives talk of 'Sell America' trade&nbsp;&nbsp;ReutersDonald Trump’s Greenland tariffs are no great blow to Europe&nbsp;&nbsp;The EconomistBerlin weighs digital tax in response to Trump tariff threats&nbsp;&nbsp;politico.eu"
+slug: "stock-futures-signal-big-losses-after-trump-threatens-new-tariffs-over-greenland-dow-set-for-700-point-drop-live-updates-cnbc"
+image: ''
+link: 'https://news.google.com/rss/articles/CBMid0FVX3lxTFB6aFhReFdKU1ZXQVpTNlFRalk5VkduNFp6cXh2aFd2bGxzcTVyb2ZrZkEwbm1XeU50N1hIZFRoTDN5REhLQVI5Rk52VHlIMlQ1SkN1bXlUUWQ5N3dLbF9KRkNyeEJHTktXcHlUYUdDLVA0YkxrT1Vj0gF8QVVfeXFMUGpoZU5NM24zWG5MNmVVUUFHRmdQMTh1QjdKZnBmWEZZc0R4ZktxSUVHeWR6bDBULU9zQm1TTlNSc3J6SUp2Z0VweENMaml4TER5cTRVWTJvYk1oVlBwM1lHRHEtbm5PYVBhRGJHNlhSb2RoeE13cGxNQnJaOA?oc=5'
+source: 'https://news.google.com/rss/topics/CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx1YlY4U0FtVnVHZ0pWVXlnQVAB?hl=en-US&gl=US&ceid=US:en'
+categories:
+- 'news.google.com'
+tags:
+- 'threatens'
+- 'greenland'
+- 'futures'
+- 'tariffs'
+- 'updates'
+
+draft: false
+---
+<ol><li><a href="https://news.google.com/rss/articles/CBMid0FVX3lxTFB6aFhReFdKU1ZXQVpTNlFRalk5VkduNFp6cXh2aFd2bGxzcTVyb2ZrZkEwbm1XeU50N1hIZFRoTDN5REhLQVI5Rk52VHlIMlQ1SkN1bXlUUWQ5N3dLbF9KRkNyeEJHTktXcHlUYUdDLVA0YkxrT1Vj0gF8QVVfeXFMUGpoZU5NM24zWG5MNmVVUUFHRmdQMTh1QjdKZnBmWEZZc0R4ZktxSUVHeWR6bDBULU9zQm1TTlNSc3J6SUp2Z0VweENMaml4TER5cTRVWTJvYk1oVlBwM1lHRHEtbm5PYVBhRGJHNlhSb2RoeE13cGxNQnJaOA?oc=5" target="_blank">Stock futures signal big losses after Trump threatens new tariffs over Greenland; Dow set for 700-point drop: Live updates</a>&nbsp;&nbsp;<font color="#6f6f6f">CNBC</font></li><li><a href="https://news.google.com/rss/articles/CBMisgFBVV95cUxOSWRxajFBWWE2dm9OSDNTQjlVWU5CRDBGc3BDYy0wN3R5TU5hcTZqOEFkY0UwYlZFcGV6ZHo4N28yV3B3SzVUWDVKNUE0Nl9yUld3aGlxd3Jjc3ZCWlpVSlZPdzhqenRsTndrSXFFaE1ZREdjcnY2YzJ2T3QzUzdaWFU0S0lJWjVOU1pjYkFvOVF6S25iYTVJVmEtNHRwWHg1aktoeW5TZDNFNHM1WGxPY3BR?oc=5" target="_blank">EU Tells Trump ‘a Deal Is a Deal’ as Greenland Threats Escalate</a>&nbsp;&nbsp;<font color="#6f6f6f">Bloomberg.com</font></li><li><a href="https://news.google.com/rss/articles/CBMiwAFBVV95cUxQLWpoamd3cnRvN3FLYXNsUmpBOFNtN2E5cmNMaXZQZVBhVFk3UW5VR1RrRUk1M2x2cFhjYm00MmljYUhkOXk0RTFXaHN6Qlh3ZEUzZ2lISm5GRnZxS2M3Tm5XU2dBNGl3azFRQjBidjRMbmFBZ0dzRjl3emp0eS1rV2c5Y1RPcUhQX01HZ1E1blBlRFpQTENWbDljNkhJSUdwdl8zZ3c5Y3Rab0JURVVfaWUxSTJWYmNzTDQxc1NzX20?oc=5" target="_blank">Trump's Europe tariff threat over Greenland revives talk of 'Sell America' trade</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font></li><li><a href="https://news.google.com/rss/articles/CBMiugFBVV95cUxNSGEtQTZ2QnZRNk5sZzQ5ZnpaUU8wWnVJX1Z6Y3JCTFZIVkhmTFlQTUlQd3lSYWx0ZlJLdWpaTFhZV01mMzRWd2hPbGlkTVdxM09pNmdEbi1qcm45cHFwNTEzeE9aOXdyWVJDd3V2dlNMUzNsVlFkdHNtcDJsbUFXeWxmWFN4WVotTXdiOGVyaDYxWG51Zi1jV3JTY3NQYmdZbDRiM29Sa1hOTTFheXFlTnBhTmVXU01mQUE?oc=5" target="_blank">Donald Trump’s Greenland tariffs are no great blow to Europe</a>&nbsp;&nbsp;<font color="#6f6f6f">The Economist</font></li><li><a href="https://news.google.com/rss/articles/CBMipgFBVV95cUxON2FvQnRPRjhrejVXRHpoN2xJNFhJN0ZZV0FBUzc4eEgxX3ZvM3dlOWFsaG1KOTBabVN4UjJBTmJWbEcyR2EzM2UyS05lem9xdVlMVjQ4ZG1CbUdrNDh6Z0VMLU5NVW9zSEVBM2p6YzlzX1J2SDJ3Q2xZRDF4RFE1dTdxZXB0YmZLcUlMYXRjd2dCNlVmdUVMMkZ6Z2RHOElyVW9jUm1B?oc=5" target="_blank">Berlin weighs digital tax in response to Trump tariff threats</a>&nbsp;&nbsp;<font color="#6f6f6f">politico.eu</font></li></ol>
