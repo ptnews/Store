@@ -1,6 +1,6 @@
 ---
 title: "Factory explosion in China kills four, injures 84"
-date: 2026-01-19
+date: 2026-01-20
 description: "The blast caused noticeable tremors in the area and sent large plumes of smoke into the sky."
 summary: "The blast caused noticeable tremors in the area and sent large plumes of smoke into the sky."
 slug: "factory-explosion-in-china-kills-four-injures-84"

@@ -1,6 +1,6 @@
 ---
 title: "At the scene of Spain's worst rail disaster in over a decade"
-date: 2026-01-19
+date: 2026-01-20
 description: "The BBC's Guy Hedgecoe visited the scene, where a large police cordon is in place."
 summary: "The BBC's Guy Hedgecoe visited the scene, where a large police cordon is in place."
 slug: "at-the-scene-of-spain-s-worst-rail-disaster-in-over-a-decade"

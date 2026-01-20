@@ -1,6 +1,6 @@
 ---
 title: "IMF warns of trade tension risk to global growth"
-date: 2026-01-19
+date: 2026-01-20
 description: "Trade tensions and a reversal in the AI boom are among the main risks to global economic growth, the IMF says."
 summary: "Trade tensions and a reversal in the AI boom are among the main risks to global economic growth, the IMF says."
 slug: "imf-warns-of-trade-tension-risk-to-global-growth"

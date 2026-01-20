@@ -1,6 +1,6 @@
 ---
 title: "What we know about Spain's worst rail disaster in over a decade"
-date: 2026-01-19
+date: 2026-01-20
 description: "What caused the train to derail remains unclear but officials say an investigation has been launched."
 summary: "What caused the train to derail remains unclear but officials say an investigation has been launched."
 slug: "what-we-know-about-spain-s-worst-rail-disaster-in-over-a-decade"

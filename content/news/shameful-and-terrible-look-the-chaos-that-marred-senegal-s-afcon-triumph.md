@@ -1,6 +1,6 @@
 ---
 title: "'Shameful' and 'terrible look' - the chaos that marred Senegal's Afcon triumph"
-date: 2026-01-19
+date: 2026-01-20
 description: "Senegal beat Morocco to win the Africa Cup of Nations after the final is overshadowed when they temporarily refuse to play. "
 summary: "Senegal beat Morocco to win the Africa Cup of Nations after the final is overshadowed when they temporarily refuse to play. "
 slug: "shameful-and-terrible-look-the-chaos-that-marred-senegal-s-afcon-triumph"

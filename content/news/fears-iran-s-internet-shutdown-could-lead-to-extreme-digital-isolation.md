@@ -1,6 +1,6 @@
 ---
 title: "Fears Iran's internet shutdown could lead to 'extreme digital isolation'"
-date: 2026-01-19
+date: 2026-01-20
 description: "Internet monitor FilterWatch warns that authorities are trying to cut the country off from international connectivity."
 summary: "Internet monitor FilterWatch warns that authorities are trying to cut the country off from international connectivity."
 slug: "fears-iran-s-internet-shutdown-could-lead-to-extreme-digital-isolation"

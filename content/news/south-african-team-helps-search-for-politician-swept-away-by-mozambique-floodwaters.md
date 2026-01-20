@@ -1,6 +1,6 @@
 ---
 title: "South African team helps search for politician swept away by Mozambique floodwaters"
-date: 2026-01-19
+date: 2026-01-20
 description: "Mozambique President Daniel Chapo cancels a trip to Davos due to severe floods in the country"
 summary: "Mozambique President Daniel Chapo cancels a trip to Davos due to severe floods in the country"
 slug: "south-african-team-helps-search-for-politician-swept-away-by-mozambique-floodwaters"

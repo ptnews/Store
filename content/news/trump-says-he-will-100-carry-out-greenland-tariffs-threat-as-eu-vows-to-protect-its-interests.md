@@ -1,6 +1,6 @@
 ---
 title: "Trump says he will '100%' carry out Greenland tariffs threat, as EU vows to protect its interests"
-date: 2026-01-19
+date: 2026-01-20
 description: "Kaja Kallas, the EU's foreign policy chief, said the bloc has \"no interest to pick a fight, but we will hold our ground\"."
 summary: "Kaja Kallas, the EU's foreign policy chief, said the bloc has \"no interest to pick a fight, but we will hold our ground\"."
 slug: "trump-says-he-will-100-carry-out-greenland-tariffs-threat-as-eu-vows-to-protect-its-interests"

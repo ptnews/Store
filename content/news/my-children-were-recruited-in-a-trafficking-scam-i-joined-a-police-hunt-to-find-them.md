@@ -1,6 +1,6 @@
 ---
 title: "My children were recruited in a trafficking scam. I joined a police hunt to find them"
-date: 2026-01-19
+date: 2026-01-20
 description: "BBC Africa Eye joins an anti-trafficking police unit in Sierra Leone helping a man look for his missing children."
 summary: "BBC Africa Eye joins an anti-trafficking police unit in Sierra Leone helping a man look for his missing children."
 slug: "my-children-were-recruited-in-a-trafficking-scam-i-joined-a-police-hunt-to-find-them"

@@ -1,6 +1,6 @@
 ---
 title: "Chile declares 'state of catastrophe' as wildfires leave at least 18 dead"
-date: 2026-01-19
+date: 2026-01-20
 description: "Chile's president warned the death toll cold rise in the Ñuble and Biobío regions."
 summary: "Chile's president warned the death toll cold rise in the Ñuble and Biobío regions."
 slug: "chile-declares-state-of-catastrophe-as-wildfires-leave-at-least-18-dead"

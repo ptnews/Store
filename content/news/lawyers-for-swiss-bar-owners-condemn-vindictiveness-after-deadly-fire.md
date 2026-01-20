@@ -1,6 +1,6 @@
 ---
 title: "Lawyers for Swiss bar owners condemn 'vindictiveness' after deadly fire"
-date: 2026-01-19
+date: 2026-01-20
 description: "Lawyers for the Moretti couple say \"lies\" have been circulating about their clients, in their first public statement since the fire."
 summary: "Lawyers for the Moretti couple say \"lies\" have been circulating about their clients, in their first public statement since the fire."
 slug: "lawyers-for-swiss-bar-owners-condemn-vindictiveness-after-deadly-fire"

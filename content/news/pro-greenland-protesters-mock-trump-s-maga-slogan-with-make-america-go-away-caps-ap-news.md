@@ -1,0 +1,21 @@
+---
+title: "Pro-Greenland protesters mock Trump’s MAGA slogan with ‘Make America Go Away’ caps - AP News"
+date: 2026-01-20
+description: "Pro-Greenland protesters mock Trump’s MAGA slogan with ‘Make America Go Away’ caps&nbsp;&nbsp;AP NewsDenmark ramps up defenses in Greenland as Trump zeros in on control of territory&nbsp;&nbsp;Fox NewsOpinion | Trump’s Greenland Threats Will Boomerang on America&nbsp;&nbsp;The New York Times'Make America Go Away': Denmark incensed by Trump's push for Greenland&nbsp;&nbsp;NBC NewsBreaking down Trump's argument for acquiring Greenland&nbsp;&nbsp;ABC News"
+summary: "Pro-Greenland protesters mock Trump’s MAGA slogan with ‘Make America Go Away’ caps&nbsp;&nbsp;AP NewsDenmark ramps up defenses in Greenland as Trump zeros in on control of territory&nbsp;&nbsp;Fox NewsOpinion | Trump’s Greenland Threats Will Boomerang on America&nbsp;&nbsp;The New York Times'Make America Go Away': Denmark incensed by Trump's push for Greenland&nbsp;&nbsp;NBC NewsBreaking down Trump's argument for acquiring Greenland&nbsp;&nbsp;ABC News"
+slug: "pro-greenland-protesters-mock-trump-s-maga-slogan-with-make-america-go-away-caps-ap-news"
+image: ''
+link: 'https://news.google.com/rss/articles/CBMinAFBVV95cUxQRmNwMlJDSzVfODlveUpIZ255aC1LX1dZRl9RT3E1dnp1QzVrZmF5OVo5WGpUYXI3bUtQNjhPemEzOF9WWWhLX3AyaXBPMXZuV0RXTjQzZE5Obl8yeWlReC01ejdNWjdyVjBQcDdLV1lkWGl1UXBRTVJjUTA1SFJhWmhtSDBrenJYYXNqR3QzLXlGc3U5cGJTdGlRLUY?oc=5'
+source: 'https://news.google.com/rss/topics/CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx1YlY4U0FtVnVHZ0pWVXlnQVAB?hl=en-US&gl=US&ceid=US:en'
+categories:
+- 'news.google.com'
+tags:
+- 'protesters'
+- 'greenland'
+- 'america'
+- 'slogan'
+- 'trump'
+
+draft: false
+---
+<ol><li><a href="https://news.google.com/rss/articles/CBMinAFBVV95cUxQRmNwMlJDSzVfODlveUpIZ255aC1LX1dZRl9RT3E1dnp1QzVrZmF5OVo5WGpUYXI3bUtQNjhPemEzOF9WWWhLX3AyaXBPMXZuV0RXTjQzZE5Obl8yeWlReC01ejdNWjdyVjBQcDdLV1lkWGl1UXBRTVJjUTA1SFJhWmhtSDBrenJYYXNqR3QzLXlGc3U5cGJTdGlRLUY?oc=5" target="_blank">Pro-Greenland protesters mock Trump’s MAGA slogan with ‘Make America Go Away’ caps</a>&nbsp;&nbsp;<font color="#6f6f6f">AP News</font></li><li><a href="https://news.google.com/rss/articles/CBMimwFBVV95cUxNbkloamxFTXMzc0FVYXR4S280VlNZbzRrOGJ2aThmZDNSMGdLNENNQk1ZVk9qUk5pY2ZPMm9QbDRJcFU1OEJBclUybVRfTmRMMWNzNnQxcnlWakhmMGJSaDRxZWJhN0VTb1VSTWJmU1pBRmNyZ1JrNUpDamJtWHVmU2g5TmlLclljT1VyZllBSl90dXN4VXVKZHFLNNIBoAFBVV95cUxQdjk0ZTFTN19NQmxSTHZiTXlBR3JiemlOVUJvak0wcG9STERnbGVwVFlBY2Y0U1dpLWQtRUF5UDJKanNTV1ZxUmhVeVZSb01mYmxqQmtXSzhwQ0JLZWZ5cmxqRWI2b3A3ZGdabWxWZDRXMWt1U09PU0tIY3ZNc3VPcFp4U2pKbUFkbWJyUG9YX3JHMElVNnV2aUhXaGpMRTVK?oc=5" target="_blank">Denmark ramps up defenses in Greenland as Trump zeros in on control of territory</a>&nbsp;&nbsp;<font color="#6f6f6f">Fox News</font></li><li><a href="https://news.google.com/rss/articles/CBMid0FVX3lxTE95V1hzWGJlMTBYMzdFOHZaSmd1OUpBamo2aUhHLXVjaUR1OHJsNS00TjVZTE5OaUprY3FVMUZCNUhYY1lmeVFjeTM1TzJJVFB1V2RNd05TSm5tbmRQMThfZTN2YjRKUERIRDJTUEVpam1rY1ZINUtr?oc=5" target="_blank">Opinion | Trump’s Greenland Threats Will Boomerang on America</a>&nbsp;&nbsp;<font color="#6f6f6f">The New York Times</font></li><li><a href="https://news.google.com/rss/articles/CBMiqwFBVV95cUxQU0JYQV9UWk1td3JLdUI5Z0w4cFhvS19hTml0SVExeUNFRE93MkdWaVU3UDFadV9sVV94LUItbWt5dnFTNFdxQ1M2YTJPTzBiZ2x4RTlZVkFxUHdNTmVvazVnNkhlVVIxSXduR1F1Z0d6WnVjMzF4VEU3NlVqdnl2TFJweFkyV1ZOelRzVnJIWHZXejlNQlBidEhuSmVrZ0YwSG95aUZvNHVZRUXSAVZBVV95cUxNdUFRVXF1YVQ3bWdfNFdRb0p1SjByMWxKYUFQZWlHbW1fR1h4cjAzbmNjbjZQZ3hPcXZhOTdtMUZzMHR5RFlLY0RibTEzZE9lVzBRVWY0QQ?oc=5" target="_blank">'Make America Go Away': Denmark incensed by Trump's push for Greenland</a>&nbsp;&nbsp;<font color="#6f6f6f">NBC News</font></li><li><a href="https://news.google.com/rss/articles/CBMimwFBVV95cUxNLTZ2MG5wc1RoVE05ekp2MUxFajBGOVpYbnR6SWNjV25jWUtTT09fUWlpckI3ak1nS1o1enc5VnNNUWsxU0xuUmRtQWtXS3RtRW1faUoxSWlfX3EtWWc5aG55bGJCY2VIb3gyOS1DcWt4OTBscndpa0lhdHlyaUtVYkdCZnBWV2ZHWlJKUzJWNWgxUmFPQWlpNnZfY9IBoAFBVV95cUxNSTNrcDhrdHQ3UHVLeG8wcGNpQjNpSUpsVE9iU19mMnpQUlhRVUpsaGlUMWtYX1kxc0duTDRqRFhPcHY3UXdoMmp2bV9sTHF0SEQ1bW83UFdDNExlR0NvZHlOSXRGMkNwMkcyV3A2Y3lqS0hBMFhLck9yRWY3MlBXRjJGY1BvSGwxVGtRS1NWbnpSTjdCOF9XNHhmeFFQV0dk?oc=5" target="_blank">Breaking down Trump's argument for acquiring Greenland</a>&nbsp;&nbsp;<font color="#6f6f6f">ABC News</font></li></ol>

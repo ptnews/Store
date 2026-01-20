@@ -1,6 +1,6 @@
 ---
 title: "Clashes reported after Syria and Kurdish-led forces agree ceasefire "
-date: 2026-01-19
+date: 2026-01-20
 description: "An agreement between the government and the SDF will bring an autonomous region in the north-east under state control."
 summary: "An agreement between the government and the SDF will bring an autonomous region in the north-east under state control."
 slug: "clashes-reported-after-syria-and-kurdish-led-forces-agree-ceasefire"

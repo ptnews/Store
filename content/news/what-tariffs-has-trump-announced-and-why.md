@@ -1,6 +1,6 @@
 ---
 title: "What tariffs has Trump announced and why?"
-date: 2026-01-19
+date: 2026-01-20
 description: "Trump's volatile trade policy has thrown the world economy into chaos, and put some US prices up. "
 summary: "Trump's volatile trade policy has thrown the world economy into chaos, and put some US prices up. "
 slug: "what-tariffs-has-trump-announced-and-why"

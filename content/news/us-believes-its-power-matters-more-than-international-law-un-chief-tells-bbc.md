@@ -1,6 +1,6 @@
 ---
 title: "US believes its power matters more than international law, UN chief tells BBC"
-date: 2026-01-19
+date: 2026-01-20
 description: "António Guterres says Washington's \"clear conviction\" is that multilateral solutions are irrelevant."
 summary: "António Guterres says Washington's \"clear conviction\" is that multilateral solutions are irrelevant."
 slug: "us-believes-its-power-matters-more-than-international-law-un-chief-tells-bbc"

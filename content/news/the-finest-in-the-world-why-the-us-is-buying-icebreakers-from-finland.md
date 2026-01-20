@@ -1,6 +1,6 @@
 ---
 title: "'The finest in the world': Why the US is buying icebreakers from Finland"
-date: 2026-01-19
+date: 2026-01-20
 description: "The Nordic nation leads the way when it comes to both the design and construction of the vessels."
 summary: "The Nordic nation leads the way when it comes to both the design and construction of the vessels."
 slug: "the-finest-in-the-world-why-the-us-is-buying-icebreakers-from-finland"

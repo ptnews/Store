@@ -1,6 +1,6 @@
 ---
 title: "Italian fashion designer Valentino dies aged 93"
-date: 2026-01-19
+date: 2026-01-20
 description: "One of the giants of 20th century fashion, his creations were worn by celebrities including Elizabeth Taylor, Julia Roberts and Gwyneth Paltrow."
 summary: "One of the giants of 20th century fashion, his creations were worn by celebrities including Elizabeth Taylor, Julia Roberts and Gwyneth Paltrow."
 slug: "italian-fashion-designer-valentino-dies-aged-93"

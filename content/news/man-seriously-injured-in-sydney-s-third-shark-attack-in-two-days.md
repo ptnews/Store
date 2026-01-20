@@ -1,6 +1,6 @@
 ---
 title: "Man seriously injured in Sydney's third shark attack in two days"
-date: 2026-01-19
+date: 2026-01-20
 description: "In three separate incidents, a 12-year-old was also injured and an 11-year-old received assistance after his surfboard was bitten. "
 summary: "In three separate incidents, a 12-year-old was also injured and an 11-year-old received assistance after his surfboard was bitten. "
 slug: "man-seriously-injured-in-sydney-s-third-shark-attack-in-two-days"

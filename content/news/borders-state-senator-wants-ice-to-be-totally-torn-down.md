@@ -1,0 +1,21 @@
+---
+title: "Borders state senator wants ICE to be 'totally torn down'"
+date: 2026-01-19
+description: "Arizona Sen. Ruben Gallego calls for immigration enforcement to be focused on criminals, arguing Trump&apos;s ICE acts like a &quot;goon squad.&quot;"
+summary: "Arizona Sen. Ruben Gallego calls for immigration enforcement to be focused on criminals, arguing Trump&apos;s ICE acts like a &quot;goon squad.&quot;"
+slug: "borders-state-senator-wants-ice-to-be-totally-torn-down"
+image: ''
+link: 'https://www.foxnews.com/media/borders-state-senator-wants-ice-totally-torn-down'
+source: 'https://feeds.foxnews.com/foxnews/latest'
+categories:
+- 'feeds.foxnews.com'
+tags:
+- 'borders'
+- 'senator'
+- 'totally'
+- 'state'
+- 'wants'
+
+draft: false
+---
+<p>Sen. Ruben Gallego, D-Ariz., condemned President Donald Trump’s use of Immigration and Customs Enforcement (ICE) on Monday, arguing the organization needs to be torn down and remade.</p><p>The calls to <a href="https://www.foxnews.com/media/democrats-worry-abolish-ice-slogan-age-poorly-defund-police-nyt" target="_blank" rel="noopener">defund or abolish</a> ICE are growing among Democratic lawmakers in the wake of Minnesota resident Renee Good being shot and killed by an ICE officer earlier this month. Good's death has sparked nationwide protests, with critics claiming that the agency has run amok. The Trump administration alleged that the ICE officer acted in self-defense and that Good was attempting to run the agent over. </p><p>"A CNN poll this week found that half of Americans, more than half, really, think ICE is making cities less safe," CNN host Jake Tapper said to Gallego. "A growing number of Democrats are renewing calls to abolish ICE entirely in the wake of the death of Renee Good a couple weeks ago. You have said that ICE is a problem, it’s out of control, but that abolishing ICE would be a mistake. Why?"</p><p><a href="https://www.foxnews.com/media/obama-era-ice-director-says-trump-admin-like-police-state-asking-people-prove-legal-citizenship" target="_blank" rel="noopener"><strong><u>OBAMA-ERA ICE DIRECTOR SAYS TRUMP ADMIN LIKE A ‘POLICE STATE’ BY ASKING PEOPLE TO PROVE LEGAL CITIZENSHIP</u></strong></a></p><p>"Well, look, I think ICE needs to be totally torn down," Gallego replied. "It has to be, you know, created in the image of what people want, right? And what does that look like? From my experience running in Arizona, in a very hard, hard state when it comes to immigration and immigration issues, people want immigration enforcement that goes after criminals, right, and focuses on criminals, and immigration enforcement that is actually focused on security."</p><p>He contrasted this vision of what he says America wants ICE to be, versus "the goon squad that has come from Stephen Miller and <a href="https://www.foxnews.com/category/person/donald-trump" target="_blank" rel="noopener">Donald Trump</a>, one that issues warrants, one that doesn’t have people masked and acting like we’re a Third World police force."</p><p>"What we’re seeing right now is not what we want from ICE," he said. "And we can create and have a force that’s actually focused on immigration and on security, and not this type of intimidation that’s happening right now."</p><p><a href="https://www.foxnews.com/politics/omar-minneapolis-mayor-accuse-trump-admin-unleashing-political-retribution-invasion-ice-activity" target="_blank" rel="noopener"><strong><u>OMAR, MINNEAPOLIS MAYOR ACCUSE TRUMP ADMIN OF UNLEASHING 'POLITICAL RETRIBUTION,' 'INVASION' WITH ICE ACTIVITY</u></strong></a></p><p>White House spokeswoman Abigail Jackson provided a statement to Fox News Digital in response.</p><p>"Wannabe presidential-candidate Gallego is saying whatever he thinks will appeal most to the Democrats’ radical left base, including attacking heroic ICE law enforcement officers. Here’s the truth: ICE officers keep American communities safe by removing illegal rapists, murderers, and other criminals. Gallego should commend our brave law enforcement officers instead of siding with criminals," Jackson said.</p><p>Fox News reached out to ICE and did not receive an immediate reply. </p><p><a href="https://www.foxnews.com/media" target="_blank" rel="noopener"><strong><u>CLICK HERE FOR MORE COVERAGE OF MEDIA AND CULTURE</u></strong></a></p>

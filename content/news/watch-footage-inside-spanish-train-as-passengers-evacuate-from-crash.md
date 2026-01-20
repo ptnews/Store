@@ -1,6 +1,6 @@
 ---
 title: "Watch: Footage inside Spanish train as passengers evacuate from crash"
-date: 2026-01-19
+date: 2026-01-20
 description: "Video filmed after a deadly train crash in southern Spain shows a damaged train with a passenger climbing out of it to safety."
 summary: "Video filmed after a deadly train crash in southern Spain shows a damaged train with a passenger climbing out of it to safety."
 slug: "watch-footage-inside-spanish-train-as-passengers-evacuate-from-crash"
