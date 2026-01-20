@@ -1,0 +1,21 @@
+---
+title: "Prince Harry returns to U.K. to be in court for case accusing tabloids of illegal snooping - CBS News"
+date: 2026-01-20
+description: "Prince Harry returns to U.K. to be in court for case accusing tabloids of illegal snooping&nbsp;&nbsp;CBS NewsPrince Harry v Daily Mail live: Prince Harry and Liz Hurley in court for second day&nbsp;&nbsp;BBCPrince Harry feels targeted for ‘standing up’ to Daily Mail publisher, court hears&nbsp;&nbsp;The GuardianPrince Harry vs. the Daily Mail: The British privacy trial starts&nbsp;&nbsp;CNNTrial opens in Prince Harry’s case alleging illegal acts by Daily Mail&nbsp;&nbsp;The Washington Pos..."
+summary: "Prince Harry returns to U.K. to be in court for case accusing tabloids of illegal snooping&nbsp;&nbsp;CBS NewsPrince Harry v Daily Mail live: Prince Harry and Liz Hurley in court for second day&nbsp;&nbsp;BBCPrince Harry feels targeted for ‘standing up’ to Daily Mail publisher, court hears&nbsp;&nbsp;The GuardianPrince Harry vs. the Daily Mail: The British privacy trial starts&nbsp;&nbsp;CNNTrial opens in Prince Harry’s case alleging illegal acts by Daily Mail&nbsp;&nbsp;The Washington Pos..."
+slug: "prince-harry-returns-to-u-k-to-be-in-court-for-case-accusing-tabloids-of-illegal-snooping-cbs-news"
+image: ''
+link: 'https://news.google.com/rss/articles/CBMirAFBVV95cUxPeUlZVFhidENiUl9kWnJSenVyVkpIVTNwQW5RaEtwSzQxM1Q3dTZLN3M5MkVsenVIRzRrV2xuVjZfQ0MzU0QtbWtGckFNZGdJQ1VwNWZzS1J2YmpBMFVod0xfNmlSQldFT2dhTnBSM044R0ZoY0tDazNUZVdEOWt6enpkbFQyVWgxZEV6ai1wQ2JqclVpOFAzRFhsOEdvQjg1REpfRUVxOGZNbTRF0gGyAUFVX3lxTE92MW00amFVdEV0YjAxVkJqSEdJU0l6a3dlcVlseUVkUHZDUUFlSk9kR3R2Y1ROak1fYWtkZHNuYTMxcDFfWkMtRlc0ZW9TVVhHc2EyTVppNmxHTDV1R21KTFFJSTllNnFialpPZVFSTDg3Z1dwdEpOUHR2S1pmN3hWUGdKMzNwOHN2UWxMUThtZFZtWTFPb1dJMHFON3lGcV8zZ1p4ZDNzNnVqeV9XeHltOWc?oc=5'
+source: 'https://news.google.com/rss/topics/CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx1YlY4U0FtVnVHZ0pWVXlnQVAB?hl=en-US&gl=US&ceid=US:en'
+categories:
+- 'news.google.com'
+tags:
+- 'accusing'
+- 'tabloids'
+- 'snooping'
+- 'returns'
+- 'illegal'
+
+draft: false
+---
+<ol><li><a href="https://news.google.com/rss/articles/CBMirAFBVV95cUxPeUlZVFhidENiUl9kWnJSenVyVkpIVTNwQW5RaEtwSzQxM1Q3dTZLN3M5MkVsenVIRzRrV2xuVjZfQ0MzU0QtbWtGckFNZGdJQ1VwNWZzS1J2YmpBMFVod0xfNmlSQldFT2dhTnBSM044R0ZoY0tDazNUZVdEOWt6enpkbFQyVWgxZEV6ai1wQ2JqclVpOFAzRFhsOEdvQjg1REpfRUVxOGZNbTRF0gGyAUFVX3lxTE92MW00amFVdEV0YjAxVkJqSEdJU0l6a3dlcVlseUVkUHZDUUFlSk9kR3R2Y1ROak1fYWtkZHNuYTMxcDFfWkMtRlc0ZW9TVVhHc2EyTVppNmxHTDV1R21KTFFJSTllNnFialpPZVFSTDg3Z1dwdEpOUHR2S1pmN3hWUGdKMzNwOHN2UWxMUThtZFZtWTFPb1dJMHFON3lGcV8zZ1p4ZDNzNnVqeV9XeHltOWc?oc=5" target="_blank">Prince Harry returns to U.K. to be in court for case accusing tabloids of illegal snooping</a>&nbsp;&nbsp;<font color="#6f6f6f">CBS News</font></li><li><a href="https://news.google.com/rss/articles/CBMiVEFVX3lxTFBCRS1LU3RLLVRSLVduOFRJcVNoNXYwRGVmbkNacy1vdW1UMk1SMGwzTmR0TGZFTmNySWFvRUtBMHFNSWpXQzVhY3FQQ2lqSzBaZEJoQg?oc=5" target="_blank">Prince Harry v Daily Mail live: Prince Harry and Liz Hurley in court for second day</a>&nbsp;&nbsp;<font color="#6f6f6f">BBC</font></li><li><a href="https://news.google.com/rss/articles/CBMinwFBVV95cUxQRE95cFVjOUhhNG4wR3lWeUtQOHYtRnFnNDh6OFMzOWhreFUxcXU2dW01UGc1QjBxSDNWSWRvNFhuVlhBWjNjMXJYS29URGs1dmVDRUxOM2NZaHFhRC1UZ2xpcDFFNG5JT1J6SjFaZlBDMjl1SnliMTBuMVlmT1VHLXJOckF0Q2RIUzN5VEVwLVhxOWJHbkdtYVVSa3RpWUU?oc=5" target="_blank">Prince Harry feels targeted for ‘standing up’ to Daily Mail publisher, court hears</a>&nbsp;&nbsp;<font color="#6f6f6f">The Guardian</font></li><li><a href="https://news.google.com/rss/articles/CBMigwFBVV95cUxPYnB4VXNxMm0zMGdyVHl5SDl2ekFtQ3NyX0RCTnp6X1l1WE9tS1VFRElWWEhNZnNQejk5UldhQ09RMEtfLWVGcTM5OUpMekJDV0hvQXFFazJ0S001dl9MTkhOdjFCMGE3b2hob3dhY2xQNnEwVUhvbmk2V3VLQmw1TGllZw?oc=5" target="_blank">Prince Harry vs. the Daily Mail: The British privacy trial starts</a>&nbsp;&nbsp;<font color="#6f6f6f">CNN</font></li><li><a href="https://news.google.com/rss/articles/CBMiiAFBVV95cUxQOElEY2FWcUxudnN6anc0TngyNFVTenJua2piWFpJMlBidjdSSlVxVWZvTEZUbEo5cFpTSHZuSFBBcjRjRjZ5MWlyQmNWQW1IUVFKOXJ4MmJXY2t4aUdlNnF2TVVBVkVXcldwenM1aDBFQlh0UjBGbmxLZ1JLMGcxR0Y5SUVYSDhq?oc=5" target="_blank">Trial opens in Prince Harry’s case alleging illegal acts by Daily Mail</a>&nbsp;&nbsp;<font color="#6f6f6f">The Washington Post</font></li></ol>
