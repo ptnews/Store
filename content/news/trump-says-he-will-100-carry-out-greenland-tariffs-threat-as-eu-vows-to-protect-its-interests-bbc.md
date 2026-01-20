@@ -1,0 +1,21 @@
+---
+title: "Trump says he will '100%' carry out Greenland tariffs threat, as EU vows to protect its interests - BBC"
+date: 2026-01-20
+description: "Trump says he will '100%' carry out Greenland tariffs threat, as EU vows to protect its interests&nbsp;&nbsp;BBCTrump says he ‘doesn’t care about the Nobel Prize’ as he ramps up Greenland pressure&nbsp;&nbsp;CNNTrump declines to say whether he would use force to seize Greenland&nbsp;&nbsp;The HillTrump’s Letter to Norway Should Be the Last Straw&nbsp;&nbsp;The AtlanticTrump warns US can no longer think ‘purely of peace’ as he pushes for Greenland control&nbsp;&nbsp;Fox News"
+summary: "Trump says he will '100%' carry out Greenland tariffs threat, as EU vows to protect its interests&nbsp;&nbsp;BBCTrump says he ‘doesn’t care about the Nobel Prize’ as he ramps up Greenland pressure&nbsp;&nbsp;CNNTrump declines to say whether he would use force to seize Greenland&nbsp;&nbsp;The HillTrump’s Letter to Norway Should Be the Last Straw&nbsp;&nbsp;The AtlanticTrump warns US can no longer think ‘purely of peace’ as he pushes for Greenland control&nbsp;&nbsp;Fox News"
+slug: "trump-says-he-will-100-carry-out-greenland-tariffs-threat-as-eu-vows-to-protect-its-interests-bbc"
+image: ''
+link: 'https://news.google.com/rss/articles/CBMiWkFVX3lxTFB6MG5vVExqaWRDTnpYT19mM3lwZDZtVkVCQ0lTZ0hTckZvdWV6ZFR3MUkxV2xyMmN4akFFQUw2SkFXenBzWFhpZlVlNTAwdmZpUXRZaVYzZWFHUdIBX0FVX3lxTE1JU29TaGlwTWlwOXZqMHpDdFcwQk4wWllCQzA2VEdQZE5nakpYMXA5a3BEQjVHMVJqWGpYT1VNSFprWjAwQnpNU2g1TEMtVERCMm9xUTRsQXQtbjlVRnZn?oc=5'
+source: 'https://news.google.com/rss/topics/CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx1YlY4U0FtVnVHZ0pWVXlnQVAB?hl=en-US&gl=US&ceid=US:en'
+categories:
+- 'news.google.com'
+tags:
+- 'greenland'
+- 'interests'
+- 'tariffs'
+- 'protect'
+- 'threat'
+
+draft: false
+---
+<ol><li><a href="https://news.google.com/rss/articles/CBMiWkFVX3lxTFB6MG5vVExqaWRDTnpYT19mM3lwZDZtVkVCQ0lTZ0hTckZvdWV6ZFR3MUkxV2xyMmN4akFFQUw2SkFXenBzWFhpZlVlNTAwdmZpUXRZaVYzZWFHUdIBX0FVX3lxTE1JU29TaGlwTWlwOXZqMHpDdFcwQk4wWllCQzA2VEdQZE5nakpYMXA5a3BEQjVHMVJqWGpYT1VNSFprWjAwQnpNU2g1TEMtVERCMm9xUTRsQXQtbjlVRnZn?oc=5" target="_blank">Trump says he will '100%' carry out Greenland tariffs threat, as EU vows to protect its interests</a>&nbsp;&nbsp;<font color="#6f6f6f">BBC</font></li><li><a href="https://news.google.com/rss/articles/CBMifkFVX3lxTE5KdlozbzU0enRwRzNIRkpubUc3X192TURvWlN5VlBNZ1VQajRPLXNrdEhZQ3dyVGljc0tvWmMzMkhvYTNHVHN2LURkbFQ2dmY4eXpVeU1tMmhDZ05qdXZhU0V5dTV4R3JxRDVOU2k2bi1Vd3ZWYTBfbEhSZWJfdw?oc=5" target="_blank">Trump says he ‘doesn’t care about the Nobel Prize’ as he ramps up Greenland pressure</a>&nbsp;&nbsp;<font color="#6f6f6f">CNN</font></li><li><a href="https://news.google.com/rss/articles/CBMiiAFBVV95cUxNYThNRjNnSjEtLTM1a2xTNmhycm9OZV9Jcmo3c1VkcEdzTWlKZTYybTNieFZteXJxY1puVEttV1ZoQVN3VVl6Mnc4VzF1ZUEtVGtiRktmd1Y1Z1VBZkdZNndTZWJxc1hBRnNGc1hIV1lxWEp2OUlLNUZZTkwxZjBNaWRpaklOVU1n0gGOAUFVX3lxTE9JbEh0dXdxa3pGUzh6MWVsX3dJdHh2cGJnOHBQMnBsUDIwWWZ5Z2dTNXNtOUVSMmtIYmpzQngzUWRjTEdlS3BHX0M1ak5oVWtkSnNBS1gySjJKOW0xdWhqa3ctWFd2M3VSUFJMdVA2eHp2blZxV2UxdG1sUTZJeFhIRFVIRkhPVWEwRnVGVHc?oc=5" target="_blank">Trump declines to say whether he would use force to seize Greenland</a>&nbsp;&nbsp;<font color="#6f6f6f">The Hill</font></li><li><a href="https://news.google.com/rss/articles/CBMifEFVX3lxTE1NVVVDWlhTLXVCV0RXSlp0YV96QndxYjRhcnJBUnBGY3E3Tm1sRFFpVnBvbEV6VnQxM090eW9uYURlMnptMWtSVXhINW9oUHpiVXpPbmxuUjVqRU90R1h3UVJUMDJEREt5OXZCN3B2M1ZtV1ZxVEpVaVRsWmQ?oc=5" target="_blank">Trump’s Letter to Norway Should Be the Last Straw</a>&nbsp;&nbsp;<font color="#6f6f6f">The Atlantic</font></li><li><a href="https://news.google.com/rss/articles/CBMirAFBVV95cUxPbkNlZ2dieVV1djRFdG1rZHA5WGhlMHdkalpsZGpzSlc2RGFjNFdjbFFPYmx6bWo5eGVsWUFvZVY5Zm56WlV1MnVBem1YMUFHVXNZZERZelVIam5ldkF4Z3N3Y0xTN1pTMXhneThZLU02MkwtUWpNZERWNm9uUzVyRE5GMHpZTlNoNl9zWGVBbVlTT2p2M2QtM1pvbjNVREpaemJ6NW10ejhHc2Nf0gGyAUFVX3lxTE5yVkJXcHJKNFZBWGV0by0xb3NGQmpnc0dROC0zZzJYSk13U2NtNDQ3aFViNVdDaHEwX2dVX3RMdlNzRzgxMVJEVk5iVXk4c2d0RnljUG1MMGNjak9GX0hHejVfUUVaZ0FvdXdXdkl3dlp2YlZPcmp3eFYtZmhxUDQzSDNSLXhiTVdGYkVrcG9KcEJldHM1T2pqbnBnbXZQZ1R4MlBfWG5DNF9PRkphY0cxWWc?oc=5" target="_blank">Trump warns US can no longer think ‘purely of peace’ as he pushes for Greenland control</a>&nbsp;&nbsp;<font color="#6f6f6f">Fox News</font></li></ol>

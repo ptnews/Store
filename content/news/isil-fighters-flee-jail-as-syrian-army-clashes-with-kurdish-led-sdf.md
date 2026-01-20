@@ -1,5 +1,5 @@
 ---
-title: "ISIL fighters flee jail as Syrian Army clashes with Kurdish-led SDF"
+title: "ISIL fighters flee jail as Syrian army clashes with Kurdish-led SDF"
 date: 2026-01-19
 description: "The Syrian army has announced a curfew after the fighters escaped from prison amid clashes."
 summary: "The Syrian army has announced a curfew after the fighters escaped from prison amid clashes."
