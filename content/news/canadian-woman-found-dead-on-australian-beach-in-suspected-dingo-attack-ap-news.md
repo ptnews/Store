@@ -1,0 +1,21 @@
+---
+title: "Canadian woman found dead on Australian beach in suspected dingo attack - AP News"
+date: 2026-01-20
+description: "Canadian woman found dead on Australian beach in suspected dingo attack&nbsp;&nbsp;AP NewsCanadian woman found dead surrounded by dingoes on Australian beach&nbsp;&nbsp;BBCCanadian woman found dead on popular Australian beach surrounded by wild dogs&nbsp;&nbsp;CBS NewsAustralia shuts down beaches after 4 shark attacks; woman found dead surrounded by dingoes&nbsp;&nbsp;NBC NewsCampsites closed as police investigate possible dingo link to death of Canadian on Australian tourist island K’gari&nbs..."
+summary: "Canadian woman found dead on Australian beach in suspected dingo attack&nbsp;&nbsp;AP NewsCanadian woman found dead surrounded by dingoes on Australian beach&nbsp;&nbsp;BBCCanadian woman found dead on popular Australian beach surrounded by wild dogs&nbsp;&nbsp;CBS NewsAustralia shuts down beaches after 4 shark attacks; woman found dead surrounded by dingoes&nbsp;&nbsp;NBC NewsCampsites closed as police investigate possible dingo link to death of Canadian on Australian tourist island K’gari&nbs..."
+slug: "canadian-woman-found-dead-on-australian-beach-in-suspected-dingo-attack-ap-news"
+image: ''
+link: 'https://news.google.com/rss/articles/CBMinwFBVV95cUxNbzlFQTI3T19lTGdRZ3dKaE8yR29ianlXN3RkNDBHVF9Qa1otaFJ4clRJRzB0WFh1S0RyamF4akNMdDJLbE15MWN2MGluYlRWWThqUGF0UlJ6dmVkV25GZVRqUlJqd20zVGhtblJUSFFucWtqQzJmUVhMN0ctVzlOS2tlSi1zZXRzbkMxaDlFazU4NHFkV3ZkemxrZDFsekE?oc=5'
+source: 'https://news.google.com/rss/topics/CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx1YlY4U0FtVnVHZ0pWVXlnQVAB?hl=en-US&gl=US&ceid=US:en'
+categories:
+- 'news.google.com'
+tags:
+- 'australian'
+- 'suspected'
+- 'canadian'
+- 'attack'
+- 'woman'
+
+draft: false
+---
+<ol><li><a href="https://news.google.com/rss/articles/CBMinwFBVV95cUxNbzlFQTI3T19lTGdRZ3dKaE8yR29ianlXN3RkNDBHVF9Qa1otaFJ4clRJRzB0WFh1S0RyamF4akNMdDJLbE15MWN2MGluYlRWWThqUGF0UlJ6dmVkV25GZVRqUlJqd20zVGhtblJUSFFucWtqQzJmUVhMN0ctVzlOS2tlSi1zZXRzbkMxaDlFazU4NHFkV3ZkemxrZDFsekE?oc=5" target="_blank">Canadian woman found dead on Australian beach in suspected dingo attack</a>&nbsp;&nbsp;<font color="#6f6f6f">AP News</font></li><li><a href="https://news.google.com/rss/articles/CBMiWkFVX3lxTE0zSUhzYnRKb3ZTNDc2TkQwWWJUMFRJZUZGTEJYLXVDSkg5MXlvc2xtN2JlZnVnRU1pR01Ccm90cjc0UWU3Z1p1ZE9fdWstVW9vTkJyNDF6OE9DZw?oc=5" target="_blank">Canadian woman found dead surrounded by dingoes on Australian beach</a>&nbsp;&nbsp;<font color="#6f6f6f">BBC</font></li><li><a href="https://news.google.com/rss/articles/CBMif0FVX3lxTE1Bc2ZKR1FJNWZrRGg0RHFfcVdrdEZTMWNxZHRMNXloVWJEdzd4STVlZ3h6bTFfTDhxWEJOV2hqbzJVTXRlQTd3YXpXX0JQX0ZMa2Y5b1dWV3VRT2NIbmZpNWUyX016TXNjSHlMb1NXUGY3Zmk5bFl2N3JyWS0yODDSAYQBQVVfeXFMT2NWejNqYmFnT2xaSmNDV282YjZ4V0xXWkRUck5YTVBhRXpSR3UwQkMwUWkwcTR6dWZKSkVjQ1JLTlVrenI1WGJnM1ZUcHh6X3hzbXdCY2tmMDJUYkxMNXA0MnJ1QU5yY0dNeG90c2tjQm9JSFI2WnQ0SE5paTJzYWJOUUdZ?oc=5" target="_blank">Canadian woman found dead on popular Australian beach surrounded by wild dogs</a>&nbsp;&nbsp;<font color="#6f6f6f">CBS News</font></li><li><a href="https://news.google.com/rss/articles/CBMipwFBVV95cUxNYjVCaldyRGJnWGFodGlLbllaUTNFZmEzcndpOXF1aTc3WnlHUF9TNXlHdjdEQzFkY1RabE11U25HVFBzQ0QxUTR2N3lKUUFxdUJuY202OHU3b1hCb3Rac2JnTkxSaklGYkxfR25oY3RpTF9SeHltVjdGcmV3X1VtczY1dXE2dEczS2ZMS0hWdjdBSzdsVWstZUJES3hpTzdOY2diYkVORdIBVkFVX3lxTFBaMlhURE05OHItMS1MUld0VHlGZW9JYkVQMlVzdDg3Wno2TEtzYm5BSEVBTHZFYXU4YllpZ1FDaVpiSWFIRlBFOXlma1V3bXJESDlGaDh3?oc=5" target="_blank">Australia shuts down beaches after 4 shark attacks; woman found dead surrounded by dingoes</a>&nbsp;&nbsp;<font color="#6f6f6f">NBC News</font></li><li><a href="https://news.google.com/rss/articles/CBMi_gFBVV95cUxNWG5paEhjTjZHUmFVX25hZkgzeUxKWjR5Z2dVM0d1UGduM3BwSDIxazIxVkNfME9RR3VCQmhlQm5oSlpheFpKV2JUUlAzRkMxZkVVekg0WXk2S051NGF1Yk5fdUJLSk1wME9YRDNOcExNeVFSU3daSzZfVzdmMGV6d05GckVRZVkyYThlVXZ3bWUwU3JlNFZQTGdOa1hTZDJ4dmoyQTZWcW4yOTV1Z1haNHplMDJrTUtqeGd2NHBWUnNxdm8wNDlHa1I3Q1pmMC1PZnBNTW1MemlKdVJDRFhhMzdaSE81Ri1VMERwQXdONTF0MHhiQWVTamRqT2xfQQ?oc=5" target="_blank">Campsites closed as police investigate possible dingo link to death of Canadian on Australian tourist island K’gari</a>&nbsp;&nbsp;<font color="#6f6f6f">The Guardian</font></li></ol>
