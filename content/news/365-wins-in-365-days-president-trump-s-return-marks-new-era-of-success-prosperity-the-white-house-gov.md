@@ -1,0 +1,21 @@
+---
+title: "365 WINS IN 365 DAYS: President Trump’s Return Marks New Era of Success, Prosperity - The White House (.gov)"
+date: 2026-01-20
+description: "365 WINS IN 365 DAYS: President Trump’s Return Marks New Era of Success, Prosperity&nbsp;&nbsp;The White House (.gov)Fact-Checking Trump’s Misleading Claims After One Year Back in Office&nbsp;&nbsp;The New York TimesExecutive orders, pardons and golf: Trump's first year of his second term by the numbers&nbsp;&nbsp;NBC NewsLess personnel drama but still sky-high turnover one year into Trump’s new term&nbsp;&nbsp;NPRNothing but mourning for the anniversary of Trump 2.0&nbsp;&nbsp;The Hill"
+summary: "365 WINS IN 365 DAYS: President Trump’s Return Marks New Era of Success, Prosperity&nbsp;&nbsp;The White House (.gov)Fact-Checking Trump’s Misleading Claims After One Year Back in Office&nbsp;&nbsp;The New York TimesExecutive orders, pardons and golf: Trump's first year of his second term by the numbers&nbsp;&nbsp;NBC NewsLess personnel drama but still sky-high turnover one year into Trump’s new term&nbsp;&nbsp;NPRNothing but mourning for the anniversary of Trump 2.0&nbsp;&nbsp;The Hill"
+slug: "365-wins-in-365-days-president-trump-s-return-marks-new-era-of-success-prosperity-the-white-house-gov"
+image: ''
+link: 'https://news.google.com/rss/articles/CBMiwwFBVV95cUxPbDcxRW5hQmI5VHN3TU5TWlYzQXNNalN0c2tjaTlnLUM4MTN1RGRHSVgwUnEtY2p5aWItNE9wUTZMdDhmNFJXRDE2THZPNmZlTmk5cGFmRjFrRFR0Y05CRGJBR2xtQkYyVVBXVnVpUkg1alZaaE5HZWFFR0dRSEpKQkNteXBWZ3NYVWNCVElwdGNyd0NweldiT0RVdGlxZnI1NFhQZFRmNE5WcE82ZlpRazlDZTRsWmx3c3ZDZG5acVBRSTg?oc=5'
+source: 'https://news.google.com/rss/topics/CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx1YlY4U0FtVnVHZ0pWVXlnQVAB?hl=en-US&gl=US&ceid=US:en'
+categories:
+- 'news.google.com'
+tags:
+- 'prosperity'
+- 'president'
+- 'success'
+- 'return'
+- 'trump'
+
+draft: false
+---
+<ol><li><a href="https://news.google.com/rss/articles/CBMiwwFBVV95cUxPbDcxRW5hQmI5VHN3TU5TWlYzQXNNalN0c2tjaTlnLUM4MTN1RGRHSVgwUnEtY2p5aWItNE9wUTZMdDhmNFJXRDE2THZPNmZlTmk5cGFmRjFrRFR0Y05CRGJBR2xtQkYyVVBXVnVpUkg1alZaaE5HZWFFR0dRSEpKQkNteXBWZ3NYVWNCVElwdGNyd0NweldiT0RVdGlxZnI1NFhQZFRmNE5WcE82ZlpRazlDZTRsWmx3c3ZDZG5acVBRSTg?oc=5" target="_blank">365 WINS IN 365 DAYS: President Trump’s Return Marks New Era of Success, Prosperity</a>&nbsp;&nbsp;<font color="#6f6f6f">The White House (.gov)</font></li><li><a href="https://news.google.com/rss/articles/CBMilAFBVV95cUxNcEJ3NHZXOFpYelhKbEYtSjFNNmFHaTV1MmNsNWdoeG1YNi1xejZKSlRkd2RlQ0xVZ3pDTXNMM3F6bkNDQ3NxOVpqOTk3YUJzTHN1NzVubkN0RnYtM1lVYllGN3NKQkh2WEc1NFRvSmRHRWM1TDJyMkZ5X1VzaTBCZFctSk9PYkk5aUVVRXRVRDFMQ2FP?oc=5" target="_blank">Fact-Checking Trump’s Misleading Claims After One Year Back in Office</a>&nbsp;&nbsp;<font color="#6f6f6f">The New York Times</font></li><li><a href="https://news.google.com/rss/articles/CBMiwgFBVV95cUxOOUpDeS1OQVIwN0VmQ1VETWVCaEZrQVlhaUptTE1Udm9oUXdyeVBabnZhYnlFV1dVcmpfYTBfeHJQa2MxQnVnU1ZwWm4tZVVHM3BIRmZYVGxTQ2haVno5STRUN25JaDJjZEtYWHNTbDZTYzZjWG1zUVZpc0FrcFIxSktHVTVqNW84Y19iS3RnLXJXVWlvaDBnX3lyREloRXgyNGhRS0JPTVFUUlRCZEZoUjgyZkFWN2FCWGUzTGphbGdOZw?oc=5" target="_blank">Executive orders, pardons and golf: Trump's first year of his second term by the numbers</a>&nbsp;&nbsp;<font color="#6f6f6f">NBC News</font></li><li><a href="https://news.google.com/rss/articles/CBMiwAFBVV95cUxNQ3VoRVJSaGg3WV8yeC0ya2tQblU0cXR1c25BdS1kOVYzWDEzc3pFNzNwNndDMi1kRFpYU3VfLVVFSzhtNm9uS3IzVGZYOFZKNVJuTVJvOVNuZTFPRW5WU1U2cnNDZk5ETmVCV3NCejc0OFlwa3Fna1pzaEkwSThVNmpUczd3ZGZOMG81SjFfOVBfbDZCUHZIS0pxOThBancxQUF5aW5OTzBRWnBZODlPQ0gwQUtQYUJteURVbjkyaGE?oc=5" target="_blank">Less personnel drama but still sky-high turnover one year into Trump’s new term</a>&nbsp;&nbsp;<font color="#6f6f6f">NPR</font></li><li><a href="https://news.google.com/rss/articles/CBMigAFBVV95cUxPUGRnY3RLSW9Lb251Sjc1clQtMnY3aE9GZ1NvelpVQXZUU1ppRzhJWEYwdnpNSVY3N3R6Xzh4V1JPRGxsUnh4ZDlvZ3NNU0RIa0hCWE1idmVvVTFrVmc2YWJFTkhKZEcyOC13NUNIN2pPNjFDNmxVZ01mWVc4UFA1QdIBhgFBVV95cUxNY0ZnbUxwbEJqV25jZENiODlNbEdZZmVHb050OURQWk9hR2dBT0lGZjZpalpaQnJoWFJPTEFUOEpDWHUwMG8zc2FTaG1Va2xFTUY1OHFLTUtPTDVJR09YNUhPWFpBZVRqOE9iem82eGlnTDFmTFU2dTNFVmhtQWNRQ2J2Wl9XUQ?oc=5" target="_blank">Nothing but mourning for the anniversary of Trump 2.0</a>&nbsp;&nbsp;<font color="#6f6f6f">The Hill</font></li></ol>

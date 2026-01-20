@@ -1,0 +1,21 @@
+---
+title: "Security alert issued for tropical destination after major gangs attack police"
+date: 2026-01-20
+description: "As gang violence escalates, the U.S. Embassy has issued a security alert for Americans in Guatemala. Travelers have been advised to use increased caution."
+summary: "As gang violence escalates, the U.S. Embassy has issued a security alert for Americans in Guatemala. Travelers have been advised to use increased caution."
+slug: "security-alert-issued-for-tropical-destination-after-major-gangs-attack-police"
+image: ''
+link: 'https://www.foxnews.com/travel/security-alert-issued-tropical-destination-after-major-gangs-attack-police'
+source: 'https://feeds.foxnews.com/foxnews/latest'
+categories:
+- 'feeds.foxnews.com'
+tags:
+- 'destination'
+- 'security'
+- 'tropical'
+- 'issued'
+- 'attack'
+
+draft: false
+---
+<p>The U.S. Embassy in Guatemala has issued a <a href="https://www.foxnews.com/category/travel/general/travel-safety" target="_blank" rel="noopener">security alert</a> warning Americans to use "increased caution" when in the Central American country. </p><p>"The U.S. Embassy has lifted the shelter-in-place order for their staff," says the alert, which was issued Sunday. "The situation remains tense with coordinated, armed attacks on police in several zones of Guatemala City."</p><p>The Embassy recommends that Americans monitor local media for updates, avoid crowds and demonstrations, and aim to keep a "low profile."</p><p><a href="https://www.foxnews.com/travel/vacation-destination-slapped-increased-travel-advisory-due-violent-crime"><strong>VACATION DESTINATION SLAPPED WITH INCREASED TRAVEL ADVISORY DUE TO 'VIOLENT CRIME'</strong></a></p><p>Travelers are advised to review personal security plans and minimize unnecessary movements.</p><p>The alert comes as <a href="https://www.foxnews.com/category/topic/ms-13" target="_blank" rel="noopener">gangs have attacked Guatemalan police</a> after seizing control of three prisons in coordinated riots, The Associated Press (AP) reported.</p><p>Over 2.9 million international visitors traveled to Guatemala between January and November 2025, according to the Guatemalan Tourism Institute.</p><p>President Bernardo Arévalo issued an emergency declaration after <a href="https://www.foxnews.com/category/us/crime/organized-crime" target="_blank" rel="noopener">prisoners took 43 guards hostage,</a> killing 10 officers.</p><p><a href="https://www.foxnews.com/lifestyle" target="_blank" rel="noopener"><strong>CLICK HERE FOR MORE LIFESTYLE STORIES</strong></a></p><p>There were "coordinated actions by self-named maras or gangs against <a href="https://www.foxnews.com/category/politics/executive/national-security" target="_blank" rel="noopener">state security forces</a>, including armed attacks against civilian authorities," the declaration noted. </p><p>The violence has been linked to major criminal gangs such as Barrio 18 and Mara Salvatrucha (MS-13), both labeled as terrorist organizations by Guatemala and the United States, according to AP.</p><p>At the time, the U.S. Embassy issued a statement to AP condemning the attacks.</p><p><a href="https://www.foxnews.com/newsletters?cmpid=fnfirstnl" target="_blank" rel="noopener"><strong>CLICK HERE TO SIGN UP FOR OUR LIFESTYLE NEWSLETTER</strong></a></p><p>"These terrorists, as well as those who cooperate with them or are linked to them, have no place in our hemisphere," the statement read.</p><p>"The security of the Guatemalan people and the stability of our hemisphere must prevail," it continued.</p><p><a href="https://www.foxnews.com/category/lifestyle/quizzes" target="_blank" rel="noopener"><strong>TEST YOURSELF WITH OUR LATEST LIFESTYLE QUIZ</strong></a></p><p>"We reaffirm our support for Guatemala’s security forces to curb the violence."</p><p>The U.S. State Department lists Guatemala at "Level 3: Reconsider Travel" status. </p><p>The State Department has four travel advisory levels to help travelers assess safety risks before visiting other countries.</p><p>The advisory levels are: Level 1 – Exercise Normal Precautions; Level 2 – Exercise Increased Caution; Level 3 – Reconsider Travel; and Level 4 – Do Not Travel.</p><p><i>The Associated Press contributed reporting. </i></p>

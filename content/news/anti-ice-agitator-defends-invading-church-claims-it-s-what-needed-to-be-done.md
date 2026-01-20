@@ -1,0 +1,21 @@
+---
+title: "Anti-ICE agitator defends invading church, claims 'it's what needed to be done'"
+date: 2026-01-20
+description: "Anti-ICE agitators disrupted a Minnesota church service, with a Black Lives Matter leader claiming it &quot;needed to be done&quot; after a pastor was linked to ICE."
+summary: "Anti-ICE agitators disrupted a Minnesota church service, with a Black Lives Matter leader claiming it &quot;needed to be done&quot; after a pastor was linked to ICE."
+slug: "anti-ice-agitator-defends-invading-church-claims-it-s-what-needed-to-be-done"
+image: ''
+link: 'https://www.foxnews.com/us/anti-ice-agitator-defends-invading-church-claims-its-what-needed-done'
+source: 'https://feeds.foxnews.com/foxnews/latest'
+categories:
+- 'feeds.foxnews.com'
+tags:
+- 'agitator'
+- 'invading'
+- 'defends'
+- 'church'
+- 'claims'
+
+draft: false
+---
+<p>An anti-ICE agitator has defended disrupting a <a href="https://www.foxnews.com/category/us/us-regions/midwest/minnesota" target="_blank" rel="noopener">Minnesota church</a> during a worship service on Sunday, claiming it "needed to be done."</p><p>Chauntyll Allen, who leads Black Lives Matter Twin Cities and was among the group invading the church, claimed to TMZ that ICE was "terrorizing our women and our children" and described the shooting death of 37-year-old Renee Nicole Good by an ICE officer earlier this month as "the most graphic murder."</p><p>She said the decision to storm the <a href="https://www.foxnews.com/category/us/minneapolis-st-paul" target="_blank" rel="noopener">Cities Church in St. Paul</a> came after they learned it has a pastor named David Easterwood, who shares the same name as the acting director of ICE's St. Paul field office.</p><p>"And then we have the head of this whole operation standing in a pulpit preaching to a congregation every Sunday morning," she said of Easterwood and his apparent connection to ICE. "And that was really just not OK for us."</p><p><a href="https://www.foxnews.com/us/ice-releases-photos-after-violent-minneapolis-protests-leave-multiple-alleged-agitators-arrested" target="_blank" rel="noopener"><strong>ICE RELEASES PHOTOS AFTER VIOLENT MINNEAPOLIS PROTESTS LEAVE MULTIPLE ALLEGED AGITATORS ARRESTED</strong></a></p><p>Easterwood was in the church at the time of the protest. The <a href="https://www.foxnews.com/politics/doj-launches-civil-rights-investigation-after-minnesota-agitators-allegedly-storms-church" target="_blank" rel="noopener">Justice Department said it</a> is investigating the incident. </p><p>"I believe that’s what needed to be done to get the message across," Allen said in defense of storming the church. "I mean my mother’s a pastor and so I grew up in Christianity, I grew up in the church. And one of the things I remember about Jesus Christ himself is that when things weren’t going right in the church, he went in and he flipped tables."</p><p>Video shows a mob of anti-ICE agitators <a href="https://www.foxnews.com/us/anti-ice-mob-storms-minnesota-church-over-pastors-alleged-ties-immigration-enforcement" target="_blank" rel="noopener">storming the church and</a> chanting "Justice for Renee Good" inside the sanctuary.</p><p><a href="https://www.foxnews.com/politics/christian-leaders-demand-justice-after-anti-ice-agitators-storm-st-paul-church-unspeakably-evil" target="_blank" rel="noopener"><strong>CHRISTIAN LEADERS DEMAND JUSTICE AFTER ANTI-ICE AGITATORS STORM ST. PAUL CHURCH: 'UNSPEAKABLY EVIL'</strong></a></p><p>In another clip, the person filming says demonstrators positioned themselves in the middle of the sanctuary as the pastor was speaking. The person filming then described the disruption as a "clandestine mission" and claimed agitators had just learned one of the pastors at the church was connected to ICE.</p><p>Anti-ICE agitators in Minneapolis have taken to the streets where they have clashed with authorities in the wake of Good's death.</p><p>Federal officials have said agents were attempting to make arrests when Good tried to use her vehicle as a weapon against officers, prompting an <a href="https://www.foxnews.com/us/911-transcripts-documents-detail-chaotic-scene-after-ice-agent-fatally-shot-renee-good" target="_blank" rel="noopener">ICE agent to fire</a> in self-defense.</p><p><i>Fox News' Louis Casiano and Greg Wehner contributed to this report.</i></p>
