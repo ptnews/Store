@@ -1,0 +1,21 @@
+---
+title: "Good Samaritan stops Florida maniac attacking child with knife at school bus stop after jail release: police"
+date: 2026-01-21
+description: "A Florida man released from jail days earlier allegedly attacked a child at a school bus stop with a knife before being restrained by brave bystanders."
+summary: "A Florida man released from jail days earlier allegedly attacked a child at a school bus stop with a knife before being restrained by brave bystanders."
+slug: "good-samaritan-stops-florida-maniac-attacking-child-with-knife-at-school-bus-stop-after-jail-release-police"
+image: ''
+link: 'https://www.foxnews.com/us/florida-maniac-attacks-child-knife-school-bus-stop-days-after-jail-release-police-say'
+source: 'https://feeds.foxnews.com/foxnews/latest'
+categories:
+- 'feeds.foxnews.com'
+tags:
+- 'samaritan'
+- 'attacking'
+- 'florida'
+- 'release'
+- 'maniac'
+
+draft: false
+---
+<p>A <a href="https://www.foxnews.com/category/us/us-regions/southeast/florida" target="_blank" rel="noopener">Florida man</a> who had been released from jail just days earlier is accused of choking a child and threatening bystanders with a knife at a school bus stop, an attack that was stopped by good Samaritans before police arrived, authorities said.</p><p><a href="https://www.foxnews.com/category/us/crime/police-and-law-enforcement" target="_blank" rel="noopener">The DeLand Police Department arrested</a> Christopher Steven Schwable, 36, on Tuesday after multiple witnesses reported seeing him grab a juvenile by the throat and later pull a folding knife during a confrontation with adults who stepped in, according to <a href="https://https://www.fox35orlando.com/news/man-released-from-jail-days-earlier-accused-choking-attacking-child-knife-deland-bus-stop" target="_blank" rel="noopener">FOX 35 Orlando</a>.</p><p>Witnesses told investigators that Schwable approached a group of children waiting for a school bus and <a href="https://www.foxnews.com/category/crime" target="_blank" rel="noopener">assaulted one child</a>, prompting an adult bystander to intervene after seeing the juvenile escape.</p><p>During the confrontation, Schwable allegedly pulled a knife from his sleeve and waved it toward others, leading the bystander to strike him with a toolbox and restrain him until officers arrived.</p><p>When police reached the scene, Schwable was found on the ground with a head injury, and officers recovered a knife beneath him, according to the arrest affidavit obtained by FOX 35.</p><p>The child suffered a cut to a finger and was visibly distraught, police said. The boy is a seventh grade student at Southwestern Middle School, a spokesperson with Volusia County schools confirmed to FOX 35.</p><p><a href="https://www.foxnews.com/category/us/true-crime" target="_blank" rel="noopener"><strong>LIKE WHAT YOU'RE READING? FIND MORE ON THE TRUE CRIME HUB</strong></a></p><p>The witness who was holding Schwable down told police he was driving when he saw Schwable choking the boy and feared the boy was in immediate danger. The witness made a U-turn to intervene. Not knowing if Schwable was armed, the witness grabbed his toolbox.</p><p>The witness said he hit Schwable twice with his toolbox in self-defense when Schwable held up a knife.</p><p>Schwable was taken to a hospital for treatment before being booked into jail on a $5,000 bond. He is charged with aggravated child abuse<strong> </strong>and<strong> </strong>aggravated assault with a deadly weapon. Schwable is currently homeless, officials said.</p><p><a href="https://www.foxnews.com/tips" target="_blank" rel="noopener"><strong>SEND US A TIP HERE</strong></a></p><p>Jail and court records reviewed by FOX 35 show Schwable had been released from custody on Jan. 13<strong>,</strong> after prosecutors dropped unrelated charges including indecent exposure and possession of drug paraphernalia following three weeks in jail.</p><p><a href="https://www.foxnews.com/newsletters" target="_blank" rel="noopener"><strong>SIGN UP TO GET TRUE CRIME NEWSLETTER</strong></a></p><p>Authorities have not said whether Schwable knew the child. He remains in custody as the investigation continues. Fox News Digital has reached out to the DeLand Police Department for comment.</p>

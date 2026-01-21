@@ -1,8 +1,8 @@
 ---
 title: "Ted Cruz’s 2026 game plan: Lose weight, skip the drinks, read the Bible daily"
 date: 2026-01-21
-description: "EXCLUSIVE: Sen. Ted Cruz has three New Year’s resolutions— and he’s making it his 2026 mission to stick to them."
-summary: "EXCLUSIVE: Sen. Ted Cruz has three New Year’s resolutions— and he’s making it his 2026 mission to stick to them."
+description: "EXCLUSIVE: Sen. Ted Cruz has three New Year’s resolutions — and he’s making it his 2026 mission to stick to them."
+summary: "EXCLUSIVE: Sen. Ted Cruz has three New Year’s resolutions — and he’s making it his 2026 mission to stick to them."
 slug: "ted-cruz-s-2026-game-plan-lose-weight-skip-the-drinks-read-the-bible-daily"
 image: ''
 link: 'https://www.foxnews.com/politics/ted-cruzs-2026-game-plan-lose-weight-skip-drinks-read-bible-daily'
