@@ -1,6 +1,6 @@
 ---
 title: "France makes first interception targeting small boat crossings to UK"
-date: 2026-01-20
+date: 2026-01-21
 description: "The operation follows a change of tactics agreed amid growing pressure from the UK government to step up interventions."
 summary: "The operation follows a change of tactics agreed amid growing pressure from the UK government to step up interventions."
 slug: "france-makes-first-interception-targeting-small-boat-crossings-to-uk"

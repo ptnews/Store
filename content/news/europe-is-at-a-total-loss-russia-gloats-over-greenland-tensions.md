@@ -1,6 +1,6 @@
 ---
 title: "'Europe is at a total loss': Russia gloats over Greenland tensions"
-date: 2026-01-20
+date: 2026-01-21
 description: "The BBC's Russia editor Steve Rosenberg analyses why pro-Russian government papers are full of praise for Donald Trump's desire to buy Greenland."
 summary: "The BBC's Russia editor Steve Rosenberg analyses why pro-Russian government papers are full of praise for Donald Trump's desire to buy Greenland."
 slug: "europe-is-at-a-total-loss-russia-gloats-over-greenland-tensions"

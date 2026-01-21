@@ -1,6 +1,6 @@
 ---
 title: "Spain train crash survivors describe 'absolutely terrifying' scene"
-date: 2026-01-20
+date: 2026-01-21
 description: "Passengers recount the moment two trains collided between Málaga and Madrid on Sunday evening."
 summary: "Passengers recount the moment two trains collided between Málaga and Madrid on Sunday evening."
 slug: "spain-train-crash-survivors-describe-absolutely-terrifying-scene"

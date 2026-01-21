@@ -1,6 +1,6 @@
 ---
 title: "Twelve schoolchildren killed after bus collides with lorry in South Africa"
-date: 2026-01-20
+date: 2026-01-21
 description: "The fatal collision is just the latest in South Africa, where the road safety record is poor."
 summary: "The fatal collision is just the latest in South Africa, where the road safety record is poor."
 slug: "twelve-schoolchildren-killed-after-bus-collides-with-lorry-in-south-africa"

@@ -1,6 +1,6 @@
 ---
 title: "Surfer injured in fourth shark attack in Australian state in 48 hours"
-date: 2026-01-20
+date: 2026-01-21
 description: "Authorities are warning people to stay out of the Australian state's waterways after recent rainfall."
 summary: "Authorities are warning people to stay out of the Australian state's waterways after recent rainfall."
 slug: "surfer-injured-in-fourth-shark-attack-in-australian-state-in-48-hours"

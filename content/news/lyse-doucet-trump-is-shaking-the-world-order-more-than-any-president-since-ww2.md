@@ -1,6 +1,6 @@
 ---
 title: "Lyse Doucet: Trump is shaking the world order more than any president since WW2"
-date: 2026-01-20
+date: 2026-01-21
 description: "Trump's demands over Greenland are a rude awakening in a moment fraught with risk."
 summary: "Trump's demands over Greenland are a rude awakening in a moment fraught with risk."
 slug: "lyse-doucet-trump-is-shaking-the-world-order-more-than-any-president-since-ww2"

@@ -1,6 +1,6 @@
 ---
 title: "China demands Taliban protect its citizens after deadly Kabul blast"
-date: 2026-01-20
+date: 2026-01-21
 description: "The Islamic State group says they were behind the blast in Kabul, but police say they are still investigating the cause."
 summary: "The Islamic State group says they were behind the blast in Kabul, but police say they are still investigating the cause."
 slug: "china-demands-taliban-protect-its-citizens-after-deadly-kabul-blast"

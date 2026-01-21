@@ -1,6 +1,6 @@
 ---
 title: "Australia parliament passes gun reform and anti-hate bills after Bondi shooting"
-date: 2026-01-20
+date: 2026-01-21
 description: "The reforms are in response to Australia's worst mass shooting in decades at a Jewish festival in December."
 summary: "The reforms are in response to Australia's worst mass shooting in decades at a Jewish festival in December."
 slug: "australia-parliament-passes-gun-reform-and-anti-hate-bills-after-bondi-shooting"

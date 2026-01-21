@@ -1,6 +1,6 @@
 ---
 title: "Nigeria police deny reports of mass church abductions in north"
-date: 2026-01-20
+date: 2026-01-21
 description: "A state police commissioner said the information was \"mere falsehood... peddled by conflict entrepreneurs\"."
 summary: "A state police commissioner said the information was \"mere falsehood... peddled by conflict entrepreneurs\"."
 slug: "nigeria-police-deny-reports-of-mass-church-abductions-in-north"

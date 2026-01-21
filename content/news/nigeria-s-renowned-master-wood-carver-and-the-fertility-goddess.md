@@ -1,6 +1,6 @@
 ---
 title: "Nigeria's renowned master wood carver and the fertility goddess"
-date: 2026-01-20
+date: 2026-01-21
 description: "Kasali Akangbe Ogun, who came from a long line of wood carvers and wanted to preserve local traditions, has been buried following his death after a brief illness."
 summary: "Kasali Akangbe Ogun, who came from a long line of wood carvers and wanted to preserve local traditions, has been buried following his death after a brief illness."
 slug: "nigeria-s-renowned-master-wood-carver-and-the-fertility-goddess"

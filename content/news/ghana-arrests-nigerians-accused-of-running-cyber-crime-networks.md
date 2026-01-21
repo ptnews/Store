@@ -1,6 +1,6 @@
 ---
 title: "Ghana arrests Nigerians accused of running cyber-crime networks"
-date: 2026-01-20
+date: 2026-01-21
 description: "There is a growing trend of foreigners being lured to Ghana under the pretext of lucrative work."
 summary: "There is a growing trend of foreigners being lured to Ghana under the pretext of lucrative work."
 slug: "ghana-arrests-nigerians-accused-of-running-cyber-crime-networks"

@@ -1,6 +1,6 @@
 ---
 title: "Bobi Wine tells the BBC from hiding he will not contest Uganda election results in court"
-date: 2026-01-20
+date: 2026-01-21
 description: "The losing presidential candidate calls for \"peaceful change\", saying Uganda's judiciary is not independent."
 summary: "The losing presidential candidate calls for \"peaceful change\", saying Uganda's judiciary is not independent."
 slug: "bobi-wine-tells-the-bbc-from-hiding-he-will-not-contest-uganda-election-results-in-court"

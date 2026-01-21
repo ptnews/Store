@@ -1,6 +1,6 @@
 ---
 title: "Greenland 'will stay Greenland', former Trump adviser declares"
-date: 2026-01-20
+date: 2026-01-21
 description: "Donald Trump's former chief economic adviser said the US president's actions are a negotiating tactic."
 summary: "Donald Trump's former chief economic adviser said the US president's actions are a negotiating tactic."
 slug: "greenland-will-stay-greenland-former-trump-adviser-declares"

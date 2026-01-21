@@ -1,6 +1,6 @@
 ---
 title: "New ceasefire in Syria after Kurdish-led forces pull out of camp for IS families"
-date: 2026-01-20
+date: 2026-01-21
 description: "The government announces a four-day ceasefire with the SDF, which says it was \"compelled\" to withdraw its fighters from al-Hol camp."
 summary: "The government announces a four-day ceasefire with the SDF, which says it was \"compelled\" to withdraw its fighters from al-Hol camp."
 slug: "new-ceasefire-in-syria-after-kurdish-led-forces-pull-out-of-camp-for-is-families"

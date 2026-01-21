@@ -1,6 +1,6 @@
 ---
 title: "Cow astonishes scientists with rare use of tools"
-date: 2026-01-20
+date: 2026-01-21
 description: "The discovery suggests cows may have far greater cognitive abilities than previously assumed.
 
 "

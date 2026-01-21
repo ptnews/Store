@@ -1,6 +1,6 @@
 ---
 title: "China's birth rate hits record low as population continues to shrink"
-date: 2026-01-20
+date: 2026-01-21
 description: "Beijing has been trying hard to encourage more young people to marry and have children."
 summary: "Beijing has been trying hard to encourage more young people to marry and have children."
 slug: "china-s-birth-rate-hits-record-low-as-population-continues-to-shrink"

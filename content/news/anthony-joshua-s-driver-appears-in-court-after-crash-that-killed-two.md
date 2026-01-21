@@ -1,6 +1,6 @@
 ---
 title: "Anthony Joshua's driver appears in court after crash that killed two"
-date: 2026-01-20
+date: 2026-01-21
 description: "The former heavyweight champion was a passenger in the crash, which killed two of his team members."
 summary: "The former heavyweight champion was a passenger in the crash, which killed two of his team members."
 slug: "anthony-joshua-s-driver-appears-in-court-after-crash-that-killed-two"

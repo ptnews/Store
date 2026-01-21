@@ -1,6 +1,6 @@
 ---
 title: "In pictures: Valentino's life and work - and the stars who shared his journey"
-date: 2026-01-20
+date: 2026-01-21
 description: "His creations have featured at countless red carpets and award ceremonies around the world."
 summary: "His creations have featured at countless red carpets and award ceremonies around the world."
 slug: "in-pictures-valentino-s-life-and-work-and-the-stars-who-shared-his-journey"
