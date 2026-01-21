@@ -1,0 +1,21 @@
+---
+title: "House passes AI education bill for small businesses in landslide 395-14 vote"
+date: 2026-01-20
+description: "The House passed the AI for Main Street Act with an overwhelming 395-14 bipartisan vote, directing the Small Business Administration to provide AI education resources."
+summary: "The House passed the AI for Main Street Act with an overwhelming 395-14 bipartisan vote, directing the Small Business Administration to provide AI education resources."
+slug: "house-passes-ai-education-bill-for-small-businesses-in-landslide-395-14-vote"
+image: ''
+link: 'https://www.foxnews.com/politics/house-passes-ai-education-bill-small-businesses-overwhelming-landslide-395-14-vote'
+source: 'https://feeds.foxnews.com/foxnews/latest'
+categories:
+- 'feeds.foxnews.com'
+tags:
+- 'businesses'
+- 'education'
+- 'landslide'
+- 'passes'
+- 'house'
+
+draft: false
+---
+<p>The House of Representatives <a href="https://www.foxnews.com/category/politics/senate/bills" target="_blank" rel="noopener">passed a bill</a> that would require the government to create more access to artificial intelligence (AI) education for small businesses Tuesday evening.</p><p><a href="https://www.foxnews.com/category/tech/artificial-intelligence" target="_blank" rel="noopener">The AI for Main Street</a> Act passed with broad bipartisan support in a 395-14 vote. Eleven Republicans and three Democrats voted against the measure.</p><p>"Main Street stands at the doorstep of a major transformation because the AI revolution isn’t just coming, it’s already here," Rep. Mark Alford, R-Mo., the bill’s sponsor, said in a statement after its passage.</p><p>"We’re ensuring entrepreneurs and job creators aren’t left behind. Our AI for Main Street Act will provide small businesses with the resources, education and training needed to responsibly utilize artificial intelligence."</p><p><a href="https://www.foxnews.com/opinion/china-races-ahead-ai-trump-warns-america-cant-regulate-itself-defeat" target="_blank" rel="noopener"><strong>CHINA RACES AHEAD ON AI; TRUMP WARNS AMERICA CAN'T REGULATE ITSELF INTO DEFEAT</strong></a></p><p>The AI for Main Street Act would direct the <a href="https://www.foxnews.com/category/us/education/administration" target="_blank" rel="noopener">Small Business Administration</a> (SBA) and its Small Business Development Centers (SBDCs) to help startups learn to adopt AI technology by providing training and outreach.</p><p>The bill fits into the preexisting framework of the SBDCs.</p><p><a href="https://www.sba.gov/local-assistance/resource-partners/small-business-development-centers-sbdc" target="_blank" rel="nofollow noopener">According to</a> the SBA, SBDCs exist to help small businesses access capital, exchange information on new technologies, improve business planning, and manage finances and personnel administration.</p><p><a href="https://www.foxnews.com/tech/ai-could-drive-us-unemployment-20-senators-warn-new-bill-targets-job-tracking" target="_blank" rel="noopener"><strong>AI COULD DRIVE US UNEMPLOYMENT TO 20%, SENATORS WARN AS NEW BILL TARGETS JOB TRACKING</strong></a></p><p>The SBA says <a href="https://www.sba.gov/about-sba/sba-locations/headquarters-offices/office-small-business-development-centers" target="_blank" rel="nofollow noopener">it has</a> at least 900 service locations that coordinate 62 SBDC centers nationwide.</p><p>The bill does not allocate any additional funding for its new directives on AI.</p><p>Alford said he feared that much <a href="https://www.foxnews.com/category/fox-business-features" target="_blank" rel="noopener">larger companies</a> would quickly integrate AI technologies while smaller enterprises would struggle to adopt new tools and get left behind.</p><p>"We want small business owners to understand not only what AI can do, but how to use it securely, safely, ethically and effectively," Alford said in a floor speech on his bill.</p><p>"This bill is about empowering people, not replacing them. I’m proud to see the House pass our bipartisan bill to champion small businesses," Alford added.</p><p>The bill, having cleared the House, <a href="https://www.foxnews.com/category/politics/senate" target="_blank" rel="noopener">heads to the Senate</a> for consideration.</p>

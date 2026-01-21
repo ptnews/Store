@@ -1,0 +1,21 @@
+---
+title: "Trump says Board of Peace established to oversee reconstruction of Gaza ‘might’ replace the United Nations - CNN"
+date: 2026-01-21
+description: "Trump says Board of Peace established to oversee reconstruction of Gaza ‘might’ replace the United Nations&nbsp;&nbsp;CNNMore than 10 countries have signed on to Trump's \"Board of Peace,\" sources say&nbsp;&nbsp;CBS NewsFull text: Charter of Trump’s Board of Peace&nbsp;&nbsp;timesofisrael.comTrump confirms he invited Putin to join his Board of Peace: 'He's been invited'&nbsp;&nbsp;Fox NewsTrump Wants His Peace Board Signed in Davos. Macron Declines&nbsp;&nbsp;Bloomberg.com"
+summary: "Trump says Board of Peace established to oversee reconstruction of Gaza ‘might’ replace the United Nations&nbsp;&nbsp;CNNMore than 10 countries have signed on to Trump's \"Board of Peace,\" sources say&nbsp;&nbsp;CBS NewsFull text: Charter of Trump’s Board of Peace&nbsp;&nbsp;timesofisrael.comTrump confirms he invited Putin to join his Board of Peace: 'He's been invited'&nbsp;&nbsp;Fox NewsTrump Wants His Peace Board Signed in Davos. Macron Declines&nbsp;&nbsp;Bloomberg.com"
+slug: "trump-says-board-of-peace-established-to-oversee-reconstruction-of-gaza-might-replace-the-united-nations-cnn"
+image: ''
+link: 'https://news.google.com/rss/articles/CBMihwFBVV95cUxOLTBnUFhXaGNGd252VzFDX0lTRDRScjRkMmtvcnphMlBWRGVrdjhNbzItRUhWMWVqamJVNkY2WTZyNDlXcy1UbHNiU2J1Q1R4OGUzdXowYzlIVjF5RkY0QURna2JJVXptWDBWcm1QOWlnM2QxWjFnT2tocnM3SjVjbV9iWFpvdlU?oc=5'
+source: 'https://news.google.com/rss/topics/CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx1YlY4U0FtVnVHZ0pWVXlnQVAB?hl=en-US&gl=US&ceid=US:en'
+categories:
+- 'news.google.com'
+tags:
+- 'reconstruction'
+- 'established'
+- 'oversee'
+- 'replace'
+- 'nations'
+
+draft: false
+---
+<ol><li><a href="https://news.google.com/rss/articles/CBMihwFBVV95cUxOLTBnUFhXaGNGd252VzFDX0lTRDRScjRkMmtvcnphMlBWRGVrdjhNbzItRUhWMWVqamJVNkY2WTZyNDlXcy1UbHNiU2J1Q1R4OGUzdXowYzlIVjF5RkY0QURna2JJVXptWDBWcm1QOWlnM2QxWjFnT2tocnM3SjVjbV9iWFpvdlU?oc=5" target="_blank">Trump says Board of Peace established to oversee reconstruction of Gaza ‘might’ replace the United Nations</a>&nbsp;&nbsp;<font color="#6f6f6f">CNN</font></li><li><a href="https://news.google.com/rss/articles/CBMibEFVX3lxTE96WXJKWXVBRTFNTjA5TjgySnBiYkRQZTZ0N1hqaXFYMVduR245ODE4UW1nalU3YjRMSWo4aGdkVHBwUnJKTEpuSU9PZTZoZnAzajJrVERMQXZTd3RFYm55ZzlvaHhMLUVLTXl4WNIBckFVX3lxTE1YNERlZDZzcEc2aWx2SWg0SkpiRkN0dkNnS0Fzcm9rc25zOGtFclY0bzdTQk5xNEF3NVlkeXJTRFRDQ2E3YmJacUN4X21VbFJIZ1JqaUVkZHB6UmhQeS11NUJHMXJNdEEtQ2VlU2RaaF9mdw?oc=5" target="_blank">More than 10 countries have signed on to Trump's "Board of Peace," sources say</a>&nbsp;&nbsp;<font color="#6f6f6f">CBS News</font></li><li><a href="https://news.google.com/rss/articles/CBMifkFVX3lxTE9aTG5iMXVRZmFTYmRCQWt1OW1zSENkRnlWRElOMmluUUpmQUZvOEN5Rmx5Ym1ndUlFaU1CUW1iNVZvaWNhVjJfbHM0NkF6VzFYNHdnMU9kbmFLWVkxalZVT05fNHdaazVLa1pJeS1QeFBGM3o4eTFxSGFDZmNRZ9IBgwFBVV95cUxPVEVnVHBOcVdHazJpSXFFS0dFWGRHdkp3NklZWXNWQzlJQWJ4YUo2b21wTmkzYWQ0STVCNVBwRUFLcVZnLThXel9mMTBIaWxibkdVZDdzYzJSeU9Uc3BZcXJBTUdOcHNBMEp4eWIxaF96NjV0ZTliVExiY0tQUXFabGI0UQ?oc=5" target="_blank">Full text: Charter of Trump’s Board of Peace</a>&nbsp;&nbsp;<font color="#6f6f6f">timesofisrael.com</font></li><li><a href="https://news.google.com/rss/articles/CBMioAFBVV95cUxOcUU1dGllRHFhTXJ5S0JXbVlLbVl3bFYyRkVBOWI4R3JSN0tBV3FxajYxd2FwTFYtSE9ZazAtRjdNNGxwWjlpai1UdHI2eG1fNnNhaDFndjZFdV85dl9DSktyd2dlY09GSUszckVHZjF6TjZGUlY3TDFuNnlGZXRpbl92dmdCZlNoWS1yLVppeGhtOUswV0x3OEZXVXlBWmZD0gGmAUFVX3lxTE1YTDI5UVotbEtvNVVYX2FQUUR0OVVQMVdLdmk3ekFCRjFrTThLSUl6VDFOeHBJVXJrZVFCc1ljLThZa2VxWGY2bzNYUWxDYzd5YVFmRWhmVWJBNTBCQlVlbjF2aW9kUGpHOXVBSzNSandwUkNZWmY2WjdFTUpoZ294T2g2bGlmY1NhMGZhMTMxeXU4b25OazVBMmkzZXNMRk1VYjYyanc?oc=5" target="_blank">Trump confirms he invited Putin to join his Board of Peace: 'He's been invited'</a>&nbsp;&nbsp;<font color="#6f6f6f">Fox News</font></li><li><a href="https://news.google.com/rss/articles/CBMirAFBVV95cUxONUZqeEVEZm1IQ1lKWFhzcFBaZGJTN2kxcURCeXlaWkZuRXlrcWQxVXpkVTdVSmhtdE1Ed3BUWDd5a2ZmSnU1ZDJLdngyclN3VXhDamtfYnpESEFqclA0aEV3dTBReXJ5Q25pd045SzFBNTdIa3NEbE1nM050LXB2TmtYa2RfLXRjcW02aUJTQmx3b25keVNfaURPS2dmbHdVcTQ4T0dWc0wxQjB0?oc=5" target="_blank">Trump Wants His Peace Board Signed in Davos. Macron Declines</a>&nbsp;&nbsp;<font color="#6f6f6f">Bloomberg.com</font></li></ol>
