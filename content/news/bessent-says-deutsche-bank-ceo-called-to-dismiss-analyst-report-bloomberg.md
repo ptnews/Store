@@ -1,0 +1,21 @@
+---
+title: "Bessent Says Deutsche Bank CEO Called to Dismiss Analyst Report - Bloomberg"
+date: 2026-01-21
+description: "Bessent Says Deutsche Bank CEO Called to Dismiss Analyst Report&nbsp;&nbsp;BloombergOpinion | Europe Has a Bazooka. Time to Use It.&nbsp;&nbsp;The New York Times'This is sell America' — U.S. dollar, Treasury prices tumble and gold spikes as globe flees U.S. assets&nbsp;&nbsp;CNBCStock market today: Dow plummets 800 points, S&P 500, Nasdaq sink over 2% as Trump's Greenland threats clobber stocks&nbsp;&nbsp;Yahoo FinanceTrump's tariff threats spark new fears of 'Sell America' trade&nbsp;&nbsp;Po..."
+summary: "Bessent Says Deutsche Bank CEO Called to Dismiss Analyst Report&nbsp;&nbsp;BloombergOpinion | Europe Has a Bazooka. Time to Use It.&nbsp;&nbsp;The New York Times'This is sell America' — U.S. dollar, Treasury prices tumble and gold spikes as globe flees U.S. assets&nbsp;&nbsp;CNBCStock market today: Dow plummets 800 points, S&P 500, Nasdaq sink over 2% as Trump's Greenland threats clobber stocks&nbsp;&nbsp;Yahoo FinanceTrump's tariff threats spark new fears of 'Sell America' trade&nbsp;&nbsp;Po..."
+slug: "bessent-says-deutsche-bank-ceo-called-to-dismiss-analyst-report-bloomberg"
+image: ''
+link: 'https://news.google.com/rss/articles/CBMitAFBVV95cUxQS3JwVU92MS1PeXNaNVRzVndyeEpzcGdpaFRybmRnUnVSbDNxX2R6NHl1b25FYjNqOEZRVFVLZjlhZ1AwS0xmM1Iwa2tuVHpEVHctQnVKZjBQYU1DLWt6ZHRuc3pNVGRrUVN5dTVfR0p5RlBxdDdjYkZSYzR4cTd4VVh4cFl4THJ4Z3drN0RodTFrRmZkY2FDMlhva0VnMGs5cmlDZWxXQkxmU1BBN0UtV182UG4?oc=5'
+source: 'https://news.google.com/rss/topics/CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx1YlY4U0FtVnVHZ0pWVXlnQVAB?hl=en-US&gl=US&ceid=US:en'
+categories:
+- 'news.google.com'
+tags:
+- 'bloomberg'
+- 'deutsche'
+- 'bessent'
+- 'dismiss'
+- 'analyst'
+
+draft: false
+---
+<ol><li><a href="https://news.google.com/rss/articles/CBMitAFBVV95cUxQS3JwVU92MS1PeXNaNVRzVndyeEpzcGdpaFRybmRnUnVSbDNxX2R6NHl1b25FYjNqOEZRVFVLZjlhZ1AwS0xmM1Iwa2tuVHpEVHctQnVKZjBQYU1DLWt6ZHRuc3pNVGRrUVN5dTVfR0p5RlBxdDdjYkZSYzR4cTd4VVh4cFl4THJ4Z3drN0RodTFrRmZkY2FDMlhva0VnMGs5cmlDZWxXQkxmU1BBN0UtV182UG4?oc=5" target="_blank">Bessent Says Deutsche Bank CEO Called to Dismiss Analyst Report</a>&nbsp;&nbsp;<font color="#6f6f6f">Bloomberg</font></li><li><a href="https://news.google.com/rss/articles/CBMiiwFBVV95cUxQY2lJRU1Tc3Y5Y2YxOGtjU296S2RjWS1Za0xtcGRYRWFWdGt2dG9WSS1TN1plZ1RlSmFkdUc1eEp4WVVaaURlb3l2SFIwa01ETWwzSlBaYzYteFVIWk1ZWkU4akRpWnhRQVRMaVRFVFlTbGFESjY0VklUMzlwZS1BUFlFTnZIUEpITXY4?oc=5" target="_blank">Opinion | Europe Has a Bazooka. Time to Use It.</a>&nbsp;&nbsp;<font color="#6f6f6f">The New York Times</font></li><li><a href="https://news.google.com/rss/articles/CBMimwFBVV95cUxQVnFSUmZmTHU4RzlBRUhFTDJaRGd2NlV5WnhLR0lLMkNaeW00al9PczU0cldURU5QY2x4VnB4SXd0YTlIanQwR2dhWnRqSjJsTG5JUGZ3SDFLVkhMTGFBSUxNQWdPdnZZZ1lhZWZOOFV0eXczX2t3VGRBYUpSa2ctek1yeG5EaXAxQUFPT0M0MGR0amxQcHJOSS1KY9IBoAFBVV95cUxPYzlhQWwxWkJUM3FTa25pYUtyc0tMc3J2N1dRZGVvUkxJRnl5bkx5dTVqMVdsSWhScnlwRldmdW1sTnl4dzFCbjBwNFdSRlJvN196UXhHYnJYaFk3ckVhbEU0X1JYdnhUVVR5MGowajktTzhYZGx3N2s4dHJ5SVZLQV9kNWhkT2RiYUxGRTdmMnRZY191U1lvaHFKaTh1Rk1E?oc=5" target="_blank">'This is sell America' — U.S. dollar, Treasury prices tumble and gold spikes as globe flees U.S. assets</a>&nbsp;&nbsp;<font color="#6f6f6f">CNBC</font></li><li><a href="https://news.google.com/rss/articles/CBMi9AFBVV95cUxQNU05b29VWEx1eGZGYVBvamtHV1ZaX21mUDRSUXRSLXFoV3JnUF9EZURGbmx6NGZpWkVrTThZeXFjeGVrUEtmWlZsWk5fTGxkdFhJUWhXZkZRR0FfRFV2VE5kQnRaVWRVSTluNFcxVWdvaWtKaGUxYllLS0FCMG1wZjJnSkYzb0xfcWFtc2g5aVNBcHQwbTkzTFlyTWExR1p1RHR0ZDhiYUhHRVhCQnRWVHZaRWZVWlVDbVR0cV9SYkN5dENjRGk4cHhLV0JFWnlYUXhyTENtWlJFcjZheUNDNUwySTRLNHR4akYzSExWNm1pYXhL?oc=5" target="_blank">Stock market today: Dow plummets 800 points, S&P 500, Nasdaq sink over 2% as Trump's Greenland threats clobber stocks</a>&nbsp;&nbsp;<font color="#6f6f6f">Yahoo Finance</font></li><li><a href="https://news.google.com/rss/articles/CBMirgFBVV95cUxQbExaNTVZdXJFOWpjRk1FQkxIUzZyWEdyeUlZV01fVVc4NU9fWnBmckRPc3FzVm4tc0FrNkFZak9UNGRTN2hXT0YxMFRvYzdHT2h5SXNUMW1WcVF6TU9BWllWVTdEU1cwb2Qtb2xQNVBoeUNhWXVQbklZclRCUTdNdGhyaTR4VGpHVWZMNjByV0RzZThENGllTGN2QjUyUXVCdG13OU5fbDUzLXpLWmc?oc=5" target="_blank">Trump's tariff threats spark new fears of 'Sell America' trade</a>&nbsp;&nbsp;<font color="#6f6f6f">Politico</font></li></ol>
