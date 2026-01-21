@@ -1,5 +1,5 @@
 ---
-title: "Oldest cave painting of red claw hand  could rewrite human creativity timeline"
+title: "Oldest cave painting of red claw hand could rewrite human creativity timeline"
 date: 2026-01-21
 description: "A stencilled outline of a hand found on the Indonesian island of Sulawesi is the world's oldest known cave painting, researchers say."
 summary: "A stencilled outline of a hand found on the Indonesian island of Sulawesi is the world's oldest known cave painting, researchers say."
