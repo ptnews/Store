@@ -1,0 +1,21 @@
+---
+title: "Trump says U.K. ‘stupidity’ on Chagos Islands justifies Greenland demands - The Washington Post"
+date: 2026-01-21
+description: "Trump says U.K. ‘stupidity’ on Chagos Islands justifies Greenland demands&nbsp;&nbsp;The Washington PostEuropean leaders endure a new level of public embarrassment as Trump dials up the insults&nbsp;&nbsp;CNNStarmer Just Got Pushed Off the Diplomatic Tightrope&nbsp;&nbsp;Bloomberg.comTrump U-turns on U.K.'s Chagos Islands deal, claims it's another reason \"Greenland has to be acquired\" by U.S.&nbsp;&nbsp;CBS News'Act of great stupidity': Trump launches another tirade against a NATO ally. This..."
+summary: "Trump says U.K. ‘stupidity’ on Chagos Islands justifies Greenland demands&nbsp;&nbsp;The Washington PostEuropean leaders endure a new level of public embarrassment as Trump dials up the insults&nbsp;&nbsp;CNNStarmer Just Got Pushed Off the Diplomatic Tightrope&nbsp;&nbsp;Bloomberg.comTrump U-turns on U.K.'s Chagos Islands deal, claims it's another reason \"Greenland has to be acquired\" by U.S.&nbsp;&nbsp;CBS News'Act of great stupidity': Trump launches another tirade against a NATO ally. This..."
+slug: "trump-says-u-k-stupidity-on-chagos-islands-justifies-greenland-demands-the-washington-post"
+image: ''
+link: 'https://news.google.com/rss/articles/CBMikAFBVV95cUxNZ044RUNGUV9FLWxERGt6bUtSaXdPNklqMUlGVklia3NwSjFYdERoTEx6TTNJbmQ5Y2dzMGRQeThWRkk1anVVa2RNemdodWNHNElpWmtYTzQtU0t1N002eUhSd0pfN2M0b0xMc005Y1JkcXhQeEpRSE5IMGRRUVBwU3VXaTZ0SGxJWC15TmFPRkk?oc=5'
+source: 'https://news.google.com/rss/topics/CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx1YlY4U0FtVnVHZ0pWVXlnQVAB?hl=en-US&gl=US&ceid=US:en'
+categories:
+- 'news.google.com'
+tags:
+- 'washington'
+- 'stupidity'
+- 'justifies'
+- 'greenland'
+- 'islands'
+
+draft: false
+---
+<ol><li><a href="https://news.google.com/rss/articles/CBMikAFBVV95cUxNZ044RUNGUV9FLWxERGt6bUtSaXdPNklqMUlGVklia3NwSjFYdERoTEx6TTNJbmQ5Y2dzMGRQeThWRkk1anVVa2RNemdodWNHNElpWmtYTzQtU0t1N002eUhSd0pfN2M0b0xMc005Y1JkcXhQeEpRSE5IMGRRUVBwU3VXaTZ0SGxJWC15TmFPRkk?oc=5" target="_blank">Trump says U.K. ‘stupidity’ on Chagos Islands justifies Greenland demands</a>&nbsp;&nbsp;<font color="#6f6f6f">The Washington Post</font></li><li><a href="https://news.google.com/rss/articles/CBMiiAFBVV95cUxOckhaQzRuRFFzN0dCRzB5ZE1fc1hJUDlDNWRBMmFUc1VwaWNfNzZPVDJOU0tEbXdubFFuOU9IdnR3VHZUeENjdkd5MHFvMVpRSUtaZ3pqbFN5WTY4NnBEYTNSUTVBY0hUa1ZVdlByUm9GTWRLVzlsZDZ2d3h2SEdPS0FrR2pCQmN2?oc=5" target="_blank">European leaders endure a new level of public embarrassment as Trump dials up the insults</a>&nbsp;&nbsp;<font color="#6f6f6f">CNN</font></li><li><a href="https://news.google.com/rss/articles/CBMivAFBVV95cUxNMEhCTWFNV2NYbGo2bHpQZHJyRENyaUFWZ1dkQVNQeHBsdjlhS0c2WnB2MDAtSHk2bkY3VEJTU2ZWdERoTDNzVkRYTUtoQ1pDcDB2MmVpc1BuYmdlZ3BLNFVRVG5QR3dqNmI2RmwtMFRZZkhfS3JRdWVEaVpWekJfMFpNSEJwTGNQTjdEVnZzdk1jSTBfbVlXZWh2c3Vfd3dMZUxmZ0pjdk9FQTFKYWF3bVBkbnpVY19PNEh1dw?oc=5" target="_blank">Starmer Just Got Pushed Off the Diplomatic Tightrope</a>&nbsp;&nbsp;<font color="#6f6f6f">Bloomberg.com</font></li><li><a href="https://news.google.com/rss/articles/CBMilgFBVV95cUxOOHRhSDZfX0NReWtFdmpEZmNIVDVfQkEzQTdnY0ozd3lNU0t4NTl0VnVHWlRkZlZObkVkMmJvWHpsYXJxZkJnOXlINy1ibmd0TlNvYWdSZ3ZEZWRHLW9GQXBrVXNZZDg2c2l3bzdpTjRHSmdFdlZ4MGhUZi11dk1KQ3dKUE5OZUNDd2UySU9WZjRLUXRMUVHSAZsBQVVfeXFMTTIwUDk4VkFudHBuVURXT2Q4Vkt3eUFScmstMVpDdF92ZURfdVVtelpuaFpRMXlhdjlabC1aT2YtWUdzYm1UWkRaNFlWVEFfZ2xVSEM1ckJsTFJkQ0ZEbDZOWlRwRmNRRlJjRkRHQ2tWU1RFY09GZzRUM2tNV3l0YWU4ZGFQZDF1WHBQOXdVbXdqamVILVkxT2RUaTA?oc=5" target="_blank">Trump U-turns on U.K.'s Chagos Islands deal, claims it's another reason "Greenland has to be acquired" by U.S.</a>&nbsp;&nbsp;<font color="#6f6f6f">CBS News</font></li><li><a href="https://news.google.com/rss/articles/CBMie0FVX3lxTE9qbVJoUlh4SVNTVUdqODVUajZ3OVBzUk5WVXE5QWFESlFha3VMWHlzZEE5R3FwYkpHdzNQQkdmLXU4bmNOc0JCM1R5aUVISlM0NzRSbVZzMk95UU9PajdBVzMzNld1YWJNaHZ2NzN3aWNhTUNGUWZsUWZLSdIBgAFBVV95cUxQeHRZU1EzdTNrdkpFcVl2cHRyZURvd0pCcjdSajIyS2FvTmFwTDZ2cXNxM05ueTM3RG1kQjNWLWQ2WHRNTnpBZmwzdzh3M1E3aE8yU2tJcjlzYlJIR3ZhUDI4S21ydXlQY3ZsaDhsSGhiYWgyemhJcnlvUnlxMXQxYQ?oc=5" target="_blank">'Act of great stupidity': Trump launches another tirade against a NATO ally. This time it's the UK</a>&nbsp;&nbsp;<font color="#6f6f6f">CNBC</font></li></ol>
