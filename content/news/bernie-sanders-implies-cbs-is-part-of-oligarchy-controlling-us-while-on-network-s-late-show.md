@@ -1,8 +1,8 @@
 ---
 title: "Bernie Sanders implies CBS is part of 'oligarchy' controlling US while on network’s ‘Late Show’"
 date: 2026-01-21
-description: "Sen. Bernie Sanders, I-Vt., appeared on “The Late Show with Stephen Colbert&quot; on Tuesday, where he implied CBS is part of an &quot;oligarchy&quot; of poweful companies controlling the U.S."
-summary: "Sen. Bernie Sanders, I-Vt., appeared on “The Late Show with Stephen Colbert&quot; on Tuesday, where he implied CBS is part of an &quot;oligarchy&quot; of poweful companies controlling the U.S."
+description: "Sen. Bernie Sanders, I-Vt., appeared on “The Late Show with Stephen Colbert&quot; on Tuesday, when he implied CBS is part of an &quot;oligarchy&quot; of poweful companies controlling the U.S."
+summary: "Sen. Bernie Sanders, I-Vt., appeared on “The Late Show with Stephen Colbert&quot; on Tuesday, when he implied CBS is part of an &quot;oligarchy&quot; of poweful companies controlling the U.S."
 slug: "bernie-sanders-implies-cbs-is-part-of-oligarchy-controlling-us-while-on-network-s-late-show"
 image: ''
 link: 'https://www.foxnews.com/media/bernie-sanders-implies-cbs-part-oligarchy-controlling-us-while-networks-late-show'
