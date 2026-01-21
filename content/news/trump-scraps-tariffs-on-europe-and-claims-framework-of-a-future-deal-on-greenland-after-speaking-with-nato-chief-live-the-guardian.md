@@ -1,0 +1,21 @@
+---
+title: "Trump scraps tariffs on Europe and claims ‘framework of a future deal’ on Greenland after speaking with Nato chief – live - The Guardian"
+date: 2026-01-21
+description: "Trump scraps tariffs on Europe and claims ‘framework of a future deal’ on Greenland after speaking with Nato chief – live&nbsp;&nbsp;The GuardianTrump says Greenland framework with NATO involves mineral rights for U.S.&nbsp;&nbsp;CNBCWhat Trump Said About the U.S. Economy at Davos&nbsp;&nbsp;The Wall Street JournalFact-Checking President Trump’s Davos Speech&nbsp;&nbsp;The New York TimesTrump hails ‘framework’ of Greenland deal, reversing tariff threats&nbsp;&nbsp;The Washington Post"
+summary: "Trump scraps tariffs on Europe and claims ‘framework of a future deal’ on Greenland after speaking with Nato chief – live&nbsp;&nbsp;The GuardianTrump says Greenland framework with NATO involves mineral rights for U.S.&nbsp;&nbsp;CNBCWhat Trump Said About the U.S. Economy at Davos&nbsp;&nbsp;The Wall Street JournalFact-Checking President Trump’s Davos Speech&nbsp;&nbsp;The New York TimesTrump hails ‘framework’ of Greenland deal, reversing tariff threats&nbsp;&nbsp;The Washington Post"
+slug: "trump-scraps-tariffs-on-europe-and-claims-framework-of-a-future-deal-on-greenland-after-speaking-with-nato-chief-live-the-guardian"
+image: ''
+link: 'https://news.google.com/rss/articles/CBMiygFBVV95cUxNMU9Vc0xLcWUtT2ZmOUNNZ2F5Z050RThoRHRGbDMtNzRtYUgtSWhaVVdqVnV3RU9iVDl4dnhrZExuN3Q2R01aaFU2TFRIWnBsZWlOSVhfSHp4MlVid3R1SEh1SjhtRWg5SUN1eGliRkN6aEZxWGVMSjI4T3dqT3czcEducUdNV29OelZLSFFTblRkVEdxS1dDN3JRYlloRlFuSUNOR2V3TjJyMmw0WEZCRkZlSmt1bnhUR25rNGRreWxCVy1VMjdDT21R?oc=5'
+source: 'https://news.google.com/rss/topics/CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx1YlY4U0FtVnVHZ0pWVXlnQVAB?hl=en-US&gl=US&ceid=US:en'
+categories:
+- 'news.google.com'
+tags:
+- 'framework'
+- 'greenland'
+- 'speaking'
+- 'guardian'
+- 'tariffs'
+
+draft: false
+---
+<ol><li><a href="https://news.google.com/rss/articles/CBMiygFBVV95cUxNMU9Vc0xLcWUtT2ZmOUNNZ2F5Z050RThoRHRGbDMtNzRtYUgtSWhaVVdqVnV3RU9iVDl4dnhrZExuN3Q2R01aaFU2TFRIWnBsZWlOSVhfSHp4MlVid3R1SEh1SjhtRWg5SUN1eGliRkN6aEZxWGVMSjI4T3dqT3czcEducUdNV29OelZLSFFTblRkVEdxS1dDN3JRYlloRlFuSUNOR2V3TjJyMmw0WEZCRkZlSmt1bnhUR25rNGRreWxCVy1VMjdDT21R?oc=5" target="_blank">Trump scraps tariffs on Europe and claims ‘framework of a future deal’ on Greenland after speaking with Nato chief – live</a>&nbsp;&nbsp;<font color="#6f6f6f">The Guardian</font></li><li><a href="https://news.google.com/rss/articles/CBMirAFBVV95cUxNekZMVmdRV2d2cW41X19xZklDLW9nVnd4MWpZTkh6bUhVRkVGNG1tb0JtOC1NdVhacG5LTlBhMlI0VTlTLUNyZmxqWFhaamlfQjd5eDM1SU5HRXpady1faTd2YkQ3bS1LcDBUczRHWW92OHNwcHd0aFppMDhVaU55UDBNV0tkT3dvbmNwRmx0YjMxSi1wMl9MbTU5Y2paLWp0R3dwdmd4dWU3MUxX0gGyAUFVX3lxTE5WUHlHQ1VlTFN4dW1HYWdQMjM1cE91NFViU1NlOEJHMC1tYWRkSUN5VFlzSWp0UHREaE5KQlFWcUNMTEJYMzh3NzFCZnVlcGd6Z05EUUJ5bTRVdmxVWGlva2RWWEE2Y1lsVGU2T3VSTlltNzZTZHlZLXJGbDNtTmZLZ3MzWGRQOGo2RmhXWklfV0pWRnJuZWNaYWhiUDRjOXlWUEwyNXE4NjVsenpBTTk2aEE?oc=5" target="_blank">Trump says Greenland framework with NATO involves mineral rights for U.S.</a>&nbsp;&nbsp;<font color="#6f6f6f">CNBC</font></li><li><a href="https://news.google.com/rss/articles/CBMilgFBVV95cUxPN3BCc202SzNBeGVmZEVWWmhyTVdWN2NHUmFlUHdJSzBFWm1ONUs3OFBFQVp3NklLZkphZGFoS2t2VWtrUE1Cb3VnNmMwcmNTWDA1TEc3aWJObkF5WFBlaU5DcTl0LWxya0h5dWVqVzl5ZGstdDN1c0xOWFd5ei1TMEd2cXlreU03MXBWeE1IdWpRQk5ZRmc?oc=5" target="_blank">What Trump Said About the U.S. Economy at Davos</a>&nbsp;&nbsp;<font color="#6f6f6f">The Wall Street Journal</font></li><li><a href="https://news.google.com/rss/articles/CBMiiAFBVV95cUxQZHhlcGRNdjNLUnd6WlVFZy1zQkE3eVVUcWZ5SHFBbVgwMmwwT01SNGpuWXR6aDY5MmMyVkdyZW9ELTRUZFB3amN4aFNvVHBFVW5GT1NHRjFTbGpKWGU3anNpWkxxdDhHS01LTXNvRHV3bVpfakhxdzdqQXQ1dDdNbldzNWhMeklz?oc=5" target="_blank">Fact-Checking President Trump’s Davos Speech</a>&nbsp;&nbsp;<font color="#6f6f6f">The New York Times</font></li><li><a href="https://news.google.com/rss/articles/CBMihwFBVV95cUxQT210b3NTajI2anJfamYzdTRjWHY3NDU2RXJmQXROX1VBLWJmajUydkN4UkhqQ0tTLVY5U2ZMajQtb3JEcWJPNUUxcVBNREY4cDJXTnE4b29xZ043bi1HOGp2aTFmN3RUX1dmMUhNdTRYYlI0S1FIZjhnUjVqM25OMENoNWVDc2s?oc=5" target="_blank">Trump hails ‘framework’ of Greenland deal, reversing tariff threats</a>&nbsp;&nbsp;<font color="#6f6f6f">The Washington Post</font></li></ol>
