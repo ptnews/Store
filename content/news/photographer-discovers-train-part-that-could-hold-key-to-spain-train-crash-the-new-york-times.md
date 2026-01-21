@@ -1,0 +1,21 @@
+---
+title: "Photographer Discovers Train Part That Could Hold Key to Spain Train Crash - The New York Times"
+date: 2026-01-21
+description: "Photographer Discovers Train Part That Could Hold Key to Spain Train Crash&nbsp;&nbsp;The New York TimesAftermath of Barcelona commuter train crash that killed one person&nbsp;&nbsp;YahooSix-year-old girl who went to see Lion King is family's sole survivor of Spanish train crash&nbsp;&nbsp;ReutersSecond rail tragedy rocks Spain, as passenger train derails days after dozens killed in high-speed collision&nbsp;&nbsp;CNNSpain’s train drivers call for strike as deadly derailments fuel concern&nbsp..."
+summary: "Photographer Discovers Train Part That Could Hold Key to Spain Train Crash&nbsp;&nbsp;The New York TimesAftermath of Barcelona commuter train crash that killed one person&nbsp;&nbsp;YahooSix-year-old girl who went to see Lion King is family's sole survivor of Spanish train crash&nbsp;&nbsp;ReutersSecond rail tragedy rocks Spain, as passenger train derails days after dozens killed in high-speed collision&nbsp;&nbsp;CNNSpain’s train drivers call for strike as deadly derailments fuel concern&nbsp..."
+slug: "photographer-discovers-train-part-that-could-hold-key-to-spain-train-crash-the-new-york-times"
+image: ''
+link: 'https://news.google.com/rss/articles/CBMipgFBVV95cUxOV19WR0MwNGxVWmQ0WlY1R2ptTm5BS1k0U05NSFFOc2RzTXA1U0lCNWk3bmItcEFJczg3cm1hYmdjUlB4U1FNVVpsYm9xNE5mZUVZQzJIdHZZek9qUi1mZ295bmJldnl0VjlweWVjbk1KTUpDTDVkdWpYZVdOZ1FldjJwLTc4OUJXdDlWSEt1X1JyUUIwc1J1c1A3cmFEVF9FQk5qVURn?oc=5'
+source: 'https://news.google.com/rss/topics/CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx1YlY4U0FtVnVHZ0pWVXlnQVAB?hl=en-US&gl=US&ceid=US:en'
+categories:
+- 'news.google.com'
+tags:
+- 'photographer'
+- 'discovers'
+- 'train'
+- 'could'
+- 'spain'
+
+draft: false
+---
+<ol><li><a href="https://news.google.com/rss/articles/CBMipgFBVV95cUxOV19WR0MwNGxVWmQ0WlY1R2ptTm5BS1k0U05NSFFOc2RzTXA1U0lCNWk3bmItcEFJczg3cm1hYmdjUlB4U1FNVVpsYm9xNE5mZUVZQzJIdHZZek9qUi1mZ295bmJldnl0VjlweWVjbk1KTUpDTDVkdWpYZVdOZ1FldjJwLTc4OUJXdDlWSEt1X1JyUUIwc1J1c1A3cmFEVF9FQk5qVURn?oc=5" target="_blank">Photographer Discovers Train Part That Could Hold Key to Spain Train Crash</a>&nbsp;&nbsp;<font color="#6f6f6f">The New York Times</font></li><li><a href="https://news.google.com/rss/articles/CBMikwFBVV95cUxPYUVOQ3VGSlk2cGJxSHlUd3ZGRElIQjJycHJqRmY5YTY5TlVyQXpEb012UGtudGE2OHdSa0VFdUJiTWJURnMtT3NHdDFPTkRKVjR5Nng2aHdnYl9HRnM4OEtoYnhMZDhuM1V6ZDF1R3M2bE1ta3daUFFGNjVTdE9LeGQ5Vl94WkhkQmZpUnNWTndFWkE?oc=5" target="_blank">Aftermath of Barcelona commuter train crash that killed one person</a>&nbsp;&nbsp;<font color="#6f6f6f">Yahoo</font></li><li><a href="https://news.google.com/rss/articles/CBMixwFBVV95cUxOcGxqLVZoTjVsSHFOU2xvdUxiOVJDcFhFb3RYMnFSZWtlRVhTd0dnSFFaQ0NqamNNd1dQZ3ozN0tpWUxUdWN1M3ZRLXU2QjR2ay15dlhFYnZNZHJVOGtaWTAwTDJhdGVKV21yeEVOZTNrVzc0X0puNVVyc3NqTlZvSG1sV1BIZ25yQ1Mwa1Z1dVhrcGtEeXBCMkl5bjY0elRiNThPelR1THpQOHBfb2dSZ0FIMHpNbVMyVXdXdk85RlZuVkowOGYw?oc=5" target="_blank">Six-year-old girl who went to see Lion King is family's sole survivor of Spanish train crash</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font></li><li><a href="https://news.google.com/rss/articles/CBMikgFBVV95cUxQazRrYW05RkEtb2ltZG12T0lZOFlOb1RFX3NmSlBfRVhsWGdadExrZURtVHBDcFg1cjVlODk5aTJ0OXFDMVVPNFFmUTRVMkNLeG5sWnBYVk1DOWUyQkRYM2lZVDNjYVdOZzVGX05IWGlPWDZwUUU5VTJTWHpQY2VNVGFxOVdPb3JZcjRGUEJld2RGdw?oc=5" target="_blank">Second rail tragedy rocks Spain, as passenger train derails days after dozens killed in high-speed collision</a>&nbsp;&nbsp;<font color="#6f6f6f">CNN</font></li><li><a href="https://news.google.com/rss/articles/CBMisgFBVV95cUxNZU1SaWlmUHhYa0ctc2llbDZ1WHRMRGR0NHBjb0FjRTVPN3gtT2Rlb05hN2V0U2o1Z1E1MjU5aXpZVjBVYUxXUlVvdWFFMkJFT0dabXppemdpWmwtMjJscjh4SW5qVWx1elEyWUs4NndSYVVNVXF1MDdEcWV0R21BUHN6ZVRzbnozUGJZbUtSLTVLQWpvdWVrSnhCMjBnQUg0TDFJanhVa3BtTmFfV0FEanhR0gG3AUFVX3lxTE5oZG1BeGs2TGp4cVdVcnh6czNMMVY5bzVObFBmZGNNYUMwV1V2cUo3S0ZkTnpqTlM3QlRGbzEtTjIwSnhDQVQyaHpsT0ViX0NGdkszWGxpU19Pc0NUN3MxMWpiX0prNzQ5V2lMdThjWG90MHVvWUVtYnRPY2VMMXBVUTBmd1U2VjMteGJPWkVRTTlMdVgxTjM1QmctNlotTkRCUlJ5aGJud1hZMUYxTUQyQnR3Vnc4Zw?oc=5" target="_blank">Spain’s train drivers call for strike as deadly derailments fuel concern</a>&nbsp;&nbsp;<font color="#6f6f6f">Al Jazeera</font></li></ol>
