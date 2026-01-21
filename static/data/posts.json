@@ -450,15 +450,6 @@
     "title": "Six countries confirm US invitations to Gaza peace board"
   },
   {
-    "description": "Trump was due to arrive at the World Economic Forum on Wednesday, but a minor electrical issue on Air Force One has forced his plane to turn around.",
-    "image": "",
-    "link": "https://www.bbc.com/news/articles/cvgr19m642zo?at_medium=RSS\u0026at_campaign=rss",
-    "pubDate": "2026-01-21",
-    "slug": "trump-doubles-down-on-greenland-ahead-of-davos-visit-saying-there-is-no-going-back",
-    "source": "http://feeds.bbci.co.uk/news/world/rss.xml",
-    "title": "Trump doubles down on Greenland ahead of Davos visit, saying there is 'no going back'"
-  },
-  {
     "description": "Trump's demands over Greenland are a rude awakening in a moment fraught with risk.",
     "image": "",
     "link": "https://www.bbc.com/news/articles/cx2lej7d52po?at_medium=RSS\u0026at_campaign=rss",
@@ -801,13 +792,31 @@
     "title": "Spain train crash survivors describe 'absolutely terrifying' scene"
   },
   {
+    "description": "Singapore\u0026#039;s Ministry of Defence plans to replace its fleet of Fokker 50 Maritime Patrol Aircraft with Boeing planes.",
+    "image": "",
+    "link": "https://www.aljazeera.com/news/2026/1/21/us-approves-2-3bn-sale-of-torpedoes-air-defences-aircraft-to-singapore?traffic_source=rss",
+    "pubDate": "2026-01-21",
+    "slug": "us-approves-2-3bn-sale-of-torpedoes-air-defences-aircraft-to-singapore",
+    "source": "https://aljazeera.com/xml/rss/all.xml",
+    "title": "US approves $2.3bn sale of torpedoes, air defences, aircraft to Singapore"
+  },
+  {
+    "description": "US president resumed journey to Europe on Boeing 757 that departed just after midnight on Wednesday.",
+    "image": "",
+    "link": "https://www.aljazeera.com/news/2026/1/21/air-force-one-turned-back-as-it-carried-trump-to-davos?traffic_source=rss",
+    "pubDate": "2026-01-21",
+    "slug": "air-force-one-turned-back-as-it-carried-trump-to-davos",
+    "source": "https://aljazeera.com/xml/rss/all.xml",
+    "title": "Air Force One turned back as it carried Trump to Davos"
+  },
+  {
     "description": "This is a breaking news story.",
     "image": "",
     "link": "https://www.aljazeera.com/news/2026/1/21/israels-netanyahu-to-join-board-of?traffic_source=rss",
     "pubDate": "2026-01-21",
-    "slug": "israel-s-netanyahu-to-join-board-of-peace",
+    "slug": "israel-s-wanted-war-criminal-netanyahu-joins-gaza-board-of-peace",
     "source": "https://aljazeera.com/xml/rss/all.xml",
-    "title": "Israel’s Netanyahu to join ‘Board of Peace’"
+    "title": "Israel’s wanted war criminal Netanyahu joins Gaza ‘board of peace’"
   },
   {
     "description": "Zeynep Sonmez wins in straight sets to enter the third round of a Grand Slam for the second time in six months.",
@@ -1006,23 +1015,5 @@
     "slug": "senegal-celebrates-dramatic-africa-cup-of-nations-win",
     "source": "https://aljazeera.com/xml/rss/all.xml",
     "title": "Senegal celebrates dramatic Africa Cup of Nations win"
-  },
-  {
-    "description": "“Somalia is not even a country. They don\u0026#039;t have anything that resembles a country.”",
-    "image": "",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/1/20/somalia-is-not-even-a-country-trump-says-in-anti-immigrant-ramble?traffic_source=rss",
-    "pubDate": "2026-01-20",
-    "slug": "somalia-is-not-even-a-country-trump-says-in-anti-immigrant-ramble",
-    "source": "https://aljazeera.com/xml/rss/all.xml",
-    "title": "‘Somalia is not even a country’, Trump says in anti-immigrant ramble"
-  },
-  {
-    "description": "Winter hits Gaza hard, while activists and aid workers push to keep the world’s attention from slipping away.",
-    "image": "",
-    "link": "https://www.aljazeera.com/video/the-stream/2026/1/20/how-winter-is-making-gazas-humanitarian-crisis-worse?traffic_source=rss",
-    "pubDate": "2026-01-20",
-    "slug": "how-winter-is-making-gaza-s-humanitarian-crisis-worse",
-    "source": "https://aljazeera.com/xml/rss/all.xml",
-    "title": "How winter is making Gaza’s humanitarian crisis worse"
   }
 ]
