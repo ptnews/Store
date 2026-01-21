@@ -1,5 +1,5 @@
 ---
-title: "Kaine wants to rein in Trump’s war powers, but never did the same for Biden, Obama"
+title: "Kaine wants to rein in Trump's war powers, but never did the same for Biden, Obama"
 date: 2026-01-21
 description: "Sen. Tim Kaine, D-Va., supported seven war powers resolutions against President Donald Trump but rejected two of three Republican-led efforts against former President Joe Biden."
 summary: "Sen. Tim Kaine, D-Va., supported seven war powers resolutions against President Donald Trump but rejected two of three Republican-led efforts against former President Joe Biden."
