@@ -1,9 +1,9 @@
 ---
-title: "Only 1 House Democrat joined GOP to repeal 'short-circuiting' Biden-era regulation"
+title: "Only one House Democrat joined GOP to repeal 'short-circuiting' Biden-era regulation"
 date: 2026-01-21
 description: "Lawmakers vote to restore mineral access in Minnesota&apos;s federal lands, citing national security needs for domestic critical minerals over foreign imports."
 summary: "Lawmakers vote to restore mineral access in Minnesota&apos;s federal lands, citing national security needs for domestic critical minerals over foreign imports."
-slug: "only-1-house-democrat-joined-gop-to-repeal-short-circuiting-biden-era-regulation"
+slug: "only-one-house-democrat-joined-gop-to-repeal-short-circuiting-biden-era-regulation"
 image: ''
 link: 'https://www.foxnews.com/politics/only-1-house-democrat-joined-gop-repeal-biden-era-regulation'
 source: 'https://feeds.foxnews.com/foxnews/latest'

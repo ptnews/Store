@@ -1,8 +1,8 @@
 ---
 title: "Trump slams UK island handoff deal that could put key US military base at risk"
 date: 2026-01-21
-description: "President Donald Trump calls U.K. Chagos Islands transfer &apos;great stupidity,&apos; warning China could exploit the deal."
-summary: "President Donald Trump calls U.K. Chagos Islands transfer &apos;great stupidity,&apos; warning China could exploit the deal."
+description: "President Donald Trump calls the United Kingdom&apos;s Chagos Islands transfer plan &quot;great stupidity,&quot; warning China could exploit the deal."
+summary: "President Donald Trump calls the United Kingdom&apos;s Chagos Islands transfer plan &quot;great stupidity,&quot; warning China could exploit the deal."
 slug: "trump-slams-uk-island-handoff-deal-that-could-put-key-us-military-base-at-risk"
 image: ''
 link: 'https://www.foxnews.com/world/trump-slams-uk-island-handoff-deal-put-key-us-military-base-risk'
