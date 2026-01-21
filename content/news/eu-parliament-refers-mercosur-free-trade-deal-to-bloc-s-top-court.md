@@ -1,8 +1,8 @@
 ---
 title: "EU parliament refers Mercosur free trade deal to bloc’s top court"
 date: 2026-01-21
-description: "The Court of Justice of the EU will determine if the accord with South America is compatible with the bloc&#039;s policy."
-summary: "The Court of Justice of the EU will determine if the accord with South America is compatible with the bloc&#039;s policy."
+description: "Court of Justice of the EU will determine if accord with South American nations is compatible with the bloc&#039;s policy. "
+summary: "Court of Justice of the EU will determine if accord with South American nations is compatible with the bloc&#039;s policy. "
 slug: "eu-parliament-refers-mercosur-free-trade-deal-to-bloc-s-top-court"
 image: ''
 link: 'https://www.aljazeera.com/news/2026/1/21/eu-parliament-refers-mercosur-free-trade-deal-to-blocs-top-court?traffic_source=rss'
@@ -18,4 +18,4 @@ tags:
 
 draft: false
 ---
-The Court of Justice of the EU will determine if the accord with South America is compatible with the bloc&#039;s policy.
+Court of Justice of the EU will determine if accord with South American nations is compatible with the bloc&#039;s policy. 

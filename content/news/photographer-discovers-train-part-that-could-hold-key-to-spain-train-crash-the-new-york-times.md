@@ -1,0 +1,21 @@
+---
+title: "Photographer Discovers Train Part That Could Hold Key to Spain Train Crash - The New York Times"
+date: 2026-01-21
+description: "Photographer Discovers Train Part That Could Hold Key to Spain Train Crash&nbsp;&nbsp;The New York TimesAnother train crashes in Spain, killing 1 person, days after fatal high-speed collision&nbsp;&nbsp;ABC NewsPart found near Spain train crash site may be missing undercarriage, experts say&nbsp;&nbsp;ReutersSpain’s rail network under scrutiny after second deadly crash in as many days&nbsp;&nbsp;The GuardianSpain train crash: Getafe's Davinchi pays heart-breaking tribute to father who died&nbs..."
+summary: "Photographer Discovers Train Part That Could Hold Key to Spain Train Crash&nbsp;&nbsp;The New York TimesAnother train crashes in Spain, killing 1 person, days after fatal high-speed collision&nbsp;&nbsp;ABC NewsPart found near Spain train crash site may be missing undercarriage, experts say&nbsp;&nbsp;ReutersSpain’s rail network under scrutiny after second deadly crash in as many days&nbsp;&nbsp;The GuardianSpain train crash: Getafe's Davinchi pays heart-breaking tribute to father who died&nbs..."
+slug: "photographer-discovers-train-part-that-could-hold-key-to-spain-train-crash-the-new-york-times"
+image: ''
+link: 'https://news.google.com/rss/articles/CBMipgFBVV95cUxOV19WR0MwNGxVWmQ0WlY1R2ptTm5BS1k0U05NSFFOc2RzTXA1U0lCNWk3bmItcEFJczg3cm1hYmdjUlB4U1FNVVpsYm9xNE5mZUVZQzJIdHZZek9qUi1mZ295bmJldnl0VjlweWVjbk1KTUpDTDVkdWpYZVdOZ1FldjJwLTc4OUJXdDlWSEt1X1JyUUIwc1J1c1A3cmFEVF9FQk5qVURn?oc=5'
+source: 'https://news.google.com/rss/topics/CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx1YlY4U0FtVnVHZ0pWVXlnQVAB?hl=en-US&gl=US&ceid=US:en'
+categories:
+- 'news.google.com'
+tags:
+- 'photographer'
+- 'discovers'
+- 'train'
+- 'could'
+- 'spain'
+
+draft: false
+---
+<ol><li><a href="https://news.google.com/rss/articles/CBMipgFBVV95cUxOV19WR0MwNGxVWmQ0WlY1R2ptTm5BS1k0U05NSFFOc2RzTXA1U0lCNWk3bmItcEFJczg3cm1hYmdjUlB4U1FNVVpsYm9xNE5mZUVZQzJIdHZZek9qUi1mZ295bmJldnl0VjlweWVjbk1KTUpDTDVkdWpYZVdOZ1FldjJwLTc4OUJXdDlWSEt1X1JyUUIwc1J1c1A3cmFEVF9FQk5qVURn?oc=5" target="_blank">Photographer Discovers Train Part That Could Hold Key to Spain Train Crash</a>&nbsp;&nbsp;<font color="#6f6f6f">The New York Times</font></li><li><a href="https://news.google.com/rss/articles/CBMimAFBVV95cUxQRkNGbTRiUlFiTW5XMHQzZHhPRkN1UFFpTE9rYkFaN2tmdmE4Ymk3bW55SWJ2cndsVEx4VDlXUHdPV2Yzc056QjlTTFA2c3Y1Zi1DRkdtMTNjTjhETlkwTk9Gb2NFUElCQ3VUc0I2S2V1Z2hiNU81SEVHbWtKY0htNkhoQ2MtTDU4c3ZMZjQ4QkhVMFo4X1BEMdIBngFBVV95cUxQb0pIWEstOWRPU0l5SkZJR3dwSmcyZ29Xc0drYXNuMG9zc3ZNMXVXMHZNa3c2S3ZKdTNmQjVVa3l4eGdtbnpWQ2NOVHZsLXhmdHczaXhrQTlBTFFLNEJoUmZEYXc3Vnl4dFd5QVpUX09FV1ozZ25kbHlUMHZ6QmNLRTZsdDU0MWFpLXZ4dlR0cGprbjJ6dWlDZW4ycmJwdw?oc=5" target="_blank">Another train crashes in Spain, killing 1 person, days after fatal high-speed collision</a>&nbsp;&nbsp;<font color="#6f6f6f">ABC News</font></li><li><a href="https://news.google.com/rss/articles/CBMixwFBVV95cUxQR3d3aGd0c0pidlFKYldpTEtseWZkcXA3TzVaNWo2SG8ydjNLS0d5ZVQ5c3Y3d2F1ekNjS1ZBNjlrMUcxZXRxOGhFMGVtUmljNW1xV29fdUhZOFhmb2dEelFkMmJfaUFJTUNTSmttU1hTX2cxdThhUFU3ZVI3djNSV0NJYUhWQ3ZnaGxVUlJHUGlrR1A2RGt3YnNybmN1WXlvbURFU3F5Nk4yeWxDSGR0azFtN1BoOGJhcTZtYWhXZDJnQW5zQVZr?oc=5" target="_blank">Part found near Spain train crash site may be missing undercarriage, experts say</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font></li><li><a href="https://news.google.com/rss/articles/CBMinwFBVV95cUxPOHh6d1Zob1c2S3VWSDNVYkptZ2I1VG10WkFhTWFKVWVHXzB1aWJsNXlranUycVozS1lzRDFMUjBqUEpHMWw0RnNqRlhCWXJQdVZXaFkzM2JTQ0Y2TGNrU3hIZGgzc2xDeEk0d19Dek5tLVlJdGVJaUxuZDRoQkg4TUlUY0VkT2d4ZlBGZDBOR3pyd3ZEUVlsb1VWWlkxaUk?oc=5" target="_blank">Spain’s rail network under scrutiny after second deadly crash in as many days</a>&nbsp;&nbsp;<font color="#6f6f6f">The Guardian</font></li><li><a href="https://news.google.com/rss/articles/CBMivAFBVV95cUxOYU90VjZ0bFpiQlA4ZGlQbVNndkN6cDV0eWp3d3g0ZmFEdjI4Q2RaakRnQ09HaTQ0T2Y0WE9ZV0dGSjJnLXE3TGtpU3JmV2RCWFdzajdrV3lJb2xJWVBKWDRibUFvYUdjd1hPRVpSUi1GX1lCRUtCQ21BUmNfUTgxMTlTeUV6TUtjaVNCbUZRR0FaaHVvQTJlLXZ0YXFIUUFORENYTWRVUmxtSFdqbmpNVXc4aTY5SmZIVkx6Tg?oc=5" target="_blank">Spain train crash: Getafe's Davinchi pays heart-breaking tribute to father who died</a>&nbsp;&nbsp;<font color="#6f6f6f">ESPN</font></li></ol>
