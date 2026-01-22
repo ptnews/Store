@@ -1,8 +1,8 @@
 ---
 title: "YouTube star Ms. Rachel emotionally apologizes for liking antisemitic comment, says it was an accident"
 date: 2026-01-22
-description: "YouTube star Ms. Rachel tearfully apologizes after accidentally liking antisemitic comment on Instagram, explaining she meant to delete it instead."
-summary: "YouTube star Ms. Rachel tearfully apologizes after accidentally liking antisemitic comment on Instagram, explaining she meant to delete it instead."
+description: "YouTube star Ms. Rachel tearfully apologizes after accidentally liking antisemitic comment on Instagram, explaining she had meant to delete it instead."
+summary: "YouTube star Ms. Rachel tearfully apologizes after accidentally liking antisemitic comment on Instagram, explaining she had meant to delete it instead."
 slug: "youtube-star-ms-rachel-emotionally-apologizes-for-liking-antisemitic-comment-says-it-was-an-accident"
 image: ''
 link: 'https://www.foxnews.com/media/youtube-star-ms-rachel-emotionally-apologizes-liking-antisemitic-comment-says-accident'
