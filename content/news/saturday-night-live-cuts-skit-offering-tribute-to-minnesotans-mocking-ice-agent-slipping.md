@@ -1,0 +1,21 @@
+---
+title: "'Saturday Night Live' cuts skit offering tribute to Minnesotans, mocking ICE agent slipping"
+date: 2026-01-22
+description: "&quot;Saturday Night Live&quot; reportedly cut cast member Tommy Brennan&apos;s politically-charged monologue defending Minneapolis and mocking ICE from the Jan. 17 episode."
+summary: "&quot;Saturday Night Live&quot; reportedly cut cast member Tommy Brennan&apos;s politically-charged monologue defending Minneapolis and mocking ICE from the Jan. 17 episode."
+slug: "saturday-night-live-cuts-skit-offering-tribute-to-minnesotans-mocking-ice-agent-slipping"
+image: ''
+link: 'https://www.foxnews.com/media/saturday-night-live-cuts-skit-offering-tribute-minnesotans-mocking-ice-agent-slipping'
+source: 'https://feeds.foxnews.com/foxnews/latest'
+categories:
+- 'feeds.foxnews.com'
+tags:
+- 'minnesotans'
+- 'saturday'
+- 'offering'
+- 'slipping'
+- 'tribute'
+
+draft: false
+---
+<p>"Saturday Night Live" cut a politically charged skit at the last minute from its latest episode featuring new cast member Tommy Brennan, who defended his home state and mocked ICE.</p><p>"New cast member Tommy Brennan, who grew up in St. Paul, had prepared a personal monologue for the Jan. 17 episode, which marked the show’s return from the holiday break," the <a href="https://www.startribune.com/saturday-night-live-tribute-to-minnesotans-gets-zapped-at-last-minute/601567909" target="_blank" rel="nofollow noopener">Minnesota Star Tribune reported</a>. "But the nearly four-minute piece was cut between dress rehearsal and the live broadcast. That’s not unusual; producer and show creator Lorne Michaels often eliminates sketches at the last minute because of time."</p><p>The speech <a href="https://www.youtube.com/watch?v=uA8Oury0a80" target="_blank" rel="nofollow noopener">was later posted</a> on "Saturday Night Live’s" official YouTube channel. The show frequently shares sketches that didn’t make it to air but were still performed before a live audience.</p><p><a href="https://www.foxnews.com/politics/vance-tells-minneapolis-stop-fighting-ice-white-house-doubles-down-crackdown" target="_blank" rel="noopener"><strong><u>VANCE TELLS MINNEAPOLIS TO ‘STOP FIGHTING’ ICE AS WHITE HOUSE DOUBLES DOWN ON CRACKDOWN</u></strong></a></p><p>Brennan, who joined the show this past season, expressed frustration over ICE raids in his home state but played a clip showing an ICE agent slipping on ice — a moment that drew loud laughter from the audience. Brennan said the incident gave him a "glimmer of hope."</p><p>"Did you hear the absolutely ecstatic reaction from the people around him? Minnesotans are famously nice — do you know how hard it is to get us to bully you?" he asked. "Here they are, squealing with joy. They sound like when kids meet Mickey Mouse. It’s just, ‘Oh my God! Yeah!’"</p><p>After replaying the clip several times as the audience laughed, Brennan added sarcastically, "Just to be clear, I’m not reveling in another person’s pain. If I wanted to do that, I would join ICE."</p><p><a href="https://www.foxnews.com/us/minnesota-agitators-stalk-pelt-border-patrol-agents-food-spit-gas-stations-dhs-says" target="_blank" rel="noopener"><strong><u>MINNESOTA AGITATORS STALK, PELT BORDER PATROL AGENTS WITH FOOD AND SPIT AT GAS STATIONS, DHS SAYS</u></strong></a></p><p>He then shifted to a more serious tone, saying, "Minneapolis is a <a href="https://www.foxnews.com/politics/meet-the-minnesotans-killed-by-illegal-immigrants-that-walz-dems-never-held-press-conferences-or-vigils-for" target="_blank" rel="noopener">city of immigrants</a>, and that’s what makes it great. I grew up playing on all-immigrant soccer teams, and let me tell you, it is not easy to catch those guys."</p><p>After mocking the ICE agent for slipping and running back to his car, Brennan quipped, "We’re not like them. We won’t jog back to the car, and we won’t slip up, because in Minnesota we’ve been dealing with ice our whole lives, bitch!" </p><p>ICE did not immediately respond to a request for comment from Fox News Digital. </p><p><a href="https://www.foxnews.com/media" target="_blank" rel="noopener"><strong><u>CLICK HERE FOR MORE COVERAGE OF MEDIA AND CULTURE</u></strong></a></p>
