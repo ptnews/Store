@@ -45,6 +45,15 @@
     "title": "Seven more countries agree to join Trump's Board of Peace - BBC"
   },
   {
+    "description": "The Giants are moving on from Senior Vice President Kevin Abrams one day after hiring John Harbaugh as head coach, ending his 25-year tenure with the organization.",
+    "image": "",
+    "link": "https://www.foxnews.com/sports/giants-part-longtime-executive-one-day-after-john-harbaugh-introduced-head-coach",
+    "pubDate": "2026-01-22",
+    "slug": "giants-part-with-longtime-executive-one-day-after-john-harbaugh-introduced-as-head-coach",
+    "source": "https://feeds.foxnews.com/foxnews/latest",
+    "title": "Giants part with longtime executive one day after John Harbaugh introduced as head coach"
+  },
+  {
     "description": "A judge ruled that New York’s only Republican-held congressional district is unconstitutional and ordered the state to redraw the map by next month.",
     "image": "",
     "link": "https://www.foxnews.com/politics/judge-rules-nycs-lone-republican-congressional-district-unconstitutional-orders-redraw",
@@ -259,15 +268,6 @@
     "slug": "peta-suggests-replacing-punxsutawney-phil-with-hologram-for-groundhog-day-let-phil-and-his-family-retire",
     "source": "https://feeds.foxnews.com/foxnews/latest",
     "title": "PETA suggests replacing Punxsutawney Phil with hologram for Groundhog Day: 'Let Phil and his family retire'"
-  },
-  {
-    "description": "Brendan Banfield broke down in tears as jurors watched police body camera video from the night his wife Christine was allegedly killed in their home.",
-    "image": "",
-    "link": "https://www.foxnews.com/us/nanny-affair-case-turns-emotional-alleged-killer-husband-watches-bodycam-video",
-    "pubDate": "2026-01-21",
-    "slug": "nanny-affair-case-turns-emotional-as-alleged-killer-husband-watches-bodycam-video",
-    "source": "https://feeds.foxnews.com/foxnews/latest",
-    "title": "Nanny affair case turns emotional as alleged killer husband watches bodycam video"
   },
   {
     "description": "Iran\u0026apos;s prosecutor general Mohammad Movahedi claims government crushed nationwide protests as death toll reaches 544 with over 10,681 arrested.",
@@ -891,6 +891,24 @@
     "title": "Hiring woes and 'super high' prices: Voters say Trump's progress on the US economy is mixed"
   },
   {
+    "description": "The BBC's Faisal Islam was in the room when President Trump told his audience that he would not use force in Greenland, but also launched a long argument for why the US should own it. ",
+    "image": "",
+    "link": "https://www.bbc.com/news/videos/cgk8evvl0jno?at_medium=RSS\u0026at_campaign=rss",
+    "pubDate": "2026-01-22",
+    "slug": "watch-how-was-trump-s-davos-speech-received",
+    "source": "http://feeds.bbci.co.uk/news/world/rss.xml",
+    "title": "Watch: How was Trump's Davos speech received?"
+  },
+  {
+    "description": "Cosmonaut Sergey Kud-Sverchkov captured the lights over Earth during one of the largest solar storms in more than 20 years.",
+    "image": "",
+    "link": "https://www.bbc.com/news/videos/cn40027nej0o?at_medium=RSS\u0026at_campaign=rss",
+    "pubDate": "2026-01-22",
+    "slug": "watch-russian-cosmonaut-captures-stunning-aurora-from-space",
+    "source": "http://feeds.bbci.co.uk/news/world/rss.xml",
+    "title": "Watch: Russian cosmonaut captures stunning aurora from space"
+  },
+  {
     "description": "Parts of Kamchatka Peninsula have been buried under its heaviest snowfall in 60 years, as scientists say the winter blast could be due to climate change.",
     "image": "",
     "link": "https://www.bbc.com/news/videos/c8e5901727zo?at_medium=RSS\u0026at_campaign=rss",
@@ -918,31 +936,49 @@
     "title": "More than 100 vehicles pile up on US motorway after crash"
   },
   {
-    "description": "Executive orders, pardons, trips and Truth Social posts - the BBC’s Analysis Editor breaks down Donald Trump’s first year back in office, in numbers.",
+    "description": "Swiss food giants Nestle has also recalled infant formula batches in recent weeks over toxin fears.",
     "image": "",
-    "link": "https://www.bbc.com/news/videos/cvgpr95npplo?at_medium=RSS\u0026at_campaign=rss",
+    "link": "https://www.aljazeera.com/news/2026/1/22/french-firm-lactalis-latest-to-recall-baby-formula-amid-contamination-scare?traffic_source=rss",
     "pubDate": "2026-01-22",
-    "slug": "ros-atkins-on-president-trump-s-year-in-numbers",
-    "source": "http://feeds.bbci.co.uk/news/world/rss.xml",
-    "title": "Ros Atkins on...President Trump's year in numbers"
+    "slug": "french-firm-lactalis-latest-to-recall-baby-formula-amid-contamination-scare",
+    "source": "https://aljazeera.com/xml/rss/all.xml",
+    "title": "French firm Lactalis latest to recall baby formula amid contamination scare"
   },
   {
-    "description": "The BBC's Guy Hedgecoe visited the scene, where a large police cordon is in place.",
+    "description": "Board was initially aimed at rebuilding Gaza due to Israeli genocide, but was later pitched as global conflict body.",
     "image": "",
-    "link": "https://www.bbc.com/news/videos/cn82xejl4e2o?at_medium=RSS\u0026at_campaign=rss",
+    "link": "https://www.aljazeera.com/news/liveblog/2026/1/22/live-trump-to-lead-signing-of-charter-for-gaza-board-of-peace-in-davos?traffic_source=rss",
     "pubDate": "2026-01-22",
-    "slug": "at-the-scene-of-spain-s-worst-rail-disaster-in-over-a-decade",
-    "source": "http://feeds.bbci.co.uk/news/world/rss.xml",
-    "title": "At the scene of Spain's worst rail disaster in over a decade"
+    "slug": "live-trump-to-lead-signing-of-charter-for-gaza-board-of-peace-in-davos",
+    "source": "https://aljazeera.com/xml/rss/all.xml",
+    "title": "LIVE: Trump to lead signing of charter for Gaza ‘Board of Peace’ in Davos"
   },
   {
-    "description": "Passengers recount the moment two trains collided between Málaga and Madrid on Sunday evening.",
+    "description": "The Palestinian village of Ras Ein al-Auja has held out against violent Israeli settlers - until now.",
     "image": "",
-    "link": "https://www.bbc.com/news/videos/c23r1rx5vp7o?at_medium=RSS\u0026at_campaign=rss",
+    "link": "https://www.aljazeera.com/features/2026/1/22/if-you-sleep-settlers-will-burn-your-house-fear-in-the-west-bank?traffic_source=rss",
     "pubDate": "2026-01-22",
-    "slug": "spain-train-crash-survivors-describe-absolutely-terrifying-scene",
-    "source": "http://feeds.bbci.co.uk/news/world/rss.xml",
-    "title": "Spain train crash survivors describe 'absolutely terrifying' scene"
+    "slug": "if-you-sleep-settlers-will-burn-your-house-fear-in-the-west-bank",
+    "source": "https://aljazeera.com/xml/rss/all.xml",
+    "title": "‘If you sleep, settlers will burn your house’: fear in the West Bank"
+  },
+  {
+    "description": "Rights groups condemn trial of three activists accused of \u0026#039;inciting subversion of state power\u0026#039;.",
+    "image": "",
+    "link": "https://www.aljazeera.com/news/2026/1/22/hong-kong-begins-national-security-trial-for-organisers-of-tiananmen-vigils?traffic_source=rss",
+    "pubDate": "2026-01-22",
+    "slug": "hong-kong-begins-national-security-trial-for-organisers-of-tiananmen-vigils",
+    "source": "https://aljazeera.com/xml/rss/all.xml",
+    "title": "Hong Kong begins national security trial for organisers of Tiananmen vigils"
+  },
+  {
+    "description": "On-the-ground campaigning kicks off on Thursday, but parties have been locked in online battles for month. ",
+    "image": "",
+    "link": "https://www.aljazeera.com/features/2026/1/22/tiktok-facebook-youtube-bangladeshs-latest-election-battlegrounds?traffic_source=rss",
+    "pubDate": "2026-01-22",
+    "slug": "bangladesh-s-latest-election-battlegrounds-tiktok-facebook-youtube",
+    "source": "https://aljazeera.com/xml/rss/all.xml",
+    "title": "Bangladesh’s latest election battlegrounds: TikTok, Facebook, YouTube"
   },
   {
     "description": "Several people were missing after heavy rains caused flooding and landslides across New Zealand\u0026#039;s North Island.",
@@ -1123,50 +1159,5 @@
     "slug": "ecuador-announces-30-percent-tariff-on-colombia-over-drug-trafficking",
     "source": "https://aljazeera.com/xml/rss/all.xml",
     "title": "Ecuador announces 30 percent tariff on Colombia over drug trafficking"
-  },
-  {
-    "description": "Amid growing unrest in wake of Minnesota killing, rights observers say US Congress must take action to curtail agency.",
-    "image": "",
-    "link": "https://www.aljazeera.com/news/2026/1/21/public-opinion-shifts-on-ice-as-advocates-warn-of-us-inflection-point?traffic_source=rss",
-    "pubDate": "2026-01-21",
-    "slug": "public-opinion-shifts-on-ice-as-advocates-warn-of-us-inflection-point",
-    "source": "https://aljazeera.com/xml/rss/all.xml",
-    "title": "Public opinion shifts on ICE as advocates warn of US ‘inflection point’"
-  },
-  {
-    "description": "Ancient Khmer temples along the Thailand-Cambodia border have been damaged or destroyed by recent fighting.",
-    "image": "",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/1/21/ancient-khmer-temples-scarred-by-thailand-cambodia-conflict?traffic_source=rss",
-    "pubDate": "2026-01-21",
-    "slug": "ancient-khmer-temples-scarred-by-thailand-cambodia-conflict",
-    "source": "https://aljazeera.com/xml/rss/all.xml",
-    "title": "Ancient Khmer temples scarred by Thailand-Cambodia conflict"
-  },
-  {
-    "description": "Greenlanders reacted with sceptical relief to Donald Trump ruling out military force to take the territory.",
-    "image": "",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/1/21/relieved-sceptical-insulted-greenlanders-react-to-trump-at-davos?traffic_source=rss",
-    "pubDate": "2026-01-21",
-    "slug": "relieved-sceptical-insulted-greenlanders-react-to-trump-at-davos",
-    "source": "https://aljazeera.com/xml/rss/all.xml",
-    "title": "Relieved, sceptical, insulted: Greenlanders react to Trump at Davos"
-  },
-  {
-    "description": "During two hours of arguments, some justices pressed US lawyer on why Cook was not given a chance to formally respond.",
-    "image": "",
-    "link": "https://www.aljazeera.com/economy/2026/1/21/us-supreme-court-appears-reluctant-to-let-trump-fire-feds-lisa-cook?traffic_source=rss",
-    "pubDate": "2026-01-21",
-    "slug": "us-supreme-court-appears-reluctant-to-let-trump-fire-fed-s-lisa-cook",
-    "source": "https://aljazeera.com/xml/rss/all.xml",
-    "title": "US Supreme Court appears reluctant to let Trump fire Fed’s Lisa Cook"
-  },
-  {
-    "description": "US president says \u0026#039;framework of a future deal\u0026#039; on Greenland and wider Arctic region reached with NATO chief Mark Rutte.",
-    "image": "",
-    "link": "https://www.aljazeera.com/news/2026/1/21/trump-nixes-european-tariff-threats-over-greenland-after-nato-chief-talks?traffic_source=rss",
-    "pubDate": "2026-01-21",
-    "slug": "trump-drops-tariff-threat-says-he-won-t-use-force-to-take-greenland",
-    "source": "https://aljazeera.com/xml/rss/all.xml",
-    "title": "Trump drops tariff threat, says he won’t use force to take Greenland"
   }
 ]
