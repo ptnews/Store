@@ -1,0 +1,21 @@
+---
+title: "Trump launches ‘Board of Peace’ at Davos, testing global order - The Washington Post"
+date: 2026-01-22
+description: "Trump launches ‘Board of Peace’ at Davos, testing global order&nbsp;&nbsp;The Washington PostPutin Says Russia Could Donate to ‘Board of Peace’ if U.S. Unfroze Assets&nbsp;&nbsp;The New York TimesTrump hosts signing ceremony for Board of Peace in Davos despite reservations from key allies&nbsp;&nbsp;ABC NewsTrump signed his Gaza 'Board of Peace' into being. Here's who's on it — and who isn't&nbsp;&nbsp;CNBCWhy did Israel join Trump’s ‘Board of Peace’ after raising objections?&nbs..."
+summary: "Trump launches ‘Board of Peace’ at Davos, testing global order&nbsp;&nbsp;The Washington PostPutin Says Russia Could Donate to ‘Board of Peace’ if U.S. Unfroze Assets&nbsp;&nbsp;The New York TimesTrump hosts signing ceremony for Board of Peace in Davos despite reservations from key allies&nbsp;&nbsp;ABC NewsTrump signed his Gaza 'Board of Peace' into being. Here's who's on it — and who isn't&nbsp;&nbsp;CNBCWhy did Israel join Trump’s ‘Board of Peace’ after raising objections?&nbs..."
+slug: "trump-launches-board-of-peace-at-davos-testing-global-order-the-washington-post"
+image: ''
+link: 'https://news.google.com/rss/articles/CBMilgFBVV95cUxOZzhVZ29kRkx1T25Zb3BrN051aHduRy0taFdHUmpSekNsQ1pEVEtoYmhTRHgtNmVURFdwcEdBcFpiVkVITzZ4Z28tV2UxSU9haXQxN0tqdFdLSnNSenZhbzEtbHZGQzMyZGxKS3B2bVFZNTh3dVYyWThac0FqQW1hTkpHOU91cWlYTlByYkw4NjktMDBoTlE?oc=5'
+source: 'https://news.google.com/rss/topics/CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx1YlY4U0FtVnVHZ0pWVXlnQVAB?hl=en-US&gl=US&ceid=US:en'
+categories:
+- 'news.google.com'
+tags:
+- 'washington'
+- 'launches'
+- 'testing'
+- 'global'
+- 'trump'
+
+draft: false
+---
+<ol><li><a href="https://news.google.com/rss/articles/CBMilgFBVV95cUxOZzhVZ29kRkx1T25Zb3BrN051aHduRy0taFdHUmpSekNsQ1pEVEtoYmhTRHgtNmVURFdwcEdBcFpiVkVITzZ4Z28tV2UxSU9haXQxN0tqdFdLSnNSenZhbzEtbHZGQzMyZGxKS3B2bVFZNTh3dVYyWThac0FqQW1hTkpHOU91cWlYTlByYkw4NjktMDBoTlE?oc=5" target="_blank">Trump launches ‘Board of Peace’ at Davos, testing global order</a>&nbsp;&nbsp;<font color="#6f6f6f">The Washington Post</font></li><li><a href="https://news.google.com/rss/articles/CBMikAFBVV95cUxNVE5teFR6WmsyajJFdng5YzhFeFloeWEzVFg5WHlIUDVKMUJRNmFDUHBCV2ZubVNmVC1pLURkOHhDa1k5SDBJUnNWelJmWUt2Q1lsbVpOQjRiS0VxZTBzRW5hRWdsQThqVGlSYV9VempUVzBxMGFjRVRiU2loVFVZSnlWNXMwS0tRTFR2RXFvZ2w?oc=5" target="_blank">Putin Says Russia Could Donate to ‘Board of Peace’ if U.S. Unfroze Assets</a>&nbsp;&nbsp;<font color="#6f6f6f">The New York Times</font></li><li><a href="https://news.google.com/rss/articles/CBMiqAFBVV95cUxOcHZZbmxFbGF6clh4d3B4cDdnSGZyQlAxU2lmbERzRGFIQ3BicXg4U0QtZ0JWdVlGeUdCMUJqTXZaRVRwTWtZb2xVekFGaWd3RlhfWUJzWnFiTjhYaXh1R211b0l5OXNXcnBMSTZhdUNDQUpzNjNxNmVrODZqdDhRd1Z6WTd0ZHJFcks1VVBzUVpGeTZ5dFFJN0ZTamtGY3RROXpjb3NIdGM?oc=5" target="_blank">Trump hosts signing ceremony for Board of Peace in Davos despite reservations from key allies</a>&nbsp;&nbsp;<font color="#6f6f6f">ABC News</font></li><li><a href="https://news.google.com/rss/articles/CBMifkFVX3lxTFBQdlR0MGFOOEtGUGhrWVlhLUdOYmlMWkt0U3c2cTNMX1JfRFV4VWpDZWRWSmdudEFLdkNkQWFLNjBYWmI5dkRPQlNyVkVGdU1PMExMNm5XdndybGhlOTIzWml2cHN5aGZhc3JFM084MEZjV3JpTlAxMGgtcE95UdIBgwFBVV95cUxQZjB4NEFBUXJEWUlBb1E3QTAwS2hGMjJnMDRqSFI2YWJ6RWtSZW9QY3BQd1hkdmdmX3lacmcwR01VNnFGZUMzWGxPR2FZY1hmTVdmdVpxbTVsWlk1NVFlVkZYb01pRERjMHRad2o1VTdjWkFMMjRmTm9CUVBWa2tJbzBWVQ?oc=5" target="_blank">Trump signed his Gaza 'Board of Peace' into being. Here's who's on it — and who isn't</a>&nbsp;&nbsp;<font color="#6f6f6f">CNBC</font></li><li><a href="https://news.google.com/rss/articles/CBMisAFBVV95cUxOZ3UwUVJIcmZvNS1EenJuV3JCLVlPNlhocFo1VXVnbThVZkRGSFRMN0ZfQlJjVWJCUlJOMDA0T0VCUHBJSXlXZUduRU15dk9lcXFnNllHRGl0Z0gySkQ0SElSZGdsR0lIdUc3NDFpdndqQXB5SUQ0N2p0Z0pfaU82clE2RmpQalpxWWt1c0hRQ2pJWTc0ZlJnVFpEUUwzT0lnRldCWExiQXZtcmVEVVB4SNIBtgFBVV95cUxNNXlhTk9TV3FpeHdvbEpZYTRUTmZkXzZGVk5NQnN2c1ZsZWw3bEV0QW9WSng4YTRvUkNhMDZaOXJQSWI0XzVYRnlMYmQ0RWttRDFFSkJjRW4zOU5TTS1ndlAxTmVNMnBHbUtqcjdENUtlUE5DdXZUYjRLRlc0a0c3SUoyUXlITDZpQ0RMR3hFclI4MVR3MjJ5RUVmQzVGQUtBMkZaS2R4YmZDNDB1X3BUX1JJZ1BHQQ?oc=5" target="_blank">Why did Israel join Trump’s ‘Board of Peace’ after raising objections?</a>&nbsp;&nbsp;<font color="#6f6f6f">Al Jazeera</font></li></ol>

@@ -1,0 +1,21 @@
+---
+title: "European leaders to gather in Brussels to 'coordinate' plans on Trump, Greenland - ABC News"
+date: 2026-01-22
+description: "European leaders to gather in Brussels to 'coordinate' plans on Trump, Greenland&nbsp;&nbsp;ABC NewsTreasury Secretary Bessent says Denmark and its investment in the US are ‘irrelevant’&nbsp;&nbsp;CNNThe 5 Europeans deciding how to handle Trump&nbsp;&nbsp;politico.euDenmark Owns $10 Billion in Treasuries. It Isn’t Completely ‘Irrelevant.’&nbsp;&nbsp;Barron'sEurope’s Leaders Scramble to Find a Path Forward With Trump&nbsp;&nbsp;The New York Times"
+summary: "European leaders to gather in Brussels to 'coordinate' plans on Trump, Greenland&nbsp;&nbsp;ABC NewsTreasury Secretary Bessent says Denmark and its investment in the US are ‘irrelevant’&nbsp;&nbsp;CNNThe 5 Europeans deciding how to handle Trump&nbsp;&nbsp;politico.euDenmark Owns $10 Billion in Treasuries. It Isn’t Completely ‘Irrelevant.’&nbsp;&nbsp;Barron'sEurope’s Leaders Scramble to Find a Path Forward With Trump&nbsp;&nbsp;The New York Times"
+slug: "european-leaders-to-gather-in-brussels-to-coordinate-plans-on-trump-greenland-abc-news"
+image: ''
+link: 'https://news.google.com/rss/articles/CBMivgFBVV95cUxOcHBmQUUyRlJ5X1pLTDRjZEFLal9NUUEwZXN3RkZ1eTNiZkRzZEhBSHZxODF6X01hTTdmMDV3dnUyU0RJdUQtOHZneUlXTllaTjJHOGgxekV6c2gweGJUR0JJaFJkTzhnblBBbXN2ZTdNZ0Z5QV9zbTNMRElyaDBicjJRR0t1REk0QjhsMTI4ZzJWa25XaGdfeW14VjBJb1Q4WWhXOU9IWE5OSWNuWkpiUzZwSTctdEp1ME0zVmt30gHDAUFVX3lxTFBQVl9RdmRrRjFoTmRDdUZoaHBzWmhUcFVxSU1MdVpoNDRWNDk2MWhHTnk0MkNJRWh5UUVmOFZsLXhiU0tLYXFvRnZMRmNGMXpDN2NqWHRnWjFKRTdRcEZGM2xRdlFfVmloS0F6VFNETUJKZ2s1ekd6NEg2RmtKOW51U3Y3R3EzTkhPR2Z6bGlQeVF4dUw3NWpoaVl2cHlfdi1LY2dkWUFKQ2huTXBuam5CdkNGWmRhQ1hqRTg4OFBaYVNsUQ?oc=5'
+source: 'https://news.google.com/rss/topics/CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx1YlY4U0FtVnVHZ0pWVXlnQVAB?hl=en-US&gl=US&ceid=US:en'
+categories:
+- 'news.google.com'
+tags:
+- 'coordinate'
+- 'greenland'
+- 'european'
+- 'brussels'
+- 'leaders'
+
+draft: false
+---
+<ol><li><a href="https://news.google.com/rss/articles/CBMivgFBVV95cUxOcHBmQUUyRlJ5X1pLTDRjZEFLal9NUUEwZXN3RkZ1eTNiZkRzZEhBSHZxODF6X01hTTdmMDV3dnUyU0RJdUQtOHZneUlXTllaTjJHOGgxekV6c2gweGJUR0JJaFJkTzhnblBBbXN2ZTdNZ0Z5QV9zbTNMRElyaDBicjJRR0t1REk0QjhsMTI4ZzJWa25XaGdfeW14VjBJb1Q4WWhXOU9IWE5OSWNuWkpiUzZwSTctdEp1ME0zVmt30gHDAUFVX3lxTFBQVl9RdmRrRjFoTmRDdUZoaHBzWmhUcFVxSU1MdVpoNDRWNDk2MWhHTnk0MkNJRWh5UUVmOFZsLXhiU0tLYXFvRnZMRmNGMXpDN2NqWHRnWjFKRTdRcEZGM2xRdlFfVmloS0F6VFNETUJKZ2s1ekd6NEg2RmtKOW51U3Y3R3EzTkhPR2Z6bGlQeVF4dUw3NWpoaVl2cHlfdi1LY2dkWUFKQ2huTXBuam5CdkNGWmRhQ1hqRTg4OFBaYVNsUQ?oc=5" target="_blank">European leaders to gather in Brussels to 'coordinate' plans on Trump, Greenland</a>&nbsp;&nbsp;<font color="#6f6f6f">ABC News</font></li><li><a href="https://news.google.com/rss/articles/CBMigAFBVV95cUxQUklRYzM4WmpBb3Bzc3ZQYV81YnJPUEdfcW0tN3lqVzczTTl1OVJRZFE5NTNBZnhqNS1QRlVsSlVYTzZoeXR2dHdtd3NsdlB1YlNFNldubHkwMS1QZVlNbUdEN3p1bjBiUEpDZFJ1MlZUQWFQNEtsR0U2OGdQcDFrRA?oc=5" target="_blank">Treasury Secretary Bessent says Denmark and its investment in the US are ‘irrelevant’</a>&nbsp;&nbsp;<font color="#6f6f6f">CNN</font></li><li><a href="https://news.google.com/rss/articles/CBMiekFVX3lxTE5UdFdBN3c4QkxoelZucVJYek9vYXlQbVhaeXc4SW9nYmctUDNTcGhZeHk0TjQxM2NaTm0wallzSHFPd21veVRMTTV1OGZ0czlCcDI5VnhEd1RRMGo4NnpHb3dKSWZFS254SXotVGhYSzJFcXhvVF9GeTdR?oc=5" target="_blank">The 5 Europeans deciding how to handle Trump</a>&nbsp;&nbsp;<font color="#6f6f6f">politico.eu</font></li><li><a href="https://news.google.com/rss/articles/CBMihgFBVV95cUxQNVNWMjMxd25JRml3S09fYzYyMWR1UjZQeGpBam5GUHZKYXNqd2JkT1pwUnZRMjR3U1ItNUswcVpxb1lfdUNQU3FzcUkzcXlILXhPbnZaWGxZWHRmTEtMTF9LcHVIYkNwbE9WakJWLVFHdmZfWXhidDBIRVNhM2dpakVSb3RvUQ?oc=5" target="_blank">Denmark Owns $10 Billion in Treasuries. It Isn’t Completely ‘Irrelevant.’</a>&nbsp;&nbsp;<font color="#6f6f6f">Barron's</font></li><li><a href="https://news.google.com/rss/articles/CBMimAFBVV95cUxPZUIteFo0UnJmWmlObG9hbjRsMkREWHYtcTZuU1lTWENmTy0yRWNFRmhwZk1wYlQybm5jcVRDV0FFcVo1M3NsVjU1OExfc0FzanVsdzc1NVpESTNCbVpCUVZ3VGt5a25GdV9EYWh3ZTNPZXhfenJPbnc0WUlLUzBoU2M3cldCZU5OeGZPMkV0TUNsejdmcVNTNw?oc=5" target="_blank">Europe’s Leaders Scramble to Find a Path Forward With Trump</a>&nbsp;&nbsp;<font color="#6f6f6f">The New York Times</font></li></ol>
