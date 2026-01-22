@@ -1,0 +1,21 @@
+---
+title: "ICE seeking detention of 3 alleged MS-13 members accused of murdering 14-year-old boy"
+date: 2026-01-22
+description: "ICE issued detainers for three alleged MS-13 members accused of murdering 14-year-old Jefferson Amaya-Ayala in a Maryland park slaying last year."
+summary: "ICE issued detainers for three alleged MS-13 members accused of murdering 14-year-old Jefferson Amaya-Ayala in a Maryland park slaying last year."
+slug: "ice-seeking-detention-of-3-alleged-ms-13-members-accused-of-murdering-14-year-old-boy"
+image: ''
+link: 'https://www.foxnews.com/politics/ice-seeking-detention-3-alleged-ms-13-members-accused-murdering-14-year-old-boy'
+source: 'https://feeds.foxnews.com/foxnews/latest'
+categories:
+- 'feeds.foxnews.com'
+tags:
+- 'detention'
+- 'murdering'
+- 'seeking'
+- 'alleged'
+- 'members'
+
+draft: false
+---
+<p>U.S. Immigration and Customs Enforcement (ICE) issued detainers Thursday against three alleged <a href="https://www.foxnews.com/category/topic/ms-13" target="_blank" rel="noopener">MS-13 members</a> accused of murdering a 14-year-old boy in Maryland, Fox News has learned.</p><p>ICE says the three suspects — Alan Josai Garcia Padilla, Jose Vladimir Merlos-Majano and William Ariel Cuellar Guiterrez — are all illegal immigrants from El Salvador. Authorities in College Park, Maryland, say the victim, Jefferson Amaya-Ayala, was lured to a public park and murdered Aug. 2.</p><p>"This heinous murder of a child by MS-13 gang members is reprehensible. This murder was completely preventable. All three of these gang members had prior run-ins with law enforcement. ICE should have been notified following their arrests," Assistant Secretary Tricia McLaughlin said in a statement.</p><p>"Joe Biden and sanctuary politicians allowed gang members to terrorize our communities and released them from jails following their arrests. Under President Trump and Secretary Noem, we’ve already arrested 7,000 gang members."</p><p><a href="https://www.foxnews.com/politics/exclusive-17500-illegal-immigrants-arrested-under-laken-riley-act-trumps-second-term" target="_blank" rel="noopener"><strong>EXCLUSIVE: 17,500 ILLEGAL IMMIGRANTS ARRESTED UNDER LAKEN RILEY ACT IN TRUMP’S SECOND TERM</strong></a></p><p>Two of the migrants, Garcia-Padilla and Guiterrez, had previously been arrested and released under former President Joe Biden's administration. Both had been brought up on gun-related charges.</p><p>Merlos-Majano also had previous arrests for defacing public property and possession of a prohibited weapon.</p><p><a href="https://www.foxnews.com/politics/over-1000-arrested-massive-minnesota-operation-including-murderers-rapists-pedophiles" target="_blank" rel="noopener"><strong><u>OVER 1,000 ARRESTED IN ‘MASSIVE’ MINNESOTA OPERATION, INCLUDING MURDERERS, RAPISTS, PEDOPHILES</u></strong></a></p><p>President Donald Trump's administration has focused on capturing and deporting criminal illegal aliens across the country. Thursday's detainers come after ICE launched Operation Catch of the Day <a href="https://www.foxnews.com/category/us/us-regions/northeast/maine" target="_blank" rel="noopener"><u>across Maine</u></a>, arresting over 50 people since Tuesday.</p><p><a href="https://www.foxnews.com/category/politics/executive/homeland-security" target="_blank" rel="noopener"><u>DHS said the operation</u></a> follows ongoing disagreements with Maine officials over cooperation with federal immigration enforcement and comes as the administration increases pressure on jurisdictions it says limit arrests of criminal illegal aliens.</p><p>"Governor Mills and her fellow sanctuary politicians in Maine have made it abundantly clear that they would rather stand with criminal illegal aliens than protect law-abiding American citizens," McLaughlin said. "We have launched Operation Catch of the Day to target the worst of the worst criminal illegal aliens in the state.</p><p>"On the first day of operations, we arrested illegal aliens convicted of aggravated assault, false imprisonment and endangering the welfare of a child," she continued. "Under President Trump and Secretary Noem, we are no longer allowing criminal illegal aliens to terrorize American citizens."</p>
