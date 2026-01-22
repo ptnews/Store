@@ -1,0 +1,21 @@
+---
+title: "Ex-American tennis stars rip reporter over question to Amanda Anisimova"
+date: 2026-01-22
+description: "Former American tennis stars John Isner and Tennys Sandgren came to the defense of Amanda Anisimova over a cynical question about the state of the U.S."
+summary: "Former American tennis stars John Isner and Tennys Sandgren came to the defense of Amanda Anisimova over a cynical question about the state of the U.S."
+slug: "ex-american-tennis-stars-rip-reporter-over-question-to-amanda-anisimova"
+image: ''
+link: 'https://www.foxnews.com/sports/ex-american-tennis-stars-rip-reporter-over-question-amanda-anisimova'
+source: 'https://feeds.foxnews.com/foxnews/latest'
+categories:
+- 'feeds.foxnews.com'
+tags:
+- 'anisimova'
+- 'american'
+- 'reporter'
+- 'question'
+- 'tennis'
+
+draft: false
+---
+<p>Former American tennis stars John Isner and Tennys Sandgren slammed a reporter’s line of questioning aimed at Amanda Anisimova on Thursday while she was at the <a href="https://www.foxnews.com/category/sports/tennis/australian-open" target="_blank" rel="noopener">Australian Open</a>.</p><p><a href="https://www.foxnews.com/sports/tennis-star-amanda-anisimova-dismisses-reporters-cynical-question-about-us-i-dont-think-thats-relevant" target="_blank" rel="noopener">Anisimova was pressed</a> by a reporter to share her thoughts about the U.S. and playing under the American flag. She didn’t take the bait from the reporter and he clarified what he meant in a follow-up ask.</p><p><a href="https://www.foxnews.com/sports" target="_blank" rel="noopener"><strong>CLICK HERE FOR MORE SPORTS COVERAGE ON FOXNEWS.COM</strong></a></p><p>"In the context of the last year of everything that’s been happening in the U.S., does that complicate that feeling at all?" the reporter asked.</p><p>"I don’t think that’s relevant," she fired back.</p><p>Isner was among those who ripped the question on social media.</p><p>"Popular opinion: Let’s ask tennis questions to the players at a tennis tournament. This is so lame," Isner wrote on X.</p><p>Sandgren didn’t mince words either.</p><p><a href="https://www.foxnews.com/sports/american-tennis-star-madison-keys-takes-swipe-trump-admin-australian-open" target="_blank" rel="noopener"><strong>AMERICAN TENNIS STAR MADISON KEYS TAKES SWIPE AT TRUMP ADMIN AT AUSTRALIAN OPEN</strong></a></p><p>"Bug reporter," he added. "Go write for the Economist if you have the chops. If not ask her how her backhand felt and move on."</p><p>Anisimova’s answer was a stark contrast from what Coco Gauff said during the tournament earlier this week.</p><p>Gauff was asked about her thoughts on the "state of the U.S." one year into President <a href="https://www.foxnews.com/category/person/donald-trump" target="_blank" rel="noopener noreferrer nofollow">Donald Trump</a>’s second term.</p><p>"I hope forward that we can have a lot more peace in our country and more kindness in the way we speak to each other about different topics and things like that," she said, via <a href="https://x.com/TheTennisLetter/status/2013922549168766984" target="_blank" rel="noopener noreferrer nofollow">The Tennis Letter</a>. "Obviously, I’ve been pretty vocal about how I felt. At this point, I feel a bit fatigued talking about it just because of the fact that it is hard also being a Black woman in this country and having to experience things, even online, and seeing marginalized communities being affected. And knowing that I can only donate and speak out. I try my best to do that.</p><p>"But, yeah, I hope that as time continues that we can reach a state that we’re not currently in, and we keep moving forward. I posted the video of Martin Luther King and that was kind of saying, ‘We must keep moving forward,’ even as things may not be as calm as I’d like it to be right now."</p><p><i><strong>Follow Fox News Digital’s</strong></i><a href="https://twitter.com/FoxNewsSports_" target="_blank" rel="noopener"><i><strong> <u>sports coverage on X</u></strong></i></a><i><strong> and subscribe to</strong></i><a href="https://www.foxnews.com/newsletters" target="_blank" rel="noopener"><i><strong><u> the Fox News Sports Huddle newsletter</u></strong></i></a><i><strong>.</strong></i></p>
