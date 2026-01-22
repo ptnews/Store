@@ -1,0 +1,21 @@
+---
+title: "Catholic university in Chicago covers 'abortion care services' through student health plan"
+date: 2026-01-22
+description: "Catholic university Loyola Chicago reportedly offers abortion coverage in student health insurance plan despite Jesuit identity and church teachings."
+summary: "Catholic university Loyola Chicago reportedly offers abortion coverage in student health insurance plan despite Jesuit identity and church teachings."
+slug: "catholic-university-in-chicago-covers-abortion-care-services-through-student-health-plan"
+image: ''
+link: 'https://www.foxnews.com/media/catholic-university-chicago-covers-abortion-care-services-through-student-health-plan'
+source: 'https://feeds.foxnews.com/foxnews/latest'
+categories:
+- 'feeds.foxnews.com'
+tags:
+- 'university'
+- 'catholic'
+- 'abortion'
+- 'services'
+- 'chicago'
+
+draft: false
+---
+<p>Student healthcare plans for at least the past four years for students at <a href="https://www.foxnews.com/category/us/chicago" target="_blank" rel="noopener">Loyola University Chicago</a> included language that said "benefits include abortion care services."</p><p><a href="https://www.foxnews.com/category/us/chicago" target="_blank" rel="noopener">Loyola University Chicago,</a> despite being a Jesuit institution, <a href="https://www.thecollegefix.com/abortion-care-still-covered-by-catholic-loyola-university-chicago/" target="_blank" rel="noopener noreferrer nofollow"><u>continues to offer</u></a> "abortion care services" to students despite the school’s Catholic identity, while also offering prenatal, postpartum, and postnatal care. </p><p><a href="https://www.uhcsr.com/uhcsrbrochures/public/clientbrochures/2025-1291-1%20Certificate.pdf" target="_blank" rel="nofollow noopener">The 2025-2026</a> UnitedHealthcare Student Health Insurance Plan Certificate of Coverage features the university’s logo along with the Jesuit motto Ad Majorem Dei Gloriam, which, translated from Latin, means, "For the greater glory of God," says that "benefits include abortion care services." </p><p><a href="https://www.foxnews.com/media/new-childrens-book-sparks-outrage-calling-abortion-superpower" target="_blank" rel="noopener"><strong><u>NEW CHILDREN’S BOOK SPARKS OUTRAGE FOR CALLING ABORTION A ‘SUPERPOWER’</u></strong></a></p><p>The plan also states that "<a href="https://www.foxnews.com/category/health/reproductive-health" target="_blank" rel="noopener">voluntary sterilization procedures</a>" are covered as well. </p><p>The document further says that "Benefits will be paid the same as any other sickness for the following contraceptive services and contraceptive methods," which include FDA approved contraceptive products, devices and drugs, patient education, contraceptive services, and follow-up services related to contraceptive products, devices, and drugs.</p><p>Abortion has always been against Catholic teaching, and during recent <a href="https://www.vatican.va/content/leo-xiv/en/speeches/2026/january/documents/20260109-corpo-diplomatico.html" target="_blank" rel="noopener noreferrer nofollow"><u>remarks</u></a> to members of the diplomatic corps, <a href="https://www.foxnews.com/media/pope-denounces-abortion-warns-against-surrogacy-exploitation-mothers-children" target="_blank" rel="noopener">Pope Leo XIV denounced abortion</a>. </p><p>"In light of this profound <a href="https://www.foxnews.com/category/faith-values" target="_blank" rel="noopener">vision of life as a gift</a> to be cherished, and of the family as its responsible guardian, we categorically reject any practice that denies or exploits the origin of life and its development," Pope Leo said.</p><p><a href="https://www.foxnews.com/us/students-life-report-finds-massive-uptick-christian-colleges-support-abortion-planned-parenthood" target="_blank" rel="noopener"><strong>STUDENTS FOR LIFE REPORT FINDS MASSIVE UPTICK IN CHRISTIAN COLLEGES' SUPPORT FOR ABORTION, PLANNED PARENTHOOD</strong></a></p><p>"Among these is abortion, which cuts short a growing life and refuses to welcome the gift of life," the pope said. "In this regard, the Holy See expresses deep concern about projects aimed at financing cross-border mobility for the purpose of accessing the so-called ‘right to safe abortion.’"</p><p>Fox News Digital has reached out to Loyola University Chicago for comment. </p>
