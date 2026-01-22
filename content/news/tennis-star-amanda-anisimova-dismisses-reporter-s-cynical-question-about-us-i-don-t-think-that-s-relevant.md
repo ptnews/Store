@@ -1,0 +1,21 @@
+---
+title: "Tennis star Amanda Anisimova dismisses reporter's cynical question about US: 'I don't think that's relevant'"
+date: 2026-01-22
+description: "American tennis star Amanda Anisimova didn&apos;t take the bait when she was asked for her thoughts on the U.S. in the last year over &quot;everything that&apos;s been happening.&quot;"
+summary: "American tennis star Amanda Anisimova didn&apos;t take the bait when she was asked for her thoughts on the U.S. in the last year over &quot;everything that&apos;s been happening.&quot;"
+slug: "tennis-star-amanda-anisimova-dismisses-reporter-s-cynical-question-about-us-i-don-t-think-that-s-relevant"
+image: ''
+link: 'https://www.foxnews.com/sports/tennis-star-amanda-anisimova-dismisses-reporters-cynical-question-about-us-i-dont-think-thats-relevant'
+source: 'https://feeds.foxnews.com/foxnews/latest'
+categories:
+- 'feeds.foxnews.com'
+tags:
+- 'anisimova'
+- 'dismisses'
+- 'reporter'
+- 'question'
+- 'relevant'
+
+draft: false
+---
+<p><a href="https://www.foxnews.com/category/sports/tennis" target="_blank" rel="noopener">American tennis star</a> Amanda Anisimova dismissed a tennis reporter’s question about how it felt to play in the U.S. with "everything that’s been happening."</p><p>Anisimova was among the American players who received a similar question at the <a href="https://www.foxnews.com/category/sports/tennis/australian-open" target="_blank" rel="noopener">Australian Open</a> this week. First, she was asked how it felt to "play under the American flag right now."</p><p><a href="https://www.foxnews.com/sports" target="_blank" rel="noopener"><strong>CLICK HERE FOR MORE SPORTS COVERAGE ON FOXNEWS.COM</strong></a></p><p>"I was born in America. So, I’m always proud to represent my country," the New Jersey native said. "A lot of us are doing really well, and it’s great to see a lot of great athletes on the women’s side and men’s side. I feel like we’re all doing a great job representing ourselves."</p><p>The reporter later tried to clarify the question, asking "in the context of the last year of everything that’s been happening in the U.S., does that complicate that feeling at all?"</p><p>"I don’t think that’s relevant," she fired back.</p><p><a href="https://www.foxnews.com/sports/american-tennis-star-coco-gauff-gives-her-thoughts-state-us-year-trumps-second-term" target="_blank" rel="noopener"><strong>AMERICAN TENNIS STAR COCO GAUFF GIVES HER THOUGHTS ON STATE OF US YEAR INTO TRUMP'S SECOND TERM</strong></a></p><p>Anisimova’s answer was a stark contrast from what Coco Gauff said during the tournament earlier this week.</p><p>Gauff was asked about her thoughts on the "state of the U.S." one year into President <a href="https://www.foxnews.com/category/person/donald-trump" target="_blank" rel="noopener">Donald Trump</a>’s second term.</p><p>"I hope forward that we can have a lot more peace in our country and more kindness in the way we speak to each other about different topics and things like that," she said, via <a href="https://x.com/TheTennisLetter/status/2013922549168766984" target="_blank" rel="nofollow noopener">The Tennis Letter</a>. "Obviously, I’ve been pretty vocal about how I felt. At this point, I feel a bit fatigued talking about it just because of the fact that it is hard also being a Black woman in this country and having to experience things, even online, and seeing marginalized communities being affected. And knowing that I can only donate and speak out. I try my best to do that.</p><p>"But, yeah, I hope that as time continues that we can reach a state that we’re not currently in, and we keep moving forward. I posted the video of Martin Luther King and that was kind of saying, ‘We must keep moving forward,’ even as things may not be as calm as I’d like it to be right now."</p><p><i><strong>Follow Fox News Digital’s</strong></i><a href="https://twitter.com/FoxNewsSports_" target="_blank" rel="noopener"><i><strong> <u>sports coverage on X</u></strong></i></a><i><strong> and subscribe to</strong></i><a href="https://www.foxnews.com/newsletters" target="_blank" rel="noopener"><i><strong><u> the Fox News Sports Huddle newsletter</u></strong></i></a><i><strong>.</strong></i></p>

@@ -1,0 +1,21 @@
+---
+title: "Idaho murder victims' families express outrage after crime scene photos accidentally released"
+date: 2026-01-22
+description: "Crime scene photos from the 2022 Idaho student murders were accidentally released, sparking outrage from victims&apos; families who called for respect."
+summary: "Crime scene photos from the 2022 Idaho student murders were accidentally released, sparking outrage from victims&apos; families who called for respect."
+slug: "idaho-murder-victims-families-express-outrage-after-crime-scene-photos-accidentally-released"
+image: ''
+link: 'https://www.foxnews.com/us/idaho-murder-victims-families-express-outrage-after-crime-scene-photos-accidentally-released'
+source: 'https://feeds.foxnews.com/foxnews/latest'
+categories:
+- 'feeds.foxnews.com'
+tags:
+- 'accidentally'
+- 'families'
+- 'released'
+- 'victims'
+- 'express'
+
+draft: false
+---
+<p><strong>WARNING: Graphic Content</strong></p><p>Crime scene photographs from the 2022 murders of four <a href="https://www.foxnews.com/category/us/us-regions/west/idaho" target="_blank" rel="noopener">University of Idaho</a> students were accidentally released this week, triggering outrage from victims’ families.</p><p>According to family members, the photographs showed the interior of the off-campus Moscow, Idaho, home where students Xana Kernodle, Kaylee Goncalves, Madison Mogen and Ethan Chapin were stabbed to death on Nov. 13, 2022.</p><p>The family of Goncalves said the <a href="https://www.foxnews.com/category/us/personal-freedoms/privacy" target="_blank" rel="noopener">exposure of the images</a> reflected a lapse in judgment and basic safeguards, arguing that evidence from a quadruple homicide should never have been made accessible without strict controls.</p><p>"Please be kind &amp; as difficult as it is, place yourself outside of yourself &amp; consume the content as if it were your loved one," the Goncalves family said in a statement. "Your daughter, your sister, your son or brother. <a href="https://www.foxnews.com/category/crime" target="_blank" rel="noopener">Murder isn’t entertainment</a> &amp; crime scene photos aren’t content."</p><p><a href="https://www.foxnews.com/us/idaho-murders-bodycam-footage-shows-surviving-roommates-chilling-account" target="_blank" rel="noopener"><strong><u>IDAHO MURDERS BODYCAM FOOTAGE SHOWS SURVIVING ROOMMATE'S CHILLING ACCOUNT</u></strong></a></p><p>In earlier court filings, families sought emergency intervention to prevent further dissemination of the images.</p><p>A motion for a temporary restraining order was filed Aug. 12, and Judge Megan Marshall granted the request on Aug. 15. Court records show a permanent injunction barring further release of certain materials was issued Oct. 1.</p><p>Attorneys for the city of Moscow told the court that while they may personally oppose releasing the images, their authority is limited by Idaho’s public records law, which generally favors disclosure and allows only narrow privacy exemptions. They described themselves as "middlemen" under the statute.</p><p>The city has already released redacted body-camera footage and photos showing parts of the interior of the home at 1122 King Road.</p><p><a href="https://www.foxnews.com/category/us/true-crime" target="_blank" rel="noopener"><strong>LIKE WHAT YOU'RE READING? FIND MORE ON THE TRUE CRIME HUB</strong></a></p><p><a href="https://www.foxnews.com/newsletters" target="_blank" rel="noopener"><strong>SIGN UP TO GET TRUE CRIME NEWSLETTER</strong></a></p><p>The photographs emerged more than three years after <a href="https://www.foxnews.com/category/us/bryan-kohberger" target="_blank" rel="noopener">Bryan Kohberger</a> was charged in the killings.</p><p>In July 2025, Kohberger pleaded guilty to <a href="https://www.foxnews.com/category/us/crime/homicide" target="_blank" rel="noopener">four counts of first-degree murder</a> as part of a plea agreement that spared him the death penalty. He was sentenced to four consecutive life terms without the possibility of parole and is incarcerated at the Idaho Maximum Security Institution.</p><p>The <a href="https://www.foxnews.com/category/us/crime/police-and-law-enforcement" target="_blank" rel="noopener">Idaho State Police</a> did not immediately respond to Fox News Digital's request for comment.</p>

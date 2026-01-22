@@ -1,0 +1,21 @@
+---
+title: "Israeli fire strikes journalists and children on one of Gaza's deadliest days since ceasefire - NBC News"
+date: 2026-01-22
+description: "Israeli fire strikes journalists and children on one of Gaza's deadliest days since ceasefire&nbsp;&nbsp;NBC News3 journalists killed in Israeli airstrike in Gaza, including cameraman who worked with CBS News&nbsp;&nbsp;CBS NewsIsrael kills 3 journalists in Gaza, including CBS News contributor&nbsp;&nbsp;The Washington PostThree journalists among 11 Palestinians killed in Israel’s attacks on Gaza&nbsp;&nbsp;Al JazeeraIsraeli fire strikes journalists and children in Gaza&nbsp;&nbsp;NPR"
+summary: "Israeli fire strikes journalists and children on one of Gaza's deadliest days since ceasefire&nbsp;&nbsp;NBC News3 journalists killed in Israeli airstrike in Gaza, including cameraman who worked with CBS News&nbsp;&nbsp;CBS NewsIsrael kills 3 journalists in Gaza, including CBS News contributor&nbsp;&nbsp;The Washington PostThree journalists among 11 Palestinians killed in Israel’s attacks on Gaza&nbsp;&nbsp;Al JazeeraIsraeli fire strikes journalists and children in Gaza&nbsp;&nbsp;NPR"
+slug: "israeli-fire-strikes-journalists-and-children-on-one-of-gaza-s-deadliest-days-since-ceasefire-nbc-news"
+image: ''
+link: 'https://news.google.com/rss/articles/CBMitwFBVV95cUxPYzE3bGRWZm1WanV2dzBvc2wzcDkzeGQ3S2VoRWVwN2NCSlFnYjI0YlItNGdKVC14Z1ZRaVlmeGNlUVJfMXg1OVJXOHB1aTh1eWdCVVEtaWpxSHFWLThhRGxRck5obWRITkhPVWRweV9BR0cybndEVEZwM1dYSjFkT1Y0Q2tmMnpZX3NWMDdSSld4VGsxLVRWakdEMHJEWTlxQU5scEhJWHVUWUdGLUtYZUkydVhYRkU?oc=5'
+source: 'https://news.google.com/rss/topics/CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx1YlY4U0FtVnVHZ0pWVXlnQVAB?hl=en-US&gl=US&ceid=US:en'
+categories:
+- 'news.google.com'
+tags:
+- 'journalists'
+- 'deadliest'
+- 'ceasefire'
+- 'children'
+- 'israeli'
+
+draft: false
+---
+<ol><li><a href="https://news.google.com/rss/articles/CBMitwFBVV95cUxPYzE3bGRWZm1WanV2dzBvc2wzcDkzeGQ3S2VoRWVwN2NCSlFnYjI0YlItNGdKVC14Z1ZRaVlmeGNlUVJfMXg1OVJXOHB1aTh1eWdCVVEtaWpxSHFWLThhRGxRck5obWRITkhPVWRweV9BR0cybndEVEZwM1dYSjFkT1Y0Q2tmMnpZX3NWMDdSSld4VGsxLVRWakdEMHJEWTlxQU5scEhJWHVUWUdGLUtYZUkydVhYRkU?oc=5" target="_blank">Israeli fire strikes journalists and children on one of Gaza's deadliest days since ceasefire</a>&nbsp;&nbsp;<font color="#6f6f6f">NBC News</font></li><li><a href="https://news.google.com/rss/articles/CBMigAFBVV95cUxNbmQ1Q3R0QUFLdk1qc3NUbG1MWUJROUFTN0JMb3ZjNk5IZEVFRGRPbi1jZVBCRGRMd09YM0t0MHV3RDNzcW1lSnlyTFJjanpVZlI2SlN4UXFZZjNvWGEyVWZpemtTWWU2UnVQZWotY3B2V1kyWkVrRURMdmw3aW5PQtIBhgFBVV95cUxQc0FzcFNHWUZucmc0NENvWG5HU1lyQTRFcExPY2hxdmVxUm5rdHkyM0Vxc25TbHZQZ2dObEU4aDFiR1pyNVFiRFNCckZBVm9oUDNaeEZOZ1JTV3FCd0RYZFhFcTJsYWNhX0s3TlU2S2NWcE5iNi1MdFN3Y3hPU2hGcEZaNHMtZw?oc=5" target="_blank">3 journalists killed in Israeli airstrike in Gaza, including cameraman who worked with CBS News</a>&nbsp;&nbsp;<font color="#6f6f6f">CBS News</font></li><li><a href="https://news.google.com/rss/articles/CBMikgFBVV95cUxQYXh1eWZwTlpHT0E4MDc5ZlhVQ2V4TWpGa25SOU5aTTV0N2h4RHhQWUF4WHpVM05Fa0Qyd20tVTV0eDZYSGZyb1R3YzAxMFlQemN5R3YyYmNMYmdIZk1PVnVtaHdsWEhqUENzT21ZWkdkNGlFWU01S3RySkxiY05aZ0xuTzlneTI4Z0Uwc09oZjltZw?oc=5" target="_blank">Israel kills 3 journalists in Gaza, including CBS News contributor</a>&nbsp;&nbsp;<font color="#6f6f6f">The Washington Post</font></li><li><a href="https://news.google.com/rss/articles/CBMitAFBVV95cUxPVEJGekgxRVdBa09BVEY0RzJqeFdZVFVEOWxqMGdOSVJfLVBGR19XQzBacHB5djA4bldBQ3BiOE44SFVxV21BRHhzZWxSUXM4NGJLRk9XSkVtUFVMbHJjRnY2NEdIa0MxRURaWU05MXRFTzhWSUZDRjVOcXpfczdhQjVqYzRxQWt0VVBxUUJaV3FaWC1jc2RGQl8tTHA2LVoteGdkTW1JUmdXOERMMHNTY2k5TmrSAboBQVVfeXFMTVZKWFJKdDFEZFdacUhNTVBpUWQ2M0VVa3RzRlBqX1lLVU9qaGpVM3RtLXhsTHNZU0UzcGFEZG15OV9YaGlqd2VrN1NySWoxN1VvVC12SE54bi1Ycl9GQWZIWVJiQWpiWk42RS10dEEtYXU1aC1yZWhQaXdteXFyNHRCRnpzbkUxd0JRMlVmclRHOHJ1cHdLZ0VXUWZvbWJUUjZhRl81bnpGRjVXWnpvSHpYcGlRREs4bHZB?oc=5" target="_blank">Three journalists among 11 Palestinians killed in Israel’s attacks on Gaza</a>&nbsp;&nbsp;<font color="#6f6f6f">Al Jazeera</font></li><li><a href="https://news.google.com/rss/articles/CBMib0FVX3lxTFA5TXVYN1d3ZGUySTRkXzE2Nkh2WWhRS1VEd1YxXy1HWm45RG5PWjhiU3lrRV9VMHB4UHdQUnlOdnVMV3dMVmtHcktLUFp1aXBXQVVYSU1DdmRlc2c5TFk3c3pGaFVpVWxCNzhIZWk5QQ?oc=5" target="_blank">Israeli fire strikes journalists and children in Gaza</a>&nbsp;&nbsp;<font color="#6f6f6f">NPR</font></li></ol>

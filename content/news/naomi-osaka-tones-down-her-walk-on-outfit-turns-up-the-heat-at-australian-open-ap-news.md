@@ -1,0 +1,21 @@
+---
+title: "Naomi Osaka tones down her walk-on outfit. Turns up the heat at Australian Open - AP News"
+date: 2026-01-22
+description: "Naomi Osaka tones down her walk-on outfit. Turns up the heat at Australian Open&nbsp;&nbsp;AP NewsNaomi Osaka caught off guard by Cirstea's frigid handshake&nbsp;&nbsp;ESPNAustralian Open recap: Osaka and Cîrstea’s handshake drama as tournament comes to life&nbsp;&nbsp;The New York TimesNaomi Osaka, Sorana Cirstea share icy post-match moment at Australian Open&nbsp;&nbsp;Fox NewsNaomi Osaka apologizes to Sorana Cîrstea for tense handshake after win: 'I don't like disrespecting people'&nbsp;&..."
+summary: "Naomi Osaka tones down her walk-on outfit. Turns up the heat at Australian Open&nbsp;&nbsp;AP NewsNaomi Osaka caught off guard by Cirstea's frigid handshake&nbsp;&nbsp;ESPNAustralian Open recap: Osaka and Cîrstea’s handshake drama as tournament comes to life&nbsp;&nbsp;The New York TimesNaomi Osaka, Sorana Cirstea share icy post-match moment at Australian Open&nbsp;&nbsp;Fox NewsNaomi Osaka apologizes to Sorana Cîrstea for tense handshake after win: 'I don't like disrespecting people'&nbsp;&..."
+slug: "naomi-osaka-tones-down-her-walk-on-outfit-turns-up-the-heat-at-australian-open-ap-news"
+image: ''
+link: 'https://news.google.com/rss/articles/CBMipAFBVV95cUxOQkpRNWZaNV9KYVZXUjF3TXc4VTdLSDNrb0NjV28xOEk1UXpmd29PTlJEbGRPR1F1YU55blR1VFRaYS1vOEVqN0xMeEVBcGVBeTdzVDI2djJ3UU85Nnk3ejh0ZEZVdVRubEtGbzZMQXJ0eS1Qb0tkZUhBV0k2OVpQdjVwaHI0V3lYRU8xSUN4LUNNUFdXSlJwcUtnTUppYnNlSUxFYw?oc=5'
+source: 'https://news.google.com/rss/topics/CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx1YlY4U0FtVnVHZ0pWVXlnQVAB?hl=en-US&gl=US&ceid=US:en'
+categories:
+- 'news.google.com'
+tags:
+- 'australian'
+- 'outfit'
+- 'naomi'
+- 'osaka'
+- 'tones'
+
+draft: false
+---
+<ol><li><a href="https://news.google.com/rss/articles/CBMipAFBVV95cUxOQkpRNWZaNV9KYVZXUjF3TXc4VTdLSDNrb0NjV28xOEk1UXpmd29PTlJEbGRPR1F1YU55blR1VFRaYS1vOEVqN0xMeEVBcGVBeTdzVDI2djJ3UU85Nnk3ejh0ZEZVdVRubEtGbzZMQXJ0eS1Qb0tkZUhBV0k2OVpQdjVwaHI0V3lYRU8xSUN4LUNNUFdXSlJwcUtnTUppYnNlSUxFYw?oc=5" target="_blank">Naomi Osaka tones down her walk-on outfit. Turns up the heat at Australian Open</a>&nbsp;&nbsp;<font color="#6f6f6f">AP News</font></li><li><a href="https://news.google.com/rss/articles/CBMioAFBVV95cUxPM1FGczhoeWdjNFVvXzUycThPamdyYUR0TnFtZmljVGFrU0dQSENPTlhIQjlPNXNRM1Y2dE5xQWtnUVVIWHQ3clRka0RoVVlIQzJhSkZhM25OOTNLei1MdFZKRGJfVzd0YjV3cnNTb05hUl9HbHlSamN5WU5UaVRDZ2ZVNm51MlpXT09xLU5WVkpQQXVvWjJYZGk1MkFfWHZv?oc=5" target="_blank">Naomi Osaka caught off guard by Cirstea's frigid handshake</a>&nbsp;&nbsp;<font color="#6f6f6f">ESPN</font></li><li><a href="https://news.google.com/rss/articles/CBMipgFBVV95cUxOQzhVYmJrU0trVWF4TmU2WGRDT25XOExnd05aVkNjaGlWUzBPeTZDcHZmOWNSdXRZUkl0VFEtV0ZtVlBxUTI3TnBfcS1QUDQ2d3JIVWRGNHFLUlBsOXozVTFZaHh3U0p1Q3hjZVlPRFRsVVc1Vko1c0s2U0tfUnhTdTA5THVWekQ2c2s0cjNoekc2U0hxMThHRnllQlRDN0RpUG1adWZ3?oc=5" target="_blank">Australian Open recap: Osaka and Cîrstea’s handshake drama as tournament comes to life</a>&nbsp;&nbsp;<font color="#6f6f6f">The New York Times</font></li><li><a href="https://news.google.com/rss/articles/CBMiowFBVV95cUxNbWdzTjFXdEZaRHdYYkNCYWFtVzA1YTlEb1BTd2pDUnF1dnRUeHRKdE05OTdsMkdxdkF4cmtUVXVrZlNTOUZ3WmVIa2x3dEN3VENGODRiNjlTVHJUOHBOZ1FDSHZFQ3g4UW9ZMTYtMU81ZU9xMHYzbmhZUktfV0J2U3dKQU0zVlRERDhSVHhSZ3paOENYUzdKczI3dnZSZlh1TGlB0gGoAUFVX3lxTE8wV0pJZU1rX29URVZrc1hkZlJCbkV2TnJtcnZPbkdUc0VWTDZHdjVGWXNuNWtaODhNUWlwR2lMckpmUUluU19kSGtwajJtblQ5bFFrenRsZEJWaEVMMjl6Q0VCR2JYdGQteDFSMU9aUDhWcnMwYTZDLU5Hd0dOeHZlb3NVUW1Bekw4ZTZRYjR2SDR3aE01MEYtdXVZTVdhZmY1SC1oaE9IVA?oc=5" target="_blank">Naomi Osaka, Sorana Cirstea share icy post-match moment at Australian Open</a>&nbsp;&nbsp;<font color="#6f6f6f">Fox News</font></li><li><a href="https://news.google.com/rss/articles/CBMi7wFBVV95cUxNVDgxR1Y3dTdlVFE1aTRyX0kxSTl3bHhzdDJZNHBxVmJ4N0NVNXhfSmdjdEFFbFQwbWhLTk94c3J6TlZldmhwNFdJVWdsUEdWRW5jandKWDd3YUgxTzh6cjhpNGdDNDdtQURmQTJIVU8tOXdud2FoZ3JJa0FFM3RWdVZEeVZ5VFpCNkV4T2hweWRzRVNjRk0tX0dmbGwyS1BiMFkxVEwweDZJTjYtRzRCSDJnNmdxYjMwS2tVWTVKTzlQRTVlT29kT3Qzbk5iQXhDX05HZDlMeHlzc3NOaUVoMFp4Z3EtMU9BUHdBZUdCSQ?oc=5" target="_blank">Naomi Osaka apologizes to Sorana Cîrstea for tense handshake after win: 'I don't like disrespecting people'</a>&nbsp;&nbsp;<font color="#6f6f6f">Yahoo Sports</font></li></ol>
