@@ -1,0 +1,21 @@
+---
+title: "Indiana's Fernando Mendoza shares lessons from national championship win on LinkedIn"
+date: 2026-01-22
+description: "Indiana quarterback Fernando Mendoza went viral on LinkedIn, sharing business lessons from winning the College Football Playoff national championship."
+summary: "Indiana quarterback Fernando Mendoza went viral on LinkedIn, sharing business lessons from winning the College Football Playoff national championship."
+slug: "indiana-s-fernando-mendoza-shares-lessons-from-national-championship-win-on-linkedin"
+image: ''
+link: 'https://www.foxnews.com/sports/indianas-fernando-mendoza-shares-lessons-from-national-championship-win-linkedin'
+source: 'https://feeds.foxnews.com/foxnews/latest'
+categories:
+- 'feeds.foxnews.com'
+tags:
+- 'championship'
+- 'fernando'
+- 'national'
+- 'linkedin'
+- 'indiana'
+
+draft: false
+---
+<p><a href="https://www.foxnews.com/category/sports/ncaa/indiana-hoosiers" target="_blank" rel="noopener">Indiana star</a> quarterback Fernando Mendoza is not only a star on the field, but on LinkedIn, too.</p><p>LinkedIn is a professional networking platform that connects people for career development, job seeking, and recruiting. Mendoza posted on the platform what winning a College Football Playoff <a href="https://www.foxnews.com/category/sports/ncaa-fb" target="_blank" rel="noopener">National Championship</a> taught him about business-to-business sales.</p><p>"Here’s what winning a National Championship taught me about business-to-business sales (kidding … kinda)," Mendoza posted on LinkedIn.</p><p><a href="https://www.foxnews.com/sports" target="_blank" rel="noopener"><strong>CLICK HERE FOR MORE SPORTS COVERAGE ON FOXNEWS.COM</strong></a></p><p>"1. Believe in yourself: Four years ago, I was a two-star recruit playing high school football 30 minutes from Hard Rock Stadium with a dream of playing at the highest level. Two days ago, I became a National Champion in that same stadium, surrounded by the family who never stopped believing in me," Mendoza wrote.</p><p>"2. Take the risk: When it’s fourth-and-5 at the 12-yard line, go for it. 3. Remember who got you there: Thank you to my teammates, coaches, support staff, professors, and everyone behind the scenes who helped make this happen."</p><p>Mendoza has been thrust into the national spotlight this season. The 22-year-old won the Heisman Trophy and led the team to an undefeated season.</p><p><a href="https://www.foxnews.com/sports/fernando-mendozas-brother-enters-transfer-portal-after-indiana-wins-national-title" target="_blank" rel="noopener"><strong>FERNANDO MENDOZA'S BROTHER ENTERS TRANSFER PORTAL AFTER INDIANA WINS NATIONAL TITLE</strong></a></p><p>Mendoza credited his coaches and the support of the fans for helping him make "the unbelievable believable."</p><p>"Monday night, my teammates and I had the honor of <a href="https://www.foxnews.com/sports/indiana-wins-college-football-playoff-national-championship-thriller-over-miami" target="_blank" rel="noopener">raising the National Championship trophy</a> and bringing a CFB title back to Bloomington, Indiana, for the first time in history. With the guidance of our coaches and the unwavering support of Hoosier Nation, our band of brothers made the unbelievable believable."</p><p>Mendoza, after a season in which he completed 72% of his passes for 3,535 yards, with 41 touchdowns and six interceptions, has positioned himself to be the top pick in the 2026 NFL Draft. The <a href="https://www.foxnews.com/category/sports/nfl/las-vegas-raiders" target="_blank" rel="noopener">Las Vegas Raiders</a> currently hold the No. 1 overall pick and need a franchise quarterback.</p><p>Maybe Mendoza will have another LinkedIn update about business-to-business sales if he does indeed get selected by the Raiders with the top pick in the draft.</p><p><i><strong>Follow Fox News Digital’s</strong></i><a href="https://twitter.com/FoxNewsSports_" target="_blank" rel="noopener"><i><strong> sports coverage on X</strong></i></a><i><strong>, and subscribe to</strong></i><a href="https://www.foxnews.com/newsletters" target="_blank" rel="noopener"><i><strong> the Fox News Sports Huddle newsletter</strong></i></a><i><strong>.</strong></i></p>

@@ -1,0 +1,21 @@
+---
+title: "Australian Open 2026: Naomi Osaka and Sorana Cirstea have awkward handshake after Osaka's second-round win - BBC"
+date: 2026-01-22
+description: "Australian Open 2026: Naomi Osaka and Sorana Cirstea have awkward handshake after Osaka's second-round win&nbsp;&nbsp;BBCNaomi Osaka, Sorana Cirstea share icy post-match moment at Australian Open&nbsp;&nbsp;Fox NewsAustralian Open recap: Osaka and Cîrstea’s handshake drama as tournament comes to life&nbsp;&nbsp;The New York TimesNaomi Osaka apologizes to Sorana Cîrstea for comments following tense handshake after win: 'I don't like disrespecting people'&nbsp;&nbsp;Yahoo SportsNaomi Osaka bat..."
+summary: "Australian Open 2026: Naomi Osaka and Sorana Cirstea have awkward handshake after Osaka's second-round win&nbsp;&nbsp;BBCNaomi Osaka, Sorana Cirstea share icy post-match moment at Australian Open&nbsp;&nbsp;Fox NewsAustralian Open recap: Osaka and Cîrstea’s handshake drama as tournament comes to life&nbsp;&nbsp;The New York TimesNaomi Osaka apologizes to Sorana Cîrstea for comments following tense handshake after win: 'I don't like disrespecting people'&nbsp;&nbsp;Yahoo SportsNaomi Osaka bat..."
+slug: "australian-open-2026-naomi-osaka-and-sorana-cirstea-have-awkward-handshake-after-osaka-s-second-round-win-bbc"
+image: ''
+link: 'https://news.google.com/rss/articles/CBMiZEFVX3lxTE9NVzRaVGc3SENuZzR3SnZSamFaVU5Wb1dCYXBTMU5kLTRUVHZuc3c3emtIYjVMRGZVYXNZV05zdEFrT3o4OGxyaUFhLXgxT0EzLXg2RXJyTXVZcVhoLVRmX3N1V1c?oc=5'
+source: 'https://news.google.com/rss/topics/CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx1YlY4U0FtVnVHZ0pWVXlnQVAB?hl=en-US&gl=US&ceid=US:en'
+categories:
+- 'news.google.com'
+tags:
+- 'australian'
+- 'handshake'
+- 'cirstea'
+- 'awkward'
+- 'sorana'
+
+draft: false
+---
+<ol><li><a href="https://news.google.com/rss/articles/CBMiZEFVX3lxTE9NVzRaVGc3SENuZzR3SnZSamFaVU5Wb1dCYXBTMU5kLTRUVHZuc3c3emtIYjVMRGZVYXNZV05zdEFrT3o4OGxyaUFhLXgxT0EzLXg2RXJyTXVZcVhoLVRmX3N1V1c?oc=5" target="_blank">Australian Open 2026: Naomi Osaka and Sorana Cirstea have awkward handshake after Osaka's second-round win</a>&nbsp;&nbsp;<font color="#6f6f6f">BBC</font></li><li><a href="https://news.google.com/rss/articles/CBMiowFBVV95cUxNbWdzTjFXdEZaRHdYYkNCYWFtVzA1YTlEb1BTd2pDUnF1dnRUeHRKdE05OTdsMkdxdkF4cmtUVXVrZlNTOUZ3WmVIa2x3dEN3VENGODRiNjlTVHJUOHBOZ1FDSHZFQ3g4UW9ZMTYtMU81ZU9xMHYzbmhZUktfV0J2U3dKQU0zVlRERDhSVHhSZ3paOENYUzdKczI3dnZSZlh1TGlB0gGoAUFVX3lxTE8wV0pJZU1rX29URVZrc1hkZlJCbkV2TnJtcnZPbkdUc0VWTDZHdjVGWXNuNWtaODhNUWlwR2lMckpmUUluU19kSGtwajJtblQ5bFFrenRsZEJWaEVMMjl6Q0VCR2JYdGQteDFSMU9aUDhWcnMwYTZDLU5Hd0dOeHZlb3NVUW1Bekw4ZTZRYjR2SDR3aE01MEYtdXVZTVdhZmY1SC1oaE9IVA?oc=5" target="_blank">Naomi Osaka, Sorana Cirstea share icy post-match moment at Australian Open</a>&nbsp;&nbsp;<font color="#6f6f6f">Fox News</font></li><li><a href="https://news.google.com/rss/articles/CBMipgFBVV95cUxOQzhVYmJrU0trVWF4TmU2WGRDT25XOExnd05aVkNjaGlWUzBPeTZDcHZmOWNSdXRZUkl0VFEtV0ZtVlBxUTI3TnBfcS1QUDQ2d3JIVWRGNHFLUlBsOXozVTFZaHh3U0p1Q3hjZVlPRFRsVVc1Vko1c0s2U0tfUnhTdTA5THVWekQ2c2s0cjNoekc2U0hxMThHRnllQlRDN0RpUG1adWZ3?oc=5" target="_blank">Australian Open recap: Osaka and Cîrstea’s handshake drama as tournament comes to life</a>&nbsp;&nbsp;<font color="#6f6f6f">The New York Times</font></li><li><a href="https://news.google.com/rss/articles/CBMiiAJBVV95cUxQeF9mR0MzVWJKMjZJRmJoNUV0RkpBc2RBbTlGQ0V6QmNfazV0U1o0WTBOMW9KVWpWNEctbGR1Zy1GWDc4dEluTE0tMGxxdERHNkF4clpnU3BWenBid2hvSVR6amstUTRfdmJvNXBHdHBNM3VnNHFZdzA2ZWhOX09EbTNteEVEb19DcWxUU0hYLWswdXAtWWpzVEU4NVhGZXEwblNuX0hPbjM2ODZCdDl5ekE3czlodmctU2FYR2dYQU9kcW9fS21USE5JcHRfOHZTUGtYMzdqcXQ5UHNXRTBGV1RnNWlyajZxb0Q4WnlXb0dIT3U0NlRpRnR4SURwXzNlcWJ1d1BYXzE?oc=5" target="_blank">Naomi Osaka apologizes to Sorana Cîrstea for comments following tense handshake after win: 'I don't like disrespecting people'</a>&nbsp;&nbsp;<font color="#6f6f6f">Yahoo Sports</font></li><li><a href="https://news.google.com/rss/articles/CBMikgFBVV95cUxNY0EtcDdWM1B4aGZLVmRDR3hqSDBzQXVYQ3JNQklTNmZRVFpjeHc3WS04SnpCQmdlaWxzZXlPX3dHSy1HN3l5NE50eV83aEJ0OFJrNDRMcjVkY21YUno3NWVSVldFV0JDWXR5bUZzVmtNLVVaMHY4R2hZNUhBcWlDN3ZfR2FSVk1Xa1lwckJQX2tHQQ?oc=5" target="_blank">Naomi Osaka battles past Cirstea but emotions boil over in ‘fair play’ row</a>&nbsp;&nbsp;<font color="#6f6f6f">The Guardian</font></li></ol>
