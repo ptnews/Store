@@ -1,0 +1,21 @@
+---
+title: "US-born Olympian Eileen Gu defends decision to represent China again in upcoming Winter Games"
+date: 2026-01-22
+description: "Two-time Olympic gold medalist Eileen Gu defended her choice to represent China in freestyle skiing, saying the U.S. &quot;already has the representation.&quot;"
+summary: "Two-time Olympic gold medalist Eileen Gu defended her choice to represent China in freestyle skiing, saying the U.S. &quot;already has the representation.&quot;"
+slug: "us-born-olympian-eileen-gu-defends-decision-to-represent-china-again-in-upcoming-winter-games"
+image: ''
+link: 'https://www.foxnews.com/sports/us-born-olympian-eileen-gu-defends-decision-represent-china-again-upcoming-winter-games'
+source: 'https://feeds.foxnews.com/foxnews/latest'
+categories:
+- 'feeds.foxnews.com'
+tags:
+- 'represent'
+- 'olympian'
+- 'decision'
+- 'upcoming'
+- 'defends'
+
+draft: false
+---
+<p><a href="https://www.foxnews.com/category/sports/olympics" target="_blank" rel="noopener">Two-time Olympic gold medalist</a> and freestyle skiing star Eileen Gu will once again compete for China instead of the United States at next month’s Winter Olympics, insisting the United States "already has the representation," despite previous backlash over her decision.</p><p>Gu, who was born in California, faced criticism in 2022 for her decision to represent China in the Beijing Olympics, where she claimed gold in the women’s freeski big air and halfpipe and silver in the women’s freeski slopestyle. </p><p>In an interview with <a href="https://time.com/7355691/eileen-gu-interview-2026-olympics/" target="_blank" rel="nofollow noopener">TIME Magazine,</a> Gu said her decision was based more on her ability to inspire participation in the sport which traditionally was not popular in China. </p><p><a href="https://www.foxnews.com/sports" target="_blank" rel="noopener"><strong>CLICK HERE FOR MORE SPORTS COVERAGE ON FOXNEWS.COM</strong></a></p><p>"The U.S. already has the representation," Gu said. "I like building my own pond."</p><p>TIME also noted in the interview that, "[Gu] insists the potential to earn more representing Chinese companies didn’t cross her mind. ‘I’m glad that there’s enough money in the sport now for people to think that’s a consideration,’ she says."</p><p>Gu, whose mother is Chinese, grew up in <a href="https://www.foxnews.com/category/us/san-francisco" target="_blank" rel="noopener">San Francisco</a>, but she previously said before the 2022 Winter Games that she estimates she's spent at least a quarter of her life in China. </p><p><a href="https://www.foxnews.com/sports/us-olympic-freeskier-eileen-gu-citizenship-gold-china" target="_blank" rel="noopener"><strong><u>US-BORN OLYMPIC FREESKIER EILEEN GU DODGES QUESTIONS ABOUT CITIZENSHIP AFTER WINNING GOLD FOR CHINA</u></strong></a></p><p>Questions about her citizenship status were a major point of contention during her previous Olympic outing because the Chinese government does not allow dual citizenship, meaning the California native would have had to give up her U.S. citizenship in order to do so.  </p><p>She dodged several questions at the time about whether she relished her U.S. citizenship. TIME noted that Gu "decline[d] to engage on the citizenship question," and that there was no evidence to suggest that she had relinquished her citizenship.</p><p>"I don’t really see how that’s relevant," she said. </p><p>Gu, 22, enters Italy as the heavy favorite to defend her titles. She picked up her record-extending 20th World Cup career victory and her fourth in slopestyle with a win at the <a href="https://www.foxnews.com/sports/controversial-us-born-chinese-olympic-skier-eileen-gu-suffers-terrible-accident-training-report" target="_blank" rel="noopener">Laax Open in Switzerland</a> last week.</p><p><i>The Associated Press contributed to this report. </i></p><p><i><strong>Follow Fox News Digital’s</strong></i><a href="https://twitter.com/FoxNewsSports_" target="_blank" rel="noopener"><i><strong><u> sports coverage on X</u></strong></i></a><i><strong>, and subscribe to</strong></i><a href="https://www.foxnews.com/newsletters" target="_blank" rel="noopener"><i><strong><u> the Fox News Sports Huddle newsletter</u></strong></i></a><i><strong>.</strong></i></p>

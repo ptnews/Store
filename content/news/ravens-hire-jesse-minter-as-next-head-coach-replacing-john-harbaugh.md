@@ -18,4 +18,4 @@ tags:
 
 draft: false
 ---
-<p>The Baltimore Ravens' replacement for John Harbaugh is someone who was once on his staff.,</p><p>Former Los Angeles Chargers defensive coordinator Jesse Minter, who has been working alongside Harbaugh's older brother, Jim, since their days at Michigan, is signing a five-year deal to be the team's next head coach, the Ravens announced on Thursday. </p><p><i>This is a breaking news story. More to come.</i></p>
+<p>The Baltimore Ravens' replacement for John Harbaugh is someone who was once on his staff.</p><p>Former Los Angeles Chargers defensive coordinator Jesse Minter, who has been working alongside Harbaugh's younger brother, Jim, since their days at Michigan, is signing a five-year deal to be the team's next head coach, the Ravens announced on Thursday. </p><p><i>This is a breaking news story. More to come.</i></p>
