@@ -1,6 +1,6 @@
 ---
 title: "Locked exits, panic and desperate calls for help: Survivors tell of mall fire horror"
-date: 2026-01-21
+date: 2026-01-22
 description: "The BBC speaks to eyewitnesses and survivors of the fire that ripped through a busy Pakistan shopping centre. "
 summary: "The BBC speaks to eyewitnesses and survivors of the fire that ripped through a busy Pakistan shopping centre. "
 slug: "locked-exits-panic-and-desperate-calls-for-help-survivors-tell-of-mall-fire-horror"

@@ -1,6 +1,6 @@
 ---
 title: "Alleged scam mastermind arrested after being exposed by BBC"
-date: 2026-01-21
+date: 2026-01-22
 description: "Kuong Li featured in a 2023 BBC Eye investigation into alleged scam compounds in South East Asia."
 summary: "Kuong Li featured in a 2023 BBC Eye investigation into alleged scam compounds in South East Asia."
 slug: "alleged-scam-mastermind-arrested-after-being-exposed-by-bbc"

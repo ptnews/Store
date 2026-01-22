@@ -1,6 +1,6 @@
 ---
 title: "Nigeria police confirm mass church abductions after previous denial"
-date: 2026-01-21
+date: 2026-01-22
 description: "More than 160 people were reportedly taken from three churches in the northern Kaduna state."
 summary: "More than 160 people were reportedly taken from three churches in the northern Kaduna state."
 slug: "nigeria-police-confirm-mass-church-abductions-after-previous-denial"

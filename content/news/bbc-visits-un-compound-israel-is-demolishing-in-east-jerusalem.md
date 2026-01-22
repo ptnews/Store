@@ -1,6 +1,6 @@
 ---
 title: "BBC visits UN compound Israel is demolishing in East Jerusalem"
-date: 2026-01-21
+date: 2026-01-22
 description: "John Sudworth says the sounds of heavy machinery can be heard echoing around the neighbourhood. "
 summary: "John Sudworth says the sounds of heavy machinery can be heard echoing around the neighbourhood. "
 slug: "bbc-visits-un-compound-israel-is-demolishing-in-east-jerusalem"

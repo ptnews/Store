@@ -1,6 +1,6 @@
 ---
 title: "Photos leaked to BBC show faces of hundreds killed in Iran's brutal protest crackdown"
-date: 2026-01-21
+date: 2026-01-22
 description: "The images from one mortuary in Tehran were shown to families who went to identify their loved ones."
 summary: "The images from one mortuary in Tehran were shown to families who went to identify their loved ones."
 slug: "photos-leaked-to-bbc-show-faces-of-hundreds-killed-in-iran-s-brutal-protest-crackdown"

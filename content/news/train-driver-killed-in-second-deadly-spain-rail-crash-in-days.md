@@ -1,6 +1,6 @@
 ---
 title: "Train driver killed in second deadly Spain rail crash in days"
-date: 2026-01-21
+date: 2026-01-22
 description: "At least 37 people have been injured, five seriously, in a second crash, after Sunday's two-train collision in Andalusia. "
 summary: "At least 37 people have been injured, five seriously, in a second crash, after Sunday's two-train collision in Andalusia. "
 slug: "train-driver-killed-in-second-deadly-spain-rail-crash-in-days"

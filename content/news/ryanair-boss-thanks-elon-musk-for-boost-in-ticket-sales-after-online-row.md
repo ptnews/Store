@@ -1,6 +1,6 @@
 ---
 title: "Ryanair boss thanks Elon Musk for 'boost' in ticket sales after online row"
-date: 2026-01-21
+date: 2026-01-22
 description: "Musk and Ryanair boss Michael O'Leary have called each other \"idiots\" in recent days, but the airline executive says it's helping lift sales"
 summary: "Musk and Ryanair boss Michael O'Leary have called each other \"idiots\" in recent days, but the airline executive says it's helping lift sales"
 slug: "ryanair-boss-thanks-elon-musk-for-boost-in-ticket-sales-after-online-row"

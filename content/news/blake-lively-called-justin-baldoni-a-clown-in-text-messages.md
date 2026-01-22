@@ -1,6 +1,6 @@
 ---
 title: "Blake Lively called Justin Baldoni 'a clown' in text messages"
-date: 2026-01-21
+date: 2026-01-22
 description: "Newly unsealed court documents show Lively criticising the It Ends With Us director."
 summary: "Newly unsealed court documents show Lively criticising the It Ends With Us director."
 slug: "blake-lively-called-justin-baldoni-a-clown-in-text-messages"

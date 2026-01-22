@@ -1,6 +1,6 @@
 ---
 title: "Ukraine's parliament and half of Kyiv with no heating after Russian strikes"
-date: 2026-01-21
+date: 2026-01-22
 description: "President Zelensky says Russia has started using \"far more\" ballistic missiles in its attacks on Ukraine."
 summary: "President Zelensky says Russia has started using \"far more\" ballistic missiles in its attacks on Ukraine."
 slug: "ukraine-s-parliament-and-half-of-kyiv-with-no-heating-after-russian-strikes"

@@ -1,6 +1,6 @@
 ---
 title: "Fact-checking Trump's Davos speech"
-date: 2026-01-21
+date: 2026-01-22
 description: "The US president made a series of contested claims, ranging from the status of Greenland to Nato spending."
 summary: "The US president made a series of contested claims, ranging from the status of Greenland to Nato spending."
 slug: "fact-checking-trump-s-davos-speech"

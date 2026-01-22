@@ -1,6 +1,6 @@
 ---
 title: "Ex-president accused of murder plot extradited to Burkina Faso"
-date: 2026-01-21
+date: 2026-01-22
 description: "Paul-Henri Sandaogo Damiba has not commented on the accusations from Burkina Faso."
 summary: "Paul-Henri Sandaogo Damiba has not commented on the accusations from Burkina Faso."
 slug: "ex-president-accused-of-murder-plot-extradited-to-burkina-faso"

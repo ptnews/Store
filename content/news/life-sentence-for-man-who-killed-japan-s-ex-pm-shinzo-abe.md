@@ -1,6 +1,6 @@
 ---
 title: "Life sentence for man who killed Japan's ex-PM Shinzo Abe"
-date: 2026-01-21
+date: 2026-01-22
 description: "Abe's assassination stunned the country where there is virtually no gun crime."
 summary: "Abe's assassination stunned the country where there is virtually no gun crime."
 slug: "life-sentence-for-man-who-killed-japan-s-ex-pm-shinzo-abe"

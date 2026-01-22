@@ -1,6 +1,6 @@
 ---
 title: "Ros Atkins on...President Trump's year in numbers"
-date: 2026-01-21
+date: 2026-01-22
 description: "Executive orders, pardons, trips and Truth Social posts - the BBC’s Analysis Editor breaks down Donald Trump’s first year back in office, in numbers."
 summary: "Executive orders, pardons, trips and Truth Social posts - the BBC’s Analysis Editor breaks down Donald Trump’s first year back in office, in numbers."
 slug: "ros-atkins-on-president-trump-s-year-in-numbers"

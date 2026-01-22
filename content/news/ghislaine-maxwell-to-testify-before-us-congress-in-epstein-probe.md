@@ -1,6 +1,6 @@
 ---
 title: "Ghislaine Maxwell to testify before US Congress in Epstein probe"
-date: 2026-01-21
+date: 2026-01-22
 description: "The convicted sex trafficker has previously said she would decline to answer questions unless she is granted immunity."
 summary: "The convicted sex trafficker has previously said she would decline to answer questions unless she is granted immunity."
 slug: "ghislaine-maxwell-to-testify-before-us-congress-in-epstein-probe"

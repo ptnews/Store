@@ -1,6 +1,6 @@
 ---
 title: "Second lady Usha Vance announces she is pregnant with fourth child"
-date: 2026-01-21
+date: 2026-01-22
 description: "Vance posted on social media that she is looking forward to welcoming a boy in late July. "
 summary: "Vance posted on social media that she is looking forward to welcoming a boy in late July. "
 slug: "second-lady-usha-vance-announces-she-is-pregnant-with-fourth-child"

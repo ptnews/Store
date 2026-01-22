@@ -1,6 +1,6 @@
 ---
 title: "Colombia sentences ex-paramilitary leader Mancuso to 40 years in jail"
-date: 2026-01-21
+date: 2026-01-22
 description: "Salvatore Mancuso's group committed more than 100 crimes, many targeting an indigenous group, the tribunal ruled. "
 summary: "Salvatore Mancuso's group committed more than 100 crimes, many targeting an indigenous group, the tribunal ruled. "
 slug: "colombia-sentences-ex-paramilitary-leader-mancuso-to-40-years-in-jail"

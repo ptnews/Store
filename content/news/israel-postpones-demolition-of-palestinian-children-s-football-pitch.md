@@ -1,6 +1,6 @@
 ---
 title: "Israel postpones demolition of Palestinian children's football pitch"
-date: 2026-01-21
+date: 2026-01-22
 description: "An international campaign to save the pitch in the occupied West Bank city of Bethlehem appears to have forced the authorities to reconsider."
 summary: "An international campaign to save the pitch in the occupied West Bank city of Bethlehem appears to have forced the authorities to reconsider."
 slug: "israel-postpones-demolition-of-palestinian-children-s-football-pitch"

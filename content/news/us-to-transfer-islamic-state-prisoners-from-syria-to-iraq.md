@@ -1,6 +1,6 @@
 ---
 title: "US to transfer Islamic State prisoners from Syria to Iraq"
-date: 2026-01-21
+date: 2026-01-22
 description: "The move comes as Syrian government forces take control of north-eastern areas where Kurdish-led forces have long controlled."
 summary: "The move comes as Syrian government forces take control of north-eastern areas where Kurdish-led forces have long controlled."
 slug: "us-to-transfer-islamic-state-prisoners-from-syria-to-iraq"

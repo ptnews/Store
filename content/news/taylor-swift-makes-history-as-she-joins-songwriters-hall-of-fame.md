@@ -1,6 +1,6 @@
 ---
 title: "Taylor Swift makes history as she joins Songwriters Hall of Fame"
-date: 2026-01-21
+date: 2026-01-22
 description: "The US pop superstar is among nine songwriters who have been inducted into the 2026 class."
 summary: "The US pop superstar is among nine songwriters who have been inducted into the 2026 class."
 slug: "taylor-swift-makes-history-as-she-joins-songwriters-hall-of-fame"

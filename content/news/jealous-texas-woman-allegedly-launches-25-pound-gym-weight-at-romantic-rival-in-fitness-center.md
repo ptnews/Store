@@ -1,0 +1,21 @@
+---
+title: "Jealous Texas woman allegedly launches 25-pound gym weight at romantic rival in fitness center"
+date: 2026-01-21
+description: "A jealous woman allegedly hurled a 25-pound weight at her romantic rival&apos;s head during a gym confrontation in Houston. The victim narrowly escaped serious injury."
+summary: "A jealous woman allegedly hurled a 25-pound weight at her romantic rival&apos;s head during a gym confrontation in Houston. The victim narrowly escaped serious injury."
+slug: "jealous-texas-woman-allegedly-launches-25-pound-gym-weight-at-romantic-rival-in-fitness-center"
+image: ''
+link: 'https://www.foxnews.com/us/jealous-texas-woman-allegedly-launches-25-pound-gym-weight-romantic-rival-fitness-center'
+source: 'https://feeds.foxnews.com/foxnews/latest'
+categories:
+- 'feeds.foxnews.com'
+tags:
+- 'allegedly'
+- 'launches'
+- 'romantic'
+- 'jealous'
+- 'fitness'
+
+draft: false
+---
+<p>A jealous woman was arrested after she allegedly launched a 25-pound weight at a romantic rival’s head, according to police.</p><p>Aralyn Martinez, 24, allegedly recognized "the complainant as someone her partner was involved with" at a 24 Hour Fitness outside Spring, Texas, Jan. 7 and "threw a weighted plate toward the complainant’s head, attempting to cause injury," <a href="https://www.facebook.com/Precinct4/posts/aggravated-assault-at-local-gym-leads-to-arreston-january-7-2026-deputies-with-c/1335594321935615/" target="_blank" rel="nofollow noopener">according to a release</a> from the Harris County Constable Precinct 4 Office.</p><p>"B----, I’m going to drop this 25-pound weight plate on you," she yelled, according to charging documents obtained by <a href="https://www.khou.com/article/news/crime/woman-charge-gym-25-pound-weight-spring-fitness-center-pct-4-says/285-1dca2f68-3785-4bf4-9ec8-6929f4541c4c" target="_blank" rel="nofollow noopener">KHOU 11</a>.</p><p><a href="https://www.foxnews.com/us/texas-mom-40-under-40-list-arrested-leaving-baby-florida-beach" target="_blank" rel="noopener"><strong><u>TEXAS MOM ON '40 UNDER 40' LIST ARRESTED FOR LEAVING BABY ON FLORIDA BEACH</u></strong></a></p><p>Cellphone video reviewed by deputies reportedly shows Martinez threatening to drop the weight on the woman before throwing it toward her head. The woman was able to move out of the way just in time, avoiding serious injury, the outlet reported.</p><p>"Not very often with weights and not very often at a gym," Precinct 4 Capt. Juan Flores told the local outlet. "We do know a 25-pound weight, or any weight, can be a deadly weapon depending on where you hit the person."</p><p>Flores said people nearby intervened and were able to <a href="https://www.foxnews.com/category/us/crime/police-and-law-enforcement" target="_blank" rel="noopener">calm the situation</a> before it escalated further.</p><p><a href="https://www.foxnews.com/us/texas-teens-arrested-killing-marine-veteran-working-rideshare-driver" target="_blank" rel="noopener"><strong><u>TEXAS TEENS ARRESTED IN KILLING OF MARINE VETERAN WORKING AS RIDESHARE DRIVER</u></strong></a></p><p>Martinez left the gym shortly after the confrontation but was later arrested.</p><p><a href="https://www.foxnews.com/category/us/true-crime" target="_blank" rel="noopener"><strong>LIKE WHAT YOU'RE READING? FIND MORE ON THE TRUE CRIME HUB</strong></a></p><p>She was booked into the Harris County Jail and <a href="https://www.foxnews.com/category/crime" target="_blank" rel="noopener">charged with aggravated assault</a>. Her bond was set at $1,000.</p><p><a href="https://www.foxnews.com/category/entertainment/events/in-court" target="_blank" rel="noopener">Her arraignment</a> was scheduled for Thursday. Fox News Digital reached out to the Harris County Constable Precinct 4 Office for comment. </p><p>"Facts giving rise to probable cause suggest that alcohol was a factor in this offense," the judge overseeing the case wrote in an order setting bond conditions, <a href="https://lawandcrime.com/crime/someone-her-partner-was-involved-with-woman-attacked-romantic-rival-with-25-pound-weight-at-24-hour-fitness-deputies-say/amp/" target="_blank" rel="nofollow noopener">according to Law &amp; Crime</a>.</p><p><a href="https://www.foxnews.com/newsletters" target="_blank" rel="noopener"><strong>SIGN UP TO GET TRUE CRIME NEWSLETTER</strong></a></p>

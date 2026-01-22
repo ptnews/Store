@@ -1,6 +1,6 @@
 ---
 title: "Japan restarts world's largest nuclear plant as Fukushima memories loom large"
-date: 2026-01-21
+date: 2026-01-22
 description: "Japan restarts a reactor at the world's largest nuclear plant nearly 15 years after the Fukushima meltdown.  "
 summary: "Japan restarts a reactor at the world's largest nuclear plant nearly 15 years after the Fukushima meltdown.  "
 slug: "japan-restarts-world-s-largest-nuclear-plant-as-fukushima-memories-loom-large"

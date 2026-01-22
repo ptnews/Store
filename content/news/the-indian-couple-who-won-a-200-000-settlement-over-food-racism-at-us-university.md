@@ -1,6 +1,6 @@
 ---
 title: "The Indian couple who won a $200,000 settlement over 'food racism' at US university"
-date: 2026-01-21
+date: 2026-01-22
 description: "The dispute began after the couple defended their right to heat palak paneer in a campus microwave."
 summary: "The dispute began after the couple defended their right to heat palak paneer in a campus microwave."
 slug: "the-indian-couple-who-won-a-200-000-settlement-over-food-racism-at-us-university"

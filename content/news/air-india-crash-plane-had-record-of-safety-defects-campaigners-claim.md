@@ -1,6 +1,6 @@
 ---
 title: "Air India crash plane had record of safety defects, campaigners claim"
-date: 2026-01-21
+date: 2026-01-22
 description: "Campaigners say they have evidence the plane had previously suffered a series of technical failures, including a fire."
 summary: "Campaigners say they have evidence the plane had previously suffered a series of technical failures, including a fire."
 slug: "air-india-crash-plane-had-record-of-safety-defects-campaigners-claim"

@@ -1,6 +1,6 @@
 ---
 title: "Trump's full messages with European leaders – and what they tell us"
-date: 2026-01-21
+date: 2026-01-22
 description: "Experts tell BBC what to read into private messages between US President Donald Trump and European leaders that have been shared publicly ."
 summary: "Experts tell BBC what to read into private messages between US President Donald Trump and European leaders that have been shared publicly ."
 slug: "trump-s-full-messages-with-european-leaders-and-what-they-tell-us"

@@ -1,6 +1,6 @@
 ---
 title: "Trump says tiny cars are amazing but will Americans actually buy them?"
-date: 2026-01-21
+date: 2026-01-22
 description: "The president wants to bring to the US tiny vehicles, like those commonly seen on the streets of Japan."
 summary: "The president wants to bring to the US tiny vehicles, like those commonly seen on the streets of Japan."
 slug: "trump-says-tiny-cars-are-amazing-but-will-americans-actually-buy-them"

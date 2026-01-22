@@ -1,6 +1,6 @@
 ---
 title: "Trump's jibes are wearing thin for many of Europe's leaders"
-date: 2026-01-21
+date: 2026-01-22
 description: "The ball is in the court of European leaders ahead of Thursday's emergency EU meeting in Brussels, writes Nick Beake."
 summary: "The ball is in the court of European leaders ahead of Thursday's emergency EU meeting in Brussels, writes Nick Beake."
 slug: "trump-s-jibes-are-wearing-thin-for-many-of-europe-s-leaders"

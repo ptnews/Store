@@ -1,6 +1,6 @@
 ---
 title: "Beckham v Peltz Beckham: Could Brooklyn torpedo the family brand?"
-date: 2026-01-21
+date: 2026-01-22
 description: "Brooklyn's explosive post about Brand Beckham \"has ruptured it from within\", one commentator says."
 summary: "Brooklyn's explosive post about Brand Beckham \"has ruptured it from within\", one commentator says."
 slug: "beckham-v-peltz-beckham-could-brooklyn-torpedo-the-family-brand"

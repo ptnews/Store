@@ -1,6 +1,6 @@
 ---
 title: "Confronted over Greenland, Europe is ditching its softly-softly approach to Trump"
-date: 2026-01-21
+date: 2026-01-22
 description: "Transatlantic relations aren't broken, though they are damaged. And if Europeans want to try to cut through with Trump, they'll have to stick together, writes Europe Editor Katya Adler"
 summary: "Transatlantic relations aren't broken, though they are damaged. And if Europeans want to try to cut through with Trump, they'll have to stick together, writes Europe Editor Katya Adler"
 slug: "confronted-over-greenland-europe-is-ditching-its-softly-softly-approach-to-trump"
