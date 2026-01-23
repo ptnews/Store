@@ -1,0 +1,21 @@
+---
+title: "Indiana judge shooting: Police arrest 3 on attempted murder charges, 2 others in custody"
+date: 2026-01-23
+description: "Five suspects arrested in shooting of Indiana judge Steven Meyer and his wife at their home, with charges including attempted murder and aggravated battery."
+summary: "Five suspects arrested in shooting of Indiana judge Steven Meyer and his wife at their home, with charges including attempted murder and aggravated battery."
+slug: "indiana-judge-shooting-police-arrest-3-on-attempted-murder-charges-2-others-in-custody"
+image: ''
+link: 'https://www.foxnews.com/us/indiana-judge-shooting-police-3-attempted-murder-charges-2-others-custody'
+source: 'https://feeds.foxnews.com/foxnews/latest'
+categories:
+- 'feeds.foxnews.com'
+tags:
+- 'attempted'
+- 'shooting'
+- 'indiana'
+- 'charges'
+- 'custody'
+
+draft: false
+---
+<p>Police in Indiana announced the arrest of five suspects in the <a href="https://www.foxnews.com/us/indiana-judge-bizarre-natalia-grace-case-shot-home-attack-police-hunt-suspect" target="_blank" rel="noopener">shooting of an Indiana judge</a> and his wife at their home earlier this week. </p><p>The <a href="https://www.foxnews.com/category/us/crime/police-and-law-enforcement" target="_blank" rel="noopener">Lafayette Police Department</a> said Raylen Ferguson, 38, and Zenada Greer, 61, both of Lexington, Ky., and Thomas Moss, 43, Blake Smith, 32, and Amanda Milsap, 45, all from Lafayette, Ind., were taken into custody following the Jan. 18 attack on Tippecanoe County Judge Steven Meyer and his wife Kimberly. Steven Meyer sustained an arm injury, while Kimberly Meyer had a hip injury. Both are now in stable condition, police said. </p><p>Ferguson, Moss and Smith were arrested on charges including attempted murder, aggravated battery and intimidation with a deadly weapon, with gang and firearm enhancements. Police also listed Moss and Smith as "habitual offenders." </p><p>Milsap was arrested on bribery and obstruction of justice charges, while Greer was charged with assisting a criminal and obstruction of justice.</p><p><a href="https://www.foxnews.com/us/indiana-judge-shooting-came-out-nowhere-police-hunt-mystery-suspect-cops-say" target="_blank" rel="noopener"><strong>INDIANA JUDGE SHOOTING CAME OUT OF NOWHERE, COPS SAY</strong></a></p><p>"These arrests are the result of a comprehensive, collaborative effort among multiple agencies," the Lafayette Police Department said. </p><p><a href="https://www.foxnews.com/us/judge-wife-shot-broad-daylight-indiana-sparking-massive-multi-agency-investigation" target="_blank" rel="noopener">Sunday’s incident marked</a> the first recorded act of violence against the judge, according to the Lafayette Police Department. Officials had no records of previous threats against Meyer or 911 calls from the judge’s Mill Pond Lane address, a department spokesperson confirmed to Fox News Digital.  </p><p><a href="https://www.foxnews.com/us/indiana-judge-shooting-came-out-nowhere-police-hunt-mystery-suspect-cops-say" target="_blank" rel="noopener"><strong>INDIANA JUDGE INJURED IN SHOOTING BREAKS SILENCE</strong></a></p><p>Dispatch audio obtained by Fox News Digital showed that the unidentified shooter allegedly knocked on the door of Meyer's home around 2:15 p.m. Sunday, then fired gunshots through the door. Before firing the gun, the suspect said, "We have your dog," according to the audio. </p><p>"I am so grateful for the outpouring of support from friends, the community, court colleagues, and law enforcement," Judge Meyer said in a statement Wednesday in his first public comments since the shooting. "I want to express my heartfelt thanks to my medical team. I am receiving excellent care and I am improving. Kim is also deeply appreciative for the community support, and she too is healing."</p><p>"I want the community to know that I have strong faith in our judicial system," the judge said. "This horrific violence will not shake my belief in the importance of peacefully resolving disputes. I remain confident we have the best judicial system in the world, and I am proud to be a part of it." </p><p><i>Fox News Digital’s Adam Sabes and Julia Bonavita contributed to this report.</i> </p>
