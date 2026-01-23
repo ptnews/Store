@@ -1,0 +1,21 @@
+---
+title: "Trump says Board of Peace is withdrawing its invite to Canada - CBS News"
+date: 2026-01-23
+description: "Trump says Board of Peace is withdrawing its invite to Canada&nbsp;&nbsp;CBS NewsTrump Rescinds Canada’s Invitation to Join His ‘Board of Peace’&nbsp;&nbsp;The New York TimesTrump snubs Canada by withdrawing country's invite to join 'most prestigious Board of Leaders ever'&nbsp;&nbsp;Fox NewsWhat to know about Trump's 'Board of Peace': Which countries are involved, cost and more&nbsp;&nbsp;NBC NewsUK holds off joining Trump's Board of Peace over Putin concerns&nbsp;&nbsp;BBC"
+summary: "Trump says Board of Peace is withdrawing its invite to Canada&nbsp;&nbsp;CBS NewsTrump Rescinds Canada’s Invitation to Join His ‘Board of Peace’&nbsp;&nbsp;The New York TimesTrump snubs Canada by withdrawing country's invite to join 'most prestigious Board of Leaders ever'&nbsp;&nbsp;Fox NewsWhat to know about Trump's 'Board of Peace': Which countries are involved, cost and more&nbsp;&nbsp;NBC NewsUK holds off joining Trump's Board of Peace over Putin concerns&nbsp;&nbsp;BBC"
+slug: "trump-says-board-of-peace-is-withdrawing-its-invite-to-canada-cbs-news"
+image: ''
+link: 'https://news.google.com/rss/articles/CBMihgFBVV95cUxNTlRydHBlTUNQZWdjbW1MVWFqd2ZraUplTElPTzBOYm9rejZiRWo1OENwZldCR1htUENSaFVNQ0hQY2FBM2tGVlh2by1KZWtISzBtR1JlSmJZRnk5bVZwSFZVQml6QVB6X2pObDFPaWVSOVViTmZzMDl4YTZmeHExNFpKMkFrQdIBiwFBVV95cUxNbUgxYnhpMzJsWkRESm0wcFM5dVFTem95WXhVMGdWLXhHMWE1eTcxcTJfQ2duRWZGTXJxWkFsSjZ5aDNlZXFsZ2g2c1JnaS1HWDhvRldRdGs1MTY2UlloSkZPUmxZaE9QUFcweldkdmVROXhEd1o1RmV6QkZ5TVNnMThRRG0xUndZM0dJ?oc=5'
+source: 'https://news.google.com/rss/topics/CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx1YlY4U0FtVnVHZ0pWVXlnQVAB?hl=en-US&gl=US&ceid=US:en'
+categories:
+- 'news.google.com'
+tags:
+- 'withdrawing'
+- 'invite'
+- 'canada'
+- 'trump'
+- 'board'
+
+draft: false
+---
+<ol><li><a href="https://news.google.com/rss/articles/CBMihgFBVV95cUxNTlRydHBlTUNQZWdjbW1MVWFqd2ZraUplTElPTzBOYm9rejZiRWo1OENwZldCR1htUENSaFVNQ0hQY2FBM2tGVlh2by1KZWtISzBtR1JlSmJZRnk5bVZwSFZVQml6QVB6X2pObDFPaWVSOVViTmZzMDl4YTZmeHExNFpKMkFrQdIBiwFBVV95cUxNbUgxYnhpMzJsWkRESm0wcFM5dVFTem95WXhVMGdWLXhHMWE1eTcxcTJfQ2duRWZGTXJxWkFsSjZ5aDNlZXFsZ2g2c1JnaS1HWDhvRldRdGs1MTY2UlloSkZPUmxZaE9QUFcweldkdmVROXhEd1o1RmV6QkZ5TVNnMThRRG0xUndZM0dJ?oc=5" target="_blank">Trump says Board of Peace is withdrawing its invite to Canada</a>&nbsp;&nbsp;<font color="#6f6f6f">CBS News</font></li><li><a href="https://news.google.com/rss/articles/CBMiiwFBVV95cUxQY2x2YmdFQkk4RTJVU2d5VC1jYXBpSTg1SEFpZzgxdG1OWmxNMHB4VnU0SlBiZnh1aUlaUUpaVE9rZ3pPQ1BDalFCN19SOGpVLS1WRV9ZZjJieGhSQjBrZVhMTWJvMnhyOFN3c095SUh4YnFwWHFWa1dpdFJEdEZYUEp5ZnNDYk9oU2Jr?oc=5" target="_blank">Trump Rescinds Canada’s Invitation to Join His ‘Board of Peace’</a>&nbsp;&nbsp;<font color="#6f6f6f">The New York Times</font></li><li><a href="https://news.google.com/rss/articles/CBMivAFBVV95cUxOa294RUNEVXFxZEtTU0FPS09JRU1uWGJTWjVZamRGX2FhdjJ2NTc3Y2tKcTc3alMwczluOW1EYnFoMFU1Y1I2Vk9NLWZ2NVQyM3dIcDJFVnFTbXR5eDQxY1loYmRDY1cyaVFWd1hXTmVxVWdwaERwN0pJSW40MExWbE5ERmRQZUljVldpb2xDTWlhNVZCejdlWGxNam9LeUF2dURTTFFNUlFUSFZRTHFjdW5SU3A3bnBzMHV4UNIBwgFBVV95cUxQekVlZHdrV1AxdnpoZHYtcjZfZjZsVmwtVTA3UGdEWWdjOGhXMHB5OVRucDVqc0VVZUQ1cEZpMmEyU0N6SzQ1MGdGbnp6UVNhZXNTbFFWNHZUa0F2ODdaSllPQmdyYXpvOU96VmV4OVhyNm1Lb3hfejF6a1ZXc2Ffa00yY2NTWjJuN0JreDl5SGZQMXZGbUpfblV4Ym82VVcxejBUSnp2Mko2Y2dnQVROZ09ma3RQb1RJOEVoVHRqV2pvdw?oc=5" target="_blank">Trump snubs Canada by withdrawing country's invite to join 'most prestigious Board of Leaders ever'</a>&nbsp;&nbsp;<font color="#6f6f6f">Fox News</font></li><li><a href="https://news.google.com/rss/articles/CBMipwFBVV95cUxNQzc2ZmJaMkxxNmlITFZTejcyTENPc3dWYmNfUy1jWW9GNmQ0SEw0VHhLZ0ZxWm9DeHVseGRSMzJWWG5PTEg2TGpzaTZydmdaQVZZNUpjV1dhWkU4WUF0b20tcDZWVE9LSXZfM1l1bXBvN3ZTSGhEdmZib1dyT1h3b1ZjRkd5ckpIS1FRdnpobm5wS28wbzdUWG5aRkVFTkVOV3JtNHR2SQ?oc=5" target="_blank">What to know about Trump's 'Board of Peace': Which countries are involved, cost and more</a>&nbsp;&nbsp;<font color="#6f6f6f">NBC News</font></li><li><a href="https://news.google.com/rss/articles/CBMiWkFVX3lxTE9ISDhYVHIyM2VoUmU2R2NHUHRfeG5sQWxhX0cxb3UwTlpwRElkOHFhTC0wUXFkYmVKZDVsVkJNdlYxY21iUGVxcUVzWUVhNFhtRWM3U3J1ZmN0QQ?oc=5" target="_blank">UK holds off joining Trump's Board of Peace over Putin concerns</a>&nbsp;&nbsp;<font color="#6f6f6f">BBC</font></li></ol>
