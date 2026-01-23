@@ -1,0 +1,21 @@
+---
+title: "House Oversight Committee widens investigation into alleged Minnesota fraud"
+date: 2026-01-23
+description: "Rep. James Comer, R-Ky., is expanding a House Oversight and Government Reform Committee probe into alleged widespread fraud in Minnesota."
+summary: "Rep. James Comer, R-Ky., is expanding a House Oversight and Government Reform Committee probe into alleged widespread fraud in Minnesota."
+slug: "house-oversight-committee-widens-investigation-into-alleged-minnesota-fraud"
+image: ''
+link: 'https://www.foxnews.com/politics/house-oversight-committee-widens-investigation-alleged-minnesota-fraud'
+source: 'https://feeds.foxnews.com/foxnews/latest'
+categories:
+- 'feeds.foxnews.com'
+tags:
+- 'investigation'
+- 'oversight'
+- 'committee'
+- 'minnesota'
+- 'alleged'
+
+draft: false
+---
+<p><a href="https://www.foxnews.com/category/politics/house-of-representatives" target="_blank" rel="noopener">House Committee</a> on Oversight and Government Reform Chair Rep. James Comer, R-Ky., is expanding a probe into social services fraud allegedly perpetrated in Minnesota, according to a press release.</p><p>"The Committee requests a staff-level briefing, as well as all underlying documents and communications related to any review the Minnesota Office of the Legislative Auditor (OLA) conducted regarding the Minnesota Department of Human Services (DHS) and allegations of fraud in the State of Minnesota," Comer noted in a <a href="https://oversight.house.gov/wp-content/uploads/2026/01/Letter-to-Judy-Randall.pdf" target="_blank" rel="nofollow noopener">letter</a> to Minnesota Legislative Auditor Judy Randall.</p><p><a href="https://www.foxnews.com/category/us/us-regions/midwest/minnesota" target="_blank" rel="noopener">The state's</a> Office of the Legislative Auditor issued a report earlier this month about a performance audit regarding Department of Human Services Behavioral Health Administration grants during a period spanning July 1, 2022, through 2024.</p><p><a href="https://www.foxnews.com/politics/trump-cites-minnesota-fraud-cases-warn-against-migration-from-failed-societies" target="_blank" rel="noopener"><strong>TRUMP CITES MINNESOTA FRAUD CASES TO WARN AGAINST MIGRATION FROM ‘FAILED’ SOCIETIES</strong></a></p><p>The <a href="https://www.auditor.leg.state.mn.us/fad/pdf/fad2601.pdf" target="_blank" rel="nofollow noopener">report's</a> conclusion asserts, "The Behavioral Health Administration did not comply with most requirements we tested and did not have adequate internal controls over grant funds." </p><p>Comer also issued a letter calling for temporary Commissioner of the Minnesota Department of Human Services Shireen Gandhi to deliver "testimony at an in-person transcribed interview on January 30, 2026."</p><p><a href="https://www.foxnews.com/politics/you-have-failed-comer-clashes-democrat-minnesota-fraud-probe-sparks-shouting-match" target="_blank" rel="noopener"><strong>‘YOU HAVE FAILED’: COMER CLASHES WITH DEMOCRAT AS MINNESOTA FRAUD PROBE SPARKS SHOUTING MATCH</strong></a></p><p>"If you do not voluntarily appear for the interview, we will be forced to evaluate the use of the compulsory process," the <a href="https://oversight.house.gov/wp-content/uploads/2026/01/MN-Fraud-TI-Request-Letter-to-Shireen-Gandhi.pdf" target="_blank" rel="nofollow noopener">letter warns.</a></p><p>The committee's investigation was launched last month before independent journalist and YouTuber Nick Shirley released a viral report about alleged <a href="https://www.foxnews.com/category/politics/minnesota-fraud-exposed" target="_blank" rel="noopener">widespread fraud</a> in the state.</p><p><a href="https://www.foxnews.com/media/journalist-who-exposed-alleged-minnesota-fraud-says-newsom-california-his-next-targets" target="_blank" rel="noopener"><strong>JOURNALIST WHO EXPOSED ALLEGED MINNESOTA FRAUD SAYS NEWSOM, CALIFORNIA ARE HIS NEXT TARGETS</strong></a></p><p>"Criminals in Minnesota have stolen an estimated $9 billion in taxpayer funds intended to feed children, support autistic children, house low-income and disabled Americans and provide healthcare to vulnerable Medicaid recipients," the congressional committee's <a href="https://www.foxnews.com/category/politics/house-of-representatives" target="_blank" rel="noopener">press release</a> noted.</p>

@@ -1,0 +1,21 @@
+---
+title: "Russia, Ukraine to discuss territory as Trump says both sides 'want to make a deal'"
+date: 2026-01-23
+description: "Abu Dhabi hosts trilateral meeting with the U.S., Ukraine and Russia in a possible sign that the nearly four-year war could be coming to an end."
+summary: "Abu Dhabi hosts trilateral meeting with the U.S., Ukraine and Russia in a possible sign that the nearly four-year war could be coming to an end."
+slug: "russia-ukraine-to-discuss-territory-as-trump-says-both-sides-want-to-make-a-deal"
+image: ''
+link: 'https://www.foxnews.com/world/russia-ukraine-discuss-territory-trump-says-both-sides-want-make-deal'
+source: 'https://feeds.foxnews.com/foxnews/world'
+categories:
+- 'feeds.foxnews.com'
+tags:
+- 'territory'
+- 'ukraine'
+- 'discuss'
+- 'russia'
+- 'trump'
+
+draft: false
+---
+<p>The U.S., Russia and Ukraine are meeting in Abu Dhabi, United Arab Emirates (UAE), to discuss one of the major sticking points stopping a deal to end the nearly four-year war: territorial disputes. The talks in Abu Dhabi are the first trilateral talks since 2022.</p><p>The trilateral sit-down comes after Ukrainian President Volodymyr Zelenskyy's meeting with Trump in Davos and Russian President <a href="https://www.foxnews.com/category/world/personalities/vladimir-putin" target="_blank" rel="noopener">Vladimir Putin</a>'s meeting with Special Envoy Steve Witkoff and the president's son-in-law, Jared Kushner.</p><p>Witkoff and Kushner traveled to the UAE for the talks after their meeting with Putin in Moscow on Thursday.</p><p><a href="https://www.foxnews.com/politics/zelenskyy-slams-global-inaction-iran-claims-europe-stuck-greenland-mode-while-real-threats-mount"><strong>ZELENSKYY BLASTS GLOBAL INACTION ON IRAN, CLAIMS EUROPE STUCK IN ‘GREENLAND MODE’</strong></a></p><p>Zelenskyy and Putin are under increasing pressure to reach a peace deal as the fourth anniversary of Moscow's invasion approaches and President <a href="https://www.foxnews.com/category/person/donald-trump" target="_blank" rel="noopener">Donald Trump</a> pushes to end the war.</p><p>While Russia has demanded Ukraine cede the Donbas, Zelenskyy has <a href="https://www.foxnews.com/world/zelenskyy-warns-ukraine-faces-difficult-choice-us-peace-plan-hits-major-hurdle" target="_blank" rel="noopener">stood firm in his opposition</a> to making land concessions, though the discussions in Abu Dhabi suggest that he could be ready to negotiate. Putin is demanding Ukraine surrender the 20% it holds of the Donetsk region of the Donbas, <a href="https://www.reuters.com/world/zelenskiy-says-territorial-issue-be-discussed-trilateral-talks-uae-2026-01-23/" target="_blank" rel="noopener nofollow">according to Reuters</a>.</p><p><a href="https://www.foxnews.com/video/6388110496112" target="_blank" rel="noopener"><strong>UKRAINIAN AMBASSADOR SAYS PEACE TALKS ARE ‘GOING IN THE RIGHT DIRECTION,’ TRILATERAL TALKS PLANNED IN UAE</strong></a></p><p>"The question of Donbas is key. It will be discussed how the three sides... see this in Abu Dhabi today and tomorrow," Zelenskyy told reporters via WhatsApp, according to Reuters. The outlet added that an aide for Zelenskyy said the talks are expected to continue Saturday.</p><p>The envoys are meeting as Ukrainians face below-freezing temperatures after Russian strikes damaged the country's power supply.</p><p>Maxim Timchenko, the head of Ukraine's top private power producer, told Reuters that the situation was nearing a "humanitarian catastrophe."</p><p>While speaking with reporters on Air Force One, Trump was asked if the trilateral meeting could lead to one with himself, <a href="https://www.foxnews.com/world" target="_blank" rel="noopener">Putin and Zelenskyy.</a> He would not commit but said that "any time we meet, it's good." He also expressed doubts about whether Putin wanted to take over all of Ukraine.</p><p>"What's happened here is there were times when Putin didn't want to make a deal, times when Zelensky didn't want to make a deal, and it was opposite times. Now, I think they both want to make a deal. We'll find out," Trump said.</p><p>The president also acknowledged that the topics of the discussions that were happening had been debated for months.</p>
