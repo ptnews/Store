@@ -1,0 +1,21 @@
+---
+title: "Questions for Alex Honnold Before He Tries to Climb a Skyscraper in Taipei - The New York Times"
+date: 2026-01-23
+description: "Questions for Alex Honnold Before He Tries to Climb a Skyscraper in Taipei&nbsp;&nbsp;The New York TimesAn American is climbing Taipei 101 with no ropes, live on TV. It's drawing excitement — and concern.&nbsp;&nbsp;NBC NewsAlex Honnold’s made-for-Netflix free solo of Taipei 101 draws awe – and unease&nbsp;&nbsp;The GuardianThe rock climber Alex Honnold will crawl up a 101-story skyscraper in Taiwan this week without ropes during a live-streamed event. In an interview with the New York Tim..."
+summary: "Questions for Alex Honnold Before He Tries to Climb a Skyscraper in Taipei&nbsp;&nbsp;The New York TimesAn American is climbing Taipei 101 with no ropes, live on TV. It's drawing excitement — and concern.&nbsp;&nbsp;NBC NewsAlex Honnold’s made-for-Netflix free solo of Taipei 101 draws awe – and unease&nbsp;&nbsp;The GuardianThe rock climber Alex Honnold will crawl up a 101-story skyscraper in Taiwan this week without ropes during a live-streamed event. In an interview with the New York Tim..."
+slug: "questions-for-alex-honnold-before-he-tries-to-climb-a-skyscraper-in-taipei-the-new-york-times"
+image: ''
+link: 'https://news.google.com/rss/articles/CBMiekFVX3lxTE15QjgzSGNJSUFiTTR4cm1hRm9GNzRudTBNM2lZT21JbWdjbU1aU1VtRVVrMnQwUmR5c2RVR0dlWFBHRGxsNk4tRWw4WVROX0MwZkJzWUdsMjhoSVBLeGh2eDBxRjV2bmsxZF9XTllXSVVqNFg5Uk5zT2VR?oc=5'
+source: 'https://news.google.com/rss/topics/CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx1YlY4U0FtVnVHZ0pWVXlnQVAB?hl=en-US&gl=US&ceid=US:en'
+categories:
+- 'news.google.com'
+tags:
+- 'skyscraper'
+- 'questions'
+- 'honnold'
+- 'before'
+- 'taipei'
+
+draft: false
+---
+<ol><li><a href="https://news.google.com/rss/articles/CBMiekFVX3lxTE15QjgzSGNJSUFiTTR4cm1hRm9GNzRudTBNM2lZT21JbWdjbU1aU1VtRVVrMnQwUmR5c2RVR0dlWFBHRGxsNk4tRWw4WVROX0MwZkJzWUdsMjhoSVBLeGh2eDBxRjV2bmsxZF9XTllXSVVqNFg5Uk5zT2VR?oc=5" target="_blank">Questions for Alex Honnold Before He Tries to Climb a Skyscraper in Taipei</a>&nbsp;&nbsp;<font color="#6f6f6f">The New York Times</font></li><li><a href="https://news.google.com/rss/articles/CBMimwFBVV95cUxNejFGdEMzRnptTllCVXg5cTNxeVQ3TTVoY2gwVmZQcEJfZG1zd1A2eXUwMDU1dlFrYVNvNDdqTVkyOUJGeldmOEtCeTh1RG12YWVCc0hLVjdVRWV5a3FYaUJaLTh5WU9CbjFiZG1ObG1GM2V5Z3EzdFoyWTEtZEhFbGIwVU4wT3FzNXctckl6RWNYMTY0Z0lRWGw1OA?oc=5" target="_blank">An American is climbing Taipei 101 with no ropes, live on TV. It's drawing excitement — and concern.</a>&nbsp;&nbsp;<font color="#6f6f6f">NBC News</font></li><li><a href="https://news.google.com/rss/articles/CBMinwFBVV95cUxQMkU0cUd3THBKUllzVUdUUUQzNHVBby0xOVlYa0JYUmRMQTRhblUwTjJSVFYya2JLQlZSZnVNVF9YbHhZdkx5QWx6MTlxR1pUVU9UcVRvNFBEZjl1dTdlc0hLaFNVRUZ4NUhUb2xHT01JNTdGUXRZeEVKLWsyV1dmMW4xMFhoVEtRU3lQMkxYWjE0MGtoc1VkalNmS3Fna28?oc=5" target="_blank">Alex Honnold’s made-for-Netflix free solo of Taipei 101 draws awe – and unease</a>&nbsp;&nbsp;<font color="#6f6f6f">The Guardian</font></li><li><a href="https://news.google.com/rss/articles/CBMi0wFBVV95cUxNZk9RdENOZ2RXWk1KcDZiNmNWMTdpVWRQSDJhUUVGb3lNS2NKSFQ2YTZUWVhKem1zbGQwcVBxVHF1M29BVUdoR1pWaF9mOFFhbTc3bTV5YktPemZDQVBscmYxeTV6blRjOTRhaFZOLWd4TnVaRjBGeFVvNWtzcWZ2QzNCQ2JqdmZyQjA4QzdLbEpSOFdoTGZEM2x0Z2EwVERicFEyUEVBQXJubHRzZ1RMSlRWWTRTOTNIemFiNWFQLVJQTTdSMGhwdkMzQ25QSFNtb3dN?oc=5" target="_blank">The rock climber Alex Honnold will crawl up a 101-story skyscraper in Taiwan this week without ropes during a live-streamed event. In an interview with the New York Times, he considers the impact on his family if something were to go wrong. https://trib.al/0uC</a>&nbsp;&nbsp;<font color="#6f6f6f">facebook.com</font></li><li><a href="https://news.google.com/rss/articles/CBMi4wFBVV95cUxOdzhtREVhYW5JcXl2YVBqREZCV29LbnFZOERMeTFoV0pVZmpYd3VWUGtxUGNQeTk2a3otSHY2SzVRRmZBWWtaLUJFc1J2c2lrbDItenRpVkt5OHJQQ00xOVEzcTJfQy1yV2FRcmZ6eEhrWUd2V2RIVTJNc2dObHhVOWY0QlIxV3lDejZXcTBBRWMzOXBDYVFmMjk5YzhrWkVkS3BhaGtCM2tlTHZoM0lmOVBVWW9pSFJFQmtCd1AxUm83anVNUWhMdmlDV0VNbVBTakpRMWJvdkVRMGlWT181Q0QyNA?oc=5" target="_blank">Alex Honnold is about to climb the Taipei 101 skyscraper live on Netflix — without ropes</a>&nbsp;&nbsp;<font color="#6f6f6f">Yahoo</font></li></ol>

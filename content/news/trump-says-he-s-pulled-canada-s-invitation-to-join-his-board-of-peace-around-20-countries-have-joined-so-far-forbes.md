@@ -1,0 +1,21 @@
+---
+title: "Trump Says He’s Pulled Canada’s Invitation To Join His ‘Board Of Peace’—Around 20 Countries Have Joined So Far - Forbes"
+date: 2026-01-23
+description: "Trump Says He’s Pulled Canada’s Invitation To Join His ‘Board Of Peace’—Around 20 Countries Have Joined So Far&nbsp;&nbsp;ForbesTrump Rescinds Canada’s Invitation to Join His ‘Board of Peace’&nbsp;&nbsp;The New York TimesFortress Carney&nbsp;&nbsp;PoliticoTrump withdraws invitation for Canada to join his global ‘board of peace’&nbsp;&nbsp;The GuardianTrump snubs Canada by withdrawing country's invite to join 'most prestigious Board of Leaders ever'&nbsp;&nbsp;Fox News"
+summary: "Trump Says He’s Pulled Canada’s Invitation To Join His ‘Board Of Peace’—Around 20 Countries Have Joined So Far&nbsp;&nbsp;ForbesTrump Rescinds Canada’s Invitation to Join His ‘Board of Peace’&nbsp;&nbsp;The New York TimesFortress Carney&nbsp;&nbsp;PoliticoTrump withdraws invitation for Canada to join his global ‘board of peace’&nbsp;&nbsp;The GuardianTrump snubs Canada by withdrawing country's invite to join 'most prestigious Board of Leaders ever'&nbsp;&nbsp;Fox News"
+slug: "trump-says-he-s-pulled-canada-s-invitation-to-join-his-board-of-peace-around-20-countries-have-joined-so-far-forbes"
+image: ''
+link: 'https://news.google.com/rss/articles/CBMivgFBVV95cUxPcmZ6X1VFSWliakRBVGF6Z0xXUGtnb25WNUNBVEhGZkxvQndrRFl0ZW5SOXNvUUl5SHRlLXdZcTdJOG1ERlFxWWVnYWhQVjhxVExmQUtLYXJ5TUlQQmR5aklJWWVUeUVLS3NJTWlMMWp2eXYyOENWSWR0YWZaT2J2dXVQWmM0NEJkN25fTlBJQ2tyem5nbG0yUE42ZXFBdHlMX0liaWxOclBkTlIzbkR5NG4xaXJTWE5UWm9WMXhR?oc=5'
+source: 'https://news.google.com/rss/topics/CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx1YlY4U0FtVnVHZ0pWVXlnQVAB?hl=en-US&gl=US&ceid=US:en'
+categories:
+- 'news.google.com'
+tags:
+- 'invitation'
+- 'countries'
+- 'pulled'
+- 'canada'
+- 'around'
+
+draft: false
+---
+<ol><li><a href="https://news.google.com/rss/articles/CBMivgFBVV95cUxPcmZ6X1VFSWliakRBVGF6Z0xXUGtnb25WNUNBVEhGZkxvQndrRFl0ZW5SOXNvUUl5SHRlLXdZcTdJOG1ERlFxWWVnYWhQVjhxVExmQUtLYXJ5TUlQQmR5aklJWWVUeUVLS3NJTWlMMWp2eXYyOENWSWR0YWZaT2J2dXVQWmM0NEJkN25fTlBJQ2tyem5nbG0yUE42ZXFBdHlMX0liaWxOclBkTlIzbkR5NG4xaXJTWE5UWm9WMXhR?oc=5" target="_blank">Trump Says He’s Pulled Canada’s Invitation To Join His ‘Board Of Peace’—Around 20 Countries Have Joined So Far</a>&nbsp;&nbsp;<font color="#6f6f6f">Forbes</font></li><li><a href="https://news.google.com/rss/articles/CBMiiwFBVV95cUxQY2x2YmdFQkk4RTJVU2d5VC1jYXBpSTg1SEFpZzgxdG1OWmxNMHB4VnU0SlBiZnh1aUlaUUpaVE9rZ3pPQ1BDalFCN19SOGpVLS1WRV9ZZjJieGhSQjBrZVhMTWJvMnhyOFN3c095SUh4YnFwWHFWa1dpdFJEdEZYUEp5ZnNDYk9oU2Jr?oc=5" target="_blank">Trump Rescinds Canada’s Invitation to Join His ‘Board of Peace’</a>&nbsp;&nbsp;<font color="#6f6f6f">The New York Times</font></li><li><a href="https://news.google.com/rss/articles/CBMikgFBVV95cUxOelFFREU0S0NYdkFDN2NPN3dJX2V2djRQOU5lWEdDZ3dXYjB5c0lIS1Q3LUxfcG96MlFVRWNSM1JYZUVLWVduSFAwa3FsdFNxbHRpS3VyYkZEamx2bU5Zd2R6M3BFa3haQ2hfQkFjOFpUdGl2aUNjcUdaQ1ZudjQ0ejNoampqWUQ3WUkwRENXYU9qQQ?oc=5" target="_blank">Fortress Carney</a>&nbsp;&nbsp;<font color="#6f6f6f">Politico</font></li><li><a href="https://news.google.com/rss/articles/CBMiiAFBVV95cUxPQ0NSUXp0SWFfMXVoRDY4dy1ROEI5eFRsdXRnUVFLOU1ONGY0UkRKbmtKYzVCTXVhMFlkUzZvQUNBVUdYQ2RlXzNiNDA3eEpZa1ZuQ0FybENqUmZueWdES0pVR0lDdzlnVVllYTZ1LVA5T2FySlZZNGlWZmZRdk13YlVqTlZaTEp2?oc=5" target="_blank">Trump withdraws invitation for Canada to join his global ‘board of peace’</a>&nbsp;&nbsp;<font color="#6f6f6f">The Guardian</font></li><li><a href="https://news.google.com/rss/articles/CBMivAFBVV95cUxOa294RUNEVXFxZEtTU0FPS09JRU1uWGJTWjVZamRGX2FhdjJ2NTc3Y2tKcTc3alMwczluOW1EYnFoMFU1Y1I2Vk9NLWZ2NVQyM3dIcDJFVnFTbXR5eDQxY1loYmRDY1cyaVFWd1hXTmVxVWdwaERwN0pJSW40MExWbE5ERmRQZUljVldpb2xDTWlhNVZCejdlWGxNam9LeUF2dURTTFFNUlFUSFZRTHFjdW5SU3A3bnBzMHV4UNIBwgFBVV95cUxQekVlZHdrV1AxdnpoZHYtcjZfZjZsVmwtVTA3UGdEWWdjOGhXMHB5OVRucDVqc0VVZUQ1cEZpMmEyU0N6SzQ1MGdGbnp6UVNhZXNTbFFWNHZUa0F2ODdaSllPQmdyYXpvOU96VmV4OVhyNm1Lb3hfejF6a1ZXc2Ffa00yY2NTWjJuN0JreDl5SGZQMXZGbUpfblV4Ym82VVcxejBUSnp2Mko2Y2dnQVROZ09ma3RQb1RJOEVoVHRqV2pvdw?oc=5" target="_blank">Trump snubs Canada by withdrawing country's invite to join 'most prestigious Board of Leaders ever'</a>&nbsp;&nbsp;<font color="#6f6f6f">Fox News</font></li></ol>
