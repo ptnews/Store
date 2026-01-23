@@ -1,0 +1,21 @@
+---
+title: "'Nuremberg moment': UN Human Rights Council adopts motion for probe into Iran protest violence - jpost.com"
+date: 2026-01-23
+description: "'Nuremberg moment': UN Human Rights Council adopts motion for probe into Iran protest violence&nbsp;&nbsp;jpost.comUN rights chief slams Iran's 'brutal repression' at emergency session&nbsp;&nbsp;ReutersUS ambassador warns Iran at emergency UN meeting that Trump is 'man of action,' 'all options are on the table'&nbsp;&nbsp;Fox NewsQ&A: Masih Alinejad on Iran&nbsp;&nbsp;The Wall Street JournalUN Human Rights Council to hold emergency session on Iran protest crackdown&nbsp;&nbsp;timesofisrael.com"
+summary: "'Nuremberg moment': UN Human Rights Council adopts motion for probe into Iran protest violence&nbsp;&nbsp;jpost.comUN rights chief slams Iran's 'brutal repression' at emergency session&nbsp;&nbsp;ReutersUS ambassador warns Iran at emergency UN meeting that Trump is 'man of action,' 'all options are on the table'&nbsp;&nbsp;Fox NewsQ&A: Masih Alinejad on Iran&nbsp;&nbsp;The Wall Street JournalUN Human Rights Council to hold emergency session on Iran protest crackdown&nbsp;&nbsp;timesofisrael.com"
+slug: "nuremberg-moment-un-human-rights-council-adopts-motion-for-probe-into-iran-protest-violence-jpost-com"
+image: ''
+link: 'https://news.google.com/rss/articles/CBMiakFVX3lxTE80cHlCZzFxZU5iTWhXTmdmTWpKckpiRTBIaVR0OEtPNFhJRndWYnQ5YUpVWTRic0tLRXo4M3lJRXZzLTRMYWozekZuVWdwSFRwTlZNOFVlcFo3ZkhoWDdEdDdLZ0xaaU1ZX0E?oc=5'
+source: 'https://news.google.com/rss/topics/CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx1YlY4U0FtVnVHZ0pWVXlnQVAB?hl=en-US&gl=US&ceid=US:en'
+categories:
+- 'news.google.com'
+tags:
+- 'nuremberg'
+- 'violence'
+- 'council'
+- 'protest'
+- 'moment'
+
+draft: false
+---
+<ol><li><a href="https://news.google.com/rss/articles/CBMiakFVX3lxTE80cHlCZzFxZU5iTWhXTmdmTWpKckpiRTBIaVR0OEtPNFhJRndWYnQ5YUpVWTRic0tLRXo4M3lJRXZzLTRMYWozekZuVWdwSFRwTlZNOFVlcFo3ZkhoWDdEdDdLZ0xaaU1ZX0E?oc=5" target="_blank">'Nuremberg moment': UN Human Rights Council adopts motion for probe into Iran protest violence</a>&nbsp;&nbsp;<font color="#6f6f6f">jpost.com</font></li><li><a href="https://news.google.com/rss/articles/CBMitwFBVV95cUxQRE1kRUVNblJWUGVpZklXdW9aa1J3ajh4S0c4cjIxUU9UM0xxdkUzdGdYa0JHOXdHWW9fWTA0NTBYT0VRdHBlNXk5N0VyQk1IZElFNXB4cDlFZ0FQMHVWQUJQZ2RBOHFyOS0ySWUzSkZlaktRa1lPeHNUZ0RONUFtMEhocHZRRFlrLXB5ME1IWGViNzU0XzZCdDQ3ekRVMkxLamhZbXY4MjIyZlpwS1YyeFlYNzNxUG8?oc=5" target="_blank">UN rights chief slams Iran's 'brutal repression' at emergency session</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font></li><li><a href="https://news.google.com/rss/articles/CBMitwFBVV95cUxQWUdhT29wX3ZRMHFfVU14WUJCNEZyaEd5aVdITkVrakRFbnNVb2NXWV9pdlJOaWNaVG1tMEJGYlU5b0ZadWttbWdTMVpVdi1VcHJ2bkhjR3hTSTBOT0pXWU15MDE1aU04Ykw5M1J0TkZoazBzcExZdXgwb1FnTVdISXdPM1NwaXl1dlNMNE16cElXNmpGckEyUndKdzN0WElzUFFvSTNlOHZOV2NzV1lQTEhtX0FVZm_SAbwBQVVfeXFMTVhiQ01zNVppX2l0elV6NERsT05yTFBEQTRFTzQybWp2RnVkTnZpYk0zaVpMYlhWbm5XNnNCU3RrcDZEVTMybG5LZU5ybG9JNnZSUUlnelpiYmJNRDBiSzh3Ql9rQ3ZvZ0pQM0xKS3FKUXRCY1ZuNHlabUpPME1VSUVWcjh4RG14R0xlYmlkbUhWRzF2bDFSeWJvUl9CV0VHNEsyNXdvSXU1elVwWjlkSmFMTW1zeWJDdUpMbVY?oc=5" target="_blank">US ambassador warns Iran at emergency UN meeting that Trump is 'man of action,' 'all options are on the table'</a>&nbsp;&nbsp;<font color="#6f6f6f">Fox News</font></li><li><a href="https://news.google.com/rss/articles/CBMihgFBVV95cUxOWURubmxjWE01MlhlcVhIRHFKcGJPbWZJTnNOck4wVXZMMUdpdy14ZGpCTjFRR0U0Nmg3QjQyUWVwM0NJeE5vSTFsRGc0dWliMEl2bFRoSDhERkpoaUdVUUxpUHJBNDhmT0ZtWDhYcTFlNExHYVdvcUxpSGNIZUZrTm5aMDhSQQ?oc=5" target="_blank">Q&A: Masih Alinejad on Iran</a>&nbsp;&nbsp;<font color="#6f6f6f">The Wall Street Journal</font></li><li><a href="https://news.google.com/rss/articles/CBMiqgFBVV95cUxPbm1uN0p0LWdlWGlOOVBuWE1VNndoSk5uWWV6R3c4clBvelE3R1ZQTjF2Y1ZsUUFoR1czNWlzOW94OG9DQW1qcHJtLXpVR3Q0dWtPTkpvMng0UVZQZE5id1pLWDdlM1dVOG9KSFpqR1ZYOEJTRkZfOVAxZ2pJZEZtaUdPNW4wTmlTd2hoV1FiZXJISFEwZVotUk9WWlJSUmNrLW83MFpMYUJVd9IBrwFBVV95cUxOQ0tnemd1N3FUb0VoVUh6bU1ScDNqLTRiNVNHeWxWS0cyc1dqaTdBS3FUR2NpQWdiVXExZXUzaVJ2VmU3ZlEweEdPS1ZCdml0SnRDSjZxWE82a0E3d3IzcUZwcjVnMDRtMjlYRnNBaGVmcXB0NmJtZUlubmZ4UklXeEJ2bGd5anllb1JTQThpaGcxWk9xMm51b1VPTWVaUWlkYmhMTmluMHB5eW5rLVVR?oc=5" target="_blank">UN Human Rights Council to hold emergency session on Iran protest crackdown</a>&nbsp;&nbsp;<font color="#6f6f6f">timesofisrael.com</font></li></ol>
