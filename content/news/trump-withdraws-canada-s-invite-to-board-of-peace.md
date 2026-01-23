@@ -1,5 +1,5 @@
 ---
-title: "Trump withdraws Canada's invite to  'Board of Peace'"
+title: "Trump withdraws Canada's invite to  Board of Peace"
 date: 2026-01-23
 description: "Trump did not provide a reason for the decision, which comes after Canada's PM Mark Carney warned of a \"rupture\" in the US-led global order. "
 summary: "Trump did not provide a reason for the decision, which comes after Canada's PM Mark Carney warned of a \"rupture\" in the US-led global order. "
