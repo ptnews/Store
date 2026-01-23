@@ -1,0 +1,21 @@
+---
+title: "Economic leaders at Davos say global growth is resilient despite Trump disruption - AP News"
+date: 2026-01-23
+description: "Economic leaders at Davos say global growth is resilient despite Trump disruption&nbsp;&nbsp;AP NewsWhat business should be thinking about post-Davos&nbsp;&nbsp;Financial TimesDavos: ECB’s Lagarde plays down fears of ‘rupture’ in world order, as IMF’s Georgieva warns of AI ‘tsunami’ hitting jobs market – as it happened&nbsp;&nbsp;The GuardianThe Latest: Global leaders say world economy shows resilience&nbsp;&nbsp;abc4.comThe Latest: Global economy shows resilience&nbsp;&nbsp;wowktv..."
+summary: "Economic leaders at Davos say global growth is resilient despite Trump disruption&nbsp;&nbsp;AP NewsWhat business should be thinking about post-Davos&nbsp;&nbsp;Financial TimesDavos: ECB’s Lagarde plays down fears of ‘rupture’ in world order, as IMF’s Georgieva warns of AI ‘tsunami’ hitting jobs market – as it happened&nbsp;&nbsp;The GuardianThe Latest: Global leaders say world economy shows resilience&nbsp;&nbsp;abc4.comThe Latest: Global economy shows resilience&nbsp;&nbsp;wowktv..."
+slug: "economic-leaders-at-davos-say-global-growth-is-resilient-despite-trump-disruption-ap-news"
+image: ''
+link: 'https://news.google.com/rss/articles/CBMimAFBVV95cUxNRmpBeVo4Q3hmb3VfVm5uU0NUWDc1YTlTNnlTOEZVTVZyRlFpSTk5UEQ0SFJVYmtoM0RYWEprb0JueTRCUC15QUtsOGVvbVB6M2E0Q3llWjlCWHhvSC1TWTVJVkg0elJFTk1WcnJpRDR3bHBocGpWM05ydEpHQTZHZGliT2ZpdEJQTklETGVGNUltcXdhYW9CWg?oc=5'
+source: 'https://news.google.com/rss/topics/CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx1YlY4U0FtVnVHZ0pWVXlnQVAB?hl=en-US&gl=US&ceid=US:en'
+categories:
+- 'news.google.com'
+tags:
+- 'disruption'
+- 'resilient'
+- 'economic'
+- 'leaders'
+- 'despite'
+
+draft: false
+---
+<ol><li><a href="https://news.google.com/rss/articles/CBMimAFBVV95cUxNRmpBeVo4Q3hmb3VfVm5uU0NUWDc1YTlTNnlTOEZVTVZyRlFpSTk5UEQ0SFJVYmtoM0RYWEprb0JueTRCUC15QUtsOGVvbVB6M2E0Q3llWjlCWHhvSC1TWTVJVkg0elJFTk1WcnJpRDR3bHBocGpWM05ydEpHQTZHZGliT2ZpdEJQTklETGVGNUltcXdhYW9CWg?oc=5" target="_blank">Economic leaders at Davos say global growth is resilient despite Trump disruption</a>&nbsp;&nbsp;<font color="#6f6f6f">AP News</font></li><li><a href="https://news.google.com/rss/articles/CBMicEFVX3lxTE02Mk5uWlo1T3pXV3g5c3ZhSE1Ddm1wSGpfdUFETTRDQVRfckhjMkVLM2dKTGl6WVlkbkpOaVljWEl2d1JwcDFIUmxCbHNBamszTTlwcFZBU1hMNVJMSEowTzZWcmRYT2NYMDZER2dvTXE?oc=5" target="_blank">What business should be thinking about post-Davos</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font></li><li><a href="https://news.google.com/rss/articles/CBMi5gFBVV95cUxPcFNTbTV3aGFsNkJuQTRFR0Y3Zm9RMTZEZ1RwbERqaHh6YmgtYmNxVEhMd0c4WjJ3eEJjcG5SQnBmNkZWVUNYOUZBOUhqalBidVpQWG5yaG9TTENqVUs4TWFwYkhaMW5CR05mYS12OVh2WG83dk9XWjNhQkMzeGkwbmxHMml4Z0NNVjlnbmhYS0RpdTlJYzRSRzdPakFic2kwd3NfMTlEc0lueEx5b0pHZEdUSjdNWFliMDJPUU54TXRBSlVFUW1PTFB4TFdLRmIxTVFHSXM4ZG1wNFJQR3o5dmZmcjRUQQ?oc=5" target="_blank">Davos: ECB’s Lagarde plays down fears of ‘rupture’ in world order, as IMF’s Georgieva warns of AI ‘tsunami’ hitting jobs market – as it happened</a>&nbsp;&nbsp;<font color="#6f6f6f">The Guardian</font></li><li><a href="https://news.google.com/rss/articles/CBMimAFBVV95cUxNRHNLM1JsRm1jR0RqbjRLbjFRWWw0ZDNYZ3VuaE44am1QSnNZQzlKdUVweWprYTZzR3lTYV82Zl90NjFFcl8wX3FFUGxIc2M2TENuZC12Z1lDUmgxRFZJXzhBcnA5ZU5odDJRcmJsUEVCaXpkbkNPR1VpTUV0MHliTEh3Y2kwMWZELVMxbVE5SDAxS2JNc0J0QdIBngFBVV95cUxQb1Jack15X0tSaEY0TzNHRlB3ajN1RmpkWEpzVkNLaU9xNldXZEg1NXAyRkE5WFBjeV9ERXBYTklHT19Lb0dlLWJfeng3RzdrenhUcTVYODdaRVRIY2JubWtKWTk5VnFKT3J6dFk3b1lobzA0OEdOdjlYdWk1WTMzYl9Rd2pXbFMzQUF0cWFNUlZSYkVOYzJBa3M5cmdUZw?oc=5" target="_blank">The Latest: Global leaders say world economy shows resilience</a>&nbsp;&nbsp;<font color="#6f6f6f">abc4.com</font></li><li><a href="https://news.google.com/rss/articles/CBMijAFBVV95cUxPaDdvcnpBS3JtZmpOSUljcUdQT1d0Q3A1dE5pQVhsa2JvZC1JUGItUk9kNU1DOVc5T3JIemM3NHQzRlY4WTBOWVYyMjJCdGlzQUNUZU1xcEh1S19YemNrTTVDc215YnU4Yld6N3hDdVpfTThCYVlOT3k5QkVUM3AxV3ZWQ2ltZEhYZTRUNtIBkgFBVV95cUxQby1FaElzOHpCTThOdE1YUEo4Y0J1WmdmTFBVUEFYTXlXNVVTYWIxUjBRQm9wVlhNN3h3YmFqUGg0MWdqVTVraGtKUzkweTVHUThXaE5HNkk1cldOOEgwdHJUN0t0WlFPSGdveEZxMXNWaERXSVpDUVJtTHplZjRpTk5KOTBTdDhOU2JXU1NaeEVwZw?oc=5" target="_blank">The Latest: Global economy shows resilience</a>&nbsp;&nbsp;<font color="#6f6f6f">wowktv.com</font></li></ol>

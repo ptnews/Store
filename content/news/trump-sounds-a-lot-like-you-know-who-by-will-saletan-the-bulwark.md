@@ -1,0 +1,20 @@
+---
+title: "Trump Sounds a Lot Like You-Know-Who - by Will Saletan - The Bulwark"
+date: 2026-01-23
+description: "Trump Sounds a Lot Like You-Know-Who - by Will Saletan&nbsp;&nbsp;The BulwarkDid the U.S. Ever Own Greenland? Fact-Checking Trump’s Davos Speech.&nbsp;&nbsp;The New York TimesTrump insults allies and predecessors with his own view of history&nbsp;&nbsp;CNNA tiny Danish American town loyal to Trump is baffled by his threats to take Greenland&nbsp;&nbsp;NBC NewsDid the US give Greenland back to Denmark? Trump omits history at Davos&nbsp;&nbsp;Al Jazeera"
+summary: "Trump Sounds a Lot Like You-Know-Who - by Will Saletan&nbsp;&nbsp;The BulwarkDid the U.S. Ever Own Greenland? Fact-Checking Trump’s Davos Speech.&nbsp;&nbsp;The New York TimesTrump insults allies and predecessors with his own view of history&nbsp;&nbsp;CNNA tiny Danish American town loyal to Trump is baffled by his threats to take Greenland&nbsp;&nbsp;NBC NewsDid the US give Greenland back to Denmark? Trump omits history at Davos&nbsp;&nbsp;Al Jazeera"
+slug: "trump-sounds-a-lot-like-you-know-who-by-will-saletan-the-bulwark"
+image: ''
+link: 'https://news.google.com/rss/articles/CBMieEFVX3lxTE9ub3Q2NHA5bVBTekNFNVhDOVNZQldUMEdnSEVjbHNJVHB6eEtnbWFhZGZ4WGQxNmcydlZCU3phQVRubEVfWGlRdktkYzhqNUdQdm5DQnVPZTFQeEZ1Zm5aUzJrZHc0T1ZLeTZ2ZzRPTHFpZW1kc1NoVA?oc=5'
+source: 'https://news.google.com/rss/topics/CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx1YlY4U0FtVnVHZ0pWVXlnQVAB?hl=en-US&gl=US&ceid=US:en'
+categories:
+- 'news.google.com'
+tags:
+- 'saletan'
+- 'bulwark'
+- 'sounds'
+- 'trump'
+
+draft: false
+---
+<ol><li><a href="https://news.google.com/rss/articles/CBMieEFVX3lxTE9ub3Q2NHA5bVBTekNFNVhDOVNZQldUMEdnSEVjbHNJVHB6eEtnbWFhZGZ4WGQxNmcydlZCU3phQVRubEVfWGlRdktkYzhqNUdQdm5DQnVPZTFQeEZ1Zm5aUzJrZHc0T1ZLeTZ2ZzRPTHFpZW1kc1NoVA?oc=5" target="_blank">Trump Sounds a Lot Like You-Know-Who - by Will Saletan</a>&nbsp;&nbsp;<font color="#6f6f6f">The Bulwark</font></li><li><a href="https://news.google.com/rss/articles/CBMiiAFBVV95cUxQZHhlcGRNdjNLUnd6WlVFZy1zQkE3eVVUcWZ5SHFBbVgwMmwwT01SNGpuWXR6aDY5MmMyVkdyZW9ELTRUZFB3amN4aFNvVHBFVW5GT1NHRjFTbGpKWGU3anNpWkxxdDhHS01LTXNvRHV3bVpfakhxdzdqQXQ1dDdNbldzNWhMeklz?oc=5" target="_blank">Did the U.S. Ever Own Greenland? Fact-Checking Trump’s Davos Speech.</a>&nbsp;&nbsp;<font color="#6f6f6f">The New York Times</font></li><li><a href="https://news.google.com/rss/articles/CBMikAFBVV95cUxQUi0tU0FMUTk0cGdGalNlbjIwenRyMXhuQ1dOek9FR0ZNcGlUQXZxeXk3MlU5SlY0ZUJtYVRSR21CSVVZLVNidTRSMlRoRFEzaV9mcGZudGJXTVMzRjVJV0toemxkTW9maFdpSG81UTVLRk9ydXNWWVkyUmJWek1wUExDTVNHYTIybTQ5dnpxYUU?oc=5" target="_blank">Trump insults allies and predecessors with his own view of history</a>&nbsp;&nbsp;<font color="#6f6f6f">CNN</font></li><li><a href="https://news.google.com/rss/articles/CBMiswFBVV95cUxOUHF3YTJBRWFzb21mNlpBOHRyaExQR3l4NFJnU2h5VEJRU3UybFZGQU9OTDNwUzBiTEtsQVJiRDZsQktYblVWYXRHUEVkUXcyYkJRYTgzS2gwRkJOdHEzT0h5RkdQM19DQk55X1BXR3hsNWo3MUljY1B2ZUE2ZGljMGpWU0hzRXgzWm9DRVYydGVCckZJdElXc0FlWm1SOUMwUG1sM1o5SHVaS0VORnZnWkp1MA?oc=5" target="_blank">A tiny Danish American town loyal to Trump is baffled by his threats to take Greenland</a>&nbsp;&nbsp;<font color="#6f6f6f">NBC News</font></li><li><a href="https://news.google.com/rss/articles/CBMisAFBVV95cUxOMDZ4U0JUZlBhLTZRLW44TEZrcWRpd0RSdDNjN2g3Z0NIR0ZoTm1vWHVhUFB3YUlwRTh0YjRUZWRYZE1oTXNkam82VFVwYXRZTlZaZHZGVjd5YU01VlVaZ2lEcldJOE5mbTQ2VW94SnlxZFVTTG90eDhQVVNoWExzR243Q0FLWjNBbUJGUUhIanRLMWRDcTIzNXhnb3ctY0RSQ0NwbmZjWDZMT2hSM1lwNtIBtgFBVV95cUxPbkJlTk1iSnM2S1ptYzVqN2g0eDNXbkp2S29SR3dxTUlPREItLUFVeXRXZ3JMTHFzdVZ6ckJTTVZVZDlTWkFkVGtYZjdzRzBRUVJRODVaa09tamdOM0gtS2c2eXVEUkhCU0l4U1NXSkg2Z2VXVHhxWXhfamo0ejVqR0RPMFFHR3FMTThmZDRsTEVSVVg4cExneGVqSHl2cWtqTDJPUHhyaGEtT2hrc2NCRXFyYjhGZw?oc=5" target="_blank">Did the US give Greenland back to Denmark? Trump omits history at Davos</a>&nbsp;&nbsp;<font color="#6f6f6f">Al Jazeera</font></li></ol>
