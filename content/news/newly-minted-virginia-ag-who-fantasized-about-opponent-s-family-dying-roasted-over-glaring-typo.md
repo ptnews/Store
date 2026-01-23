@@ -1,8 +1,8 @@
 ---
 title: "Newly minted Virginia AG who fantasized about opponent's family dying roasted over glaring typo"
 date: 2026-01-22
-description: "Virginia Attorney General Jay Jones faced online mockery after his office misspelled &apos;attorney&apos; as &apos;attoney&apos; in an official release, with GOP critics weighing in."
-summary: "Virginia Attorney General Jay Jones faced online mockery after his office misspelled &apos;attorney&apos; as &apos;attoney&apos; in an official release, with GOP critics weighing in."
+description: "Virginia Attorney General Jay Jones faced online mockery after his office misspelled &quot;attorney&quot; as &quot;attoney&quot; in an official release, with GOP critics weighing in."
+summary: "Virginia Attorney General Jay Jones faced online mockery after his office misspelled &quot;attorney&quot; as &quot;attoney&quot; in an official release, with GOP critics weighing in."
 slug: "newly-minted-virginia-ag-who-fantasized-about-opponent-s-family-dying-roasted-over-glaring-typo"
 image: ''
 link: 'https://www.foxnews.com/politics/newly-minted-virginia-ag-who-fantasized-about-opponents-family-dying-roasted-over-glaring-typo'
