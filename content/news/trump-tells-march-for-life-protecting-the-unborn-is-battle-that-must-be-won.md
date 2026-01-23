@@ -1,0 +1,21 @@
+---
+title: "Trump tells March for Life protecting the unborn is 'battle' that 'must be won'"
+date: 2026-01-23
+description: "President Donald Trump addressed the March for Life in a pre-recorded message in which he encouraged the participants to fight for the unborn."
+summary: "President Donald Trump addressed the March for Life in a pre-recorded message in which he encouraged the participants to fight for the unborn."
+slug: "trump-tells-march-for-life-protecting-the-unborn-is-battle-that-must-be-won"
+image: ''
+link: 'https://www.foxnews.com/politics/trump-tells-march-life-protecting-unborn-battle-must-won'
+source: 'https://feeds.foxnews.com/foxnews/latest'
+categories:
+- 'feeds.foxnews.com'
+tags:
+- 'protecting'
+- 'unborn'
+- 'battle'
+- 'trump'
+- 'tells'
+
+draft: false
+---
+<p>President <a href="https://www.foxnews.com/category/person/donald-trump" target="_blank" rel="noopener">Donald Trump</a> on Friday addressed participants in the March for Life, an annual pro-life demonstration in D.C. </p><p>"In 2026, as we celebrate 250 years since our founding fathers recognized the right to life in our Declaration of Independence, I want to thank every single one of you who was out on this winter day," he said.</p><p>Trump recalled that in 2020, he became the first sitting <a href="https://www.foxnews.com/politics" target="_blank" rel="noopener">U.S. president</a> to attend the March for Life, saying he was "proud" to do so. He remarked on the progress the pro-life movement had made since then, noting the overturning of Roe v. Wade.</p><p><a href="https://www.foxnews.com/politics/state-dept-moves-expand-mexico-city-policy-targeting-abortion-dei-gender-ideology-foreign-aid" target="_blank" rel="noopener"><strong>STATE DEPT MOVES TO EXPAND MEXICO CITY POLICY, TARGETING ABORTION, DEI AND GENDER IDEOLOGY IN FOREIGN AID</strong></a></p><p>The president painted the fight for the pro-life movement as a battle, saying that it was time to bring back a culture that supports life.</p><p>"This is a battle that must be fought, must be won, not only in the corridors of power, but above all, in the hearts and souls of the people," Trump said in a pre-recorded message. "That is why, under the Trump administration, we're strongly defending religious liberty. We're bringing back faith in America. We're bringing back God."</p><p><a href="https://www.foxnews.com/media/pro-life-groups-warn-trump-hyde-amendment-non-negotiable-after-flexibility-remarks" target="_blank" rel="noopener"><strong><u>PRO-LIFE GROUPS WARN TRUMP HYDE AMENDMENT IS 'NON-NEGOTIABLE' AFTER FLEXIBILITY REMARKS</u></strong></a></p><p>The Trump administration recently moved to expand the Mexico City Policy, a Reagan-era U.S. rule that conditions foreign aid on recipient groups certifying they will not provide or promote abortion as a method of family planning. </p><p>The expansion of the policy would bar U.S. foreign assistance from subsidizing abortion and, in a major broadening, from supporting what the administration calls gender and diversity, equity and inclusion (DEI) programs, Fox News Digital learned Thursday.</p><p>In the pre-recorded message, the president spoke about the launch of <a href="https://www.foxbusiness.com/politics/trump-accounts-explained-who-qualifies-how-work-when-you-can-claim" target="_blank" rel="noopener">Trump Accounts</a>, which invests $1,000 into accounts for children under the age of 18, painting it as another win for families. The accounts function like long-term investment vehicles and are designed to grow over time. </p><p>The rally in D.C., which regularly sees massive crowds, takes place every year on the anniversary of Roe v. Wade. This year, Vice President JD Vance made his second appearance at the event, where he also gave an address in 2025. His speech is timely, as he and his wife, second lady Usha Vance, recently announced that they are expecting their fourth child.</p>
