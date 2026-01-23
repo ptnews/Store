@@ -1,0 +1,21 @@
+---
+title: "Trump says Board of Peace is withdrawing its invite to Canada - CBS News"
+date: 2026-01-23
+description: "Trump says Board of Peace is withdrawing its invite to Canada&nbsp;&nbsp;CBS NewsTrump withdraws Canada's invite to his 'Board of Peace'&nbsp;&nbsp;NBC NewsCountries that signed Trump's Gaza Board of Peace charter&nbsp;&nbsp;Fox NewsUK holds off joining Trump's Board of Peace over Putin concerns&nbsp;&nbsp;BBCTrump launches Board of Peace in Davos, Zelenskyy announces U.S.-Russia-Ukraine talks&nbsp;&nbsp;CBS News"
+summary: "Trump says Board of Peace is withdrawing its invite to Canada&nbsp;&nbsp;CBS NewsTrump withdraws Canada's invite to his 'Board of Peace'&nbsp;&nbsp;NBC NewsCountries that signed Trump's Gaza Board of Peace charter&nbsp;&nbsp;Fox NewsUK holds off joining Trump's Board of Peace over Putin concerns&nbsp;&nbsp;BBCTrump launches Board of Peace in Davos, Zelenskyy announces U.S.-Russia-Ukraine talks&nbsp;&nbsp;CBS News"
+slug: "trump-says-board-of-peace-is-withdrawing-its-invite-to-canada-cbs-news"
+image: ''
+link: 'https://news.google.com/rss/articles/CBMihgFBVV95cUxNTlRydHBlTUNQZWdjbW1MVWFqd2ZraUplTElPTzBOYm9rejZiRWo1OENwZldCR1htUENSaFVNQ0hQY2FBM2tGVlh2by1KZWtISzBtR1JlSmJZRnk5bVZwSFZVQml6QVB6X2pObDFPaWVSOVViTmZzMDl4YTZmeHExNFpKMkFrQdIBiwFBVV95cUxNbUgxYnhpMzJsWkRESm0wcFM5dVFTem95WXhVMGdWLXhHMWE1eTcxcTJfQ2duRWZGTXJxWkFsSjZ5aDNlZXFsZ2g2c1JnaS1HWDhvRldRdGs1MTY2UlloSkZPUmxZaE9QUFcweldkdmVROXhEd1o1RmV6QkZ5TVNnMThRRG0xUndZM0dJ?oc=5'
+source: 'https://news.google.com/rss/topics/CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx1YlY4U0FtVnVHZ0pWVXlnQVAB?hl=en-US&gl=US&ceid=US:en'
+categories:
+- 'news.google.com'
+tags:
+- 'withdrawing'
+- 'invite'
+- 'canada'
+- 'trump'
+- 'board'
+
+draft: false
+---
+<ol><li><a href="https://news.google.com/rss/articles/CBMihgFBVV95cUxNTlRydHBlTUNQZWdjbW1MVWFqd2ZraUplTElPTzBOYm9rejZiRWo1OENwZldCR1htUENSaFVNQ0hQY2FBM2tGVlh2by1KZWtISzBtR1JlSmJZRnk5bVZwSFZVQml6QVB6X2pObDFPaWVSOVViTmZzMDl4YTZmeHExNFpKMkFrQdIBiwFBVV95cUxNbUgxYnhpMzJsWkRESm0wcFM5dVFTem95WXhVMGdWLXhHMWE1eTcxcTJfQ2duRWZGTXJxWkFsSjZ5aDNlZXFsZ2g2c1JnaS1HWDhvRldRdGs1MTY2UlloSkZPUmxZaE9QUFcweldkdmVROXhEd1o1RmV6QkZ5TVNnMThRRG0xUndZM0dJ?oc=5" target="_blank">Trump says Board of Peace is withdrawing its invite to Canada</a>&nbsp;&nbsp;<font color="#6f6f6f">CBS News</font></li><li><a href="https://news.google.com/rss/articles/CBMiuAFBVV95cUxORzBXeVZCbWVjSzhheHN0TWRGVlRHM1JoeWZuZEJYQktldHdhRzhRY25xMjZGcWI3UGY3YWZrWHkyR3lZV3h0VE9rRTAyOGFFcGNFdTM3V2RMak1JOWVsR0Yxbk5IUkxPaXduRDF3M2ppTEJRZEtkVzNYOWJWUV93TFF4cGd2Q2VLMFMzM0NLNkI3UjRFTTBOWl9mbXk1ZFk0cTMxcHI3aVg0WUJ3cUt0YTJ6ZEZ3RXc2?oc=5" target="_blank">Trump withdraws Canada's invite to his 'Board of Peace'</a>&nbsp;&nbsp;<font color="#6f6f6f">NBC News</font></li><li><a href="https://news.google.com/rss/articles/CBMiiAFBVV95cUxNaWpoVkRTVF9XMWJLeVl0TFFVU2JsSW1jazRmY1pYSFZFaGFQbEVxOTVZbWRCdFF0OWpMQUxiSy02bkVZOVBhVkx1WE44eG9hLTBZNEtpWVY2TGdmN1d1Ql9nUGs3ZElYMlpBS282b0JIN1M4RmIzbEx5b1NZZEZBUlJvQ0hZcTNm0gGOAUFVX3lxTE1FRTFKdV9RY0E4WDRITUlaY1Fja1VPUVBXcEhkOGJnSHpTY1I2Mk0tZFdQOUN3c3ZESElGT0FoeWJTWHNsT1B2WkpCZzJkcWhmWWZMd3U5eGRtdzRSZGVYMHJJRlZMa01adjMzTW9MYmxuOE05NEx6MWxnRWlickRKblhocHEyQnB1NGVya3c?oc=5" target="_blank">Countries that signed Trump's Gaza Board of Peace charter</a>&nbsp;&nbsp;<font color="#6f6f6f">Fox News</font></li><li><a href="https://news.google.com/rss/articles/CBMiWkFVX3lxTE9ISDhYVHIyM2VoUmU2R2NHUHRfeG5sQWxhX0cxb3UwTlpwRElkOHFhTC0wUXFkYmVKZDVsVkJNdlYxY21iUGVxcUVzWUVhNFhtRWM3U3J1ZmN0QQ?oc=5" target="_blank">UK holds off joining Trump's Board of Peace over Putin concerns</a>&nbsp;&nbsp;<font color="#6f6f6f">BBC</font></li><li><a href="https://news.google.com/rss/articles/CBMilAFBVV95cUxPRjRxOUlzRDRxaFZBakJKQkhZMFI1eEVFRXRMV213LS02elNxd2JKcFRGN3pDTWZwbUUzUzZ6RlMxWEszN3VTQl9ha0hyVkc5VEZoUUFpb2dETUJubG4tbk9yaDZaSlYxejgzRTZ3RVA4TzBobUhoclBWR0FtY3VUUllySll1dWVMcl9yTkJPSWpVdldr0gGaAUFVX3lxTFBMcnROa3IzcXQwYldOR2JBZ25LOTJTQzc4OS1aX3lrdVpJaDlvVXB4Y2N0TU5YeC1tanlIeGozdFhNbnVDOWlXeU5nQVRuSmtabVV1NHBLdlEtdFpHZG5XeFlBOFkwVk1RUkcwWlpHWDRvY1lkdm9JcF80TVJhTC1henNURHA5di1qQm13YTQ2Z2lmMDk5eUg0clE?oc=5" target="_blank">Trump launches Board of Peace in Davos, Zelenskyy announces U.S.-Russia-Ukraine talks</a>&nbsp;&nbsp;<font color="#6f6f6f">CBS News</font></li></ol>

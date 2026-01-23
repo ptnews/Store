@@ -1,0 +1,21 @@
+---
+title: "Rutte Says Greenland Sovereignty Was Not Discussed With Trump - Bloomberg.com"
+date: 2026-01-23
+description: "Rutte Says Greenland Sovereignty Was Not Discussed With Trump&nbsp;&nbsp;Bloomberg.comNATO’s Mark Rutte emerges as Trump whisperer-in-chief after dramatic about-face at Davos&nbsp;&nbsp;CNN'Trump whisperer' Rutte steers NATO around Greenland crisis&nbsp;&nbsp;ReutersNATO ambassador says Europe 'has a tendency to overreact' over Greenland dispute&nbsp;&nbsp;Fox NewsNATO chief: ‘No way’ European economies would have grown so much without Trump&nbsp;&nbsp;The Hill"
+summary: "Rutte Says Greenland Sovereignty Was Not Discussed With Trump&nbsp;&nbsp;Bloomberg.comNATO’s Mark Rutte emerges as Trump whisperer-in-chief after dramatic about-face at Davos&nbsp;&nbsp;CNN'Trump whisperer' Rutte steers NATO around Greenland crisis&nbsp;&nbsp;ReutersNATO ambassador says Europe 'has a tendency to overreact' over Greenland dispute&nbsp;&nbsp;Fox NewsNATO chief: ‘No way’ European economies would have grown so much without Trump&nbsp;&nbsp;The Hill"
+slug: "rutte-says-greenland-sovereignty-was-not-discussed-with-trump-bloomberg-com"
+image: ''
+link: 'https://news.google.com/rss/articles/CBMivgFBVV95cUxOSDVEcGVnSDRoanY3WHdCX3VIZDkyT3VwM0ZFb0oyNlh2NUh0c1lLNTcyeEhTUVRDanRzeG1aTl9ucE9KTVJwX2EzWjBnTEt4X1B4eVU1THg3R3JsTmRqTHo4NHotTTRWaGxrb2tQTWZENE1NMy1BS3hacVJQRm9YLVhlaU1Gd1ZpejlIZ0VlZ3d2b1RzQUtsNkFkb2Z0UzY5YXA2b2hTMWlndTdBQUZMS0hXanNVUmc0aTNwbHFR?oc=5'
+source: 'https://news.google.com/rss/topics/CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx1YlY4U0FtVnVHZ0pWVXlnQVAB?hl=en-US&gl=US&ceid=US:en'
+categories:
+- 'news.google.com'
+tags:
+- 'sovereignty'
+- 'greenland'
+- 'discussed'
+- 'bloomberg'
+- 'rutte'
+
+draft: false
+---
+<ol><li><a href="https://news.google.com/rss/articles/CBMivgFBVV95cUxOSDVEcGVnSDRoanY3WHdCX3VIZDkyT3VwM0ZFb0oyNlh2NUh0c1lLNTcyeEhTUVRDanRzeG1aTl9ucE9KTVJwX2EzWjBnTEt4X1B4eVU1THg3R3JsTmRqTHo4NHotTTRWaGxrb2tQTWZENE1NMy1BS3hacVJQRm9YLVhlaU1Gd1ZpejlIZ0VlZ3d2b1RzQUtsNkFkb2Z0UzY5YXA2b2hTMWlndTdBQUZMS0hXanNVUmc0aTNwbHFR?oc=5" target="_blank">Rutte Says Greenland Sovereignty Was Not Discussed With Trump</a>&nbsp;&nbsp;<font color="#6f6f6f">Bloomberg.com</font></li><li><a href="https://news.google.com/rss/articles/CBMihgFBVV95cUxQbVV5S202UG1kYW9ETzRLMzlWNjYzUjhlQlBZdWhDd3lkamhsRVRTVEQzblNjRjNRUjlaRm9SRExlYXVIajdoNlRrMUF6cThmUHdETGotYS1XanZrTWR1WVhtVG5nUEFrZXd0Y1VPQ0xuZWZxRVk5TW50UmNTQlFRS0JJa1diQQ?oc=5" target="_blank">NATO’s Mark Rutte emerges as Trump whisperer-in-chief after dramatic about-face at Davos</a>&nbsp;&nbsp;<font color="#6f6f6f">CNN</font></li><li><a href="https://news.google.com/rss/articles/CBMitwFBVV95cUxPeS15U0t0TjltcjRhNnB4NFlHdl9KSWNnaEZCSy1HRWtPd000dFl0cGdLcG5NMV9jbVpTU2QxYmZsbnBreHI5UUhqQkdJWVNNbEFvZVZBYmxEanE3WERyUGd5Mzk1NS1TNkRvVHR5ZXVBLXNLTmplbnppLTlxUHlzb0ZOT21zTzQwNVNpY1lWUUQzS2tKeExrZFQ2TEVDQW9GVW96WDJtdWJGN3l1R3BLdWQ4czZ4eE0?oc=5" target="_blank">'Trump whisperer' Rutte steers NATO around Greenland crisis</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font></li><li><a href="https://news.google.com/rss/articles/CBMirwFBVV95cUxPMktHWC13Z2lVT2FWNXBTTGpYOTB3TFF3dUZYaG5UNVY4MG1YRWF5bnVHWU9jSmlzZlZvazk3MTNTaktuY3VoYmM5X2ZJbVMzSzNTWDloWFVxOVdVYkFWYi1aekpzdkVMUFpJU2NsakhQQmJTdTB6X055ZEhZc1VYMXk1U0lXdFI4d0E0U0FPVkZveWY3YW8wZEd3aTRQd3JLM3BIREJnN3p6VUo5bmFn0gG0AUFVX3lxTFBzNkkxOF93WFVOZ2F4bnI0Y0Yzdnk0dW0ya1dPSkRuZUpZWGluczh3Z193eUNacmZKUEJ3dm1RLTlJY2VoVGJLckhrdU10RFhwZ3RuOV9UR0lIYVJZVUttLWxBREZ6YUpGbVA1TE9qMVhSRUl3Z2dEU09CbV8tcXNUcTNlV0o4UDk4Z1A3aFpUZWtpTWZJalZKUGsydjZuQ2ZjV0wxcTBKekUycnByTHBTZExudw?oc=5" target="_blank">NATO ambassador says Europe 'has a tendency to overreact' over Greenland dispute</a>&nbsp;&nbsp;<font color="#6f6f6f">Fox News</font></li><li><a href="https://news.google.com/rss/articles/CBMiiwFBVV95cUxPakdRZDR6SW9lUjVHQkFBVldSRUtkQ2h0VzBEUGNKTDdJZkRPQmdDUXZGNlpCSmF5ZDl2Q3c3NUl6M0NQN05qVDduNnJQQk9qOHRuUFlQWnVWb3VtNXZFeFZQUjFaM0Vvc2J0dXVqU2ZVZVd3STRVMER5Y0tBZlBkMkFZZktYVzA1d1Bj0gGQAUFVX3lxTE5GekE0VWVsSjF0dU5sRHJ1ZEVIUDFMQjJaQVFobmR1MUNHU0FzTFVncGJLQ3BNeW5tMUpJbXR2Qkl0TkkwMUh0RXpkNWRUYmt4MHptaWNPakhmNlB3QnE4ZTB3MUFGVkNNSGg3TDN4eXJpSlJGUmt0WXRfUkIyb1pWeG5BQzBsSi1hWGtfNUNtaQ?oc=5" target="_blank">NATO chief: ‘No way’ European economies would have grown so much without Trump</a>&nbsp;&nbsp;<font color="#6f6f6f">The Hill</font></li></ol>
