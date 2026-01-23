@@ -1,6 +1,6 @@
 ---
 title: "Ugandan MP and Bobi Wine ally arrested over election violence "
-date: 2026-01-22
+date: 2026-01-23
 description: "The opposition politician is accused of election violence in which at least seven people were killed."
 summary: "The opposition politician is accused of election violence in which at least seven people were killed."
 slug: "ugandan-mp-and-bobi-wine-ally-arrested-over-election-violence"

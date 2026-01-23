@@ -1,6 +1,6 @@
 ---
 title: "Vampire film Sinners breaks Oscar nominations record"
-date: 2026-01-22
+date: 2026-01-23
 description: "The horror is up for 16 awards - setting a new record for the most Oscar nominations for a single film."
 summary: "The horror is up for 16 awards - setting a new record for the most Oscar nominations for a single film."
 slug: "vampire-film-sinners-breaks-oscar-nominations-record"

@@ -1,6 +1,6 @@
 ---
 title: "Loved ones of victims reeling after high-speed rail crash in southern Spain"
-date: 2026-01-22
+date: 2026-01-23
 description: "Two deadly crashes in almost as many days have inflicted grief, anger and disruption. 
 Two deadly crashes in almost as many days inflict grief, anger and disruption in Spain. 
 "

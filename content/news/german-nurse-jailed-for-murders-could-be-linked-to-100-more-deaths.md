@@ -1,6 +1,6 @@
 ---
 title: "German nurse jailed for murders could be linked to 100 more deaths"
-date: 2026-01-22
+date: 2026-01-23
 description: "Prosecutors are reviewing dozens more suspected deaths linked to a former palliative care nurse."
 summary: "Prosecutors are reviewing dozens more suspected deaths linked to a former palliative care nurse."
 slug: "german-nurse-jailed-for-murders-could-be-linked-to-100-more-deaths"

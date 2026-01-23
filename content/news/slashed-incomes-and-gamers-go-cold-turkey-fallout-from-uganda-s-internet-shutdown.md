@@ -1,6 +1,6 @@
 ---
 title: "Slashed incomes and gamers go cold turkey: Fallout from Uganda's internet shutdown"
-date: 2026-01-22
+date: 2026-01-23
 description: "The internet was shut during the general election, leaving many people without any income - or entertainment."
 summary: "The internet was shut during the general election, leaving many people without any income - or entertainment."
 slug: "slashed-incomes-and-gamers-go-cold-turkey-fallout-from-uganda-s-internet-shutdown"

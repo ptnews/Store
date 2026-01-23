@@ -1,6 +1,6 @@
 ---
 title: "France seizes suspected Russian 'shadow fleet' oil tanker in the Mediterranean"
-date: 2026-01-22
+date: 2026-01-23
 description: "The vessel, named Grinch, was stopped by the French navy as it travelled through waters between Spain and Morocco."
 summary: "The vessel, named Grinch, was stopped by the French navy as it travelled through waters between Spain and Morocco."
 slug: "france-seizes-suspected-russian-shadow-fleet-oil-tanker-in-the-mediterranean"

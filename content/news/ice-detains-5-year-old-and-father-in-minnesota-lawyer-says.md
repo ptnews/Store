@@ -1,6 +1,6 @@
 ---
 title: "ICE detains 5-year-old and father in Minnesota, lawyer says"
-date: 2026-01-22
+date: 2026-01-23
 description: "The boy was taken along with his father, the lawyer and school officials say. ICE says it was not targeting the boy."
 summary: "The boy was taken along with his father, the lawyer and school officials say. ICE says it was not targeting the boy."
 slug: "ice-detains-5-year-old-and-father-in-minnesota-lawyer-says"

@@ -1,6 +1,6 @@
 ---
 title: "Ex-intelligence officer accused of betraying Austria in Russia spying trial"
-date: 2026-01-22
+date: 2026-01-23
 description: "Egisto Ott, 63, denies charges of handing over information to Russian agents."
 summary: "Egisto Ott, 63, denies charges of handing over information to Russian agents."
 slug: "ex-intelligence-officer-accused-of-betraying-austria-in-russia-spying-trial"

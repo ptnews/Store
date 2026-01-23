@@ -1,6 +1,6 @@
 ---
 title: "What we know about Trump's  'framework of future deal' over Greenland"
-date: 2026-01-22
+date: 2026-01-23
 description: "Denmark and Greenland have made it clear they will not relinquish sovereignty of the world's largest island."
 summary: "Denmark and Greenland have made it clear they will not relinquish sovereignty of the world's largest island."
 slug: "what-we-know-about-trump-s-framework-of-future-deal-over-greenland"

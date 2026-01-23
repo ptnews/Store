@@ -1,6 +1,6 @@
 ---
 title: "Watch: Russian cosmonaut captures stunning aurora from space"
-date: 2026-01-22
+date: 2026-01-23
 description: "Cosmonaut Sergey Kud-Sverchkov captured the lights over Earth during one of the largest solar storms in more than 20 years."
 summary: "Cosmonaut Sergey Kud-Sverchkov captured the lights over Earth during one of the largest solar storms in more than 20 years."
 slug: "watch-russian-cosmonaut-captures-stunning-aurora-from-space"

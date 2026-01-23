@@ -1,6 +1,6 @@
 ---
 title: "Son-in-law of Venezuelan opposition candidate freed from jail, wife says"
-date: 2026-01-22
+date: 2026-01-23
 description: "Rafael Tudares was arrested after his father-in-law, Edmundo González, ran against Nicolás Maduro in the election."
 summary: "Rafael Tudares was arrested after his father-in-law, Edmundo González, ran against Nicolás Maduro in the election."
 slug: "son-in-law-of-venezuelan-opposition-candidate-freed-from-jail-wife-says"

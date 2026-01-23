@@ -1,6 +1,6 @@
 ---
 title: "Japan suspends world's largest nuclear plant hours after restart"
-date: 2026-01-22
+date: 2026-01-23
 description: "The operator says reactor remains \"stable\" and has no \"radioactive impact outside\"."
 summary: "The operator says reactor remains \"stable\" and has no \"radioactive impact outside\"."
 slug: "japan-suspends-world-s-largest-nuclear-plant-hours-after-restart"

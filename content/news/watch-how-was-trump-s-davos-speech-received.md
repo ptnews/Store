@@ -1,6 +1,6 @@
 ---
 title: "Watch: How was Trump's Davos speech received?"
-date: 2026-01-22
+date: 2026-01-23
 description: "The BBC's Faisal Islam was in the room when President Trump told his audience that he would not use force in Greenland, but also launched a long argument for why the US should own it. "
 summary: "The BBC's Faisal Islam was in the room when President Trump told his audience that he would not use force in Greenland, but also launched a long argument for why the US should own it. "
 slug: "watch-how-was-trump-s-davos-speech-received"

@@ -1,6 +1,6 @@
 ---
 title: "EU suspends approval of US trade deal  "
-date: 2026-01-22
+date: 2026-01-23
 description: "The move follows renewed tensions between the US and EU, as Donald Trump pushes to acquire Greenland. "
 summary: "The move follows renewed tensions between the US and EU, as Donald Trump pushes to acquire Greenland. "
 slug: "eu-suspends-approval-of-us-trade-deal"

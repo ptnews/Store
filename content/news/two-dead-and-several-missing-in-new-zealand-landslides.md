@@ -1,6 +1,6 @@
 ---
 title: "Two dead and several missing in New Zealand landslides"
-date: 2026-01-22
+date: 2026-01-23
 description: "Heavy rains have ravaged the country's North Island, with a minister comparing it to a \"war zone\"."
 summary: "Heavy rains have ravaged the country's North Island, with a minister comparing it to a \"war zone\"."
 slug: "two-dead-and-several-missing-in-new-zealand-landslides"

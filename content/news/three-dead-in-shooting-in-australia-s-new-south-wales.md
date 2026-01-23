@@ -1,6 +1,6 @@
 ---
 title: "Three dead in shooting in Australia's New South Wales"
-date: 2026-01-22
+date: 2026-01-23
 description: "A man is being sought in connection with the shootings in the small town of Lake Cargelligo on Thursday."
 summary: "A man is being sought in connection with the shootings in the small town of Lake Cargelligo on Thursday."
 slug: "three-dead-in-shooting-in-australia-s-new-south-wales"

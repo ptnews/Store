@@ -1,6 +1,6 @@
 ---
 title: "Rapid rollback of Kurdish-led forces reshapes Sharaa's Syria"
-date: 2026-01-22
+date: 2026-01-23
 description: "The retreat of the Syrian Democratic Forces (SDF) in the north-east marks the biggest change of control in Syria since the fall of Bashar al-Assad."
 summary: "The retreat of the Syrian Democratic Forces (SDF) in the north-east marks the biggest change of control in Syria since the fall of Bashar al-Assad."
 slug: "rapid-rollback-of-kurdish-led-forces-reshapes-sharaa-s-syria"

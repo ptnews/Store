@@ -1,6 +1,6 @@
 ---
 title: "UK holds off joining Trump's Board of Peace over Putin concerns"
-date: 2026-01-22
+date: 2026-01-23
 description: "Foreign Secretary Yvette Cooper says the Russian president has shown no commitment to peace in Ukraine."
 summary: "Foreign Secretary Yvette Cooper says the Russian president has shown no commitment to peace in Ukraine."
 slug: "uk-holds-off-joining-trump-s-board-of-peace-over-putin-concerns"

@@ -1,6 +1,6 @@
 ---
 title: "Israeli strike in Gaza kills three journalists, first responders say"
-date: 2026-01-22
+date: 2026-01-23
 description: "Another eight Palestinians were killed by Israeli artillery and gunfire across Gaza on Wednesday, according to medics."
 summary: "Another eight Palestinians were killed by Israeli artillery and gunfire across Gaza on Wednesday, according to medics."
 slug: "israeli-strike-in-gaza-kills-three-journalists-first-responders-say"

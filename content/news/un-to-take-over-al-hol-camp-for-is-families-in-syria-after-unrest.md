@@ -1,6 +1,6 @@
 ---
 title: "UN to take over al-Hol camp for IS families in Syria after unrest "
-date: 2026-01-22
+date: 2026-01-23
 description: "A UN spokesman said conditions inside the camp remained \"tense and volatile\" after Kurdish-led forces withdrew."
 summary: "A UN spokesman said conditions inside the camp remained \"tense and volatile\" after Kurdish-led forces withdrew."
 slug: "un-to-take-over-al-hol-camp-for-is-families-in-syria-after-unrest"
