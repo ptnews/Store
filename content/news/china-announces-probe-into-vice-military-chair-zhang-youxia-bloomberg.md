@@ -1,0 +1,21 @@
+---
+title: "China Announces Probe Into Vice Military Chair Zhang Youxia - Bloomberg"
+date: 2026-01-24
+description: "China Announces Probe Into Vice Military Chair Zhang Youxia&nbsp;&nbsp;BloombergChina investigating senior military officials Zhang Youxia, Liu Zhenli, says defence ministry&nbsp;&nbsp;ReutersChina’s Xi Places His Top General Under Investigation as Military Purges Heat Up&nbsp;&nbsp;The Wall Street JournalChina Purge leaves only Xi Jinping and 'incorruptible' loyalist at China's Central Military Commission&nbsp;&nbsp;Intelligence OnlineBreaking | China’s top military leaders Zhang Youxia and..."
+summary: "China Announces Probe Into Vice Military Chair Zhang Youxia&nbsp;&nbsp;BloombergChina investigating senior military officials Zhang Youxia, Liu Zhenli, says defence ministry&nbsp;&nbsp;ReutersChina’s Xi Places His Top General Under Investigation as Military Purges Heat Up&nbsp;&nbsp;The Wall Street JournalChina Purge leaves only Xi Jinping and 'incorruptible' loyalist at China's Central Military Commission&nbsp;&nbsp;Intelligence OnlineBreaking | China’s top military leaders Zhang Youxia and..."
+slug: "china-announces-probe-into-vice-military-chair-zhang-youxia-bloomberg"
+image: ''
+link: 'https://news.google.com/rss/articles/CBMirwFBVV95cUxPd0VWRzJsbDlOeVN0LXF4eDc2dl9SSmFaNmhwRG1VdUlGMUUyTWUyUlBUNDBqcFpXaHkwTXg3OUJDVi1TdnNEYVZOVjBsR2pHQVQ5RkFKR3ZjRjZNM2NsNUVPTnI5dkpXN3RLMWNBZmRLSnlRRF84SkQ5dHZKX0R4QlMzbVlpYXJHb3dBemRrRmdRdDhrTHdrOXFacDZaUTBfT3FkY3pOd2liOUFuNHBZ?oc=5'
+source: 'https://news.google.com/rss/topics/CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx1YlY4U0FtVnVHZ0pWVXlnQVAB?hl=en-US&gl=US&ceid=US:en'
+categories:
+- 'news.google.com'
+tags:
+- 'announces'
+- 'bloomberg'
+- 'military'
+- 'youxia'
+- 'china'
+
+draft: false
+---
+<ol><li><a href="https://news.google.com/rss/articles/CBMirwFBVV95cUxPd0VWRzJsbDlOeVN0LXF4eDc2dl9SSmFaNmhwRG1VdUlGMUUyTWUyUlBUNDBqcFpXaHkwTXg3OUJDVi1TdnNEYVZOVjBsR2pHQVQ5RkFKR3ZjRjZNM2NsNUVPTnI5dkpXN3RLMWNBZmRLSnlRRF84SkQ5dHZKX0R4QlMzbVlpYXJHb3dBemRrRmdRdDhrTHdrOXFacDZaUTBfT3FkY3pOd2liOUFuNHBZ?oc=5" target="_blank">China Announces Probe Into Vice Military Chair Zhang Youxia</a>&nbsp;&nbsp;<font color="#6f6f6f">Bloomberg</font></li><li><a href="https://news.google.com/rss/articles/CBMivwFBVV95cUxNUlI0U3RmcVdDLXJidW5WeW5IU1ZXTmVoMWdoWUVpSkdaSGZBQWtMY0IteHJSYmxZN25OM3VrYmNJLVIxdUxFTWQ0Y1NMZDJSYm5qVXRjNjJiRGJSd1lNTUJCeEJRZW5PZEhUZzI0RlBfM0JtYXVweGhZVWZZeEZRYmVRWnc3V2RXYmpmY2VNRENQdXZPMHdlOFdKR2pTSXNLVV9UVkhpMUR3UEtVakNUV2o3R2cwUTNvbjZTeFN5Zw?oc=5" target="_blank">China investigating senior military officials Zhang Youxia, Liu Zhenli, says defence ministry</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font></li><li><a href="https://news.google.com/rss/articles/CBMivAFBVV95cUxOUGdueGZZbTJzT1dxMkdsQl9ydlctV044UTI5NVFsWnQxRFBKMUhGRGdOd2F0TTcwSjZSZmVhaFhjNld3Z3REbGVocEdzWmpWcFozMWNXNDhKNmNhdmZkaF9SWmkzNnJrWDZwTFBpUmZRdWc4ODdaU3ZxV3N2NU1KUUxQZ2xGcU5nLVBTUDdUaEItRG96ZGVVQU1DM2V0VmF5OGd0bDVLTFhaWjZOb2hHa2s2cXBQRVQ4SXJRNw?oc=5" target="_blank">China’s Xi Places His Top General Under Investigation as Military Purges Heat Up</a>&nbsp;&nbsp;<font color="#6f6f6f">The Wall Street Journal</font></li><li><a href="https://news.google.com/rss/articles/CBMi_gFBVV95cUxPbmZvRDZlMm9IZmxUdXQyR1dCdWRZdG9NZnhVemhzZGVHSTFodmVWYzBCc1lkaXluVWlVSlplR3FfdkpXQjhiczZWRk1CdVFTbEk2czA3bkt0RlZZbmd5UGtDTl9xb1F4a3AzSklRN2Mwa2gtaExlSFdURnZYNUZsbTUtdVplQU4yZGFhTkNrc25nM2Z3UFgxVnJZMm5EN2xMZHBwZTVwdmNqN1ZkUFVXQ2dHMFBzM21XTmVwNnZYdG43Z1B0eTVCSy1HM2FZTEVrbkE2eEUxcXNvM1VQa0I5cklfZF9KZUpBQnJkT0pYU1QtSmdVeFlSU0llSkZDdw?oc=5" target="_blank">China Purge leaves only Xi Jinping and 'incorruptible' loyalist at China's Central Military Commission</a>&nbsp;&nbsp;<font color="#6f6f6f">Intelligence Online</font></li><li><a href="https://news.google.com/rss/articles/CBMizgFBVV95cUxQUWZqUGNOS2FzQkZNM2pMUkszQlY3Tmdmb250aUY5cmt1Q0lKVUlhM0JmWVg1czRYaXFOQXdLd2lfLU1Vb1AxNG0wVW9pT2dKYWFKOV9UWkE5blFxRzlLRW9Ramthak51U2pUNVcxcW5jUGtGcnlBTWc2WXJNTGJTM0hlQVNCalQzYm5jNkNRQ21QZ0JJOWdVY0p0T213eWExcTFXMGZPd0RfVWFKZ04yUFZfcE9OTkFoVWJJSUplcVZQdXlQbW5DcEwzLWJ1Zw?oc=5" target="_blank">Breaking | China’s top military leaders Zhang Youxia and Liu Zhenli put under investigation</a>&nbsp;&nbsp;<font color="#6f6f6f">South China Morning Post</font></li></ol>
