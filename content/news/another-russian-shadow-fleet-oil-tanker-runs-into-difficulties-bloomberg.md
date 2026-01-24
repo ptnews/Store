@@ -1,0 +1,21 @@
+---
+title: "Another Russian Shadow Fleet Oil Tanker Runs Into Difficulties - Bloomberg"
+date: 2026-01-24
+description: "Another Russian Shadow Fleet Oil Tanker Runs Into Difficulties&nbsp;&nbsp;BloombergRussian ‘shadow fleet’ tanker diverted to French port by naval forces&nbsp;&nbsp;Al JazeeraEU stands by Denmark and Greenland and wants ‘respectful’ relations with US, says European Council president – as it happened&nbsp;&nbsp;The GuardianFrance seizes suspected Russian 'shadow fleet' tanker in the Mediterranean&nbsp;&nbsp;BBCUK supported French operation to board sanctioned Russian tanker, minister say..."
+summary: "Another Russian Shadow Fleet Oil Tanker Runs Into Difficulties&nbsp;&nbsp;BloombergRussian ‘shadow fleet’ tanker diverted to French port by naval forces&nbsp;&nbsp;Al JazeeraEU stands by Denmark and Greenland and wants ‘respectful’ relations with US, says European Council president – as it happened&nbsp;&nbsp;The GuardianFrance seizes suspected Russian 'shadow fleet' tanker in the Mediterranean&nbsp;&nbsp;BBCUK supported French operation to board sanctioned Russian tanker, minister say..."
+slug: "another-russian-shadow-fleet-oil-tanker-runs-into-difficulties-bloomberg"
+image: ''
+link: 'https://news.google.com/rss/articles/CBMiswFBVV95cUxOUUxKcVdCNW5RTHRoUmtPbmoxV3hsZGxRUW41a0w1ZTBxVktFMFRUMnN5dGZibms4QWpQbGRuSVgybnl4Z1JKR2FTSnBHZ25mbXMzR2JSWlh2VHdPTXl5cGVjcTlZcWw5azRGVVRtRDZCNmRMRmJtNW9HQ180SS1OZjBGdWljTEdTVEZkMlI1YndJVVVJSkctSDhjMGFMMmxBUXdfM0JEbXdMMG9IWS1SbzVWNA?oc=5'
+source: 'https://news.google.com/rss/topics/CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx1YlY4U0FtVnVHZ0pWVXlnQVAB?hl=en-US&gl=US&ceid=US:en'
+categories:
+- 'news.google.com'
+tags:
+- 'difficulties'
+- 'bloomberg'
+- 'another'
+- 'russian'
+- 'shadow'
+
+draft: false
+---
+<ol><li><a href="https://news.google.com/rss/articles/CBMiswFBVV95cUxOUUxKcVdCNW5RTHRoUmtPbmoxV3hsZGxRUW41a0w1ZTBxVktFMFRUMnN5dGZibms4QWpQbGRuSVgybnl4Z1JKR2FTSnBHZ25mbXMzR2JSWlh2VHdPTXl5cGVjcTlZcWw5azRGVVRtRDZCNmRMRmJtNW9HQ180SS1OZjBGdWljTEdTVEZkMlI1YndJVVVJSkctSDhjMGFMMmxBUXdfM0JEbXdMMG9IWS1SbzVWNA?oc=5" target="_blank">Another Russian Shadow Fleet Oil Tanker Runs Into Difficulties</a>&nbsp;&nbsp;<font color="#6f6f6f">Bloomberg</font></li><li><a href="https://news.google.com/rss/articles/CBMirAFBVV95cUxPX0QxUkZDZWsxOFRzV21XVWk3NHNzQVItOGxyY1FrY01HR0V0UnVMWGNWLTdZU3ZRZ3h2bWVFS3pNRGNhYjJDY3RlV28tdzhSWWR0R0RjZk96S2Eza281MDNERllpM1ZJWTctbFZTYy14NkczWTBlaGg5MGxiSm5RMXFfZDlQby1JRWEyeExJZEFBU0t2dHdYeXRPVlJZRzU1R0d4cmhwZm5yTjZ60gGyAUFVX3lxTE52QXI4UERFRVYyODJ6cDZSdGU5TFk5MmZNb1RWUmwwWnFZblFhN25nbkpKbW1XUkl4OXlkLXhicEZVNmcxS0lXRlVwMnBxY3I1N3JkTExqU1lQRFYxbXpIQ2g0QjAya2xLaFF4X1VCZGFIbjlwRjNFd0ppU3BmM0hkODE4TzAyc2FUdVpmaXRpMTBUQWhOdU5vLVFBdnc1M3o5M1RleGF1aUtMX0NKVXpaVXc?oc=5" target="_blank">Russian ‘shadow fleet’ tanker diverted to French port by naval forces</a>&nbsp;&nbsp;<font color="#6f6f6f">Al Jazeera</font></li><li><a href="https://news.google.com/rss/articles/CBMi_gFBVV95cUxQVldQRGhYSGxxRDF3aHByMXRrZ0VvS0ptaG8taVI0QzlKd1VCaUcwODQ5MnJyNVVjZUtYRzJHUW9QSEhDZl9uNnZ0UmItNnYyWVBNeEYwTk5YYjhIOWFiQldMRDBMTzZWSTJKMTg4aGRQM3V1SVFDcU1NazhpT1JLd29sOGl5alV4YmlTajZCaE9JX09mNUZQaVlYdHBmUHpDQTN6azNhMjFBMUpYZ1V1VGVjYUJ2SlU5bFRTdmN1c3NVVl8tQmFkX2xYUmxsQ2JuY0U4c0dHYjZNRW9nMVRuV0NkOFMxdC0wM2N1ZEJWTGVia0VTMTBxUGtab2xNZw?oc=5" target="_blank">EU stands by Denmark and Greenland and wants ‘respectful’ relations with US, says European Council president – as it happened</a>&nbsp;&nbsp;<font color="#6f6f6f">The Guardian</font></li><li><a href="https://news.google.com/rss/articles/CBMiWkFVX3lxTE4zX2xlZDQtdmt6ZmpZdHlPS1AwajBBck0tRjlLNkF3OERSVTRPZVp1Ym1kekZFb3FrUEJPaWZrN2I5TmRQTHd6ek54TUxDbkhCd1FlUUdlTGFyQQ?oc=5" target="_blank">France seizes suspected Russian 'shadow fleet' tanker in the Mediterranean</a>&nbsp;&nbsp;<font color="#6f6f6f">BBC</font></li><li><a href="https://news.google.com/rss/articles/CBMiuAFBVV95cUxPTWtoZ2tId3pnVGpWc3hONWtMNjBCbkloTjZGazg5cWJ6ZEI5WmFhYWdKa0NtQmpRRjQ0eU42dVd2VWJpTjc3TG55MXVGYXkybDdubmdqSVVfYV9vTVdNTklJelQzWlhKQ2VGWjllOVBOYW95RkZxWUg4VWF5V2drMndVa1VKSC11SnFkX3hULVJmaGxfS0J2YzRUVWs0UWNmUGNEeGVubUotbXZHS25ZRTFWS2Ewa0I5?oc=5" target="_blank">UK supported French operation to board sanctioned Russian tanker, minister says</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font></li></ol>
