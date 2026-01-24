@@ -1,8 +1,8 @@
 ---
 title: "US federal agents shoot another person in Minneapolis: Governor"
 date: 2026-01-24
-description: "This is a breaking news story."
-summary: "This is a breaking news story."
+description: "Footage circulating on social media shows US officers wrestling a person to the ground before several shots ring out."
+summary: "Footage circulating on social media shows US officers wrestling a person to the ground before several shots ring out."
 slug: "us-federal-agents-shoot-another-person-in-minneapolis-governor"
 image: ''
 link: 'https://www.aljazeera.com/news/2026/1/24/us-federal-agents-shoot-another-person-in-minneapolis-governor?traffic_source=rss'
@@ -18,4 +18,4 @@ tags:
 
 draft: false
 ---
-This is a breaking news story.
+Footage circulating on social media shows US officers wrestling a person to the ground before several shots ring out.
