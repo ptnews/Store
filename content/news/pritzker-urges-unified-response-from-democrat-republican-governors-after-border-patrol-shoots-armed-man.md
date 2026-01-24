@@ -1,8 +1,8 @@
 ---
 title: "Pritzker urges 'unified response' from Democrat, Republican governors after Border Patrol shoots armed man"
 date: 2026-01-24
-description: "Illinois Gov. JB Pritzker and New York Gov. Kathy Hochul slammed thee Trump administration after Border Patrol shot an armed man in Minneapolis."
-summary: "Illinois Gov. JB Pritzker and New York Gov. Kathy Hochul slammed thee Trump administration after Border Patrol shot an armed man in Minneapolis."
+description: "A White House official told Fox News Digital that President Donald Trump has been briefed on the Border Patrol-involved shooting in Minneapolis."
+summary: "A White House official told Fox News Digital that President Donald Trump has been briefed on the Border Patrol-involved shooting in Minneapolis."
 slug: "pritzker-urges-unified-response-from-democrat-republican-governors-after-border-patrol-shoots-armed-man"
 image: ''
 link: 'https://www.foxnews.com/politics/trump-briefed-border-patrol-involved-shooting-minneapolis-mayor-demands-end-enforcement-operation'

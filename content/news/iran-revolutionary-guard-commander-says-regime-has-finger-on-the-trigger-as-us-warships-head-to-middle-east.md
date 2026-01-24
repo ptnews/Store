@@ -6,7 +6,7 @@ summary: "Iran&apos;s Revolutionary Guard chief warns U.S. it has &quot;finger o
 slug: "iran-revolutionary-guard-commander-says-regime-has-finger-on-the-trigger-as-us-warships-head-to-middle-east"
 image: ''
 link: 'https://www.foxnews.com/world/iran-revolutionary-guard-commander-says-regime-has-finger-trigger-us-warships-head-middle-east'
-source: 'https://feeds.foxnews.com/foxnews/latest'
+source: 'https://feeds.foxnews.com/foxnews/world'
 categories:
 - 'feeds.foxnews.com'
 tags:
