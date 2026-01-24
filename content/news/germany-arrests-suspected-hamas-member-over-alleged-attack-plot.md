@@ -1,8 +1,8 @@
 ---
 title: "Germany arrests suspected Hamas member over alleged attack plot"
 date: 2026-01-24
-description: "The Lebanese man helped helped plan attacks on Jewish and Israeli institutions in Europe, prosecutors say."
-summary: "The Lebanese man helped helped plan attacks on Jewish and Israeli institutions in Europe, prosecutors say."
+description: "The Lebanese man helped plan attacks on Jewish and Israeli institutions in Europe, prosecutors say."
+summary: "The Lebanese man helped plan attacks on Jewish and Israeli institutions in Europe, prosecutors say."
 slug: "germany-arrests-suspected-hamas-member-over-alleged-attack-plot"
 image: ''
 link: 'https://www.bbc.com/news/articles/c8rm14lkkvzo?at_medium=RSS&at_campaign=rss'
@@ -18,4 +18,4 @@ tags:
 
 draft: false
 ---
-The Lebanese man helped helped plan attacks on Jewish and Israeli institutions in Europe, prosecutors say.
+The Lebanese man helped plan attacks on Jewish and Israeli institutions in Europe, prosecutors say.
