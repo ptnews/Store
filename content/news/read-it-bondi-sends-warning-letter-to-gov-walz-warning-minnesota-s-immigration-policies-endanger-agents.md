@@ -1,9 +1,9 @@
 ---
-title: "READ IT: Bondi sends letter to Gov Walz warning Minnesota’s immigration policies endanger agents"
+title: "READ IT: Bondi sends warning letter to Gov Walz warning Minnesota’s immigration policies endanger agents"
 date: 2026-01-24
 description: "Attorney General Pam Bondi accused Minnesota leaders in a letter to Gov. Tim Walz of refusing to enforce immigration law and warns federal agents are being put at risk."
 summary: "Attorney General Pam Bondi accused Minnesota leaders in a letter to Gov. Tim Walz of refusing to enforce immigration law and warns federal agents are being put at risk."
-slug: "read-it-bondi-sends-letter-to-gov-walz-warning-minnesota-s-immigration-policies-endanger-agents"
+slug: "read-it-bondi-sends-warning-letter-to-gov-walz-warning-minnesota-s-immigration-policies-endanger-agents"
 image: ''
 link: 'https://www.foxnews.com/politics/read-it-bondi-sends-warning-letter-gov-walz-warning-minnesotas-immigration-policies-endanger-agents'
 source: 'https://feeds.foxnews.com/foxnews/latest'
