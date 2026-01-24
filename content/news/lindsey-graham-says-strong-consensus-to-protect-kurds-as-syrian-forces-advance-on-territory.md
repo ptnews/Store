@@ -6,7 +6,7 @@ summary: "Sen. Lindsey Graham and former Secretary Mike Pompeo warn of dire thre
 slug: "lindsey-graham-says-strong-consensus-to-protect-kurds-as-syrian-forces-advance-on-territory"
 image: ''
 link: 'https://www.foxnews.com/world/lindsey-graham-says-strong-consensus-protect-kurds-syrian-forces-advance-territory'
-source: 'https://feeds.foxnews.com/foxnews/world'
+source: 'https://feeds.foxnews.com/foxnews/latest'
 categories:
 - 'feeds.foxnews.com'
 tags:
