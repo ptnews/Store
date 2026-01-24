@@ -1,6 +1,6 @@
 ---
 title: "Eight surprise takeaways from the Oscar nominations"
-date: 2026-01-23
+date: 2026-01-24
 description: "Paul Mescal and Chase Infiniti missed out, while other actors carried their films to a nomination."
 summary: "Paul Mescal and Chase Infiniti missed out, while other actors carried their films to a nomination."
 slug: "eight-surprise-takeaways-from-the-oscar-nominations"

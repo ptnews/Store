@@ -1,6 +1,6 @@
 ---
 title: "Footage captures moment NZ landslide starts in Mount Maunganui"
-date: 2026-01-23
+date: 2026-01-24
 description: "An Australian tourist describes seeing one of the landslides behind him and running from it."
 summary: "An Australian tourist describes seeing one of the landslides behind him and running from it."
 slug: "footage-captures-moment-nz-landslide-starts-in-mount-maunganui"

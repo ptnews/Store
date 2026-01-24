@@ -1,6 +1,6 @@
 ---
 title: "Trump covets mineral-rich Greenland, but what natural resources does it actually have?"
-date: 2026-01-23
+date: 2026-01-24
 description: "Greenland's natural resources include large reserves of rare earth deposits."
 summary: "Greenland's natural resources include large reserves of rare earth deposits."
 slug: "trump-covets-mineral-rich-greenland-but-what-natural-resources-does-it-actually-have"

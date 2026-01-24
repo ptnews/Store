@@ -1,6 +1,6 @@
 ---
 title: "Julio Iglesias sex assault investigation dropped by Spanish prosecutors"
-date: 2026-01-23
+date: 2026-01-24
 description: "They say Spanish courts do not have the competence to investigate complaints committed overseas by non-residents."
 summary: "They say Spanish courts do not have the competence to investigate complaints committed overseas by non-residents."
 slug: "julio-iglesias-sex-assault-investigation-dropped-by-spanish-prosecutors"

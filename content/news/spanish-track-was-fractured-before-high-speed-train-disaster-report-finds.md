@@ -1,6 +1,6 @@
 ---
 title: "Spanish track was fractured before high-speed train disaster, report finds"
-date: 2026-01-23
+date: 2026-01-24
 description: "The preliminary report into the crash that left 45 people dead finds evidence of a fracture more than two hours earlier."
 summary: "The preliminary report into the crash that left 45 people dead finds evidence of a fracture more than two hours earlier."
 slug: "spanish-track-was-fractured-before-high-speed-train-disaster-report-finds"

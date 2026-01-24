@@ -1,6 +1,6 @@
 ---
 title: "Taliban release female athlete, 22, after 13 days in jail"
-date: 2026-01-23
+date: 2026-01-24
 description: "Khadija Ahmadzada was detained for being in \"violation\" of rules \"regarding women's sports gyms\", a Taliban spokesman said."
 summary: "Khadija Ahmadzada was detained for being in \"violation\" of rules \"regarding women's sports gyms\", a Taliban spokesman said."
 slug: "taliban-release-female-athlete-22-after-13-days-in-jail"

@@ -1,6 +1,6 @@
 ---
 title: "'Blood was all over' - victim of Nigeria church abduction describes escape"
-date: 2026-01-23
+date: 2026-01-24
 description: "Some 160 people are believed to be missing after attackers raided three churches in a Nigerian village on Sunday."
 summary: "Some 160 people are believed to be missing after attackers raided three churches in a Nigerian village on Sunday."
 slug: "blood-was-all-over-victim-of-nigeria-church-abduction-describes-escape"

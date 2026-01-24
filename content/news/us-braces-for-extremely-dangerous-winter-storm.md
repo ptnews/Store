@@ -1,6 +1,6 @@
 ---
 title: "US braces for 'extremely dangerous' winter storm"
-date: 2026-01-23
+date: 2026-01-24
 description: "The National Weather Service warns the winter blast \"will pose a life-threatening risk of hypothermia\"."
 summary: "The National Weather Service warns the winter blast \"will pose a life-threatening risk of hypothermia\"."
 slug: "us-braces-for-extremely-dangerous-winter-storm"

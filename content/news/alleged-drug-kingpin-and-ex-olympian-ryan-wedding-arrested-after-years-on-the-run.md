@@ -1,6 +1,6 @@
 ---
 title: "Alleged drug kingpin and ex-Olympian Ryan Wedding arrested after years on the run"
-date: 2026-01-23
+date: 2026-01-24
 description: "Wedding, who had been on the FBI's Ten Most Wanted Fugitives list, is accused of running a transnational drug trafficking operation."
 summary: "Wedding, who had been on the FBI's Ten Most Wanted Fugitives list, is accused of running a transnational drug trafficking operation."
 slug: "alleged-drug-kingpin-and-ex-olympian-ryan-wedding-arrested-after-years-on-the-run"

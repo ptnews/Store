@@ -1,6 +1,6 @@
 ---
 title: "Mandela's prison key, sunglasses and shirt can be sold after daughter wins court battle"
-date: 2026-01-23
+date: 2026-01-24
 description: "The authorities tried to stop their export arguing they were part of the country's heritage."
 summary: "The authorities tried to stop their export arguing they were part of the country's heritage."
 slug: "mandela-s-prison-key-sunglasses-and-shirt-can-be-sold-after-daughter-wins-court-battle"

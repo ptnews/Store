@@ -1,6 +1,6 @@
 ---
 title: "Pakistan mall fire death toll jumps to 67"
-date: 2026-01-23
+date: 2026-01-24
 description: "The process to identify the bodies recovered from the wreckage of Gul Plaza in Karachi continues."
 summary: "The process to identify the bodies recovered from the wreckage of Gul Plaza in Karachi continues."
 slug: "pakistan-mall-fire-death-toll-jumps-to-67"

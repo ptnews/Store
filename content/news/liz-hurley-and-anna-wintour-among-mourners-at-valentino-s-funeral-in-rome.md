@@ -1,6 +1,6 @@
 ---
 title: "Liz Hurley and Anna Wintour among mourners at Valentino's funeral in Rome"
-date: 2026-01-23
+date: 2026-01-24
 description: "Crowds have gathered in Rome for the funeral of Italian fashion designer Valentino, who has died at the age of 93."
 summary: "Crowds have gathered in Rome for the funeral of Italian fashion designer Valentino, who has died at the age of 93."
 slug: "liz-hurley-and-anna-wintour-among-mourners-at-valentino-s-funeral-in-rome"

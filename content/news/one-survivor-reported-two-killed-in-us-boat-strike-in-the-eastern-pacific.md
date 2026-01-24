@@ -1,5 +1,5 @@
 ---
-title: "One survivor reported, two killed in US boat strike in the Eastern Pacific"
+title: "One survivor reported, two killed in US boat strike in the eastern Pacific"
 date: 2026-01-23
 description: "The latest bombing brings the death toll from US boat strikes to 125 since September, raising human rights concerns."
 summary: "The latest bombing brings the death toll from US boat strikes to 125 since September, raising human rights concerns."

@@ -1,6 +1,6 @@
 ---
 title: "Danish PM in Greenland for 'show of support' after Trump threats"
-date: 2026-01-23
+date: 2026-01-24
 description: "Mette Frederiksen visits the territory after weeks of tension over the US president's warnings that he could take control of it. "
 summary: "Mette Frederiksen visits the territory after weeks of tension over the US president's warnings that he could take control of it. "
 slug: "danish-pm-in-greenland-for-show-of-support-after-trump-threats"

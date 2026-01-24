@@ -1,6 +1,6 @@
 ---
 title: "Board of Peace, Zelensky and Musk - What happened before Trump left Davos?"
-date: 2026-01-23
+date: 2026-01-24
 description: "The US president held a charter-signing ceremony for his \"new international oversight body\", though several key allies were not present."
 summary: "The US president held a charter-signing ceremony for his \"new international oversight body\", though several key allies were not present."
 slug: "board-of-peace-zelensky-and-musk-what-happened-before-trump-left-davos"

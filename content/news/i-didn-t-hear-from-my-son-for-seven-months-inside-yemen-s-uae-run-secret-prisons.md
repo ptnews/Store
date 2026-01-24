@@ -1,6 +1,6 @@
 ---
 title: "'I didn't hear from my son for seven months': Inside Yemen's UAE-run secret prisons"
-date: 2026-01-23
+date: 2026-01-24
 description: "The BBC sees sites on former United Arab Emirates bases in Yemen where detainees say they were abused."
 summary: "The BBC sees sites on former United Arab Emirates bases in Yemen where detainees say they were abused."
 slug: "i-didn-t-hear-from-my-son-for-seven-months-inside-yemen-s-uae-run-secret-prisons"

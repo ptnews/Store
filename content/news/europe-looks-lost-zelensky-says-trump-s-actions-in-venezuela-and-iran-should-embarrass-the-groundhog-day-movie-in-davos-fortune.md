@@ -1,6 +1,6 @@
 ---
 title: "'Europe looks lost': Zelensky says Trump's actions in Venezuela and Iran should embarrass the 'Groundhog Day' movie in Davos - Fortune"
-date: 2026-01-23
+date: 2026-01-24
 description: "'Europe looks lost': Zelensky says Trump's actions in Venezuela and Iran should embarrass the 'Groundhog Day' movie in Davos&nbsp;&nbsp;FortuneUkraine’s Zelenskyy says his repeated warnings to Europe feel like ‘Groundhog Day’&nbsp;&nbsp;AP NewsZelensky Laces Into Europe, Saying It Must Step Up or Be Left Behind&nbsp;&nbsp;The New York TimesGet out of Greenland mode and stand up for yourself, Zelenskyy tells Europe&nbsp;&nbsp;The GuardianZelenskyy lays into 'lost' Europe for trying to 'chan..."
 summary: "'Europe looks lost': Zelensky says Trump's actions in Venezuela and Iran should embarrass the 'Groundhog Day' movie in Davos&nbsp;&nbsp;FortuneUkraine’s Zelenskyy says his repeated warnings to Europe feel like ‘Groundhog Day’&nbsp;&nbsp;AP NewsZelensky Laces Into Europe, Saying It Must Step Up or Be Left Behind&nbsp;&nbsp;The New York TimesGet out of Greenland mode and stand up for yourself, Zelenskyy tells Europe&nbsp;&nbsp;The GuardianZelenskyy lays into 'lost' Europe for trying to 'chan..."
 slug: "europe-looks-lost-zelensky-says-trump-s-actions-in-venezuela-and-iran-should-embarrass-the-groundhog-day-movie-in-davos-fortune"

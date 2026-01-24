@@ -1,6 +1,6 @@
 ---
 title: "Kushner’s vision for rebuilding Gaza faces major obstacles - AP News"
-date: 2026-01-23
+date: 2026-01-24
 description: "Kushner’s vision for rebuilding Gaza faces major obstacles&nbsp;&nbsp;AP News180 skyscrapers for Gaza: Trump’s son-in-law Kushner unveils ‘masterplan’ for enclave’s reconstruction&nbsp;&nbsp;CNN‘Imperial’ agenda: What’s Trump’s Gaza development plan, unveiled in Davos?&nbsp;&nbsp;Al JazeeraUS pitches 'New Gaza' development plan; Israeli fire kills five Palestinians&nbsp;&nbsp;ReutersTrump unveils his vision to rebuild Gaza into a seaside metropolis&nbsp;&nbsp;PBS"
 summary: "Kushner’s vision for rebuilding Gaza faces major obstacles&nbsp;&nbsp;AP News180 skyscrapers for Gaza: Trump’s son-in-law Kushner unveils ‘masterplan’ for enclave’s reconstruction&nbsp;&nbsp;CNN‘Imperial’ agenda: What’s Trump’s Gaza development plan, unveiled in Davos?&nbsp;&nbsp;Al JazeeraUS pitches 'New Gaza' development plan; Israeli fire kills five Palestinians&nbsp;&nbsp;ReutersTrump unveils his vision to rebuild Gaza into a seaside metropolis&nbsp;&nbsp;PBS"
 slug: "kushner-s-vision-for-rebuilding-gaza-faces-major-obstacles-ap-news"

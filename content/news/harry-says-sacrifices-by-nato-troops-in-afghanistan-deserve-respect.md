@@ -1,6 +1,6 @@
 ---
 title: "Harry says sacrifices by Nato troops in Afghanistan deserve 'respect' "
-date: 2026-01-23
+date: 2026-01-24
 description: "The US president's comments have been condemned by international allies, including UK veterans and politicians."
 summary: "The US president's comments have been condemned by international allies, including UK veterans and politicians."
 slug: "harry-says-sacrifices-by-nato-troops-in-afghanistan-deserve-respect"

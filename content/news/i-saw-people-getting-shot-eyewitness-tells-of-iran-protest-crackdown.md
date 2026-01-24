@@ -1,6 +1,6 @@
 ---
 title: "'I saw people getting shot': Eyewitness tells of Iran protest crackdown"
-date: 2026-01-23
+date: 2026-01-24
 description: "An Iranian who got out of the country describes scenes of chaos as security forces opened fire in her home town."
 summary: "An Iranian who got out of the country describes scenes of chaos as security forces opened fire in her home town."
 slug: "i-saw-people-getting-shot-eyewitness-tells-of-iran-protest-crackdown"
