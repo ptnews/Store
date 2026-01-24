@@ -1,8 +1,8 @@
 ---
 title: "US federal agents shoot and kill another person in Minneapolis"
 date: 2026-01-24
-description: "Footage circulating on social media shows US officers wrestling a person to the ground before several shots ring out."
-summary: "Footage circulating on social media shows US officers wrestling a person to the ground before several shots ring out."
+description: "Minneapolis police chief Brian O&#039;Hara says a 37-year-old man died in hospital after suffering multiple gunshot wounds."
+summary: "Minneapolis police chief Brian O&#039;Hara says a 37-year-old man died in hospital after suffering multiple gunshot wounds."
 slug: "us-federal-agents-shoot-and-kill-another-person-in-minneapolis"
 image: ''
 link: 'https://www.aljazeera.com/news/2026/1/24/us-federal-agents-shoot-another-person-in-minneapolis-governor?traffic_source=rss'
@@ -18,4 +18,4 @@ tags:
 
 draft: false
 ---
-Footage circulating on social media shows US officers wrestling a person to the ground before several shots ring out.
+Minneapolis police chief Brian O&#039;Hara says a 37-year-old man died in hospital after suffering multiple gunshot wounds.
