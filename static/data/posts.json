@@ -805,9 +805,9 @@
     "image": "",
     "link": "https://www.bbc.com/news/articles/cwyr6p30054o?at_medium=RSS\u0026at_campaign=rss",
     "pubDate": "2026-01-24",
-    "slug": "russia-strikes-ukraine-as-talks-with-us-to-end-war-continue",
+    "slug": "ukraine-condemns-brutal-russian-strikes-ahead-of-second-day-of-peace-talks",
     "source": "http://feeds.bbci.co.uk/news/world/rss.xml",
-    "title": "Russia strikes Ukraine as talks with US to end war continue"
+    "title": "Ukraine condemns 'brutal' Russian strikes ahead of second day of peace talks"
   },
   {
     "description": "The US will also offer “more limited” support to US allies, according to a new national defence strategy document.",
@@ -846,31 +846,13 @@
     "title": "Boy, 12, dies from injuries after Sydney shark attack"
   },
   {
-    "description": "Details on the expanded access to location information was published in a new privacy policy for the popular social media app. ",
+    "description": "Thousands of people have joined widespread protests against the weeks-long immigration crackdown in the state.",
     "image": "",
-    "link": "https://www.bbc.com/news/articles/cvgnj7v2rr5o?at_medium=RSS\u0026at_campaign=rss",
+    "link": "https://www.bbc.com/news/articles/c1dk67g4q91o?at_medium=RSS\u0026at_campaign=rss",
     "pubDate": "2026-01-24",
-    "slug": "tiktok-us-venture-to-collect-precise-user-location-data",
+    "slug": "hundreds-of-minnesota-businesses-close-to-protest-ice-presence",
     "source": "http://feeds.bbci.co.uk/news/world/rss.xml",
-    "title": "TikTok US venture to collect precise user location data"
-  },
-  {
-    "description": "Donald Trump is pushing hard for a peace deal - but major issues between Russia and Ukraine are still unresolved, writes Sarah Rainsford.",
-    "image": "",
-    "link": "https://www.bbc.com/news/articles/c3edde1pwx8o?at_medium=RSS\u0026at_campaign=rss",
-    "pubDate": "2026-01-24",
-    "slug": "high-stakes-but-low-expectations-for-ukraine-talks-with-russia-and-us",
-    "source": "http://feeds.bbci.co.uk/news/world/rss.xml",
-    "title": "High stakes but low expectations for Ukraine talks with Russia and US"
-  },
-  {
-    "description": "The BBC sees sites on former United Arab Emirates bases in Yemen where detainees say they were abused.",
-    "image": "",
-    "link": "https://www.bbc.com/news/articles/c3r117w55q4o?at_medium=RSS\u0026at_campaign=rss",
-    "pubDate": "2026-01-24",
-    "slug": "i-didn-t-hear-from-my-son-for-seven-months-inside-yemen-s-uae-run-secret-prisons",
-    "source": "http://feeds.bbci.co.uk/news/world/rss.xml",
-    "title": "'I didn't hear from my son for seven months': Inside Yemen's UAE-run secret prisons"
+    "title": "Hundreds of Minnesota businesses close to protest ICE presence"
   },
   {
     "description": "The National Weather Service warns the winter blast \"will pose a life-threatening risk of hypothermia\".",
@@ -882,13 +864,31 @@
     "title": "US braces for 'extremely dangerous' winter storm"
   },
   {
-    "description": "Thousands of people have joined widespread protests against the weeks-long immigration crackdown in the state.",
+    "description": "Police say they are not expecting to find any more survivors from the landslide, with six people still unaccounted for.",
     "image": "",
-    "link": "https://www.bbc.com/news/articles/c1dk67g4q91o?at_medium=RSS\u0026at_campaign=rss",
+    "link": "https://www.bbc.com/news/articles/c050vnl7p10o?at_medium=RSS\u0026at_campaign=rss",
     "pubDate": "2026-01-24",
-    "slug": "hundreds-of-minnesota-businesses-close-to-protest-ice-presence",
+    "slug": "new-zealand-calls-off-rescue-efforts-for-six-missing-after-landslide",
     "source": "http://feeds.bbci.co.uk/news/world/rss.xml",
-    "title": "Hundreds of Minnesota businesses close to protest ICE presence"
+    "title": "New Zealand calls off rescue efforts for six missing after landslide"
+  },
+  {
+    "description": "Rescue teams are searching the West Java village for 83 people who are still unaccounted for.",
+    "image": "",
+    "link": "https://www.bbc.com/news/articles/c87r53y4dx0o?at_medium=RSS\u0026at_campaign=rss",
+    "pubDate": "2026-01-24",
+    "slug": "indonesia-landslide-kills-7-dozens-more-missing",
+    "source": "http://feeds.bbci.co.uk/news/world/rss.xml",
+    "title": "Indonesia landslide kills 7, dozens more missing "
+  },
+  {
+    "description": "Details on the expanded access to location information was published in a new privacy policy for the popular social media app. ",
+    "image": "",
+    "link": "https://www.bbc.com/news/articles/cvgnj7v2rr5o?at_medium=RSS\u0026at_campaign=rss",
+    "pubDate": "2026-01-24",
+    "slug": "tiktok-us-venture-to-collect-precise-user-location-data",
+    "source": "http://feeds.bbci.co.uk/news/world/rss.xml",
+    "title": "TikTok US venture to collect precise user location data"
   },
   {
     "description": "Mette Frederiksen visits the territory after weeks of tension over the US president's warnings that he could take control of it. ",
@@ -918,6 +918,15 @@
     "title": "Alleged drug kingpin and ex-Olympian Ryan Wedding arrested after years on the run"
   },
   {
+    "description": "Donald Trump is pushing hard for a peace deal - but major issues between Russia and Ukraine are still unresolved, writes Sarah Rainsford.",
+    "image": "",
+    "link": "https://www.bbc.com/news/articles/c3edde1pwx8o?at_medium=RSS\u0026at_campaign=rss",
+    "pubDate": "2026-01-24",
+    "slug": "high-stakes-but-low-expectations-for-ukraine-talks-with-russia-and-us",
+    "source": "http://feeds.bbci.co.uk/news/world/rss.xml",
+    "title": "High stakes but low expectations for Ukraine talks with Russia and US"
+  },
+  {
     "description": "An Iranian who got out of the country describes scenes of chaos as security forces opened fire in her home town.",
     "image": "",
     "link": "https://www.bbc.com/news/articles/c9dvvzzpwylo?at_medium=RSS\u0026at_campaign=rss",
@@ -936,31 +945,31 @@
     "title": "Mandela's prison key, sunglasses and shirt can be sold after daughter wins court battle"
   },
   {
-    "description": "With statues of a lion and white tiger, the watch is modelled off the private zoo owned by Anant Ambani.",
+    "description": "Human-shark encounters in Australia are rising - but experts are keen to point out it isn't the animals' fault.",
     "image": "",
-    "link": "https://www.bbc.com/news/articles/c7011pllqe7o?at_medium=RSS\u0026at_campaign=rss",
+    "link": "https://www.bbc.com/news/articles/c0err023g5lo?at_medium=RSS\u0026at_campaign=rss",
     "pubDate": "2026-01-24",
-    "slug": "luxury-watchmaker-designs-1-5m-model-with-indian-billionaire-s-statue",
+    "slug": "four-attacks-in-48-hours-how-east-australia-s-beaches-became-a-perfect-storm-for-sharks",
     "source": "http://feeds.bbci.co.uk/news/world/rss.xml",
-    "title": "Luxury watchmaker designs $1.5m model with Indian billionaire's statue"
+    "title": "Four attacks in 48 hours: How east Australia's beaches became a 'perfect storm' for sharks"
   },
   {
-    "description": "The preliminary report into the crash that left 45 people dead finds evidence of a fracture more than two hours earlier.",
+    "description": "Spain's vaunted reputation for its high-speed network has been humbled by disaster on the railways.",
     "image": "",
-    "link": "https://www.bbc.com/news/articles/c1m77dmxlvlo?at_medium=RSS\u0026at_campaign=rss",
+    "link": "https://www.bbc.com/news/articles/c0keelnyrvro?at_medium=RSS\u0026at_campaign=rss",
     "pubDate": "2026-01-24",
-    "slug": "spanish-track-was-fractured-before-high-speed-train-disaster-report-finds",
+    "slug": "tragic-chapter-on-the-trains-sends-rail-superpower-spain-into-crisis",
     "source": "http://feeds.bbci.co.uk/news/world/rss.xml",
-    "title": "Spanish track was fractured before high-speed train disaster, report finds"
+    "title": "Tragic chapter on the trains sends rail superpower Spain into crisis"
   },
   {
-    "description": "Piper James's body was found on a beach surrounded by dingoes, but a coroner found evidence \"consistent with drowning\".",
+    "description": "Twins whose classmates were killed by shelling say their deaths have made them determined to finish their studies.",
     "image": "",
-    "link": "https://www.bbc.com/news/articles/c8rmmzr87x0o?at_medium=RSS\u0026at_campaign=rss",
+    "link": "https://www.bbc.com/news/articles/cd9eeyz933jo?at_medium=RSS\u0026at_campaign=rss",
     "pubDate": "2026-01-24",
-    "slug": "canadian-woman-found-dead-on-australian-beach-likely-died-of-drowning-autopsy-finds",
+    "slug": "half-of-my-friends-were-killed-the-girls-returning-to-a-school-caught-up-in-war",
     "source": "http://feeds.bbci.co.uk/news/world/rss.xml",
-    "title": "Canadian woman found dead on Australian beach likely died of drowning, autopsy finds"
+    "title": "'Half of my friends were killed' - the girls returning to a school caught up in war"
   },
   {
     "description": "Canada has been boosting its forces in the Arctic in the face of new threats - and US concerns. ",
@@ -970,6 +979,15 @@
     "slug": "stuck-between-the-us-and-russia-canada-must-prove-it-can-defend-its-arctic-territory",
     "source": "http://feeds.bbci.co.uk/news/world/rss.xml",
     "title": "Stuck between the US and Russia, Canada must prove it can defend its Arctic territory"
+  },
+  {
+    "description": "The BBC sees sites on former United Arab Emirates bases in Yemen where detainees say they were abused.",
+    "image": "",
+    "link": "https://www.bbc.com/news/articles/c3r117w55q4o?at_medium=RSS\u0026at_campaign=rss",
+    "pubDate": "2026-01-24",
+    "slug": "i-didn-t-hear-from-my-son-for-seven-months-inside-yemen-s-uae-run-secret-prisons",
+    "source": "http://feeds.bbci.co.uk/news/world/rss.xml",
+    "title": "'I didn't hear from my son for seven months': Inside Yemen's UAE-run secret prisons"
   },
   {
     "description": "Greenland's natural resources include large reserves of rare earth deposits.",
@@ -1024,15 +1042,6 @@
     "slug": "vietnam-s-leader-returns-to-power-with-bold-promises-can-he-deliver",
     "source": "http://feeds.bbci.co.uk/news/world/rss.xml",
     "title": "Vietnam's leader returns to power with bold promises. Can he deliver? "
-  },
-  {
-    "description": "It is a challenge for TikTok's parent company ByteDance as well as global ambitions for other Chinese tech companies.",
-    "image": "",
-    "link": "https://www.bbc.com/news/articles/c6200mz054yo?at_medium=RSS\u0026at_campaign=rss",
-    "pubDate": "2026-01-24",
-    "slug": "is-the-us-tiktok-deal-a-new-reality-for-china-s-tech-champions",
-    "source": "http://feeds.bbci.co.uk/news/world/rss.xml",
-    "title": "Is the US-TikTok deal a new reality for China's tech champions?"
   },
   {
     "description": "Denmark and Greenland have made it clear they will not relinquish sovereignty of the world's largest island.",
