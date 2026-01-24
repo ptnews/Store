@@ -1,0 +1,21 @@
+---
+title: "Welcome to the jungle: Trump’s Board of Peace goes global - European Council on Foreign Relations"
+date: 2026-01-24
+description: "Welcome to the jungle: Trump’s Board of Peace goes global&nbsp;&nbsp;European Council on Foreign RelationsTrump signed his Gaza 'Board of Peace' into being. Here's who's on it — and who isn't&nbsp;&nbsp;CNBCPresident Trump Speaks at Board of Peace Meeting&nbsp;&nbsp;C-SPANEU concerned about Trump 'concentration of powers' over 'Board of Peace', document says&nbsp;&nbsp;ReutersTrump launches ‘Board of Peace’ at Davos, testing global order&nbsp;&nbsp;The Washington Post"
+summary: "Welcome to the jungle: Trump’s Board of Peace goes global&nbsp;&nbsp;European Council on Foreign RelationsTrump signed his Gaza 'Board of Peace' into being. Here's who's on it — and who isn't&nbsp;&nbsp;CNBCPresident Trump Speaks at Board of Peace Meeting&nbsp;&nbsp;C-SPANEU concerned about Trump 'concentration of powers' over 'Board of Peace', document says&nbsp;&nbsp;ReutersTrump launches ‘Board of Peace’ at Davos, testing global order&nbsp;&nbsp;The Washington Post"
+slug: "welcome-to-the-jungle-trump-s-board-of-peace-goes-global-european-council-on-foreign-relations"
+image: ''
+link: 'https://news.google.com/rss/articles/CBMihwFBVV95cUxNOGFKNlJDQnJZb3lkM0NUbE9vbXRYd0dHQUNpc2xMU0dUaVBSbzlEd2RabjRuZkhIbmhYZWhZazRnRlRFNHQwU1hLUjhmUVFyS3NubjRyNWo0cXpPLURZemUxREdrWDJLTnR4UzhMbHJtZDZGdFdBTFloLVl4X1h6MmFBc2RWSGvSAYwBQVVfeXFMUFBrV3BZTE15UWcyQk1VbGtBWWRzbFUtRWFCQlBqU0h0V3ZYOF9ZY1lkM3pSN09kMjZ0bFZuYUpQRjJEQmdmbXJFaXpZSlczbGk4ZWxqT2N5RUs2cnpWTkwtRjRjYTJTa0VSY0o0dGlRc1NzWVZwMWoxWW80SFhJYU5kUW5EWWcwQTNKQ2U?oc=5'
+source: 'https://news.google.com/rss/topics/CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx1YlY4U0FtVnVHZ0pWVXlnQVAB?hl=en-US&gl=US&ceid=US:en'
+categories:
+- 'news.google.com'
+tags:
+- 'relations'
+- 'european'
+- 'welcome'
+- 'council'
+- 'foreign'
+
+draft: false
+---
+<ol><li><a href="https://news.google.com/rss/articles/CBMihwFBVV95cUxNOGFKNlJDQnJZb3lkM0NUbE9vbXRYd0dHQUNpc2xMU0dUaVBSbzlEd2RabjRuZkhIbmhYZWhZazRnRlRFNHQwU1hLUjhmUVFyS3NubjRyNWo0cXpPLURZemUxREdrWDJLTnR4UzhMbHJtZDZGdFdBTFloLVl4X1h6MmFBc2RWSGvSAYwBQVVfeXFMUFBrV3BZTE15UWcyQk1VbGtBWWRzbFUtRWFCQlBqU0h0V3ZYOF9ZY1lkM3pSN09kMjZ0bFZuYUpQRjJEQmdmbXJFaXpZSlczbGk4ZWxqT2N5RUs2cnpWTkwtRjRjYTJTa0VSY0o0dGlRc1NzWVZwMWoxWW80SFhJYU5kUW5EWWcwQTNKQ2U?oc=5" target="_blank">Welcome to the jungle: Trump’s Board of Peace goes global</a>&nbsp;&nbsp;<font color="#6f6f6f">European Council on Foreign Relations</font></li><li><a href="https://news.google.com/rss/articles/CBMifkFVX3lxTFBQdlR0MGFOOEtGUGhrWVlhLUdOYmlMWkt0U3c2cTNMX1JfRFV4VWpDZWRWSmdudEFLdkNkQWFLNjBYWmI5dkRPQlNyVkVGdU1PMExMNm5XdndybGhlOTIzWml2cHN5aGZhc3JFM084MEZjV3JpTlAxMGgtcE95UdIBgwFBVV95cUxQZjB4NEFBUXJEWUlBb1E3QTAwS2hGMjJnMDRqSFI2YWJ6RWtSZW9QY3BQd1hkdmdmX3lacmcwR01VNnFGZUMzWGxPR2FZY1hmTVdmdVpxbTVsWlk1NVFlVkZYb01pRERjMHRad2o1VTdjWkFMMjRmTm9CUVBWa2tJbzBWVQ?oc=5" target="_blank">Trump signed his Gaza 'Board of Peace' into being. Here's who's on it — and who isn't</a>&nbsp;&nbsp;<font color="#6f6f6f">CNBC</font></li><li><a href="https://news.google.com/rss/articles/CBMipAFBVV95cUxNX3B5WWxTT3M5anBxMWFzWEdmQmd6b2FubEJlN2hMMWI1UDZFcUtkZ2lvYnNYZE1ZUGZqeGZlTGFsWEVrUE5hRG03X1I1d2pIbXNPc19wOGNSZklscUlWdjh4NU11eG9lcDBiOXhac1MxRUZ1QzZaVXJlaFdWcWJ3SFhoX05TdjBfZkJqekRLOThGTnN0bTdWVmFLNXhrSVhtOVhNVA?oc=5" target="_blank">President Trump Speaks at Board of Peace Meeting</a>&nbsp;&nbsp;<font color="#6f6f6f">C-SPAN</font></li><li><a href="https://news.google.com/rss/articles/CBMiugFBVV95cUxNNlVvM3AyZzQyRm5GZlVpUEJRU0ZUc2w2RGlPaGtkOU1VNllvZGk0emk1Mm55ZHZlRmtqbUdfM3pBd0ctMkFZWnV3WExQWUkybjhWenJ2N3RxMHBEOE5zcm9QZk11U1Q0dVpZLXNSUDhDRmt1R3dUdUJoSjVDNEMwdkVVQ0JHRU9jU0dkcWFTbnU4MFlGUG9NaUVsODAwVmR2MGJ1amp4THBoTmJMX004MVNYS2E2eXZKN1E?oc=5" target="_blank">EU concerned about Trump 'concentration of powers' over 'Board of Peace', document says</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font></li><li><a href="https://news.google.com/rss/articles/CBMilgFBVV95cUxOZzhVZ29kRkx1T25Zb3BrN051aHduRy0taFdHUmpSekNsQ1pEVEtoYmhTRHgtNmVURFdwcEdBcFpiVkVITzZ4Z28tV2UxSU9haXQxN0tqdFdLSnNSenZhbzEtbHZGQzMyZGxKS3B2bVFZNTh3dVYyWThac0FqQW1hTkpHOU91cWlYTlByYkw4NjktMDBoTlE?oc=5" target="_blank">Trump launches ‘Board of Peace’ at Davos, testing global order</a>&nbsp;&nbsp;<font color="#6f6f6f">The Washington Post</font></li></ol>
