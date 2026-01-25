@@ -1,6 +1,6 @@
 ---
 title: "Climber delays rope-free skyscraper challenge over rain"
-date: 2026-01-24
+date: 2026-01-25
 description: "Alex Honnold is attempting to scale one of the world's tallest buildings, Taipei 101 in Taiwan."
 summary: "Alex Honnold is attempting to scale one of the world's tallest buildings, Taipei 101 in Taiwan."
 slug: "climber-delays-rope-free-skyscraper-challenge-over-rain"

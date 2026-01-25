@@ -1,6 +1,6 @@
 ---
 title: "China places highest-ranking general under investigation"
-date: 2026-01-24
+date: 2026-01-25
 description: "President Xi has been accused of using investigations to purge political rivals."
 summary: "President Xi has been accused of using investigations to purge political rivals."
 slug: "china-places-highest-ranking-general-under-investigation"

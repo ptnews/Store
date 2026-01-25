@@ -1,6 +1,6 @@
 ---
 title: "New Zealand calls off rescue efforts for six missing after landslide"
-date: 2026-01-24
+date: 2026-01-25
 description: "Police say they are not expecting to find any more survivors from the landslide, with six people still unaccounted for."
 summary: "Police say they are not expecting to find any more survivors from the landslide, with six people still unaccounted for."
 slug: "new-zealand-calls-off-rescue-efforts-for-six-missing-after-landslide"

@@ -1,6 +1,6 @@
 ---
 title: "How a fiery Scott Bessent calmed market nerves over Greenland - CNN"
-date: 2026-01-24
+date: 2026-01-25
 description: "How a fiery Scott Bessent calmed market nerves over Greenland&nbsp;&nbsp;CNNOn Greenland, Europe stood up, Trump blinked, and the E.U. learned a lesson&nbsp;&nbsp;The Washington PostWall Street is once again banking on the TACO trade because they've been 'burned' by believing Trump before&nbsp;&nbsp;FortuneThe West Stepped Back From the Brink. But Europe’s Distrust of America Lingers. - WSJ&nbsp;&nbsp;The Wall Street JournalTrump’s Turnabout on Greenland Shows the Limits of His Coercive Powe..."
 summary: "How a fiery Scott Bessent calmed market nerves over Greenland&nbsp;&nbsp;CNNOn Greenland, Europe stood up, Trump blinked, and the E.U. learned a lesson&nbsp;&nbsp;The Washington PostWall Street is once again banking on the TACO trade because they've been 'burned' by believing Trump before&nbsp;&nbsp;FortuneThe West Stepped Back From the Brink. But Europe’s Distrust of America Lingers. - WSJ&nbsp;&nbsp;The Wall Street JournalTrump’s Turnabout on Greenland Shows the Limits of His Coercive Powe..."
 slug: "how-a-fiery-scott-bessent-calmed-market-nerves-over-greenland-cnn"

@@ -1,6 +1,6 @@
 ---
 title: "New US defense strategy downgrades Europe, elevates Greenland to American priority - politico.eu"
-date: 2026-01-24
+date: 2026-01-25
 description: "New US defense strategy downgrades Europe, elevates Greenland to American priority&nbsp;&nbsp;politico.euPentagon to offer 'more limited' support to US allies in defence strategy shift&nbsp;&nbsp;BBCPentagon’s new defense strategy pulls forces abroad to focus on homeland&nbsp;&nbsp;The Washington PostPentagon no longer views China threat as top priority&nbsp;&nbsp;PoliticoTrump administration's defense strategy tells allies to handle their own security&nbsp;&nbsp;NPR"
 summary: "New US defense strategy downgrades Europe, elevates Greenland to American priority&nbsp;&nbsp;politico.euPentagon to offer 'more limited' support to US allies in defence strategy shift&nbsp;&nbsp;BBCPentagon’s new defense strategy pulls forces abroad to focus on homeland&nbsp;&nbsp;The Washington PostPentagon no longer views China threat as top priority&nbsp;&nbsp;PoliticoTrump administration's defense strategy tells allies to handle their own security&nbsp;&nbsp;NPR"
 slug: "new-us-defense-strategy-downgrades-europe-elevates-greenland-to-american-priority-politico-eu"

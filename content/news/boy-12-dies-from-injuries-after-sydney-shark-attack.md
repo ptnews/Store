@@ -1,6 +1,6 @@
 ---
 title: "Boy, 12, dies from injuries after Sydney shark attack"
-date: 2026-01-24
+date: 2026-01-25
 description: "Nico Antic was swimming in Sydney Harbour when he was attacked last Sunday."
 summary: "Nico Antic was swimming in Sydney Harbour when he was attacked last Sunday."
 slug: "boy-12-dies-from-injuries-after-sydney-shark-attack"

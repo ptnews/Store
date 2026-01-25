@@ -1,6 +1,6 @@
 ---
 title: "Indonesia landslide kills seven, dozens missing "
-date: 2026-01-24
+date: 2026-01-25
 description: "Rescue teams are searching the West Java village for 83 people who are still unaccounted for."
 summary: "Rescue teams are searching the West Java village for 83 people who are still unaccounted for."
 slug: "indonesia-landslide-kills-seven-dozens-missing"

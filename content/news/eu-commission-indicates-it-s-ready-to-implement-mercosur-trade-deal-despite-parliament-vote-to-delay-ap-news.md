@@ -1,6 +1,6 @@
 ---
 title: "EU Commission indicates it's ready to implement Mercosur trade deal despite parliament vote to delay - AP News"
-date: 2026-01-24
+date: 2026-01-25
 description: "EU Commission indicates it's ready to implement Mercosur trade deal despite parliament vote to delay&nbsp;&nbsp;AP NewsExclusive: EU-Mercosur deal likely to take effect provisionally from March, says EU diplomat&nbsp;&nbsp;ReutersHow Brussels failed to stop Mercosur trade deal fiasco&nbsp;&nbsp;politico.euEuropean Parliament votes to delay Mercosur deal in court&nbsp;&nbsp;dw.comEU and South America’s Mercosur bloc sign landmark free trade agreement&nbsp;&nbsp;CNN"
 summary: "EU Commission indicates it's ready to implement Mercosur trade deal despite parliament vote to delay&nbsp;&nbsp;AP NewsExclusive: EU-Mercosur deal likely to take effect provisionally from March, says EU diplomat&nbsp;&nbsp;ReutersHow Brussels failed to stop Mercosur trade deal fiasco&nbsp;&nbsp;politico.euEuropean Parliament votes to delay Mercosur deal in court&nbsp;&nbsp;dw.comEU and South America’s Mercosur bloc sign landmark free trade agreement&nbsp;&nbsp;CNN"
 slug: "eu-commission-indicates-it-s-ready-to-implement-mercosur-trade-deal-despite-parliament-vote-to-delay-ap-news"

@@ -1,6 +1,6 @@
 ---
 title: "How Soviet urban planning is helping Russia freeze Ukraine"
-date: 2026-01-24
+date: 2026-01-25
 description: "Thousands of people are affected when heating plants are targeted by Russian forces."
 summary: "Thousands of people are affected when heating plants are targeted by Russian forces."
 slug: "how-soviet-urban-planning-is-helping-russia-freeze-ukraine"

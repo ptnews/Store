@@ -1,6 +1,6 @@
 ---
 title: "Pentagon to offer 'more limited' support to US allies in defence strategy shift"
-date: 2026-01-24
+date: 2026-01-25
 description: "The US will also offer “more limited” support to US allies, according to a new national defence strategy document."
 summary: "The US will also offer “more limited” support to US allies, according to a new national defence strategy document."
 slug: "pentagon-to-offer-more-limited-support-to-us-allies-in-defence-strategy-shift"

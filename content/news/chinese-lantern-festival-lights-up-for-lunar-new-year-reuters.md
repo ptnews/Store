@@ -1,6 +1,6 @@
 ---
 title: "Chinese lantern festival lights up for Lunar New Year - Reuters"
-date: 2026-01-24
+date: 2026-01-25
 description: "Chinese lantern festival lights up for Lunar New Year&nbsp;&nbsp;ReutersView Full Coverage on Google News"
 summary: "Chinese lantern festival lights up for Lunar New Year&nbsp;&nbsp;ReutersView Full Coverage on Google News"
 slug: "chinese-lantern-festival-lights-up-for-lunar-new-year-reuters"

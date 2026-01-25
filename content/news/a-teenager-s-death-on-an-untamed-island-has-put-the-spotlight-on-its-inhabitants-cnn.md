@@ -1,6 +1,6 @@
 ---
 title: "A teenager’s death on an untamed island has put the spotlight on its inhabitants - CNN"
-date: 2026-01-24
+date: 2026-01-25
 description: "A teenager’s death on an untamed island has put the spotlight on its inhabitants&nbsp;&nbsp;CNNCanadian woman found dead on Australian beach likely died of drowning, autopsy finds&nbsp;&nbsp;BBCCanadian backpacker’s death poses question for Queensland’s K’gari: can dingoes and tourists coexist?&nbsp;&nbsp;The GuardianAustralia shuts down beaches after 4 shark attacks; woman found dead surrounded by dingoes&nbsp;&nbsp;NBC NewsIdentity Revealed of 19-Year-Old Canadian Woman Found Dead on T..."
 summary: "A teenager’s death on an untamed island has put the spotlight on its inhabitants&nbsp;&nbsp;CNNCanadian woman found dead on Australian beach likely died of drowning, autopsy finds&nbsp;&nbsp;BBCCanadian backpacker’s death poses question for Queensland’s K’gari: can dingoes and tourists coexist?&nbsp;&nbsp;The GuardianAustralia shuts down beaches after 4 shark attacks; woman found dead surrounded by dingoes&nbsp;&nbsp;NBC NewsIdentity Revealed of 19-Year-Old Canadian Woman Found Dead on T..."
 slug: "a-teenager-s-death-on-an-untamed-island-has-put-the-spotlight-on-its-inhabitants-cnn"

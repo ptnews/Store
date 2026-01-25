@@ -1,0 +1,21 @@
+---
+title: "Welcome to the jungle: Trump’s Board of Peace goes global - European Council on Foreign Relations"
+date: 2026-01-25
+description: "Welcome to the jungle: Trump’s Board of Peace goes global&nbsp;&nbsp;European Council on Foreign RelationsPresident Trump Ratifies Board of Peace in Historic Ceremony, Opening Path to Hope and Dignity for Gazans&nbsp;&nbsp;The White House (.gov)Trump Unveils Gaza 'Board of Peace' at Davos. See the List&nbsp;&nbsp;Time MagazineWho’s on Trump’s Board of Peace and who said no&nbsp;&nbsp;AP NewsTrump's new Board of Peace invites 'controversial people' like Putin&nbsp;&nbsp;USA Today"
+summary: "Welcome to the jungle: Trump’s Board of Peace goes global&nbsp;&nbsp;European Council on Foreign RelationsPresident Trump Ratifies Board of Peace in Historic Ceremony, Opening Path to Hope and Dignity for Gazans&nbsp;&nbsp;The White House (.gov)Trump Unveils Gaza 'Board of Peace' at Davos. See the List&nbsp;&nbsp;Time MagazineWho’s on Trump’s Board of Peace and who said no&nbsp;&nbsp;AP NewsTrump's new Board of Peace invites 'controversial people' like Putin&nbsp;&nbsp;USA Today"
+slug: "welcome-to-the-jungle-trump-s-board-of-peace-goes-global-european-council-on-foreign-relations"
+image: ''
+link: 'https://news.google.com/rss/articles/CBMihwFBVV95cUxNOGFKNlJDQnJZb3lkM0NUbE9vbXRYd0dHQUNpc2xMU0dUaVBSbzlEd2RabjRuZkhIbmhYZWhZazRnRlRFNHQwU1hLUjhmUVFyS3NubjRyNWo0cXpPLURZemUxREdrWDJLTnR4UzhMbHJtZDZGdFdBTFloLVl4X1h6MmFBc2RWSGvSAYwBQVVfeXFMUFBrV3BZTE15UWcyQk1VbGtBWWRzbFUtRWFCQlBqU0h0V3ZYOF9ZY1lkM3pSN09kMjZ0bFZuYUpQRjJEQmdmbXJFaXpZSlczbGk4ZWxqT2N5RUs2cnpWTkwtRjRjYTJTa0VSY0o0dGlRc1NzWVZwMWoxWW80SFhJYU5kUW5EWWcwQTNKQ2U?oc=5'
+source: 'https://news.google.com/rss/topics/CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx1YlY4U0FtVnVHZ0pWVXlnQVAB?hl=en-US&gl=US&ceid=US:en'
+categories:
+- 'news.google.com'
+tags:
+- 'relations'
+- 'european'
+- 'welcome'
+- 'council'
+- 'foreign'
+
+draft: false
+---
+<ol><li><a href="https://news.google.com/rss/articles/CBMihwFBVV95cUxNOGFKNlJDQnJZb3lkM0NUbE9vbXRYd0dHQUNpc2xMU0dUaVBSbzlEd2RabjRuZkhIbmhYZWhZazRnRlRFNHQwU1hLUjhmUVFyS3NubjRyNWo0cXpPLURZemUxREdrWDJLTnR4UzhMbHJtZDZGdFdBTFloLVl4X1h6MmFBc2RWSGvSAYwBQVVfeXFMUFBrV3BZTE15UWcyQk1VbGtBWWRzbFUtRWFCQlBqU0h0V3ZYOF9ZY1lkM3pSN09kMjZ0bFZuYUpQRjJEQmdmbXJFaXpZSlczbGk4ZWxqT2N5RUs2cnpWTkwtRjRjYTJTa0VSY0o0dGlRc1NzWVZwMWoxWW80SFhJYU5kUW5EWWcwQTNKQ2U?oc=5" target="_blank">Welcome to the jungle: Trump’s Board of Peace goes global</a>&nbsp;&nbsp;<font color="#6f6f6f">European Council on Foreign Relations</font></li><li><a href="https://news.google.com/rss/articles/CBMi4wFBVV95cUxQN1VreGthcWdtTWJXRUpIOEhURllZSktKcG9HWlJVRFMyem5Ga2RMY3JKRDZoaXJmXzJUSU9aTTlxS2ZEV1JxYmw3aFc2SGRqTVJyUDFLX2lvMmF0SW9TME1DaDNZUkMxVk5tWTRCNDdBeTRqbHRKaFRVdExNVkJFWU1jV0NaMVBfTlhTU2RPUGFDZ1NTV1Z1ajVVam0yXzgtdGMtbXRqa0JYZTc2SzlqS3EzMkhIOXpUWUZFaVI5Snp4R0s0T21yLUFWekloMmctSnE5eDljMWxrV1l6Z1pQY2Mwdw?oc=5" target="_blank">President Trump Ratifies Board of Peace in Historic Ceremony, Opening Path to Hope and Dignity for Gazans</a>&nbsp;&nbsp;<font color="#6f6f6f">The White House (.gov)</font></li><li><a href="https://news.google.com/rss/articles/CBMic0FVX3lxTE9qbTBudXVwVk5SQlJxQjFKUy05c214SEJkT3l0M2Z2WUtZS0k3QUZwdkllYzJvVVF1Zi0xcVlKX0hBcm9pZ1RMNUlUVWpVejFXMkRKcEdmZS13MUVPZGx1TTFyWWt0emJaaFNqR3g1V1l6elU?oc=5" target="_blank">Trump Unveils Gaza 'Board of Peace' at Davos. See the List</a>&nbsp;&nbsp;<font color="#6f6f6f">Time Magazine</font></li><li><a href="https://news.google.com/rss/articles/CBMimwFBVV95cUxNTzRUbjExU3NDcGN5Mklnd1FFdGNsLWtwbmlHeTlSVEo3WWlsRnNuNjJNdkZ6WlQtZlhzWWRXc0EtQVVIRnczcEwwU1M2VkpJZDRmR2RiMmRWQ1VpSkJsc01hRDdyZkREbXdtRTczb0JIbXJEOGRwNG5xRUcxQlM5RHNlVktGMklndURDaDJISy1EQlpDbmRIM3NZRQ?oc=5" target="_blank">Who’s on Trump’s Board of Peace and who said no</a>&nbsp;&nbsp;<font color="#6f6f6f">AP News</font></li><li><a href="https://news.google.com/rss/articles/CBMisgFBVV95cUxPdW42ZFViZzFkTGVtejdIT3I1OENUbHNYYzJwRm0wYl92TlFUVHViVUtNOWI0ZUc3N1Zsa3FhTHliaVNpQ3NpaW5Ta2NmLWNWdHVQTk81Y3BJdkVvYllpSTJ6RWVPNEx3TDdaLUNNd1VzNmdXdTIycVd0X2laMGN0b0xrc21sUlVPUGQ5NndNa3JJR21IdVltaThjQ2E4QzRQblVRdjBVUjRuNWNQWmpFbEJ3?oc=5" target="_blank">Trump's new Board of Peace invites 'controversial people' like Putin</a>&nbsp;&nbsp;<font color="#6f6f6f">USA Today</font></li></ol>

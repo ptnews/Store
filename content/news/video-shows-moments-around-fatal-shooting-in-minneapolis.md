@@ -1,8 +1,8 @@
 ---
 title: "Video shows moments around fatal shooting in Minneapolis"
-date: 2026-01-24
-description: "A 37-year-old Minneapolis man, who is believed to be a US citizen, has been killed by a federal agent."
-summary: "A 37-year-old Minneapolis man, who is believed to be a US citizen, has been killed by a federal agent."
+date: 2026-01-25
+description: "Officials identified the man who was shot as 37-year-old Alex Pretti, a nurse and US citizen."
+summary: "Officials identified the man who was shot as 37-year-old Alex Pretti, a nurse and US citizen."
 slug: "video-shows-moments-around-fatal-shooting-in-minneapolis"
 image: ''
 link: 'https://www.bbc.com/news/videos/cp372pqq2rlo?at_medium=RSS&at_campaign=rss'
@@ -18,4 +18,4 @@ tags:
 
 draft: false
 ---
-A 37-year-old Minneapolis man, who is believed to be a US citizen, has been killed by a federal agent.
+Officials identified the man who was shot as 37-year-old Alex Pretti, a nurse and US citizen.

@@ -1,6 +1,6 @@
 ---
 title: "Bari Weiss’s CBS News Won’t Even Condemn Israel for Killing a CBS Contributor - Zeteo | Substack"
-date: 2026-01-24
+date: 2026-01-25
 description: "Bari Weiss’s CBS News Won’t Even Condemn Israel for Killing a CBS Contributor&nbsp;&nbsp;Zeteo | SubstackIsrael kills 3 journalists in Gaza, including CBS News contributor&nbsp;&nbsp;The Washington PostIsraeli drone strike kills two children collecting firewood in Gaza&nbsp;&nbsp;Al JazeeraThree journalists among 11 Palestinians killed by Israeli forces in Gaza&nbsp;&nbsp;The GuardianIsraeli fire strikes journalists and children in Gaza&nbsp;&nbsp;NPR"
 summary: "Bari Weiss’s CBS News Won’t Even Condemn Israel for Killing a CBS Contributor&nbsp;&nbsp;Zeteo | SubstackIsrael kills 3 journalists in Gaza, including CBS News contributor&nbsp;&nbsp;The Washington PostIsraeli drone strike kills two children collecting firewood in Gaza&nbsp;&nbsp;Al JazeeraThree journalists among 11 Palestinians killed by Israeli forces in Gaza&nbsp;&nbsp;The GuardianIsraeli fire strikes journalists and children in Gaza&nbsp;&nbsp;NPR"
 slug: "bari-weiss-s-cbs-news-won-t-even-condemn-israel-for-killing-a-cbs-contributor-zeteo-substack"

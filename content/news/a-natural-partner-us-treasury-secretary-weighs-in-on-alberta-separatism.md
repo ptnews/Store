@@ -1,6 +1,6 @@
 ---
 title: "'A natural partner': US treasury secretary weighs in on Alberta separatism"
-date: 2026-01-24
+date: 2026-01-25
 description: "Scott Bessent's comments come amid a war of words between Ottawa and Washington.  "
 summary: "Scott Bessent's comments come amid a war of words between Ottawa and Washington.  "
 slug: "a-natural-partner-us-treasury-secretary-weighs-in-on-alberta-separatism"

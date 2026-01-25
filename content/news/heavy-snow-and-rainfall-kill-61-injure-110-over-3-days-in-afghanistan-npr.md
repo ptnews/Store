@@ -1,6 +1,6 @@
 ---
 title: "Heavy snow and rainfall kill 61, injure 110 over 3 days in Afghanistan - NPR"
-date: 2026-01-24
+date: 2026-01-25
 description: "Heavy snow and rainfall kill 61, injure 110 over 3 days in Afghanistan&nbsp;&nbsp;NPRView Full Coverage on Google News"
 summary: "Heavy snow and rainfall kill 61, injure 110 over 3 days in Afghanistan&nbsp;&nbsp;NPRView Full Coverage on Google News"
 slug: "heavy-snow-and-rainfall-kill-61-injure-110-over-3-days-in-afghanistan-npr"
