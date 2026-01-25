@@ -1,8 +1,8 @@
 ---
 title: "Syria extends ceasefire with SDF by 15 more days"
 date: 2026-01-24
-description: "Syrian defence ministry says extension aims to help transfer of ISIL prisoners from facilities previously held by SDF."
-summary: "Syrian defence ministry says extension aims to help transfer of ISIL prisoners from facilities previously held by SDF."
+description: "Syrian Defence Ministry says extension aims to help transfer of ISIL prisoners from facilities previously held by SDF."
+summary: "Syrian Defence Ministry says extension aims to help transfer of ISIL prisoners from facilities previously held by SDF."
 slug: "syria-extends-ceasefire-with-sdf-by-15-more-days"
 image: ''
 link: 'https://www.aljazeera.com/news/2026/1/24/ceasefire-between-syrian-army-and-kurdish-led-forces-extended-for-15-days?traffic_source=rss'
@@ -16,4 +16,4 @@ tags:
 
 draft: false
 ---
-Syrian defence ministry says extension aims to help transfer of ISIL prisoners from facilities previously held by SDF.
+Syrian Defence Ministry says extension aims to help transfer of ISIL prisoners from facilities previously held by SDF.

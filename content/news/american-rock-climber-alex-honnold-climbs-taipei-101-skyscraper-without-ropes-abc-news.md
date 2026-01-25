@@ -1,0 +1,21 @@
+---
+title: "American rock climber Alex Honnold climbs Taipei 101 skyscraper without ropes - ABC News"
+date: 2026-01-25
+description: "American rock climber Alex Honnold climbs Taipei 101 skyscraper without ropes&nbsp;&nbsp;ABC NewsLive updates: Alex Honnold summits Taipei 101 skyscraper in free solo climb&nbsp;&nbsp;CNNAlex Honnold climbs to top of Taipei 101 skyscraper sans ropes&nbsp;&nbsp;ESPNEveryone Came for the Finish. The Legs-Hang Moment Is What People Can't Stop Rewatching&nbsp;&nbsp;Yahoo Sports'Skyscraper Live' Delayed By Weather; Alex Honnold Climb Gets New Netflix Date&nbsp;&nbsp;Deadline"
+summary: "American rock climber Alex Honnold climbs Taipei 101 skyscraper without ropes&nbsp;&nbsp;ABC NewsLive updates: Alex Honnold summits Taipei 101 skyscraper in free solo climb&nbsp;&nbsp;CNNAlex Honnold climbs to top of Taipei 101 skyscraper sans ropes&nbsp;&nbsp;ESPNEveryone Came for the Finish. The Legs-Hang Moment Is What People Can't Stop Rewatching&nbsp;&nbsp;Yahoo Sports'Skyscraper Live' Delayed By Weather; Alex Honnold Climb Gets New Netflix Date&nbsp;&nbsp;Deadline"
+slug: "american-rock-climber-alex-honnold-climbs-taipei-101-skyscraper-without-ropes-abc-news"
+image: ''
+link: 'https://news.google.com/rss/articles/CBMisgFBVV95cUxNT2M0bF9FU012UXd2WmNQeG4zUWhLMWFESXdDc2h1WG84OW9wNUJuckJYdVlsUGM2SHdnaHpBdjJXQ0NPWHVxdjNITlBGTU95dk1WYkN3YXIyb09YWTdXTWx6NU5Gd2V3dHNlTmZGaVBqd3RmaHBIeGFrTkxhZmpJbi1jcHFiQnI2NlFmQ3lwcGh2OTZiNjlTRm9qTko2bXEtWjBuNzU2UWZoZ3ItbXpCOU9R0gG3AUFVX3lxTE05QXoySV91bC1uTmN6QVlZOTBTdXJTTEVCUWFrd0VFQ1BaVEJoV2lhOGdVZ1N3UTNiY3RiVmE0Q1dZNG9pZzZ5ZjN2eWs2REx4MXdtWnVnRG82NEF4emw1Mi0xLWdUemFxOHdjZzJ0UHJ0Z2dRUjktOEVjTHZvSXJIb1hvWGJYbEJRNlVuZVk5WkR5dGw0QWVjV3o0UUZKbnNlbThfZHRmYXdLdVA1YVoyUUJsLVlUOA?oc=5'
+source: 'https://news.google.com/rss/topics/CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx1YlY4U0FtVnVHZ0pWVXlnQVAB?hl=en-US&gl=US&ceid=US:en'
+categories:
+- 'news.google.com'
+tags:
+- 'skyscraper'
+- 'american'
+- 'climber'
+- 'honnold'
+- 'without'
+
+draft: false
+---
+<ol><li><a href="https://news.google.com/rss/articles/CBMisgFBVV95cUxNT2M0bF9FU012UXd2WmNQeG4zUWhLMWFESXdDc2h1WG84OW9wNUJuckJYdVlsUGM2SHdnaHpBdjJXQ0NPWHVxdjNITlBGTU95dk1WYkN3YXIyb09YWTdXTWx6NU5Gd2V3dHNlTmZGaVBqd3RmaHBIeGFrTkxhZmpJbi1jcHFiQnI2NlFmQ3lwcGh2OTZiNjlTRm9qTko2bXEtWjBuNzU2UWZoZ3ItbXpCOU9R0gG3AUFVX3lxTE05QXoySV91bC1uTmN6QVlZOTBTdXJTTEVCUWFrd0VFQ1BaVEJoV2lhOGdVZ1N3UTNiY3RiVmE0Q1dZNG9pZzZ5ZjN2eWs2REx4MXdtWnVnRG82NEF4emw1Mi0xLWdUemFxOHdjZzJ0UHJ0Z2dRUjktOEVjTHZvSXJIb1hvWGJYbEJRNlVuZVk5WkR5dGw0QWVjV3o0UUZKbnNlbThfZHRmYXdLdVA1YVoyUUJsLVlUOA?oc=5" target="_blank">American rock climber Alex Honnold climbs Taipei 101 skyscraper without ropes</a>&nbsp;&nbsp;<font color="#6f6f6f">ABC News</font></li><li><a href="https://news.google.com/rss/articles/CBMilAFBVV95cUxNSFhkUzFQRzhfMXQ5RHdObHlCbGVMVUlzLU9yMDl6T25yUkhCUi1JMlVKempDWi12SlM1U3ZEYzBhcnE0cTZuUFEzNzBDVk12SVZIT2NNa21zRHRZcTg2TGFzMDdNX04xRHVrN1RRUnlsUEI1M24tN1RUd3VVMW1WWU54WnVxVUo5cDBGNkhlR0p3QWlT?oc=5" target="_blank">Live updates: Alex Honnold summits Taipei 101 skyscraper in free solo climb</a>&nbsp;&nbsp;<font color="#6f6f6f">CNN</font></li><li><a href="https://news.google.com/rss/articles/CBMipAFBVV95cUxQREt5UklUVk41VUt4d2pETWhEdGlBdFBfbXlPa2pjdkJIeUdKVnBsckdVRmo0WERqZHpyd0hIOVAybmQ3Z056Q0o1UmY2cXVNaF8yaGx4eGZZUkZUTUFDaEQ2UExVaXZNWVRXVmR0REJFZ1pwa2R6VjhEWEVuTFVrMWlaVEw1d2JMTm9zbmhzRTRXZkFiZlNyNFJEbTJ4SGEwQ3lERw?oc=5" target="_blank">Alex Honnold climbs to top of Taipei 101 skyscraper sans ropes</a>&nbsp;&nbsp;<font color="#6f6f6f">ESPN</font></li><li><a href="https://news.google.com/rss/articles/CBMihgFBVV95cUxQel8zZzFaN2hQYzk0ekowOUgxOXNxeUhDSldNTzdOWFFBSE1rNlYtYjBjZjE4QTJqbmZWc3pVNmZoaWxFb2xfMDh5cDZTWlJkWFBWM0d0a0JaNEpNQ1V4Q2JDZXdabm96NmVpUGpaa1ViTURFYS14NlQxdGpfWFpxNE9XOFVDUQ?oc=5" target="_blank">Everyone Came for the Finish. The Legs-Hang Moment Is What People Can't Stop Rewatching</a>&nbsp;&nbsp;<font color="#6f6f6f">Yahoo Sports</font></li><li><a href="https://news.google.com/rss/articles/CBMikgFBVV95cUxOallfVnoxbkJZeGJTVDl2NHpRNUtFZ0JPN20wdDFaY01UUUY5NW5aS2k0Q0JpMFczN3g1YmdXb1V3SWRIZVE0dGgwR05iczV1TGJla3BvRTVfRFhPZ2w2UEpoQTAyc2U4bGJ1ZnU0aGNIVm5LNVJJY1RFOGlmN2R0RENVcXctX0FJNU01QmZhYTA5Zw?oc=5" target="_blank">'Skyscraper Live' Delayed By Weather; Alex Honnold Climb Gets New Netflix Date</a>&nbsp;&nbsp;<font color="#6f6f6f">Deadline</font></li></ol>
