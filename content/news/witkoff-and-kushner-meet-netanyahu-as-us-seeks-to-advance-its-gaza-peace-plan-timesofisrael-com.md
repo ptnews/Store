@@ -1,0 +1,21 @@
+---
+title: "Witkoff and Kushner meet Netanyahu as US seeks to advance its Gaza peace plan - timesofisrael.com"
+date: 2026-01-25
+description: "Witkoff and Kushner meet Netanyahu as US seeks to advance its Gaza peace plan&nbsp;&nbsp;timesofisrael.comJared Kushner's vision for Gaza as a gleaming port city clashes with reality&nbsp;&nbsp;NBC News“Emperor” Trump’s So-Called Board of Peace Erases Palestinians from Gaza Governance&nbsp;&nbsp;Democracy Now!What Gazans are saying about the US's 'New Gaza' plan&nbsp;&nbsp;Le Monde.frUS envoys urge Netanyahu to move into Gaza ceasefire’s second phase&nbsp;&nbsp;AP News"
+summary: "Witkoff and Kushner meet Netanyahu as US seeks to advance its Gaza peace plan&nbsp;&nbsp;timesofisrael.comJared Kushner's vision for Gaza as a gleaming port city clashes with reality&nbsp;&nbsp;NBC News“Emperor” Trump’s So-Called Board of Peace Erases Palestinians from Gaza Governance&nbsp;&nbsp;Democracy Now!What Gazans are saying about the US's 'New Gaza' plan&nbsp;&nbsp;Le Monde.frUS envoys urge Netanyahu to move into Gaza ceasefire’s second phase&nbsp;&nbsp;AP News"
+slug: "witkoff-and-kushner-meet-netanyahu-as-us-seeks-to-advance-its-gaza-peace-plan-timesofisrael-com"
+image: ''
+link: 'https://news.google.com/rss/articles/CBMimAFBVV95cUxQWklFcHhIT3JVYmRnVHRCRHA1Ry15RC1VZGZmOE40U29WSk0wOXpWVGdSUnlZZE5VRW03cl93WnZrREp3VWxudGROdjlMc1NleERadVM5Z1kxcnoxR1Bta1dXQjBHQXBYRVY4cG1XRjlyQ3BlX1BLQV90dWJnS1dLNmRBc3drQTIydjZLbnd2Y2g3YVNwZmtxaNIBngFBVV95cUxPWHpXMi1tQmQ5bTVXNkR2TkZQRU9vVDJSNWRGcjJiSUhlVVhFMzg3T1FUdjdEd2stN0pob20yZGVVV3dZX2JNMEtTUUVYZ0FlVllrMjk4RkRydzBjWWhfZFdyUnp5Mnh0SWNLOFNRV0RMTVVUX2VyUGlzbnE5YUduaHppVDNibDNoX3c0R0xUMFk2cEtVRGZGZlJydEc3QQ?oc=5'
+source: 'https://news.google.com/rss/topics/CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx1YlY4U0FtVnVHZ0pWVXlnQVAB?hl=en-US&gl=US&ceid=US:en'
+categories:
+- 'news.google.com'
+tags:
+- 'timesofisrael'
+- 'netanyahu'
+- 'witkoff'
+- 'kushner'
+- 'advance'
+
+draft: false
+---
+<ol><li><a href="https://news.google.com/rss/articles/CBMimAFBVV95cUxQWklFcHhIT3JVYmRnVHRCRHA1Ry15RC1VZGZmOE40U29WSk0wOXpWVGdSUnlZZE5VRW03cl93WnZrREp3VWxudGROdjlMc1NleERadVM5Z1kxcnoxR1Bta1dXQjBHQXBYRVY4cG1XRjlyQ3BlX1BLQV90dWJnS1dLNmRBc3drQTIydjZLbnd2Y2g3YVNwZmtxaNIBngFBVV95cUxPWHpXMi1tQmQ5bTVXNkR2TkZQRU9vVDJSNWRGcjJiSUhlVVhFMzg3T1FUdjdEd2stN0pob20yZGVVV3dZX2JNMEtTUUVYZ0FlVllrMjk4RkRydzBjWWhfZFdyUnp5Mnh0SWNLOFNRV0RMTVVUX2VyUGlzbnE5YUduaHppVDNibDNoX3c0R0xUMFk2cEtVRGZGZlJydEc3QQ?oc=5" target="_blank">Witkoff and Kushner meet Netanyahu as US seeks to advance its Gaza peace plan</a>&nbsp;&nbsp;<font color="#6f6f6f">timesofisrael.com</font></li><li><a href="https://news.google.com/rss/articles/CBMiqwFBVV95cUxPUE5qRnllUGEzbGRMTmRtMDZzX1doQTExV1VLRjdsVjctZFlhcW9xNFJCRldyeUFVWVhJZG9xaVJFcHJMbENTSjJtM3VEY1p6bUh6X3Z6MU1OTjRDU2h1eXo5VFlMb2x5SnRLMnZ3amlRY1l2N0ZzWGxCUTNJclJtNEdjN3NJY1ZSQkZXYUx1MDFWazhZQy1UYndwNFZFOUx2M2JIam5JTVdncEE?oc=5" target="_blank">Jared Kushner's vision for Gaza as a gleaming port city clashes with reality</a>&nbsp;&nbsp;<font color="#6f6f6f">NBC News</font></li><li><a href="https://news.google.com/rss/articles/CBMiiwFBVV95cUxPWmxxTktzbzZXSFRfb0Q5LXVCQnM3TTUzdHd5SW1qZTYzT3ZaR1dpR3B2aFVjWEhHRVA3NTdraEg3aGpmZFg0cFduUV9NamZxdG5NYmZYQ096ejJ3ZElKa3l4cmNxUnZQOUNMYUk5U21TWUVPOVBJSjJtc0VYZTUwVWI2aDNGcWFmQTZj?oc=5" target="_blank">“Emperor” Trump’s So-Called Board of Peace Erases Palestinians from Gaza Governance</a>&nbsp;&nbsp;<font color="#6f6f6f">Democracy Now!</font></li><li><a href="https://news.google.com/rss/articles/CBMiugFBVV95cUxONTZncGRLUEM5RldYeDlPMDB3ZkdzWUhzYU9VYkFMWV9vdGtxc1lSbHQyS1ZkbUE0QWpXT3k1OW9vRk1NanhHRWg2cTFxR1g2aWdvcGRiUFpXdnZSdzVubktVZ3o1ZHBFeGJyWkMzWm13S3pFOFF3MXV0bV9aVDhYSVFKamctNlNnUUZ5YjJqdWxsMjhtU0MxS3RNU1ZpQ29LNWk0cFZJV1VSMm9wT3VpN1BVY0pjQ2dhUkE?oc=5" target="_blank">What Gazans are saying about the US's 'New Gaza' plan</a>&nbsp;&nbsp;<font color="#6f6f6f">Le Monde.fr</font></li><li><a href="https://news.google.com/rss/articles/CBMingFBVV95cUxNV3A2elFSX1hhQ0ZhSHBaQ0dHQ0x2cFhHcjc1WmszQ2tqTHNPb2l3VldUdzE3RkpfczFUemJpd25hdWsxeWhDQnFMTloxUHVjVDVPY1E4WGVzMmxnemRUTl9GMWo4cXBrMkI3ckFteTJZYkpRemVGaDc0SG5VYjhaZHB4T0ZfeWNmbWVQTGhST3F4bjBYaWpWMDdERlZNUQ?oc=5" target="_blank">US envoys urge Netanyahu to move into Gaza ceasefire’s second phase</a>&nbsp;&nbsp;<font color="#6f6f6f">AP News</font></li></ol>
