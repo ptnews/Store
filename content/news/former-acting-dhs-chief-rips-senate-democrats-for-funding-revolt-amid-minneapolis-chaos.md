@@ -1,0 +1,21 @@
+---
+title: "Former acting DHS chief rips Senate Democrats for funding revolt amid Minneapolis chaos"
+date: 2026-01-25
+description: "Partial government shutdown looms as Senate Democrats plan to block DHS funding over ICE concerns following Minneapolis shooting and immigration disputes."
+summary: "Partial government shutdown looms as Senate Democrats plan to block DHS funding over ICE concerns following Minneapolis shooting and immigration disputes."
+slug: "former-acting-dhs-chief-rips-senate-democrats-for-funding-revolt-amid-minneapolis-chaos"
+image: ''
+link: 'https://www.foxnews.com/media/former-acting-dhs-chief-rips-senate-democrats-funding-revolt-amid-minneapolis-chaos'
+source: 'https://feeds.foxnews.com/foxnews/latest'
+categories:
+- 'feeds.foxnews.com'
+tags:
+- 'minneapolis'
+- 'democrats'
+- 'funding'
+- 'former'
+- 'acting'
+
+draft: false
+---
+<p>Former acting DHS Secretary Chad Wolf blasted Senate Democrats’ move to block funding for the <a href="https://www.foxnews.com/category/politics/executive/homeland-security" target="_blank" rel="noopener">Department of Homeland Security (DHS)</a> — a step that could trigger a government shutdown amid fallout from the fatal shooting of 37-year-old Alex Pretti in Minneapolis.</p><p>"Democrats want to shut down the government… because ICE is doing its job that <a href="https://www.foxnews.com/category/us/congress" target="_blank" rel="noopener">Congress</a> told them to do," Wolf said Saturday, calling the party's rationale "bizarre" on "The Big Weekend Show."</p><p>"Instead of saying, 'Hey, let's pass a set of reforms to ICE or let's try to get that through the Senate. I don't think it'll make it. Let's try and do all these things,' all they can come up with is, 'We're going to <a href="https://www.foxnews.com/category/topic/government-shutdown" target="_blank" rel="noopener">shut the government down</a>.'"</p><p><a href="https://www.foxnews.com/politics/senate-advances-174b-package-minnesota-ice-shooting-fuels-dhs-funding-fight" target="_blank" rel="noopener"><strong><u>SENATE ADVANCES $174B PACKAGE AS MINNESOTA ICE SHOOTING FUELS DHS FUNDING FIGHT</u></strong></a></p><p>Democrats in the upper chamber, led by Minority Leader Chuck Schumer, D-N.Y., <a href="https://www.foxnews.com/politics/senate-dems-revolt-against-dhs-funding-bill-amid-minneapolis-chaos-dramatically-hiking-government-shutdown-ri" target="_blank" rel="nofollow noopener">plan to vote against</a> the legislation that would fund DHS after the fatal Minneapolis shooting shattered a fragile truce on the issue. </p><p>Schumer argued the current bill — which was negotiated with bipartisan input — remains "woefully inadequate" to rein in alleged abuses by Immigration and Customs Enforcement (ICE), and vowed that Democrats would block its passage as long as DHS funding is included, dramatically increasing the risk of a partial government shutdown as the Jan. 30 funding deadline nears.</p><p><a href="https://www.foxnews.com/politics/house-jams-senate-attaching-repeal-jack-smith-provision-1-2t-funding-package" target="_blank" rel="noopener"><strong><u>HOUSE JAMS SENATE BY ATTACHING REPEAL OF JACK SMITH PROVISION TO $1.2T FUNDING PACKAGE</u></strong></a></p><p>Wolf said the partial shutdown, which would mean only agencies that Congress has not yet funded would have to reduce or cease functions, could possibly make ICE and Border Patrol agents "less safe," but would not "deter them from doing their mission."</p><p>"They have resources there at the department. Obviously, they have the One Big, Beautiful Bill that was passed [and] gave both Border Patrol and ICE a significant amount of resources. They'll be on a continuing resolution, most likely. If the government shuts down, most of them will be exempt, making sure that they're continuing to carry out <a href="https://www.foxnews.com/category/us/immigration/border-security" target="_blank" rel="noopener">national security</a> and taking criminals off the street."</p><p><a href="https://www.foxnews.com/media" target="_blank" rel="noopener"><strong><u>CLICK HERE FOR MORE COVERAGE OF MEDIA AND CULTURE</u></strong></a></p><p><i>Fox News' Alex Miller and Elizabeth Elkind contributed to this report.</i></p>
