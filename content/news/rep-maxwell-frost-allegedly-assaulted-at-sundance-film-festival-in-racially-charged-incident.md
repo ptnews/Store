@@ -1,5 +1,5 @@
 ---
-title: "Rep Maxwell Frost allegedly assaulted at Sundance Film Festival in racially-charged incident"
+title: "Rep Maxwell Frost allegedly assaulted at Sundance Film Festival in racially charged incident"
 date: 2026-01-24
 description: "Florida Congressman Maxwell Frost was allegedly punched in the face at a Sundance Film Festival party in Park City, Utah, by a racist suspect."
 summary: "Florida Congressman Maxwell Frost was allegedly punched in the face at a Sundance Film Festival party in Park City, Utah, by a racist suspect."
