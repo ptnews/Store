@@ -6,7 +6,7 @@ summary: "Tracing UNRWA from 1949 to today, the film examines refugee policy, we
 slug: "how-the-oct-7-hamas-terror-attacks-exposed-long-running-concerns-about-unrwa-new-film-charges"
 image: ''
 link: 'https://www.foxnews.com/world/how-oct-7-hamas-terror-attacks-exposed-long-running-concerns-about-unrwa-new-film-charges'
-source: 'https://feeds.foxnews.com/foxnews/world'
+source: 'https://feeds.foxnews.com/foxnews/latest'
 categories:
 - 'feeds.foxnews.com'
 tags:
