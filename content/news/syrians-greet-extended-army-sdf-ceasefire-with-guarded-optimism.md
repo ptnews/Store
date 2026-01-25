@@ -1,8 +1,8 @@
 ---
 title: "Syrians greet extended army-SDF ceasefire with guarded optimism"
 date: 2026-01-25
-description: "Extension offers a respite as Syrian forces advance towards the last SDF strongholds in northeast of the country."
-summary: "Extension offers a respite as Syrian forces advance towards the last SDF strongholds in northeast of the country."
+description: "Extension offers a welcome respite as Syrian forces advance towards the last SDF strongholds in the northeast."
+summary: "Extension offers a welcome respite as Syrian forces advance towards the last SDF strongholds in the northeast."
 slug: "syrians-greet-extended-army-sdf-ceasefire-with-guarded-optimism"
 image: ''
 link: 'https://www.aljazeera.com/news/2026/1/25/syrians-greet-extended-army-sdf-ceasefire-with-guarded-optimism?traffic_source=rss'
@@ -18,4 +18,4 @@ tags:
 
 draft: false
 ---
-Extension offers a respite as Syrian forces advance towards the last SDF strongholds in northeast of the country.
+Extension offers a welcome respite as Syrian forces advance towards the last SDF strongholds in the northeast.
