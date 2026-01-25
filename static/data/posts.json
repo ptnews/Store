@@ -630,15 +630,6 @@
     "title": "Greenland's capital restores power, heating after storm damaged line - Reuters"
   },
   {
-    "description": "Former CNN host Don Lemon said he expected to see continued legal pressure from Trump administration after federal judge rejected the the DOJ\u0026apos;s charges over protest coverage.",
-    "image": "",
-    "link": "https://www.foxnews.com/media/don-lemon-warns-trump-retrofit-laws-prosecute-him-after-judge-rejects-charges",
-    "pubDate": "2026-01-25",
-    "slug": "don-lemon-warns-trump-will-retrofit-laws-to-prosecute-him-after-judge-rejects-charges",
-    "source": "https://feeds.foxnews.com/foxnews/latest",
-    "title": "Don Lemon warns Trump will 'retrofit' laws to prosecute him after judge rejects charges"
-  },
-  {
     "description": "Former NFL quarterback Philip Rivers reportedly \u0026quot;crushed\u0026quot; his Buffalo Bills head coaching interview and is under serious consideration for the job.",
     "image": "",
     "link": "https://www.foxnews.com/sports/philip-rivers-under-serious-consideration-next-bills-head-coach-nfl-insider-says",
@@ -853,6 +844,24 @@
     "slug": "hollywood-legend-tippi-hedren-96-makes-rare-appearance-for-birthday-celebration-with-family",
     "source": "https://feeds.foxnews.com/foxnews/latest",
     "title": "Hollywood legend Tippi Hedren, 96, makes rare appearance for birthday celebration with family"
+  },
+  {
+    "description": "Lt. Gen. John Brennan details U.S. military support helping Nigerian forces combat Islamic State and Boko Haram terrorists following strikes that disrupted terror networks.",
+    "image": "",
+    "link": "https://www.foxnews.com/world/after-trump-strikes-islamist-terrorists-us-general-travels-nigeria-militants-on-run",
+    "pubDate": "2026-01-25",
+    "slug": "after-trump-strikes-islamist-terrorists-us-general-travels-to-nigeria-with-militants-on-the-run",
+    "source": "https://feeds.foxnews.com/foxnews/latest",
+    "title": "After Trump strikes Islamist terrorists, US general travels to Nigeria with militants 'on the run'"
+  },
+  {
+    "description": "A video of a Syrian fighter holding a braid he claims was taken from a Kurdish woman in Raqqa sparked outrage and protests as Damascus expands control amid a fragile ceasefire.",
+    "image": "",
+    "link": "https://www.foxnews.com/world/syrian-militiaman-shows-off-what-he-claims-severed-kurdish-fighters-braid-damascus-asserts-control",
+    "pubDate": "2026-01-25",
+    "slug": "syrian-militiaman-shows-off-what-he-claims-to-be-severed-kurdish-fighter-s-braid-as-damascus-asserts-control",
+    "source": "https://feeds.foxnews.com/foxnews/world",
+    "title": "Syrian militiaman shows off what he claims to be severed Kurdish fighter's braid as Damascus asserts control"
   },
   {
     "description": "Italian PM Giorgia Meloni calls Trump\u0026apos;s NATO comments about Afghanistan \u0026quot;unacceptable,\u0026quot; defending Italy\u0026apos;s sacrifice of 53 soldiers killed in the conflict.",
@@ -1071,15 +1080,6 @@
     "title": "Netanyahu agrees to join Trump’s Gaza Board of Peace after initial pushback"
   },
   {
-    "description": "Iranian soldier Javid Khales was reportedly sentenced to death for refusing orders to shoot protesters during nationwide unrest, a human rights group says.",
-    "image": "",
-    "link": "https://www.foxnews.com/world/iranian-soldier-sentenced-death-refusing-fire-protesters-nationwide-unrest",
-    "pubDate": "2026-01-20",
-    "slug": "iranian-soldier-sentenced-to-death-for-refusing-to-fire-on-protesters-during-nationwide-unrest",
-    "source": "https://feeds.foxnews.com/foxnews/world",
-    "title": "Iranian soldier sentenced to death for refusing to fire on protesters during nationwide unrest"
-  },
-  {
     "description": "Bystander footage has captured the seconds before the killing of 37-year-old Alex Pretti. ",
     "image": "",
     "link": "https://www.bbc.com/news/videos/cp372pqq2rlo?at_medium=RSS\u0026at_campaign=rss",
@@ -1134,6 +1134,15 @@
     "title": "Sir Mark Tully, the BBC's 'voice of India', dies aged 90"
   },
   {
+    "description": "The interior minister condemned the attack, which police say they are investigating.",
+    "image": "",
+    "link": "https://www.bbc.com/news/articles/cpqyxew338po?at_medium=RSS\u0026at_campaign=rss",
+    "pubDate": "2026-01-25",
+    "slug": "kenya-s-ex-deputy-president-alleges-assassination-attempt-in-church-attack",
+    "source": "http://feeds.bbci.co.uk/news/world/rss.xml",
+    "title": "Kenya's ex-deputy president alleges assassination attempt in church attack"
+  },
+  {
     "description": "Many parties were banned and there was no voting in about half the country which is gripped by fear and civil war.",
     "image": "",
     "link": "https://www.bbc.com/news/articles/cx2l6wg0p8eo?at_medium=RSS\u0026at_campaign=rss",
@@ -1161,15 +1170,6 @@
     "title": "Trump says UK soldiers in Afghanistan 'among greatest of all warriors'"
   },
   {
-    "description": "It comes as tensions appear to have escalated between Trump and Canadian Prime Minister Mark Carney.",
-    "image": "",
-    "link": "https://www.bbc.com/news/articles/cy4qww3w72lo?at_medium=RSS\u0026at_campaign=rss",
-    "pubDate": "2026-01-25",
-    "slug": "trump-threatens-canada-with-100-tariffs-if-it-makes-a-deal-with-china",
-    "source": "http://feeds.bbci.co.uk/news/world/rss.xml",
-    "title": "Trump threatens Canada with 100% tariffs if it 'makes a deal with China'"
-  },
-  {
     "description": "The singer hit out at Dr Zayn Khalid Majeed - who says he will try to have a positive impact with his content.",
     "image": "",
     "link": "https://www.bbc.com/news/articles/czx11kw42jeo?at_medium=RSS\u0026at_campaign=rss",
@@ -1179,6 +1179,15 @@
     "title": "Cosmetic doctor sorry for picking apart singer Troye Sivan's looks on TikTok"
   },
   {
+    "description": "It comes as tensions appear to have escalated between Trump and Canadian Prime Minister Mark Carney.",
+    "image": "",
+    "link": "https://www.bbc.com/news/articles/cy4qww3w72lo?at_medium=RSS\u0026at_campaign=rss",
+    "pubDate": "2026-01-25",
+    "slug": "trump-threatens-canada-with-100-tariffs-if-it-makes-a-deal-with-china",
+    "source": "http://feeds.bbci.co.uk/news/world/rss.xml",
+    "title": "Trump threatens Canada with 100% tariffs if it 'makes a deal with China'"
+  },
+  {
     "description": "The Lebanese man helped plan attacks on Jewish and Israeli institutions in Europe, prosecutors say.",
     "image": "",
     "link": "https://www.bbc.com/news/articles/c8rm14lkkvzo?at_medium=RSS\u0026at_campaign=rss",
@@ -1186,24 +1195,6 @@
     "slug": "germany-arrests-suspected-hamas-member-over-alleged-attack-plot",
     "source": "http://feeds.bbci.co.uk/news/world/rss.xml",
     "title": "Germany arrests suspected Hamas member over alleged attack plot"
-  },
-  {
-    "description": "No breakthrough is reported at the first three-way talks but reports suggest they will resume next month.",
-    "image": "",
-    "link": "https://www.bbc.com/news/articles/cwyr6p30054o?at_medium=RSS\u0026at_campaign=rss",
-    "pubDate": "2026-01-25",
-    "slug": "peace-talks-on-russia-ukraine-war-end-as-fighting-rages",
-    "source": "http://feeds.bbci.co.uk/news/world/rss.xml",
-    "title": "Peace talks on Russia-Ukraine war end as fighting rages "
-  },
-  {
-    "description": "President Xi has been accused of using investigations to purge political rivals.",
-    "image": "",
-    "link": "https://www.bbc.com/news/articles/c701kr5zqdqo?at_medium=RSS\u0026at_campaign=rss",
-    "pubDate": "2026-01-25",
-    "slug": "china-places-highest-ranking-general-under-investigation",
-    "source": "http://feeds.bbci.co.uk/news/world/rss.xml",
-    "title": "China places highest-ranking general under investigation"
   },
   {
     "description": "With economic stagnation and extremes of inequality comes corrosion of trust in democratic institutions. So Trump may be a symptom, not a cause, of what Carney called a \"rupture\" with the post-WW2 order.",
@@ -1321,6 +1312,15 @@
     "slug": "could-trilateral-talks-yield-a-breakthrough-in-ukraine-russia-war",
     "source": "http://feeds.bbci.co.uk/news/world/rss.xml",
     "title": "Could trilateral talks yield a breakthrough in Ukraine-Russia war?"
+  },
+  {
+    "description": "Washington has revealed its new national defence strategy.",
+    "image": "",
+    "link": "https://www.aljazeera.com/video/inside-story/2026/1/25/whats-behind-the-recent-shift-in-us-defence?traffic_source=rss",
+    "pubDate": "2026-01-25",
+    "slug": "what-s-behind-the-recent-shift-in-us-defence-strategy",
+    "source": "https://aljazeera.com/xml/rss/all.xml",
+    "title": "What’s behind the recent shift in US defence strategy?"
   },
   {
     "description": "Since May 2024, Israeli law has banned the network, citing threat to national security, an allegation Al Jazeera denies.",
@@ -1537,14 +1537,5 @@
     "slug": "not-optimistic-ukrainians-doubt-russia-ready-to-end-war-amid-talks",
     "source": "https://aljazeera.com/xml/rss/all.xml",
     "title": "‘Not optimistic’: Ukrainians doubt Russia ready to end war amid talks"
-  },
-  {
-    "description": "Two witnesses said in court filings that the victim did not brandish a gun, refuting claims by the Trump administration.",
-    "image": "",
-    "link": "https://www.aljazeera.com/news/2026/1/25/who-was-alex-pretti-the-nurse-shot-dead-by-federal-agents-in-minneapolis?traffic_source=rss",
-    "pubDate": "2026-01-25",
-    "slug": "who-was-alex-pretti-the-nurse-shot-dead-by-federal-agents-in-minneapolis",
-    "source": "https://aljazeera.com/xml/rss/all.xml",
-    "title": "Who was Alex Pretti, the nurse shot dead by federal agents in Minneapolis?"
   }
 ]
