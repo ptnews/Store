@@ -6,7 +6,7 @@ summary: "Israel’s Prime Minister’s Office said Sunday it has reached an agr
 slug: "israel-announces-limited-reopening-of-rafah-crossing-under-trump-s-20-point-plan"
 image: ''
 link: 'https://www.foxnews.com/world/israel-announces-limited-reopening-rafah-crossing-under-trumps-20-point-plan'
-source: 'https://feeds.foxnews.com/foxnews/latest'
+source: 'https://feeds.foxnews.com/foxnews/world'
 categories:
 - 'feeds.foxnews.com'
 tags:
