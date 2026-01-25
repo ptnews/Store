@@ -432,6 +432,15 @@
     "title": "Macron's shades at Davos sent shares of a tiny Italian sunglasses company soaring 65% this week - Business Insider"
   },
   {
+    "description": "Narratives clashed over shooting death of Minneapolis nurse Alex Pretti this weekend, with the Trump administration calling him a \u0026quot;domestic terrorist.\u0026quot;",
+    "image": "",
+    "link": "https://www.foxnews.com/us/narratives-clash-after-trump-victims-family-react-second-minneapolis-ice-shooting",
+    "pubDate": "2026-01-25",
+    "slug": "narratives-clash-after-trump-and-victim-s-family-react-to-second-minneapolis-ice-shooting",
+    "source": "https://feeds.foxnews.com/foxnews/latest",
+    "title": "Narratives clash after Trump and victim's family react to second Minneapolis ICE shooting"
+  },
+  {
     "description": "Jannik Sinner said he appreciated the heat rules, which helped him regroup in his third round match. He overcome cramps to advance in the Australian Open.",
     "image": "",
     "link": "https://www.foxnews.com/sports/jannik-sinner-battles-exhaustion-heat-rule-avoid-australian-open-upset",
@@ -646,15 +655,6 @@
     "slug": "reba-mcentire-reveals-how-vince-gill-and-dolly-parton-helped-her-after-tragic-band-deaths",
     "source": "https://feeds.foxnews.com/foxnews/latest",
     "title": "Reba McEntire reveals how Vince Gill and Dolly Parton helped her after tragic band deaths"
-  },
-  {
-    "description": "Several Minnesota leaders united against ICE operations on Saturday after a fatal shooting incident, with Sen. Amy Klobuchar, D-Minn., saying federal agents outnumber local police \u0026quot;three to one.\u0026quot;",
-    "image": "",
-    "link": "https://www.foxnews.com/politics/frey-klobuchar-call-ice-leave-minneapolis-following-deadly-cbp-shooting-city",
-    "pubDate": "2026-01-24",
-    "slug": "frey-klobuchar-call-for-ice-to-leave-minneapolis-following-deadly-cbp-shooting-in-city",
-    "source": "https://feeds.foxnews.com/foxnews/latest",
-    "title": "Frey, Klobuchar call for ICE to leave Minneapolis following deadly CBP shooting in city"
   },
   {
     "description": "Ukraine\u0026apos;s Zelenskyy calls recent US-Russia-Ukraine talks in Abu Dhabi \u0026quot;constructive,\u0026quot; marking potential breakthrough in diplomatic efforts to end the war.",
@@ -1152,15 +1152,6 @@
     "title": "Could trilateral talks yield a breakthrough in Ukraine-Russia war?"
   },
   {
-    "description": "US National Defense Strategy says Chinese threat is not a priority as Washington pivots to the Western Hemisphere.",
-    "image": "",
-    "link": "https://www.aljazeera.com/news/2026/1/25/pentagon-downplays-china-threat-what-it-means-for-us-allies?traffic_source=rss",
-    "pubDate": "2026-01-25",
-    "slug": "pentagon-downplays-china-threat-what-it-means-for-us-allies",
-    "source": "https://aljazeera.com/xml/rss/all.xml",
-    "title": "Pentagon downplays China threat: What it means for US allies"
-  },
-  {
     "description": "Academic and activist discusses what he sees as moral collapse in US and leadership crisis in the Democratic Party.\n\n",
     "image": "",
     "link": "https://www.aljazeera.com/video/talk-to-al-jazeera/2026/1/25/cornel-west-us-is-facing-moral-collapse-and-democratic-decay?traffic_source=rss",
@@ -1375,5 +1366,14 @@
     "slug": "cricket-players-officials-slam-icc-for-bangladesh-s-t20-world-cup-ouster",
     "source": "https://aljazeera.com/xml/rss/all.xml",
     "title": "Cricket players, officials slam ICC for Bangladesh’s T20 World Cup ouster"
+  },
+  {
+    "description": "A global roundup of some of last week’s events.",
+    "image": "",
+    "link": "https://www.aljazeera.com/gallery/2026/1/25/week-in-pictures-from-minneapolis-turmoil-to-israeli-attacks-on-gaza?traffic_source=rss",
+    "pubDate": "2026-01-25",
+    "slug": "week-in-pictures-from-minneapolis-turmoil-to-israeli-attacks-on-gaza",
+    "source": "https://aljazeera.com/xml/rss/all.xml",
+    "title": "Week in Pictures: From Minneapolis turmoil to Israeli attacks on Gaza"
   }
 ]
