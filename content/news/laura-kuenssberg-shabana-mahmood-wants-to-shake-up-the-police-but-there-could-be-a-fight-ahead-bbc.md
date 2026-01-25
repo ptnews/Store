@@ -1,0 +1,21 @@
+---
+title: "Laura Kuenssberg: Shabana Mahmood wants to shake up the police, but there could be a fight ahead - BBC"
+date: 2026-01-25
+description: "Laura Kuenssberg: Shabana Mahmood wants to shake up the police, but there could be a fight ahead&nbsp;&nbsp;BBCHome Office to launch ‘British FBI’ to deal with serious crime UK-wide&nbsp;&nbsp;The GuardianShabana Mahmood to establish a ‘British FBI’ to prevent terrorism&nbsp;&nbsp;The TelegraphBiggest shake-up of Britain’s policing to focus on protests and rioting&nbsp;&nbsp;The TimesUK plans to create 'British FBI' to bring national investigations under single police force&nbsp;&nbsp;..."
+summary: "Laura Kuenssberg: Shabana Mahmood wants to shake up the police, but there could be a fight ahead&nbsp;&nbsp;BBCHome Office to launch ‘British FBI’ to deal with serious crime UK-wide&nbsp;&nbsp;The GuardianShabana Mahmood to establish a ‘British FBI’ to prevent terrorism&nbsp;&nbsp;The TelegraphBiggest shake-up of Britain’s policing to focus on protests and rioting&nbsp;&nbsp;The TimesUK plans to create 'British FBI' to bring national investigations under single police force&nbsp;&nbsp;..."
+slug: "laura-kuenssberg-shabana-mahmood-wants-to-shake-up-the-police-but-there-could-be-a-fight-ahead-bbc"
+image: ''
+link: 'https://news.google.com/rss/articles/CBMiWkFVX3lxTE9CWW93T2R0dWY4NWdXNXB3ODNOeGN1ZHEtR2lLN2RYYThQVFJBOEk5SHJQQkpkR1UwaFVYWDJVR2RoM3Zsa1duR2pWVmtoUzBQZkxJMzZaV0JPZ9IBX0FVX3lxTFB6bG9scEpNOFUwek50OVNZUUdWRkh4amM1aWpfeUpaZWdzVk5WTDRoZTNSMDBiTThIRV92OWMwdFBpWnkzYVlsR0R6RlliLXBwcTR1cVBmSjEyenRnZHVZ?oc=5'
+source: 'https://news.google.com/rss/topics/CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx1YlY4U0FtVnVHZ0pWVXlnQVAB?hl=en-US&gl=US&ceid=US:en'
+categories:
+- 'news.google.com'
+tags:
+- 'kuenssberg'
+- 'shabana'
+- 'mahmood'
+- 'police'
+- 'laura'
+
+draft: false
+---
+<ol><li><a href="https://news.google.com/rss/articles/CBMiWkFVX3lxTE9CWW93T2R0dWY4NWdXNXB3ODNOeGN1ZHEtR2lLN2RYYThQVFJBOEk5SHJQQkpkR1UwaFVYWDJVR2RoM3Zsa1duR2pWVmtoUzBQZkxJMzZaV0JPZ9IBX0FVX3lxTFB6bG9scEpNOFUwek50OVNZUUdWRkh4amM1aWpfeUpaZWdzVk5WTDRoZTNSMDBiTThIRV92OWMwdFBpWnkzYVlsR0R6RlliLXBwcTR1cVBmSjEyenRnZHVZ?oc=5" target="_blank">Laura Kuenssberg: Shabana Mahmood wants to shake up the police, but there could be a fight ahead</a>&nbsp;&nbsp;<font color="#6f6f6f">BBC</font></li><li><a href="https://news.google.com/rss/articles/CBMirwFBVV95cUxNSkxkQklnblloVXFWcGFIN1V4ZjBHeXNhcUNMWnpvTFgxVTh2ZWRBVlA1M2R6NHluTnRvaEJVbG0wekJlM2tLanNsSVFJekd3dWlNaDdkZWYwb25SNHk1d056dnR1VXd1VjdmaXA5dEZJMy16RUR5ZUJuZ21IVENwRkllNG5hbzdzaTdheXJCTTdYR2NQMmtOdEFxMlI5OU1Md1pGTjl5eTNxSXVwRExV?oc=5" target="_blank">Home Office to launch ‘British FBI’ to deal with serious crime UK-wide</a>&nbsp;&nbsp;<font color="#6f6f6f">The Guardian</font></li><li><a href="https://news.google.com/rss/articles/CBMigwFBVV95cUxNMng0RENlV1RCOXpZQjlLLXB3c1kxb2REOGFjTHE0djlsd3dqdGFNRkJTMGZJZDlvRHNGMG5hNmZzQVVjemRUZ0hTU3F4QVJYZGpRVVVNbGRPY2JTV2RQNXVaOFBzVlN3UGlFSExPRUF2aEdhN1BKUVlqRnBfbDN4aXFZbw?oc=5" target="_blank">Shabana Mahmood to establish a ‘British FBI’ to prevent terrorism</a>&nbsp;&nbsp;<font color="#6f6f6f">The Telegraph</font></li><li><a href="https://news.google.com/rss/articles/CBMiwwFBVV95cUxPUG1zS3RseVVlbU50bndlVURPc0RzR3VSRHBIdzFKYnNXb083WVNCRFV1SFBHalJUWTNWaWM1VmluNlU3YTNWUm53TGJvLS1nYUpPZndsOEloUGZ5QWU1cm1oc1E4NWFHSFYxMVhUeHFOcFphbXNUTlFwcHpObFRqTnZDd3BVbWFyc3JiaFNjZXhYb3pnMzhYWUU4UG93TnJhYVUyYWVodnJHWENsR1BoOThtcjQ4MERFYWNlZW8yR2Ytcm8?oc=5" target="_blank">Biggest shake-up of Britain’s policing to focus on protests and rioting</a>&nbsp;&nbsp;<font color="#6f6f6f">The Times</font></li><li><a href="https://news.google.com/rss/articles/CBMitAFBVV95cUxQR1YxMFRnUDVQOTljOG1TMVRORS1sWGhFNGVWNlhNdzFyUzZBQ21DOFBqWGItZnlOeDVzWE9zanBwUVhGNUZwc3UtdU1SWDRTSzdleUswaDQ5WlVIZHlpbXBudXRCalZTVFNjWm1CWWx6bkJaX000TGxNeGdvNVh2V0V4YXlrWUxpT3pRTzlzUXAxTlo5Q3ljb000dmNHWU9oUDRMTGlVSmt3cUU2NVFzcURxMXfSAboBQVVfeXFMTlc2RkRUMjdsOHJhdEpYTTgzU0xSTFlxSEhOYXRjTDNjbGpCZ1ZoVE5SUUZOMzl6MGt2S2J4VnZkQXRYTl84UVJlOVRIakVfVmZQYWlXbi04dUgzYTZYcXRnOVZxODhkR1NBcEw5cjF4Rk5pM3FhNnc2R1ZHd25TUlZnVTVPTDRySGh3dXRHR1JRMkVQMFZSZElzYlhVWUR5UmhpNTVleFNuUFZGdk5iMjJKUDBpUUZJSFRn?oc=5" target="_blank">UK plans to create 'British FBI' to bring national investigations under single police force</a>&nbsp;&nbsp;<font color="#6f6f6f">ABC News</font></li></ol>

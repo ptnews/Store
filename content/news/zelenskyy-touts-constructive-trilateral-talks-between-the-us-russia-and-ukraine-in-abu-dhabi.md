@@ -6,7 +6,7 @@ summary: "Ukraine&apos;s Zelenskyy calls recent US-Russia-Ukraine talks in Abu D
 slug: "zelenskyy-touts-constructive-trilateral-talks-between-the-us-russia-and-ukraine-in-abu-dhabi"
 image: ''
 link: 'https://www.foxnews.com/world/zelenskyy-touts-constructive-trilateral-talks-between-us-russia-ukraine-abu-dhabi'
-source: 'https://feeds.foxnews.com/foxnews/latest'
+source: 'https://feeds.foxnews.com/foxnews/world'
 categories:
 - 'feeds.foxnews.com'
 tags:

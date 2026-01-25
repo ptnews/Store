@@ -1,8 +1,8 @@
 ---
 title: "Video shows moments around fatal shooting in Minneapolis"
 date: 2026-01-25
-description: "Officials identified the man who was shot as 37-year-old Alex Pretti, a nurse and US citizen."
-summary: "Officials identified the man who was shot as 37-year-old Alex Pretti, a nurse and US citizen."
+description: "Bystander footage has captured the seconds before the killing of 37-year-old Alex Pretti. "
+summary: "Bystander footage has captured the seconds before the killing of 37-year-old Alex Pretti. "
 slug: "video-shows-moments-around-fatal-shooting-in-minneapolis"
 image: ''
 link: 'https://www.bbc.com/news/videos/cp372pqq2rlo?at_medium=RSS&at_campaign=rss'
@@ -18,4 +18,4 @@ tags:
 
 draft: false
 ---
-Officials identified the man who was shot as 37-year-old Alex Pretti, a nurse and US citizen.
+Bystander footage has captured the seconds before the killing of 37-year-old Alex Pretti. 
