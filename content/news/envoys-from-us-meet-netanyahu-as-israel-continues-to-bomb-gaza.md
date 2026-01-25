@@ -1,8 +1,8 @@
 ---
 title: "Envoys from US meet Netanyahu as Israel continues to bomb Gaza"
 date: 2026-01-25
-description: "Medical sources in Gaza City say at least one person has been killed and 15 wounded throughout the day. "
-summary: "Medical sources in Gaza City say at least one person has been killed and 15 wounded throughout the day. "
+description: "Medical sources say at least three Palestinians have been killed and many wounded throughout the day in Israeli attacks."
+summary: "Medical sources say at least three Palestinians have been killed and many wounded throughout the day in Israeli attacks."
 slug: "envoys-from-us-meet-netanyahu-as-israel-continues-to-bomb-gaza"
 image: ''
 link: 'https://www.aljazeera.com/news/2026/1/25/us-envoys-meet-netanyahu-as-israel-continues-to-bomb-gaza?traffic_source=rss'
@@ -17,4 +17,4 @@ tags:
 
 draft: false
 ---
-Medical sources in Gaza City say at least one person has been killed and 15 wounded throughout the day. 
+Medical sources say at least three Palestinians have been killed and many wounded throughout the day in Israeli attacks.
