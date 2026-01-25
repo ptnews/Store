@@ -891,6 +891,15 @@
     "title": "Does TikTok's US deal threaten the company's global ambitions?"
   },
   {
+    "description": "UN official describes monthlong polls as \u0026#039;illegitimate\u0026#039;, while ASEAN regional bloc says it will not certify the vote.",
+    "image": "",
+    "link": "https://www.aljazeera.com/news/2026/1/25/myanmar-holds-final-election-round-military-backed-party-set-to-win?traffic_source=rss",
+    "pubDate": "2026-01-25",
+    "slug": "myanmar-holds-final-election-round-military-backed-party-set-to-win",
+    "source": "https://aljazeera.com/xml/rss/all.xml",
+    "title": "Myanmar holds final election round, military-backed party set to win"
+  },
+  {
     "description": "These are the key developments from day 1,431 of Russia’s war on Ukraine.",
     "image": "",
     "link": "https://www.aljazeera.com/news/2026/1/25/russia-ukraine-war-list-of-key-events-day-1431?traffic_source=rss",
@@ -958,9 +967,9 @@
     "image": "",
     "link": "https://www.aljazeera.com/news/2026/1/24/ceasefire-between-syrian-army-and-kurdish-led-forces-extended-for-15-days?traffic_source=rss",
     "pubDate": "2026-01-24",
-    "slug": "ceasefire-between-syrian-army-and-kurdish-led-forces-extended-for-15-days",
+    "slug": "syria-extends-ceasefire-with-sdf-by-15-more-days",
     "source": "https://aljazeera.com/xml/rss/all.xml",
-    "title": "Ceasefire between Syrian army and Kurdish-led forces extended for 15 days"
+    "title": "Syria extends ceasefire with SDF by 15 more days"
   },
   {
     "description": "On eve of day 2 of talks in UAE capital, Russian attacks cut off about 1.2 million from power in sub-zero temperatures.",
@@ -1105,14 +1114,5 @@
     "slug": "us-army-says-homeland-curbing-china-priorities-limited-support-for-allies",
     "source": "https://aljazeera.com/xml/rss/all.xml",
     "title": "US army says homeland, curbing China priorities; limited support for allies"
-  },
-  {
-    "description": "Flights were paused after Trump said \u0026#039;armada\u0026#039; of US warships heading towards the Middle East.",
-    "image": "",
-    "link": "https://www.aljazeera.com/news/2026/1/24/air-france-klm-pause-flights-to-middle-east-including-dubai-israel?traffic_source=rss",
-    "pubDate": "2026-01-24",
-    "slug": "air-france-resumes-dubai-flights-after-temporary-suspension",
-    "source": "https://aljazeera.com/xml/rss/all.xml",
-    "title": "Air France resumes Dubai flights after temporary suspension"
   }
 ]
