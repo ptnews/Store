@@ -1,0 +1,21 @@
+---
+title: "Gunmen storm football pitch in Mexico and kill at least 11 people - BBC"
+date: 2026-01-26
+description: "Gunmen storm football pitch in Mexico and kill at least 11 people&nbsp;&nbsp;BBCGunmen Kill 11 After Soccer Match in Mexico&nbsp;&nbsp;The New York TimesAt Least 11 Dead, 12 Others Injured After 'Cowardly' Mass Shooting at Soccer Game&nbsp;&nbsp;People.comGunmen open fire at football match in Mexico, killing at least 11&nbsp;&nbsp;The GuardianMexico: Gunmen kill 11 at soccer field in Salamanca&nbsp;&nbsp;dw.com"
+summary: "Gunmen storm football pitch in Mexico and kill at least 11 people&nbsp;&nbsp;BBCGunmen Kill 11 After Soccer Match in Mexico&nbsp;&nbsp;The New York TimesAt Least 11 Dead, 12 Others Injured After 'Cowardly' Mass Shooting at Soccer Game&nbsp;&nbsp;People.comGunmen open fire at football match in Mexico, killing at least 11&nbsp;&nbsp;The GuardianMexico: Gunmen kill 11 at soccer field in Salamanca&nbsp;&nbsp;dw.com"
+slug: "gunmen-storm-football-pitch-in-mexico-and-kill-at-least-11-people-bbc"
+image: ''
+link: 'https://news.google.com/rss/articles/CBMiWkFVX3lxTE1VdF9pT2JmLXhpMTBJMG5Jb0tyRjBIak9GRnU5VXhkbGJma2tYTWNlcE8xWEZOT0RtQzlsYWNuYzV3MWwzTEhIRWdySWlad1J1aVg1UExFdWxBUQ?oc=5'
+source: 'https://news.google.com/rss/topics/CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx1YlY4U0FtVnVHZ0pWVXlnQVAB?hl=en-US&gl=US&ceid=US:en'
+categories:
+- 'news.google.com'
+tags:
+- 'football'
+- 'gunmen'
+- 'mexico'
+- 'people'
+- 'storm'
+
+draft: false
+---
+<ol><li><a href="https://news.google.com/rss/articles/CBMiWkFVX3lxTE1VdF9pT2JmLXhpMTBJMG5Jb0tyRjBIak9GRnU5VXhkbGJma2tYTWNlcE8xWEZOT0RtQzlsYWNuYzV3MWwzTEhIRWdySWlad1J1aVg1UExFdWxBUQ?oc=5" target="_blank">Gunmen storm football pitch in Mexico and kill at least 11 people</a>&nbsp;&nbsp;<font color="#6f6f6f">BBC</font></li><li><a href="https://news.google.com/rss/articles/CBMikgFBVV95cUxQOU5oU3g2aUktcm8tZzVOck8wNXVhckN5Qk9oZUN5NWZWb1RNSjQ1TFVaWXR3aFhlSHJFLTNsSmVuLTVsQy16alJ2MG5fc19RZk5LNDdfR3oyRkctclQyOEtuOGhmTV9QX3VHUmRaVmU1LXhyaXd0QVlMRmZpTmE4cHM1VGx1WDZNLWV4MHRiT0E2UQ?oc=5" target="_blank">Gunmen Kill 11 After Soccer Match in Mexico</a>&nbsp;&nbsp;<font color="#6f6f6f">The New York Times</font></li><li><a href="https://news.google.com/rss/articles/CBMihgFBVV95cUxOQXhhY3h0bVVETWNZU2J2NGtiYXpPeG9kcjBTc3I2blJBbFZ3alVBVTBGWFU1Ul9aSzVLN0ZXbUZYVC16SGlUTmp4VkhkRUhuQVNVcldFLTY4a3JFeEo3dml6bDFmblFkYmdiT3BmN05GN2w3MzRodnlQUndicmpOUGpPdEVaUQ?oc=5" target="_blank">At Least 11 Dead, 12 Others Injured After 'Cowardly' Mass Shooting at Soccer Game</a>&nbsp;&nbsp;<font color="#6f6f6f">People.com</font></li><li><a href="https://news.google.com/rss/articles/CBMirAFBVV95cUxPVUx4V2J5dlRXRk40cWV1cW9QQXV1OS0xZjZPQmM0MTRLOW00ck1uN2NDMUVoRlFFUi02RDhXcHV0Sm5JRkJqeWcyTlhpeGxOVXpSRUNlTWNLaTNKa0s1RGFZb3o4cnZfcy14cmg3U0VWMWs4ZWpyd1lzR0FTdnRJRmZmWDFUVGU1QlRDR0VYVFAtOHFzTmhKYUNMek5VVUY5UHNxWlhxN1NKUElO?oc=5" target="_blank">Gunmen open fire at football match in Mexico, killing at least 11</a>&nbsp;&nbsp;<font color="#6f6f6f">The Guardian</font></li><li><a href="https://news.google.com/rss/articles/CBMiiwFBVV95cUxPX1RTX0xpSGh0NkRWVmVyakdSSUNxellmVXZwUnJobGVyR3M5XzVYQ3BKRWhlT3NvdFE2N0xVSGZUWlp6ckZxV3A5M0RlOUk3TnhweW1HOURQX3BLNGgtSlpqZGZoZVNhejVTMGtHT2N6UzExZ0tKVm1hQ09QOWdMN1o4T0VPRmtlRXpz0gGLAUFVX3lxTE1HVjdWN1dRU29wSEJvY3BUSmtJTm4xZ3ZnNklBTV9HeFh4MlM5czl1cGV2UDZ6c0ZSQ1JkdE9heHFCZDcyQjNPSnpCQWZ4NFAzMk5kbHB6VUtrV3pIS0JuZktaSVlJRXlsMzNkcVF6QXRHeWw2TUVtb2duMGFNVWg5cEhVMFlnY1J3WjQ?oc=5" target="_blank">Mexico: Gunmen kill 11 at soccer field in Salamanca</a>&nbsp;&nbsp;<font color="#6f6f6f">dw.com</font></li></ol>
