@@ -1,0 +1,21 @@
+---
+title: "Madison Keys and Jessica Pegula, key to tennis’ push for change, meet at Australian Open - The New York Times"
+date: 2026-01-26
+description: "Madison Keys and Jessica Pegula, key to tennis’ push for change, meet at Australian Open&nbsp;&nbsp;The New York TimesDefending Australian Open champion Keys falls to Pegula&nbsp;&nbsp;ESPNJessica Pegula defeats Madison Keys in straight sets – as it happened&nbsp;&nbsp;The GuardianCheesy apple pie for Keys as victor Pegula dodges Chiefs jersey&nbsp;&nbsp;Yahoo Sports'We're going to go live': Pegula, Keys bring podcast banter, dessert debates to Round of 16&nbsp;&nbsp;WTA Tennis"
+summary: "Madison Keys and Jessica Pegula, key to tennis’ push for change, meet at Australian Open&nbsp;&nbsp;The New York TimesDefending Australian Open champion Keys falls to Pegula&nbsp;&nbsp;ESPNJessica Pegula defeats Madison Keys in straight sets – as it happened&nbsp;&nbsp;The GuardianCheesy apple pie for Keys as victor Pegula dodges Chiefs jersey&nbsp;&nbsp;Yahoo Sports'We're going to go live': Pegula, Keys bring podcast banter, dessert debates to Round of 16&nbsp;&nbsp;WTA Tennis"
+slug: "madison-keys-and-jessica-pegula-key-to-tennis-push-for-change-meet-at-australian-open-the-new-york-times"
+image: ''
+link: 'https://news.google.com/rss/articles/CBMi1AFBVV95cUxPOFdNMmdudUdYcUxqRW5jeTAzZHJsMDQxOGR6OUkyVHdLWWZSbUhLXzRjUklXMVVhZmNwMWFMcUttbjBhTFFjZ0hTTGpjcTBhM0tfelhkZlhkS195aWg2ZVdzeW9fcWdEM0Vva05ZQ0ItT1k0WWhlenk4WkU2Zl9NeTNpRlJTdTNVQ0xWSnJJX2YybUFWUUZhYkZNV09obkJkWkcwNHJOSE9uTjkxT0YtcmVlbkVsMXVNZUNKbUNuVXhrUzhmbnU5N3VTUVRLNXlKVXkwOA?oc=5'
+source: 'https://news.google.com/rss/topics/CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx1YlY4U0FtVnVHZ0pWVXlnQVAB?hl=en-US&gl=US&ceid=US:en'
+categories:
+- 'news.google.com'
+tags:
+- 'australian'
+- 'madison'
+- 'jessica'
+- 'pegula'
+- 'tennis'
+
+draft: false
+---
+<ol><li><a href="https://news.google.com/rss/articles/CBMi1AFBVV95cUxPOFdNMmdudUdYcUxqRW5jeTAzZHJsMDQxOGR6OUkyVHdLWWZSbUhLXzRjUklXMVVhZmNwMWFMcUttbjBhTFFjZ0hTTGpjcTBhM0tfelhkZlhkS195aWg2ZVdzeW9fcWdEM0Vva05ZQ0ItT1k0WWhlenk4WkU2Zl9NeTNpRlJTdTNVQ0xWSnJJX2YybUFWUUZhYkZNV09obkJkWkcwNHJOSE9uTjkxT0YtcmVlbkVsMXVNZUNKbUNuVXhrUzhmbnU5N3VTUVRLNXlKVXkwOA?oc=5" target="_blank">Madison Keys and Jessica Pegula, key to tennis’ push for change, meet at Australian Open</a>&nbsp;&nbsp;<font color="#6f6f6f">The New York Times</font></li><li><a href="https://news.google.com/rss/articles/CBMioAFBVV95cUxONWxpb0s1cjJ5cFR5ejB3VEN6a2xrUnZmWkVLcHJ3R2FuZkljUk5WMmlndV9sc20xNlUyRHZfWDJ1bHMyZGRLZlhzanhwVHFjNUNJeURxN1VsUXNHUEFLX3pvYm52Y3ZFdWpxN3FhcGFmZVhscEMyZWlydVJOQzFhRDJ4UTZScFlRYkh5VE9GTWh4Wm9IVkNwM3VjcnBvQkVf?oc=5" target="_blank">Defending Australian Open champion Keys falls to Pegula</a>&nbsp;&nbsp;<font color="#6f6f6f">ESPN</font></li><li><a href="https://news.google.com/rss/articles/CBMi0gFBVV95cUxPMTlkY0JwTjd0MlF3R0J0NWJqc1l3MmEwbDZrd25sS1ZMMkxWNTJqTzNvMWZ0ZjI2VlRXaTcyN2laamNtSGxhWnQzblJNTHVkejlWcFIxNm9EUEJudEpyQnRMYk4zMzI4TnN4ZzRkWkpZRHVZdEhlTWtLRFVfbVJ5dmt4Xy0tZk11eXVoczRCbWJ6MmRmc3FWQWlpUVFvU1lvcHBMajRuTEpkNzhEV1J6RDRJcEJmMmZpd1AzcjNXUVN4N3JMRTBtenR1bXQwdDctcmc?oc=5" target="_blank">Jessica Pegula defeats Madison Keys in straight sets – as it happened</a>&nbsp;&nbsp;<font color="#6f6f6f">The Guardian</font></li><li><a href="https://news.google.com/rss/articles/CBMigwFBVV95cUxOYWRCaVo3dU1Rd0VKNjJTMWNVRmgzVjk3U2xjUDF3UWx1Q2NjY1dDZlRkUDREQmtnTGRJbnZqX0dfZDdncUpxUDltYVlsNWRqbFpCLVYwRkl5Q1ZjanZRbFZnZWlIdmJxczJSaWVELWNKa3RJQTF2ajJtQW8wRXNGcGxLaw?oc=5" target="_blank">Cheesy apple pie for Keys as victor Pegula dodges Chiefs jersey</a>&nbsp;&nbsp;<font color="#6f6f6f">Yahoo Sports</font></li><li><a href="https://news.google.com/rss/articles/CBMihAJBVV95cUxNUXFUbzBnWFBieW8tbWEzTFZkU3B0OXdwN25OQzB4RW5ManVpRlhsejlqNDg4NkJieEJwU0lOdGU4dlFBcWYxRDJ2X2RDb2pFaTY4MHlKMl85eXU0b0VMSHMwYTlrRHhGQ1ZidGc0V0JMS1MtZVFycHJPeVJXWXJTWERDTHBVZmoweWtUeTFiUEZNWHFLRXJhZVo4UWx3NjZaZWZzTmc3Uk11LTFKTjNzYnYtU2xGRG81QWp5NnhmTTNzb3RTQ0pQbEMtMmZVcmV3QmRZa0JGRXYyTi1yV3RRVHpXUHRMNlp4Z1RUSENYNU1tbVhpeVhRQXJkbjdwLXNnb25kUg?oc=5" target="_blank">'We're going to go live': Pegula, Keys bring podcast banter, dessert debates to Round of 16</a>&nbsp;&nbsp;<font color="#6f6f6f">WTA Tennis</font></li></ol>
