@@ -1,0 +1,21 @@
+---
+title: "Trump keeps posting private messages on Truth Social, more proof that work chats are never truly private - Business Insider"
+date: 2026-01-26
+description: "Trump keeps posting private messages on Truth Social, more proof that work chats are never truly private&nbsp;&nbsp;Business Insider‘You don’t want to live inside his head’: diplomats’ dilemma in the age of Trump&nbsp;&nbsp;The GuardianTrump keeps Macron under spotlight as Greenland talks grind forward from Davos&nbsp;&nbsp;Fox NewsTrump leaks world leaders' messages. And, Indiana wins its first national title&nbsp;&nbsp;NPRHas France’s President Finally Lost His Personal Touch With Tr..."
+summary: "Trump keeps posting private messages on Truth Social, more proof that work chats are never truly private&nbsp;&nbsp;Business Insider‘You don’t want to live inside his head’: diplomats’ dilemma in the age of Trump&nbsp;&nbsp;The GuardianTrump keeps Macron under spotlight as Greenland talks grind forward from Davos&nbsp;&nbsp;Fox NewsTrump leaks world leaders' messages. And, Indiana wins its first national title&nbsp;&nbsp;NPRHas France’s President Finally Lost His Personal Touch With Tr..."
+slug: "trump-keeps-posting-private-messages-on-truth-social-more-proof-that-work-chats-are-never-truly-private-business-insider"
+image: ''
+link: 'https://news.google.com/rss/articles/CBMioAFBVV95cUxQa09jSUNSV2xaaVVULXpLdEFRX2Myc1BVNFJJS1J0eWRNV0dDU09XTndvSmNZdi1hd0hyTlB2by1hZ0FpZUxGdm9ZazEtZi1tcmN2RWRfNnhQUXdoX0MzNk0tZEdiVVhGNHVqUGwzQW5WLXpyZmNrb3dxSjAtY1lKUUc1T0w3QUxJUEx6WFRyazlQV0FuRFdJUnA0RFdKMmZn?oc=5'
+source: 'https://news.google.com/rss/topics/CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx1YlY4U0FtVnVHZ0pWVXlnQVAB?hl=en-US&gl=US&ceid=US:en'
+categories:
+- 'news.google.com'
+tags:
+- 'messages'
+- 'business'
+- 'private'
+- 'insider'
+- 'posting'
+
+draft: false
+---
+<ol><li><a href="https://news.google.com/rss/articles/CBMioAFBVV95cUxQa09jSUNSV2xaaVVULXpLdEFRX2Myc1BVNFJJS1J0eWRNV0dDU09XTndvSmNZdi1hd0hyTlB2by1hZ0FpZUxGdm9ZazEtZi1tcmN2RWRfNnhQUXdoX0MzNk0tZEdiVVhGNHVqUGwzQW5WLXpyZmNrb3dxSjAtY1lKUUc1T0w3QUxJUEx6WFRyazlQV0FuRFdJUnA0RFdKMmZn?oc=5" target="_blank">Trump keeps posting private messages on Truth Social, more proof that work chats are never truly private</a>&nbsp;&nbsp;<font color="#6f6f6f">Business Insider</font></li><li><a href="https://news.google.com/rss/articles/CBMiwAFBVV95cUxQa1NqU2J4eWZGTTR5ME90WkpIY1NuSzh2U1MxYkdpLUFvWHJ0Z0tMOG1STHRpWG4wNDZoZ1pNeF9jTVdnMEtUcm5VNzNpRGJScGdWNXI5UjhYVXpObWdpdWVXVWlXOWtRb0tCclk2VVB5VzF2UkctSkFaMlZGd01RU1hRaXB5NHd6Vms3QjdmTUFzVThlY2NoMURLSU1oc1ByZkdCdWVBZ2dDTmJEVXJMMTdhM0U5ZG9KeGptT1QtTUs?oc=5" target="_blank">‘You don’t want to live inside his head’: diplomats’ dilemma in the age of Trump</a>&nbsp;&nbsp;<font color="#6f6f6f">The Guardian</font></li><li><a href="https://news.google.com/rss/articles/CBMirAFBVV95cUxQSFNmd1FOVjVGXzJiZVZTOVdROGhNQlJ2WFJUM2VSU3hLWDJtR3NJN2RNSkV4RTFjVlZsQUpSQjl2QmU1dlM2X3BHeHU3d3QxUTJfeW1EdUZsRXRMYWFPLXlSTXpMRXdhVlVJeXFNcWktYmVydURlY2VnTXdJQ3E2MXZPak5QUXczRkVqN0JnR1llei1xWDFJak56V2dRcFhNS09ZRmF1VGttUWJo0gGyAUFVX3lxTE9BUUhYZlJNanJka25NSmNPS1paUHE4VE9xcklWSFdXdmotMnYzTHBtbXpFR0llRk1FZUtCd0R2S253cEZEMm5IcFItNTFuUndFUHdMVWFyUHBSSHkwWDNEVnlEeTI5eHN2Y3VpZl9wY1huckxxRkhNQWY2d1VSYXpfcWNIRGwwdElJQi1JTUo2MXNVdVFaMDF5dF9GN29XNGhzVkx2cWRlYzNaUXhJSXI0eHc?oc=5" target="_blank">Trump keeps Macron under spotlight as Greenland talks grind forward from Davos</a>&nbsp;&nbsp;<font color="#6f6f6f">Fox News</font></li><li><a href="https://news.google.com/rss/articles/CBMiygFBVV95cUxNTWdMa0FJNE9EVG03QUdZQ3JndV8tUmR3dlMyN0VLRmtnb2Q0M3NHSy1fbzBtR3M0ZjJ4VjBVaC1TTy1saFJCSEpFNC0zRlhza3BDT2h3QkdRS05OdlRUMUpKRlRaeFpzNzVnajdabmhaR3hBUEtWckhGc1B1QXNFcTgwdlFSQWNHNEQyWHZ5di1iZUxXS2JReXlfekRaSzN5Rk9KXy1EUDNZcFdLNFFvU250QnFBdzRBNDlsbmtYRTZpUldNRW9xcW1R?oc=5" target="_blank">Trump leaks world leaders' messages. And, Indiana wins its first national title</a>&nbsp;&nbsp;<font color="#6f6f6f">NPR</font></li><li><a href="https://news.google.com/rss/articles/CBMie0FVX3lxTE54MGY5UkZ1dUJUcVFMT1RfcUw0UHZXZlF1M0JpWnVNWEkzZUc1Zy1sQjhGcUJ1cUxVcWZxdFVGSUIyMjhTZEtLdENWSk92OVZpNEhGQnRNeWl2d3hKTDlGcUIzZ1VpUVVwQWwzMkF3TXpkWEQ3RjdtNlh0QQ?oc=5" target="_blank">Has France’s President Finally Lost His Personal Touch With Trump?</a>&nbsp;&nbsp;<font color="#6f6f6f">The New York Times</font></li></ol>
