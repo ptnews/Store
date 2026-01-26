@@ -1,6 +1,6 @@
 ---
 title: "Russian strikes knock out heat in freezing Kyiv as peace talks continue - NPR"
-date: 2026-01-25
+date: 2026-01-26
 description: "Russian strikes knock out heat in freezing Kyiv as peace talks continue&nbsp;&nbsp;NPRRussian strike on Ukraine's Kyiv leaves 1,330 buildings still without heat, mayor says&nbsp;&nbsp;ReutersRussia-Ukraine war: List of key events, day 1,431&nbsp;&nbsp;Al Jazeera‘We have to keep people warm’: The Ukrainian energy workers risking their lives as Russia targets critical facilities&nbsp;&nbsp;CNNKyiv is freezing in the dark as Russian strikes leave Ukraine's capital powerless&nbsp;&nbsp;NBC News"
 summary: "Russian strikes knock out heat in freezing Kyiv as peace talks continue&nbsp;&nbsp;NPRRussian strike on Ukraine's Kyiv leaves 1,330 buildings still without heat, mayor says&nbsp;&nbsp;ReutersRussia-Ukraine war: List of key events, day 1,431&nbsp;&nbsp;Al Jazeera‘We have to keep people warm’: The Ukrainian energy workers risking their lives as Russia targets critical facilities&nbsp;&nbsp;CNNKyiv is freezing in the dark as Russian strikes leave Ukraine's capital powerless&nbsp;&nbsp;NBC News"
 slug: "russian-strikes-knock-out-heat-in-freezing-kyiv-as-peace-talks-continue-npr"

@@ -1,6 +1,6 @@
 ---
 title: "White House Calls Daily Beast ‘Mentally Ill’ For Exposing Trump’s Decline - The Daily Beast"
-date: 2026-01-25
+date: 2026-01-26
 description: "White House Calls Daily Beast ‘Mentally Ill’ For Exposing Trump’s Decline&nbsp;&nbsp;The Daily Beast"
 summary: "White House Calls Daily Beast ‘Mentally Ill’ For Exposing Trump’s Decline&nbsp;&nbsp;The Daily Beast"
 slug: "white-house-calls-daily-beast-mentally-ill-for-exposing-trump-s-decline-the-daily-beast"

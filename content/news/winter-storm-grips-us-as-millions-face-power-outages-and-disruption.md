@@ -1,6 +1,6 @@
 ---
 title: "Winter storm grips US as millions face power outages and disruption"
-date: 2026-01-25
+date: 2026-01-26
 description: "A powerful winter storm swept across the country, with heavy snow, ice and dangerously low temperatures affecting millions."
 summary: "A powerful winter storm swept across the country, with heavy snow, ice and dangerously low temperatures affecting millions."
 slug: "winter-storm-grips-us-as-millions-face-power-outages-and-disruption"

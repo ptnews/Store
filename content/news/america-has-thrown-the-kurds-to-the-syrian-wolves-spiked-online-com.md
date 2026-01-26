@@ -1,6 +1,6 @@
 ---
 title: "America has thrown the Kurds to the Syrian wolves - spiked-online.com"
-date: 2026-01-25
+date: 2026-01-26
 description: "America has thrown the Kurds to the Syrian wolves&nbsp;&nbsp;spiked-online.comHow the Kurds Lost Eastern Syria&nbsp;&nbsp;New Lines MagazineOpinion | ISIS May Prosper From Syria’s Dangerous Turn&nbsp;&nbsp;The Wall Street JournalThe Guardian view on Syria’s crisis: Islamic State fighters are not the only concern | Editorial&nbsp;&nbsp;The GuardianIsrael’s safety tied to Kurdish security, officials say&nbsp;&nbsp;jpost.com"
 summary: "America has thrown the Kurds to the Syrian wolves&nbsp;&nbsp;spiked-online.comHow the Kurds Lost Eastern Syria&nbsp;&nbsp;New Lines MagazineOpinion | ISIS May Prosper From Syria’s Dangerous Turn&nbsp;&nbsp;The Wall Street JournalThe Guardian view on Syria’s crisis: Islamic State fighters are not the only concern | Editorial&nbsp;&nbsp;The GuardianIsrael’s safety tied to Kurdish security, officials say&nbsp;&nbsp;jpost.com"
 slug: "america-has-thrown-the-kurds-to-the-syrian-wolves-spiked-online-com"

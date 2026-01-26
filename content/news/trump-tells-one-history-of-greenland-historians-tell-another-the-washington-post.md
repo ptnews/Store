@@ -1,6 +1,6 @@
 ---
 title: "Trump tells one history of Greenland. Historians tell another. - The Washington Post"
-date: 2026-01-25
+date: 2026-01-26
 description: "Trump tells one history of Greenland. Historians tell another.&nbsp;&nbsp;The Washington PostTrump insults allies and predecessors with his own view of history&nbsp;&nbsp;CNNWhy Denmark Controls Greenland&nbsp;&nbsp;The Wall Street JournalTrump Sounds a Lot Like You-Know-Who - by Will Saletan&nbsp;&nbsp;The BulwarkTrump’s Claims About Greenland&nbsp;&nbsp;FactCheck.org"
 summary: "Trump tells one history of Greenland. Historians tell another.&nbsp;&nbsp;The Washington PostTrump insults allies and predecessors with his own view of history&nbsp;&nbsp;CNNWhy Denmark Controls Greenland&nbsp;&nbsp;The Wall Street JournalTrump Sounds a Lot Like You-Know-Who - by Will Saletan&nbsp;&nbsp;The BulwarkTrump’s Claims About Greenland&nbsp;&nbsp;FactCheck.org"
 slug: "trump-tells-one-history-of-greenland-historians-tell-another-the-washington-post"

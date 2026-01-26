@@ -1,6 +1,6 @@
 ---
 title: "Stuck between the US and Russia, Canada must prove it can defend its Arctic territory"
-date: 2026-01-25
+date: 2026-01-26
 description: "Canada has been boosting its forces in the Arctic in the face of new threats - and US concerns. "
 summary: "Canada has been boosting its forces in the Arctic in the face of new threats - and US concerns. "
 slug: "stuck-between-the-us-and-russia-canada-must-prove-it-can-defend-its-arctic-territory"

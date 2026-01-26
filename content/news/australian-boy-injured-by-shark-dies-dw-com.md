@@ -1,0 +1,19 @@
+---
+title: "Australian boy injured by shark dies - DW.com"
+date: 2026-01-26
+description: "Australian boy injured by shark dies&nbsp;&nbsp;DW.comFour shark attacks in two days. Why Australia’s beaches are so dangerous this year&nbsp;&nbsp;CNNAustralian Boy, 12, Dies After Shark Attack Near Sydney&nbsp;&nbsp;The New York TimesAustralian boy, 12, dies following shark attack while swimming at popular cliff-jumping spot&nbsp;&nbsp;New York PostSurfer, 27, Loses His Leg in Shark Attack Compared to a 'Horror Movie’: ‘It’s Eating Me! It’s Killing Me!'&nbsp;&nbsp;People.com"
+summary: "Australian boy injured by shark dies&nbsp;&nbsp;DW.comFour shark attacks in two days. Why Australia’s beaches are so dangerous this year&nbsp;&nbsp;CNNAustralian Boy, 12, Dies After Shark Attack Near Sydney&nbsp;&nbsp;The New York TimesAustralian boy, 12, dies following shark attack while swimming at popular cliff-jumping spot&nbsp;&nbsp;New York PostSurfer, 27, Loses His Leg in Shark Attack Compared to a 'Horror Movie’: ‘It’s Eating Me! It’s Killing Me!'&nbsp;&nbsp;People.com"
+slug: "australian-boy-injured-by-shark-dies-dw-com"
+image: ''
+link: 'https://news.google.com/rss/articles/CBMieEFVX3lxTE1QV1V2dVgtUzAwaTMtbFMxUXdaUHNNcURUWVBROGxiX3F6M1ZZc2c3Yk0tRF82VjZnZHpwT0lEQUJ4cUh4T05NWHNwS2ExODloU3p3YmlZWWU4ZXVqeGJjdDJ5dTRNTUN2SmU4cHFCMDZLVThZeG81TdIBeEFVX3lxTE5MMXJsRkNBQWJ1TzBERVJqeDR6NlBZLWUzNzNBUjM1SEs4a1VXclFGT2RhM0lZZDhZekktSXZXc0xZOVFIZ0FoRVdzaDI5RjdtNVBDM0RhVXFpQ3BSVG53S3AwbDZMeERub2tXUWxQYXFvWkdfeWJTMQ?oc=5'
+source: 'https://news.google.com/rss/topics/CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx1YlY4U0FtVnVHZ0pWVXlnQVAB?hl=en-US&gl=US&ceid=US:en'
+categories:
+- 'news.google.com'
+tags:
+- 'australian'
+- 'injured'
+- 'shark'
+
+draft: false
+---
+<ol><li><a href="https://news.google.com/rss/articles/CBMieEFVX3lxTE1QV1V2dVgtUzAwaTMtbFMxUXdaUHNNcURUWVBROGxiX3F6M1ZZc2c3Yk0tRF82VjZnZHpwT0lEQUJ4cUh4T05NWHNwS2ExODloU3p3YmlZWWU4ZXVqeGJjdDJ5dTRNTUN2SmU4cHFCMDZLVThZeG81TdIBeEFVX3lxTE5MMXJsRkNBQWJ1TzBERVJqeDR6NlBZLWUzNzNBUjM1SEs4a1VXclFGT2RhM0lZZDhZekktSXZXc0xZOVFIZ0FoRVdzaDI5RjdtNVBDM0RhVXFpQ3BSVG53S3AwbDZMeERub2tXUWxQYXFvWkdfeWJTMQ?oc=5" target="_blank">Australian boy injured by shark dies</a>&nbsp;&nbsp;<font color="#6f6f6f">DW.com</font></li><li><a href="https://news.google.com/rss/articles/CBMihwFBVV95cUxNSEV0OGNwdkc4dVZ3cnlJeW81QjJ6OGNuM0o4b3lheUFzaVotYVdGV2Q1TVlvbkIySUl5d2xWQTdPNUpYaXZnVVZyQm9LcU5va3I2a2NtQmctUW9QM0Nkam94S2VPdDYzM0t2THFqZzI5cVlmRk5GdTBtWWc2ekxCRE5LSkctbW8?oc=5" target="_blank">Four shark attacks in two days. Why Australia’s beaches are so dangerous this year</a>&nbsp;&nbsp;<font color="#6f6f6f">CNN</font></li><li><a href="https://news.google.com/rss/articles/CBMikAFBVV95cUxOdF9vSXc3aGJ6aUZaNzAxYTlNNnVIdXI2MU9GRE1DLXItQUhwcUpHVkFLUnZHSlowYkg1am53WDFmRTR5VHBrbGJhelhXaWlqQm9hdGllbW9ZNDdwR1dxbEFKVWV1N1RSN0thT3VvMDRtSGpKWnBaMHpOUG1vY29mQTgwaWNpN1dsTjB3QjRFMXA?oc=5" target="_blank">Australian Boy, 12, Dies After Shark Attack Near Sydney</a>&nbsp;&nbsp;<font color="#6f6f6f">The New York Times</font></li><li><a href="https://news.google.com/rss/articles/CBMivwFBVV95cUxNYVNDRjBBRlN2QU1KQlBNODNrQkFsa3A2U0E5MWQ3aDJrRlBuVEdMbTMtMDIyWXI5ZXRaYXNyQnBhczVKM1ZPUEJCN1p5c3gyRktDNHNNMXMxWWJhVVhFR0N2LXdCeEg5aHg4Rk8xdUZneU9SU1Q2WThwQ3BqLVVvaEgzU09Da1ZvNmRxNFRMVDdPWlY0SWZwRUFHRjA1S25uVEJuWXU5WmFYRlFtaGlQZFBBamRqMGVFMXVTMHFaNA?oc=5" target="_blank">Australian boy, 12, dies following shark attack while swimming at popular cliff-jumping spot</a>&nbsp;&nbsp;<font color="#6f6f6f">New York Post</font></li><li><a href="https://news.google.com/rss/articles/CBMilwFBVV95cUxQcnlwVF81Um8weW80Z09rTnJDcGYwcThPeW1FVTJLV08xcUMzV3VDU3FBdlRMM250MlFiSHlyd0FOUXpEb3BzS1VsaXhZaG80NUpQNUc0ajQ4VTNtWlRNNUduU3ZWY1pnakt2Z3NqeFFPUm1mMWp6Ml93MDdFNzNuOURzMF9hSXU1WFhhZW9MSTc2T0xxRjJj?oc=5" target="_blank">Surfer, 27, Loses His Leg in Shark Attack Compared to a 'Horror Movie’: ‘It’s Eating Me! It’s Killing Me!'</a>&nbsp;&nbsp;<font color="#6f6f6f">People.com</font></li></ol>

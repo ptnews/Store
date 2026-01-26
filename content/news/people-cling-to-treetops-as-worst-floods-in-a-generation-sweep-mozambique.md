@@ -1,6 +1,6 @@
 ---
 title: "People cling to treetops as 'worst floods in a generation' sweep Mozambique"
-date: 2026-01-25
+date: 2026-01-26
 description: "The worst flooding in a generation hits Mozambique with teams from Brazil, South Africa and the UK helping with the rescue."
 summary: "The worst flooding in a generation hits Mozambique with teams from Brazil, South Africa and the UK helping with the rescue."
 slug: "people-cling-to-treetops-as-worst-floods-in-a-generation-sweep-mozambique"

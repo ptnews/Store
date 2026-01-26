@@ -1,6 +1,6 @@
 ---
 title: "Venezuela frees dozens of political prisoners, human rights group says"
-date: 2026-01-25
+date: 2026-01-26
 description: "It is the latest batch of detainees freed since the US seized Venezuelan President Nicolás Maduro in a raid."
 summary: "It is the latest batch of detainees freed since the US seized Venezuelan President Nicolás Maduro in a raid."
 slug: "venezuela-frees-dozens-of-political-prisoners-human-rights-group-says"

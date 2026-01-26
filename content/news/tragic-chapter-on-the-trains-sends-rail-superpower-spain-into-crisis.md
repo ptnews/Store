@@ -1,6 +1,6 @@
 ---
 title: "Tragic chapter on the trains sends rail superpower Spain into crisis"
-date: 2026-01-25
+date: 2026-01-26
 description: "Spain's vaunted reputation for its high-speed network has been humbled by disaster on the railways."
 summary: "Spain's vaunted reputation for its high-speed network has been humbled by disaster on the railways."
 slug: "tragic-chapter-on-the-trains-sends-rail-superpower-spain-into-crisis"

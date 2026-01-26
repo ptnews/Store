@@ -1,6 +1,6 @@
 ---
 title: "Iran Update, January 24, 2026 - Institute for the Study of War"
-date: 2026-01-25
+date: 2026-01-26
 description: "Iran Update, January 24, 2026&nbsp;&nbsp;Institute for the Study of WarIran Update, January 22, 2026&nbsp;&nbsp;Institute for the Study of WarIran News in Brief – January 24, 2026&nbsp;&nbsp;National Council of Resistance of Iran - NCRINames That Must Not Be Forgotten: Women Who Lost Their Lives in Iran’s January 2026 Uprising&nbsp;&nbsp;NCRI Women CommitteeIranian Opposition Leader to Newsmax: Rebellion Is 'Unabated and Irreversible'…&nbsp;&nbsp;maryam-rajavi.com"
 summary: "Iran Update, January 24, 2026&nbsp;&nbsp;Institute for the Study of WarIran Update, January 22, 2026&nbsp;&nbsp;Institute for the Study of WarIran News in Brief – January 24, 2026&nbsp;&nbsp;National Council of Resistance of Iran - NCRINames That Must Not Be Forgotten: Women Who Lost Their Lives in Iran’s January 2026 Uprising&nbsp;&nbsp;NCRI Women CommitteeIranian Opposition Leader to Newsmax: Rebellion Is 'Unabated and Irreversible'…&nbsp;&nbsp;maryam-rajavi.com"
 slug: "iran-update-january-24-2026-institute-for-the-study-of-war"

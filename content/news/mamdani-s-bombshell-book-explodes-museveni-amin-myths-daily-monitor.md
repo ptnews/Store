@@ -1,6 +1,6 @@
 ---
 title: "Mamdani’s bombshell book explodes Museveni, Amin myths - Daily Monitor"
-date: 2026-01-25
+date: 2026-01-26
 description: "Mamdani’s bombshell book explodes Museveni, Amin myths&nbsp;&nbsp;Daily MonitorKamukunji MP Yusuf Hassan hails Mahmood Mamdani as Pan‑Africanist during 'Slow Poison' book launch&nbsp;&nbsp;The Eastleigh VoiceThe Making and Breaking of Uganda: An Interview With Mahmood Mamdani&nbsp;&nbsp;TheWire.inEXTRACT | Mahmood Mamdani: Amin, Museveni, and the ‘slow poison’ in Uganda’s blood&nbsp;&nbsp;News24Slow Poison: Idi Amin, Yoweri Museveni, and the Making of the Ugandan State&nbsp;&nbsp;theel..."
 summary: "Mamdani’s bombshell book explodes Museveni, Amin myths&nbsp;&nbsp;Daily MonitorKamukunji MP Yusuf Hassan hails Mahmood Mamdani as Pan‑Africanist during 'Slow Poison' book launch&nbsp;&nbsp;The Eastleigh VoiceThe Making and Breaking of Uganda: An Interview With Mahmood Mamdani&nbsp;&nbsp;TheWire.inEXTRACT | Mahmood Mamdani: Amin, Museveni, and the ‘slow poison’ in Uganda’s blood&nbsp;&nbsp;News24Slow Poison: Idi Amin, Yoweri Museveni, and the Making of the Ugandan State&nbsp;&nbsp;theel..."
 slug: "mamdani-s-bombshell-book-explodes-museveni-amin-myths-daily-monitor"

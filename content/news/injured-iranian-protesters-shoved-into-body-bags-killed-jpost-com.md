@@ -1,6 +1,6 @@
 ---
 title: "Injured Iranian protesters shoved into body bags, killed - jpost.com"
-date: 2026-01-25
+date: 2026-01-26
 description: "Injured Iranian protesters shoved into body bags, killed&nbsp;&nbsp;jpost.comIranian teen hid in body bag among slain protestors to survive - rights group | Iran International&nbsp;&nbsp;ایران اینترنشنالDisturbing video from Iran shows father searching for son among bodies | Content warning&nbsp;&nbsp;ynetnews.comIran: Three Days of Life Among Piled-Up Corpses in Kahrizak&nbsp;&nbsp;Iran FocusIran: Eyewitnesses Describe Body Bags, ‘Finishing Shots,’ and a Nationwide Cover-Up&n..."
 summary: "Injured Iranian protesters shoved into body bags, killed&nbsp;&nbsp;jpost.comIranian teen hid in body bag among slain protestors to survive - rights group | Iran International&nbsp;&nbsp;ایران اینترنشنالDisturbing video from Iran shows father searching for son among bodies | Content warning&nbsp;&nbsp;ynetnews.comIran: Three Days of Life Among Piled-Up Corpses in Kahrizak&nbsp;&nbsp;Iran FocusIran: Eyewitnesses Describe Body Bags, ‘Finishing Shots,’ and a Nationwide Cover-Up&n..."
 slug: "injured-iranian-protesters-shoved-into-body-bags-killed-jpost-com"

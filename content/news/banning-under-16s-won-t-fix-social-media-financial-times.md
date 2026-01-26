@@ -1,6 +1,6 @@
 ---
 title: "Banning under-16s won’t fix social media - Financial Times"
-date: 2026-01-25
+date: 2026-01-26
 description: "Banning under-16s won’t fix social media&nbsp;&nbsp;Financial TimesBereaved parents fear delays to social media ban could harm children&nbsp;&nbsp;BBCI research the harm that can come to teenagers on social media. I don’t support a ban&nbsp;&nbsp;The ConversationGovernment to drive action to improve children’s relationship with mobile phones and social media&nbsp;&nbsp;GOV.UKBritain facing ‘catastrophe’ because of children being addicted to social media, peers told – as it happened&n..."
 summary: "Banning under-16s won’t fix social media&nbsp;&nbsp;Financial TimesBereaved parents fear delays to social media ban could harm children&nbsp;&nbsp;BBCI research the harm that can come to teenagers on social media. I don’t support a ban&nbsp;&nbsp;The ConversationGovernment to drive action to improve children’s relationship with mobile phones and social media&nbsp;&nbsp;GOV.UKBritain facing ‘catastrophe’ because of children being addicted to social media, peers told – as it happened&n..."
 slug: "banning-under-16s-won-t-fix-social-media-financial-times"

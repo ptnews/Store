@@ -1,6 +1,6 @@
 ---
 title: "Party backed by generals set for landslide as 'sham' Myanmar election ends"
-date: 2026-01-25
+date: 2026-01-26
 description: "Many parties were banned and there was no voting in about half the country which is gripped by fear and civil war."
 summary: "Many parties were banned and there was no voting in about half the country which is gripped by fear and civil war."
 slug: "party-backed-by-generals-set-for-landslide-as-sham-myanmar-election-ends"

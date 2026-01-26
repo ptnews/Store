@@ -1,6 +1,6 @@
 ---
 title: "One of Russia's Last 'Old Believers' Still Lives in Siberia - Newser"
-date: 2026-01-25
+date: 2026-01-26
 description: "One of Russia's Last 'Old Believers' Still Lives in Siberia&nbsp;&nbsp;Newser"
 summary: "One of Russia's Last 'Old Believers' Still Lives in Siberia&nbsp;&nbsp;Newser"
 slug: "one-of-russia-s-last-old-believers-still-lives-in-siberia-newser"

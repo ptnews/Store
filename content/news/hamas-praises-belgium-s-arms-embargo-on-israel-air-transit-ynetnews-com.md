@@ -1,6 +1,6 @@
 ---
 title: "Hamas praises Belgium’s arms embargo on Israel air transit - ynetnews.com"
-date: 2026-01-25
+date: 2026-01-26
 description: "Hamas praises Belgium’s arms embargo on Israel air transit&nbsp;&nbsp;ynetnews.comBelgium imposes arms embargo on Israel&nbsp;&nbsp;Anadolu AjansıHamas hails Belgian ban on military supplies to 'Israel'&nbsp;&nbsp;Roya News(DFLP) called for following Belgium's example in banning arms exports and transfers to Israel&nbsp;&nbsp;www.saba.yeBelgium: Royal decree imposes comprehensive ban on export, transfer of weapons & military equipment to \"Israel\"&nbsp;&nbsp;www.saba.ye"
 summary: "Hamas praises Belgium’s arms embargo on Israel air transit&nbsp;&nbsp;ynetnews.comBelgium imposes arms embargo on Israel&nbsp;&nbsp;Anadolu AjansıHamas hails Belgian ban on military supplies to 'Israel'&nbsp;&nbsp;Roya News(DFLP) called for following Belgium's example in banning arms exports and transfers to Israel&nbsp;&nbsp;www.saba.yeBelgium: Royal decree imposes comprehensive ban on export, transfer of weapons & military equipment to \"Israel\"&nbsp;&nbsp;www.saba.ye"
 slug: "hamas-praises-belgium-s-arms-embargo-on-israel-air-transit-ynetnews-com"

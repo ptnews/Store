@@ -1,6 +1,6 @@
 ---
 title: "Trump keeps posting private messages on Truth Social, more proof that work chats are never truly private - Business Insider"
-date: 2026-01-25
+date: 2026-01-26
 description: "Trump keeps posting private messages on Truth Social, more proof that work chats are never truly private&nbsp;&nbsp;Business InsiderTrump keeps Macron under spotlight as Greenland talks grind forward from Davos&nbsp;&nbsp;Fox NewsExclusive | Trump tells The Post why he posted Emmanuel Macron’s private text message — and says he stopped wild Syria prison break by terrorists&nbsp;&nbsp;New York PostTrump leaks world leaders' messages. And, Indiana wins its first national title&nbsp;&nbsp;NPRTr..."
 summary: "Trump keeps posting private messages on Truth Social, more proof that work chats are never truly private&nbsp;&nbsp;Business InsiderTrump keeps Macron under spotlight as Greenland talks grind forward from Davos&nbsp;&nbsp;Fox NewsExclusive | Trump tells The Post why he posted Emmanuel Macron’s private text message — and says he stopped wild Syria prison break by terrorists&nbsp;&nbsp;New York PostTrump leaks world leaders' messages. And, Indiana wins its first national title&nbsp;&nbsp;NPRTr..."
 slug: "trump-keeps-posting-private-messages-on-truth-social-more-proof-that-work-chats-are-never-truly-private-business-insider"

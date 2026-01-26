@@ -1,6 +1,6 @@
 ---
 title: "Video shows moments around fatal shooting of Alex Pretti in Minneapolis"
-date: 2026-01-25
+date: 2026-01-26
 description: "Bystander footage has captured the seconds before the killing of 37-year-old Alex Pretti. "
 summary: "Bystander footage has captured the seconds before the killing of 37-year-old Alex Pretti. "
 slug: "video-shows-moments-around-fatal-shooting-of-alex-pretti-in-minneapolis"

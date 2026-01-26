@@ -1,6 +1,6 @@
 ---
 title: "Israel demands full staff list as Doctors Without Borders agrees to partial disclosure after terror claims - ynetnews.com"
-date: 2026-01-25
+date: 2026-01-26
 description: "Israel demands full staff list as Doctors Without Borders agrees to partial disclosure after terror claims&nbsp;&nbsp;ynetnews.comMSF agrees to provide Palestinian staff list to Israel&nbsp;&nbsp;jpost.comMSF statement on staff registration and the continuation of medical care in the Occupied Palestinian Territory&nbsp;&nbsp;Doctors Without BordersIsrael is trying to evict Doctors Without Borders from Gaza&nbsp;&nbsp;Le Monde.frDespite ceasefire, Israel’s siege allowing only a trickle of aid i..."
 summary: "Israel demands full staff list as Doctors Without Borders agrees to partial disclosure after terror claims&nbsp;&nbsp;ynetnews.comMSF agrees to provide Palestinian staff list to Israel&nbsp;&nbsp;jpost.comMSF statement on staff registration and the continuation of medical care in the Occupied Palestinian Territory&nbsp;&nbsp;Doctors Without BordersIsrael is trying to evict Doctors Without Borders from Gaza&nbsp;&nbsp;Le Monde.frDespite ceasefire, Israel’s siege allowing only a trickle of aid i..."
 slug: "israel-demands-full-staff-list-as-doctors-without-borders-agrees-to-partial-disclosure-after-terror-claims-ynetnews-com"

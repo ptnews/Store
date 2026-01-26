@@ -1,6 +1,6 @@
 ---
 title: "Cosmetic doctor sorry for picking apart singer Troye Sivan's looks on TikTok"
-date: 2026-01-25
+date: 2026-01-26
 description: "The singer hit out at Dr Zayn Khalid Majeed - who says he will try to have a positive impact with his content."
 summary: "The singer hit out at Dr Zayn Khalid Majeed - who says he will try to have a positive impact with his content."
 slug: "cosmetic-doctor-sorry-for-picking-apart-singer-troye-sivan-s-looks-on-tiktok"

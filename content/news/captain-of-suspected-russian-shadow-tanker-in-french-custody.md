@@ -1,6 +1,6 @@
 ---
 title: "Captain of suspected Russian shadow tanker in French custody"
-date: 2026-01-25
+date: 2026-01-26
 description: "French officials seized the tanker, named the Grinch, in the Mediterranean Sea on Thursday."
 summary: "French officials seized the tanker, named the Grinch, in the Mediterranean Sea on Thursday."
 slug: "captain-of-suspected-russian-shadow-tanker-in-french-custody"

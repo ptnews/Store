@@ -1,6 +1,6 @@
 ---
 title: "‘SNL’ Weekend Update Roasts ‘Psycho’ Trump for Stalking Greenland - Rolling Stone"
-date: 2026-01-25
+date: 2026-01-26
 description: "‘SNL’ Weekend Update Roasts ‘Psycho’ Trump for Stalking Greenland&nbsp;&nbsp;Rolling StoneBill Maher Compares Donald Trump's Greenland Deal to Dog Throwing Up & Eating It&nbsp;&nbsp;TV InsiderCheers and Jeers: Rum and Coke FRIDAY!&nbsp;&nbsp;Daily KosStephen Colbert mocks Donald Trump's 'very vague' plan to 'consummate' Greenland&nbsp;&nbsp;Daily Express USBill Maher Compares Trump To Dog Eating Its Own Throw-Up In First Show Back&nbsp;&nbsp;Yahoo"
 summary: "‘SNL’ Weekend Update Roasts ‘Psycho’ Trump for Stalking Greenland&nbsp;&nbsp;Rolling StoneBill Maher Compares Donald Trump's Greenland Deal to Dog Throwing Up & Eating It&nbsp;&nbsp;TV InsiderCheers and Jeers: Rum and Coke FRIDAY!&nbsp;&nbsp;Daily KosStephen Colbert mocks Donald Trump's 'very vague' plan to 'consummate' Greenland&nbsp;&nbsp;Daily Express USBill Maher Compares Trump To Dog Eating Its Own Throw-Up In First Show Back&nbsp;&nbsp;Yahoo"
 slug: "snl-weekend-update-roasts-psycho-trump-for-stalking-greenland-rolling-stone"

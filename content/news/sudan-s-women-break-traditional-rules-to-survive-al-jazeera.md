@@ -1,6 +1,6 @@
 ---
 title: "Sudan’s women break ‘traditional rules’ to survive - Al Jazeera"
-date: 2026-01-25
+date: 2026-01-26
 description: "Sudan’s women break ‘traditional rules’ to survive&nbsp;&nbsp;Al JazeeraSudan's women face 'world's worst' sexual violence amid brutal conflict, minister says&nbsp;&nbsp;France 24Aid workers, women say they face brunt of violence in Sudan amid deadly conflict&nbsp;&nbsp;ABC NewsUN: Sexual Violence Used As Weapon of War In Sudan&nbsp;&nbsp;WIONRape victims including 4-year-old left bleeding in gunpoint attack&nbsp;&nbsp;Daily Express US"
 summary: "Sudan’s women break ‘traditional rules’ to survive&nbsp;&nbsp;Al JazeeraSudan's women face 'world's worst' sexual violence amid brutal conflict, minister says&nbsp;&nbsp;France 24Aid workers, women say they face brunt of violence in Sudan amid deadly conflict&nbsp;&nbsp;ABC NewsUN: Sexual Violence Used As Weapon of War In Sudan&nbsp;&nbsp;WIONRape victims including 4-year-old left bleeding in gunpoint attack&nbsp;&nbsp;Daily Express US"
 slug: "sudan-s-women-break-traditional-rules-to-survive-al-jazeera"

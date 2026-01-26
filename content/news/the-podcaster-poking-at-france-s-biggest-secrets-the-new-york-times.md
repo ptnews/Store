@@ -1,6 +1,6 @@
 ---
 title: "The Podcaster Poking at France’s Biggest Secrets - The New York Times"
-date: 2026-01-25
+date: 2026-01-26
 description: "The Podcaster Poking at France’s Biggest Secrets&nbsp;&nbsp;The New York Times"
 summary: "The Podcaster Poking at France’s Biggest Secrets&nbsp;&nbsp;The New York Times"
 slug: "the-podcaster-poking-at-france-s-biggest-secrets-the-new-york-times"

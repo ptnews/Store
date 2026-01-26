@@ -1,6 +1,6 @@
 ---
 title: "‘I wish I had the power to ease his suffering’: Gaza’s cancer patients trapped by war and blockade - The Guardian"
-date: 2026-01-25
+date: 2026-01-26
 description: "‘I wish I had the power to ease his suffering’: Gaza’s cancer patients trapped by war and blockade&nbsp;&nbsp;The GuardianThey survived the bombs, but not the virus: Fatal illness spreads in Gaza&nbsp;&nbsp;middleeasteye.netGaza NGOs: 18,500 patients, injured individuals require immediate medical evacuation&nbsp;&nbsp;Press TVUNICEF and WHO Joint Statement: Second Round of Routine Immunization Catch-up Campaign Begins in the Gaza Strip&nbsp;&nbsp;Unicef5,000+ children in Gaza are at risk o..."
 summary: "‘I wish I had the power to ease his suffering’: Gaza’s cancer patients trapped by war and blockade&nbsp;&nbsp;The GuardianThey survived the bombs, but not the virus: Fatal illness spreads in Gaza&nbsp;&nbsp;middleeasteye.netGaza NGOs: 18,500 patients, injured individuals require immediate medical evacuation&nbsp;&nbsp;Press TVUNICEF and WHO Joint Statement: Second Round of Routine Immunization Catch-up Campaign Begins in the Gaza Strip&nbsp;&nbsp;Unicef5,000+ children in Gaza are at risk o..."
 slug: "i-wish-i-had-the-power-to-ease-his-suffering-gaza-s-cancer-patients-trapped-by-war-and-blockade-the-guardian"

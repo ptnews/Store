@@ -1,6 +1,6 @@
 ---
 title: "Climber Alex Honnold scales 101-floor skyscraper without safety gear"
-date: 2026-01-25
+date: 2026-01-26
 description: "Alex Honnold has become the first person to climb the Taiwanese building alone without safety equipment."
 summary: "Alex Honnold has become the first person to climb the Taiwanese building alone without safety equipment."
 slug: "climber-alex-honnold-scales-101-floor-skyscraper-without-safety-gear"

@@ -1,6 +1,6 @@
 ---
 title: "Analysing the Minneapolis shooting frame by frame"
-date: 2026-01-25
+date: 2026-01-26
 description: "BBC Verify has analysed footage of the shooting from multiple angles, piecing together a detailed picture of what happened."
 summary: "BBC Verify has analysed footage of the shooting from multiple angles, piecing together a detailed picture of what happened."
 slug: "analysing-the-minneapolis-shooting-frame-by-frame"

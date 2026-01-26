@@ -1,6 +1,6 @@
 ---
 title: "Crowds bid farewell to Japan’s last pandas before return to China amid souring ties - CNN"
-date: 2026-01-25
+date: 2026-01-26
 description: "Crowds bid farewell to Japan’s last pandas before return to China amid souring ties&nbsp;&nbsp;CNNThe last 2 pandas in Japan are leaving for China as ties are strained&nbsp;&nbsp;NBC NewsCrowds flock to Tokyo zoo to see pandas before they leave for China&nbsp;&nbsp;ReutersBlack and white and sent back over: end of panda diplomacy as Japan returns bears to China&nbsp;&nbsp;The GuardianThe last two pandas in Japan are leaving for China as ties are strained&nbsp;&nbsp;ABC News"
 summary: "Crowds bid farewell to Japan’s last pandas before return to China amid souring ties&nbsp;&nbsp;CNNThe last 2 pandas in Japan are leaving for China as ties are strained&nbsp;&nbsp;NBC NewsCrowds flock to Tokyo zoo to see pandas before they leave for China&nbsp;&nbsp;ReutersBlack and white and sent back over: end of panda diplomacy as Japan returns bears to China&nbsp;&nbsp;The GuardianThe last two pandas in Japan are leaving for China as ties are strained&nbsp;&nbsp;ABC News"
 slug: "crowds-bid-farewell-to-japan-s-last-pandas-before-return-to-china-amid-souring-ties-cnn"

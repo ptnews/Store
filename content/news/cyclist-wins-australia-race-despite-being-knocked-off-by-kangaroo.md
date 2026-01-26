@@ -1,6 +1,6 @@
 ---
 title: "Cyclist wins Australia race despite being knocked off by Kangaroo"
-date: 2026-01-25
+date: 2026-01-26
 description: "Australian Jay Vine wins the Tour Down Under - despite being knocked off his bike in a crash caused by a kangaroo."
 summary: "Australian Jay Vine wins the Tour Down Under - despite being knocked off his bike in a crash caused by a kangaroo."
 slug: "cyclist-wins-australia-race-despite-being-knocked-off-by-kangaroo"

@@ -1,6 +1,6 @@
 ---
 title: "China's Ambitious Man-Made Island Now 'a Dead Zone' - Newser"
-date: 2026-01-25
+date: 2026-01-26
 description: "China's Ambitious Man-Made Island Now 'a Dead Zone'&nbsp;&nbsp;NewserView Full Coverage on Google News"
 summary: "China's Ambitious Man-Made Island Now 'a Dead Zone'&nbsp;&nbsp;NewserView Full Coverage on Google News"
 slug: "china-s-ambitious-man-made-island-now-a-dead-zone-newser"

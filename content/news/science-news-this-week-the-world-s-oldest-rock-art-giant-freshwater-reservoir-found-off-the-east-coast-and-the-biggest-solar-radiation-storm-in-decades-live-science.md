@@ -1,6 +1,6 @@
 ---
 title: "Science news this week: The world's oldest rock art, giant freshwater reservoir found off the East Coast, and the biggest solar radiation storm in decades - Live Science"
-date: 2026-01-25
+date: 2026-01-26
 description: "Science news this week: The world's oldest rock art, giant freshwater reservoir found off the East Coast, and the biggest solar radiation storm in decades&nbsp;&nbsp;Live ScienceRock art from at least 67,800 years ago in Sulawesi&nbsp;&nbsp;NatureThis 67,800-year-old hand stencil is the world’s oldest human-made art&nbsp;&nbsp;Ars TechnicaThe world’s oldest rock art discovered in Indonesia&nbsp;&nbsp;National GeographicOldest cave painting of red claw hand could rewrite human creativity time..."
 summary: "Science news this week: The world's oldest rock art, giant freshwater reservoir found off the East Coast, and the biggest solar radiation storm in decades&nbsp;&nbsp;Live ScienceRock art from at least 67,800 years ago in Sulawesi&nbsp;&nbsp;NatureThis 67,800-year-old hand stencil is the world’s oldest human-made art&nbsp;&nbsp;Ars TechnicaThe world’s oldest rock art discovered in Indonesia&nbsp;&nbsp;National GeographicOldest cave painting of red claw hand could rewrite human creativity time..."
 slug: "science-news-this-week-the-world-s-oldest-rock-art-giant-freshwater-reservoir-found-off-the-east-coast-and-the-biggest-solar-radiation-storm-in-decades-live-science"

@@ -1,6 +1,6 @@
 ---
 title: "Trade an alliance for an island? That’s a bad deal - CNN"
-date: 2026-01-25
+date: 2026-01-26
 description: "Trade an alliance for an island? That’s a bad deal&nbsp;&nbsp;CNN"
 summary: "Trade an alliance for an island? That’s a bad deal&nbsp;&nbsp;CNN"
 slug: "trade-an-alliance-for-an-island-that-s-a-bad-deal-cnn"

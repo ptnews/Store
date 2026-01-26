@@ -1,6 +1,6 @@
 ---
 title: "Sir Mark Tully, the BBC's 'voice of India', dies aged 90"
-date: 2026-01-25
+date: 2026-01-26
 description: "Sir Mark covered some of the defining moments in India's history in a career that spanned decades."
 summary: "Sir Mark covered some of the defining moments in India's history in a career that spanned decades."
 slug: "sir-mark-tully-the-bbc-s-voice-of-india-dies-aged-90"

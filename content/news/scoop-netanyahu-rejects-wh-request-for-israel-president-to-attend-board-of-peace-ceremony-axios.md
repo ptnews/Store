@@ -1,6 +1,6 @@
 ---
 title: "Scoop: Netanyahu rejects WH request for Israel president to attend Board of Peace ceremony - Axios"
-date: 2026-01-25
+date: 2026-01-26
 description: "Scoop: Netanyahu rejects WH request for Israel president to attend Board of Peace ceremony&nbsp;&nbsp;AxiosNetanyahu said to have barred Herzog from appearing at Trump’s Board of Peace unveiling&nbsp;&nbsp;timesofisrael.comBoard of Peace: Netanyahu’s dangerous submission to Donald Trump&nbsp;&nbsp;jpost.comIn Davos, Herzog Chose Netanyahu Over Israel's Rule of Law&nbsp;&nbsp;HaaretzDoes Board of Peace Threaten Israel&nbsp;&nbsp;Al Arabiya English"
 summary: "Scoop: Netanyahu rejects WH request for Israel president to attend Board of Peace ceremony&nbsp;&nbsp;AxiosNetanyahu said to have barred Herzog from appearing at Trump’s Board of Peace unveiling&nbsp;&nbsp;timesofisrael.comBoard of Peace: Netanyahu’s dangerous submission to Donald Trump&nbsp;&nbsp;jpost.comIn Davos, Herzog Chose Netanyahu Over Israel's Rule of Law&nbsp;&nbsp;HaaretzDoes Board of Peace Threaten Israel&nbsp;&nbsp;Al Arabiya English"
 slug: "scoop-netanyahu-rejects-wh-request-for-israel-president-to-attend-board-of-peace-ceremony-axios"

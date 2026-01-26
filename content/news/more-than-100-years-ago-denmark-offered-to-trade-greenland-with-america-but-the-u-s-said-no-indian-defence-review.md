@@ -1,6 +1,6 @@
 ---
 title: "More Than 100 Years Ago, Denmark Offered to trade Greenland with America, But The U.S. Said \"No\" - Indian Defence Review"
-date: 2026-01-25
+date: 2026-01-26
 description: "More Than 100 Years Ago, Denmark Offered to trade Greenland with America, But The U.S. Said \"No\"&nbsp;&nbsp;Indian Defence ReviewThese islands were bought by US. Now they have a message for Greenland.&nbsp;&nbsp;USA TodayLast time the US bought land from Denmark, Epstein’s island was purchased&nbsp;&nbsp;New York PostTrump’s desire for Greenland is nothing new in US history, DC professor explains&nbsp;&nbsp;wtop.com'Manifest destiny' - Trump revives US expansionism&nbsp;&nbsp;RTE.ie"
 summary: "More Than 100 Years Ago, Denmark Offered to trade Greenland with America, But The U.S. Said \"No\"&nbsp;&nbsp;Indian Defence ReviewThese islands were bought by US. Now they have a message for Greenland.&nbsp;&nbsp;USA TodayLast time the US bought land from Denmark, Epstein’s island was purchased&nbsp;&nbsp;New York PostTrump’s desire for Greenland is nothing new in US history, DC professor explains&nbsp;&nbsp;wtop.com'Manifest destiny' - Trump revives US expansionism&nbsp;&nbsp;RTE.ie"
 slug: "more-than-100-years-ago-denmark-offered-to-trade-greenland-with-america-but-the-u-s-said-no-indian-defence-review"
