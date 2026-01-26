@@ -1,8 +1,8 @@
 ---
 title: "Trump says US Justice Department ‘looking at’ Ilhan Omar’s wealth"
 date: 2026-01-26
-description: "Donald Trump says he is sending his border czar Tom Homan to Minnesota amid protests against the killing of Alex Pretti."
-summary: "Donald Trump says he is sending his border czar Tom Homan to Minnesota amid protests against the killing of Alex Pretti."
+description: "Somali American congresswoman accuses US president of deflecting from his own &#039;failures&#039; with &#039;conspiracy theories&#039;."
+summary: "Somali American congresswoman accuses US president of deflecting from his own &#039;failures&#039; with &#039;conspiracy theories&#039;."
 slug: "trump-says-us-justice-department-looking-at-ilhan-omar-s-wealth"
 image: ''
 link: 'https://www.aljazeera.com/news/2026/1/26/trump-says-justice-department-looking-at-ilhan-omars-wealth?traffic_source=rss'
@@ -18,4 +18,4 @@ tags:
 
 draft: false
 ---
-Donald Trump says he is sending his border czar Tom Homan to Minnesota amid protests against the killing of Alex Pretti.
+Somali American congresswoman accuses US president of deflecting from his own &#039;failures&#039; with &#039;conspiracy theories&#039;.

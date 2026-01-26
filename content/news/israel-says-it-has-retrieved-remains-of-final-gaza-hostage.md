@@ -1,8 +1,8 @@
 ---
 title: "Israel says it has retrieved remains of final Gaza hostage"
 date: 2026-01-26
-description: "The development paves the way for the next phase of US President Donald Trump's peace plan to get under way."
-summary: "The development paves the way for the next phase of US President Donald Trump's peace plan to get under way."
+description: "Israeli Prime Minister Benjamin Netanyahu called Ran Gvili’s return \"an extraordinary achievement\"."
+summary: "Israeli Prime Minister Benjamin Netanyahu called Ran Gvili’s return \"an extraordinary achievement\"."
 slug: "israel-says-it-has-retrieved-remains-of-final-gaza-hostage"
 image: ''
 link: 'https://www.bbc.com/news/articles/c5ydvz7nz4mo?at_medium=RSS&at_campaign=rss'
@@ -18,4 +18,4 @@ tags:
 
 draft: false
 ---
-The development paves the way for the next phase of US President Donald Trump's peace plan to get under way.
+Israeli Prime Minister Benjamin Netanyahu called Ran Gvili’s return "an extraordinary achievement".
