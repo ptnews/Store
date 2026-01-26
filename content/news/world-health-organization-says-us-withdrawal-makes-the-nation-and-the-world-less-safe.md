@@ -1,8 +1,8 @@
 ---
 title: "World Health Organization says US withdrawal makes the nation and the world 'less safe'"
 date: 2026-01-26
-description: "The World Health Organization claimed that the U.S. withdrawal makes the nation and the entire globe &quot;less safe,&quot; and that it hopes the U.S. &quot;will return to active participation in WHO&quot;"
-summary: "The World Health Organization claimed that the U.S. withdrawal makes the nation and the entire globe &quot;less safe,&quot; and that it hopes the U.S. &quot;will return to active participation in WHO&quot;"
+description: "The World Health Organization claimed that the U.S. withdrawal makes the nation and the entire globe &quot;less safe&quot; and that it hopes the U.S. &quot;will return to active participation in WHO.&quot;"
+summary: "The World Health Organization claimed that the U.S. withdrawal makes the nation and the entire globe &quot;less safe&quot; and that it hopes the U.S. &quot;will return to active participation in WHO.&quot;"
 slug: "world-health-organization-says-us-withdrawal-makes-the-nation-and-the-world-less-safe"
 image: ''
 link: 'https://www.foxnews.com/politics/world-health-organization-says-us-withdrawal-makes-nation-world-less-safe'
