@@ -1,0 +1,21 @@
+---
+title: "Xi’s Purge of Top General Spurs Questions on Taiwan, Succession - Bloomberg.com"
+date: 2026-01-26
+description: "Xi’s Purge of Top General Spurs Questions on Taiwan, Succession&nbsp;&nbsp;Bloomberg.comExclusive | China’s Top General Accused of Giving Nuclear Secrets to U.S. - WSJ&nbsp;&nbsp;The Wall Street JournalHow a purge of China's military leadership could impact the army and the future of Taiwan&nbsp;&nbsp;10tv.comTaiwan monitoring 'abnormal' China military leadership changes after top general put under investigation&nbsp;&nbsp;ReutersChina’s top ranking general under investigation for alleged ..."
+summary: "Xi’s Purge of Top General Spurs Questions on Taiwan, Succession&nbsp;&nbsp;Bloomberg.comExclusive | China’s Top General Accused of Giving Nuclear Secrets to U.S. - WSJ&nbsp;&nbsp;The Wall Street JournalHow a purge of China's military leadership could impact the army and the future of Taiwan&nbsp;&nbsp;10tv.comTaiwan monitoring 'abnormal' China military leadership changes after top general put under investigation&nbsp;&nbsp;ReutersChina’s top ranking general under investigation for alleged ..."
+slug: "xi-s-purge-of-top-general-spurs-questions-on-taiwan-succession-bloomberg-com"
+image: ''
+link: 'https://news.google.com/rss/articles/CBMiswFBVV95cUxNbGlyZUwwR3oyVERVWFRodlVEZm1LWFFFWmVOXzBRYUFMQXRaOEstVE9tc2hDUEFCMzF0M2U4MnQ2cERSa3pDQ2dqNlcwWnFPdVNLemVad01GWUxRTUowU2dBcXd2NkpsYmtLVDMyZTVGc2RtNlhtZ1dZSDg1ODFhdFdBMEJjalFEREJiWkUwSmNqTlFCWGpzc19NNHRfWkVLb1ducTByNjJ1YkZIaXh2bDRScw?oc=5'
+source: 'https://news.google.com/rss/topics/CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx1YlY4U0FtVnVHZ0pWVXlnQVAB?hl=en-US&gl=US&ceid=US:en'
+categories:
+- 'news.google.com'
+tags:
+- 'succession'
+- 'questions'
+- 'bloomberg'
+- 'general'
+- 'taiwan'
+
+draft: false
+---
+<ol><li><a href="https://news.google.com/rss/articles/CBMiswFBVV95cUxNbGlyZUwwR3oyVERVWFRodlVEZm1LWFFFWmVOXzBRYUFMQXRaOEstVE9tc2hDUEFCMzF0M2U4MnQ2cERSa3pDQ2dqNlcwWnFPdVNLemVad01GWUxRTUowU2dBcXd2NkpsYmtLVDMyZTVGc2RtNlhtZ1dZSDg1ODFhdFdBMEJjalFEREJiWkUwSmNqTlFCWGpzc19NNHRfWkVLb1ducTByNjJ1YkZIaXh2bDRScw?oc=5" target="_blank">Xi’s Purge of Top General Spurs Questions on Taiwan, Succession</a>&nbsp;&nbsp;<font color="#6f6f6f">Bloomberg.com</font></li><li><a href="https://news.google.com/rss/articles/CBMiogFBVV95cUxNT09uT2I0RjJkeVJ1YTRBNWxqOWtVOE1BSllGOUhZV2NINTFVQU1FXzlRM3BpaF8yWTJkWmVPYXBscGNNTENDZk85bmE5a0xJTEFGVVE3RVFHZURkRnRDVmZ4b0tBQ3hqb05mYTRfbXd6LXNITzdlTDY4UmFySnRnYnVUVXp2aWVFaEs3QmNMeGgtZkpTWktVOFh6aFV6QTg0dmc?oc=5" target="_blank">Exclusive | China’s Top General Accused of Giving Nuclear Secrets to U.S. - WSJ</a>&nbsp;&nbsp;<font color="#6f6f6f">The Wall Street Journal</font></li><li><a href="https://news.google.com/rss/articles/CBMilAJBVV95cUxPcEkzNnhsbFh5U2dpQmZaYUkyUlFKUVJBZF81RjVjaFhUS1c0Q0UtOTh4Z0ZfUDFkTXIxSG1XRENRT2F5aElUWlRGbE05bjl6VVcwOHFWLXpJR3lldGdKLXByM0Zsc2M5dEZ5ZzNfbUZWTWl3Q1NCY3VYbjZ2bENTS2dxMzRHdUFKRGZBTnViRHRFUm5KdzVrSkVmMk1TVTZYLUpkSEFLUi1qV3RtUUxUa1YydlkwMzJaMmhNemZ2QmNLUFRxbGxuaTJvclVxYmxfZENVWkFLQVBUY3lxTW8wRlVSdkFmLUUwNHBZZW1OM1NVbWh4N3pSV2hRS2kwRTJKN1VMU21PVTFVUlA4aHJtMWxNemk?oc=5" target="_blank">How a purge of China's military leadership could impact the army and the future of Taiwan</a>&nbsp;&nbsp;<font color="#6f6f6f">10tv.com</font></li><li><a href="https://news.google.com/rss/articles/CBMixAFBVV95cUxPV3JDdlVSQzZPWTJFZlU5OG0tdGgzV3FTX01YWUlrVExjcVJtb0l4TlJVQ3Nzdm5IRGVFOHJlc0o4Z3JUQ0xwMnlZMnl6VUVPdjRKMTlSV3lkblktRDcyVGJ3b2xZV0d3VnhjQ2tiZHZ1SVJubktpY2MycmJFeW1ERUtsdFgzb3F3Xzd4S1FJd1JFOGFwVHBZdEtwX3dkQ0dadmVzS29ZdVVfWGxudjdnMTJteFBRdlUySVpYdWEzWDQ0bUhO?oc=5" target="_blank">Taiwan monitoring 'abnormal' China military leadership changes after top general put under investigation</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font></li><li><a href="https://news.google.com/rss/articles/CBMinwFBVV95cUxQWDRfd3pHSDlEdE15VU9FR0pJNy1xVlpVaC1jMlh4RGR5OTFZQWlkemZSQ1V5NVotMVBTY2h0U2RTVlkzU001b002cUtNbHYwdDNuZWtpNjlCWk5WX0Eyd2daOTZDWVg3U1NhWlM0dGtWdUF5dkpETVVLVWJBaE9ic2xKZTd4OWdFR1NWb0hyZWhJaTAzUVppQmZhdDg1MDA?oc=5" target="_blank">China’s top ranking general under investigation for alleged violations amid ongoing purge of leadership</a>&nbsp;&nbsp;<font color="#6f6f6f">The Guardian</font></li></ol>

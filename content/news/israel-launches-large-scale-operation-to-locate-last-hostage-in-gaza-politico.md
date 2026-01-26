@@ -1,0 +1,21 @@
+---
+title: "Israel launches ‘large-scale operation’ to locate last hostage in Gaza - Politico"
+date: 2026-01-26
+description: "Israel launches ‘large-scale operation’ to locate last hostage in Gaza&nbsp;&nbsp;PoliticoIDF confirms searching for body of Ran Gvili at cemetery in northern Gaza Strip&nbsp;&nbsp;timesofisrael.comBenjamin Netanyahu convenes Israeli cabinet over Rafah crossing&nbsp;&nbsp;jpost.comFamily of last hostage urges Witkoff, Kushner to pressure Hamas, not Israel&nbsp;&nbsp;JNS.orgIDF conducting 'large-scale' search for body of last remaining hostage Ran Gvili in Gaza&nbsp;&nbsp;Haaretz"
+summary: "Israel launches ‘large-scale operation’ to locate last hostage in Gaza&nbsp;&nbsp;PoliticoIDF confirms searching for body of Ran Gvili at cemetery in northern Gaza Strip&nbsp;&nbsp;timesofisrael.comBenjamin Netanyahu convenes Israeli cabinet over Rafah crossing&nbsp;&nbsp;jpost.comFamily of last hostage urges Witkoff, Kushner to pressure Hamas, not Israel&nbsp;&nbsp;JNS.orgIDF conducting 'large-scale' search for body of last remaining hostage Ran Gvili in Gaza&nbsp;&nbsp;Haaretz"
+slug: "israel-launches-large-scale-operation-to-locate-last-hostage-in-gaza-politico"
+image: ''
+link: 'https://news.google.com/rss/articles/CBMiugFBVV95cUxPc3BXQnFFaVY0YlNrUWFfcEoxV2tMVGRDbGtjSGFGemt0Zkx0c1BIaXVNQ0dDcmhTWm5zMk50bWVKUnhTa0NncEVBTnNrUFh2aU50OWt1RXNmbmcybEtSR2E1aks1YXlWWXo2VTBDQUQ1akZsZmhIVzFTaHpjdVNTaHA3ekwwYjRyRGI5SlJvNW5ibGJ3eVlYX2l5WG14bVp2ZGVQcU5QMVYyOTJ2QUpKc01uYkp3ZDFkWGc?oc=5'
+source: 'https://news.google.com/rss/topics/CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx1YlY4U0FtVnVHZ0pWVXlnQVAB?hl=en-US&gl=US&ceid=US:en'
+categories:
+- 'news.google.com'
+tags:
+- 'operation'
+- 'launches'
+- 'politico'
+- 'hostage'
+- 'israel'
+
+draft: false
+---
+<ol><li><a href="https://news.google.com/rss/articles/CBMiugFBVV95cUxPc3BXQnFFaVY0YlNrUWFfcEoxV2tMVGRDbGtjSGFGemt0Zkx0c1BIaXVNQ0dDcmhTWm5zMk50bWVKUnhTa0NncEVBTnNrUFh2aU50OWt1RXNmbmcybEtSR2E1aks1YXlWWXo2VTBDQUQ1akZsZmhIVzFTaHpjdVNTaHA3ekwwYjRyRGI5SlJvNW5ibGJ3eVlYX2l5WG14bVp2ZGVQcU5QMVYyOTJ2QUpKc01uYkp3ZDFkWGc?oc=5" target="_blank">Israel launches ‘large-scale operation’ to locate last hostage in Gaza</a>&nbsp;&nbsp;<font color="#6f6f6f">Politico</font></li><li><a href="https://news.google.com/rss/articles/CBMirwFBVV95cUxPR3RaWEtqN2pRMFBTaDlaVVBldUItR2Judld4MGdZdF9zV2tXU19CUzE5N3JBLUNNSWRzQ19qYk5uNl9FdEpsQlYwZ3Q3NVQtV0R4cUpJVFVwS2dudDRtZEFsZ3p1a09sdmlYWlFNZ1JVQV93SWljbVIxS3FoTlpWOE51ZTZqb3hVN1pLZzA4anRrZWNXVDc4X0Q5d0JDeUpNMDZ1WGVjOGQ2SkkwUEdv0gG0AUFVX3lxTE1qclFqeGFRemFpcGpvc0FDZU80aVZsZFdYUkNfV3RtMnBTd3hUZEFidVNXamdVeHJ5aDYwYmRMbER4VDZwUlN2MEd5UnI2UDdlX1pIX004UE5ZTC01bDhydkFIVEV2QVBvOHc5MFgwTHVEMzVZTDI2SEJNVVJDa3FkWS1OMG43QnYtWHpmbjE5dndkTk5yMm1Mbk5OTktwN2Njald6QWZwdFdoZlhkSW9pQXV3NQ?oc=5" target="_blank">IDF confirms searching for body of Ran Gvili at cemetery in northern Gaza Strip</a>&nbsp;&nbsp;<font color="#6f6f6f">timesofisrael.com</font></li><li><a href="https://news.google.com/rss/articles/CBMiXEFVX3lxTE5NTkE5dmtfYzZlblhsUTNMTkMzZjRORFFEMFpCRjBDNENONkc1V2dMcFBCODlVSU12el9fQnd1YWpjM1VKR2VtaE1YYnhIdmJJZzg0MWxSdlhxVlhJ?oc=5" target="_blank">Benjamin Netanyahu convenes Israeli cabinet over Rafah crossing</a>&nbsp;&nbsp;<font color="#6f6f6f">jpost.com</font></li><li><a href="https://news.google.com/rss/articles/CBMimgFBVV95cUxPNnVfVkpvWnVva1EwTE9UTEZ3WmpuY2x1SnhyZWdVS0hwbklDWlYyWUdJZ1ZpbFhwT1NMVjNpRVRWMUtIbWc1bktlaTl0VjkteFpfUENTUi1ycUhnYnhZcmhqcER4Y3d5cy1Baks2T1YyQUpudWhLNVR2QktzU3M5cFJsLTZ6c0stVnQ3V21uUUhWVVNXNFlhdnpn?oc=5" target="_blank">Family of last hostage urges Witkoff, Kushner to pressure Hamas, not Israel</a>&nbsp;&nbsp;<font color="#6f6f6f">JNS.org</font></li><li><a href="https://news.google.com/rss/articles/CBMiswJBVV95cUxPNXctbldQdVMwWTZuU0dkbVk0N3lXbWJ5clpjZ1ZNMjdhWHRmRk5KRXhpUjFYN25ocDR6Zk9KX1FXYWN1dFNBc1ZGR1JrQ1dpR2JSbG41ZjctT1BrTHYxeXpWbVowcVAyeDVNVE52UVFWa0R0SDhNbk1mbFdaa1FjNG9Uc2lpOHBnU1hNVXlDYl9seXhuZGhBWTROWVRxUlE1aVpDbmZRbXJMczhmbzV0ck5fUF9GQWxzTURsUzRHWmoySmI3M0pYMEhpa2ZtZGUwZzh4cUY3eVFFMjMyOUlZMmJCQXcyY2ZNc1pacXdVNW5yaUt5bXNkN2pQQWFiWEY4M3I5bEhSbkVQaUdOdVZyS3F0S2ExYjI4SWRUTFVDNE82OVZ4TFhfNWNSSUV5MnlHOEVz?oc=5" target="_blank">IDF conducting 'large-scale' search for body of last remaining hostage Ran Gvili in Gaza</a>&nbsp;&nbsp;<font color="#6f6f6f">Haaretz</font></li></ol>
