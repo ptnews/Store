@@ -6,7 +6,7 @@ summary: "Ukraine&apos;s Zelenskyy says U.S. security guarantees document is &qu
 slug: "zelenskyy-says-us-security-guarantees-document-is-100-ready-for-signing"
 image: ''
 link: 'https://www.foxnews.com/world/zelenskyy-says-us-security-guarantees-document-100-ready-signing'
-source: 'https://feeds.foxnews.com/foxnews/latest'
+source: 'https://feeds.foxnews.com/foxnews/world'
 categories:
 - 'feeds.foxnews.com'
 tags:
