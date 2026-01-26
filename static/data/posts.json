@@ -1080,15 +1080,6 @@
     "title": "US begins transferring ISIS detainees from Syria to Iraq amid security transition"
   },
   {
-    "description": "The US president was asked by the Wall Street Journal whether the immigration agent who shot dead a man in Minneapolis had done the right thing.",
-    "image": "",
-    "link": "https://www.bbc.com/news/articles/cr571qg4m61o?at_medium=RSS\u0026at_campaign=rss",
-    "pubDate": "2026-01-26",
-    "slug": "trump-says-administration-reviewing-everything-after-fatal-shooting-of-minneapolis-nurse",
-    "source": "http://feeds.bbci.co.uk/news/world/rss.xml",
-    "title": "Trump says administration 'reviewing everything' after fatal shooting of Minneapolis nurse"
-  },
-  {
     "description": "Two people have been shot dead by federal agents in the city in recent weeks, leaving many angry and frustrated.",
     "image": "",
     "link": "https://www.bbc.com/news/articles/cvg50vv1ezko?at_medium=RSS\u0026at_campaign=rss",
@@ -1096,24 +1087,6 @@
     "slug": "this-is-horrifying-minneapolis-residents-reel-from-second-deadly-shooting",
     "source": "http://feeds.bbci.co.uk/news/world/rss.xml",
     "title": "'This is horrifying' - Minneapolis residents reel from second deadly shooting"
-  },
-  {
-    "description": "He has been described as an avid outdoorsman who loved mountain biking.",
-    "image": "",
-    "link": "https://www.bbc.com/news/articles/c62r4g590wqo?at_medium=RSS\u0026at_campaign=rss",
-    "pubDate": "2026-01-26",
-    "slug": "who-was-alex-pretti-the-intensive-care-nurse-shot-dead-in-minneapolis",
-    "source": "http://feeds.bbci.co.uk/news/world/rss.xml",
-    "title": "Who was Alex Pretti, the intensive care nurse shot dead in Minneapolis?"
-  },
-  {
-    "description": "The gun-lobby group, typically aligned with Trump, criticises a suggestion that those who carry guns risk being lawfully shot.",
-    "image": "",
-    "link": "https://www.bbc.com/news/articles/cnvg812n01no?at_medium=RSS\u0026at_campaign=rss",
-    "pubDate": "2026-01-26",
-    "slug": "nra-and-other-us-gun-activists-push-back-at-trump-officials-over-minneapolis-shooting",
-    "source": "http://feeds.bbci.co.uk/news/world/rss.xml",
-    "title": "NRA and other US gun activists push back at Trump officials over Minneapolis shooting"
   },
   {
     "description": "Almost half of US states have declared emergencies as officials warn of \"life threatening conditions\" that could affect 180 million people.",
@@ -1125,6 +1098,15 @@
     "title": "At least seven dead and 800,000 without power as major winter storm hits US"
   },
   {
+    "description": "Israel's military says its troops are searching for the remains of Ran Gvili, reportedly at a cemetery in northern Gaza.",
+    "image": "",
+    "link": "https://www.bbc.com/news/articles/c801mj1n04lo?at_medium=RSS\u0026at_campaign=rss",
+    "pubDate": "2026-01-26",
+    "slug": "israel-to-reopen-gaza-crossing-after-search-for-last-dead-hostage-s-body-ends",
+    "source": "http://feeds.bbci.co.uk/news/world/rss.xml",
+    "title": "Israel to reopen Gaza crossing after search for last dead hostage's body ends"
+  },
+  {
     "description": "The twin cubs' departure will leave Japan without any pandas for the first time since 1972.",
     "image": "",
     "link": "https://www.bbc.com/news/articles/c8d0l778dero?at_medium=RSS\u0026at_campaign=rss",
@@ -1132,6 +1114,24 @@
     "slug": "tearful-goodbyes-as-japan-returns-pandas-to-china-amid-worsening-ties",
     "source": "http://feeds.bbci.co.uk/news/world/rss.xml",
     "title": "Tearful goodbyes as Japan returns pandas to China amid worsening ties "
+  },
+  {
+    "description": "Barbara Kyagulanyi, married to the opposition leader, says she refused to reveal her husband's whereabouts.",
+    "image": "",
+    "link": "https://www.bbc.com/news/articles/c20zdj8n7vgo?at_medium=RSS\u0026at_campaign=rss",
+    "pubDate": "2026-01-26",
+    "slug": "uganda-s-military-chief-denies-army-assaulted-bobi-wine-s-wife",
+    "source": "http://feeds.bbci.co.uk/news/world/rss.xml",
+    "title": "Uganda's military chief denies army assaulted Bobi Wine's wife"
+  },
+  {
+    "description": "The local coast guard is still searching for 24 missing passengers of the MV Trisha Kerstin.",
+    "image": "",
+    "link": "https://www.bbc.com/news/articles/cwy1vpqpy23o?at_medium=RSS\u0026at_campaign=rss",
+    "pubDate": "2026-01-26",
+    "slug": "eighteen-dead-after-philippines-ferry-with-300-passengers-sinks",
+    "source": "http://feeds.bbci.co.uk/news/world/rss.xml",
+    "title": "Eighteen dead after Philippines ferry with 300 passengers sinks"
   },
   {
     "description": "A leak exposes for the first time the extent of Russia’s misuse of Interpol to request the arrest of critics.",
@@ -1143,13 +1143,13 @@
     "title": "Russia using Interpol's wanted list to target critics abroad, leak reveals"
   },
   {
-    "description": "The local coast guard is still searching for 24 missing passengers of the MV Trisha Kerstin.",
+    "description": "A search is continuing for people still missing after a blaze broke out at a biscuit factory near the city of Trikala. ",
     "image": "",
-    "link": "https://www.bbc.com/news/articles/cwy1vpqpy23o?at_medium=RSS\u0026at_campaign=rss",
+    "link": "https://www.bbc.com/news/articles/c89q5q8leeqo?at_medium=RSS\u0026at_campaign=rss",
     "pubDate": "2026-01-26",
-    "slug": "eighteen-dead-after-philippines-ferry-with-300-passengers-sinks",
+    "slug": "greece-biscuit-factory-fire-leaves-at-least-three-dead",
     "source": "http://feeds.bbci.co.uk/news/world/rss.xml",
-    "title": "Eighteen dead after Philippines ferry with 300 passengers sinks"
+    "title": "Greece biscuit factory fire leaves at least three dead"
   },
   {
     "description": "Gold is seen as a so-called safe-haven asset that investors buy in times of uncertainty and low interest rates.",
@@ -1231,6 +1231,24 @@
     "slug": "party-backed-by-generals-set-for-landslide-as-sham-myanmar-election-ends",
     "source": "http://feeds.bbci.co.uk/news/world/rss.xml",
     "title": "Party backed by generals set for landslide as 'sham' Myanmar election ends"
+  },
+  {
+    "description": "He has been described as an avid outdoorsman who loved mountain biking.",
+    "image": "",
+    "link": "https://www.bbc.com/news/articles/c62r4g590wqo?at_medium=RSS\u0026at_campaign=rss",
+    "pubDate": "2026-01-26",
+    "slug": "who-was-alex-pretti-the-intensive-care-nurse-shot-dead-in-minneapolis",
+    "source": "http://feeds.bbci.co.uk/news/world/rss.xml",
+    "title": "Who was Alex Pretti, the intensive care nurse shot dead in Minneapolis?"
+  },
+  {
+    "description": "The gun-lobby group, typically aligned with Trump, criticises a suggestion that those who carry guns risk being lawfully shot.",
+    "image": "",
+    "link": "https://www.bbc.com/news/articles/cnvg812n01no?at_medium=RSS\u0026at_campaign=rss",
+    "pubDate": "2026-01-26",
+    "slug": "nra-and-other-us-gun-activists-push-back-at-trump-officials-over-minneapolis-shooting",
+    "source": "http://feeds.bbci.co.uk/news/world/rss.xml",
+    "title": "NRA and other US gun activists push back at Trump officials over Minneapolis shooting"
   },
   {
     "description": "Can the state, especially when it is implicated in killing, be trusted as the arbiter of what should remain confidential?",
@@ -1318,9 +1336,9 @@
     "image": "",
     "link": "https://www.bbc.com/news/videos/cpqyxlqwqqlo?at_medium=RSS\u0026at_campaign=rss",
     "pubDate": "2026-01-26",
-    "slug": "winter-storm-grips-us-as-millions-face-power-outages-and-disruption",
+    "slug": "deadly-winter-storm-grips-large-parts-of-the-us",
     "source": "http://feeds.bbci.co.uk/news/world/rss.xml",
-    "title": "Winter storm grips US as millions face power outages and disruption"
+    "title": "Deadly winter storm grips large parts of the US"
   },
   {
     "description": "Protesters chanted Alex Pretti's name after he became the second person this month to be shot dead by federal agents in Minneapolis.",
@@ -1339,6 +1357,15 @@
     "slug": "could-trilateral-talks-yield-a-breakthrough-in-ukraine-russia-war",
     "source": "http://feeds.bbci.co.uk/news/world/rss.xml",
     "title": "Could trilateral talks yield a breakthrough in Ukraine-Russia war?"
+  },
+  {
+    "description": "Spot gold price touches an all-time high of $5,110.50 for an ounce in the first hours of the day.",
+    "image": "",
+    "link": "https://www.aljazeera.com/news/2026/1/26/gold-prices-cross-5100-for-the-first-time-amid-geopolitical-uncertainties?traffic_source=rss",
+    "pubDate": "2026-01-26",
+    "slug": "gold-prices-cross-5-100-for-the-first-time-amid-geopolitical-uncertainties",
+    "source": "https://aljazeera.com/xml/rss/all.xml",
+    "title": "Gold prices cross $5,100 for the first time amid geopolitical uncertainties"
   },
   {
     "description": "At least 20 states declare states of emergency as nearly a million people are without power due to snow and ice.",
@@ -1555,14 +1582,5 @@
     "slug": "manchester-united-dent-arsenal-s-title-bid-with-dramatic-3-2-win",
     "source": "https://aljazeera.com/xml/rss/all.xml",
     "title": "Manchester United dent Arsenal’s title bid with dramatic 3-2 win"
-  },
-  {
-    "description": "From Texas to New England, the monster storm brings hazardous conditions, prompting warnings to stay off roads.",
-    "image": "",
-    "link": "https://www.aljazeera.com/news/2026/1/25/us-storm-causes-widespread-power-outages-thousands-of-flights-cancelled?traffic_source=rss",
-    "pubDate": "2026-01-25",
-    "slug": "winter-storm-leaves-over-a-million-people-without-power-across-us",
-    "source": "https://aljazeera.com/xml/rss/all.xml",
-    "title": "Winter storm leaves over a million people without power across US"
   }
 ]
