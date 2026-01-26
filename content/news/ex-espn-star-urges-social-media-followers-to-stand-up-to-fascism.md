@@ -1,0 +1,21 @@
+---
+title: "Ex-ESPN star urges social media followers to 'stand up to fascism'"
+date: 2026-01-26
+description: "Former ESPN NBA insider Adrian Wojnarowski urged his followers on Threads to &quot;stand up to fascism&quot; as outrage grew over a Border Patrol-involved shooting."
+summary: "Former ESPN NBA insider Adrian Wojnarowski urged his followers on Threads to &quot;stand up to fascism&quot; as outrage grew over a Border Patrol-involved shooting."
+slug: "ex-espn-star-urges-social-media-followers-to-stand-up-to-fascism"
+image: ''
+link: 'https://www.foxnews.com/sports/ex-espn-star-urges-social-media-followers-stand-up-fascism'
+source: 'https://feeds.foxnews.com/foxnews/latest'
+categories:
+- 'feeds.foxnews.com'
+tags:
+- 'followers'
+- 'fascism'
+- 'social'
+- 'urges'
+- 'media'
+
+draft: false
+---
+<p>Former ESPN star Adrian Wojnarowski made a plea to his followers on social media after a Border Patrol-involved shooting in <a href="https://www.foxnews.com/category/us/us-regions/midwest/minnesota" target="_blank" rel="noopener">Minnesota</a> that left one person dead over the weekend.</p><p>Wojnarowski, who has been outspoken against the Trump administration since he left ESPN as an NBA insider, made his post on Threads on Sunday.</p><p><a href="https://www.foxnews.com/sports" target="_blank" rel="noopener"><strong>CLICK HERE FOR MORE SPORTS COVERAGE ON FOXNEWS.COM</strong></a></p><p>"Stand up to fascism," he wrote without explaining further.</p><p>Wojnarowski, who is now the general manager for the St. Bonaventure Bonnies men’s basketball team, made a critical remark about President <a href="https://www.foxnews.com/category/person/donald-trump" target="_blank" rel="noopener">Donald Trump</a> after the U.S. captured Venezuelan dictator Nicolás Maduro.</p><p>"Just an absolute disgrace," he wrote on Threads at the time after sharing an anti-Trump column in The New York Times.</p><p>During his time at ESPN, Wojnarowski went viral in 2020 when he replied to a press release email from Sen. Josh Hawley, R-Mo., with an explicit statement. "F--- you," he wrote back to the Republican lawmaker.</p><p><a href="https://www.foxnews.com/sports/warriors-steve-kerr-claims-misinformation-media-dividing-americans-after-cbp-involved-shooting" target="_blank" rel="noopener"><strong>WARRIORS' STEVE KERR CLAIMS 'MISINFORMATION' IN MEDIA DIVIDING AMERICANS AFTER CBP-INVOLVED SHOOTING</strong></a></p><p><a href="https://www.foxnews.com/category/sports/nba" target="_blank" rel="noopener">ESPN suspended Wojnarowski</a> for his response. He later issued an apology.</p><p>"I was disrespectful and I made a regrettable mistake. I am sorry for the way I handled myself and I am reaching out immediately to Senator Hawley to apologize directly," he wrote at the time. "I also need to apologize to my ESPN colleagues because I know my actions were unacceptable and should not reflect on any of them."</p><p>Now, Wojnarowski is wading back into the political waters. This time, hurling an apparent criticism at the <a href="https://www.foxnews.com/category/politics/executive/white-house" target="_blank" rel="noopener">White House</a>.</p><p>The victim in Saturday’s shooting in Minneapolis was identified as Alex J. Pretti. He was shot and killed after he allegedly confronted officers during a <a href="https://www.foxnews.com/category/politics/executive/homeland-security" target="_blank" rel="noopener noreferrer nofollow">Department of Homeland Security</a> (DHS) operation in the southern part of the city.</p><p>The shooting death came a few weeks after a U.S. Immigration and Customs Enforcement (ICE) officer shot and killed Renee Nicole Good. DHS said Good was shot in self-defense after she used her SUV in a way that posed a threat. DHS said video showed Good interfering with ICE officers by parking her vehicle in the roadway in an apparent attempt to block federal vehicles.</p><p><i><strong>Follow Fox News Digital’s</strong></i><a href="https://twitter.com/FoxNewsSports_" target="_blank" rel="noopener"><i><strong> <u>sports coverage on X</u></strong></i></a><i><strong> and subscribe to</strong></i><a href="https://www.foxnews.com/newsletters" target="_blank" rel="noopener"><i><strong><u> the Fox News Sports Huddle newsletter</u></strong></i></a><i><strong>.</strong></i></p>

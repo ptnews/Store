@@ -1,0 +1,21 @@
+---
+title: "Suella Braverman: Another big beast defection shows momentum is with Reform - BBC"
+date: 2026-01-26
+description: "Suella Braverman: Another big beast defection shows momentum is with Reform&nbsp;&nbsp;BBCEx-Tory Home Secretary Suella Braverman defects to Reform UK&nbsp;&nbsp;BBCLocal reaction as Suella Braverman defects to Reform UK&nbsp;&nbsp;BBCLabour says Farage ‘stuffing his party full of failed Tories’ after Suella Braverman joins Reform – UK politics live&nbsp;&nbsp;The GuardianBritain’s Conservative Party loses another high-profile lawmaker to hard-right Reform&nbsp;&nbsp;The Hill"
+summary: "Suella Braverman: Another big beast defection shows momentum is with Reform&nbsp;&nbsp;BBCEx-Tory Home Secretary Suella Braverman defects to Reform UK&nbsp;&nbsp;BBCLocal reaction as Suella Braverman defects to Reform UK&nbsp;&nbsp;BBCLabour says Farage ‘stuffing his party full of failed Tories’ after Suella Braverman joins Reform – UK politics live&nbsp;&nbsp;The GuardianBritain’s Conservative Party loses another high-profile lawmaker to hard-right Reform&nbsp;&nbsp;The Hill"
+slug: "suella-braverman-another-big-beast-defection-shows-momentum-is-with-reform-bbc"
+image: ''
+link: 'https://news.google.com/rss/articles/CBMiWkFVX3lxTE4zenlYeXlONHdUYmFENDdvVWgwLVNyTlRKcXIzaTlrQmtuM0xwbG9PdEpCbGVRdTV2bXlMVkJIZERJdEIxZXJLUGozNTNjRXBFV3NqS2RGNURGUdIBX0FVX3lxTE5EZlB2Z3JKY3RVYTlWV29WZVhKYlZOOEY3TFFHRllTeDB5SG5ZMnhwazNjY1Q2OWVKcFJUeTVjSVpVdG1SQnFYZ3RHUFowLXZ3ZVA5TzhuTXFONVZaQkpF?oc=5'
+source: 'https://news.google.com/rss/topics/CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx1YlY4U0FtVnVHZ0pWVXlnQVAB?hl=en-US&gl=US&ceid=US:en'
+categories:
+- 'news.google.com'
+tags:
+- 'braverman'
+- 'defection'
+- 'momentum'
+- 'another'
+- 'suella'
+
+draft: false
+---
+<ol><li><a href="https://news.google.com/rss/articles/CBMiWkFVX3lxTE4zenlYeXlONHdUYmFENDdvVWgwLVNyTlRKcXIzaTlrQmtuM0xwbG9PdEpCbGVRdTV2bXlMVkJIZERJdEIxZXJLUGozNTNjRXBFV3NqS2RGNURGUdIBX0FVX3lxTE5EZlB2Z3JKY3RVYTlWV29WZVhKYlZOOEY3TFFHRllTeDB5SG5ZMnhwazNjY1Q2OWVKcFJUeTVjSVpVdG1SQnFYZ3RHUFowLXZ3ZVA5TzhuTXFONVZaQkpF?oc=5" target="_blank">Suella Braverman: Another big beast defection shows momentum is with Reform</a>&nbsp;&nbsp;<font color="#6f6f6f">BBC</font></li><li><a href="https://news.google.com/rss/articles/CBMiWkFVX3lxTE9aMXlhM1NaODMxaXF5RjZIVkFQc21oelE1enpweGM1UlAzRGFyblZFVXE1bEMxVzc5TDB2THFzaDRKYnMwQS13NHJNeWV6ZklIQkQ3Um01d3NjQQ?oc=5" target="_blank">Ex-Tory Home Secretary Suella Braverman defects to Reform UK</a>&nbsp;&nbsp;<font color="#6f6f6f">BBC</font></li><li><a href="https://news.google.com/rss/articles/CBMiXEFVX3lxTE5aYnhMNEFYeEJLcHNNblV0blVqb0NzcXg4U1pmaGhPdFVyZGhma1luSG12Q2p1cXhmd2pTN1RtTjFqVmNUTWg1RFdwVHJzaHdMZGtubWMxZDVVUlBh?oc=5" target="_blank">Local reaction as Suella Braverman defects to Reform UK</a>&nbsp;&nbsp;<font color="#6f6f6f">BBC</font></li><li><a href="https://news.google.com/rss/articles/CBMi9AFBVV95cUxQWVpGZ2JGS0hjUUFNZHF5M0dJNnRseFFDZWF4VmFlRDVEWmFZWlFrbXV4OHZnckMxb0lqR2dyM1FoTk8zUUdWRGE1UHV2RlN4emcxbkltUng3Q1J3dDQxVDVMRDdxbHNyRlhPd0xzLUlwcXpSMWtwNWMzLUZodTN2VjRUSHdvRDBqUHVwRE9mdTJxXzI4VlY3ZGFBZFpSdjlYYjVRR2M2YVpKbEJzRldYQk1wRDRBTjVDdXlwTktjY1NIaldXak95TFZzNkpQV1NOYTdZTzFmVTBIazNmazNBSVV4Z2FFaHJqUGEtVWRWQ0dCblBD?oc=5" target="_blank">Labour says Farage ‘stuffing his party full of failed Tories’ after Suella Braverman joins Reform – UK politics live</a>&nbsp;&nbsp;<font color="#6f6f6f">The Guardian</font></li><li><a href="https://news.google.com/rss/articles/CBMi0wFBVV95cUxOYzhLZFJhUDZVcG16WS1kQWtoVC1DSzFqM0FfaEFhVDFWN2xiSWdYVDZwSVhFMWFoSDNoM1lkVnlvSE1fckV5ZXB1Q0w3QmZxUFZydWVrZE1LSzcxYnYzUzNlVld6MGhORVZoZjFzUE1oa3lPQ091dHRUb0dfMFFDM0xlYXU2NUQ3YnZzZExZalE5ZnJKaFMxRFhJc21KN08tV3p3dzVVUE96MUNrOWRHZlBJRkVQUzU0M3kwVXplaUhUa2g5QWxpZldDNk1EMHFKdTA40gHYAUFVX3lxTE9ybkp2OE14ZVNqZnA2QU9ic01ZdUExaXRuQ3dxY3gzYmhKOEpUQ3Zob1Nxczh2U0dqc1F0Q3h2STF5YWdic2FVVFhfWHYtdzkycnFuWkU4SFE4b1U4aXJVcmowOU04WEFaM0xqRHc5UDlGY3pvV1Z6dXQxT3FRcEljTEJFa2tTSk1hUlJJUWU3MjFiaUF3anlRRmM5ejdzd2VDUEpRck9HQVFqeVV4WjJGWmktdE9TUWJqQ3BzR21BYUVzNGcxV0JzZTUzQWdFR002LWl6T1l4aQ?oc=5" target="_blank">Britain’s Conservative Party loses another high-profile lawmaker to hard-right Reform</a>&nbsp;&nbsp;<font color="#6f6f6f">The Hill</font></li></ol>
