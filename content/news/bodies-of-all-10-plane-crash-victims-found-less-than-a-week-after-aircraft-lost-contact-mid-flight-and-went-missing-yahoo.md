@@ -1,0 +1,21 @@
+---
+title: "Bodies of All 10 Plane Crash Victims Found Less Than a Week After Aircraft Lost Contact Mid-Flight and Went Missing - Yahoo"
+date: 2026-01-26
+description: "Bodies of All 10 Plane Crash Victims Found Less Than a Week After Aircraft Lost Contact Mid-Flight and Went Missing&nbsp;&nbsp;YahooPlane Carrying 11 People Vanished from Radar During 2-Hour Flight. Search for Wreckage and Survivors Continues&nbsp;&nbsp;People.comIndonesia finds bodies of 10 passengers on crashed surveillance plane&nbsp;&nbsp;ReutersIndonesian rescuers find body, wreckage after passenger aircraft with 11 people goes missing&nbsp;&nbsp;CBS NewsAuthorities Find Wreckage Of Missing..."
+summary: "Bodies of All 10 Plane Crash Victims Found Less Than a Week After Aircraft Lost Contact Mid-Flight and Went Missing&nbsp;&nbsp;YahooPlane Carrying 11 People Vanished from Radar During 2-Hour Flight. Search for Wreckage and Survivors Continues&nbsp;&nbsp;People.comIndonesia finds bodies of 10 passengers on crashed surveillance plane&nbsp;&nbsp;ReutersIndonesian rescuers find body, wreckage after passenger aircraft with 11 people goes missing&nbsp;&nbsp;CBS NewsAuthorities Find Wreckage Of Missing..."
+slug: "bodies-of-all-10-plane-crash-victims-found-less-than-a-week-after-aircraft-lost-contact-mid-flight-and-went-missing-yahoo"
+image: ''
+link: 'https://news.google.com/rss/articles/CBMihwFBVV95cUxPQXV0SHBRWWtieENHRF83VENWWS1DeS1BRC1xT3N2cEU1ZlJQUVZtaVI5UzV0RmEwVUltZWZkbzh3b1YxYnhhYkFpYXdpeUFOcFNTbHpuZW1ZZld5RDVneHg5WmZvSjhWWXEzcVIyYUpyUGxmS2U4VUE0dVJuS1FoQ2NEdTltUkE?oc=5'
+source: 'https://news.google.com/rss/topics/CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx1YlY4U0FtVnVHZ0pWVXlnQVAB?hl=en-US&gl=US&ceid=US:en'
+categories:
+- 'news.google.com'
+tags:
+- 'aircraft'
+- 'victims'
+- 'contact'
+- 'missing'
+- 'bodies'
+
+draft: false
+---
+<ol><li><a href="https://news.google.com/rss/articles/CBMihwFBVV95cUxPQXV0SHBRWWtieENHRF83VENWWS1DeS1BRC1xT3N2cEU1ZlJQUVZtaVI5UzV0RmEwVUltZWZkbzh3b1YxYnhhYkFpYXdpeUFOcFNTbHpuZW1ZZld5RDVneHg5WmZvSjhWWXEzcVIyYUpyUGxmS2U4VUE0dVJuS1FoQ2NEdTltUkE?oc=5" target="_blank">Bodies of All 10 Plane Crash Victims Found Less Than a Week After Aircraft Lost Contact Mid-Flight and Went Missing</a>&nbsp;&nbsp;<font color="#6f6f6f">Yahoo</font></li><li><a href="https://news.google.com/rss/articles/CBMixgFBVV95cUxNUm83ZExDUGRyVW0wVTYzb2RJMEZxT1duQjZHajJxZjU0T0xDUnBxQ2xCRjhiMmkxRTdUUmpfUERzR0pUbWppNUt5MkJPamxVUEhiUGFsS1djSWZvenViXzhLRjg5LTZaY2FLNXhQLXVCVHprZVdGX3FpY0tkSXNwU3FuakhsZWdvbG1EUXVBOUJTM3pWMFp2ODFsX0tacjZKNFljbGlQRDBFRjVwNFhvLWxmY2Fib3FUMzgxakxWSERnVGJZQmc?oc=5" target="_blank">Plane Carrying 11 People Vanished from Radar During 2-Hour Flight. Search for Wreckage and Survivors Continues</a>&nbsp;&nbsp;<font color="#6f6f6f">People.com</font></li><li><a href="https://news.google.com/rss/articles/CBMiugFBVV95cUxNOF9zUzhVSmstTDcycXhVNGZ2RzN5ZDUzWkREV3VDazdkNHpvRUNvOHJfNFlZNjExM05qVTFfVE9wZUFzMm5DeEp5UnMxalZxVG5EOEktb2VreXdPUDJfVEoxaTRkdUowQXoxekdfRF9RNnlkVHNmbHREdVNHUmNlYzM4NzVfUGlCSzVjR2VVdk5mSnpjQWhtTU5kVks2cnYzY3NlMHFLX1o0Q1lBT18wcUV0d04tbGxsNXc?oc=5" target="_blank">Indonesia finds bodies of 10 passengers on crashed surveillance plane</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font></li><li><a href="https://news.google.com/rss/articles/CBMidkFVX3lxTE9YZjlobWswMjdQRkhVWmRhaHRCMEd0ai00MXlkdjhmdkh6c2RtdXJGOEN2a1FOYlpjVVlQTXBfMzEyZ3JHVF9HT3dkSFRLc0ZoTHBIaWhibnJKNXZSY3l4R2RPUm1XbkkzRmZJT3hLd21GbTIyc3fSAXtBVV95cUxNX0hnOVB0ejhmbHAxamc1NVVYZFllTDB4bEwxUm9SNkNHZXdfMmVCUEhEdVFpVkxobEpjX05zU2haclVZR1dud1BwVnVqeTlDb1g0S0VzV0FyaHJ0U0h2WWZSbGhvUC1pVGxxRDdpSTk5T3lQVGJLdE9HSEk?oc=5" target="_blank">Indonesian rescuers find body, wreckage after passenger aircraft with 11 people goes missing</a>&nbsp;&nbsp;<font color="#6f6f6f">CBS News</font></li><li><a href="https://news.google.com/rss/articles/CBMisgFBVV95cUxOd1ByUDE4OXlPRXZLLTVXX0RHV2FvUHVUclFSUlJ1R2ZGN2dWRnFTakNlemlxRWhJYlFsdzJIb3BsQ3VNNjFBLUVSamdPM3dOaHdPTkVqSXBidzA2RldQUHlTTi12eUhoRDF4MGFTX09MOWZIUmRkZGw3am1RNVg3QWM2NTQ4SU9weDh5X25WVEtBdUVoUzNiOWJUZmdKZHhaaGZfTldldzYtRDhxLXYzak9R?oc=5" target="_blank">Authorities Find Wreckage Of Missing Indonesian ATR 42</a>&nbsp;&nbsp;<font color="#6f6f6f">Aviation Week Network</font></li></ol>
