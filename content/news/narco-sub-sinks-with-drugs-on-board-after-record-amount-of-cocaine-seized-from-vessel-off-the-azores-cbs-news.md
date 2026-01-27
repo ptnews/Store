@@ -1,0 +1,21 @@
+---
+title: "\"Narco sub\" sinks with drugs on board after record amount of cocaine seized from vessel off the Azores - CBS News"
+date: 2026-01-27
+description: "\"Narco sub\" sinks with drugs on board after record amount of cocaine seized from vessel off the Azores&nbsp;&nbsp;CBS NewsRecord 9 tonnes of cocaine seized from ‘narco-sub’ by Portuguese police | Portugal&nbsp;&nbsp;The GuardianPortugal announces record cocaine haul off the Azores archipelago&nbsp;&nbsp;Euronews.com‘Narco sub’ seized on way to Europe with £520m of cocaine&nbsp;&nbsp;The TimesPortugal police foil ‘narco’ semi-submersible transporting 300 bales of cocaine&nbsp;&nbsp;S..."
+summary: "\"Narco sub\" sinks with drugs on board after record amount of cocaine seized from vessel off the Azores&nbsp;&nbsp;CBS NewsRecord 9 tonnes of cocaine seized from ‘narco-sub’ by Portuguese police | Portugal&nbsp;&nbsp;The GuardianPortugal announces record cocaine haul off the Azores archipelago&nbsp;&nbsp;Euronews.com‘Narco sub’ seized on way to Europe with £520m of cocaine&nbsp;&nbsp;The TimesPortugal police foil ‘narco’ semi-submersible transporting 300 bales of cocaine&nbsp;&nbsp;S..."
+slug: "narco-sub-sinks-with-drugs-on-board-after-record-amount-of-cocaine-seized-from-vessel-off-the-azores-cbs-news"
+image: ''
+link: 'https://news.google.com/rss/articles/CBMihgFBVV95cUxQNVlFSms0YVc2aFhxWWRVZnZDNVhESnlZWTI4OEg4VlhoNFJRUmtXdjNUdVoyQUNLVFc3SEdCcTd3cWpJNjg4dDhhYVZ4SGFIcHNLaGRoQVFVbFZWNXYzZzM4ZWZ4M1NIZ3J3VVdLQjczYWhJSVBITE9fX3B3cUNvaFQ0dzVzd9IBiwFBVV95cUxPcGZlbHFaR2lpY2M2TG5wTmtVLWpQeTQzRlZFLVR5Q2txLWVVMFdhemRjZENoUEp2LTZ2dk5RSXdPZ1BjM1NnYk90MF8tZHQ0WDFlc3p3NlZrZW81c0cwWEpFRkI5QmxoSXdkODB3V01uREhvMlNHZmNwVV9nT0ZScnF2YXRtUmVWTy1J?oc=5'
+source: 'https://news.google.com/rss/topics/CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx1YlY4U0FtVnVHZ0pWVXlnQVAB?hl=en-US&gl=US&ceid=US:en'
+categories:
+- 'news.google.com'
+tags:
+- 'cocaine'
+- 'record'
+- 'amount'
+- 'seized'
+- 'vessel'
+
+draft: false
+---
+<ol><li><a href="https://news.google.com/rss/articles/CBMihgFBVV95cUxQNVlFSms0YVc2aFhxWWRVZnZDNVhESnlZWTI4OEg4VlhoNFJRUmtXdjNUdVoyQUNLVFc3SEdCcTd3cWpJNjg4dDhhYVZ4SGFIcHNLaGRoQVFVbFZWNXYzZzM4ZWZ4M1NIZ3J3VVdLQjczYWhJSVBITE9fX3B3cUNvaFQ0dzVzd9IBiwFBVV95cUxPcGZlbHFaR2lpY2M2TG5wTmtVLWpQeTQzRlZFLVR5Q2txLWVVMFdhemRjZENoUEp2LTZ2dk5RSXdPZ1BjM1NnYk90MF8tZHQ0WDFlc3p3NlZrZW81c0cwWEpFRkI5QmxoSXdkODB3V01uREhvMlNHZmNwVV9nT0ZScnF2YXRtUmVWTy1J?oc=5" target="_blank">"Narco sub" sinks with drugs on board after record amount of cocaine seized from vessel off the Azores</a>&nbsp;&nbsp;<font color="#6f6f6f">CBS News</font></li><li><a href="https://news.google.com/rss/articles/CBMipgFBVV95cUxQcUlFUkE2eDdSMUFOb1FSSHNOYXlNWFIxb1pZTWdlcHdtemQwWHBicnZreFBIOFo2a05aamx0RWtybExCa2tKa1g0TzNlNkxxQURIdkwzd3ZPQ3lJYkFDTVJxaWduQi1xSHZJUnJ0TmFaX0toal9IbGdRZi10RHJfNlFIR1QwRTRQMm5pRzJpeXJjWVIxYk52aGNnQjM2aVRyZHU1b2VR?oc=5" target="_blank">Record 9 tonnes of cocaine seized from ‘narco-sub’ by Portuguese police | Portugal</a>&nbsp;&nbsp;<font color="#6f6f6f">The Guardian</font></li><li><a href="https://news.google.com/rss/articles/CBMitwFBVV95cUxQRlJhQ3hLUW1BZ2NPb1hZdW8yQ3FwaFNOQ1BacW5zTnZmQnVnZmZPYWRxSXdOVU5mMXNxMWktc0VNQ2kxTVhSSXYtOGZRZFlVU3hYYjhyT1RBYmUxbnlRUUVvOGJsTDliaW40dzQxV28tdW5pOVNTMEFFSVZKanRlNjI5d3RTWktBdVNJMlNFamMxbGtLM3RSeFoxWXJXWkRxUjdHTE44Wjl1bDFUNVNOZVo3QUVORkE?oc=5" target="_blank">Portugal announces record cocaine haul off the Azores archipelago</a>&nbsp;&nbsp;<font color="#6f6f6f">Euronews.com</font></li><li><a href="https://news.google.com/rss/articles/CBMikAFBVV95cUxPM3BqNDlDeU5BRHJjLVhHanRHNFMxdlJMai1Jak0yZkVxV0JWcjhEZmpvY2thTV9tNmh6SnNzclpHTXpHa0s3MnRjWXk4UkhPVlFsbjgwMUFuUVR2c0hYeV9nVklBZ3VubDR3Mms4STJLaTdYbG5QVUpMZmxMbFczUUZCek14YmNPZG1qYS1Ob2c?oc=5" target="_blank">‘Narco sub’ seized on way to Europe with £520m of cocaine</a>&nbsp;&nbsp;<font color="#6f6f6f">The Times</font></li><li><a href="https://news.google.com/rss/articles/CBMiwwFBVV95cUxPV05UNDNIZ0FlcXBLdDRwUm0zenBfZnYtY2tlRFFRYXRjTm1Td0hMa1FreW43S21MNENlU0h4LUtqMi1yVGdUUUtKdGRqRlpjWVBqbi0wSnl4cGtoNUQ2N3JoeGFNcXRsN3ZHMkVTMzVzVGxNNXgxTW5IY3FCUTZ1Nml3SU9NYkxZWFpMbGZMT01BeWJCTi1fYWkwM19fRWhLZ1lnUkx3aE1RMVhPREFWOUw0TWVFeW5wSl95eDBQYjQtN2M?oc=5" target="_blank">Portugal police foil ‘narco’ semi-submersible transporting 300 bales of cocaine</a>&nbsp;&nbsp;<font color="#6f6f6f">Shipping Telegraph</font></li></ol>
