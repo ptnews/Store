@@ -1,8 +1,8 @@
 ---
 title: "Meta, TikTok and YouTube face landmark trial over youth addiction claims"
 date: 2026-01-27
-description: "This marks the beginning of a legal onslaught that could erode Big Tech&#039;s longstanding defence."
-summary: "This marks the beginning of a legal onslaught that could erode Big Tech&#039;s longstanding defence."
+description: "Plaintiff claims apps fueled her depression and suicidal thoughts and is seeking to hold the companies liable."
+summary: "Plaintiff claims apps fueled her depression and suicidal thoughts and is seeking to hold the companies liable."
 slug: "meta-tiktok-and-youtube-face-landmark-trial-over-youth-addiction-claims"
 image: ''
 link: 'https://www.aljazeera.com/news/2026/1/27/meta-tiktok-and-youtube-face-landmark-trial-over-youth-addiction-claims?traffic_source=rss'
@@ -18,4 +18,4 @@ tags:
 
 draft: false
 ---
-This marks the beginning of a legal onslaught that could erode Big Tech&#039;s longstanding defence.
+Plaintiff claims apps fueled her depression and suicidal thoughts and is seeking to hold the companies liable.
