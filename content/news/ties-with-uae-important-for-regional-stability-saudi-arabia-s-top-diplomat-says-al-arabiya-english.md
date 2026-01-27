@@ -1,0 +1,21 @@
+---
+title: "Ties with UAE important for regional stability, Saudi Arabia’s top diplomat says - Al Arabiya English"
+date: 2026-01-27
+description: "Ties with UAE important for regional stability, Saudi Arabia’s top diplomat says&nbsp;&nbsp;Al Arabiya EnglishSaudi UAE rift and what it means for Israel&nbsp;&nbsp;jpost.comAfter Yemen rift, Saudi Arabia aims to quash UAE’s power in wider region&nbsp;&nbsp;The Washington PostSaudi Arabian media steps up attacks on UAE as Gulf rift deepens&nbsp;&nbsp;Financial TimesSaudi Arabia's UAE 'mudslinging' threatens new Gulf crisis&nbsp;&nbsp;news-shield.com"
+summary: "Ties with UAE important for regional stability, Saudi Arabia’s top diplomat says&nbsp;&nbsp;Al Arabiya EnglishSaudi UAE rift and what it means for Israel&nbsp;&nbsp;jpost.comAfter Yemen rift, Saudi Arabia aims to quash UAE’s power in wider region&nbsp;&nbsp;The Washington PostSaudi Arabian media steps up attacks on UAE as Gulf rift deepens&nbsp;&nbsp;Financial TimesSaudi Arabia's UAE 'mudslinging' threatens new Gulf crisis&nbsp;&nbsp;news-shield.com"
+slug: "ties-with-uae-important-for-regional-stability-saudi-arabia-s-top-diplomat-says-al-arabiya-english"
+image: ''
+link: 'https://news.google.com/rss/articles/CBMi1AFBVV95cUxQbVBQak44dF9XejlLbk5nTnhScGpVYlZtSGRiSkMtbHRPVzN4cEozMEc4TkFxbjdXZWRzSU1UNjVxLTYxVnpXV2FKRXFfZ1FVWXJUU0dlVDlrUVliV0NmQUcxM3lOUjZwV01aZTZDbzBneWFPNG0xcWtQWXdDcnlRUTZVYUt1NzljZm95R0Z3MTlHZW11Wk1KQmpmbFBJdjJDd3FGcEdNRHdXaVdTX2tiRzJJVFF5RG9YYTBHUDNEQVRpTUxUWFVldGx6XzF3ZW1odHQ1U9IB2gFBVV95cUxPWk5zcGxmMHNScEM3b2pOZWpGa0hiLUxTN1l0QkYwYmhndWJCWkpVQmp5VHI0eTdmYTJPMmhNUVlHanUwdVg2VTBIWFdlSGFaNk5KSC05M2xyRHcwR0t2Y1lNQ1E3dlZOSldUeDJnazNLc2R1WU5lOTdOd1M4MmtWc2Zib18xRGhrOEE1UURTTFI2MjhvZFB4SGw1eks3eE42czhvbWl5VjN5Nks4UlVFWDc4Y1NFYkh4Qkw4SUlSelNnNlo4LUJoQlBFamE0Tl9rUHZhX1pCdjhTZw?oc=5'
+source: 'https://news.google.com/rss/topics/CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx1YlY4U0FtVnVHZ0pWVXlnQVAB?hl=en-US&gl=US&ceid=US:en'
+categories:
+- 'news.google.com'
+tags:
+- 'important'
+- 'stability'
+- 'regional'
+- 'diplomat'
+- 'arabiya'
+
+draft: false
+---
+<ol><li><a href="https://news.google.com/rss/articles/CBMi1AFBVV95cUxQbVBQak44dF9XejlLbk5nTnhScGpVYlZtSGRiSkMtbHRPVzN4cEozMEc4TkFxbjdXZWRzSU1UNjVxLTYxVnpXV2FKRXFfZ1FVWXJUU0dlVDlrUVliV0NmQUcxM3lOUjZwV01aZTZDbzBneWFPNG0xcWtQWXdDcnlRUTZVYUt1NzljZm95R0Z3MTlHZW11Wk1KQmpmbFBJdjJDd3FGcEdNRHdXaVdTX2tiRzJJVFF5RG9YYTBHUDNEQVRpTUxUWFVldGx6XzF3ZW1odHQ1U9IB2gFBVV95cUxPWk5zcGxmMHNScEM3b2pOZWpGa0hiLUxTN1l0QkYwYmhndWJCWkpVQmp5VHI0eTdmYTJPMmhNUVlHanUwdVg2VTBIWFdlSGFaNk5KSC05M2xyRHcwR0t2Y1lNQ1E3dlZOSldUeDJnazNLc2R1WU5lOTdOd1M4MmtWc2Zib18xRGhrOEE1UURTTFI2MjhvZFB4SGw1eks3eE42czhvbWl5VjN5Nks4UlVFWDc4Y1NFYkh4Qkw4SUlSelNnNlo4LUJoQlBFamE0Tl9rUHZhX1pCdjhTZw?oc=5" target="_blank">Ties with UAE important for regional stability, Saudi Arabia’s top diplomat says</a>&nbsp;&nbsp;<font color="#6f6f6f">Al Arabiya English</font></li><li><a href="https://news.google.com/rss/articles/CBMiXEFVX3lxTE1JRzFhM0lmX1BITmtiZzR5eUxfWmg3S1JvdWYzZVpEOUw2bEQzQ3BhMUg3WEhvTTNGSzBKNkVCUmp0elRxQVpneTU1RUlnU3FJXzNybXBhUjE1a2pP?oc=5" target="_blank">Saudi UAE rift and what it means for Israel</a>&nbsp;&nbsp;<font color="#6f6f6f">jpost.com</font></li><li><a href="https://news.google.com/rss/articles/CBMihgFBVV95cUxNdzJrLUwxZ3FQcXVMQXFYNC00THhaaHFrc2JaSE1FcE5MeHh5cmNBNGhLbXM5c2d3UnhUU0ZsVVEtVVl2ci1rejhaMFVMeHBiUUMyVXcxY2FVT2FLc2huZ1NkbEU4dnpzcTZjXzNaXy1MWXlSSFFBWHdFUGpRVU9VcERzQ1FQQQ?oc=5" target="_blank">After Yemen rift, Saudi Arabia aims to quash UAE’s power in wider region</a>&nbsp;&nbsp;<font color="#6f6f6f">The Washington Post</font></li><li><a href="https://news.google.com/rss/articles/CBMicEFVX3lxTFAtb0pSb2w2UVNqY1lZZzhuVU5XSzdQdTFreDBGRTI4V1NhNTNPMmlwTWRlQy16TTF6NFYyUUY4LWY4a0FrSjdvazNIcUJ4cnREdWd0dnZBaWRmSTh3emxSX21VTm85Nnd0VEMxYnhDa3o?oc=5" target="_blank">Saudi Arabian media steps up attacks on UAE as Gulf rift deepens</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font></li><li><a href="https://news.google.com/rss/articles/CBMilgFBVV95cUxPeXZibTBUM2NfRmRuQmFVYUQxQjVpbExlOUxiUWVOV2NReEtZdWNrcE9hTzQtWDZqeUVyZm9keklBVDlON2t4c2h0ZU9vajgyYVpIWHU0UlhUbElLNlZjckdqSkVtM21heVRzZjU3OE5kc2tlaTZ5ekJFYUl0OXBDWnYySmxXYkhoSVpTSGhWWkl6X3JoMHc?oc=5" target="_blank">Saudi Arabia's UAE 'mudslinging' threatens new Gulf crisis</a>&nbsp;&nbsp;<font color="#6f6f6f">news-shield.com</font></li></ol>
