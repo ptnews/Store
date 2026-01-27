@@ -1,0 +1,21 @@
+---
+title: "Carney walked back Davos comments in call with Trump, US treasury chief says - Reuters"
+date: 2026-01-27
+description: "Carney walked back Davos comments in call with Trump, US treasury chief says&nbsp;&nbsp;ReutersOpinion | The Most Important Foreign Policy Speech in Years&nbsp;&nbsp;The New York TimesCarney rolls his eyes at US Treasury secretary, telling Trump he meant what he said at Davos&nbsp;&nbsp;The HillMaybe the United States Can Be One of Mark Carney’s “Middle Powers”&nbsp;&nbsp;The New YorkerAs the world inches back to a pre-WW2 order, the 'middle powers' face a grave new challenge&nbsp;&nbsp;BB..."
+summary: "Carney walked back Davos comments in call with Trump, US treasury chief says&nbsp;&nbsp;ReutersOpinion | The Most Important Foreign Policy Speech in Years&nbsp;&nbsp;The New York TimesCarney rolls his eyes at US Treasury secretary, telling Trump he meant what he said at Davos&nbsp;&nbsp;The HillMaybe the United States Can Be One of Mark Carney’s “Middle Powers”&nbsp;&nbsp;The New YorkerAs the world inches back to a pre-WW2 order, the 'middle powers' face a grave new challenge&nbsp;&nbsp;BB..."
+slug: "carney-walked-back-davos-comments-in-call-with-trump-us-treasury-chief-says-reuters"
+image: ''
+link: 'https://news.google.com/rss/articles/CBMiywFBVV95cUxQbTRvZEJvd2FkeVNtelZELVluNzVsQlNPLWJUMGJNQ2JVRjRNS3dIZExPZEg2UmVWWkZBZ3J3akNzRVpIZVhSUUxmbUJEV21mMXl3cTVoNzlVM1dkSG9KbXFxY1lzSGdOamR1SGkwazg4SjNKS185aTJmVUwzcDZzUURJWEp6VTZWV3JEX1JJbEMxSDNZUHBVY1pOSE5fem9vc2Z1OVl5UHdoOFpReUJvT3FtWlBaUTAxVlZsSWFPWE8xbXFuRXFGcjViSQ?oc=5'
+source: 'https://news.google.com/rss/topics/CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx1YlY4U0FtVnVHZ0pWVXlnQVAB?hl=en-US&gl=US&ceid=US:en'
+categories:
+- 'news.google.com'
+tags:
+- 'comments'
+- 'treasury'
+- 'reuters'
+- 'carney'
+- 'walked'
+
+draft: false
+---
+<ol><li><a href="https://news.google.com/rss/articles/CBMiywFBVV95cUxQbTRvZEJvd2FkeVNtelZELVluNzVsQlNPLWJUMGJNQ2JVRjRNS3dIZExPZEg2UmVWWkZBZ3J3akNzRVpIZVhSUUxmbUJEV21mMXl3cTVoNzlVM1dkSG9KbXFxY1lzSGdOamR1SGkwazg4SjNKS185aTJmVUwzcDZzUURJWEp6VTZWV3JEX1JJbEMxSDNZUHBVY1pOSE5fem9vc2Z1OVl5UHdoOFpReUJvT3FtWlBaUTAxVlZsSWFPWE8xbXFuRXFGcjViSQ?oc=5" target="_blank">Carney walked back Davos comments in call with Trump, US treasury chief says</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font></li><li><a href="https://news.google.com/rss/articles/CBMihwFBVV95cUxPckpzNDU4bzRjWWpnUS1KSF80MC12YUF2T0dRUkVvZ0JoN0NXdmN4b1BvejJBaEJQSUxISHJMX0pvR0xNeWpxOFFjNzZ1RWdsNEl3MzZzTFo1YVpKM3BWelBfU29hcEVGLVdDQXcxSE9qX0l0MjE1UWo4MzloWjNqSkJPRm9ybVU?oc=5" target="_blank">Opinion | The Most Important Foreign Policy Speech in Years</a>&nbsp;&nbsp;<font color="#6f6f6f">The New York Times</font></li><li><a href="https://news.google.com/rss/articles/CBMi3AFBVV95cUxOZkVBb3N1UmpndHJfek1ia3ZLdGt6alZ4VEZOdi1Jc3ZPS3A4MjlYTDR1dEtFUGZmYVFEQXhOeXBrUmVzdTZCN21UVUpOa1p6amRYTkFmQmJVaDhDb0lObnR6Q1dhRGliWTVfajVyWVZuNWFXR19vOU1jSDBuZkVwMVdvUmpKS2JIRXF5UG9WalktTFpucnV0Vll3VFB3ODNRS0IxdWFvNU9zMFh0V3hZRFI1SW5BUXRaaVNsOU5mMnlOeW80OWkwOW80cUVBTi1Ba213NVZwZ2w0cW9N0gHiAUFVX3lxTE1aUDZ0QXpDZV9PVDZGUHdLS0hDSk10ZWd0YjNtQzdlUWg3bDFPR0ZiT19rREJJVjBuSzJhcTkzb2hCLUFXR0doWVc5WnlFZkstM3JObXhRUDY1WTFHVm56aGp4WmhxRGlEeGpjUzhrbVV6cG5zZDA5U2RBNEphOEdSM0NySTg1ZGJ5bmFRUlo0WTUydFQzM2hZUjZ6YW42U3I4V2lCMm9adHdHMC1aMWg3Q1o0Qm9ma2w1R2o4QzBpckd1TkhoRTVSaHFWVFFwcXZqdW1ONDkxUzMyOEtIcmRlSnc?oc=5" target="_blank">Carney rolls his eyes at US Treasury secretary, telling Trump he meant what he said at Davos</a>&nbsp;&nbsp;<font color="#6f6f6f">The Hill</font></li><li><a href="https://news.google.com/rss/articles/CBMipwFBVV95cUxOU0p2OHRDMFV3NHhDU1pTUG9CQmJlWFVDTE1ZLUFYckNBZUt4TnBocHVLWmtYeEFONXJxRWtnRmJvVU9ISFM3dWl3cW5zbHd6RkpuVzNlN2F2Wjl0YTY2ZmdGQ0xlLW53MEMwdGV2bENOX3ljaVZfdWFzSGpvQ1Q4WEpjQXdwSzdVRGk3MEJnNm9qZ3FxZWo3a1F5Z2VOd0Z4UUFlU1dIMA?oc=5" target="_blank">Maybe the United States Can Be One of Mark Carney’s “Middle Powers”</a>&nbsp;&nbsp;<font color="#6f6f6f">The New Yorker</font></li><li><a href="https://news.google.com/rss/articles/CBMiWkFVX3lxTE51WWNJaUNmTWNTRkc0RDZuRmlLcE5WQzVrQ2N0VllWTWExWFpHWmF1ZFJYRG5nYU9nbmozRUlFal9yejZNTHMyTUZuUlhmTlMxQ2ZTbGV3RHZlUQ?oc=5" target="_blank">As the world inches back to a pre-WW2 order, the 'middle powers' face a grave new challenge</a>&nbsp;&nbsp;<font color="#6f6f6f">BBC</font></li></ol>

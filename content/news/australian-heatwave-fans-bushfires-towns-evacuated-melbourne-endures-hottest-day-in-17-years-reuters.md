@@ -1,0 +1,21 @@
+---
+title: "Australian heatwave fans bushfires, towns evacuated, Melbourne endures hottest day in 17 years - Reuters"
+date: 2026-01-27
+description: "Australian heatwave fans bushfires, towns evacuated, Melbourne endures hottest day in 17 years&nbsp;&nbsp;ReutersAustralia swelters in a record heat wave as temperatures near 50 C&nbsp;&nbsp;ABC NewsThrough the heatwave haze, the hypocrisy of Australia’s fossil fuel policy shines bright | Clean Air&nbsp;&nbsp;The GuardianFirefighters battle 'emergency level' blazes in Australia heatwave&nbsp;&nbsp;BBCFirefighters battle out-of-control fires in Victoria amid record heat&nbsp;&nbsp;Yahoo"
+summary: "Australian heatwave fans bushfires, towns evacuated, Melbourne endures hottest day in 17 years&nbsp;&nbsp;ReutersAustralia swelters in a record heat wave as temperatures near 50 C&nbsp;&nbsp;ABC NewsThrough the heatwave haze, the hypocrisy of Australia’s fossil fuel policy shines bright | Clean Air&nbsp;&nbsp;The GuardianFirefighters battle 'emergency level' blazes in Australia heatwave&nbsp;&nbsp;BBCFirefighters battle out-of-control fires in Victoria amid record heat&nbsp;&nbsp;Yahoo"
+slug: "australian-heatwave-fans-bushfires-towns-evacuated-melbourne-endures-hottest-day-in-17-years-reuters"
+image: ''
+link: 'https://news.google.com/rss/articles/CBMi0gFBVV95cUxNQ2hURWcwTkJudlMyMjVPOXlhNm9oVEMyVHBySTBFSDNyY3RLZDg0b091c1ctMXNxam42b2xoVXJCc01vOFNSMVo1NFc4WThVV1J6OTd5SVlrdnZjNnZsZGtTUUc4VjZZc0VRdnBSY2RyUmdZX1hrRll5SEFXTHRXR2VMOUo3OWtYUjZIelZ4dzdWTFhhNU1vLU5ncVMtSGtMSndNSEUtS0Z3eVZDbGhpV2E5Y0F2NkJOdk1XbXlIaDFiYkVuZ05ra3BrUDNwLUV0U1E?oc=5'
+source: 'https://news.google.com/rss/topics/CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx1YlY4U0FtVnVHZ0pWVXlnQVAB?hl=en-US&gl=US&ceid=US:en'
+categories:
+- 'news.google.com'
+tags:
+- 'australian'
+- 'bushfires'
+- 'evacuated'
+- 'melbourne'
+- 'heatwave'
+
+draft: false
+---
+<ol><li><a href="https://news.google.com/rss/articles/CBMi0gFBVV95cUxNQ2hURWcwTkJudlMyMjVPOXlhNm9oVEMyVHBySTBFSDNyY3RLZDg0b091c1ctMXNxam42b2xoVXJCc01vOFNSMVo1NFc4WThVV1J6OTd5SVlrdnZjNnZsZGtTUUc4VjZZc0VRdnBSY2RyUmdZX1hrRll5SEFXTHRXR2VMOUo3OWtYUjZIelZ4dzdWTFhhNU1vLU5ncVMtSGtMSndNSEUtS0Z3eVZDbGhpV2E5Y0F2NkJOdk1XbXlIaDFiYkVuZ05ra3BrUDNwLUV0U1E?oc=5" target="_blank">Australian heatwave fans bushfires, towns evacuated, Melbourne endures hottest day in 17 years</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font></li><li><a href="https://news.google.com/rss/articles/CBMiowFBVV95cUxOMi0wSmpMUW50aktSOVlUM0xFcXNCUkRaOGlMSm5VX2JNQkkxd0p0OC1EcG5JY21YaTdkQzNOdFlrSGVIbVdfaUdMZ2FDR0dVbmtETklKemJ1UFEzcTJLVFZCNGRSMXVGcEM0akhkSW1QNklPbzdhcG1HcFVVOVRKYUJCelFsMzkxSC1WdTg3QnR3NGFXd1FaWDZKUENfN1pfWlFr0gGoAUFVX3lxTFBPajRPUDlsWUNvUU00bXFtUi1CQ1VpSXY5dlFRYUYzS2tNWm45MURGcnNXMHVuZzUxUElqRzQ1amZXYjVtbFZLY1U1R05hOW04S3lKcmQxRXhWNmRqLWFXUE1wdVRvdXgzTjZ6VE8xSWZjbDNHZl9pdXJDTkhwQWRsNTQ4REpKaHF2M1JYOENZbmVtTTBaeDJ4TzVfOGNzeGdQa1hkQjlwVA?oc=5" target="_blank">Australia swelters in a record heat wave as temperatures near 50 C</a>&nbsp;&nbsp;<font color="#6f6f6f">ABC News</font></li><li><a href="https://news.google.com/rss/articles/CBMi1AFBVV95cUxPOS1lU1kyUUpnc3NGdTd6WVFoQUdaRGVDUk5oVUlmX1hITE5QbkF2VzdITnpZOG5lTlRXMHplclFoRFhWeFFUMnlGb1QxYlFkaDFRel94SnVZNXp4Zkg1ZkNOZkhSNWtQQ2Fqa25oZzV3b2FtaG14SjZMLTVmWTE3b0RwR0I1TnlXNWt1OTJzb0RqNy04Y1pxMEE3RkVyOWRIak9qMnc2Zm9CYjZfWEVjaGsweVlLMUdFZnUzZGhTaGRrQ0dBZHdzdkF6ZWNDZVExeWYzdA?oc=5" target="_blank">Through the heatwave haze, the hypocrisy of Australia’s fossil fuel policy shines bright | Clean Air</a>&nbsp;&nbsp;<font color="#6f6f6f">The Guardian</font></li><li><a href="https://news.google.com/rss/articles/CBMiWkFVX3lxTFB3THJCQWpWQUJCTl9MbHl1dlhiNGdWbkxDUXNuNHE3azN5VjBrazNpUmdWUDY4RTQzMTRlRWdXc0FYNWpGek5jYWp4XzJWbml5d3MtNEd2Ym1WUQ?oc=5" target="_blank">Firefighters battle 'emergency level' blazes in Australia heatwave</a>&nbsp;&nbsp;<font color="#6f6f6f">BBC</font></li><li><a href="https://news.google.com/rss/articles/CBMimAFBVV95cUxQVFJBWUt5Nnlvd3gwTmJaNEhBR01mNm9mNWR2LWpwSmhyZWdpdmdDa0tHRVd3RDZUV2NKMHB3V3lyUXhVakpYUUNWOUVHZ0xDWXAxTXQwQ1ZOQzZ0TVpiaUlRX003VVdIQnFoSzRjMnNwRXhHX0pSOFNkMnp2aWlXSy1CcU5IM3Zmb0JienB4ZU4wMXBBb0piLQ?oc=5" target="_blank">Firefighters battle out-of-control fires in Victoria amid record heat</a>&nbsp;&nbsp;<font color="#6f6f6f">Yahoo</font></li></ol>
