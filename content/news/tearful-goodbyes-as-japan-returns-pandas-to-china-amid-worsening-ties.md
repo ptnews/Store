@@ -1,6 +1,6 @@
 ---
 title: "Tearful goodbyes as Japan returns pandas to China amid worsening ties "
-date: 2026-01-26
+date: 2026-01-27
 description: "The twin cubs' departure will leave Japan without any pandas for the first time since 1972."
 summary: "The twin cubs' departure will leave Japan without any pandas for the first time since 1972."
 slug: "tearful-goodbyes-as-japan-returns-pandas-to-china-amid-worsening-ties"

@@ -1,6 +1,6 @@
 ---
 title: "Could trilateral talks yield a breakthrough in Ukraine-Russia war?"
-date: 2026-01-26
+date: 2026-01-27
 description: "It's the first time representatives from Kyiv, Moscow and Washington have come together since the full-scale invasion of Ukraine in 2022."
 summary: "It's the first time representatives from Kyiv, Moscow and Washington have come together since the full-scale invasion of Ukraine in 2022."
 slug: "could-trilateral-talks-yield-a-breakthrough-in-ukraine-russia-war"

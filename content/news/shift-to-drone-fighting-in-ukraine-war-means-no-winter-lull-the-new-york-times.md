@@ -1,6 +1,6 @@
 ---
 title: "Shift to Drone Fighting in Ukraine War Means No Winter Lull - The New York Times"
-date: 2026-01-26
+date: 2026-01-27
 description: "Shift to Drone Fighting in Ukraine War Means No Winter Lull&nbsp;&nbsp;The New York TimesWinter Enhances The Thermal Imaging Systems On Ukraine’s Bomber Drones&nbsp;&nbsp;ForbesWinter Is No Longer Russia’s Ally on the Battlefield Near Pokrovsk&nbsp;&nbsp;UNITED24 MediaCold Weather Disrupts Ukrainian Frontline Operations&nbsp;&nbsp;Военное дело“Paths appear, something is trampled”: Enemy attempts to infiltrate in bad weather on the Kramatorsk Axis&nbsp;&nbsp;ArmyInform"
 summary: "Shift to Drone Fighting in Ukraine War Means No Winter Lull&nbsp;&nbsp;The New York TimesWinter Enhances The Thermal Imaging Systems On Ukraine’s Bomber Drones&nbsp;&nbsp;ForbesWinter Is No Longer Russia’s Ally on the Battlefield Near Pokrovsk&nbsp;&nbsp;UNITED24 MediaCold Weather Disrupts Ukrainian Frontline Operations&nbsp;&nbsp;Военное дело“Paths appear, something is trampled”: Enemy attempts to infiltrate in bad weather on the Kramatorsk Axis&nbsp;&nbsp;ArmyInform"
 slug: "shift-to-drone-fighting-in-ukraine-war-means-no-winter-lull-the-new-york-times"

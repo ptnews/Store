@@ -1,6 +1,6 @@
 ---
 title: "What we know about fatal shooting of Alex Pretti by federal agents in Minneapolis"
-date: 2026-01-26
+date: 2026-01-27
 description: "Trump officials says federal agents shot in self-defence, as Pretti's parents accuse them of \"sickening lies\"."
 summary: "Trump officials says federal agents shot in self-defence, as Pretti's parents accuse them of \"sickening lies\"."
 slug: "what-we-know-about-fatal-shooting-of-alex-pretti-by-federal-agents-in-minneapolis"

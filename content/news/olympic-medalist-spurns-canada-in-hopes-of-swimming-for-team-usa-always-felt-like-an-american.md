@@ -1,0 +1,21 @@
+---
+title: "Olympic medalist spurns Canada in hopes of swimming for Team USA: 'Always felt like an American'"
+date: 2026-01-26
+description: "Ilya Kharun, a Canadian butterfly swimmer who won two bronze medals at the 2024 Paris Olympics, will switch his team from the Great White North to the U.S."
+summary: "Ilya Kharun, a Canadian butterfly swimmer who won two bronze medals at the 2024 Paris Olympics, will switch his team from the Great White North to the U.S."
+slug: "olympic-medalist-spurns-canada-in-hopes-of-swimming-for-team-usa-always-felt-like-an-american"
+image: ''
+link: 'https://www.foxnews.com/sports/olympic-medalist-spurns-canada-hopes-swimming-team-usa-always-felt-like-american'
+source: 'https://feeds.foxnews.com/foxnews/latest'
+categories:
+- 'feeds.foxnews.com'
+tags:
+- 'medalist'
+- 'swimming'
+- 'american'
+- 'olympic'
+- 'spurns'
+
+draft: false
+---
+<p>The world will be watching the U.S. and Canada rivalry on the ice and in other sporting events when the top athletes hit Milan Cortina for the <a href="https://www.foxnews.com/category/sports/olympics" target="_blank" rel="noopener">2026 Winter Olympics</a>.</p><p>The heat around Summer Olympics athletes was just heating up as a two-time Canadian medalist decided to switch from Team Canada to Team USA on Monday.</p><p><a href="https://www.foxnews.com/sports" target="_blank" rel="noopener"><strong>CLICK HERE FOR MORE SPORTS COVERAGE ON FOXNEWS.COM</strong></a></p><p>Ilya Kharun, an Olympic swimmer who was born in Montreal and won two bronze medals in the 2024 Paris Games, announced he was joining the U.S. He thanked Swimming Canada in a post on Instagram.</p><p>"John Atkinson and everyone representing <a href="https://www.foxnews.com/category/world/world-regions/canada" target="_blank" rel="noopener">Swim Canada</a>, thank you. I would not be the swimmer or person am today without your support," he captioned the post. "To my Canadian teammates, thank you. You helped me progress into the person I am today. You guys really made me feel like I was part of a family. It’s been an honor wearing the Maple Leaf flag and everyone in Canada will always have my support."</p><p>Kharun said he "always felt like an American" despite the immense support from Canada.</p><p><a href="https://www.foxnews.com/sports/ioc-responds-usopc-letter-katie-uhlaenders-petition-olympic-spot-after-team-canada-controversy" target="_blank" rel="noopener"><strong>IOC RESPONDS TO USOPC LETTER ON KATIE UHLAENDER'S PETITION FOR OLYMPIC SPOT AFTER TEAM CANADA CONTROVERSY</strong></a></p><p>"I grew up in <a href="https://www.foxnews.com/category/us/las-vegas" target="_blank" rel="noopener">Las Vegas</a>. I’ve lived in America my whole life. I’ve never represented a club team outside of USA Swimming," he added. "I’ve got a long career left as a swimmer and I’d like to be based at home. And that home is in the USA."</p><p>Kharun moved to Las Vegas when he was young as his parents, who were Ukrainian acrobats, continued their careers with Cirque du Soleil.</p><p>The 20-year-old butterfly swimmer took home two bronze medals in Paris after winning a gold in the 2024 world championships in Budapest. He also won a bronze medal last year in Singapore.</p><p>Kharun will have to wait a year before he can officially compete under the U.S. flag as he needs to be released from Swimming Canada. He should have enough time to attempt to qualify for the 2028 Summer Olympics in Los Angeles.</p><p>Atkinson, the high performance director and national coach of Swimming Canada, <a href="https://www.cbc.ca/sports/olympics/summer/aquatics/ilya-kharun-canada-olympic-swim-switch-us-jan-26-9.7060844" target="_blank" rel="nofollow noopener">told CBC</a> he was disappointed with Kharun’s decision. But he wished him the best on his next endeavor.</p><p><i><strong>Follow Fox News Digital’s</strong></i><a href="https://twitter.com/FoxNewsSports_" target="_blank" rel="noopener"><i><strong> <u>sports coverage on X</u></strong></i></a><i><strong> and subscribe to</strong></i><a href="https://www.foxnews.com/newsletters" target="_blank" rel="noopener"><i><strong><u> the Fox News Sports Huddle newsletter</u></strong></i></a><i><strong>.</strong></i></p>

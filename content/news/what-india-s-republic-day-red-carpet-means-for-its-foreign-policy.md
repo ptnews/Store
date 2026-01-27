@@ -1,6 +1,6 @@
 ---
 title: "What India's Republic Day red carpet means for its foreign policy"
-date: 2026-01-26
+date: 2026-01-27
 description: "Who sits beside India’s president on Republic Day signals Delhi’s diplomatic priorities to the world."
 summary: "Who sits beside India’s president on Republic Day signals Delhi’s diplomatic priorities to the world."
 slug: "what-india-s-republic-day-red-carpet-means-for-its-foreign-policy"

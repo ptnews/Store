@@ -1,6 +1,6 @@
 ---
 title: "French MPs take first step to ban social media for under-15s - BBC"
-date: 2026-01-26
+date: 2026-01-27
 description: "French MPs take first step to ban social media for under-15s&nbsp;&nbsp;BBC‘Our children’s brains are not for sale’: Macron says France to fast-track social media ban for under-15s&nbsp;&nbsp;CNNFrance's Macron pushes for fast-track ban on social media for kids under 15&nbsp;&nbsp;CBS NewsFrench lawmakers advance measure that would ban social media for under-15s&nbsp;&nbsp;France 24France's National Assembly approves banning under-15s from social media&nbsp;&nbsp;Reuters"
 summary: "French MPs take first step to ban social media for under-15s&nbsp;&nbsp;BBC‘Our children’s brains are not for sale’: Macron says France to fast-track social media ban for under-15s&nbsp;&nbsp;CNNFrance's Macron pushes for fast-track ban on social media for kids under 15&nbsp;&nbsp;CBS NewsFrench lawmakers advance measure that would ban social media for under-15s&nbsp;&nbsp;France 24France's National Assembly approves banning under-15s from social media&nbsp;&nbsp;Reuters"
 slug: "french-mps-take-first-step-to-ban-social-media-for-under-15s-bbc"

@@ -1,6 +1,6 @@
 ---
 title: "All eyes are on Rubio as he navigates the world in 2 critical roles - NPR"
-date: 2026-01-26
+date: 2026-01-27
 description: "All eyes are on Rubio as he navigates the world in 2 critical roles&nbsp;&nbsp;NPRView Full Coverage on Google News"
 summary: "All eyes are on Rubio as he navigates the world in 2 critical roles&nbsp;&nbsp;NPRView Full Coverage on Google News"
 slug: "all-eyes-are-on-rubio-as-he-navigates-the-world-in-2-critical-roles-npr"

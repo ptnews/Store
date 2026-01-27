@@ -1,6 +1,6 @@
 ---
 title: "Israeli fire kills three in Gaza, medics say, as US pushes deal - Reuters"
-date: 2026-01-26
+date: 2026-01-27
 description: "Israeli fire kills three in Gaza, medics say, as US pushes deal&nbsp;&nbsp;ReutersBoys collecting firewood in Gaza killed by Israeli fire&nbsp;&nbsp;CNNIsraeli strike in Gaza kills three journalists, first responders say&nbsp;&nbsp;BBCBari Weiss’s CBS News Won’t Even Condemn Israel for Killing a CBS Contributor&nbsp;&nbsp;Zeteo | SubstackIsraeli Strikes in Gaza Kill 11, Including Three Journalists&nbsp;&nbsp;The New York Times"
 summary: "Israeli fire kills three in Gaza, medics say, as US pushes deal&nbsp;&nbsp;ReutersBoys collecting firewood in Gaza killed by Israeli fire&nbsp;&nbsp;CNNIsraeli strike in Gaza kills three journalists, first responders say&nbsp;&nbsp;BBCBari Weiss’s CBS News Won’t Even Condemn Israel for Killing a CBS Contributor&nbsp;&nbsp;Zeteo | SubstackIsraeli Strikes in Gaza Kill 11, Including Three Journalists&nbsp;&nbsp;The New York Times"
 slug: "israeli-fire-kills-three-in-gaza-medics-say-as-us-pushes-deal-reuters"

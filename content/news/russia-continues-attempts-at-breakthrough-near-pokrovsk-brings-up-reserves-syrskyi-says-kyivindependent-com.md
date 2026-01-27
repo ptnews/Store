@@ -1,6 +1,6 @@
 ---
 title: "Russia continues attempts at breakthrough near Pokrovsk, brings up reserves, Syrskyi says - kyivindependent.com"
-date: 2026-01-26
+date: 2026-01-27
 description: "Russia continues attempts at breakthrough near Pokrovsk, brings up reserves, Syrskyi says&nbsp;&nbsp;kyivindependent.comRussia-Ukraine war: List of key events, day 1,432&nbsp;&nbsp;Al JazeeraGeneral Staff on the front situation: 93 combat engagements recorded, enemy used 3198 kamikaze drones&nbsp;&nbsp;Українські Національні НовиниDaily World Briefing, Jan. 26&nbsp;&nbsp;XinhuaSyrskyi: Russia Tries to Break Through Near Pokrovsk as Ukraine Targets Reserves&nbsp;&nbsp;U..."
 summary: "Russia continues attempts at breakthrough near Pokrovsk, brings up reserves, Syrskyi says&nbsp;&nbsp;kyivindependent.comRussia-Ukraine war: List of key events, day 1,432&nbsp;&nbsp;Al JazeeraGeneral Staff on the front situation: 93 combat engagements recorded, enemy used 3198 kamikaze drones&nbsp;&nbsp;Українські Національні НовиниDaily World Briefing, Jan. 26&nbsp;&nbsp;XinhuaSyrskyi: Russia Tries to Break Through Near Pokrovsk as Ukraine Targets Reserves&nbsp;&nbsp;U..."
 slug: "russia-continues-attempts-at-breakthrough-near-pokrovsk-brings-up-reserves-syrskyi-says-kyivindependent-com"

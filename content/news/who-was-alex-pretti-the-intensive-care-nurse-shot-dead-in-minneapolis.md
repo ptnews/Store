@@ -1,6 +1,6 @@
 ---
 title: "Who was Alex Pretti, the intensive care nurse shot dead in Minneapolis?"
-date: 2026-01-26
+date: 2026-01-27
 description: "He has been described as an avid outdoorsman who loved mountain biking."
 summary: "He has been described as an avid outdoorsman who loved mountain biking."
 slug: "who-was-alex-pretti-the-intensive-care-nurse-shot-dead-in-minneapolis"

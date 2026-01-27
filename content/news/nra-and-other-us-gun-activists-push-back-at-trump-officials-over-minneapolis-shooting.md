@@ -1,6 +1,6 @@
 ---
 title: "NRA and other US gun activists push back at Trump officials over Minneapolis shooting"
-date: 2026-01-26
+date: 2026-01-27
 description: "The gun-lobby group, typically aligned with Trump, criticises a suggestion that those who carry guns risk being lawfully shot."
 summary: "The gun-lobby group, typically aligned with Trump, criticises a suggestion that those who carry guns risk being lawfully shot."
 slug: "nra-and-other-us-gun-activists-push-back-at-trump-officials-over-minneapolis-shooting"

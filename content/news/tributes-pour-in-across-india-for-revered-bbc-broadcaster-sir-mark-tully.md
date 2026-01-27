@@ -1,6 +1,6 @@
 ---
 title: "Tributes pour in across India for revered BBC broadcaster Sir Mark Tully"
-date: 2026-01-26
+date: 2026-01-27
 description: "Sir Mark Tully's cremation was held on Monday in Delhi, where he lived even after leaving the BBC."
 summary: "Sir Mark Tully's cremation was held on Monday in Delhi, where he lived even after leaving the BBC."
 slug: "tributes-pour-in-across-india-for-revered-bbc-broadcaster-sir-mark-tully"

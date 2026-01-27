@@ -1,6 +1,6 @@
 ---
 title: "NATO’s Been Talking About Greenland for Years - The Bulwark"
-date: 2026-01-26
+date: 2026-01-27
 description: "NATO’s Been Talking About Greenland for Years&nbsp;&nbsp;The BulwarkOpinion | The End of NATO Is Coming, and That’s No Disaster&nbsp;&nbsp;The New York TimesGreenland, America and the end of Atlanticism&nbsp;&nbsp;Financial TimesCracks “Wide Open” in NATO? Is Trump Planning To Exit Trans-Atlantic Alliance or Scaring Europeans?&nbsp;&nbsp;eurasiantimes.comAmerica should withdraw from NATO immediately&nbsp;&nbsp;The Hill"
 summary: "NATO’s Been Talking About Greenland for Years&nbsp;&nbsp;The BulwarkOpinion | The End of NATO Is Coming, and That’s No Disaster&nbsp;&nbsp;The New York TimesGreenland, America and the end of Atlanticism&nbsp;&nbsp;Financial TimesCracks “Wide Open” in NATO? Is Trump Planning To Exit Trans-Atlantic Alliance or Scaring Europeans?&nbsp;&nbsp;eurasiantimes.comAmerica should withdraw from NATO immediately&nbsp;&nbsp;The Hill"
 slug: "nato-s-been-talking-about-greenland-for-years-the-bulwark"

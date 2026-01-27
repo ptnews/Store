@@ -1,6 +1,6 @@
 ---
 title: "South Sudan army threat to 'spare no-one' condemned - BBC"
-date: 2026-01-26
+date: 2026-01-27
 description: "South Sudan army threat to 'spare no-one' condemned&nbsp;&nbsp;BBCSouth Sudan crisis heightens 'risk of mass violence' against civilians, UN experts say&nbsp;&nbsp;France 24“Evacuate now,” army tells civilians in Lou Nuer areas&nbsp;&nbsp;Radio TamazujSPLA-IO declares decisive phase of war, orders restraint toward civilians&nbsp;&nbsp;Sudans PostCPA Executive Director David Dieng Ring Urges South Sudanese Leaders to De-escalate Tensions&nbsp;&nbsp;Oz Arab Media"
 summary: "South Sudan army threat to 'spare no-one' condemned&nbsp;&nbsp;BBCSouth Sudan crisis heightens 'risk of mass violence' against civilians, UN experts say&nbsp;&nbsp;France 24“Evacuate now,” army tells civilians in Lou Nuer areas&nbsp;&nbsp;Radio TamazujSPLA-IO declares decisive phase of war, orders restraint toward civilians&nbsp;&nbsp;Sudans PostCPA Executive Director David Dieng Ring Urges South Sudanese Leaders to De-escalate Tensions&nbsp;&nbsp;Oz Arab Media"
 slug: "south-sudan-army-threat-to-spare-no-one-condemned-bbc"

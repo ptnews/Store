@@ -1,6 +1,6 @@
 ---
 title: "Number of people living in extreme heat to double by 2050 if 2C rise occurs, study finds - The Guardian"
-date: 2026-01-26
+date: 2026-01-27
 description: "Number of people living in extreme heat to double by 2050 if 2C rise occurs, study finds&nbsp;&nbsp;The GuardianView Full Coverage on Google News"
 summary: "Number of people living in extreme heat to double by 2050 if 2C rise occurs, study finds&nbsp;&nbsp;The GuardianView Full Coverage on Google News"
 slug: "number-of-people-living-in-extreme-heat-to-double-by-2050-if-2c-rise-occurs-study-finds-the-guardian"

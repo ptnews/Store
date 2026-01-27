@@ -1,6 +1,6 @@
 ---
 title: "Transcript: Canadian ambassador Kirsten Hillman on \"Face the Nation with Margaret Brennan,\" Jan. 25, 2026 - CBS News"
-date: 2026-01-26
+date: 2026-01-27
 description: "Transcript: Canadian ambassador Kirsten Hillman on \"Face the Nation with Margaret Brennan,\" Jan. 25, 2026&nbsp;&nbsp;CBS NewsOpinion | Trump Just Proved Mark Carney’s Point&nbsp;&nbsp;The New York TimesThe week the US and Canada broke up&nbsp;&nbsp;vox.comTrump withdraws Canada's invite to join Board of Peace&nbsp;&nbsp;BBCTrump escalates Carney feud after Davos dust-up&nbsp;&nbsp;Axios"
 summary: "Transcript: Canadian ambassador Kirsten Hillman on \"Face the Nation with Margaret Brennan,\" Jan. 25, 2026&nbsp;&nbsp;CBS NewsOpinion | Trump Just Proved Mark Carney’s Point&nbsp;&nbsp;The New York TimesThe week the US and Canada broke up&nbsp;&nbsp;vox.comTrump withdraws Canada's invite to join Board of Peace&nbsp;&nbsp;BBCTrump escalates Carney feud after Davos dust-up&nbsp;&nbsp;Axios"
 slug: "transcript-canadian-ambassador-kirsten-hillman-on-face-the-nation-with-margaret-brennan-jan-25-2026-cbs-news"

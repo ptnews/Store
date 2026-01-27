@@ -1,6 +1,6 @@
 ---
 title: "Russia using Interpol's wanted list to target critics abroad, leak reveals"
-date: 2026-01-26
+date: 2026-01-27
 description: "A leak exposes for the first time the extent of Russia’s misuse of Interpol to request the arrest of critics."
 summary: "A leak exposes for the first time the extent of Russia’s misuse of Interpol to request the arrest of critics."
 slug: "russia-using-interpol-s-wanted-list-to-target-critics-abroad-leak-reveals"

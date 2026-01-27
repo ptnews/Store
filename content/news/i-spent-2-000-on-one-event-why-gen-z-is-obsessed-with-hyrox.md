@@ -1,6 +1,6 @@
 ---
 title: "'I spent £2,000 on one event': Why Gen Z is obsessed with Hyrox"
-date: 2026-01-26
+date: 2026-01-27
 description: "How young millennials and Generation Z - people in their twenties to early forties - have become obsessed with this fitness craze."
 summary: "How young millennials and Generation Z - people in their twenties to early forties - have become obsessed with this fitness craze."
 slug: "i-spent-2-000-on-one-event-why-gen-z-is-obsessed-with-hyrox"

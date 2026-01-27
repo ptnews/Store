@@ -1,6 +1,6 @@
 ---
 title: "Heatwave warnings across Australia as millions celebrate national day"
-date: 2026-01-26
+date: 2026-01-27
 description: "Temperatures are expected to peak on Tuesday, reaching the \"high forties\" in Victoria and South Australia."
 summary: "Temperatures are expected to peak on Tuesday, reaching the \"high forties\" in Victoria and South Australia."
 slug: "heatwave-warnings-across-australia-as-millions-celebrate-national-day"

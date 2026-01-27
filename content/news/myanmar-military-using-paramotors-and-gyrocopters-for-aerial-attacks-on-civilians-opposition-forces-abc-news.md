@@ -1,6 +1,6 @@
 ---
 title: "Myanmar military using paramotors and gyrocopters for aerial attacks on civilians, opposition forces - ABC News"
-date: 2026-01-26
+date: 2026-01-27
 description: "Myanmar military using paramotors and gyrocopters for aerial attacks on civilians, opposition forces&nbsp;&nbsp;ABC NewsMyanmar: Jet fuel used in deadly air strikes flowing in on ‘ghost ships’ with suspected links to Iran&nbsp;&nbsp;Amnesty InternationalMyanmar uses ‘ghost ships’ to import aviation fuel for deadly air attacks, Amnesty says&nbsp;&nbsp;AP NewsDrones are shaping warfare in Europe; here’s how they’ll do the same in the Indo-Pacific&nbsp;&nbsp;Breaking DefenseThe Iranian ..."
 summary: "Myanmar military using paramotors and gyrocopters for aerial attacks on civilians, opposition forces&nbsp;&nbsp;ABC NewsMyanmar: Jet fuel used in deadly air strikes flowing in on ‘ghost ships’ with suspected links to Iran&nbsp;&nbsp;Amnesty InternationalMyanmar uses ‘ghost ships’ to import aviation fuel for deadly air attacks, Amnesty says&nbsp;&nbsp;AP NewsDrones are shaping warfare in Europe; here’s how they’ll do the same in the Indo-Pacific&nbsp;&nbsp;Breaking DefenseThe Iranian ..."
 slug: "myanmar-military-using-paramotors-and-gyrocopters-for-aerial-attacks-on-civilians-opposition-forces-abc-news"

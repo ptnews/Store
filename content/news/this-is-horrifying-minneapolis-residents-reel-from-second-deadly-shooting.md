@@ -1,6 +1,6 @@
 ---
 title: "'This is horrifying' - Minneapolis residents reel from second deadly shooting"
-date: 2026-01-26
+date: 2026-01-27
 description: "Two people have been shot dead by federal agents in the city in recent weeks, leaving many angry and frustrated."
 summary: "Two people have been shot dead by federal agents in the city in recent weeks, leaving many angry and frustrated."
 slug: "this-is-horrifying-minneapolis-residents-reel-from-second-deadly-shooting"

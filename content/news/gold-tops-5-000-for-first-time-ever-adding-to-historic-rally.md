@@ -1,6 +1,6 @@
 ---
 title: "Gold tops $5,000 for first time ever, adding to historic rally"
-date: 2026-01-26
+date: 2026-01-27
 description: "Gold is seen as a so-called safe-haven asset that investors buy in times of uncertainty and low interest rates."
 summary: "Gold is seen as a so-called safe-haven asset that investors buy in times of uncertainty and low interest rates."
 slug: "gold-tops-5-000-for-first-time-ever-adding-to-historic-rally"

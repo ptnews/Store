@@ -1,6 +1,6 @@
 ---
 title: "Israel says it has retrieved remains of final Gaza hostage"
-date: 2026-01-26
+date: 2026-01-27
 description: "Israeli Prime Minister Benjamin Netanyahu called Ran Gvili’s return \"an extraordinary achievement\"."
 summary: "Israeli Prime Minister Benjamin Netanyahu called Ran Gvili’s return \"an extraordinary achievement\"."
 slug: "israel-says-it-has-retrieved-remains-of-final-gaza-hostage"

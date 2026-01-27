@@ -1,6 +1,6 @@
 ---
 title: "Private jet carrying eight people crashes in Maine"
-date: 2026-01-26
+date: 2026-01-27
 description: "Poor visibility was reported at the airport during a winter storm that has affected a large swathe of the US."
 summary: "Poor visibility was reported at the airport during a winter storm that has affected a large swathe of the US."
 slug: "private-jet-carrying-eight-people-crashes-in-maine"

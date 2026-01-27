@@ -1,6 +1,6 @@
 ---
 title: "Ensnared by the global cyberscam vortex, swindler and victims join forces to take down ringleaders - CNN"
-date: 2026-01-26
+date: 2026-01-27
 description: "Ensnared by the global cyberscam vortex, swindler and victims join forces to take down ringleaders&nbsp;&nbsp;CNNSouth Korea police say detain 55 scam suspects repatriated from Cambodia&nbsp;&nbsp;Reuters73 South Koreans repatriated from Cambodia to face investigations over online scams&nbsp;&nbsp;gainesvilleregister.comBusan court detains 49 in Cambodian 'no-show' scam&nbsp;&nbsp;MSNSouth Korea Cambodia Cybercrime&nbsp;&nbsp;chronicle-tribune.com"
 summary: "Ensnared by the global cyberscam vortex, swindler and victims join forces to take down ringleaders&nbsp;&nbsp;CNNSouth Korea police say detain 55 scam suspects repatriated from Cambodia&nbsp;&nbsp;Reuters73 South Koreans repatriated from Cambodia to face investigations over online scams&nbsp;&nbsp;gainesvilleregister.comBusan court detains 49 in Cambodian 'no-show' scam&nbsp;&nbsp;MSNSouth Korea Cambodia Cybercrime&nbsp;&nbsp;chronicle-tribune.com"
 slug: "ensnared-by-the-global-cyberscam-vortex-swindler-and-victims-join-forces-to-take-down-ringleaders-cnn"

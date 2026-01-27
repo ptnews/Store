@@ -1,6 +1,6 @@
 ---
 title: "EU investigates Elon Musk's X over Grok AI sexual deepfakes"
-date: 2026-01-26
+date: 2026-01-27
 description: "The Commission will assess whether \"manipulated sexually explicit images\" have been shown to users in the EU."
 summary: "The Commission will assess whether \"manipulated sexually explicit images\" have been shown to users in the EU."
 slug: "eu-investigates-elon-musk-s-x-over-grok-ai-sexual-deepfakes"

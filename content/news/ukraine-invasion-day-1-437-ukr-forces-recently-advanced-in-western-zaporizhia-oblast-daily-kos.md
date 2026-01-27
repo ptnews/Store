@@ -1,6 +1,6 @@
 ---
 title: "Ukraine Invasion Day 1,437: UKR forces recently advanced in western Zaporizhia Oblast. - Daily Kos"
-date: 2026-01-26
+date: 2026-01-27
 description: "Ukraine Invasion Day 1,437: UKR forces recently advanced in western Zaporizhia Oblast.&nbsp;&nbsp;Daily KosAt least 6 killed, 45 injured in Russian attacks over past day as winter energy crisis racks Ukraine&nbsp;&nbsp;kyivindependent.comValditara: \"Revising the school calendar? If there are concrete proposals, we'll evaluate them.\"&nbsp;&nbsp;Agenzia NovaRussia shoots down 13 drones during evening&nbsp;&nbsp;breakingthenews.netIskander Strike Stops Ukrainian Long-Range Drone Launch&nbsp;&nbsp;Ð..."
 summary: "Ukraine Invasion Day 1,437: UKR forces recently advanced in western Zaporizhia Oblast.&nbsp;&nbsp;Daily KosAt least 6 killed, 45 injured in Russian attacks over past day as winter energy crisis racks Ukraine&nbsp;&nbsp;kyivindependent.comValditara: \"Revising the school calendar? If there are concrete proposals, we'll evaluate them.\"&nbsp;&nbsp;Agenzia NovaRussia shoots down 13 drones during evening&nbsp;&nbsp;breakingthenews.netIskander Strike Stops Ukrainian Long-Range Drone Launch&nbsp;&nbsp;Ð..."
 slug: "ukraine-invasion-day-1-437-ukr-forces-recently-advanced-in-western-zaporizhia-oblast-daily-kos"

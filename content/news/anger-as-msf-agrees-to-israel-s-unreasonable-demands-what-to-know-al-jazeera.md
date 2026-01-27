@@ -1,6 +1,6 @@
 ---
 title: "Anger as MSF agrees to Israel’s ‘unreasonable demands’: What to know - Al Jazeera"
-date: 2026-01-26
+date: 2026-01-27
 description: "Anger as MSF agrees to Israel’s ‘unreasonable demands’: What to know&nbsp;&nbsp;Al JazeeraIsrael is trying to evict Doctors Without Borders from Gaza&nbsp;&nbsp;Le Monde.frMSF statement on staff registration and the continuation of medical care in the Occupied Palestinian Territory&nbsp;&nbsp;Doctors Without Borders'New York Times' becomes megaphone for NGO propaganda in Gaza - opinion&nbsp;&nbsp;jpost.comIsrael pays for UK adverts attacking Doctors Without Borders&nbsp;&nbsp;mronline.org"
 summary: "Anger as MSF agrees to Israel’s ‘unreasonable demands’: What to know&nbsp;&nbsp;Al JazeeraIsrael is trying to evict Doctors Without Borders from Gaza&nbsp;&nbsp;Le Monde.frMSF statement on staff registration and the continuation of medical care in the Occupied Palestinian Territory&nbsp;&nbsp;Doctors Without Borders'New York Times' becomes megaphone for NGO propaganda in Gaza - opinion&nbsp;&nbsp;jpost.comIsrael pays for UK adverts attacking Doctors Without Borders&nbsp;&nbsp;mronline.org"
 slug: "anger-as-msf-agrees-to-israel-s-unreasonable-demands-what-to-know-al-jazeera"

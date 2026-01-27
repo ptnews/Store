@@ -1,6 +1,6 @@
 ---
 title: "Saudi dissident awarded $4.1 million by UK court for hacking, assault 'by Saudi Arabia' - Reuters"
-date: 2026-01-26
+date: 2026-01-27
 description: "Saudi dissident awarded $4.1 million by UK court for hacking, assault 'by Saudi Arabia'&nbsp;&nbsp;ReutersSaudi Arabia ordered to pay £3m to London dissident over Pegasus spying&nbsp;&nbsp;The GuardianSaudi Activist Awarded £3 Million by UK Court Over Hacking, Assault&nbsp;&nbsp;Bloomberg.comSaudi Arabia ordered to pay YouTuber £3m for Harrods beating and phone hack&nbsp;&nbsp;The IndependentJudge awards British critic of Saudis $4.1 million, finds the regime hacked his devices&nbsp;&nbsp;The..."
 summary: "Saudi dissident awarded $4.1 million by UK court for hacking, assault 'by Saudi Arabia'&nbsp;&nbsp;ReutersSaudi Arabia ordered to pay £3m to London dissident over Pegasus spying&nbsp;&nbsp;The GuardianSaudi Activist Awarded £3 Million by UK Court Over Hacking, Assault&nbsp;&nbsp;Bloomberg.comSaudi Arabia ordered to pay YouTuber £3m for Harrods beating and phone hack&nbsp;&nbsp;The IndependentJudge awards British critic of Saudis $4.1 million, finds the regime hacked his devices&nbsp;&nbsp;The..."
 slug: "saudi-dissident-awarded-4-1-million-by-uk-court-for-hacking-assault-by-saudi-arabia-reuters"

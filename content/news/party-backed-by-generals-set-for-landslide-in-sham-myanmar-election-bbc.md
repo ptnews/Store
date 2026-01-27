@@ -1,6 +1,6 @@
 ---
 title: "Party backed by generals set for landslide in 'sham' Myanmar election - BBC"
-date: 2026-01-26
+date: 2026-01-27
 description: "Party backed by generals set for landslide in 'sham' Myanmar election&nbsp;&nbsp;BBCMyanmar’s military choreographs an election, with Beijing’s help&nbsp;&nbsp;The Washington Post‘This is a fake election’: Polls close in Myanmar but voters have little doubt junta proxy will prevail&nbsp;&nbsp;The GuardianMyanmar's junta leader dismisses critics as military allies head for landslide election win&nbsp;&nbsp;ReutersChina-backed elections set to entrench military rule in Myanmar&nbsp;&nbsp;F..."
 summary: "Party backed by generals set for landslide in 'sham' Myanmar election&nbsp;&nbsp;BBCMyanmar’s military choreographs an election, with Beijing’s help&nbsp;&nbsp;The Washington Post‘This is a fake election’: Polls close in Myanmar but voters have little doubt junta proxy will prevail&nbsp;&nbsp;The GuardianMyanmar's junta leader dismisses critics as military allies head for landslide election win&nbsp;&nbsp;ReutersChina-backed elections set to entrench military rule in Myanmar&nbsp;&nbsp;F..."
 slug: "party-backed-by-generals-set-for-landslide-in-sham-myanmar-election-bbc"

@@ -1,6 +1,6 @@
 ---
 title: "Spain slashes speed limit on popular train route after fault found"
-date: 2026-01-26
+date: 2026-01-27
 description: "The discovery of a crack on the Madrid-Barcelona line follows two recent deadly crashes in the country. "
 summary: "The discovery of a crack on the Madrid-Barcelona line follows two recent deadly crashes in the country. "
 slug: "spain-slashes-speed-limit-on-popular-train-route-after-fault-found"

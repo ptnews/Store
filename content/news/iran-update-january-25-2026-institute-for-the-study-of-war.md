@@ -1,6 +1,6 @@
 ---
 title: "Iran Update, January 25, 2026 - Institute for the Study of War"
-date: 2026-01-26
+date: 2026-01-27
 description: "Iran Update, January 25, 2026&nbsp;&nbsp;Institute for the Study of WarTehran Wages War on Iran’s Youth and Women As More Victims of Regime Brutality Identified&nbsp;&nbsp;National Council of Resistance of Iran - NCRIThe Virtual Life of Raha Bohloulipour: The Girl Who Wept at the Scent of Shiraz’s Orange Blossoms&nbsp;&nbsp;IranWireIn Tribute to the Martyrs of the January 2026 Uprising…&nbsp;&nbsp;maryam-rajavi.comNames That Must Not Be Forgotten: Women Who Lost Their Lives in Iran’s Jan..."
 summary: "Iran Update, January 25, 2026&nbsp;&nbsp;Institute for the Study of WarTehran Wages War on Iran’s Youth and Women As More Victims of Regime Brutality Identified&nbsp;&nbsp;National Council of Resistance of Iran - NCRIThe Virtual Life of Raha Bohloulipour: The Girl Who Wept at the Scent of Shiraz’s Orange Blossoms&nbsp;&nbsp;IranWireIn Tribute to the Martyrs of the January 2026 Uprising…&nbsp;&nbsp;maryam-rajavi.comNames That Must Not Be Forgotten: Women Who Lost Their Lives in Iran’s Jan..."
 slug: "iran-update-january-25-2026-institute-for-the-study-of-war"

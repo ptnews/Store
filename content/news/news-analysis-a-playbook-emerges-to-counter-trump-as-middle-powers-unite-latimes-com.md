@@ -1,6 +1,6 @@
 ---
 title: "News Analysis: A playbook emerges to counter Trump as ‘middle powers’ unite - latimes.com"
-date: 2026-01-26
+date: 2026-01-27
 description: "News Analysis: A playbook emerges to counter Trump as ‘middle powers’ unite&nbsp;&nbsp;latimes.comThe true danger posed by Donald Trump&nbsp;&nbsp;The EconomistTrump’s Turnabout on Greenland Shows the Limits of His Coercive Powers&nbsp;&nbsp;The New York TimesThe Stillbirth of the Nationalist International&nbsp;&nbsp;The American Prospect'The damage has been done': As Trump claims victory on Greenland, Europe loses trust&nbsp;&nbsp;NBC News"
 summary: "News Analysis: A playbook emerges to counter Trump as ‘middle powers’ unite&nbsp;&nbsp;latimes.comThe true danger posed by Donald Trump&nbsp;&nbsp;The EconomistTrump’s Turnabout on Greenland Shows the Limits of His Coercive Powers&nbsp;&nbsp;The New York TimesThe Stillbirth of the Nationalist International&nbsp;&nbsp;The American Prospect'The damage has been done': As Trump claims victory on Greenland, Europe loses trust&nbsp;&nbsp;NBC News"
 slug: "news-analysis-a-playbook-emerges-to-counter-trump-as-middle-powers-unite-latimes-com"

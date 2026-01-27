@@ -1,6 +1,6 @@
 ---
 title: "Deadly winter storm grips large parts of the US"
-date: 2026-01-26
+date: 2026-01-27
 description: "A powerful winter storm swept across the country, with heavy snow, ice and dangerously low temperatures affecting millions."
 summary: "A powerful winter storm swept across the country, with heavy snow, ice and dangerously low temperatures affecting millions."
 slug: "deadly-winter-storm-grips-large-parts-of-the-us"

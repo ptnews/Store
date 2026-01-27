@@ -1,6 +1,6 @@
 ---
 title: "Nigerian officers to face trial over coup-plot allegations"
-date: 2026-01-26
+date: 2026-01-27
 description: "Following an investigation some of the 16 detained last year are accused of planning to unseat President Bola Tinubu."
 summary: "Following an investigation some of the 16 detained last year are accused of planning to unseat President Bola Tinubu."
 slug: "nigerian-officers-to-face-trial-over-coup-plot-allegations"

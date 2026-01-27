@@ -1,6 +1,6 @@
 ---
 title: "French MPs take first step to ban social media for under-15s"
-date: 2026-01-26
+date: 2026-01-27
 description: "Prime Minister Sébastien Lecornu has said he will use a fast-track procedure to get the legislation on the books by September."
 summary: "Prime Minister Sébastien Lecornu has said he will use a fast-track procedure to get the legislation on the books by September."
 slug: "french-mps-take-first-step-to-ban-social-media-for-under-15s"
