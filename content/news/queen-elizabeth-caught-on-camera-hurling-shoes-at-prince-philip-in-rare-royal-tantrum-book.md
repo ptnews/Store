@@ -1,8 +1,8 @@
 ---
 title: "Queen Elizabeth caught on camera hurling shoes at Prince Philip in rare royal tantrum: book"
 date: 2026-01-27
-description: "Behind palace doors, Queen Elizabeth II and Prince Philip&apos;s marriage featured heated arguments, secret nicknames, and sharp exchanges now being revealed by Robert Jobson and other royal experts."
-summary: "Behind palace doors, Queen Elizabeth II and Prince Philip&apos;s marriage featured heated arguments, secret nicknames, and sharp exchanges now being revealed by Robert Jobson and other royal experts."
+description: "Behind palace doors, Queen Elizabeth II and Prince Philip&apos;s marriage featured heated arguments, secret nicknames and sharp exchanges now being revealed by Robert Jobson and other royal experts."
+summary: "Behind palace doors, Queen Elizabeth II and Prince Philip&apos;s marriage featured heated arguments, secret nicknames and sharp exchanges now being revealed by Robert Jobson and other royal experts."
 slug: "queen-elizabeth-caught-on-camera-hurling-shoes-at-prince-philip-in-rare-royal-tantrum-book"
 image: ''
 link: 'https://www.foxnews.com/entertainment/queen-elizabeth-caught-camera-hurling-shoes-prince-philip-rare-royal-tantrum-book'

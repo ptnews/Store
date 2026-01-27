@@ -1,0 +1,21 @@
+---
+title: "Pope to Roman Rota: Justice and charity find harmony in mystery of God - Vatican News"
+date: 2026-01-27
+description: "Pope to Roman Rota: Justice and charity find harmony in mystery of God&nbsp;&nbsp;Vatican NewsPope Leo says the Catholic Church cannot ‘relativize’ its teaching on marriage&nbsp;&nbsp;CruxPope warns of “misunderstood compassion” in annulment cases&nbsp;&nbsp;aleteia.orgPope Leo XIV Urges Roman Rota Judges to Seek Balance Between Truth and Charity&nbsp;&nbsp;National Catholic RegisterThe Pope before the Roman Rota: “May the service of truth in charity shine forth in your work”&nbsp;&n..."
+summary: "Pope to Roman Rota: Justice and charity find harmony in mystery of God&nbsp;&nbsp;Vatican NewsPope Leo says the Catholic Church cannot ‘relativize’ its teaching on marriage&nbsp;&nbsp;CruxPope warns of “misunderstood compassion” in annulment cases&nbsp;&nbsp;aleteia.orgPope Leo XIV Urges Roman Rota Judges to Seek Balance Between Truth and Charity&nbsp;&nbsp;National Catholic RegisterThe Pope before the Roman Rota: “May the service of truth in charity shine forth in your work”&nbsp;&n..."
+slug: "pope-to-roman-rota-justice-and-charity-find-harmony-in-mystery-of-god-vatican-news"
+image: ''
+link: 'https://news.google.com/rss/articles/CBMipAFBVV95cUxNb2QxbXhVLXVrYklnN0ZGNHRYRHZqTHUycHZrRklXUWVXdnFzeUZOMkNaNUlJdFNsWXdFeG1aMk1CaURSRGxOZTlldnJZUlJ3WXhjQm5GSURnTEFKQ3pfY3g2eElZekluSkhNUG9iMmhlUklCc3lldmZWUzkzVlEzMnpsVHBhenpFT0hCT3dpZzhzOUpKRGtuTFprVmMxZmdKUG5idA?oc=5'
+source: 'https://news.google.com/rss/topics/CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx1YlY4U0FtVnVHZ0pWVXlnQVAB?hl=en-US&gl=US&ceid=US:en'
+categories:
+- 'news.google.com'
+tags:
+- 'justice'
+- 'charity'
+- 'harmony'
+- 'mystery'
+- 'vatican'
+
+draft: false
+---
+<ol><li><a href="https://news.google.com/rss/articles/CBMipAFBVV95cUxNb2QxbXhVLXVrYklnN0ZGNHRYRHZqTHUycHZrRklXUWVXdnFzeUZOMkNaNUlJdFNsWXdFeG1aMk1CaURSRGxOZTlldnJZUlJ3WXhjQm5GSURnTEFKQ3pfY3g2eElZekluSkhNUG9iMmhlUklCc3lldmZWUzkzVlEzMnpsVHBhenpFT0hCT3dpZzhzOUpKRGtuTFprVmMxZmdKUG5idA?oc=5" target="_blank">Pope to Roman Rota: Justice and charity find harmony in mystery of God</a>&nbsp;&nbsp;<font color="#6f6f6f">Vatican News</font></li><li><a href="https://news.google.com/rss/articles/CBMisgFBVV95cUxPUWZ2T3EzZHFSSVhrNnpVeS1qc2RWeWsyWUUtNGp1ZG1HTGQ2cWpZcVN3VVRNbmJSa1o5T0FWS0dndndFOGRCMVFmQllNUTVfakFEbURManMzazhTdVo1THB6V1h2WkxVanFaX3RmS3A5SkI2dkxqVnVqemN1NDhqTmYxSDJoQjBTcHdWaC1PblVpOVo5Q0NrbmFLRDVkUjhkeU5vQnVZdUEySXl5Ym9ZMFB3?oc=5" target="_blank">Pope Leo says the Catholic Church cannot ‘relativize’ its teaching on marriage</a>&nbsp;&nbsp;<font color="#6f6f6f">Crux</font></li><li><a href="https://news.google.com/rss/articles/CBMimgFBVV95cUxOT2J6aUF6cDVub2lHaG1oMUhVQTRzZkVHM1JnSVFRaXRRV0RSOHBTUWJFX0tvRy1nMHlheXRvTmhoaC1yQXcwckwwYVJGSklxc0Q3cnY5RHREVGt3R3VQYTZZTk1vZGFhdW9VQmxyRHFsajdjeDFaSXc4UUlBMUpnLVQ3VkhBdklfYmV6dmNIYi1tbGc3N0hFdDJB?oc=5" target="_blank">Pope warns of “misunderstood compassion” in annulment cases</a>&nbsp;&nbsp;<font color="#6f6f6f">aleteia.org</font></li><li><a href="https://news.google.com/rss/articles/CBMirgFBVV95cUxOcFpjZmNIQXJjbm9rTlhvUlJmZDhNb2NJVzN5THV4QURlaFo5dkpoWFQxaGVrVmk4VXh4TTFzdVpMYktuR3U2d0lLeVJ4Y1R5Y0RleXVXM3NjczNaMUl0d3pGSWV0N2N6MldnMUYteGtycVdmUl80VFE5MnpsWFUxdlN1SktLeUZYTXR6cHROT0dMTTJLSHFuSXpYekxWU0ZTdFdtQWpCRWlHSWd1MGfSAbMBQVVfeXFMT1NZMlJjZUJYR1RkTzROUjVpTDZ0dkY1SGtJWC03a2NTREYzUWl1a29pUDZCSWIwSHB2Q1JiUHhsRmRQVk5QZk54ZUdZUlNFdGVZU1BKME1hdHNhbkE2bnp5TnBidm5WLWdhNVVxMXNlNm9NT3BJQ3Y2dy1iQVcyQ29ZQWJ1bUY1NF9SWWpjVW9HX3BuQ0JPcHFXaWN5VEhIZVZpa0ViZWFnbWtIcDRhSEd1THc?oc=5" target="_blank">Pope Leo XIV Urges Roman Rota Judges to Seek Balance Between Truth and Charity</a>&nbsp;&nbsp;<font color="#6f6f6f">National Catholic Register</font></li><li><a href="https://news.google.com/rss/articles/CBMisAFBVV95cUxNTlh4Z1dzSjZtcEwxbURwamFUeFRhd2p4MERqbTNpa0k5ci1QYldSd0hhMXFJMjZlRUtZSHlpdDM3b3ppMnVBY0tuMHRLd2hvZzZwM1ZISi1xYkVad29ITi1FRVdLbXpIQ2xIQ1FFcXMxYjZPa0hLVk96aWtwamhKQnpBbk5fcVRRVHpXZmZLZTROdVNrRDFEbjFpUDcxRFpKaGN6Tl9VbTRPNGVlcVJZNA?oc=5" target="_blank">The Pope before the Roman Rota: “May the service of truth in charity shine forth in your work”</a>&nbsp;&nbsp;<font color="#6f6f6f">exaudi.org</font></li></ol>
