@@ -1,0 +1,21 @@
+---
+title: "Patriots coach Mike Vrabel reveals extreme sacrifice he'd make to his male anatomy to win the Super Bowl"
+date: 2026-01-27
+description: "Patriots head coach Mike Vrabel discusses his a lewd 2019 comment about a physical sacrifice he would make to win a Super Bowl during an interview."
+summary: "Patriots head coach Mike Vrabel discusses his a lewd 2019 comment about a physical sacrifice he would make to win a Super Bowl during an interview."
+slug: "patriots-coach-mike-vrabel-reveals-extreme-sacrifice-he-d-make-to-his-male-anatomy-to-win-the-super-bowl"
+image: ''
+link: 'https://www.foxnews.com/sports/patriots-coach-mike-vrabel-reveals-sacrifice-hed-make-his-male-anatomy-win-super-bowl'
+source: 'https://feeds.foxnews.com/foxnews/latest'
+categories:
+- 'feeds.foxnews.com'
+tags:
+- 'sacrifice'
+- 'patriots'
+- 'reveals'
+- 'extreme'
+- 'anatomy'
+
+draft: false
+---
+<p>Mike Vrabel put his body on the line to win a Super Bowl as a player for the <a href="https://www.foxnews.com/category/sports/nfl/new-england-patriots" target="_blank" rel="noopener">New England Patriots</a> more than 20 years ago. </p><p>Today, as <a href="https://www.foxnews.com/sports/patriots-mike-vrabel-cusp-nfl-history-team-heads-super-bowl-lx" target="_blank" rel="noopener">head coach</a>, he'd go even further. </p><p>During an interview on "The Greg Hill Show," Tuesday, Vrabel was asked about a 2019 comment he made when he was head coach of the Tennessee Titans. That year, Vrabel said during a Barstool Sports interview that he would "cut off" his penis to win the Super Bowl. </p><p><a href="https://www.foxnews.com/sports" target="_blank" rel="noopener"><strong><u>CLICK HERE FOR MORE SPORTS COVERAGE ON FOXNEWS.COM</u></strong></a></p><p>This year, he's willing to take on similar damage to get the job done.</p><p>"Maybe I’ll cut it in half, but I ain’t cutting the whole thing off," Vrabel said. </p><p>Vrabel, 50, already has two sons, Tyler and Carter, with his wife, Jen. Vrabel went on to clarify why he would pay a lesser price to secure the Lombardi trophy with this year's Patriots team compared to the 2019 Titans. </p><p>"That was just to get that young fledgling group, Taylor [Lewan] and Will [Compton] [former NFL players and hosts of "Bussin’ With the Boys"], to fly into the podcast game, and it took off."</p><p><a href="https://www.foxnews.com/sports/patriots-coach-mike-vrabel-bleeds-from-lip-after-celebrating-star-defensive-lineman" target="_blank" rel="noopener"><strong>PATRIOTS COACH MIKE VRABEL BLEEDS FROM LIP AFTER CELEBRATING WITH STAR DEFENSIVE LINEMAN</strong></a></p><p>"I say a lot of things I don’t mean."</p><p>Vrabel's 2019 Titans ended up beating the Patriots in the Wild Card round of the playoffs that year in what was <a href="https://www.foxnews.com/category/person/tom-brady" target="_blank" rel="noopener">Tom </a><a href="https://www.foxnews.com/category/person/tom-brady" target="_blank" rel="noopener">Brady's</a> last game in New England. The Patriots were just one year removed from their most recent Super Bowl victory at that point. </p><p>Now, just six years later, New England is <a href="https://www.foxnews.com/sports/patriots-head-back-super-bowl-after-narrow-afc-title-win-over-broncos" target="_blank" rel="noopener">back in the big game</a> under Vrabel's leadership.</p><p>If the Patriots beat the <a href="https://www.foxnews.com/sports/patriots-mike-vrabel-cusp-nfl-history-team-heads-super-bowl-lx" target="_blank" rel="noopener">Seahawks in Super Bowl LX</a>, Vrabel would be the first head coach to win a Super Bowl title while playing and coaching for the same franchise. He already made similar history as he led the team to a conference championship.</p><p>Vrabel won three Super Bowl titles with the Patriots during his career.</p><p><i><strong>Follow Fox News Digital’s</strong></i><a href="https://twitter.com/FoxNewsSports_" target="_blank" rel="noopener"><i><strong><u> sports coverage on X</u></strong></i></a><i><strong> and subscribe to</strong></i><a href="https://www.foxnews.com/newsletters" target="_blank" rel="noopener"><i><strong><u> the Fox News Sports Huddle newsletter</u></strong></i></a><i><strong>.</strong></i></p>

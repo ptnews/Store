@@ -1,0 +1,21 @@
+---
+title: "Boston police ignored 100% of ICE detainer requests in 2025, citing sanctuary law"
+date: 2026-01-27
+description: "Boston rejected every ICE detainer request last year, citing sanctuary laws, as the Trump administration files a lawsuit and critics raise public safety concerns."
+summary: "Boston rejected every ICE detainer request last year, citing sanctuary laws, as the Trump administration files a lawsuit and critics raise public safety concerns."
+slug: "boston-police-ignored-100-of-ice-detainer-requests-in-2025-citing-sanctuary-law"
+image: ''
+link: 'https://www.foxnews.com/politics/boston-police-ignored-100-ice-detainer-requests-2025-citing-sanctuary-law'
+source: 'https://feeds.foxnews.com/foxnews/latest'
+categories:
+- 'feeds.foxnews.com'
+tags:
+- 'sanctuary'
+- 'detainer'
+- 'requests'
+- 'ignored'
+- 'boston'
+
+draft: false
+---
+<p>The <a href="https://www.foxnews.com/category/us/boston" target="_blank" rel="noopener">Boston</a> Police Department ignored all detainer requests made by federal immigration authorities last year in compliance with the city's sanctuary law, according to police Commissioner Michael Cox. </p><p>In a Jan. 12 letter from Cox to City Clerk Alex Geourntas, the commissioner noted that all 57 requests made by U.S. Immigration and Customs Enforcement (ICE) were rejected. ICE routinely lodges detainers with local jurisdictions when the agency becomes aware of illegal immigrants being held in custody who are subject to removal from the United States. </p><p>Cox said the department "remains committed to complying with the Boston Trust Act, as well as State Law, and to building and strengthening relationships and trust with all our communities across the City."</p><p><a href="https://www.foxnews.com/politics/boston-whistleblower-warns-migrant-crime-spillover-trumps-crackdown-looms" target="_blank" rel="noopener"><strong>BOSTON WHISTLEBLOWER WARNS OF MIGRANT CRIME SPILLOVER AS TRUMP CRACKDOWN LOOMS</strong></a></p><p>"Boston's immigrant communities should feel safe in reporting crime and quality of life issues to the Department," he added. </p><p>The request asks authorities to hold the person longer than their release date or notify ICE in time so they can transfer the subject into federal custody to begin deportation proceedings before they are released back onto the street. </p><p>"DHS has determined that probable cause exists that the subject is a removable individual," the reason listed on all the requests state, according to the letter. </p><p>Cox listed the date of each detainer request, and how it was received by the Boston Police Department. It doesn't list any specific information about the detainees or their <a href="https://www.foxnews.com/category/crime" target="_blank" rel="noopener">alleged crimes</a>. </p><p><a href="https://www.foxnews.com/politics/louisville-mayor-shifts-citys-immigration-policy-after-legal-threat-from-doj" target="_blank" rel="noopener"><strong>LOUISVILLE MAYOR SHIFTS IMMIGRATION POLICY AFTER LEGAL THREAT FROM DOJ</strong></a></p><p>The 57 detainer requests are a sharp uptick from the 15 filed by ICE to the BPD in 2024, according to a letter Cox wrote Geourntas in early 2025.  </p><p>However, many jurisdictions, including Boston, have <a href="https://www.foxnews.com/category/topic/sanctuary-cities" target="_blank" rel="noopener">sanctuary laws</a> that prohibit cooperation between local law enforcement and federal authorities. </p><p>Fox News Digital has reached out to Cox, the office of Boston Mayor Michelle Wu and the Democratic and Republican parties in Massachusetts. </p><p>The Boston Police Department is prohibited from detaining people solely because ICE has a filed a request. In December 2025, the City Council reaffirmed its support for the Trust Act. </p><p>Meanwhile, the Trump administration is <a href="https://www.foxnews.com/politics/doj-sues-boston-over-sanctuary-policies" target="_blank" rel="noopener">suing Boston</a> over the sanctuary law. </p><p>Critics of such laws argue it poses a public safety risk by releasing illegal immigrants already charged or convicted of additional crimes in the U.S. back into communities, where some have re-offended again, sometimes violently. </p>
