@@ -1,8 +1,8 @@
 ---
 title: "Instagram, Facebook and WhatsApp to trial premium subscriptions"
 date: 2026-01-27
-description: "Under the plan, access to the Meta platforms' core services would remain free to use."
-summary: "Under the plan, access to the Meta platforms' core services would remain free to use."
+description: "Under the plan, access to the Meta platforms' core services would remain free."
+summary: "Under the plan, access to the Meta platforms' core services would remain free."
 slug: "instagram-facebook-and-whatsapp-to-trial-premium-subscriptions"
 image: ''
 link: 'https://www.bbc.com/news/articles/ce8rpdmm284o?at_medium=RSS&at_campaign=rss'
@@ -18,4 +18,4 @@ tags:
 
 draft: false
 ---
-Under the plan, access to the Meta platforms' core services would remain free to use.
+Under the plan, access to the Meta platforms' core services would remain free.

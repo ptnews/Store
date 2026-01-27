@@ -1,8 +1,8 @@
 ---
 title: "Blatter urges FIFA World Cup boycott over Trump administration policies"
 date: 2026-01-27
-description: "Politicians and football experts call on fans and teams to boycott the tournament being cohosted by the US."
-summary: "Politicians and football experts call on fans and teams to boycott the tournament being cohosted by the US."
+description: "Ex-FIFA boss Sepp Blatter joins politicians, football experts calling on fans not to travel to US for 2026 World Cup."
+summary: "Ex-FIFA boss Sepp Blatter joins politicians, football experts calling on fans not to travel to US for 2026 World Cup."
 slug: "blatter-urges-fifa-world-cup-boycott-over-trump-administration-policies"
 image: ''
 link: 'https://www.aljazeera.com/sports/2026/1/27/blatter-urges-fifa-world-cup-boycott-over-trump-administration-policies?traffic_source=rss'
@@ -18,4 +18,4 @@ tags:
 
 draft: false
 ---
-Politicians and football experts call on fans and teams to boycott the tournament being cohosted by the US.
+Ex-FIFA boss Sepp Blatter joins politicians, football experts calling on fans not to travel to US for 2026 World Cup.
