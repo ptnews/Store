@@ -1,0 +1,21 @@
+---
+title: "Republicans appeal judge's decision rejecting New York City GOP district lines"
+date: 2026-01-27
+description: "The GOP appealed a New York judge&apos;s ruling that threw out district lines for a Republican, claiming it dilutes Black and Hispanic voting power."
+summary: "The GOP appealed a New York judge&apos;s ruling that threw out district lines for a Republican, claiming it dilutes Black and Hispanic voting power."
+slug: "republicans-appeal-judge-s-decision-rejecting-new-york-city-gop-district-lines"
+image: ''
+link: 'https://www.foxnews.com/politics/republicans-appeal-judges-decision-rejecting-new-york-city-gop-district-lines'
+source: 'https://feeds.foxnews.com/foxnews/latest'
+categories:
+- 'feeds.foxnews.com'
+tags:
+- 'republicans'
+- 'rejecting'
+- 'decision'
+- 'district'
+- 'appeal'
+
+draft: false
+---
+<p>The Republican Party is appealing a New York judge's decision to throw out the congressional lines for a GOP-held district in <a href="https://www.foxnews.com/category/us/new-york-city" target="_blank" rel="noopener">New York City</a> on Monday.</p><p>The judge ruled that <a href="https://www.foxnews.com/politics/judge-rules-nycs-lone-republican-congressional-district-unconstitutional-orders-redraw" target="_blank" rel="noopener">the current map</a> for Rep. Nicole Malliotakis' district, which lies in Staten Island and Brooklyn, dilutes the power of its Black and Hispanic voters. The state's Independent Redistricting Commission has now been tasked with creating a new map by February 6.</p><p>Republicans filed appeals to the ruling in two separate courts, including a mid-level appeals court and the state’s highest court, the Court of Appeals.</p><p>The Court of Appeals previously ruled against a Democrat-favored map in 2024. It has not announced a date for when it will take up the case for Malliotakis' district.</p><p><a href="https://www.foxnews.com/politics/redistricting-battles-brewing-across-country-parties-compete-power-ahead-2026-midterms" target="_blank" rel="noopener"><strong>REDISTRICTING BATTLES BREWING ACROSS THE COUNTRY AS PARTIES COMPETE FOR POWER AHEAD OF 2026 MIDTERMS</strong></a></p><p>The case is the latest battleground in a war over congressional maps being waged across the country ahead of the 2026 midterm elections.</p><p>Texas and California have pursued redistricting maps that would grant roughly five seats to the GOP and Democrats respectively.</p><p>Meanwhile, the <a href="https://www.foxnews.com/category/us/us-regions/southeast/virginia" target="_blank" rel="noopener">Virginia State Senate</a> on Friday greenlit a constitutional amendment that would clear the way for the Democrat-controlled legislature to redraw the state's House maps in time for midterms.</p><p><a href="https://www.foxnews.com/politics/doj-urges-supreme-court-block-california-map-calls-newsom-backed-plan-racial-gerrymander" target="_blank" rel="noopener"><strong>DOJ URGES SUPREME COURT TO BLOCK CALIFORNIA MAP, CALLS NEWSOM-BACKED PLAN A RACIAL GERRYMANDER</strong></a></p><p>If the ballot measure is approved this spring, the legislature, rather than the current non-partisan commission, would redraw the state's congressional maps through 2030.</p><p><a href="https://www.foxnews.com/category/democrats" target="_blank" rel="noopener">Virginia Democrats</a>, who currently control six of the state's 11 districts, are aiming to draw up to four additional left-leaning seats.</p><p>Republicans are defending their razor-thin House majority in the midterms, and Democrats need a net gain of just three seats to win back control of the chamber.</p><p>Republican-controlled Missouri and Ohio, and swing state North Carolina, where the GOP dominates the legislature, have drawn new maps as part of President <a href="https://www.foxnews.com/category/person/donald-trump" target="_blank" rel="noopener">Donald Trump</a>'s midterm push.</p><p>Florida Republicans, in a move pushed by GOP Gov. <a href="https://www.foxnews.com/category/person/ron-desantis" target="_blank" rel="noopener">Ron DeSantis</a> and state lawmakers, are also hoping to pick up an additional three to five seats through a redistricting push during a special legislative session in April.</p><p><i>The Associated Press contributed to this report.</i></p>

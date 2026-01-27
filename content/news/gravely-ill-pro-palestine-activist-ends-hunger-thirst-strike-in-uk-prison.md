@@ -1,8 +1,8 @@
 ---
 title: "Gravely ill pro-Palestine activist ends hunger, thirst strike in UK prison"
 date: 2026-01-27
-description: "Palestine Action-linked prisoner Umer Khalid, 22, ended his protest after becoming severely unwell."
-summary: "Palestine Action-linked prisoner Umer Khalid, 22, ended his protest after becoming severely unwell."
+description: "The months-long rolling protest joined by eight Palestine Action-linked activists concludes as Umer Khalid ends strike."
+summary: "The months-long rolling protest joined by eight Palestine Action-linked activists concludes as Umer Khalid ends strike."
 slug: "gravely-ill-pro-palestine-activist-ends-hunger-thirst-strike-in-uk-prison"
 image: ''
 link: 'https://www.aljazeera.com/news/2026/1/27/gravely-ill-pro-palestine-activist-ends-hunger-thirst-strike-in-prison?traffic_source=rss'
@@ -18,4 +18,4 @@ tags:
 
 draft: false
 ---
-Palestine Action-linked prisoner Umer Khalid, 22, ended his protest after becoming severely unwell.
+The months-long rolling protest joined by eight Palestine Action-linked activists concludes as Umer Khalid ends strike.
