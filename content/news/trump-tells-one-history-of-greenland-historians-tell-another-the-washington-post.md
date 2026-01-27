@@ -1,0 +1,21 @@
+---
+title: "Trump tells one history of Greenland. Historians tell another. - The Washington Post"
+date: 2026-01-27
+description: "Trump tells one history of Greenland. Historians tell another.&nbsp;&nbsp;The Washington PostBessent: Greenland deal is ‘much more fulsome’ for the US&nbsp;&nbsp;ABC NewsDavos 2026: Special Address by Donald J Trump, President of the United States of America&nbsp;&nbsp;weforum.orgAnalysis | Trump’s sudden retreat on Greenland shows that limits still exist&nbsp;&nbsp;The Washington PostHow Trump's designs on Greenland are testing the U.S.-Denmark alliance&nbsp;&nbsp;CBS News"
+summary: "Trump tells one history of Greenland. Historians tell another.&nbsp;&nbsp;The Washington PostBessent: Greenland deal is ‘much more fulsome’ for the US&nbsp;&nbsp;ABC NewsDavos 2026: Special Address by Donald J Trump, President of the United States of America&nbsp;&nbsp;weforum.orgAnalysis | Trump’s sudden retreat on Greenland shows that limits still exist&nbsp;&nbsp;The Washington PostHow Trump's designs on Greenland are testing the U.S.-Denmark alliance&nbsp;&nbsp;CBS News"
+slug: "trump-tells-one-history-of-greenland-historians-tell-another-the-washington-post"
+image: ''
+link: 'https://news.google.com/rss/articles/CBMilwFBVV95cUxPWWRXWjNSMnJjZ3lYRUpJWWtLMWdPWXhMeERwNGRpX3pNZU4zV25WN2c2N2MxMkxiMmhlZVEtLUZYUTJXY01QdTFISUh3YVYzUVdvNExQVk11UVZtUHNTVFRfVTYzYlB1ZmZ6dXlZNHdDNTJDbzUwa2NrbWFTVlB1SXVYTGdkVHZhM1JOTVhIN1VldzZ1S20w?oc=5'
+source: 'https://news.google.com/rss/topics/CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx1YlY4U0FtVnVHZ0pWVXlnQVAB?hl=en-US&gl=US&ceid=US:en'
+categories:
+- 'news.google.com'
+tags:
+- 'historians'
+- 'washington'
+- 'greenland'
+- 'history'
+- 'another'
+
+draft: false
+---
+<ol><li><a href="https://news.google.com/rss/articles/CBMilwFBVV95cUxPWWRXWjNSMnJjZ3lYRUpJWWtLMWdPWXhMeERwNGRpX3pNZU4zV25WN2c2N2MxMkxiMmhlZVEtLUZYUTJXY01QdTFISUh3YVYzUVdvNExQVk11UVZtUHNTVFRfVTYzYlB1ZmZ6dXlZNHdDNTJDbzUwa2NrbWFTVlB1SXVYTGdkVHZhM1JOTVhIN1VldzZ1S20w?oc=5" target="_blank">Trump tells one history of Greenland. Historians tell another.</a>&nbsp;&nbsp;<font color="#6f6f6f">The Washington Post</font></li><li><a href="https://news.google.com/rss/articles/CBMijgFBVV95cUxNRHU5Z2F3Y2R2R0NRY2loc1BBYUdrZDkzSzh0WDVOTEUyMmtLTVFncGJIbzNyeS1CNGFHTllObDdUS1h1UmpycTFndlBmTldYVnh2YW9fVWt2SWpsVzVobFZONU83aThRZFNiZ0hGX3FxdW5yR2dyazQ1QUk4cHZkQ3Y2UWJ0UmJDaEg3cHJn0gGTAUFVX3lxTE1hTE9sNFlvWFNPbDNVQkZRbWtMTGs5WWIzblFuT1lBT3dlcDBSRHpka04taGRVeEhjUV9QVFE5dEZhZjRMd1B3SHk0cEZxWnpKRDFESERSYWI5MFlWbW9BUlg1SENxQ3dfcFRlUFBVSVNGdjJtOEd4ZHpjei1zTS15Nml4cnhSUlJyeV9RRXFVaENHYw?oc=5" target="_blank">Bessent: Greenland deal is ‘much more fulsome’ for the US</a>&nbsp;&nbsp;<font color="#6f6f6f">ABC News</font></li><li><a href="https://news.google.com/rss/articles/CBMisgFBVV95cUxNTFZOdlpucUV0RFN6T053QmJIdlh1Uk9NMkZEVng2a1NDV2QwRTZoN3FsRXFSQV8xbmh2WThUbXNvVUxNbENGLUtTOU9yRzRJREhXNTR1WkdMLTNHZUhqeWNXRUNRSnZCSkJRQkM3VzJVcThaRnlZSVkxSEZlcy05S3ZoWXBSRF9wUVozRmRSMGhDZlRYMlAtX3FEbGZOYlN6V2VEZmZBbk56MjNMakxvQVdn?oc=5" target="_blank">Davos 2026: Special Address by Donald J Trump, President of the United States of America</a>&nbsp;&nbsp;<font color="#6f6f6f">weforum.org</font></li><li><a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxPSzk2WHJjcUtRLUtTaHdGdXlTLU1qUUFTZko0d2Q0c3JMWnIzdEZyVnVPdERDckVFSzNWZzJhUmhfVE5zQ3RXQnd5YTV0eFhSa09BWlF1MDJ5UFd0bm1FRldMOEVJS3ozTkxJVTg3V0lMZC0wdmk3QnhhNERHeUdSZFdtRGM?oc=5" target="_blank">Analysis | Trump’s sudden retreat on Greenland shows that limits still exist</a>&nbsp;&nbsp;<font color="#6f6f6f">The Washington Post</font></li><li><a href="https://news.google.com/rss/articles/CBMinwFBVV95cUxQemtHM19STEMySndWZTFnWTlOcVFRYnVrNjJxZllkY3VrRjlmQVliQ01xQkZVR1V0V0dMQ1FKR1lJSjFhWS0yc04xbVRoTmM1SkZIQlJzdVk3UjlkbDVORC1DQmJON2wxN283cFN5eUZvZEFCVFFtT2ZQbWsyMzNKTWRscU01QVZiSjZHZU01QTBKd1pQRnBTX0tYZmhGVlnSAaQBQVVfeXFMT3FIM3VDQmo3Q0I0ZFVRVEZfSXRBTXJoNDhTcEhFY3RxeDlKVVU1VGhuOGFtSVljYl9Ra2R3RmQ0bDlrb3dkME5OR0RDNlZVMlRPODBMRXpWWHllVDdDaHRDMEN2VVNBbDBkSktlMjJVR09McjJvWjhpeHFJRUc2V2NNc1VfWVR1SE5Qa2NURDhZRDhBWEhpamV4UDl0ZUtuUS1XWDA?oc=5" target="_blank">How Trump's designs on Greenland are testing the U.S.-Denmark alliance</a>&nbsp;&nbsp;<font color="#6f6f6f">CBS News</font></li></ol>
