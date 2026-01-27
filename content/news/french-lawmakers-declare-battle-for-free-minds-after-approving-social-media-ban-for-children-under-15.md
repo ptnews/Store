@@ -6,7 +6,7 @@ summary: "French lawmakers paved the way for a bill banning social media for chi
 slug: "french-lawmakers-declare-battle-for-free-minds-after-approving-social-media-ban-for-children-under-15"
 image: ''
 link: 'https://www.foxnews.com/world/france-lawmakers-declare-battle-free-minds-after-approving-social-media-ban-children-under-15'
-source: 'https://feeds.foxnews.com/foxnews/world'
+source: 'https://feeds.foxnews.com/foxnews/latest'
 categories:
 - 'feeds.foxnews.com'
 tags:

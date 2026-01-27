@@ -1,0 +1,21 @@
+---
+title: "Netanyahu claims progressive-Muslim plot to 'destroy West' at Israel antisemitism confab - Haaretz"
+date: 2026-01-27
+description: "Netanyahu claims progressive-Muslim plot to 'destroy West' at Israel antisemitism confab&nbsp;&nbsp;HaaretzNetanyahu’s government hosts antisemitism conference with European far right&nbsp;&nbsp;Financial TimesWhy Israel’s far-right Europe partnerships are backfiring&nbsp;&nbsp;jpost.comNetanyahu: Antisemitism is a ‘battle over the future of civilization’&nbsp;&nbsp;timesofisrael.comIsrael Is Sabotaging the Fight Against Antisemitism by Embracing Europe's Jew-hating Legacies&nbsp;&nbsp;H..."
+summary: "Netanyahu claims progressive-Muslim plot to 'destroy West' at Israel antisemitism confab&nbsp;&nbsp;HaaretzNetanyahu’s government hosts antisemitism conference with European far right&nbsp;&nbsp;Financial TimesWhy Israel’s far-right Europe partnerships are backfiring&nbsp;&nbsp;jpost.comNetanyahu: Antisemitism is a ‘battle over the future of civilization’&nbsp;&nbsp;timesofisrael.comIsrael Is Sabotaging the Fight Against Antisemitism by Embracing Europe's Jew-hating Legacies&nbsp;&nbsp;H..."
+slug: "netanyahu-claims-progressive-muslim-plot-to-destroy-west-at-israel-antisemitism-confab-haaretz"
+image: ''
+link: 'https://news.google.com/rss/articles/CBMirwJBVV95cUxOazhiRm12OUQtSFVvbTcwb3hfSHd2U2NQNjJMVlFGS1RZNVJlMmQ1c3lqSkhXWUpZMVFOenNkOVFXc3N6aG1CNDZXemVlSkZfLW10QllLbkE0azNkR3lFZjJpbjMyc2xINUNCcHNrUHoyUFlOX0JNZVo3aklVYkhVanc5enRWa2EtOG5yMWkyckNycDRSTm5IM0cyZ2w5WWxkVS16b05HSE5hczNYVTJFY2ZUWWlnbkd5TFhGb1AwQWZhdW1zTWd6cHR5amk4UVc0ZExCMFhCeHBFNUtlMzVFRXNFaUt4aDV4d0xaSFdYODFnbzBRQ2xUZl9pY1FCc2tRSGlYY19zM1hsQ1MyelZla1NRTEVTYVVxVTIwWXVJWWFNandGT05ETkZBcnBQODg?oc=5'
+source: 'https://news.google.com/rss/topics/CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx1YlY4U0FtVnVHZ0pWVXlnQVAB?hl=en-US&gl=US&ceid=US:en'
+categories:
+- 'news.google.com'
+tags:
+- 'antisemitism'
+- 'progressive'
+- 'netanyahu'
+- 'destroy'
+- 'haaretz'
+
+draft: false
+---
+<ol><li><a href="https://news.google.com/rss/articles/CBMirwJBVV95cUxOazhiRm12OUQtSFVvbTcwb3hfSHd2U2NQNjJMVlFGS1RZNVJlMmQ1c3lqSkhXWUpZMVFOenNkOVFXc3N6aG1CNDZXemVlSkZfLW10QllLbkE0azNkR3lFZjJpbjMyc2xINUNCcHNrUHoyUFlOX0JNZVo3aklVYkhVanc5enRWa2EtOG5yMWkyckNycDRSTm5IM0cyZ2w5WWxkVS16b05HSE5hczNYVTJFY2ZUWWlnbkd5TFhGb1AwQWZhdW1zTWd6cHR5amk4UVc0ZExCMFhCeHBFNUtlMzVFRXNFaUt4aDV4d0xaSFdYODFnbzBRQ2xUZl9pY1FCc2tRSGlYY19zM1hsQ1MyelZla1NRTEVTYVVxVTIwWXVJWWFNandGT05ETkZBcnBQODg?oc=5" target="_blank">Netanyahu claims progressive-Muslim plot to 'destroy West' at Israel antisemitism confab</a>&nbsp;&nbsp;<font color="#6f6f6f">Haaretz</font></li><li><a href="https://news.google.com/rss/articles/CBMicEFVX3lxTE1XcVp0MnRTWWM3Ul84RFdIS0RobHpUS1hqLVF4N2JYbkhWWC1OMTF3ZDZMN1B0RUExbmN4UHpGeThsTEY1RWdjekZhcVU3R0x5VUJKeURVMEdXbjhyMWVDZmh3TmhPOGxWanA3LUpiaFg?oc=5" target="_blank">Netanyahu’s government hosts antisemitism conference with European far right</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font></li><li><a href="https://news.google.com/rss/articles/CBMiV0FVX3lxTE44TFBRa2NVdjFzYTd0UjJvTEoyTTZRTjc4MEhIci1IMF9jd2xFbGFpWWJ4QndGS0NULWJubU9Dc09mc0lnM3hQRERwNW5uX2QyeWtrSWdNZw?oc=5" target="_blank">Why Israel’s far-right Europe partnerships are backfiring</a>&nbsp;&nbsp;<font color="#6f6f6f">jpost.com</font></li><li><a href="https://news.google.com/rss/articles/CBMisgFBVV95cUxQbFFtXy0tT25Fa1ZRQ3dnbnktRklwVGp0VHJ3WTN1Sk9iRVNrUzNYX1FGV0tObXRyM2FsbnZMRUp0aWpJSW9wTzVOUE1McXY3VDNEbzlybWd2bGdvSmlESVRqOExFM2RLMjJRM1N4R1pwN1BhM01zR1VpX3JhM3dIR1paLVNWc3RWODZMdVQxLUp0Zi0xNVR5cTMtQW1YdC00SmlJUDY5aGdESmtOOGJEMGpn?oc=5" target="_blank">Netanyahu: Antisemitism is a ‘battle over the future of civilization’</a>&nbsp;&nbsp;<font color="#6f6f6f">timesofisrael.com</font></li><li><a href="https://news.google.com/rss/articles/CBMilwJBVV95cUxQR05lQzZUM1Y4TGpWdTNGR1RMcWg1cm1SeUM1eXZPX3pHY2lnenFNYkFFMFVQTlp0VDJDRFBqb19GR1FiRWxIbmVQQlJOcjdXMnJEaWZEZjF3UXR6UU9GZmI3cXBOYWFYXzYyQ2FsN3ZLNGQ2VzJQSDRoTlU3UDQyUEF6OE9td1N2NWpMTV9OcGk2WE5QT1pXNlcyRnZLTW9Md3NMZFRfT2hVeHpaTGQyaV9ST25mNW9xNlpMaTZzUUdWMnR5aXA3YUl2VEtpaC1oLUNjU2pIY2hNMEhNLUxYcXBLVjZuRXcxSVFpQzlRZjVzdEtEdzI1bVZlM3pSTzhkWmtaMnlqMEo5NVZVLVRDVjgxNDkyMkU?oc=5" target="_blank">Israel Is Sabotaging the Fight Against Antisemitism by Embracing Europe's Jew-hating Legacies</a>&nbsp;&nbsp;<font color="#6f6f6f">Haaretz</font></li></ol>
