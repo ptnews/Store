@@ -1,0 +1,21 @@
+---
+title: "Hamas said to seek role in Gaza for its police officers, whom Israel views as terrorists - timesofisrael.com"
+date: 2026-01-27
+description: "Hamas said to seek role in Gaza for its police officers, whom Israel views as terrorists&nbsp;&nbsp;timesofisrael.comExclusive: Hamas seeks role for its police in Gaza ahead of disarmament talks, sources say&nbsp;&nbsp;ReutersHamas seeks Qatar, Turkey backing for Gaza peace force&nbsp;&nbsp;jpost.comHamas eyes role for 10,000 police in postwar Gaza, seeks Turkish backing amid disarmament talks&nbsp;&nbsp;ynetnews.comHamas’s New Attempt to Fool Trump&nbsp;&nbsp;Commentary Magazine"
+summary: "Hamas said to seek role in Gaza for its police officers, whom Israel views as terrorists&nbsp;&nbsp;timesofisrael.comExclusive: Hamas seeks role for its police in Gaza ahead of disarmament talks, sources say&nbsp;&nbsp;ReutersHamas seeks Qatar, Turkey backing for Gaza peace force&nbsp;&nbsp;jpost.comHamas eyes role for 10,000 police in postwar Gaza, seeks Turkish backing amid disarmament talks&nbsp;&nbsp;ynetnews.comHamas’s New Attempt to Fool Trump&nbsp;&nbsp;Commentary Magazine"
+slug: "hamas-said-to-seek-role-in-gaza-for-its-police-officers-whom-israel-views-as-terrorists-timesofisrael-com"
+image: ''
+link: 'https://news.google.com/rss/articles/CBMisAFBVV95cUxPc0lISmNiVllPTWE3Z2JpM0JTZnJHMmZwR2NnS1BwMWt2eHJfaE0tNmFLYlU5YXk4VjFENzlGQXNTLWZOdmVXcDZ0RGZaX1VnWDRmZ2diSHZYZVhkQXdjMW50UXVwSEJQUmZEMkFIOHNPNGdfYmc5WVhndlBRbHFmbFRCbkxXV09vejg5MFJPQjNCYVlwQ0V6WWdtWHJYVnRKNURBd0g2NUdMVnNJbEhFR9IBtgFBVV95cUxOR21QaHZIdmJEa2U1M28tSERqeE90N1ZReU53Wi1nZGlTSmpxOE1QSzdWenpRNXBPcm9RWWh0R2NPdHZxZFlxWnRKd1VoMTN1QVl6bk1SVEpjeC1NMGtMMDVWQ0lXcWxlX3NKUFpEeHJuZ2xkUTFwb1g0NzBtWTU4amdxX0JEU0toSmRTX1dmWUxyaHo2Zk83ZWUtVzJrN01wZUtlWm1Sbzd0eWp1VlRmWDZqZ2swdw?oc=5'
+source: 'https://news.google.com/rss/topics/CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx1YlY4U0FtVnVHZ0pWVXlnQVAB?hl=en-US&gl=US&ceid=US:en'
+categories:
+- 'news.google.com'
+tags:
+- 'timesofisrael'
+- 'terrorists'
+- 'officers'
+- 'police'
+- 'israel'
+
+draft: false
+---
+<ol><li><a href="https://news.google.com/rss/articles/CBMisAFBVV95cUxPc0lISmNiVllPTWE3Z2JpM0JTZnJHMmZwR2NnS1BwMWt2eHJfaE0tNmFLYlU5YXk4VjFENzlGQXNTLWZOdmVXcDZ0RGZaX1VnWDRmZ2diSHZYZVhkQXdjMW50UXVwSEJQUmZEMkFIOHNPNGdfYmc5WVhndlBRbHFmbFRCbkxXV09vejg5MFJPQjNCYVlwQ0V6WWdtWHJYVnRKNURBd0g2NUdMVnNJbEhFR9IBtgFBVV95cUxOR21QaHZIdmJEa2U1M28tSERqeE90N1ZReU53Wi1nZGlTSmpxOE1QSzdWenpRNXBPcm9RWWh0R2NPdHZxZFlxWnRKd1VoMTN1QVl6bk1SVEpjeC1NMGtMMDVWQ0lXcWxlX3NKUFpEeHJuZ2xkUTFwb1g0NzBtWTU4amdxX0JEU0toSmRTX1dmWUxyaHo2Zk83ZWUtVzJrN01wZUtlWm1Sbzd0eWp1VlRmWDZqZ2swdw?oc=5" target="_blank">Hamas said to seek role in Gaza for its police officers, whom Israel views as terrorists</a>&nbsp;&nbsp;<font color="#6f6f6f">timesofisrael.com</font></li><li><a href="https://news.google.com/rss/articles/CBMivwFBVV95cUxPQ243eWtNWDZnSjlWSTNTSmNEc0lCSlFmam5Oci1yVkNYRHBCb2l2eFdnd1lzd1ljemRCbElGbVBoeWR1b0gzU0I1VVJMa1gyM0RscXM3OXhMeGJEanBMaS1QN2otMnJvYXJTcGdFbVlrRlZFV21maXVJYWE2Y3pZT0czdDFHaEVEN05uQTl5aWdUcHJuc2U4dlh6UVQzSFl3Yl9QSXliM0VIb2tKRnViYzdrbzhNeEdsblE3SXFGdw?oc=5" target="_blank">Exclusive: Hamas seeks role for its police in Gaza ahead of disarmament talks, sources say</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font></li><li><a href="https://news.google.com/rss/articles/CBMiXEFVX3lxTE1NaDFnX05IbW9HOHF2U2xxMU9KVVlhNktxQ3k2TDV1QWFranZVQ3htaHotS3NYaXBQdFZub3JhY0h5UUlzb2hVMl8tV0dSci1Pcm5MT2dwNEZwVm11?oc=5" target="_blank">Hamas seeks Qatar, Turkey backing for Gaza peace force</a>&nbsp;&nbsp;<font color="#6f6f6f">jpost.com</font></li><li><a href="https://news.google.com/rss/articles/CBMiVkFVX3lxTFBFejJ2d2g1Rm1wQjRBQXlzS2RQSkFjamk4UTZ5Z2VwYk1POU1DQUo1VXByZ05zUV9PQjZXRWp0TTAxZVNSUnIyZ2RQblA4Nm1WdHpNNlV3?oc=5" target="_blank">Hamas eyes role for 10,000 police in postwar Gaza, seeks Turkish backing amid disarmament talks</a>&nbsp;&nbsp;<font color="#6f6f6f">ynetnews.com</font></li><li><a href="https://news.google.com/rss/articles/CBMifEFVX3lxTE9KVVpGdDUyWEhIT0JKbHdVZkxMZTJNcDRBellwWUhxbERyNk0zZEtPVkxEZmh2b2FyUXFNbzl4cEJ4SzdKbWJrVzNwVU9nVnRvaGRaVnM5Q2xnVmhvOVFaQjh2UkdHMVZQVU5HcFJVdG1rSDZ4LTZESFh4NFQ?oc=5" target="_blank">Hamas’s New Attempt to Fool Trump</a>&nbsp;&nbsp;<font color="#6f6f6f">Commentary Magazine</font></li></ol>
