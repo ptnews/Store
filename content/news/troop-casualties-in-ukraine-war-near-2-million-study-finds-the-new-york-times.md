@@ -1,0 +1,21 @@
+---
+title: "Troop Casualties in Ukraine War Near 2 Million, Study Finds - The New York Times"
+date: 2026-01-27
+description: "Troop Casualties in Ukraine War Near 2 Million, Study Finds&nbsp;&nbsp;The New York TimesZelenskyy: Russia Lost Twice as Many Troops in One Month as USSR Did in 10 Years in Afghanistan&nbsp;&nbsp;UNITED24 MediaRussia loses 820 soldiers over past day&nbsp;&nbsp;Українська правдаRussia’s war casualty toll in Ukraine up by 820 over past day&nbsp;&nbsp;UkrinformEnemy losses: the intensity of the occupiers' destruction has somewhat decreased&nbsp;&nbsp;Українські Наці�..."
+summary: "Troop Casualties in Ukraine War Near 2 Million, Study Finds&nbsp;&nbsp;The New York TimesZelenskyy: Russia Lost Twice as Many Troops in One Month as USSR Did in 10 Years in Afghanistan&nbsp;&nbsp;UNITED24 MediaRussia loses 820 soldiers over past day&nbsp;&nbsp;Українська правдаRussia’s war casualty toll in Ukraine up by 820 over past day&nbsp;&nbsp;UkrinformEnemy losses: the intensity of the occupiers' destruction has somewhat decreased&nbsp;&nbsp;Українські Наці�..."
+slug: "troop-casualties-in-ukraine-war-near-2-million-study-finds-the-new-york-times"
+image: ''
+link: 'https://news.google.com/rss/articles/CBMigwFBVV95cUxOQkd2SHJtVWN3OUdUb0Z6MGZ2aVhDM3JYV2ZicTFLenFYUXZYSDNOLWFHamxHMzgxcGRfT0w3cjJLMlJjU2p2NS1NYjRob1RvX080a1J3NlNmZTZEVUdEcWFoSmo2UVBLRDZYNU03SWstU1ppb1BubUZzcmMzTDBBdlB1NA?oc=5'
+source: 'https://news.google.com/rss/topics/CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx1YlY4U0FtVnVHZ0pWVXlnQVAB?hl=en-US&gl=US&ceid=US:en'
+categories:
+- 'news.google.com'
+tags:
+- 'casualties'
+- 'ukraine'
+- 'million'
+- 'troop'
+- 'study'
+
+draft: false
+---
+<ol><li><a href="https://news.google.com/rss/articles/CBMigwFBVV95cUxOQkd2SHJtVWN3OUdUb0Z6MGZ2aVhDM3JYV2ZicTFLenFYUXZYSDNOLWFHamxHMzgxcGRfT0w3cjJLMlJjU2p2NS1NYjRob1RvX080a1J3NlNmZTZEVUdEcWFoSmo2UVBLRDZYNU03SWstU1ppb1BubUZzcmMzTDBBdlB1NA?oc=5" target="_blank">Troop Casualties in Ukraine War Near 2 Million, Study Finds</a>&nbsp;&nbsp;<font color="#6f6f6f">The New York Times</font></li><li><a href="https://news.google.com/rss/articles/CBMi1AFBVV95cUxNLWlJdUZ0TXpiX0dEdkNZQlhNN3ZKa1dKRFFRVmZ0V2tGWkJaRjFVOWdHbVQ4S2ltcUhFMllpYWl4cnY5WmtKekZDd2pGaWx0d3dWNlFwWW1zaS1EMUZyYnZNWXQ0bWczbzRiUkoyb1pqY0pXSHUyaWd2YS1lR3dvNUNaek1mbFVrN1hhOTU2dzA5elRDX2E5RC1Gd0pRbzJCUFlxQXA0Z0RhaGhFMTdoUnZ3Y3EwZmtwZVplUnlFUlBYd25TdHE5Zjd6UlVPQkRmbGhieg?oc=5" target="_blank">Zelenskyy: Russia Lost Twice as Many Troops in One Month as USSR Did in 10 Years in Afghanistan</a>&nbsp;&nbsp;<font color="#6f6f6f">UNITED24 Media</font></li><li><a href="https://news.google.com/rss/articles/CBMiZEFVX3lxTE5zdG1FbGw5RE1rVGlmRWlEUFJnOXEzV1ZHNFZjTWRaZXZyOVh0aUJYcmRqZDllSmd6d3VrOGJTaGl5LU9EeGlXTFl2eXFuMDJKelBfZFlPT2FWb1FVSXlhSUVsMWvSAXBBVV95cUxPd2M5WVdib3hkTjhHWEdjdlRkZk5GcVpFNFRfbUhCUHhKYkdCdllOUmFCajJabUxPWlZoN2ltMEczM2RVb3RQUnF2U1RtZW03R1NJWkZfRkNUYlVmakpaWERjcURoODZwT05EQjZSU1pR?oc=5" target="_blank">Russia loses 820 soldiers over past day</a>&nbsp;&nbsp;<font color="#6f6f6f">Українська правда</font></li><li><a href="https://news.google.com/rss/articles/CBMirwFBVV95cUxNRkVNSjJLTzZyUVI1V0NUWm5RUTFJdFVrZWYxamRieDRIRXNFRWxmb2YycnRBdmQydzE4QktKX1lQX01KMUVyM2txUnk0ZDZ4aUdUZ0ROTGFHUTVZaUM4Y0VFcEhid0R3dFBiR3N4dllKQ1psdzA0SXh5MVhDWFNiMjh6Q1Y3cnNQY1ZDX3NweEVDYkp6MlhFQkFPWnlzMGNlX3N2MWpreFpHbkQ4UWZz?oc=5" target="_blank">Russia’s war casualty toll in Ukraine up by 820 over past day</a>&nbsp;&nbsp;<font color="#6f6f6f">Ukrinform</font></li><li><a href="https://news.google.com/rss/articles/CBMiowFBVV95cUxQVDg3WlBsdVFrY194c1ltWWdqU0dESGl1UG1kTjRMb2FyZGd0NXh4aVB1bWhSRV8tNWNXZ2RKZmd6ZnEtdHlxRVZFd00xRUhhaTZmNWRlWi1xZmpra0tvcmNTYXJ4STZUY1hxd25pbnlQN0FfdjFnRXV1RElPN0pYMlFJcEdYZEhCdGttTGI4dEJ4T0s4Y3hLTW9yVy1pa3Yyaksw0gGiAUFVX3lxTE5qQ2dkWlQ4Y29PaEJYMW5ZdFBnTUYtT2NpdnV2bDdIYk5hX3cyZnhSN0Y0SFl5c2hUcUwzc0hBT2FlV0lLMWJuRjJXeFdzMDVHOWxDQkQ5MDRTa0NqeUlxd1FUVTNXMXU1UG1TN3hsQWMyWG00NlJ4dGlJMUcyTTFMdWNqYXpyQzB4ZnhvM0VJMWcwU2lnWkhuR0NCZVZpcmRTQQ?oc=5" target="_blank">Enemy losses: the intensity of the occupiers' destruction has somewhat decreased</a>&nbsp;&nbsp;<font color="#6f6f6f">Українські Національні Новини</font></li></ol>

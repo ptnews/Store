@@ -1,0 +1,21 @@
+---
+title: "Former DHS official calls Walz's comparison of immigrant children to Anne Frank 'disgusting,' inflammatory"
+date: 2026-01-27
+description: "Minnesota governor Tim Walz faces fierce political backlash after comparing children hiding from immigration enforcement to Holocaust victim Anne Frank."
+summary: "Minnesota governor Tim Walz faces fierce political backlash after comparing children hiding from immigration enforcement to Holocaust victim Anne Frank."
+slug: "former-dhs-official-calls-walz-s-comparison-of-immigrant-children-to-anne-frank-disgusting-inflammatory"
+image: ''
+link: 'https://www.foxnews.com/media/former-dhs-official-calls-walzs-comparison-immigrant-children-anne-frank-disgusting-inflammatory'
+source: 'https://feeds.foxnews.com/foxnews/latest'
+categories:
+- 'feeds.foxnews.com'
+tags:
+- 'inflammatory'
+- 'comparison'
+- 'disgusting'
+- 'immigrant'
+- 'official'
+
+draft: false
+---
+<p>Former acting DHS Deputy Secretary Ken Cuccinelli slammed Minnesota Gov. <a href="https://www.foxnews.com/category/person/tim-walz" target="_blank" rel="noopener">Tim Walz</a> after Walz likened the fear of children hiding from immigration enforcement to that of Holocaust victim Anne Frank, calling the comparison "disgusting."</p><p>Walz made the remark Sunday at a press conference.<br><br>"We have got children in Minnesota <a href="https://www.foxnews.com/politics/tim-walz-compares-minnesota-ice-actions-holocaust-anne-frank-hiding-houses" target="_blank" rel="noopener">hiding in their houses</a>, afraid to go outside. Many of us grew up reading that story of Anne Frank," Walz said. "Somebody's gonna write that children's story about Minnesota."</p><p>Anne Frank was a Jewish girl who <a href="https://www.foxnews.com/category/topic/holocaust" target="_blank" rel="noopener">hid with her family</a> from the Nazis during World War II. They spent about two years hiding out in a secret annex above her father's former business before they were discovered in a raid. Anne died at the Bergen-Belsen concentration camp at age 15 and later became world-renowned after her father published the diary she kept during their time in hiding.</p><p><a href="https://www.foxnews.com/opinion/michael-shellenberger-left-getting-people-killed" target="_blank" rel="noopener"><strong>MICHAEL SHELLENBERGER: THE LEFT IS GETTING PEOPLE KILLED</strong></a></p><p>Cuccinelli argued Tuesday on "The Faulkner Focus" that Walz aimed to whip up his supporters with inflammatory language as ICE operations and protests roil Minnesota.</p><p>"His goal is this chaos," Cuccinelli said. "He thinks it hurts Trump more than it hurts Governor Walz."</p><p><a href="https://www.foxnews.com/politics/trumps-antisemitism-envoy-slams-walz-comparing-ice-enforcement-anne-frank-holocaust" target="_blank" rel="noopener"><strong>TRUMP'S ANTISEMITISM ENVOY SLAMS WALZ FOR COMPARING ICE ENFORCEMENT TO ANNE FRANK, HOLOCAUST</strong></a></p><p>Cuccinelli asserted that Walz and those espousing similar rhetoric are fine with the idea that people could get hurt or die because of it.</p><p>"That's how far they'll go in their political virtue signaling," he said. "They are willing to risk and sacrifice the people who they're encouraging to come out and <a href="https://www.foxnews.com/category/us/immigration/enforcement" target="_blank" rel="noopener">obstruct law enforcement</a>."</p><p>The U.S. Holocaust Memorial Museum <a href="https://www.foxnews.com/politics/prominent-holocaust-museum-releases-scathing-response-after-walz-compares-minnesota-children-to-anne-frank" target="_blank" rel="noopener">rebuked Walz's analogy</a>, writing, "Anne Frank was targeted and murdered solely because she was Jewish. Leaders making false equivalencies to her experience for political purposes is never acceptable. Despite tensions in Minneapolis, exploiting the Holocaust is deeply offensive, especially as antisemitism surges."</p><p>The Anti-Defamation League reported 9,354 <a href="https://www.foxnews.com/category/topic/anti-semitism" target="_blank" rel="noopener">antisemitic incidents in America</a> in 2024, a record number that marks a 344% increase over the past five years and a 893% increase over the past decade.</p>
