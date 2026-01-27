@@ -1,0 +1,20 @@
+---
+title: "UN chief warns ‘law of the jungle’ is replacing rule of law - UN News"
+date: 2026-01-27
+description: "UN chief warns ‘law of the jungle’ is replacing rule of law&nbsp;&nbsp;UN NewsAbdulqawi Yusuf warns at the UN Security Council over erosion of the rule of law and increasing violations.&nbsp;&nbsp;Dawan AfricaThe UK stands firm in our support for the institutions which defend and advance the international rule of law: UK statement at the UN Security Council&nbsp;&nbsp;Wired-GovRemarks at a UN Security Council Briefing on Reaffirming International Rule of Law&nbsp;&nbsp;United States Mission ..."
+summary: "UN chief warns ‘law of the jungle’ is replacing rule of law&nbsp;&nbsp;UN NewsAbdulqawi Yusuf warns at the UN Security Council over erosion of the rule of law and increasing violations.&nbsp;&nbsp;Dawan AfricaThe UK stands firm in our support for the institutions which defend and advance the international rule of law: UK statement at the UN Security Council&nbsp;&nbsp;Wired-GovRemarks at a UN Security Council Briefing on Reaffirming International Rule of Law&nbsp;&nbsp;United States Mission ..."
+slug: "un-chief-warns-law-of-the-jungle-is-replacing-rule-of-law-un-news"
+image: ''
+link: 'https://news.google.com/rss/articles/CBMiV0FVX3lxTFB1NzFvZjlPZkVLZTNaYTMwZENkb0NQU3R6dlVBUi1jOExXZU5PMDNjUXdUSjJveUgxUWVhakJWTVlNSk41d3lhOU5vd0dTcF9MMlZXc3hBOA?oc=5'
+source: 'https://news.google.com/rss/topics/CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx1YlY4U0FtVnVHZ0pWVXlnQVAB?hl=en-US&gl=US&ceid=US:en'
+categories:
+- 'news.google.com'
+tags:
+- 'replacing'
+- 'jungle'
+- 'chief'
+- 'warns'
+
+draft: false
+---
+<ol><li><a href="https://news.google.com/rss/articles/CBMiV0FVX3lxTFB1NzFvZjlPZkVLZTNaYTMwZENkb0NQU3R6dlVBUi1jOExXZU5PMDNjUXdUSjJveUgxUWVhakJWTVlNSk41d3lhOU5vd0dTcF9MMlZXc3hBOA?oc=5" target="_blank">UN chief warns ‘law of the jungle’ is replacing rule of law</a>&nbsp;&nbsp;<font color="#6f6f6f">UN News</font></li><li><a href="https://news.google.com/rss/articles/CBMi0gFBVV95cUxOaUtDdWctdHdvbU9ocVI1TG1FMzFLYWQwU0gtUU5aSy1ZMFB2QlVQV29VdmpxZ0RmZWlVVE9QYzFKdEQxV2F2YWxKVm9uOGI1QTYwa2l0eXVUd3FIVTBVZTlTMWhLRVdqanprUkMxRzI3LU9JWmxRQ1AtTnpuWWJraElZdmtHN1JUaFpYRE5acV92c3NkckRUWXN2d282a3ZiTDF2azJod3BtYUFHTlllRTlGMGJkcDRvaWtfaUl5SHNTRlhLTEpsdk1lNzhJMjVGbWc?oc=5" target="_blank">Abdulqawi Yusuf warns at the UN Security Council over erosion of the rule of law and increasing violations.</a>&nbsp;&nbsp;<font color="#6f6f6f">Dawan Africa</font></li><li><a href="https://news.google.com/rss/articles/CBMivAJBVV95cUxPR2Z5YVNYb3RIWVgyN2d0S1g2MktNbDBMZnVOeXE2ckQ0N1Z1ZEJ3S3dLQU84YV9vaEQ3NGViRm16LVFWbEprakFlMk5DWkhxWDcxX09RU0xkWjJTVUF5eXhScHlGa2tQOFh0aGt4aXFFUk9wdXVUVzVBSTFPWTNJeFVFaW5yRTFFaTJRaTBZUktOVlhidy1jdGtHdUtnLWM0OS1tMmRaeXZ2ZjJnUjJVbDc3R1BCRzEtTk5iRjk0RjlBX1RaM0RzZ2MtRmpGSjF0V3VBaHowN3NCMVJIX25Cd3F4NlV5b0Z2OGpQZGpHcXZKQzFOLURSblV4QnBjMFlCbDJ2V1VIUWNnMjRtZTFsemNKYTZXOVhveldSUmRNOVNnM093Yzlza2pUTUV2SEZGOXFPVlFqb2dqWVMt?oc=5" target="_blank">The UK stands firm in our support for the institutions which defend and advance the international rule of law: UK statement at the UN Security Council</a>&nbsp;&nbsp;<font color="#6f6f6f">Wired-Gov</font></li><li><a href="https://news.google.com/rss/articles/CBMirwFBVV95cUxPa1AwRzJPTnBPQk94NE5zemdHeExYZVl0dlRScDMwNlFDcllBTy03OWtlRElJN2RZcTdXZ19nRlJZUVVvTnVEaVhhbTE0WVM0d01XOVJ1SUUzR1N3SXNPZ1RIYUtMZlNBWl84SUw1NmNEcHU5cXkyS2lLc1JRSFFiNndnbjhwR29YOXcyUkUtUkJXSkFScHp0WHRBVW1hcWEzVEZiV0F3RC1WWjBpVVAw?oc=5" target="_blank">Remarks at a UN Security Council Briefing on Reaffirming International Rule of Law</a>&nbsp;&nbsp;<font color="#6f6f6f">United States Mission to the United Nations (.gov)</font></li><li><a href="https://news.google.com/rss/articles/CBMiWEFVX3lxTE1WbWNkanR3aVpOVG1ybW01dHBiS3hCcmFqT3RJZWNYckdGdXdkT3JsMkk3WFNaWU1sZ3Z1M25ybVRHUXpnYVVXZUdPYVppc0VKYVE4YzV1Z2E?oc=5" target="_blank">China calls for upholding UN Charter, international rule of law</a>&nbsp;&nbsp;<font color="#6f6f6f">chinadailyasia.com</font></li></ol>
