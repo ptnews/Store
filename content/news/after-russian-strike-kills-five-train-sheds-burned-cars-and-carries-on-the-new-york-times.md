@@ -1,0 +1,21 @@
+---
+title: "After Russian Strike Kills Five, Train Sheds Burned Cars and Carries On - The New York Times"
+date: 2026-01-28
+description: "After Russian Strike Kills Five, Train Sheds Burned Cars and Carries On&nbsp;&nbsp;The New York TimesPanic on crowded train - passenger tells BBC of moment of Russian drone strike&nbsp;&nbsp;BBCAs Ukraine accuses Russia of terrorism with deadly strike on train, is Starlink helping Moscow target civilians?&nbsp;&nbsp;CBS NewsRussia strikes civilian train in Ukraine, killing five, in an attack Zelensky calls ‘terrorism’&nbsp;&nbsp;CNNZelenskyy condemns 'terrorism' after Russia hits train&nbsp;..."
+summary: "After Russian Strike Kills Five, Train Sheds Burned Cars and Carries On&nbsp;&nbsp;The New York TimesPanic on crowded train - passenger tells BBC of moment of Russian drone strike&nbsp;&nbsp;BBCAs Ukraine accuses Russia of terrorism with deadly strike on train, is Starlink helping Moscow target civilians?&nbsp;&nbsp;CBS NewsRussia strikes civilian train in Ukraine, killing five, in an attack Zelensky calls ‘terrorism’&nbsp;&nbsp;CNNZelenskyy condemns 'terrorism' after Russia hits train&nbsp;..."
+slug: "after-russian-strike-kills-five-train-sheds-burned-cars-and-carries-on-the-new-york-times"
+image: ''
+link: 'https://news.google.com/rss/articles/CBMifkFVX3lxTFBZRS1nazNGYktOY3hERHY3bTlROHNCYVgxY2J5b1VBNkdROHpXNWxTODMwbW9sNmFBRHIxR2RpN2ZST180dy1oenpqcU5yZTl1QUZVT0lITHJsVGZBTDhKVmNjWU1Edk1sY0pGWm5uUkI2Z0JQV3dZZUVNMmRtUQ?oc=5'
+source: 'https://news.google.com/rss/topics/CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx1YlY4U0FtVnVHZ0pWVXlnQVAB?hl=en-US&gl=US&ceid=US:en'
+categories:
+- 'news.google.com'
+tags:
+- 'russian'
+- 'carries'
+- 'strike'
+- 'burned'
+- 'kills'
+
+draft: false
+---
+<ol><li><a href="https://news.google.com/rss/articles/CBMifkFVX3lxTFBZRS1nazNGYktOY3hERHY3bTlROHNCYVgxY2J5b1VBNkdROHpXNWxTODMwbW9sNmFBRHIxR2RpN2ZST180dy1oenpqcU5yZTl1QUZVT0lITHJsVGZBTDhKVmNjWU1Edk1sY0pGWm5uUkI2Z0JQV3dZZUVNMmRtUQ?oc=5" target="_blank">After Russian Strike Kills Five, Train Sheds Burned Cars and Carries On</a>&nbsp;&nbsp;<font color="#6f6f6f">The New York Times</font></li><li><a href="https://news.google.com/rss/articles/CBMiWkFVX3lxTE9FVTB1cm5QWXBNczNuSHgxNkVCQVZVSkpsUHhkRDVaSEQtZklLXzdlT0ZtMlQxRVV6V2ZMMXE3TG5Mc1dJTDJUejJmcVgzR1ZkU3FPM2RyWmgtUQ?oc=5" target="_blank">Panic on crowded train - passenger tells BBC of moment of Russian drone strike</a>&nbsp;&nbsp;<font color="#6f6f6f">BBC</font></li><li><a href="https://news.google.com/rss/articles/CBMi1wFBVV95cUxQT3pqZlk4bGJIZTgtNThab2VaSzZoWjJvd09rYkR0QTZTdU1QVGVNRGtjcGVaT2hvRUpZdjllTGZBc3QwUmxCeGpEV0MxZktOWl9tVjJqRk5tUnJLaWtHa1Z6Y3lhN182WUVBTFRWZlg5OFVfa1NDNHhWSTZndEc0RjlkRWdnWG8wbVpCNzZNaUcxZlc5aXc1Nmh2YXFkZWw4R2dFVkROMEY5WnZqUWhQY215eHlOOVNvZTZvT05rLVhCeTc0bk5XSFc2LVNBRmNzX0JXYUlZQdIB3AFBVV95cUxPUkZqcGlxdXRSWVJHLVhOUGhDTXExcWVyTXBrNU5oMmJCMEFGSDFwT2k4V1JBV09Qb012VTZEVTlfaTRzbVFrSjkwOUhQQUx6bTRVMWQzM3pDcEJqS2tnaFdHM0pjWjVYUHNERDZVR0hUTU0zY001YUlyZE5XRjhpbDFIeENSenY3ZWMyV0RMU1FMQ3ZCOGRnbjQ5UC00OUpTNTg2WFJLTjl6RDRaeGdNbnV0OHl3STVTLTM3dUJYd3ZmekpybHJUQUpIa25WVDN2VUJ2anpfRWNKT0wz?oc=5" target="_blank">As Ukraine accuses Russia of terrorism with deadly strike on train, is Starlink helping Moscow target civilians?</a>&nbsp;&nbsp;<font color="#6f6f6f">CBS News</font></li><li><a href="https://news.google.com/rss/articles/CBMihgFBVV95cUxQRURVQlJ3TzBCSjIzVlctaGhEVkQ1MDlVZ0dCMkRQeEFGdnlxd3VBaVFRWGtnbTRnb09RSWZ2bWJEMjlVb09xX1AtOEdUNVc4NUt3cm9XUkV1WWlVZlJGZHhPRDljakFnM0ctbk5PTmtDaTdMUDVJbk5NTHdmd0MtaEdLWDBvUQ?oc=5" target="_blank">Russia strikes civilian train in Ukraine, killing five, in an attack Zelensky calls ‘terrorism’</a>&nbsp;&nbsp;<font color="#6f6f6f">CNN</font></li><li><a href="https://news.google.com/rss/articles/CBMinAFBVV95cUxQdWZXRklOdTBFa0p2Vzd2eENrTXk2c3J4LWFMZ21Vam5fRExXdjlOZm5PT0M0bGFiajFhb2VTaHo5c2hCdEl0OGtNbktzVFZjU0Q1VE9tTzBlLW1UNnVoWnh4U3hoVWFSUm42ZGcweUtwb1pRWm43WU1XZHZHRXRELWdHczc4a2ZVUjBuQXNpU2w5TC1kUE9TUEYxT2nSAZwBQVVfeXFMUDNBY3JrV3lnM3habkRTNGx5VHppN1c2aUJxdkxITkl2a1ZKd3lQYnZ5YnNpUEpyQzA0a0hlVGhfMmllNEJORlVudVFFQUMxczdIUDVSTnZ2a2hQTjRXMTJUMGUxY3hSQUE0NlljTHpuNm9GTHA2WkNJdnFVREpYMUMtcjhiZUtWSkRvcTM3bGxPVkJINHJ2aUlzd0VC?oc=5" target="_blank">Zelenskyy condemns 'terrorism' after Russia hits train</a>&nbsp;&nbsp;<font color="#6f6f6f">DW.com</font></li></ol>
