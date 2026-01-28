@@ -6,7 +6,7 @@ summary: "Russian drones struck a passenger train in Ukraine&apos;s Kharkiv regi
 slug: "russian-drone-attack-on-passenger-train-is-an-act-of-terrorism-zelenskyy-says"
 image: ''
 link: 'https://www.foxnews.com/world/russian-drone-attack-passenger-train-act-terrorism-zelenskyy-says'
-source: 'https://feeds.foxnews.com/foxnews/latest'
+source: 'https://feeds.foxnews.com/foxnews/world'
 categories:
 - 'feeds.foxnews.com'
 tags:

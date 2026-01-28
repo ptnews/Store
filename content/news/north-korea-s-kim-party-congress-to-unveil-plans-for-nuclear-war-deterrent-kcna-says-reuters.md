@@ -1,0 +1,21 @@
+---
+title: "North Korea's Kim: party congress to unveil plans for nuclear-war deterrent, KCNA says - Reuters"
+date: 2026-01-28
+description: "North Korea's Kim: party congress to unveil plans for nuclear-war deterrent, KCNA says&nbsp;&nbsp;ReutersNorth Korea's Kim says upcoming party congress will unveil plans to bolster nuclear deterrent&nbsp;&nbsp;AP NewsNorth Korea test-launches 2 ballistic missiles toward sea, Japan and South Korea say&nbsp;&nbsp;ABC NewsNorth Korea’s Kim Oversaw Test of New Rocket System for Attack&nbsp;&nbsp;BloombergNorth Korea launches suspected ballistic missiles toward the sea, neighbors say&nbsp;&nbsp;NBC..."
+summary: "North Korea's Kim: party congress to unveil plans for nuclear-war deterrent, KCNA says&nbsp;&nbsp;ReutersNorth Korea's Kim says upcoming party congress will unveil plans to bolster nuclear deterrent&nbsp;&nbsp;AP NewsNorth Korea test-launches 2 ballistic missiles toward sea, Japan and South Korea say&nbsp;&nbsp;ABC NewsNorth Korea’s Kim Oversaw Test of New Rocket System for Attack&nbsp;&nbsp;BloombergNorth Korea launches suspected ballistic missiles toward the sea, neighbors say&nbsp;&nbsp;NBC..."
+slug: "north-korea-s-kim-party-congress-to-unveil-plans-for-nuclear-war-deterrent-kcna-says-reuters"
+image: ''
+link: 'https://news.google.com/rss/articles/CBMiywFBVV95cUxQbDlUUGJZRDAxNUdLT05zRjRWZVJEX3BjVzhYZkZadUJnZ3ZLZEFhWFVXSXhfUFFWeVp2YkpnZlk0TW45dTFJQnlFMVRTUDhhR3VGMGkxblc5bnFSV3lkNUY3aDNEZ0ZUcnl4UXRnWnhuTU9CSWlGa3dXNFRoLWdZdXZzcExRaExQck90Z0ZCSHVkX3FWa2hRNXl4ZkhnWTRfLVY0RXhObDlGbzEyM2hPXzlJcHhRU29vN0dGejhxMXJvYllXaGRza3B1TQ?oc=5'
+source: 'https://news.google.com/rss/topics/CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx1YlY4U0FtVnVHZ0pWVXlnQVAB?hl=en-US&gl=US&ceid=US:en'
+categories:
+- 'news.google.com'
+tags:
+- 'deterrent'
+- 'congress'
+- 'nuclear'
+- 'reuters'
+- 'unveil'
+
+draft: false
+---
+<ol><li><a href="https://news.google.com/rss/articles/CBMiywFBVV95cUxQbDlUUGJZRDAxNUdLT05zRjRWZVJEX3BjVzhYZkZadUJnZ3ZLZEFhWFVXSXhfUFFWeVp2YkpnZlk0TW45dTFJQnlFMVRTUDhhR3VGMGkxblc5bnFSV3lkNUY3aDNEZ0ZUcnl4UXRnWnhuTU9CSWlGa3dXNFRoLWdZdXZzcExRaExQck90Z0ZCSHVkX3FWa2hRNXl4ZkhnWTRfLVY0RXhObDlGbzEyM2hPXzlJcHhRU29vN0dGejhxMXJvYllXaGRza3B1TQ?oc=5" target="_blank">North Korea's Kim: party congress to unveil plans for nuclear-war deterrent, KCNA says</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font></li><li><a href="https://news.google.com/rss/articles/CBMilwFBVV95cUxQY1dNc054UVhYOGlicUpwaTh1LUlxNkctT2RXYUNYcnEwaG1TSjhwZGw0czdVYmQ2WXBlMnhmRFlNMTBmZmtHOGlCSTVGdGVvUlpfWXp1dDNYMi15WTcybUk4ZjE2TVF2c2dDR3VObkd2enFldk5DbG4yR2xqNWV2VW9yM0dUc0gtUmZHSjNZWlY0XzA3WmUw?oc=5" target="_blank">North Korea's Kim says upcoming party congress will unveil plans to bolster nuclear deterrent</a>&nbsp;&nbsp;<font color="#6f6f6f">AP News</font></li><li><a href="https://news.google.com/rss/articles/CBMiqgFBVV95cUxObkNpNjFfS2tqbGtMcE15bld4TmVveGpBYlN0YWoyamtqbTRON1VCVUhvcURHTXNycWE2dmhzOU1qOXNrZmpOSUF6cVhFamRvUmxvRXB6bW5JaDJ0YVhiWWduQlQxOVUtekdScFpjZEg1ZXB4ZURrNklMX0cyZXBQdmdLNUxJcktsZ2R2QzdxVHBrNktQM25BQ1RYRFZ5U3J0R0p4N090b0Jxd9IBrwFBVV95cUxNeWZaLTRZZlJXX29US05wT2Y2Z1hUV0JwT08tM0N2ODhnclNNZS1WbVZIdVZ4NnRyb3ozUVhoY2xubUlCTjVrZFdTZTFsUjh3ZFg1RUxEU3ZVbnd0Mnlqblo5dndta19GMndCQUctemdUS1lxaEluQXVWaFpTTGlLSXl3YTRZRnRRdDk5alJKaHRHbjNoU096bHFIdjRiWFQ4ZGF4Q2J1ZENzZmJwaG04?oc=5" target="_blank">North Korea test-launches 2 ballistic missiles toward sea, Japan and South Korea say</a>&nbsp;&nbsp;<font color="#6f6f6f">ABC News</font></li><li><a href="https://news.google.com/rss/articles/CBMiswFBVV95cUxPeFJUSmVWQlMwYWlTSEs3YW5HRGFtalllMUVSOWxGM2xMSU96RnYtYkxiQ0pIdFNvOTVtb3pwVTdmR3duZEFxUnJBQzF5V2Q4cEw3MmhWWHdQQkdzYkM5SU5nXzZ3T3VHdk1Nb05BcUpfTXluemh1Tm1ab0R0VHVQaDVrVDNycEZKTnpzU3g3Q1liRThEYlRFWVNYYk5CS29ycV9qNkx6TkppajM5SnltM0twMA?oc=5" target="_blank">North Korea’s Kim Oversaw Test of New Rocket System for Attack</a>&nbsp;&nbsp;<font color="#6f6f6f">Bloomberg</font></li><li><a href="https://news.google.com/rss/articles/CBMiswFBVV95cUxNdjh0R0FPQzExZVpqVDN2TGx4VnZxZGkyZjJlLWFDZnNxYkN5aVdrTWZ0dGJlcXpDaE1Bd2loVXlES0l3R1U0TGtnOUFjaXRRTXIxanRHRXU3dllPRFBsZmVTcGRrNEV2Rk5NakRCQjNzcVhydkNpSnlBckMtMEM3bTA2NlNOUXd0bjVrV2xVQ1V1TkxmLTV1YkppeDk3RkJsNnBKOW9KbTZvOTI3NzUwVG90cw?oc=5" target="_blank">North Korea launches suspected ballistic missiles toward the sea, neighbors say</a>&nbsp;&nbsp;<font color="#6f6f6f">NBC News</font></li></ol>
