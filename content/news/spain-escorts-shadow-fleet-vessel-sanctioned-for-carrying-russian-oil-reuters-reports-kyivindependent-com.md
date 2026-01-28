@@ -1,0 +1,21 @@
+---
+title: "Spain escorts shadow fleet vessel sanctioned for carrying Russian oil, Reuters reports - kyivindependent.com"
+date: 2026-01-28
+description: "Spain escorts shadow fleet vessel sanctioned for carrying Russian oil, Reuters reports&nbsp;&nbsp;kyivindependent.comRussia-Linked Oil Tanker Loses Control Again in Mediterranean&nbsp;&nbsp;BloombergCaptain of suspected Russian shadow tanker in French custody&nbsp;&nbsp;BBCCrackdown on Shadow Fleet Escalates With Seizure of Ship Carrying Russian Oil&nbsp;&nbsp;The Wall Street JournalEU stands by Denmark and Greenland and wants ‘respectful’ relations with US, says European Council president �..."
+summary: "Spain escorts shadow fleet vessel sanctioned for carrying Russian oil, Reuters reports&nbsp;&nbsp;kyivindependent.comRussia-Linked Oil Tanker Loses Control Again in Mediterranean&nbsp;&nbsp;BloombergCaptain of suspected Russian shadow tanker in French custody&nbsp;&nbsp;BBCCrackdown on Shadow Fleet Escalates With Seizure of Ship Carrying Russian Oil&nbsp;&nbsp;The Wall Street JournalEU stands by Denmark and Greenland and wants ‘respectful’ relations with US, says European Council president �..."
+slug: "spain-escorts-shadow-fleet-vessel-sanctioned-for-carrying-russian-oil-reuters-reports-kyivindependent-com"
+image: ''
+link: 'https://news.google.com/rss/articles/CBMitAFBVV95cUxOTkJyYjBlODZ6dnRDM2xRcDNEWDhJSHlKZHNES21xbS1nLWNDS2RuNzc0SlAyMWVBTzlGMTcwd3NkYjVJaHdKY19jbDJnR0VYa1dTR2dHRXBCdTN6aEVJYlJrcHhlYWtDV1lNNGJoV0p4c2JidDBXQTYtVVp1SnJ4MFhoNko4T0l4dlJORnJOUTZxalFwQVB0aVJrZ2c0Y3A5anRyTS1ibnpiTTN6UkxDZFRESV8?oc=5'
+source: 'https://news.google.com/rss/topics/CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx1YlY4U0FtVnVHZ0pWVXlnQVAB?hl=en-US&gl=US&ceid=US:en'
+categories:
+- 'news.google.com'
+tags:
+- 'kyivindependent'
+- 'sanctioned'
+- 'carrying'
+- 'escorts'
+- 'russian'
+
+draft: false
+---
+<ol><li><a href="https://news.google.com/rss/articles/CBMitAFBVV95cUxOTkJyYjBlODZ6dnRDM2xRcDNEWDhJSHlKZHNES21xbS1nLWNDS2RuNzc0SlAyMWVBTzlGMTcwd3NkYjVJaHdKY19jbDJnR0VYa1dTR2dHRXBCdTN6aEVJYlJrcHhlYWtDV1lNNGJoV0p4c2JidDBXQTYtVVp1SnJ4MFhoNko4T0l4dlJORnJOUTZxalFwQVB0aVJrZ2c0Y3A5anRyTS1ibnpiTTN6UkxDZFRESV8?oc=5" target="_blank">Spain escorts shadow fleet vessel sanctioned for carrying Russian oil, Reuters reports</a>&nbsp;&nbsp;<font color="#6f6f6f">kyivindependent.com</font></li><li><a href="https://news.google.com/rss/articles/CBMisgFBVV95cUxQZXpDMXZnYURpcmQ0UUREZWI5WXRnQmVRQ2tvME5QR3MwS3FjdTk4aC1XT1pKTlU1aTJldlpRaGxaMmdZMXNteHpiVU9zTUhFaWF2ckFpYnRQcmM5X1dvQjQ5aVJ3cm5ZT29LOXdfNndyVkV6TzNIQ2k1ci1jR3RSMUhXUEI5WElUcVdsYmYzWG5FRG1GNlN5NmVHTVAzWkJ2Y09ZYWFwaW5tOTFIMHZYbzV3?oc=5" target="_blank">Russia-Linked Oil Tanker Loses Control Again in Mediterranean</a>&nbsp;&nbsp;<font color="#6f6f6f">Bloomberg</font></li><li><a href="https://news.google.com/rss/articles/CBMiWkFVX3lxTE9KazRNeEpYYy1oc3lXV3NTaXBqLXFSdUZ5S0hmUU9HT0IyVDJXQlpzRzZWS18zY1k3UW1BTFVwaDJCb1BxaGVFdE44ckhVUzJUSnNvRlQ3ZzQwdw?oc=5" target="_blank">Captain of suspected Russian shadow tanker in French custody</a>&nbsp;&nbsp;<font color="#6f6f6f">BBC</font></li><li><a href="https://news.google.com/rss/articles/CBMiuwFBVV95cUxOeVJXSUFLZkJwT19hRE5nRVZORkpDcDRaYkJ1ZlQtZmd6dldteS1XOGM0YWRDSUFrZ25HODhlclQ2Q1BZYnZDWVlSUG1fWFk3dW5xQ3R5MkJBV3I4VHJwNFJHOUptN3gwVDV4SFV1d0k3UW90M0V2WnRlalBmV04wNmFxRkdJQzBfSUhLOHcwQmV1U1NhVVM3cG1aOHk0eEpwWS1GZTVLNTdaQjY2UDZ3YTN5UllwWGpJZS1j?oc=5" target="_blank">Crackdown on Shadow Fleet Escalates With Seizure of Ship Carrying Russian Oil</a>&nbsp;&nbsp;<font color="#6f6f6f">The Wall Street Journal</font></li><li><a href="https://news.google.com/rss/articles/CBMimwJBVV95cUxQRHQ4Y1ZEdjRGdURQanpvZ19JWGh0ZERYRzYwNTNUQzN2S3pnUUNGNC1ZNUNRTnNPQW1jVVVoM0lMblB4OFJPNjBYZzFJTHh2bmNOYk9ENkpWS0dDQ2RrOFVaZGJkcFZCZUdTSjlLcFN5WXNhLUFkaTNBSTdIVXlPeWZOTE9fUW9xSktmQ1VyWXFTaE1nX0FLWXM0S05NSzJVMHhlQ01TbEZxQ3FWY29BZVhIb0pTLUR5RHRlX3pEZWdDQzhMUlAxQWxyQXQ0VUNtWE5CekEtTEZ5akZZaTNiQW0tLW1IdTBFaV9idkp5cFEyUThzNE5aR1ZGSFNnZDBONXNvcUIyZHFLc2drUnRhNWNlam1CRi1MRjBR?oc=5" target="_blank">EU stands by Denmark and Greenland and wants ‘respectful’ relations with US, says European Council president – as it happened</a>&nbsp;&nbsp;<font color="#6f6f6f">The Guardian</font></li></ol>
