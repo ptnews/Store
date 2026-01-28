@@ -1,0 +1,21 @@
+---
+title: "‘I was simply luckier’: Holocaust survivors warn against forgetting Nazi atrocities - The Guardian"
+date: 2026-01-28
+description: "‘I was simply luckier’: Holocaust survivors warn against forgetting Nazi atrocities&nbsp;&nbsp;The GuardianHolocaust Remembrance Day: Auschwitz Director warns of fading memory&nbsp;&nbsp;Vatican NewsOn International Holocaust Remembrance Day, The Museum Calls for the Abuse and Exploitation of Holocaust Memory to Stop&nbsp;&nbsp;United States Holocaust Memorial MuseumRemembering the Holocaust: ‘You are here because you choose hope over hate’&nbsp;&nbsp;UN NewsInternational Holocaust Remem..."
+summary: "‘I was simply luckier’: Holocaust survivors warn against forgetting Nazi atrocities&nbsp;&nbsp;The GuardianHolocaust Remembrance Day: Auschwitz Director warns of fading memory&nbsp;&nbsp;Vatican NewsOn International Holocaust Remembrance Day, The Museum Calls for the Abuse and Exploitation of Holocaust Memory to Stop&nbsp;&nbsp;United States Holocaust Memorial MuseumRemembering the Holocaust: ‘You are here because you choose hope over hate’&nbsp;&nbsp;UN NewsInternational Holocaust Remem..."
+slug: "i-was-simply-luckier-holocaust-survivors-warn-against-forgetting-nazi-atrocities-the-guardian"
+image: ''
+link: 'https://news.google.com/rss/articles/CBMixAFBVV95cUxQWk1mNlZiZUN3YkowN3dhLWgydVlab2lpa1VucGlEQ1BjV1R1dEZEUHg2WS1pZE0ySjh6RmZIbHEwc0NzU3daeGZyYURNXzdpRzlNOXdWd0FSN0oyTmRuamRDMzU5N1dNeW0xSDVzLTFuRHBLVVBjbE90bktlNktyNm05N0ZZa0g4b1pYTWJ1OFNKOEl0M05Mbl9YTHZCMi1fVEtuZlVkZTZSbTdDQmhMWWEwNy1YbzV5UV84MEtNTWpTamdQ?oc=5'
+source: 'https://news.google.com/rss/topics/CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx1YlY4U0FtVnVHZ0pWVXlnQVAB?hl=en-US&gl=US&ceid=US:en'
+categories:
+- 'news.google.com'
+tags:
+- 'forgetting'
+- 'atrocities'
+- 'holocaust'
+- 'survivors'
+- 'guardian'
+
+draft: false
+---
+<ol><li><a href="https://news.google.com/rss/articles/CBMixAFBVV95cUxQWk1mNlZiZUN3YkowN3dhLWgydVlab2lpa1VucGlEQ1BjV1R1dEZEUHg2WS1pZE0ySjh6RmZIbHEwc0NzU3daeGZyYURNXzdpRzlNOXdWd0FSN0oyTmRuamRDMzU5N1dNeW0xSDVzLTFuRHBLVVBjbE90bktlNktyNm05N0ZZa0g4b1pYTWJ1OFNKOEl0M05Mbl9YTHZCMi1fVEtuZlVkZTZSbTdDQmhMWWEwNy1YbzV5UV84MEtNTWpTamdQ?oc=5" target="_blank">‘I was simply luckier’: Holocaust survivors warn against forgetting Nazi atrocities</a>&nbsp;&nbsp;<font color="#6f6f6f">The Guardian</font></li><li><a href="https://news.google.com/rss/articles/CBMisAFBVV95cUxOZ2FPWkVVVVlnWkYxQ0otWjVISGNITGJWb2Z3ZjZSUmFvRWpCU09qc0x5ZlVsZ21JRGVob2JLSjU3UWJrOTVnazVoTFVsaF8ta19RRXd4Q0k3X25vdHlkQkVKTlBNcmFjNnZRbHRKVXlRaGxNX3VtR0l3SG1Dci1feEl0TkJpMVFhRUhGWm53ejNpMjd5OW9OWXl4YkNlMlp1d3dUQ3gweGlvZHQyWENuYQ?oc=5" target="_blank">Holocaust Remembrance Day: Auschwitz Director warns of fading memory</a>&nbsp;&nbsp;<font color="#6f6f6f">Vatican News</font></li><li><a href="https://news.google.com/rss/articles/CBMiswFBVV95cUxPbzFBQkNGV1hDNHByMnU0N01sZjBLckhrRHRCVVBaWlNCX29oMXhhR0lnbGVYZkp4VGtjYmt6UGxBekxYdF9uNjF4bDNmNnQtb19vUEF4NFJNcFg5aG8tdWEza2g2Tmp2NTBlOHRTeVZZeFhBeGRueVpDWmoxTUhpZ25JRmM5OENYRE1PaGZlbVczMmpKSThkeUVFaUtXQkNJMWRyaWlPWDZ0M2dDLXZaTzVzTQ?oc=5" target="_blank">On International Holocaust Remembrance Day, The Museum Calls for the Abuse and Exploitation of Holocaust Memory to Stop</a>&nbsp;&nbsp;<font color="#6f6f6f">United States Holocaust Memorial Museum</font></li><li><a href="https://news.google.com/rss/articles/CBMiV0FVX3lxTFB4OG1UMy15X1o3dWJGLVhlQlExdE5pS05MeEkyeTRmS3RmaTQxRUlaMEl3dTJxZ3YwTkJ4dkZUc1E3Z1Jad0lWVU5MbzdIWndlWk8tUXVTRQ?oc=5" target="_blank">Remembering the Holocaust: ‘You are here because you choose hope over hate’</a>&nbsp;&nbsp;<font color="#6f6f6f">UN News</font></li><li><a href="https://news.google.com/rss/articles/CBMiggJBVV95cUxPMEJidEJMaFJZYnlMbUdJN3lMOUlXODlfcmxKZjR2Ml9RMnp3TkFZVUNqbWdqdmYzUExtdlluZ29KVVBFeVhKU0Y4YWZpckdYYjUzQ0RfN3RhSVp6YUduelBDNFJzQUkxZWlhb1FKNlYySUt3RktjWFdJWm9GWlMyTUVIZXR2Znd6OFZyQWdQMUYtblgzeHpnbm5HVlVGZEFvNE1WQ0wzMmZ5cW05R01mYV81OEpabFdYNjd0SjFnTm5mRUphREk4UHh5UzB6VU9ZT21LaEFNbnZvV0FyeVBXRkMxYy0tNGlaNnpkd0lOQzdTVjJRelhpcU9SbWFXWXM0blE?oc=5" target="_blank">International Holocaust Remembrance Day: Soviet Troops Liberated Auschwitz 81 Years Ago Today</a>&nbsp;&nbsp;<font color="#6f6f6f">Military.com</font></li></ol>
