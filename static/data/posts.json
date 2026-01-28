@@ -549,6 +549,33 @@
     "title": "This Focus Group Should Absolutely Terrify Trump - The Bulwark"
   },
   {
+    "description": "Female athletes competing in Nordic combined plan to stage a protest Friday over the lack of a women\u0026apos;s event at the 2026 Milan Cortina Olympics.",
+    "image": "",
+    "link": "https://www.foxnews.com/sports/female-nordic-combined-athletes-plan-protest-over-olympic-exclusion-its-so-messed-up",
+    "pubDate": "2026-01-28",
+    "slug": "female-nordic-combined-athletes-plan-protest-over-olympic-exclusion-it-s-so-messed-up",
+    "source": "https://feeds.foxnews.com/foxnews/latest",
+    "title": "Female Nordic combined athletes plan protest over Olympic exclusion: 'It's so messed up'"
+  },
+  {
+    "description": "The fight over trans athletes is not just about policy anymore as schools debate records, medical sign-offs and privacy limits tied to sex verification for eligibility.",
+    "image": "",
+    "link": "https://www.foxnews.com/politics/privacy-concerns-discrimination-doctor-pushback-compliance-traps-looming-behind-sex-separated-sports",
+    "pubDate": "2026-01-28",
+    "slug": "privacy-concerns-discrimination-doctor-pushback-the-compliance-traps-looming-behind-sex-separated-sports",
+    "source": "https://feeds.foxnews.com/foxnews/latest",
+    "title": "Privacy concerns, discrimination, doctor pushback: the compliance traps looming behind sex-separated sports"
+  },
+  {
+    "description": "",
+    "image": "",
+    "link": "https://www.foxnews.com/politics/trump-warns-minneapolis-mayor-hes-playing-fire-after-immigration-enforcement-conversation",
+    "pubDate": "2026-01-28",
+    "slug": "trump-warns-minneapolis-mayor-he-s-playing-with-fire-after-immigration-enforcement-conversation",
+    "source": "https://feeds.foxnews.com/foxnews/latest",
+    "title": "Trump warns Minneapolis mayor he's 'playing with fire' after immigration enforcement conversation"
+  },
+  {
     "description": "Late-night host Stephen Colbert addresses rumors about his future as his show will end this year, including one rumor about seeking political office.",
     "image": "",
     "link": "https://www.foxnews.com/media/stephen-colbert-addresses-rumors-about-running-office-after-show-ends-says-he-consider-options",
@@ -745,33 +772,6 @@
     "slug": "archaeologists-uncover-long-lost-basilica-tied-to-legendary-father-of-architecture",
     "source": "https://feeds.foxnews.com/foxnews/latest",
     "title": "Archaeologists uncover long-lost basilica tied to legendary father of architecture"
-  },
-  {
-    "description": "Prince Harry\u0026apos;s \u0026quot;Spare\u0026quot; curse reportedly follows him to Hollywood as royal experts claim he continues to struggle with identity and purpose in California.",
-    "image": "",
-    "link": "https://www.foxnews.com/entertainment/prince-harrys-spare-curse-hits-hollywood-royal-drifts-meghan-markles-shadow-experts",
-    "pubDate": "2026-01-28",
-    "slug": "prince-harry-s-spare-curse-hits-hollywood-as-royal-drifts-in-meghan-markle-s-shadow-experts",
-    "source": "https://feeds.foxnews.com/foxnews/latest",
-    "title": "Prince Harry’s ‘Spare’ curse hits Hollywood as royal drifts in Meghan Markle’s shadow: experts"
-  },
-  {
-    "description": "Minnesota mob turns violent as arrestees with criminal records allegedly damage property outside hotel where Border Patrol commander was staying.",
-    "image": "",
-    "link": "https://www.foxnews.com/us/minn-anti-border-patrol-riot-backfires-agitators-allegedly-hurl-objects-cops-arrests-expose-rap-sheets",
-    "pubDate": "2026-01-28",
-    "slug": "minn-anti-border-patrol-riot-backfires-as-agitators-allegedly-hurl-objects-at-cops-arrests-expose-rap-sheets",
-    "source": "https://feeds.foxnews.com/foxnews/latest",
-    "title": "Minn anti-Border Patrol riot backfires as agitators allegedly hurl objects at cops, arrests expose rap sheets"
-  },
-  {
-    "description": "A top Democratic fundraiser in Michigan is taking heat for a social media post in which she honored her grandfather, who served as an officer in the Nazi military forces during World War II.",
-    "image": "",
-    "link": "https://www.foxnews.com/politics/top-dem-fundraiser-knocked-honoring-nazi-officer-social-media-post-disturbing-trend",
-    "pubDate": "2026-01-28",
-    "slug": "top-dem-fundraiser-slammed-for-honoring-nazi-officer-in-social-media-post-disturbing-trend",
-    "source": "https://feeds.foxnews.com/foxnews/latest",
-    "title": "Top Dem fundraiser slammed for honoring Nazi officer in social media post: ‘Disturbing trend’"
   },
   {
     "description": "Ted Cruz responds to reports describing rapidly deteriorating situation as Iran-backed militias threaten \u0026apos;total war\u0026apos; against America. He called for the U.S. to arm Iranian protesters.",
@@ -999,13 +999,13 @@
     "title": "Macron says children's brains are 'not for sale,' urges fast-track to ban social media for kids under 15"
   },
   {
-    "description": "The killing of Alex Pretti over the weekend led Minnesota officials and locals to renew calls for Trump to end his immigration operation there. ",
+    "description": "The US president, who has previously vowed to \"rescue\" protesters in Iran, says a \"massive Armada\" is on the way to the country.",
     "image": "",
-    "link": "https://www.bbc.com/news/articles/c0q425vg4qzo?at_medium=RSS\u0026at_campaign=rss",
+    "link": "https://www.bbc.com/news/articles/cly5pd459gko?at_medium=RSS\u0026at_campaign=rss",
     "pubDate": "2026-01-28",
-    "slug": "trump-says-government-will-de-escalate-in-minnesota-following-pretti-shooting",
+    "slug": "trump-warns-iran-time-is-running-out-as-us-military-builds-up-in-gulf",
     "source": "http://feeds.bbci.co.uk/news/world/rss.xml",
-    "title": "Trump says government will 'de-escalate' in Minnesota following Pretti shooting"
+    "title": "Trump warns Iran 'time is running out' as US military builds up in Gulf"
   },
   {
     "description": "The Minnesota Democrat was uninjured and continued to speak at her event, after being sprayed with an unidentified liquid.",
@@ -1051,6 +1051,15 @@
     "slug": "veteran-indian-politician-ajit-pawar-dies-in-plane-crash",
     "source": "http://feeds.bbci.co.uk/news/world/rss.xml",
     "title": "Veteran Indian politician Ajit Pawar dies in plane crash"
+  },
+  {
+    "description": "The killing of Alex Pretti over the weekend led Minnesota officials and locals to renew calls for Trump to end his immigration operation there. ",
+    "image": "",
+    "link": "https://www.bbc.com/news/articles/c0q425vg4qzo?at_medium=RSS\u0026at_campaign=rss",
+    "pubDate": "2026-01-28",
+    "slug": "trump-says-government-will-de-escalate-in-minnesota-following-pretti-shooting",
+    "source": "http://feeds.bbci.co.uk/news/world/rss.xml",
+    "title": "Trump says government will 'de-escalate' in Minnesota following Pretti shooting"
   },
   {
     "description": "Drones targeted a packed train in north-eastern Ukraine, officials say.",
