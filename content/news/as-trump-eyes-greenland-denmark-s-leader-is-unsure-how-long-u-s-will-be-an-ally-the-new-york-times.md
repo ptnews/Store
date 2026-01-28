@@ -1,0 +1,21 @@
+---
+title: "As Trump Eyes Greenland, Denmark’s Leader Is Unsure How Long U.S. Will Be an Ally - The New York Times"
+date: 2026-01-28
+description: "As Trump Eyes Greenland, Denmark’s Leader Is Unsure How Long U.S. Will Be an Ally&nbsp;&nbsp;The New York TimesRussia does not want peace with Europe, says Danish prime minister – Europe live&nbsp;&nbsp;The GuardianDenmark’s leader isn’t sure how long U.S. will be an ally&nbsp;&nbsp;The Seattle TimesDanish Prime Minister Mette Frederiksen says sovereignty non-negotiable&nbsp;&nbsp;sentinelassam.comDenmark PM says Europe can improve defences now to become less reliant US&nbsp;&nbsp;The St..."
+summary: "As Trump Eyes Greenland, Denmark’s Leader Is Unsure How Long U.S. Will Be an Ally&nbsp;&nbsp;The New York TimesRussia does not want peace with Europe, says Danish prime minister – Europe live&nbsp;&nbsp;The GuardianDenmark’s leader isn’t sure how long U.S. will be an ally&nbsp;&nbsp;The Seattle TimesDanish Prime Minister Mette Frederiksen says sovereignty non-negotiable&nbsp;&nbsp;sentinelassam.comDenmark PM says Europe can improve defences now to become less reliant US&nbsp;&nbsp;The St..."
+slug: "as-trump-eyes-greenland-denmark-s-leader-is-unsure-how-long-u-s-will-be-an-ally-the-new-york-times"
+image: ''
+link: 'https://news.google.com/rss/articles/CBMikgFBVV95cUxObkxxV2YzWm5hZDR5MDJ3a0NwNzNQX1hlbGoyWl9jRWpsakZEMFlOd3VFTjVsdWMzN2hOR3VGc2VxUktfbXdkenpSTWRlUTBEQkhJcTNHT1VRajJHX190TEZSSnhrVEY3ZjNiek5RS3h5cEF2YkZyellUaXRQZXJkc2VIdC1rS2F3NHdyajRkTU9iQQ?oc=5'
+source: 'https://news.google.com/rss/topics/CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx1YlY4U0FtVnVHZ0pWVXlnQVAB?hl=en-US&gl=US&ceid=US:en'
+categories:
+- 'news.google.com'
+tags:
+- 'greenland'
+- 'denmark'
+- 'leader'
+- 'unsure'
+- 'trump'
+
+draft: false
+---
+<ol><li><a href="https://news.google.com/rss/articles/CBMikgFBVV95cUxObkxxV2YzWm5hZDR5MDJ3a0NwNzNQX1hlbGoyWl9jRWpsakZEMFlOd3VFTjVsdWMzN2hOR3VGc2VxUktfbXdkenpSTWRlUTBEQkhJcTNHT1VRajJHX190TEZSSnhrVEY3ZjNiek5RS3h5cEF2YkZyellUaXRQZXJkc2VIdC1rS2F3NHdyajRkTU9iQQ?oc=5" target="_blank">As Trump Eyes Greenland, Denmark’s Leader Is Unsure How Long U.S. Will Be an Ally</a>&nbsp;&nbsp;<font color="#6f6f6f">The New York Times</font></li><li><a href="https://news.google.com/rss/articles/CBMi2AFBVV95cUxNWkhxMVZlRG92WFp3VlNRWUhRZnM3TjRKc3BiTHlGazJlUGZmeGZEc1VpYUN4ck9Da2d1TGdhdU1hV1NfSnlFLW5zSG9xZEhKY3E0alV6T0pidERrWGtfTlp4WFNSTmtOYVE4TjBXa05hWi1hYkJUcllYMHdCb1N6UGtLWEgwOE1teEh5LXdTdlRTaU1TbFBpV2NIbDJYRk94RmgzRWt2NF9XSW5Yd1ZBZUM5bmttTDI4Y0J0blhyNEx6UjRJSDdLTGwybWlrek5heUlUQ1ZDcmM?oc=5" target="_blank">Russia does not want peace with Europe, says Danish prime minister – Europe live</a>&nbsp;&nbsp;<font color="#6f6f6f">The Guardian</font></li><li><a href="https://news.google.com/rss/articles/CBMiowFBVV95cUxOLThXM2ZvUXRjbDZac0NzWjVLZnJ0LXJhcGJqaVpqY0U3QlMxcmhYakRGaGtBRXphaE1UNm91TDhKZU5rbDFpNV9ra2Ezd05DX21XMFVreHZLalBOaHFzRlpWZlRGQjg4b0c4N2JrUXBPMkdpbkZKN3pSaTJFakR0QmM5SWNIODNLb2JlajFMandHSDNfYVhQNjRWb0JMWExqMVcw?oc=5" target="_blank">Denmark’s leader isn’t sure how long U.S. will be an ally</a>&nbsp;&nbsp;<font color="#6f6f6f">The Seattle Times</font></li><li><a href="https://news.google.com/rss/articles/CBMiwwFBVV95cUxOY0lJUXktQ0RCeDBPVm9POGJxeDRUejNpQU1EVF9kdVNmMlRiZHllc2hSeHJqc2UtMTBfNXVsdG9ieEwySGNxSVJfdF82RlBBWnpXSDlMaW9WWDhaMXRTZU1NYUFONWhXYndhR1Z0WjZ3RzFEMDhoQnRwV0htdmxrQVcyTUhmajZkT2dfUldVaGhpMmlpX3F5ZlQyZzJ3UGI3TWxxR1VHZ1dpbkhXcFJmNDhHaHljTmxMLWdEYkw5eW1qNkXSAdABQVVfeXFMT296YUNwTjdRd0RxZEVmZ3NZMUkyUFIxU2V5cWEwNUdSWU12UkVfeUN2N3MxR2RHV0pWbVFNa3ZmenZsUkRZTzk2aTg4Q19iMWhkU3ozTmJZTnNNR3k0eDctSG82RmRMOHN1djJBTUxxQ3lzQTF5MmRpY243bWpOMnR3TkN0ZWU3VUoxWEgzN2RBb3Y1bTZfeFRyLU5aUzJLZWNlbDQ3WnZiaXpfYWJUa1ZsQUF6cERUaDdHbEVyZktuR1VVd0RNdzYyTnluNmdSYg?oc=5" target="_blank">Danish Prime Minister Mette Frederiksen says sovereignty non-negotiable</a>&nbsp;&nbsp;<font color="#6f6f6f">sentinelassam.com</font></li><li><a href="https://news.google.com/rss/articles/CBMitgFBVV95cUxNUzlRVXctSzhoUEhvZTUtekxpWDgyVDRfUDA3amp0bmJCaGg5bVgwWjdXVnY0bkthU1JyVkdUNGE0VV9HMXlkcWdBaGMxMF81dDhyRzVsdVVqamR4UDFfaDR1YTRmSElUTzJoelluZUJjYXVUYlphaVJXbC0xeVdEYjFmaVZKYTBhckYzOHM0LTUwUXpEWm9pamZGd3JTRmxXaGhXcTVTQ01QbDVPWjRMdTNPdlVwQQ?oc=5" target="_blank">Denmark PM says Europe can improve defences now to become less reliant US</a>&nbsp;&nbsp;<font color="#6f6f6f">The Straits Times</font></li></ol>
