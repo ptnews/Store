@@ -1,0 +1,18 @@
+---
+title: "Determined to Die - The Free Press"
+date: 2026-01-28
+description: "Determined to Die&nbsp;&nbsp;The Free PressMan, 26, euthanised because he was diabetic and blind&nbsp;&nbsp;YahooCanadian mom devastated after she says diabetic and blind son was euthanized under controversial law&nbsp;&nbsp;The Independent'No parents should ever have to...': Canadian mom devastated after son approved for euthanasia, says 'this is not healthcare'&nbsp;&nbsp;Times of IndiaKiano Vafaeian’s Physician-Assisted Killing: Canada’s MAID, America’s Dangerous Path&nbsp;&nbsp;standin..."
+summary: "Determined to Die&nbsp;&nbsp;The Free PressMan, 26, euthanised because he was diabetic and blind&nbsp;&nbsp;YahooCanadian mom devastated after she says diabetic and blind son was euthanized under controversial law&nbsp;&nbsp;The Independent'No parents should ever have to...': Canadian mom devastated after son approved for euthanasia, says 'this is not healthcare'&nbsp;&nbsp;Times of IndiaKiano Vafaeian’s Physician-Assisted Killing: Canada’s MAID, America’s Dangerous Path&nbsp;&nbsp;standin..."
+slug: "determined-to-die-the-free-press"
+image: ''
+link: 'https://news.google.com/rss/articles/CBMiU0FVX3lxTE9kMEdfLXNLNjJocld2d1U4ZVNCeFVHSExvOF9oTGplb2JnWFUwZEVkOUlvN2p1N3QxRXpMZmFfc3gxTS1Gb1pWekNZRXFYWGwwTnFj?oc=5'
+source: 'https://news.google.com/rss/topics/CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx1YlY4U0FtVnVHZ0pWVXlnQVAB?hl=en-US&gl=US&ceid=US:en'
+categories:
+- 'news.google.com'
+tags:
+- 'determined'
+- 'press'
+
+draft: false
+---
+<ol><li><a href="https://news.google.com/rss/articles/CBMiU0FVX3lxTE9kMEdfLXNLNjJocld2d1U4ZVNCeFVHSExvOF9oTGplb2JnWFUwZEVkOUlvN2p1N3QxRXpMZmFfc3gxTS1Gb1pWekNZRXFYWGwwTnFj?oc=5" target="_blank">Determined to Die</a>&nbsp;&nbsp;<font color="#6f6f6f">The Free Press</font></li><li><a href="https://news.google.com/rss/articles/CBMijgFBVV95cUxQRXRsZnZ2djVnNERfN1paUXNJa3E2NEFDQkRVOTVkVVByTF9GTnlEdG40UEhVVUc5amVXQWpkRUEwYU05RkYtOUhHbHM1TFROaEdqdnhUaFpHMVhVV1VoVWZueU55NmxmeS1lTi1wSktfdVdvVnJkRUx3OXd6SUo0UGNuVktFVkt5TGxiLXZ3?oc=5" target="_blank">Man, 26, euthanised because he was diabetic and blind</a>&nbsp;&nbsp;<font color="#6f6f6f">Yahoo</font></li><li><a href="https://news.google.com/rss/articles/CBMiswFBVV95cUxOejRXTHdsVkVWTHRQN1llUnlOU1l2ejdNeVZ0Vkp3UDlGNDQ2SkVfQXF0VFJyNlFQVXM0YnZWWjJncDVLYTliMUZwMXlSUDFYTmc5dEtYblNEUkNhNmNWYUlDSkFTckFmcXBYRW9LVVpzc1UyWi0zVjl4SlY0bWFhc2F2cWs2NmZqai11VnRySUl4MWcteTNya2I3U0RFUERodHlQZ3ppVjdlbUxiZW1HRzgwRQ?oc=5" target="_blank">Canadian mom devastated after she says diabetic and blind son was euthanized under controversial law</a>&nbsp;&nbsp;<font color="#6f6f6f">The Independent</font></li><li><a href="https://news.google.com/rss/articles/CBMiogJBVV95cUxNZmswZGdYOWVlSG9pMjJxbExWSjNBSnY5NEhmM25hNVdhXy1lckFqUFVrSWJ0cUdYN2JQR0U5d01sanVFTUFTbHFRRVBwTmFSeXNPM21BYXBPZk5BVnoxMzRRa2EwT2FLV0k3NFM2ZzZDVFNJanEzX3hydEJwQzJrU21JckpoVUJOQWZzUWs5aDlWMEZXUkdjZGRjSWRqQXU2TmxGVzdzQ1N1S2ZUME14X056N0RzaGlmRTdleUoxOUlULXNjSVp2a2c5dHVTMDhrb2plam0tN2NPcDVJS2JTMmZsall4ekQyZ2V4eFQ5cnpmS0dFNi1MRTBmaW1FNGwtVGs5WEY3VWktcXc2SG9PZlY2TVhyWDR4ejlVYUVhS1NvUQ?oc=5" target="_blank">'No parents should ever have to...': Canadian mom devastated after son approved for euthanasia, says 'this is not healthcare'</a>&nbsp;&nbsp;<font color="#6f6f6f">Times of India</font></li><li><a href="https://news.google.com/rss/articles/CBMilAFBVV95cUxNa1lYME95Z2R6RUp3Q2VaSmVRYVFBZlJNVmlpR1BiakRmUENhajZSV2dSbEFfVkxrcGNLM1JMclo4U3V0X1JJSWNPYmczanEtLWRBR01CUGRjdGZxdUotWU9jUGRmdENyNnRSMklPRmg3RjlveVYtTWhVVWh3TEg1czZqTVZJaDFDVEdKWVNfOEQxTTVC?oc=5" target="_blank">Kiano Vafaeian’s Physician-Assisted Killing: Canada’s MAID, America’s Dangerous Path</a>&nbsp;&nbsp;<font color="#6f6f6f">standingforfreedom.com</font></li></ol>

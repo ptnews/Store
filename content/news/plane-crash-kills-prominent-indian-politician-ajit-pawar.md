@@ -1,8 +1,8 @@
 ---
 title: "Plane crash kills prominent Indian politician Ajit Pawar"
 date: 2026-01-28
-description: "This is a developing news story."
-summary: "This is a developing news story."
+description: "The plane carrying the deputy chief minister of Maharashtra state came down in his constituency of Baramati."
+summary: "The plane carrying the deputy chief minister of Maharashtra state came down in his constituency of Baramati."
 slug: "plane-crash-kills-prominent-indian-politician-ajit-pawar"
 image: ''
 link: 'https://www.aljazeera.com/news/2026/1/28/plane-crash-kills-prominent-indian-politician-ajit-pawar?traffic_source=rss'
@@ -18,4 +18,4 @@ tags:
 
 draft: false
 ---
-This is a developing news story.
+The plane carrying the deputy chief minister of Maharashtra state came down in his constituency of Baramati.
