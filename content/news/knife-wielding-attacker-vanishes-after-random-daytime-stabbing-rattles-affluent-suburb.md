@@ -1,0 +1,21 @@
+---
+title: "Knife-wielding attacker vanishes after random daytime stabbing rattles affluent suburb"
+date: 2026-01-28
+description: "Woman critically injured in alleged random stabbing on popular Seattle-area trail. Suspect remains at large and considered armed and extremely dangerous."
+summary: "Woman critically injured in alleged random stabbing on popular Seattle-area trail. Suspect remains at large and considered armed and extremely dangerous."
+slug: "knife-wielding-attacker-vanishes-after-random-daytime-stabbing-rattles-affluent-suburb"
+image: ''
+link: 'https://www.foxnews.com/us/knife-wielding-attacker-vanishes-after-random-daytime-stabbing-rattles-affluent-suburb'
+source: 'https://feeds.foxnews.com/foxnews/latest'
+categories:
+- 'feeds.foxnews.com'
+tags:
+- 'wielding'
+- 'attacker'
+- 'vanishes'
+- 'stabbing'
+- 'affluent'
+
+draft: false
+---
+<p>A suspect remains at large after a woman was critically wounded in what <a href="https://www.foxnews.com/category/us/crime/police-and-law-enforcement" target="_blank" rel="noopener">police described</a> as a random stabbing attack on a popular trail in an affluent Seattle-area suburb.</p><p>The broad-daylight attack happened Saturday morning on <a href="https://www.foxnews.com/category/us/us-regions/west/washington" target="_blank" rel="noopener">Bear Creek Trail near Redmond Town Center,</a> a heavily used recreational area, prompting police to warn the public that the suspect is considered armed and dangerous.</p><p>Officers responded around 10:45 a.m. after a bystander called 911 to report "a woman down on the trail," Redmond Police Chief Darrell Lowe said. Investigators believe the attack occurred just minutes before the call, and officers arrived on scene within two minutes.</p><p>Police found a 50-year-old woman suffering from what appeared to be multiple stab wounds and immediately rendered aid before she was rushed to a hospital in critical condition.</p><p><a href="https://www.foxnews.com/us/homeless-drifter-accused-killing-barnes-noble-christmas-shopper-blamed-fight-flight-outburst-report" target="_blank" rel="noopener"><strong>HOMELESS DRIFTER ACCUSED OF KILLING BARNES &amp; NOBLE CHRISTMAS SHOPPER BLAMED ‘FIGHT OR FLIGHT’ OUTBURST: REPORT</strong></a></p><p>Lowe said the victim was in and out of consciousness but was able to answer some questions and told officers she did not know her attacker, leading investigators to believe the stabbing was a random act.</p><p>A witness who saw a possible suspect running from the scene remained with officers and provided a description, <a href="https://komonews.com/news/local/police-search-for-suspect-who-stabbed-woman-in-random-attack-on-bear-creek-trail-knife-victim-update-community-public-park-jogging-walking-playground-safety-tip" target="_blank" rel="nofollow noopener">Lowe told KOMO News.</a> Investigators described the suspect as a man, possibly Hispanic, white or Asian, about 5-foot-9 with a slim build. He was last seen wearing a green hoodie or jacket, blue jeans and a black beanie.</p><p><a href="https://www.foxnews.com/us/knife-wielding-nut-allegedly-asked-christian-his-religion-then-stabbed-him-dog-before-police-shot-him" target="_blank" rel="noopener"><strong>KNIFE-WIELDING NUT ALLEGEDLY ASKED CHRISTIAN HIS RELIGION – THEN STABBED HIM AND DOG BEFORE POLICE SHOT HIM</strong></a></p><p><a href="https://www.foxnews.com/category/us/crime/manhunt" target="_blank" rel="noopener">Police have urged the public</a> not to approach anyone matching the description and to call 911 immediately with information.</p><p>The apparent randomness of the attack has left residents and workers in the area shaken, particularly given the <a href="https://www.foxnews.com/category/us/environment/parks" target="_blank" rel="noopener">trail’s popularity</a> and the neighborhood’s reputation for safety.</p><p>"It seems like a random act, which makes it scarier because we don’t know what the motive is," Redmond resident Rajalakshmi Pramod told KOMO News. Others told the outlet they were rethinking routine walks and urging coworkers and family members to avoid the trail until the suspect is caught.</p><p>Several walkers and runners said they no longer felt safe returning to the area that day. "This is very abnormal for Redmond and for the Eastside," Lowe said.</p>

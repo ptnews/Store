@@ -1,0 +1,21 @@
+---
+title: "Federal judge blocks ICE from deporting Minnesota man and 5-year-old son"
+date: 2026-01-28
+description: "A federal judge blocked ICE from deporting a 5-year-old boy and his father their after controversial arrest drew criticism from anti-ICE protesters."
+summary: "A federal judge blocked ICE from deporting a 5-year-old boy and his father their after controversial arrest drew criticism from anti-ICE protesters."
+slug: "federal-judge-blocks-ice-from-deporting-minnesota-man-and-5-year-old-son"
+image: ''
+link: 'https://www.foxnews.com/politics/federal-judge-blocks-ice-from-deporting-minnesota-man-5-year-old-son'
+source: 'https://feeds.foxnews.com/foxnews/latest'
+categories:
+- 'feeds.foxnews.com'
+tags:
+- 'deporting'
+- 'minnesota'
+- 'federal'
+- 'blocks'
+- 'judge'
+
+draft: false
+---
+<p>A federal judge temporarily blocked Immigration and Customs Enforcement (ICE) from deporting a 5-year-old boy and his father on Tuesday.</p><p><a href="https://www.foxnews.com/media/media-runs-wild-egregious-lie-ice-targeted-5-year-old-minnesota-dhs-child-abandoned" target="_blank" rel="noopener">Liam Conejo Ramos</a> and his father, Adrian Alexander Conejo Ramos, were taken into custody earlier this month in an operation that drew criticism from anti-ICE groups. U.S. District Court Judge Fred Bierym issued an order on Tuesday blocking ICE from deporting either of the pair "until further order from this Court."</p><p>The order also blocks ICE from transferring the father and son out of the Western District of Texas.</p><p>ICE says the father is an illegal immigrant from Ecuador, and they say he attempted to evade arrest when ICE apprehended him on January 20.</p><p><a href="https://www.foxnews.com/us/viral-video-shows-ice-agent-telling-agitators-theyre-disrupting-arrest-child-sex-offender-minnesota" target="_blank" rel="noopener"><strong>VIRAL VIDEO SHOWS ICE AGENT TELLING AGITATORS THEY'RE DISRUPTING ARREST OF CHILD SEX OFFENDER IN MINNESOTA</strong></a></p><p>Federal officials say Ramos fled the scene when officers arrived, "<a href="https://www.foxnews.com/us/dhs-released-image-illegal-immigrant-accused-abandoning-his-5-year-old-son-while-fleeing-ice" target="_blank" rel="noopener">abandoning his child</a> in the middle of winter in a vehicle."</p><p>ICE deportation chief Marcos Charles clarified last week that agents were targeting Liam's father during the arrest. They said they tried to return Liam to his family, but when they approached the house, "the people inside refused to take him in and open the door," Marcos said.</p><p>A local pastor, Sergio Amezcua, told CNN that he spoke with Liam's mother and claimed neighbors advised her not to go outside when ICE came to her door with her son.</p><p><a href="https://www.foxnews.com/politics/federal-judge-rules-ice-iowa-illegally-detained-man-tried-cover-its-tracks" target="_blank" rel="noopener"><strong>FEDERAL JUDGE RULES ICE IN IOWA ILLEGALLY DETAINED MAN, TRIED TO 'COVER ITS TRACKS'</strong></a></p><p><a href="https://www.foxnews.com/category/us/immigration/enforcement" target="_blank" rel="noopener">DHS officials</a> have rejected that claim, however, saying they were clear that they had no intentions of detaining Liam's mother.</p><p>"Officers even assured her she would NOT be taken her into custody," Assistant DHS Secretary Tricia McLaughlin said in a statement to Fox News Digital. "The alleged mother refused to accept custody of the child. The father told officers he wanted the child to remain with him.</p><p>"The facts in this case have NOT changed: ICE did NOT target or arrest a child," she said. "On January 20, ICE conducted a targeted operation to arrest Adrian Alexander Conejo Arias an illegal alien from Ecuador who was RELEASED into the U.S. by the Biden administration. As agents approached, Adrian Alexander Conejo Arias fled on foot—abandoning his child."</p><p>Conejo entered the U.S. illegally in December 2024 and was released into the U.S. by the <a href="https://www.foxnews.com/category/person/joe-biden" target="_blank" rel="noopener"><u>Biden administration</u></a>, DHS said. The family’s attorney said he had a pending asylum claim allowing him to stay in the country.</p><p><i>Fox News' Louis Casiano contributed to this report.</i></p>
