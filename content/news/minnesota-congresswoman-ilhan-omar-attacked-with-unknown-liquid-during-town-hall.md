@@ -1,5 +1,5 @@
 ---
-title: "Minnesota congresswoman Ilhan Omar attacked with 'unknown liquid' during town hall"
+title: "Minnesota congresswoman Ilhan Omar attacked with unknown liquid during town hall"
 date: 2026-01-28
 description: "Omar was uninjured and continued to speak at the event following the incident."
 summary: "Omar was uninjured and continued to speak at the event following the incident."
