@@ -1,0 +1,21 @@
+---
+title: "Is Trump’s ‘Board of Peace’ an effort to curtail Europe’s middle powers? - Al Jazeera"
+date: 2026-01-28
+description: "Is Trump’s ‘Board of Peace’ an effort to curtail Europe’s middle powers?&nbsp;&nbsp;Al JazeeraBoard of Peace Set to Hand Trump Sweeping Powers Over Gaza&nbsp;&nbsp;The New York TimesTrump’s Board of Peace Cracks the BRICS Wall&nbsp;&nbsp;Foreign PolicyEl Salvador confirmed as 27th country represented on Trump’s Board of Peace&nbsp;&nbsp;timesofisrael.comTrump's new Board of Peace invites 'controversial people' like Putin&nbsp;&nbsp;USA Today"
+summary: "Is Trump’s ‘Board of Peace’ an effort to curtail Europe’s middle powers?&nbsp;&nbsp;Al JazeeraBoard of Peace Set to Hand Trump Sweeping Powers Over Gaza&nbsp;&nbsp;The New York TimesTrump’s Board of Peace Cracks the BRICS Wall&nbsp;&nbsp;Foreign PolicyEl Salvador confirmed as 27th country represented on Trump’s Board of Peace&nbsp;&nbsp;timesofisrael.comTrump's new Board of Peace invites 'controversial people' like Putin&nbsp;&nbsp;USA Today"
+slug: "is-trump-s-board-of-peace-an-effort-to-curtail-europe-s-middle-powers-al-jazeera"
+image: ''
+link: 'https://news.google.com/rss/articles/CBMirgFBVV95cUxQQnRaYkxwVUhRR1Q0TTBMMHFOT0Y3SDRTWWM5NkF4RkZVQXUzNDZZU2FOYlpNUTFvS1hGNjZlY2V5a3pxb25SSV9xOHhwaDdTM3phemZyTFJKSjgtd0RfeGt0dkRwOC1keVJNNWdOS1Nsa2FKdm81bDBiUnlmNlJCeEFYYWxJaWZPT1dBd0dkcndLOWU3WTR3djRWcHBUVi05Ui1QUWFQQXBoeklqb2fSAbMBQVVfeXFMTUVPZmNQRzRlakRxZXhQbWxEeERwQTBubGJPU09MNHlxamtha1VmaEphWUcwd0xoU014b3U3Vy00ZlJ2U0NBZlpDc25vdUhkZEJGSmdQYmVUTVEtbnZHLXQxSF9fYllwRjBseFRvZUNlaFRaS0JLUHZoS3FnRXQ0SHZ4THRtc2ZKRW96WG9vM3pHc0Z0aHB0YVVHc3I0RGNRY1V1eF9mZEMxQ3Y4THlLUUx4SHc?oc=5'
+source: 'https://news.google.com/rss/topics/CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx1YlY4U0FtVnVHZ0pWVXlnQVAB?hl=en-US&gl=US&ceid=US:en'
+categories:
+- 'news.google.com'
+tags:
+- 'curtail'
+- 'jazeera'
+- 'effort'
+- 'europe'
+- 'middle'
+
+draft: false
+---
+<ol><li><a href="https://news.google.com/rss/articles/CBMirgFBVV95cUxQQnRaYkxwVUhRR1Q0TTBMMHFOT0Y3SDRTWWM5NkF4RkZVQXUzNDZZU2FOYlpNUTFvS1hGNjZlY2V5a3pxb25SSV9xOHhwaDdTM3phemZyTFJKSjgtd0RfeGt0dkRwOC1keVJNNWdOS1Nsa2FKdm81bDBiUnlmNlJCeEFYYWxJaWZPT1dBd0dkcndLOWU3WTR3djRWcHBUVi05Ui1QUWFQQXBoeklqb2fSAbMBQVVfeXFMTUVPZmNQRzRlakRxZXhQbWxEeERwQTBubGJPU09MNHlxamtha1VmaEphWUcwd0xoU014b3U3Vy00ZlJ2U0NBZlpDc25vdUhkZEJGSmdQYmVUTVEtbnZHLXQxSF9fYllwRjBseFRvZUNlaFRaS0JLUHZoS3FnRXQ0SHZ4THRtc2ZKRW96WG9vM3pHc0Z0aHB0YVVHc3I0RGNRY1V1eF9mZEMxQ3Y4THlLUUx4SHc?oc=5" target="_blank">Is Trump’s ‘Board of Peace’ an effort to curtail Europe’s middle powers?</a>&nbsp;&nbsp;<font color="#6f6f6f">Al Jazeera</font></li><li><a href="https://news.google.com/rss/articles/CBMiigFBVV95cUxQeG9RZEdEREtENnd1bGdjMTZ6dy1PRzZKZ21RMUxXTjlrUk9tRXF6dHFuZDYzRmtqaDllbDB6NnVsamlaaTJBSFlNVjNQbVpvS0k4U0NVZHpZVjVvVHpQVXYxMndhcTFSRk0tRWxWaEp6OTg1ZmVvc25OZ3l1NlNsbWF4dmVFc01md3c?oc=5" target="_blank">Board of Peace Set to Hand Trump Sweeping Powers Over Gaza</a>&nbsp;&nbsp;<font color="#6f6f6f">The New York Times</font></li><li><a href="https://news.google.com/rss/articles/CBMiqAFBVV95cUxOeFN6cnc1SE0yLV9weVphME9SOXFWMk85QmROeHItTjhEc2dyVWZFbllEZm1NbTJncF9NVnd2XzZ1UVQ3YmVYaGRtdUk0YUU4UU9CRGVNRXE0c241LVlvQVdRZzNvSGQ0cjN0MHNpXzBuRlBSbWp6RmxaVjh6MXFERURVVGh5UGtrb0lGRkd1a2RRWVY5MTJFU2RGcEpfbkFsS05oeTFpY0g?oc=5" target="_blank">Trump’s Board of Peace Cracks the BRICS Wall</a>&nbsp;&nbsp;<font color="#6f6f6f">Foreign Policy</font></li><li><a href="https://news.google.com/rss/articles/CBMivAFBVV95cUxQM1JGbDlaWEhnZDIyejdiZ1lZaW1sWi1lazZMcFhmSURhYnZ2QlNnOW9OUWRfY0Y2MG5weTJpTTRIMTUzN2FXN0JKWHdQNWRBWnp2cjRrYV9lM1ZnTTkyZDQyaUN0RlIyNE9lN0tVUlN2ZTYwTWhoc3JZNllxOGlicGJHX0tZYXBkSjBzMUllMU5ENzNZNmp3Q21YdktYeHhCRXZaakFETlFfcnlpQUdEeGpPRktnYVMyb1pSeQ?oc=5" target="_blank">El Salvador confirmed as 27th country represented on Trump’s Board of Peace</a>&nbsp;&nbsp;<font color="#6f6f6f">timesofisrael.com</font></li><li><a href="https://news.google.com/rss/articles/CBMisgFBVV95cUxPdW42ZFViZzFkTGVtejdIT3I1OENUbHNYYzJwRm0wYl92TlFUVHViVUtNOWI0ZUc3N1Zsa3FhTHliaVNpQ3NpaW5Ta2NmLWNWdHVQTk81Y3BJdkVvYllpSTJ6RWVPNEx3TDdaLUNNd1VzNmdXdTIycVd0X2laMGN0b0xrc21sUlVPUGQ5NndNa3JJR21IdVltaThjQ2E4QzRQblVRdjBVUjRuNWNQWmpFbEJ3?oc=5" target="_blank">Trump's new Board of Peace invites 'controversial people' like Putin</a>&nbsp;&nbsp;<font color="#6f6f6f">USA Today</font></li></ol>

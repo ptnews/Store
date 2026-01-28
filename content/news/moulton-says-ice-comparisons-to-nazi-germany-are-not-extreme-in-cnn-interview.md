@@ -1,0 +1,21 @@
+---
+title: "Moulton says ICE comparisons to Nazi Germany are not extreme in CNN interview"
+date: 2026-01-28
+description: "Rep. Seth Moulton compared ICE to Nazi Germany&apos;s Gestapo amid growing criticism of Trump administration immigration enforcement tactics."
+summary: "Rep. Seth Moulton compared ICE to Nazi Germany&apos;s Gestapo amid growing criticism of Trump administration immigration enforcement tactics."
+slug: "moulton-says-ice-comparisons-to-nazi-germany-are-not-extreme-in-cnn-interview"
+image: ''
+link: 'https://www.foxnews.com/media/moulton-says-ice-comparisons-nazi-germany-not-extreme-cnn-interview'
+source: 'https://feeds.foxnews.com/foxnews/latest'
+categories:
+- 'feeds.foxnews.com'
+tags:
+- 'comparisons'
+- 'interview'
+- 'moulton'
+- 'germany'
+- 'extreme'
+
+draft: false
+---
+<p>Rep. Seth Moulton, D-Mass., said Tuesday that it is not extreme to compare the U.S. <a href="https://www.foxnews.com/category/us/immigration" target="_blank" rel="noopener">Immigration</a> and Customs Enforcement (ICE) with Nazi Germany. </p><p>"I don't think that the comparisons with Nazi Germany are extreme," Moulton said in an interview with CNN.</p><p>"Because that’s what happened too. That’s why ordinary German citizens began to accept the idea that certain members of their community would be singled out — I mean, they have ICE tip lines — would be directly targeted in violation of the laws of the land, and it would be done by agents of the state. But, that’s what’s happening today in <a href="https://www.foxnews.com/category/us/minneapolis-st-paul" target="_blank" rel="noopener">Minneapolis</a>."</p><p><a href="https://www.foxnews.com/media/ron-desantis-vows-florida-fire-elected-officials-jacob-frey-like-actions" target="_blank" rel="noopener"><strong>RON DESANTIS VOWS FLORIDA WILL FIRE ELECTED OFFICIALS FOR JACOB FREY-LIKE ACTIONS</strong></a></p><p>He added Massachusetts residents that he represents feel they could be next. Neither Moulton nor ICE immediately responded to requests for comment.</p><p>The representative is not the first to compare ICE with Nazis.</p><p>Most notably, Minnesota Gov. Tim Walz <a href="https://www.fox9.com/news/gov-walz-compares-ice-gestapo-trump-admin-calls-remarks-dangerous" target="_blank" rel="noopener"><u>compared ICE to the Gestapo</u></a>, the notorious secret police of Nazi Germany.</p><p><a href="https://www.foxnews.com/us/soros-backed-philadelphia-da-vows-hunt-down-ice-agents-we-find-you" target="_blank" rel="noopener"><strong>SOROS-BACKED PHILADELPHIA DA VOWS TO 'HUNT' DOWN ICE AGENTS: 'WE WILL FIND YOU'</strong></a></p><p>"Donald Trump's modern-day Gestapo is scooping folks up off the streets," <a href="https://www.foxnews.com/category/person/tim-walz" target="_blank" rel="noopener">Walz</a> said at the University of Minnesota Law School's graduation ceremony.</p><p>In light of the fatal shooting of Renee Nicole Good in Minneapolis, several celebrities spoke out against ICE. </p><p><a href="https://www.foxnews.com/media/former-dhs-official-calls-walzs-comparison-immigrant-children-anne-frank-disgusting-inflammatory" target="_blank" rel="noopener"><strong>FORMER DHS OFFICIAL CALLS WALZ'S COMPARISON OF IMMIGRANT CHILDREN TO ANNE FRANK 'DISGUSTING,' INFLAMMATORY</strong></a></p><p>Good was shot and killed during an encounter with the ICE officer earlier this month, after she allegedly swerved her car toward him. Since then, protests have erupted in Minneapolis and across the U.S., and Democrats are demanding reforms and even the abolition of ICE in response.</p><p>Protests have continued to grow since a Border Patrol shooting of Alex Pretti on Saturday, who was armed at the beginning of the encounter but had his weapon taken away from him before he was fatally shot, according to video of the incident. </p><p>Author, Stephen King <a href="https://www.foxnews.com/media/stephen-king-compares-ice-nazi-germanys-gestapo-amid-growing-celebrity-criticism" target="_blank" rel="noopener">compared ICE to the Gestapo</a> as well. While performing a show in New Jersey, <a href="https://www.foxnews.com/media/springsteen-tells-ice-get-f-out-minneapolis-slams-gestapo-tactics-concert" target="_blank" rel="noopener"><u>Bruce Springsteen expressed a similar sentiment</u></a>, calling for ICE to "get the f--- out" of Minneapolis. </p>
