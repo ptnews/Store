@@ -1,6 +1,6 @@
 ---
 title: "Philippines' Duterte fit to face ICC proceedings, judges say"
-date: 2026-01-27
+date: 2026-01-28
 description: "The 80-year-old is accused of crimes of humanity over his bloody war on drugs that left thousands killed."
 summary: "The 80-year-old is accused of crimes of humanity over his bloody war on drugs that left thousands killed."
 slug: "philippines-duterte-fit-to-face-icc-proceedings-judges-say"

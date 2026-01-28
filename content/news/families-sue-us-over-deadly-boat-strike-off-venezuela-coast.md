@@ -1,6 +1,6 @@
 ---
 title: "Families sue US over deadly boat strike off Venezuela coast"
-date: 2026-01-27
+date: 2026-01-28
 description: "Relatives of Chad Joseph and Rishi Samaroo - among six killed on 14 October - say the Trinidadian men were returning home when their vessel was hit."
 summary: "Relatives of Chad Joseph and Rishi Samaroo - among six killed on 14 October - say the Trinidadian men were returning home when their vessel was hit."
 slug: "families-sue-us-over-deadly-boat-strike-off-venezuela-coast"

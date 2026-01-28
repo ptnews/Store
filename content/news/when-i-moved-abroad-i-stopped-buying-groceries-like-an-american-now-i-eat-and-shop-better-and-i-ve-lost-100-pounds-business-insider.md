@@ -1,6 +1,6 @@
 ---
 title: "When I moved abroad, I stopped buying groceries 'like an American.' Now, I eat and shop better — and I've lost 100 pounds. - Business Insider"
-date: 2026-01-27
+date: 2026-01-28
 description: "When I moved abroad, I stopped buying groceries 'like an American.' Now, I eat and shop better — and I've lost 100 pounds.&nbsp;&nbsp;Business Insider"
 summary: "When I moved abroad, I stopped buying groceries 'like an American.' Now, I eat and shop better — and I've lost 100 pounds.&nbsp;&nbsp;Business Insider"
 slug: "when-i-moved-abroad-i-stopped-buying-groceries-like-an-american-now-i-eat-and-shop-better-and-i-ve-lost-100-pounds-business-insider"

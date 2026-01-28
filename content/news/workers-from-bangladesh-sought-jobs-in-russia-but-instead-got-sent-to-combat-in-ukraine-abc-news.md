@@ -1,6 +1,6 @@
 ---
 title: "Workers from Bangladesh sought jobs in Russia but instead got sent to combat in Ukraine - ABC News"
-date: 2026-01-27
+date: 2026-01-28
 description: "Workers from Bangladesh sought jobs in Russia but instead got sent to combat in Ukraine&nbsp;&nbsp;ABC NewsView Full Coverage on Google News"
 summary: "Workers from Bangladesh sought jobs in Russia but instead got sent to combat in Ukraine&nbsp;&nbsp;ABC NewsView Full Coverage on Google News"
 slug: "workers-from-bangladesh-sought-jobs-in-russia-but-instead-got-sent-to-combat-in-ukraine-abc-news"

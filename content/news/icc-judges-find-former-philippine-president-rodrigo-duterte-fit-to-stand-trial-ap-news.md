@@ -1,6 +1,6 @@
 ---
 title: "ICC judges find former Philippine President Rodrigo Duterte fit to stand trial - AP News"
-date: 2026-01-27
+date: 2026-01-28
 description: "ICC judges find former Philippine President Rodrigo Duterte fit to stand trial&nbsp;&nbsp;AP NewsView Full Coverage on Google News"
 summary: "ICC judges find former Philippine President Rodrigo Duterte fit to stand trial&nbsp;&nbsp;AP NewsView Full Coverage on Google News"
 slug: "icc-judges-find-former-philippine-president-rodrigo-duterte-fit-to-stand-trial-ap-news"

@@ -1,6 +1,6 @@
 ---
 title: "Sweden weighs Franco-British nuclear weapons cooperation - Breaking Defense"
-date: 2026-01-27
+date: 2026-01-28
 description: "Sweden weighs Franco-British nuclear weapons cooperation&nbsp;&nbsp;Breaking DefenseIs it Time for a Nordic Nuke?&nbsp;&nbsp;War on the RocksLimited nuclear use is no longer unthinkable - Analysing the collapse of taboos&nbsp;&nbsp;Caliber.AzBritain in talks to protect Sweden with nuclear deterrent&nbsp;&nbsp;The TelegraphWill Sweden build the Bomb? Scandinavia stands alone&nbsp;&nbsp;UnHerd"
 summary: "Sweden weighs Franco-British nuclear weapons cooperation&nbsp;&nbsp;Breaking DefenseIs it Time for a Nordic Nuke?&nbsp;&nbsp;War on the RocksLimited nuclear use is no longer unthinkable - Analysing the collapse of taboos&nbsp;&nbsp;Caliber.AzBritain in talks to protect Sweden with nuclear deterrent&nbsp;&nbsp;The TelegraphWill Sweden build the Bomb? Scandinavia stands alone&nbsp;&nbsp;UnHerd"
 slug: "sweden-weighs-franco-british-nuclear-weapons-cooperation-breaking-defense"

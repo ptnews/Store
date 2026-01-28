@@ -1,6 +1,6 @@
 ---
 title: "Rwanda takes legal action against UK over axed migrant deal"
-date: 2026-01-27
+date: 2026-01-28
 description: "The African nation argues it is owed payments but Downing Street says it will fight the case."
 summary: "The African nation argues it is owed payments but Downing Street says it will fight the case."
 slug: "rwanda-takes-legal-action-against-uk-over-axed-migrant-deal"

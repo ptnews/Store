@@ -1,6 +1,6 @@
 ---
 title: "Nipah virus outbreak in India triggers Asia airport screenings"
-date: 2026-01-27
+date: 2026-01-28
 description: "Airports in Thailand and Nepal have begun screening passengers from West Bengal."
 summary: "Airports in Thailand and Nepal have begun screening passengers from West Bengal."
 slug: "nipah-virus-outbreak-in-india-triggers-asia-airport-screenings"

@@ -1,6 +1,6 @@
 ---
 title: "Murder and MI5: How an extraordinary battle erupted over what the state keeps secret"
-date: 2026-01-27
+date: 2026-01-28
 description: "Can the state, especially when it is implicated in killing, be trusted as the arbiter of what should remain confidential?"
 summary: "Can the state, especially when it is implicated in killing, be trusted as the arbiter of what should remain confidential?"
 slug: "murder-and-mi5-how-an-extraordinary-battle-erupted-over-what-the-state-keeps-secret"

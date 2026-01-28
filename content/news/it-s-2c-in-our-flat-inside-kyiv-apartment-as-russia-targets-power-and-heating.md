@@ -1,6 +1,6 @@
 ---
 title: "'It's 2C in our flat': Inside Kyiv apartment as Russia targets power and heating"
-date: 2026-01-27
+date: 2026-01-28
 description: "Russian strikes targeting energy infrastructure have left millions without power in freezing temperatures."
 summary: "Russian strikes targeting energy infrastructure have left millions without power in freezing temperatures."
 slug: "it-s-2c-in-our-flat-inside-kyiv-apartment-as-russia-targets-power-and-heating"

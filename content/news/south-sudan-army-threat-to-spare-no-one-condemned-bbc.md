@@ -1,6 +1,6 @@
 ---
 title: "South Sudan army threat to 'spare no-one' condemned - BBC"
-date: 2026-01-27
+date: 2026-01-28
 description: "South Sudan army threat to 'spare no-one' condemned&nbsp;&nbsp;BBCSPLA-IO: SSPDF evacuation order follows call to target civilians&nbsp;&nbsp;radiotamazuj.orgSouth Sudan: UN and rights experts warn against risk of mass violence in Jonglei&nbsp;&nbsp;UN NewsSouth Sudan’s Military Orders All Civilians and U.N. Personnel to Evacuate Jonglei State&nbsp;&nbsp;Democracy Now!South Sudan conflict reignites as peace deal unravels&nbsp;&nbsp;France 24"
 summary: "South Sudan army threat to 'spare no-one' condemned&nbsp;&nbsp;BBCSPLA-IO: SSPDF evacuation order follows call to target civilians&nbsp;&nbsp;radiotamazuj.orgSouth Sudan: UN and rights experts warn against risk of mass violence in Jonglei&nbsp;&nbsp;UN NewsSouth Sudan’s Military Orders All Civilians and U.N. Personnel to Evacuate Jonglei State&nbsp;&nbsp;Democracy Now!South Sudan conflict reignites as peace deal unravels&nbsp;&nbsp;France 24"
 slug: "south-sudan-army-threat-to-spare-no-one-condemned-bbc"

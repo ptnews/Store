@@ -1,6 +1,6 @@
 ---
 title: "EU pushes for deals as Trump's tariffs upset global trade - DW.com"
-date: 2026-01-27
+date: 2026-01-28
 description: "EU pushes for deals as Trump's tariffs upset global trade&nbsp;&nbsp;DW.comView Full Coverage on Google News"
 summary: "EU pushes for deals as Trump's tariffs upset global trade&nbsp;&nbsp;DW.comView Full Coverage on Google News"
 slug: "eu-pushes-for-deals-as-trump-s-tariffs-upset-global-trade-dw-com"

@@ -1,6 +1,6 @@
 ---
 title: "US to send ICE agents to Winter Olympics, prompting Italian anger"
-date: 2026-01-27
+date: 2026-01-28
 description: "The US federal agency says it will not play an immigration role at February's event in Milan-Cortina."
 summary: "The US federal agency says it will not play an immigration role at February's event in Milan-Cortina."
 slug: "us-to-send-ice-agents-to-winter-olympics-prompting-italian-anger"

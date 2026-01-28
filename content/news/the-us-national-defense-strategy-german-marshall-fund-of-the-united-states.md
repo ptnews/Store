@@ -1,6 +1,6 @@
 ---
 title: "The US National Defense Strategy - German Marshall Fund of the United States"
-date: 2026-01-27
+date: 2026-01-28
 description: "The US National Defense Strategy&nbsp;&nbsp;German Marshall Fund of the United StatesNew military strategy brings attention closer to home, away from China&nbsp;&nbsp;foxbaltimore.comTrump’s new national defense strategy downgrades China threat&nbsp;&nbsp;Military TimesPentagon to offer 'more limited' support to US allies in defence strategy shift&nbsp;&nbsp;BBCTrump administration's defense strategy tells allies to handle their own security&nbsp;&nbsp;NPR"
 summary: "The US National Defense Strategy&nbsp;&nbsp;German Marshall Fund of the United StatesNew military strategy brings attention closer to home, away from China&nbsp;&nbsp;foxbaltimore.comTrump’s new national defense strategy downgrades China threat&nbsp;&nbsp;Military TimesPentagon to offer 'more limited' support to US allies in defence strategy shift&nbsp;&nbsp;BBCTrump administration's defense strategy tells allies to handle their own security&nbsp;&nbsp;NPR"
 slug: "the-us-national-defense-strategy-german-marshall-fund-of-the-united-states"

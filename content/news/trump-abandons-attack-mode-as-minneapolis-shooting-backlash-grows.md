@@ -1,6 +1,6 @@
 ---
 title: "Trump abandons attack mode as Minneapolis shooting backlash grows"
-date: 2026-01-27
+date: 2026-01-28
 description: "The White House has shifted how it talks about Alex Pretti's killing as more Republicans express concern over the deadly encounter.  "
 summary: "The White House has shifted how it talks about Alex Pretti's killing as more Republicans express concern over the deadly encounter.  "
 slug: "trump-abandons-attack-mode-as-minneapolis-shooting-backlash-grows"

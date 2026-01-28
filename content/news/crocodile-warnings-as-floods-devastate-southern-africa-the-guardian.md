@@ -1,6 +1,6 @@
 ---
 title: "Crocodile warnings as floods devastate southern Africa - The Guardian"
-date: 2026-01-27
+date: 2026-01-28
 description: "Crocodile warnings as floods devastate southern Africa&nbsp;&nbsp;The GuardianFloods Inundate Southern Mozambique&nbsp;&nbsp;NASA Science (.gov)Torrential rains displace thousands in Mozambique as floods wreak havoc&nbsp;&nbsp;Al JazeeraMozambique floods: 'Worst in living memory' say those rescued from rising waters&nbsp;&nbsp;BBCMozambique Floods 2026: Main Highway N1 Severed as Tourism and Trade Face Crisis&nbsp;&nbsp;Travel And Tour World"
 summary: "Crocodile warnings as floods devastate southern Africa&nbsp;&nbsp;The GuardianFloods Inundate Southern Mozambique&nbsp;&nbsp;NASA Science (.gov)Torrential rains displace thousands in Mozambique as floods wreak havoc&nbsp;&nbsp;Al JazeeraMozambique floods: 'Worst in living memory' say those rescued from rising waters&nbsp;&nbsp;BBCMozambique Floods 2026: Main Highway N1 Severed as Tourism and Trade Face Crisis&nbsp;&nbsp;Travel And Tour World"
 slug: "crocodile-warnings-as-floods-devastate-southern-africa-the-guardian"

@@ -1,6 +1,6 @@
 ---
 title: "Firefighters battle 'emergency level' blazes in Australia heatwave"
-date: 2026-01-27
+date: 2026-01-28
 description: "Firefighters in Victoria are battling at least six major fires amid a record-breaking heatwave."
 summary: "Firefighters in Victoria are battling at least six major fires amid a record-breaking heatwave."
 slug: "firefighters-battle-emergency-level-blazes-in-australia-heatwave"

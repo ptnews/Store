@@ -1,6 +1,6 @@
 ---
 title: "Watch: Huge landslide in Sicily after Storm Harry"
-date: 2026-01-27
+date: 2026-01-28
 description: "More than 1,000 residents have been evacuated from their homes on the Italian island."
 summary: "More than 1,000 residents have been evacuated from their homes on the Italian island."
 slug: "watch-huge-landslide-in-sicily-after-storm-harry"

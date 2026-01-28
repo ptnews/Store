@@ -1,6 +1,6 @@
 ---
 title: "EU Parliament delays decision to unfreeze US trade deal - politico.eu"
-date: 2026-01-27
+date: 2026-01-28
 description: "EU Parliament delays decision to unfreeze US trade deal&nbsp;&nbsp;politico.euOn Greenland, Europe stood up, Trump blinked, and the E.U. learned a lesson&nbsp;&nbsp;The Washington PostThe West Stepped Back From the Brink. But Europe’s Distrust of America Lingers. - WSJ&nbsp;&nbsp;The Wall Street Journal‘We Are Learning to Bully Back’&nbsp;&nbsp;The AtlanticParliament to revisit EU-US trade deal next week&nbsp;&nbsp;Euractiv"
 summary: "EU Parliament delays decision to unfreeze US trade deal&nbsp;&nbsp;politico.euOn Greenland, Europe stood up, Trump blinked, and the E.U. learned a lesson&nbsp;&nbsp;The Washington PostThe West Stepped Back From the Brink. But Europe’s Distrust of America Lingers. - WSJ&nbsp;&nbsp;The Wall Street Journal‘We Are Learning to Bully Back’&nbsp;&nbsp;The AtlanticParliament to revisit EU-US trade deal next week&nbsp;&nbsp;Euractiv"
 slug: "eu-parliament-delays-decision-to-unfreeze-us-trade-deal-politico-eu"

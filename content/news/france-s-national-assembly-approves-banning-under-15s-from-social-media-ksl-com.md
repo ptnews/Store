@@ -1,6 +1,6 @@
 ---
 title: "France's National Assembly approves banning under-15s from social media - KSL.com"
-date: 2026-01-27
+date: 2026-01-28
 description: "France's National Assembly approves banning under-15s from social media&nbsp;&nbsp;KSL.comView Full Coverage on Google News"
 summary: "France's National Assembly approves banning under-15s from social media&nbsp;&nbsp;KSL.comView Full Coverage on Google News"
 slug: "france-s-national-assembly-approves-banning-under-15s-from-social-media-ksl-com"

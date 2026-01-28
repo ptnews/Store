@@ -1,6 +1,6 @@
 ---
 title: "Former French senator found guilty of drugging MP"
-date: 2026-01-27
+date: 2026-01-28
 description: "Joel Guerriau received a four-year prison sentence, 18 months of which are to be served behind bars. "
 summary: "Joel Guerriau received a four-year prison sentence, 18 months of which are to be served behind bars. "
 slug: "former-french-senator-found-guilty-of-drugging-mp"

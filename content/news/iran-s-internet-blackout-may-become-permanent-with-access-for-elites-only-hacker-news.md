@@ -1,6 +1,6 @@
 ---
 title: "Iran's internet blackout may become permanent, with access for elites only - Hacker News"
-date: 2026-01-27
+date: 2026-01-28
 description: "Iran's internet blackout may become permanent, with access for elites only&nbsp;&nbsp;Hacker NewsAmid Two-Week Internet Blackout, Some Iranians Are Getting Back Online&nbsp;&nbsp;The New York TimesIran offline: How a government can turn off the internet : Short Wave&nbsp;&nbsp;NPRIran’s Digital Repression Has Entered A New Phase&nbsp;&nbsp;ForbesIran president’s son urges authorities to restore internet after protests blackout&nbsp;&nbsp;The Guardian"
 summary: "Iran's internet blackout may become permanent, with access for elites only&nbsp;&nbsp;Hacker NewsAmid Two-Week Internet Blackout, Some Iranians Are Getting Back Online&nbsp;&nbsp;The New York TimesIran offline: How a government can turn off the internet : Short Wave&nbsp;&nbsp;NPRIran’s Digital Repression Has Entered A New Phase&nbsp;&nbsp;ForbesIran president’s son urges authorities to restore internet after protests blackout&nbsp;&nbsp;The Guardian"
 slug: "iran-s-internet-blackout-may-become-permanent-with-access-for-elites-only-hacker-news"

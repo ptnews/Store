@@ -1,6 +1,6 @@
 ---
 title: "Sweden aims to lower age of criminal responsibility to 13 as gangs recruit children"
-date: 2026-01-27
+date: 2026-01-28
 description: "Critics say the proposal could see even younger children becoming offenders as well as breaching children's rights."
 summary: "Critics say the proposal could see even younger children becoming offenders as well as breaching children's rights."
 slug: "sweden-aims-to-lower-age-of-criminal-responsibility-to-13-as-gangs-recruit-children"

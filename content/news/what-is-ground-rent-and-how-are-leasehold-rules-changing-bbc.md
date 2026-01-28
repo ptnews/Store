@@ -1,6 +1,6 @@
 ---
 title: "What is ground rent and how are leasehold rules changing? - BBC"
-date: 2026-01-27
+date: 2026-01-28
 description: "What is ground rent and how are leasehold rules changing?&nbsp;&nbsp;BBCRayner urges government to stand firm over £250 ground rents cap&nbsp;&nbsp;The GuardianUK government caps ground rents paid to freeholders&nbsp;&nbsp;Financial TimesOwn a flat or looking to buy? Here’s what the new leasehold shake-up means for you 💸&nbsp;&nbsp;GOV.UK blogsMillions to benefit as minister announces cap on 'scam' ground rents&nbsp;&nbsp;Sky News"
 summary: "What is ground rent and how are leasehold rules changing?&nbsp;&nbsp;BBCRayner urges government to stand firm over £250 ground rents cap&nbsp;&nbsp;The GuardianUK government caps ground rents paid to freeholders&nbsp;&nbsp;Financial TimesOwn a flat or looking to buy? Here’s what the new leasehold shake-up means for you 💸&nbsp;&nbsp;GOV.UK blogsMillions to benefit as minister announces cap on 'scam' ground rents&nbsp;&nbsp;Sky News"
 slug: "what-is-ground-rent-and-how-are-leasehold-rules-changing-bbc"

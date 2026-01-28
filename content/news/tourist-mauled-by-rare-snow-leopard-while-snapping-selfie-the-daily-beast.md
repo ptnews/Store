@@ -1,6 +1,6 @@
 ---
 title: "Tourist Mauled by Rare Snow Leopard While Snapping Selfie - The Daily Beast"
-date: 2026-01-27
+date: 2026-01-28
 description: "Tourist Mauled by Rare Snow Leopard While Snapping Selfie&nbsp;&nbsp;The Daily BeastSnow leopard mauls skier in China’s Xinjiang region&nbsp;&nbsp;CNNSnow leopard mauls tourist who tried to take its photo in China&nbsp;&nbsp;USA TodaySnow Leopard Attacks Ski Tourist, Leaving Her Face Left Covered in Blood: Reports&nbsp;&nbsp;People.comSkier mauled by snow leopard after getting too close for a picture&nbsp;&nbsp;New York Post"
 summary: "Tourist Mauled by Rare Snow Leopard While Snapping Selfie&nbsp;&nbsp;The Daily BeastSnow leopard mauls skier in China’s Xinjiang region&nbsp;&nbsp;CNNSnow leopard mauls tourist who tried to take its photo in China&nbsp;&nbsp;USA TodaySnow Leopard Attacks Ski Tourist, Leaving Her Face Left Covered in Blood: Reports&nbsp;&nbsp;People.comSkier mauled by snow leopard after getting too close for a picture&nbsp;&nbsp;New York Post"
 slug: "tourist-mauled-by-rare-snow-leopard-while-snapping-selfie-the-daily-beast"

@@ -1,6 +1,6 @@
 ---
 title: "TikTok settles just before social media addiction trial to begin"
-date: 2026-01-27
+date: 2026-01-28
 description: "Defendants include Meta, which owns Instagram and Facebook, and YouTube parent Google."
 summary: "Defendants include Meta, which owns Instagram and Facebook, and YouTube parent Google."
 slug: "tiktok-settles-just-before-social-media-addiction-trial-to-begin"

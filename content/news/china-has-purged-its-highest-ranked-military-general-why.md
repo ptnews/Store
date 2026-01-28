@@ -1,6 +1,6 @@
 ---
 title: "China has purged its highest-ranked military general. Why?"
-date: 2026-01-27
+date: 2026-01-28
 description: "Zhang Youxia had been seen as a close ally of China's leader, Xi Jinping."
 summary: "Zhang Youxia had been seen as a close ally of China's leader, Xi Jinping."
 slug: "china-has-purged-its-highest-ranked-military-general-why"

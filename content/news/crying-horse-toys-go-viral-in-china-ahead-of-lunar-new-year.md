@@ -1,6 +1,6 @@
 ---
 title: "'Crying horse' toys go viral in China ahead of Lunar New Year"
-date: 2026-01-27
+date: 2026-01-28
 description: "Shop owners say the frowning toys - originally made in error - are resonating with young workers."
 summary: "Shop owners say the frowning toys - originally made in error - are resonating with young workers."
 slug: "crying-horse-toys-go-viral-in-china-ahead-of-lunar-new-year"

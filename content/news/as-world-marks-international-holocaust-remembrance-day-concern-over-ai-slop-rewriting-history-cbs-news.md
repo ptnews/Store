@@ -1,6 +1,6 @@
 ---
 title: "As world marks International Holocaust Remembrance Day, concern over \"AI slop\" rewriting history - CBS News"
-date: 2026-01-27
+date: 2026-01-28
 description: "As world marks International Holocaust Remembrance Day, concern over \"AI slop\" rewriting history&nbsp;&nbsp;CBS NewsHow AI is rewriting the Holocaust Deepfake videos distort our memory&nbsp;&nbsp;UnHerdThe digital front line: Safeguarding Holocaust memory in the age of AI - opinion&nbsp;&nbsp;jpost.comWhat Kind of Fiction Can Holocaust Memory Bear in the Age of AI?&nbsp;&nbsp;The Times of IsraelClickbait and 'AI slop' distort memory of Holocaust&nbsp;&nbsp;Courthouse News"
 summary: "As world marks International Holocaust Remembrance Day, concern over \"AI slop\" rewriting history&nbsp;&nbsp;CBS NewsHow AI is rewriting the Holocaust Deepfake videos distort our memory&nbsp;&nbsp;UnHerdThe digital front line: Safeguarding Holocaust memory in the age of AI - opinion&nbsp;&nbsp;jpost.comWhat Kind of Fiction Can Holocaust Memory Bear in the Age of AI?&nbsp;&nbsp;The Times of IsraelClickbait and 'AI slop' distort memory of Holocaust&nbsp;&nbsp;Courthouse News"
 slug: "as-world-marks-international-holocaust-remembrance-day-concern-over-ai-slop-rewriting-history-cbs-news"

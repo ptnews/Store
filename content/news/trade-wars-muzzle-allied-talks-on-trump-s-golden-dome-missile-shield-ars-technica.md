@@ -1,6 +1,6 @@
 ---
 title: "Trade wars muzzle allied talks on Trump’s Golden Dome missile shield - Ars Technica"
-date: 2026-01-27
+date: 2026-01-28
 description: "Trade wars muzzle allied talks on Trump’s Golden Dome missile shield&nbsp;&nbsp;Ars TechnicaGolden Dome got $23 billion, but lawmakers still don’t know how it will be spent&nbsp;&nbsp;Federal News NetworkTrump's Golden Dome missile shield marks one year with little progress&nbsp;&nbsp;ReutersWhite House Golden Dome delays ‘frustrating’ to key lawmaker&nbsp;&nbsp;Military TimesGolden Dome Czar Charts Two-Year Plan Focused on Command and Control, Interceptors&nbsp;&nbsp;Air & Space Forces ..."
 summary: "Trade wars muzzle allied talks on Trump’s Golden Dome missile shield&nbsp;&nbsp;Ars TechnicaGolden Dome got $23 billion, but lawmakers still don’t know how it will be spent&nbsp;&nbsp;Federal News NetworkTrump's Golden Dome missile shield marks one year with little progress&nbsp;&nbsp;ReutersWhite House Golden Dome delays ‘frustrating’ to key lawmaker&nbsp;&nbsp;Military TimesGolden Dome Czar Charts Two-Year Plan Focused on Command and Control, Interceptors&nbsp;&nbsp;Air & Space Forces ..."
 slug: "trade-wars-muzzle-allied-talks-on-trump-s-golden-dome-missile-shield-ars-technica"

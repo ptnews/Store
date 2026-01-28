@@ -1,6 +1,6 @@
 ---
 title: "One Battle After Another leads Bafta nominations"
-date: 2026-01-27
+date: 2026-01-28
 description: "The political thriller has 14 nominations, with Sinners, Hamnet and Marty Supreme also recognised."
 summary: "The political thriller has 14 nominations, with Sinners, Hamnet and Marty Supreme also recognised."
 slug: "one-battle-after-another-leads-bafta-nominations"

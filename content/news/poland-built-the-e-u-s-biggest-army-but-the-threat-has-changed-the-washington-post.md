@@ -1,6 +1,6 @@
 ---
 title: "Poland built the E.U.’s biggest army, but the threat has changed - The Washington Post"
-date: 2026-01-27
+date: 2026-01-28
 description: "Poland built the E.U.’s biggest army, but the threat has changed&nbsp;&nbsp;The Washington PostPoland upgrades navy against Russia’s Baltic threat&nbsp;&nbsp;Financial TimesPolish Pentagon: Poland Presents Plans for New Defense Complex&nbsp;&nbsp;МілітарнийPoland became Europe's model for military buildup. Ukraine's war revealed why that might be problem&nbsp;&nbsp;Euromaidan PressPoles more supportive of defense spending hikes than other EU countries&nbsp;&nbsp;TVP World"
 summary: "Poland built the E.U.’s biggest army, but the threat has changed&nbsp;&nbsp;The Washington PostPoland upgrades navy against Russia’s Baltic threat&nbsp;&nbsp;Financial TimesPolish Pentagon: Poland Presents Plans for New Defense Complex&nbsp;&nbsp;МілітарнийPoland became Europe's model for military buildup. Ukraine's war revealed why that might be problem&nbsp;&nbsp;Euromaidan PressPoles more supportive of defense spending hikes than other EU countries&nbsp;&nbsp;TVP World"
 slug: "poland-built-the-e-u-s-biggest-army-but-the-threat-has-changed-the-washington-post"

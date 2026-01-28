@@ -1,6 +1,6 @@
 ---
 title: "India and EU announce 'mother of all trade deals'"
-date: 2026-01-27
+date: 2026-01-28
 description: "The long-awaited deal comes as both Delhi and Brussels contend with economic and geopolitical pressure from the US."
 summary: "The long-awaited deal comes as both Delhi and Brussels contend with economic and geopolitical pressure from the US."
 slug: "india-and-eu-announce-mother-of-all-trade-deals"

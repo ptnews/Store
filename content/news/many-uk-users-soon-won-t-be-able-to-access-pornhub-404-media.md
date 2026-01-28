@@ -1,6 +1,6 @@
 ---
 title: "Many UK Users Soon Won't Be Able to Access Pornhub - 404 Media"
-date: 2026-01-27
+date: 2026-01-28
 description: "Many UK Users Soon Won't Be Able to Access Pornhub&nbsp;&nbsp;404 MediaAylo to shutter adult content sites in the UK, says OSA makes business impossible&nbsp;&nbsp;Biometric Update"
 summary: "Many UK Users Soon Won't Be Able to Access Pornhub&nbsp;&nbsp;404 MediaAylo to shutter adult content sites in the UK, says OSA makes business impossible&nbsp;&nbsp;Biometric Update"
 slug: "many-uk-users-soon-won-t-be-able-to-access-pornhub-404-media"

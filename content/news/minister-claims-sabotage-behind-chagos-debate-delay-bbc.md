@@ -1,6 +1,6 @@
 ---
 title: "Minister claims 'sabotage' behind Chagos debate delay - BBC"
-date: 2026-01-27
+date: 2026-01-28
 description: "Minister claims 'sabotage' behind Chagos debate delay&nbsp;&nbsp;BBCEuropean leaders endure a new level of public embarrassment as Trump dials up the insults&nbsp;&nbsp;CNNAcquire territory, export culture wars: How to make sense of Trump’s ‘new imperialism’&nbsp;&nbsp;France 24Nuclear weapon storage banned at Chagos base&nbsp;&nbsp;The TelegraphUK ratification of the Chagos Archipelago treaty will not violate international law&nbsp;&nbsp;Chatham House"
 summary: "Minister claims 'sabotage' behind Chagos debate delay&nbsp;&nbsp;BBCEuropean leaders endure a new level of public embarrassment as Trump dials up the insults&nbsp;&nbsp;CNNAcquire territory, export culture wars: How to make sense of Trump’s ‘new imperialism’&nbsp;&nbsp;France 24Nuclear weapon storage banned at Chagos base&nbsp;&nbsp;The TelegraphUK ratification of the Chagos Archipelago treaty will not violate international law&nbsp;&nbsp;Chatham House"
 slug: "minister-claims-sabotage-behind-chagos-debate-delay-bbc"

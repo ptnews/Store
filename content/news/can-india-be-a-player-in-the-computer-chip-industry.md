@@ -1,6 +1,6 @@
 ---
 title: "Can India be a player in the computer chip industry?"
-date: 2026-01-27
+date: 2026-01-28
 description: "India is investing hundreds of millions of dollars in building up a computer chip industry."
 summary: "India is investing hundreds of millions of dollars in building up a computer chip industry."
 slug: "can-india-be-a-player-in-the-computer-chip-industry"

@@ -1,6 +1,6 @@
 ---
 title: "Netanyahu Claims progressive-Muslim Plot to 'Destroy the West' at Israeli Government's Antisemitism Conference - Haaretz"
-date: 2026-01-27
+date: 2026-01-28
 description: "Netanyahu Claims progressive-Muslim Plot to 'Destroy the West' at Israeli Government's Antisemitism Conference&nbsp;&nbsp;HaaretzNetanyahu’s government hosts antisemitism conference with European far right&nbsp;&nbsp;Financial TimesWhy Israel’s far-right Europe partnerships are backfiring&nbsp;&nbsp;jpost.comAt Knesset antisemitism event, European lawmakers blame Islamism, policy failures&nbsp;&nbsp;timesofisrael.comIsrael sabotages the fight against antisemitism by embracing Europe's Jew-ha..."
 summary: "Netanyahu Claims progressive-Muslim Plot to 'Destroy the West' at Israeli Government's Antisemitism Conference&nbsp;&nbsp;HaaretzNetanyahu’s government hosts antisemitism conference with European far right&nbsp;&nbsp;Financial TimesWhy Israel’s far-right Europe partnerships are backfiring&nbsp;&nbsp;jpost.comAt Knesset antisemitism event, European lawmakers blame Islamism, policy failures&nbsp;&nbsp;timesofisrael.comIsrael sabotages the fight against antisemitism by embracing Europe's Jew-ha..."
 slug: "netanyahu-claims-progressive-muslim-plot-to-destroy-the-west-at-israeli-government-s-antisemitism-conference-haaretz"

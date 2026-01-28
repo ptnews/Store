@@ -1,6 +1,6 @@
 ---
 title: "Brazil's Lula holds call with Trump, agrees to visit Washington - Reuters"
-date: 2026-01-27
+date: 2026-01-28
 description: "Brazil's Lula holds call with Trump, agrees to visit Washington&nbsp;&nbsp;ReutersLula, Trump discuss ‘Board of Peace’, agree to meet in Washington: Brazil&nbsp;&nbsp;Al JazeeraBrazil’s Lula agrees to US visit following call with Trump&nbsp;&nbsp;SemaforLula, Macron push for stronger UN to face Trump 'Board of Peace'&nbsp;&nbsp;news-shield.comBrazil Leader Urged Trump by Phone to Limit Peace Board to Gaza&nbsp;&nbsp;Bloomberg"
 summary: "Brazil's Lula holds call with Trump, agrees to visit Washington&nbsp;&nbsp;ReutersLula, Trump discuss ‘Board of Peace’, agree to meet in Washington: Brazil&nbsp;&nbsp;Al JazeeraBrazil’s Lula agrees to US visit following call with Trump&nbsp;&nbsp;SemaforLula, Macron push for stronger UN to face Trump 'Board of Peace'&nbsp;&nbsp;news-shield.comBrazil Leader Urged Trump by Phone to Limit Peace Board to Gaza&nbsp;&nbsp;Bloomberg"
 slug: "brazil-s-lula-holds-call-with-trump-agrees-to-visit-washington-reuters"

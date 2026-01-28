@@ -1,6 +1,6 @@
 ---
 title: "How Holocaust Denial Became Mainstream - The Free Press"
-date: 2026-01-27
+date: 2026-01-28
 description: "How Holocaust Denial Became Mainstream&nbsp;&nbsp;The Free PressOn Holocaust Remembrance Day, warning signs of our contemporary society crumbling&nbsp;&nbsp;The ForwardOPINION: Never Again! – But What Do We See Now?&nbsp;&nbsp;kyivpost.comJack Jedwab: Reducing the Holocaust to yet another story of colonialism distorts history&nbsp;&nbsp;National PostOn International Holocaust Remembrance Day, ‘Never Again’ is being tested&nbsp;&nbsp;The Hill"
 summary: "How Holocaust Denial Became Mainstream&nbsp;&nbsp;The Free PressOn Holocaust Remembrance Day, warning signs of our contemporary society crumbling&nbsp;&nbsp;The ForwardOPINION: Never Again! – But What Do We See Now?&nbsp;&nbsp;kyivpost.comJack Jedwab: Reducing the Holocaust to yet another story of colonialism distorts history&nbsp;&nbsp;National PostOn International Holocaust Remembrance Day, ‘Never Again’ is being tested&nbsp;&nbsp;The Hill"
 slug: "how-holocaust-denial-became-mainstream-the-free-press"

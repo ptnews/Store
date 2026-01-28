@@ -1,6 +1,6 @@
 ---
 title: "‘The land will be left as ashes’: why Patagonia’s wildfires are almost impossible to stop - The Guardian"
-date: 2026-01-27
+date: 2026-01-28
 description: "‘The land will be left as ashes’: why Patagonia’s wildfires are almost impossible to stop&nbsp;&nbsp;The GuardianExtreme weather hampers fight against wildfires in Patagonia&nbsp;&nbsp;Buenos Aires TimesFires in Chubut: with three new outbreaks, the fire continues out of control and has already devastated nearly 35,000 hectares in the province&nbsp;&nbsp;Noticias AmbientalesWildfires continue to rage in southern Argentina&nbsp;&nbsp;Argentina ReportsWildfires in Argentina’s Patagonia rei..."
 summary: "‘The land will be left as ashes’: why Patagonia’s wildfires are almost impossible to stop&nbsp;&nbsp;The GuardianExtreme weather hampers fight against wildfires in Patagonia&nbsp;&nbsp;Buenos Aires TimesFires in Chubut: with three new outbreaks, the fire continues out of control and has already devastated nearly 35,000 hectares in the province&nbsp;&nbsp;Noticias AmbientalesWildfires continue to rage in southern Argentina&nbsp;&nbsp;Argentina ReportsWildfires in Argentina’s Patagonia rei..."
 slug: "the-land-will-be-left-as-ashes-why-patagonia-s-wildfires-are-almost-impossible-to-stop-the-guardian"

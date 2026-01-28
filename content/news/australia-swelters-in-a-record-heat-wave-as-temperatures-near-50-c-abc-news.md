@@ -1,6 +1,6 @@
 ---
 title: "Australia swelters in a record heat wave as temperatures near 50 C - ABC News"
-date: 2026-01-27
+date: 2026-01-28
 description: "Australia swelters in a record heat wave as temperatures near 50 C&nbsp;&nbsp;ABC NewsFirefighters battle 'emergency level' blazes in Australia heatwave&nbsp;&nbsp;BBCWhat happens to the human body in 49C heat? Australians are finding out&nbsp;&nbsp;The GuardianAustralian heatwave fans bushfires, towns evacuated, Melbourne endures hottest day in 17 years&nbsp;&nbsp;ReutersEmergency warnings for Victorian fires, as heatwave sends temperatures soaring — as it happened&nbsp;&nbsp;Australian Broad..."
 summary: "Australia swelters in a record heat wave as temperatures near 50 C&nbsp;&nbsp;ABC NewsFirefighters battle 'emergency level' blazes in Australia heatwave&nbsp;&nbsp;BBCWhat happens to the human body in 49C heat? Australians are finding out&nbsp;&nbsp;The GuardianAustralian heatwave fans bushfires, towns evacuated, Melbourne endures hottest day in 17 years&nbsp;&nbsp;ReutersEmergency warnings for Victorian fires, as heatwave sends temperatures soaring — as it happened&nbsp;&nbsp;Australian Broad..."
 slug: "australia-swelters-in-a-record-heat-wave-as-temperatures-near-50-c-abc-news"

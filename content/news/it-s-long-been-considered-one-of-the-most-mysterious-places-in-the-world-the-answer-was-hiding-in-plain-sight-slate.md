@@ -1,6 +1,6 @@
 ---
 title: "It’s Long Been Considered One of the Most Mysterious Places in the World. The Answer Was Hiding in Plain Sight. - Slate"
-date: 2026-01-27
+date: 2026-01-28
 description: "It’s Long Been Considered One of the Most Mysterious Places in the World. The Answer Was Hiding in Plain Sight.&nbsp;&nbsp;SlateBook Review: ‘Island at the Edge of the World,’ by Mike Pitts&nbsp;&nbsp;The New York TimesEaster Island and the Allure of “Lost Civilizations”&nbsp;&nbsp;The New YorkerIsland at the Edge of the World: The Forgotten History of Easter Island&nbsp;&nbsp;Book MarksHow did Easter Island statues travel across the island? Bing­hamton professor seeks answers&nbsp;&n..."
 summary: "It’s Long Been Considered One of the Most Mysterious Places in the World. The Answer Was Hiding in Plain Sight.&nbsp;&nbsp;SlateBook Review: ‘Island at the Edge of the World,’ by Mike Pitts&nbsp;&nbsp;The New York TimesEaster Island and the Allure of “Lost Civilizations”&nbsp;&nbsp;The New YorkerIsland at the Edge of the World: The Forgotten History of Easter Island&nbsp;&nbsp;Book MarksHow did Easter Island statues travel across the island? Bing­hamton professor seeks answers&nbsp;&n..."
 slug: "it-s-long-been-considered-one-of-the-most-mysterious-places-in-the-world-the-answer-was-hiding-in-plain-sight-slate"

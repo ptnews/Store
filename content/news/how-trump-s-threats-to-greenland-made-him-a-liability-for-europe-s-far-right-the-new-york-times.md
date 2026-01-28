@@ -1,6 +1,6 @@
 ---
 title: "How Trump’s Threats to Greenland Made Him a Liability for Europe’s Far Right - The New York Times"
-date: 2026-01-27
+date: 2026-01-28
 description: "How Trump’s Threats to Greenland Made Him a Liability for Europe’s Far Right&nbsp;&nbsp;The New York Times'The damage has been done': As Trump claims victory on Greenland, Europe loses trust&nbsp;&nbsp;NBC NewsThe Stillbirth of the Nationalist International&nbsp;&nbsp;The American ProspectTrump’s Greenland Fiasco&nbsp;&nbsp;The New YorkerNews Analysis: A playbook emerges to counter Trump as ‘middle powers’ unite&nbsp;&nbsp;latimes.com"
 summary: "How Trump’s Threats to Greenland Made Him a Liability for Europe’s Far Right&nbsp;&nbsp;The New York Times'The damage has been done': As Trump claims victory on Greenland, Europe loses trust&nbsp;&nbsp;NBC NewsThe Stillbirth of the Nationalist International&nbsp;&nbsp;The American ProspectTrump’s Greenland Fiasco&nbsp;&nbsp;The New YorkerNews Analysis: A playbook emerges to counter Trump as ‘middle powers’ unite&nbsp;&nbsp;latimes.com"
 slug: "how-trump-s-threats-to-greenland-made-him-a-liability-for-europe-s-far-right-the-new-york-times"

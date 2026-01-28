@@ -1,6 +1,6 @@
 ---
 title: "Japan court orders compensation for migrants lured to North Korea"
-date: 2026-01-27
+date: 2026-01-28
 description: "The plaintiffs said North Korea was marketed to them as \"paradise on Earth\". "
 summary: "The plaintiffs said North Korea was marketed to them as \"paradise on Earth\". "
 slug: "japan-court-orders-compensation-for-migrants-lured-to-north-korea"

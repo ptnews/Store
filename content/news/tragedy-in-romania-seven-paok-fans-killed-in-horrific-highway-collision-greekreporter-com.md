@@ -1,6 +1,6 @@
 ---
 title: "Tragedy in Romania: Seven PAOK Fans Killed in Horrific Highway Collision - GreekReporter.com"
-date: 2026-01-27
+date: 2026-01-28
 description: "Tragedy in Romania: Seven PAOK Fans Killed in Horrific Highway Collision&nbsp;&nbsp;GreekReporter.com7 PAOK fans killed in bus crash en route to Europa League game&nbsp;&nbsp;ESPNSporting world in mourning following Romanian tragedy&nbsp;&nbsp;ekathimerini.comSeven football fans killed in head-on crash en route to Europa League match&nbsp;&nbsp;The US SunGreek Diplomatic Team Assists Victims After Romania Tragedy&nbsp;&nbsp;greekcitytimes.com"
 summary: "Tragedy in Romania: Seven PAOK Fans Killed in Horrific Highway Collision&nbsp;&nbsp;GreekReporter.com7 PAOK fans killed in bus crash en route to Europa League game&nbsp;&nbsp;ESPNSporting world in mourning following Romanian tragedy&nbsp;&nbsp;ekathimerini.comSeven football fans killed in head-on crash en route to Europa League match&nbsp;&nbsp;The US SunGreek Diplomatic Team Assists Victims After Romania Tragedy&nbsp;&nbsp;greekcitytimes.com"
 slug: "tragedy-in-romania-seven-paok-fans-killed-in-horrific-highway-collision-greekreporter-com"

@@ -1,6 +1,6 @@
 ---
 title: "Iran detaining protesters being treated in hospitals as part of crackdown, says UN expert - Reuters"
-date: 2026-01-27
+date: 2026-01-28
 description: "Iran detaining protesters being treated in hospitals as part of crackdown, says UN expert&nbsp;&nbsp;Reuters‘Pools of blood, hundreds of gunshots’: I am a surgeon in Iran - this is the horror I’ve witnessed in the crackdown&nbsp;&nbsp;The GuardianRansom for the Dead: How the Ayatollahs Are Profiting from Their Own Kil&nbsp;&nbsp;jfeed.comIran Rejects Claims of Denied Healthcare for Detainees&nbsp;&nbsp;WANA News AgencyIran arrests Dr. Alireza Golchini for treating injured protesters, charg..."
 summary: "Iran detaining protesters being treated in hospitals as part of crackdown, says UN expert&nbsp;&nbsp;Reuters‘Pools of blood, hundreds of gunshots’: I am a surgeon in Iran - this is the horror I’ve witnessed in the crackdown&nbsp;&nbsp;The GuardianRansom for the Dead: How the Ayatollahs Are Profiting from Their Own Kil&nbsp;&nbsp;jfeed.comIran Rejects Claims of Denied Healthcare for Detainees&nbsp;&nbsp;WANA News AgencyIran arrests Dr. Alireza Golchini for treating injured protesters, charg..."
 slug: "iran-detaining-protesters-being-treated-in-hospitals-as-part-of-crackdown-says-un-expert-reuters"
