@@ -540,6 +540,15 @@
     "title": "EU Parliament delays decision to unfreeze US trade deal - politico.eu"
   },
   {
+    "description": "Border Czar Tom Homan met with Minnesota Gov. Tim Walz and Minneapolis Mayor Jacob Frey after President Trump\u0026apos;s reshuffling of federal immigration leadership in the state.",
+    "image": "",
+    "link": "https://www.foxnews.com/politics/border-czar-homan-meets-minnesota-officials-following-immigration-operation-tensions",
+    "pubDate": "2026-01-27",
+    "slug": "border-czar-homan-meets-with-minnesota-officials-following-immigration-operation-tensions",
+    "source": "https://feeds.foxnews.com/foxnews/latest",
+    "title": "Border czar Homan meets with Minnesota officials following immigration operation tensions"
+  },
+  {
     "description": "President Trump received a heartfelt prayer for \u0026quot;wisdom and protection\u0026quot; during an Iowa restaurant stop ahead of his midterm campaign launch on Tuesday.",
     "image": "",
     "link": "https://www.foxnews.com/politics/iowa-man-stops-trump-restaurant-unexpected-request-before-speech",
@@ -754,15 +763,6 @@
     "slug": "west-virginia-man-allegedly-threatened-to-kill-trump-supporters-ice-agents-in-online-videos-report",
     "source": "https://feeds.foxnews.com/foxnews/latest",
     "title": "West Virginia man allegedly threatened to kill Trump supporters, ICE agents in online videos: report"
-  },
-  {
-    "description": "Judge Patrick Schiltz\u0026apos;s donations to immigrant advocacy group revealed as Department of Justice faces setbacks in Minnesota federal court over ICE detention orders.",
-    "image": "",
-    "link": "https://www.foxnews.com/politics/federal-judge-threatening-ice-director-contempt-once-supported-group-helping-illegal-immigrants",
-    "pubDate": "2026-01-27",
-    "slug": "federal-judge-threatening-ice-director-with-contempt-donated-to-group-helping-illegal-immigrants",
-    "source": "https://feeds.foxnews.com/foxnews/latest",
-    "title": "Federal judge threatening ICE director with contempt donated to group helping illegal immigrants"
   },
   {
     "description": "Ted Cruz responds to reports describing rapidly deteriorating situation as Iran-backed militias threaten \u0026apos;total war\u0026apos; against America. He called for the U.S. to arm Iranian protesters.",
@@ -1188,7 +1188,7 @@
     "title": "Nipah virus outbreak in India triggers Asia airport screenings"
   },
   {
-    "description": "The wife of disgraced former president Yoon Suk Yeol is facing court on a raft of her own charges.",
+    "description": "Kim Keon Hee, wife of disgraced former president Yoon Suk Yeol, is facing court on a raft of charges.",
     "image": "",
     "link": "https://www.bbc.com/news/articles/cj3vpe8zme8o?at_medium=RSS\u0026at_campaign=rss",
     "pubDate": "2026-01-28",
@@ -1350,13 +1350,22 @@
     "title": "Analysing the Minneapolis shooting frame by frame"
   },
   {
-    "description": "Trump attempts to shift focus to bread-and-butter issues amid outrage over two fatal shootings by federal agents. ",
+    "description": "Package-delivery giant targets savings of $3bn in 2026 amid push to slash deliveries for Amazon.",
+    "image": "",
+    "link": "https://www.aljazeera.com/economy/2026/1/28/ups-says-it-will-shed-30000-jobs-in-major-cost-cutting-drive?traffic_source=rss",
+    "pubDate": "2026-01-28",
+    "slug": "ups-says-it-will-shed-30-000-jobs-in-major-cost-cutting-drive",
+    "source": "https://aljazeera.com/xml/rss/all.xml",
+    "title": "UPS says it will shed 30,000 jobs in major cost-cutting drive"
+  },
+  {
+    "description": "Trump attempts to shift focus to bread-and-butter issues amid outcry over two fatal shootings by federal agents. ",
     "image": "",
     "link": "https://www.aljazeera.com/economy/2026/1/28/trump-talks-up-strength-of-us-economy-in-advance-of-midterm-elections?traffic_source=rss",
     "pubDate": "2026-01-28",
-    "slug": "president-talks-up-strength-of-us-economy-in-advance-of-midterm-elections",
+    "slug": "president-talks-up-us-economy-amid-outrage-over-minnesota-killings",
     "source": "https://aljazeera.com/xml/rss/all.xml",
-    "title": "President talks up strength of US economy in advance of midterm elections"
+    "title": "President talks up US economy amid outrage over Minnesota killings"
   },
   {
     "description": "Al-Sharaa is due in Moscow on Wednesday to meet with Russian President Vladimir Putin.",
@@ -1564,14 +1573,5 @@
     "slug": "meet-hamza-al-rubaie-one-of-gaza-s-17-000-orphaned-children",
     "source": "https://aljazeera.com/xml/rss/all.xml",
     "title": "Meet Hamza Al-Rubaie, one of Gaza’s 17,000 orphaned children"
-  },
-  {
-    "description": "Major agreement reached after 20 years of negotiations and during ongoing tensions with the US.",
-    "image": "",
-    "link": "https://www.aljazeera.com/economy/2026/1/27/mother-of-all-deals-how-india-eu-trade-deal-creates-27-trillion-market?traffic_source=rss",
-    "pubDate": "2026-01-27",
-    "slug": "mother-of-all-deals-how-india-eu-trade-deal-creates-27-trillion-market",
-    "source": "https://aljazeera.com/xml/rss/all.xml",
-    "title": "‘Mother of all deals’: How India-EU trade deal creates $27 trillion market"
   }
 ]
