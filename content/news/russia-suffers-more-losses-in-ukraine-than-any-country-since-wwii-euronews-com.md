@@ -1,0 +1,21 @@
+---
+title: "Russia suffers more losses in Ukraine than any country since WWII - Euronews.com"
+date: 2026-01-28
+description: "Russia suffers more losses in Ukraine than any country since WWII&nbsp;&nbsp;Euronews.comRussia’s 1.2 million casualties in Ukraine dwarf all its conflicts since World War II, report says&nbsp;&nbsp;CNNA new report warns that combined war casualties in Russia's war on Ukraine could soon hit 2 million&nbsp;&nbsp;ABC NewsRussian and Ukrainian military casualties in war nearing 2m, study finds&nbsp;&nbsp;The GuardianTroop Casualties in Ukraine War Near 2 Million, Study Finds&nbsp;&nbsp;The New Yo..."
+summary: "Russia suffers more losses in Ukraine than any country since WWII&nbsp;&nbsp;Euronews.comRussia’s 1.2 million casualties in Ukraine dwarf all its conflicts since World War II, report says&nbsp;&nbsp;CNNA new report warns that combined war casualties in Russia's war on Ukraine could soon hit 2 million&nbsp;&nbsp;ABC NewsRussian and Ukrainian military casualties in war nearing 2m, study finds&nbsp;&nbsp;The GuardianTroop Casualties in Ukraine War Near 2 Million, Study Finds&nbsp;&nbsp;The New Yo..."
+slug: "russia-suffers-more-losses-in-ukraine-than-any-country-since-wwii-euronews-com"
+image: ''
+link: 'https://news.google.com/rss/articles/CBMixAFBVV95cUxOZE84UWxCU0Yyc2VwWE9tRXZIYmdqQURncTl6T0cwV0l4eGZSeE5JM3RfWGVnYUdyWVlTOUNNemxVUjlXa25relp4X3FnVUVodU1XWHpnbnBxTnZmbmRlQjZqQW04YTdCdUFpTzQya0pyUkZqM2x1bFRDNllBQzAySlg2TlRRbU5kel90LWxPMFR2Ql81a01TSjY3V1RBSlRpR2JEVGcwN29NZWZrTEY0QjgtczlsTl9vbjNwMGlOSkVfS25K?oc=5'
+source: 'https://news.google.com/rss/topics/CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx1YlY4U0FtVnVHZ0pWVXlnQVAB?hl=en-US&gl=US&ceid=US:en'
+categories:
+- 'news.google.com'
+tags:
+- 'euronews'
+- 'suffers'
+- 'ukraine'
+- 'country'
+- 'russia'
+
+draft: false
+---
+<ol><li><a href="https://news.google.com/rss/articles/CBMixAFBVV95cUxOZE84UWxCU0Yyc2VwWE9tRXZIYmdqQURncTl6T0cwV0l4eGZSeE5JM3RfWGVnYUdyWVlTOUNNemxVUjlXa25relp4X3FnVUVodU1XWHpnbnBxTnZmbmRlQjZqQW04YTdCdUFpTzQya0pyUkZqM2x1bFRDNllBQzAySlg2TlRRbU5kel90LWxPMFR2Ql81a01TSjY3V1RBSlRpR2JEVGcwN29NZWZrTEY0QjgtczlsTl9vbjNwMGlOSkVfS25K?oc=5" target="_blank">Russia suffers more losses in Ukraine than any country since WWII</a>&nbsp;&nbsp;<font color="#6f6f6f">Euronews.com</font></li><li><a href="https://news.google.com/rss/articles/CBMikAFBVV95cUxQTy1CQUpSelQ1aWFIeXcyWDRZWjFEa1BwcWJGTWdwLVBPbDFmMGRVWktENVNPWm5kNVJBdDBNM2VGZlpUTkNVQ0NhY3pvU09BSEYxeEJnTU1pWWNHUlNLTjFXci1KcDNDZG03TFRwREZkLUFMVUVPM1hKSC02T05HM2FvT1pwZWNaUlMyMUFEMlY?oc=5" target="_blank">Russia’s 1.2 million casualties in Ukraine dwarf all its conflicts since World War II, report says</a>&nbsp;&nbsp;<font color="#6f6f6f">CNN</font></li><li><a href="https://news.google.com/rss/articles/CBMirgFBVV95cUxPRVV2RHpIaW5GVnF3c21lSFkyYnh4NlVvWGV6N3BaTUVfaS1ZTktoZXRxeUtWQzdYZmZETzAwNnRNVU1qUHpRaFRkOVFXbXhyMXhaSklTTFkxaTR4LTQ2WFdrMy1QcXNqSlJKZnpNam5wX0dGb29QMXlZY3hhdnF5Z1lsbmloRUg5ejZCVkFUT0JFM09xSzhyeFNaLXB1MDlPSmg0Tkx4T295aTFibXfSAbMBQVVfeXFMT2lTRzZvaXRvS2RhM1k1MTVqbmp3cWpyZUJpMDNHMUZFbi1KRHVkLXZkaEVhaGxCU2JRamZ6d0R0cTA0Q1ZoTEV5WGlnaXk0V21GNWhtZGMtNzFxYklXZ2hPUW5veGtzdElZTzRtaUJXQ1ozckRZbjdlWnUtOVFGc1lqcVJ5SDB6UFBSRl8wemNTal80MnctU0F0dW1pWFdYX3AyeElhS1dNSDRud0pVdDhCclE?oc=5" target="_blank">A new report warns that combined war casualties in Russia's war on Ukraine could soon hit 2 million</a>&nbsp;&nbsp;<font color="#6f6f6f">ABC News</font></li><li><a href="https://news.google.com/rss/articles/CBMilAFBVV95cUxPYUtSQWxmT2hHaUZCeWExT0dCSThnX0Ryc0ZHWnNEYWpIT0xwVVBLcHVMSUY2ZjI4NnVod253TTZZYXJHYWlOZnFldVpWNlVjbThZZlJMUkxSUVk5dW9uckY3R1NoXy10NlpCZjAyQUJ5YUZLSFZKS0V6ZkY2czBhTFFXa2g4bi1XM1B6YkxkU18wX0M1?oc=5" target="_blank">Russian and Ukrainian military casualties in war nearing 2m, study finds</a>&nbsp;&nbsp;<font color="#6f6f6f">The Guardian</font></li><li><a href="https://news.google.com/rss/articles/CBMigwFBVV95cUxOQkd2SHJtVWN3OUdUb0Z6MGZ2aVhDM3JYV2ZicTFLenFYUXZYSDNOLWFHamxHMzgxcGRfT0w3cjJLMlJjU2p2NS1NYjRob1RvX080a1J3NlNmZTZEVUdEcWFoSmo2UVBLRDZYNU03SWstU1ppb1BubUZzcmMzTDBBdlB1NA?oc=5" target="_blank">Troop Casualties in Ukraine War Near 2 Million, Study Finds</a>&nbsp;&nbsp;<font color="#6f6f6f">The New York Times</font></li></ol>
