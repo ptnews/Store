@@ -1,0 +1,21 @@
+---
+title: "Turkey plans buffer zone if Iran government falls - middleeasteye.net"
+date: 2026-01-28
+description: "Turkey plans buffer zone if Iran government falls&nbsp;&nbsp;middleeasteye.netTurkey urges US to resolve Iran disputes one by one, says Iran ready for nuclear talks&nbsp;&nbsp;ReutersTop Turkish diplomat says Iran ready to negotiate, warns against US attack&nbsp;&nbsp;Al JazeeraTurkey plans buffer zone inside Iran if regime falls – report&nbsp;&nbsp;timesofisrael.comTürkiye to intensify anti-terror fight in 2026, MGK says | Daily Sabah&nbsp;&nbsp;dailysabah.com"
+summary: "Turkey plans buffer zone if Iran government falls&nbsp;&nbsp;middleeasteye.netTurkey urges US to resolve Iran disputes one by one, says Iran ready for nuclear talks&nbsp;&nbsp;ReutersTop Turkish diplomat says Iran ready to negotiate, warns against US attack&nbsp;&nbsp;Al JazeeraTurkey plans buffer zone inside Iran if regime falls – report&nbsp;&nbsp;timesofisrael.comTürkiye to intensify anti-terror fight in 2026, MGK says | Daily Sabah&nbsp;&nbsp;dailysabah.com"
+slug: "turkey-plans-buffer-zone-if-iran-government-falls-middleeasteye-net"
+image: ''
+link: 'https://news.google.com/rss/articles/CBMiiwFBVV95cUxOMkxVVTNMSDVUdmYzV3ZYV0piRUEzbG1LRjU1a1pVdFpxZ0V0M1RoWkpESURWeGc1SkJoQ1M3aEZNRFhoSFYtMmo4b1lPRVhhZVFoNi1YZWpmMzgxQTdWRUpFVEJFN0NWeXVJemkyWUpBUXlZQWhyUUQ4VExwa2NuZmE0bXdRdk5VZ0Jv?oc=5'
+source: 'https://news.google.com/rss/topics/CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx1YlY4U0FtVnVHZ0pWVXlnQVAB?hl=en-US&gl=US&ceid=US:en'
+categories:
+- 'news.google.com'
+tags:
+- 'middleeasteye'
+- 'government'
+- 'turkey'
+- 'buffer'
+- 'plans'
+
+draft: false
+---
+<ol><li><a href="https://news.google.com/rss/articles/CBMiiwFBVV95cUxOMkxVVTNMSDVUdmYzV3ZYV0piRUEzbG1LRjU1a1pVdFpxZ0V0M1RoWkpESURWeGc1SkJoQ1M3aEZNRFhoSFYtMmo4b1lPRVhhZVFoNi1YZWpmMzgxQTdWRUpFVEJFN0NWeXVJemkyWUpBUXlZQWhyUUQ4VExwa2NuZmE0bXdRdk5VZ0Jv?oc=5" target="_blank">Turkey plans buffer zone if Iran government falls</a>&nbsp;&nbsp;<font color="#6f6f6f">middleeasteye.net</font></li><li><a href="https://news.google.com/rss/articles/CBMizAFBVV95cUxPZGk0NlhSSHJsYVlSV3FTQkloMW01QWxTSDRrSWpSaV9hSzJLbnlaa0RaM1lqUkdGek5ENmoybjAtaE1GU2lQV1pvS21iQ0NhRHBESmNUX3NMUFh1MnlZNElBUlVERWJVYThJVDB2QlJmYWcxbzRhNTBiTWQ1X0h4b182TTZWZkhQRFhwazNZNERDb2MxVkpveTJtSDlNR1dXWVVsbmxCaDd2OWdkdUFPWFBmMlBtUS1ORlRVM3c3MjZRTTRjWF95cjA2QTM?oc=5" target="_blank">Turkey urges US to resolve Iran disputes one by one, says Iran ready for nuclear talks</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font></li><li><a href="https://news.google.com/rss/articles/CBMisAFBVV95cUxOSDZ2M1pZczRXcGpzclpZNk1ubHlKUUREZmFXV090TGd2a19uX1c4dlMya0Q3bUFKaGhyeFNhRnlQZ0l3dUJnQVZuN05rNjRXWXZSalZoOTZZWlhYZHhVRWRNNmc2WWxXYUtOU2NuRGxhZ1dzbDdWQ3VjdG01MnJhbXZIaXZ0UHJYUGQtQ2FmMlZiaGd4clNPMTNrcU9GV0pvdWRpQVNIN2ptSHRzbFFSctIBtgFBVV95cUxNMnF6bGxKai1ab2hNOFFnSlZMS2p3N2NSOVBSZWxuN2lTOEJ3QW1yNjNNc0hmbGhDeFBGNm9PazZkc3FFbHdQeGNsYXlDU2EweUhUQkY5UXc4TWIxZ3pFZzFvRzI5MDIzNURCbDYxaVhUVkIyRGFLTlVGUF94bDhranNHWXpQTzZONUp3dWlLZ09PRlFscWl5UG9ER3pKOU4xZm11WEI3WGZ3dk94bDMwZ1JWNV9XZw?oc=5" target="_blank">Top Turkish diplomat says Iran ready to negotiate, warns against US attack</a>&nbsp;&nbsp;<font color="#6f6f6f">Al Jazeera</font></li><li><a href="https://news.google.com/rss/articles/CBMiqAFBVV95cUxONW1SNkRmV0prS0NYOGhEUEMzT19DMTQ4VjlYY3dvZnFUUWU0NndtRXZpdXZaOTF4MzJMZlphUzFVb3htVzJaS2JRX0RIbkh3UGZpZXdBd1ctVEtrSEprNGRSVVUyWDZnTVRaQUstR2ZkaUtBU3RBYzJYb1R0TjlxTkRwTWFfd25OTU9ZSXhVV1RueGh0OUVIYWR3cUw2Z3l2YUpKdzRVNnQ?oc=5" target="_blank">Turkey plans buffer zone inside Iran if regime falls – report</a>&nbsp;&nbsp;<font color="#6f6f6f">timesofisrael.com</font></li><li><a href="https://news.google.com/rss/articles/CBMiqAFBVV95cUxPYUdzTUlHQlV2YS1hekpnVlJpS2dyRmZXZDNZZkl0UDVJRXhZT21lX0tDSHNzTlQ3SkpTaGRhSlpTTHpieVVxZVVESHVXc0tfQWRlaXpYbFJPXy00UVVuTUZqZ1FXeGhtdzROODAtTkVkSzYycTEybDduRlJtSkRxMTIzaXZMbmZFNnp3TVNXWWZYNWtpZnAzNkN5N2Q2Y1JfazdrMXZ2T1_SAa4BQVVfeXFMTjR6VEZ4dXU3V0tmbnNNSVo0YkVrZkdac3gtY2U0OW9TQ3RhaXc2WmlGcmRqcDF3NXRUbG9xUVk4SmtueHI0eFRDRXZyeHhsMWtFY2I1MjJJUUtQVWFYcDZLSklGVExNMkVjcTBtczYtbU00VVFXWFgzcXR2V3pxamRjVG5qajJubldVUmo2X2JRS2lxeldRVjQtb09oM0daRzcxcUlUME5vUEkxeXJ3?oc=5" target="_blank">Türkiye to intensify anti-terror fight in 2026, MGK says | Daily Sabah</a>&nbsp;&nbsp;<font color="#6f6f6f">dailysabah.com</font></li></ol>
